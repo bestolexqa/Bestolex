@@ -236,7 +236,7 @@ useSeoMeta({
     : 'engineering blog Qatar, hydraulic maintenance articles, security bollards comparison, dock leveler guides, waste recycling Doha',
   ogTitle: isAr.value ? 'المدونة الهندسية والتقنية | بيستوليكس قطر' : 'Engineering Blog | Bestolex Qatar',
   ogDescription: isAr.value ? 'مقالات وأدلة فنية متخصصة تهم مديري المشاريع والمصانع في دولة قطر.' : 'Specialized technical guides for plant and project managers in Qatar.',
-  ogImage: '/images/hero/hero-bg.jpg'
+  ogImage: 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg'
 })
 
 useHead({

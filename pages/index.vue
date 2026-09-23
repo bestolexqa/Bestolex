@@ -18,7 +18,7 @@
       </div>
       <div class="relative z-10 text-center px-4" data-aos="fade-up">
         <div class="flex justify-center mb-8">
-          <NuxtImg src="/logo.png" alt="Bestolex Logo" class="h-20 md:h-32 object-contain drop-shadow-xl filter brightness-0 invert" format="webp" loading="eager" />
+          <NuxtImg src="/logo-dark-transparent.png" alt="Bestolex Logo" class="h-20 md:h-32 object-contain drop-shadow-2xl" format="webp" loading="eager" />
         </div>
         <h1 class="text-xl md:text-3xl font-medium mb-8 text-gray-100 drop-shadow-md">
           {{ locale === 'ar' ? 'الخيار الأول لتجارة الآلات والمعدات الثقيلة والنظم الهيدروليكية المتقدمة' : 'YOUR PREMIER PARTNER FOR HEAVY MACHINERY & ADVANCED HYDRAULIC SYSTEMS' }}
@@ -237,26 +237,8 @@
       </div>
     </section>
 
-    <!-- Why Choose Us -->
-    <section class="py-24 relative bg-gray-900 overflow-hidden text-white">
-      <div class="absolute inset-0 opacity-20" style="background-image: url('https://sabtech.com.sa/wp-content/uploads/2021/04/Hydraulic-Bollard-3.jpg'); background-size: cover; background-position: center; background-attachment: fixed;"></div>
-      <div class="container mx-auto px-4 relative z-10">
-        <h2 class="text-3xl md:text-5xl font-bold text-center mb-6 drop-shadow-lg" data-aos="fade-up">
-          <span class="text-primary">{{ locale === 'ar' ? 'لماذا نختار ' : 'Why Choose ' }}</span>بيستوليكس
-        </h2>
-        <p class="text-center text-gray-300 max-w-3xl mx-auto mb-16 text-lg drop-shadow-md" data-aos="fade-up" data-aos-delay="100">
-          {{ locale === 'ar' ? 'يستفيد العملاء عند اختيار بيستوليكس حيث يمكنهم الوصول إلى المزايا والاختيارات الموضحة أدناه، حيث أننا نسعى جاهدين لتقديم منتجات عالية الجودة وموثوقة.' : 'Customers benefit when choosing Bestolex as they can access the advantages and choices shown below.' }}
-        </p>
-        <div class="grid grid-cols-2 md:grid-cols-3 gap-y-12 gap-x-8 max-w-4xl mx-auto text-center">
-          <div v-for="(feat, idx) in features" :key="idx" class="flex flex-col items-center group" :data-aos="'zoom-in'" :data-aos-delay="idx * 100">
-            <div class="w-20 h-20 bg-primary/20 rounded-full flex items-center justify-center mb-4 border-2 border-primary group-hover:bg-primary transition-colors duration-300 shadow-[0_0_15px_rgba(233,158,21,0.5)] group-hover:shadow-[0_0_30px_rgba(233,158,21,0.8)]">
-              <span class="text-4xl filter grayscale contrast-200 group-hover:filter-none transition-all">{{ feat.icon }}</span>
-            </div>
-            <h4 class="font-bold text-lg drop-shadow-md">{{ feat.title }}</h4>
-          </div>
-        </div>
-      </div>
-    </section>
+    <!-- Why Choose Us Section -->
+    <WhyChooseUs />
 
     <!-- Articles / Blog Section -->
     <section class="py-24 bg-gray-50 dark:bg-gray-900 border-t border-gray-100 dark:border-gray-800 transition-colors">
@@ -377,7 +359,7 @@ useSeoMeta({
     : 'hydraulic systems Qatar, dock levelers Doha, security bollards Qatar, tyre killers Doha, waste balers Qatar, industrial doors, hydraulic maintenance Qatar, Bestolex Trading',
   ogTitle: isAr.value ? 'بيستوليكس | الحلول الهندسية والصناعية المتكاملة - قطر' : 'Bestolex | Integrated Engineering & Industrial Solutions - Qatar',
   ogDescription: isAr.value ? 'توريد وتركيب وصيانة المعدات الهيدروليكية والأنظمة الأمنية واللوجستية وفق أعلى المعايير الدولية في دولة قطر.' : 'Supply, installation, and maintenance of hydraulic and industrial equipment in Qatar.',
-  ogImage: '/images/hero/hero-bg.jpg'
+  ogImage: 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg'
 })
 
 useHead({
@@ -386,12 +368,16 @@ useHead({
       type: 'application/ld+json',
       children: JSON.stringify({
         '@context': 'https://schema.org',
-        '@type': 'IndustrialBusiness',
-        'name': 'Bestolex Trading & Contracting - بيستوليكس',
-        'description': 'Leading supplier and contractor for hydraulic systems, perimeter security, dock levelers, and waste recycling machinery in Qatar.',
-        'url': 'https://bestolex.qa',
-        'telephone': '+974 5555 1234',
-        'email': 'bestolex.qa@gmail.com',
+        '@type': 'LocalBusiness',
+        'name': isAr.value ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)' : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L',
+        'legalName': 'Bestolex Trading of Heavy Equipment and Machinery W.L.L',
+        'alternateName': 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)',
+        'description': isAr.value 
+          ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م) شركة قطرية توفر حلولًا ومعدات صناعية للمشاريع والمنشآت في الدوحة ومختلف أنحاء قطر.' 
+          : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L is a Qatari company providing industrial solutions and equipment for projects and facilities in Doha and across Qatar.',
+        'url': 'https://www.bestolex.com',
+        'telephone': '+974 5070 8833',
+        'email': 'info@bestolex.com',
         'address': {
           '@type': 'PostalAddress',
           'addressLocality': 'Doha',

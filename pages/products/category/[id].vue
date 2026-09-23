@@ -198,6 +198,6 @@ useSeoMeta({
   },
   ogTitle: () => category.value?.title?.[locale.value] || 'Bestolex Qatar Products',
   ogDescription: () => category.value?.description?.[locale.value] || '',
-  ogImage: () => category.value?.image || '/images/hero/hero-bg.jpg'
+  ogImage: () => category.value?.image || 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg'
 })
 </script>

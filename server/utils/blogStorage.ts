@@ -71,7 +71,7 @@ export async function getStoredArticles(): Promise<any[]> {
           excerpt: { ar: item.excerpt_ar, en: item.excerpt_en || item.excerpt_ar },
           desc: { ar: item.excerpt_ar || item.title_ar, en: item.excerpt_en || item.title_en },
           content: { ar: item.content_ar, en: item.content_en || item.content_ar },
-          image: item.image || '/images/news/news1.jpg',
+          image: item.image || 'https://electrocreative-cdn.b-cdn.net/bestolex/news/news1.jpg',
           date: item.created_at ? item.created_at.split('T')[0] : '2026-08-15',
           readTime: { ar: item.read_time_ar || '5 دقائق قراءة', en: item.read_time_en || '5 min read' },
           read_time_ar: item.read_time_ar,

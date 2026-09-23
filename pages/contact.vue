@@ -3,7 +3,7 @@
     <!-- Hero Section -->
     <div class="relative w-full h-[30vh] sm:h-[40vh] min-h-[250px] flex items-center justify-center overflow-hidden">
       <div class="absolute inset-0 bg-black/60 z-10"></div>
-      <img src="/images/services/srv1.png" alt="Contact Us" class="absolute inset-0 w-full h-full object-cover z-0 filter blur-[2px]" />
+      <img src="https://electrocreative-cdn.b-cdn.net/bestolex/services/srv1.png" alt="Contact Us" class="absolute inset-0 w-full h-full object-cover z-0 filter blur-[2px]" />
       <div class="relative z-20 text-center px-4" data-aos="fade-down">
         <h1 class="text-4xl md:text-5xl font-bold text-white mb-4 drop-shadow-lg">{{ locale === 'ar' ? 'تواصل معنا' : 'Contact Us' }}</h1>
         <p class="text-lg md:text-xl text-gray-200 max-w-2xl mx-auto drop-shadow-md">
@@ -251,7 +251,7 @@ useSeoMeta({
     : 'contact Bestolex Qatar, Bestolex phone number, industrial quote request Doha, engineering consultation booking Qatar',
   ogTitle: isAr.value ? 'تواصل مع شركة بيستوليكس للتجارة والمقاولات قطر' : 'Contact Bestolex Trading & Contracting Qatar',
   ogDescription: isAr.value ? 'فريقنا الهندسي جاهز للإجابة على استفساراتكم وتقديم العروض الفنية.' : 'Our engineering team is ready to assist with technical proposals and inquiries.',
-  ogImage: '/images/hero/hero-bg.jpg'
+  ogImage: 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg'
 })
 
 useHead({
@@ -264,9 +264,12 @@ useHead({
         'name': 'تواصل معنا | Bestolex Qatar',
         'mainEntity': {
           '@type': 'LocalBusiness',
-          'name': 'Bestolex Trading & Contracting',
-          'email': 'bestolex.qa@gmail.com',
-          'telephone': '+974 5555 1234',
+          'name': locale.value === 'ar' ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)' : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L',
+          'legalName': 'Bestolex Trading of Heavy Equipment and Machinery W.L.L',
+          'alternateName': 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)',
+          'email': 'info@bestolex.com',
+          'telephone': '+974 5070 8833',
+          'url': 'https://www.bestolex.com',
           'address': {
             '@type': 'PostalAddress',
             'addressLocality': 'Doha',

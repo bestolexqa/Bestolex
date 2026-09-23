@@ -50,6 +50,6 @@ useSeoMeta({
     : 'industrial equipment Qatar, loading docks, security bollards Doha, balers Qatar, industrial doors Doha, Bestolex products',
   ogTitle: isAr.value ? 'كتالوج المنتجات والمعدات الصناعية | بيستوليكس قطر' : 'Industrial Equipment Catalog | Bestolex Qatar',
   ogDescription: isAr.value ? 'استكشف منتجاتنا الهندسية المعتمدة واطلب عرض سعر مباشر.' : 'Explore our engineering products and request direct quotes.',
-  ogImage: '/images/hero/hero-bg.jpg'
+  ogImage: 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg'
 })
 </script>

@@ -264,7 +264,7 @@ useSeoMeta({
     : 'hydraulic maintenance Qatar, security bollard installation Doha, dock leveler maintenance, industrial maintenance contracts Qatar, engineering survey Doha',
   ogTitle: isAr.value ? 'خدمات بيستوليكس الهندسية والصناعية المتكاملة - قطر' : 'Bestolex Integrated Engineering Services - Qatar',
   ogDescription: isAr.value ? 'من دراسة الاحتياج إلى التركيب والتشغيل والدعم الفني المستمر.' : 'From site assessment to installation, commissioning, and continuous technical support.',
-  ogImage: '/images/categories/docking-systems.jpg'
+  ogImage: 'https://electrocreative-cdn.b-cdn.net/bestolex/categories/docking-systems.jpg'
 })
 
 useHead({
@@ -305,19 +305,19 @@ const heroSlides = [
     title: { ar: 'تصنيع وهندسة متقدمة', en: 'Advanced Manufacturing & Engineering' }
   },
   {
-    image: '/images/categories/docking-systems.jpg',
+    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/categories/docking-systems.jpg',
     title: { ar: 'أنظمة التحميل والمستودعات', en: 'Loading & Warehouse Systems' }
   },
   {
-    image: '/images/categories/waste-management.jpg',
+    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/categories/waste-management.jpg',
     title: { ar: 'حلول إدارة وتدوير النفايات', en: 'Waste Management & Recycling Solutions' }
   },
   {
-    image: '/images/categories/perimeter-protection.jpg',
+    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/categories/perimeter-protection.jpg',
     title: { ar: 'أنظمة حماية المحيط والأمان', en: 'Perimeter Protection & Security' }
   },
   {
-    image: '/images/categories/industrial-doors.jpg',
+    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/categories/industrial-doors.jpg',
     title: { ar: 'الأبواب الصناعية والحلول اللوجستية', en: 'Industrial Doors & Logistics' }
   }
 ]

@@ -162,7 +162,7 @@ useSeoMeta({
   },
   ogTitle: () => article.value?.title?.[locale.value] || 'Bestolex Article',
   ogDescription: () => article.value?.desc?.[locale.value] || article.value?.desc?.ar || '',
-  ogImage: () => article.value?.image || '/images/hero/hero-bg.jpg',
+  ogImage: () => article.value?.image || 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg',
   ogType: 'article'
 })
 
