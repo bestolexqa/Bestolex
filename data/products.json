@@ -487,47 +487,112 @@
           "ar": "مكبس الحديد 50 طن",
           "en": "Steel Press 50T"
         },
-        "coverImage": "https://sabtech.com.sa/wp-content/uploads/2020/07/SAB_1329.jpg",
+        "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/steel-press-50t/1.png",
         "description": {
-          "ar": "مكبس هيدروليكي قوي مصمم لضغط الخردة المعدنية والحديد والمعادن بقوة 50 طن لتقليص الحجم وتسهيل التخزين والنقل وإعادة التدوير بكفاءة استثنائية.",
-          "en": "Heavy-duty 50-ton hydraulic steel press engineered for compacting metal scraps, steel turnings, and recyclable metals into dense bales."
+          "ar": "منتجنا مكبس الحديد 50 طن مناسب تماماً لمصانع إعادة التدوير وشركات تصنيع الصلب التي تهدف إلى معالجة المعادن المختلفة مثل الفولاذ والألومنيوم بكفاءة عالية. سواء في إعادة تدوير المعادن أو إنتاج الصلب، من خلال ضغط مواد النفايات في بالات كثيفة، يمكن للشركات تحقيق ربح كبير من خلال توفير تكاليف المساحة والنقل لتعزيز الربحية.\n\nمجهز بميزات متقدمة مثل هيكل الإطار القوي والأسطوانات الهيدروليكية القوية، يضمن مكبس الحديد التشغيل الفعال والموثوق حتى عند معالجة كميات كبيرة من النفايات المعدنية. يسمح نظامه الهيدروليكي بالتحكم الدقيق في عملية الضغط، مما يضمن كثافة البالات وتناسقها.",
+          "en": "Our Steel Press 50T is perfectly suited for recycling plants and steel manufacturing companies aiming to efficiently process various metals such as steel and aluminum. Whether in metal recycling or steel production, by compacting waste materials into dense bales, businesses can significantly profit by saving space and transportation costs to boost profitability.\n\nEquipped with advanced features such as a robust frame structure and powerful hydraulic cylinders, the Steel Press ensures efficient and reliable operation even when processing large volumes of metal waste. Its hydraulic system allows for precise control over the compression process, ensuring consistent bale density and uniformity."
+        },
+        "stats": {
+          "ar": [
+            {
+              "label": "قوة الضغط",
+              "value": "50 طن"
+            },
+            {
+              "label": "قدرة المحرك",
+              "value": "22 كيلوواط"
+            },
+            {
+              "label": "زمن الدورة",
+              "value": "75 - 90 ثانية"
+            }
+          ],
+          "en": [
+            {
+              "label": "Compaction Force",
+              "value": "50 Tons"
+            },
+            {
+              "label": "Motor Power",
+              "value": "22 kW"
+            },
+            {
+              "label": "Cycle Time",
+              "value": "75 - 90 sec"
+            }
+          ]
         },
         "features": {
           "ar": [
-            "قوة ضغط هيدروليكية 50 طن للمعادن والحديد",
-            "تصميم متين مقاوم للتآكل والاستخدام الصناعي الشاق",
-            "لوحة تحكم إلكترونية مدمجة ومطابقة لمعايير الأمان العالمية",
-            "توفير كبير في مساحات التخزين وتكاليف النقل",
-            "ضمان لمدة سنة واحدة مع توفر قطع الغيار"
+            "هيكل إطار قوي مخصص للخدمة الشاقة والاستخدام الصناعي المستمر",
+            "طاقة هيدروليكية عالية لتحقيق ضغط كثيف بقوة 50 طن",
+            "سهولة تامة في التحميل، التركيب، والتشغيل",
+            "خدمة ما بعد البيع والدعم الفني الميداني مع توفر كافة قطع الغيار",
+            "ضمان لمدة سنة واحدة من المصنع"
           ],
           "en": [
-            "50-ton hydraulic pressing force for metals and steel",
-            "Heavy-duty wear-resistant industrial construction",
-            "Integrated electrical control panel compliant with safety standards",
-            "Significant reduction in storage volume and transport costs",
-            "1-year warranty with spare parts availability"
+            "Heavy duty frame structure designed for continuous industrial operation",
+            "High hydraulic power for dense compaction with 50-ton pressing force",
+            "Easy to load, install and operate with user-friendly controls",
+            "Reliable after-sales service and technical field support with available spare parts",
+            "1-year comprehensive factory warranty"
           ]
         },
         "featureImages": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2020/07/Hydraulic-Cylinder.jpg",
+            "image": "https://sabtech.com.sa/wp-content/uploads/2020/10/Upper-Loading-Door.jpg",
             "label": {
-              "ar": "بستم هيدروليك رئيسي",
-              "en": "Main Hydraulic Cylinder"
+              "ar": "باب التحميل العلوي",
+              "en": "Upper Loading Door"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2020/07/Control-Panel-3.jpg",
+            "image": "https://sabtech.com.sa/wp-content/uploads/2020/10/Movable-Pusher.jpg",
             "label": {
-              "ar": "لوحة التحكم",
-              "en": "Control Panel"
+              "ar": "دافع متحرك",
+              "en": "Movable Pusher"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2020/07/Power-Pack-1.jpg",
+            "image": "https://sabtech.com.sa/wp-content/uploads/2020/10/Discharge-Door.jpg",
             "label": {
-              "ar": "وحدة الهيدروليك",
-              "en": "Hydraulic Power Pack"
+              "ar": "باب التفريغ",
+              "en": "Discharge Door"
+            }
+          },
+          {
+            "image": "https://sabtech.com.sa/wp-content/uploads/2020/10/Manual-Control-Valve.jpg",
+            "label": {
+              "ar": "صمام التحكم اليدوي",
+              "en": "Manual Control Valve"
+            }
+          },
+          {
+            "image": "https://sabtech.com.sa/wp-content/uploads/2020/10/Hydraulic-Pump.jpg",
+            "label": {
+              "ar": "مضخة هيدروليكية",
+              "en": "Hydraulic Pump"
+            }
+          },
+          {
+            "image": "https://sabtech.com.sa/wp-content/uploads/2020/10/Hydraulic-Gauge.jpg",
+            "label": {
+              "ar": "مقياس زيت هيدروليكي",
+              "en": "Hydraulic Gauge"
+            }
+          },
+          {
+            "image": "https://sabtech.com.sa/wp-content/uploads/2020/10/Electric-Motor.jpg",
+            "label": {
+              "ar": "محرك كهربائي",
+              "en": "Electric Motor"
+            }
+          },
+          {
+            "image": "https://sabtech.com.sa/wp-content/uploads/2020/10/Electrical-Panel.jpg",
+            "label": {
+              "ar": "لوحة كهرباء",
+              "en": "Electrical Panel"
             }
           }
         ],
@@ -538,24 +603,32 @@
               "value": "50 طن"
             },
             {
-              "label": "نوع المواد",
-              "value": "حديد، خردة معدنية، صفائح، علب"
+              "label": "مقاس صندوق البالة",
+              "value": "1000(طول) × 600(عرض) × 500(ارتفاع) مم"
+            },
+            {
+              "label": "حجم البالة",
+              "value": "150(طول) × 600(عرض) × 500(ارتفاع) مم"
             },
             {
               "label": "وزن البالة",
-              "value": "250 – 450 كجم"
+              "value": "يصل إلى 70 كجم كحد أقصى (فولاذ / حديد)"
+            },
+            {
+              "label": "زمن الدورة",
+              "value": "75 – 90 ثانية"
             },
             {
               "label": "أبعاد الماكينة",
-              "value": "2000 (ارتفاع) × 1400 (عرض) × 3500 (طول) مم"
+              "value": "2872(طول) × 1120(عرض) × 980(ارتفاع) مم"
             },
             {
               "label": "قوة المحرك",
-              "value": "15.0 – 22.0 كيلوواط"
+              "value": "22.0 كيلوواط (29.5 حصان)"
             },
             {
               "label": "الكهرباء",
-              "value": "380V, 3Phase, 50/60Hz"
+              "value": "220/380V, 3Phase, 60Hz"
             }
           ],
           "en": [
@@ -564,35 +637,51 @@
               "value": "50 Tons"
             },
             {
-              "label": "Materials",
-              "value": "Steel, Metal Scrap, Sheets, Cans"
+              "label": "Press Box Size",
+              "value": "1000(L) × 600(W) × 500(H) mm"
+            },
+            {
+              "label": "Bale Size",
+              "value": "150(L) × 600(W) × 500(H) mm"
             },
             {
               "label": "Bale Weight",
-              "value": "250 – 450 kg"
+              "value": "Up to 70 kg max. (Steel)"
+            },
+            {
+              "label": "Cycle Time",
+              "value": "75 – 90 s"
             },
             {
               "label": "Machine Dimensions",
-              "value": "2000(H) × 1400(W) × 3500(L) mm"
+              "value": "2872(L) × 1120(W) × 980(H) mm"
             },
             {
               "label": "Motor Power",
-              "value": "15.0 – 22.0 kW"
+              "value": "22.0 kW (29.5 HP)"
             },
             {
-              "label": "Electricity",
-              "value": "380V, 3Phase, 50/60Hz"
+              "label": "Power Supply",
+              "value": "220/380V, 3Phase, 60Hz"
             }
           ]
         },
         "images": [
-          "https://sabtech.com.sa/wp-content/uploads/2020/07/SAB_1329.jpg",
-          "https://sabtech.com.sa/wp-content/uploads/2020/07/SAB_1326.jpg",
-          "https://sabtech.com.sa/wp-content/uploads/2020/07/SAB_1314.jpg"
+          "https://electrocreative-cdn.b-cdn.net/bestolex/products/steel-press-50t/1.png",
+          "https://electrocreative-cdn.b-cdn.net/bestolex/products/steel-press-50t/2.png",
+          "https://electrocreative-cdn.b-cdn.net/bestolex/products/steel-press-50t/3.png",
+          "https://electrocreative-cdn.b-cdn.net/bestolex/products/steel-press-50t/component-discharge-door.png",
+          "https://electrocreative-cdn.b-cdn.net/bestolex/products/steel-press-50t/component-electric-motor.png",
+          "https://electrocreative-cdn.b-cdn.net/bestolex/products/steel-press-50t/component-electrical-panel.png",
+          "https://electrocreative-cdn.b-cdn.net/bestolex/products/steel-press-50t/component-hydraulic-gauge.png",
+          "https://electrocreative-cdn.b-cdn.net/bestolex/products/steel-press-50t/component-hydraulic-pump.png",
+          "https://electrocreative-cdn.b-cdn.net/bestolex/products/steel-press-50t/component-manual-control-valve.png",
+          "https://electrocreative-cdn.b-cdn.net/bestolex/products/steel-press-50t/component-movable-pusher.png",
+          "https://electrocreative-cdn.b-cdn.net/bestolex/products/steel-press-50t/component-upper-loading-door.png"
         ],
-        "pdf": "https://drive.google.com/file/d/1TNR4l6dVV0-Qu2b6598RDBYW84MBsJu/view?usp=drivesdk",
-        "image": "https://sabtech.com.sa/wp-content/uploads/2020/07/SAB_1329.jpg",
-        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/steel-press-50t/card-v2.png"
+        "pdf": "https://drive.google.com/file/d/1TNR4l6dVV0-Qu2b6598RDBBYw84MBsJu/view?usp=drivesdk",
+        "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/steel-press-50t/1.png",
+        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/steel-press-50t/1.png"
       },
       {
         "id": "cardboard-plastic-baler-100",
@@ -940,7 +1029,7 @@
           "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/04/BP200-2-1.png",
           "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/04/BP200-3-1.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/04/VERTICAL-BALING-PRESS-20T.pdf",
+        "pdf": "https://drive.google.com/file/d/1ZkrXUeMzXw22hWXAKMOp96zhx5M7Dsb2/view?usp=drivesdk",
         "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/04/BP200-1-1.png",
         "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/cardboard-plastic-baler-200/card.png"
       },
@@ -1133,7 +1222,7 @@
           "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/02/BP500-2-1.png",
           "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/02/BP500-3-1.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/02/VERTICAL-BALING-PRESS-50T.pdf",
+        "pdf": "https://drive.google.com/file/d/1_bXSHdw0ByPPsKRFCWwpCzgA1IdT2ufx/view?usp=drivesdk",
         "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/02/BP500-1-1.png",
         "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/cardboard-plastic-baler-500/card.jpg"
       },
@@ -1305,7 +1394,8 @@
           "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/04/Frontupdated.jpg"
         ],
         "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/04/Sideupdated.jpg",
-        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/can-bottle-baler-80/card.png"
+        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/can-bottle-baler-80/card.png",
+        "pdf": "https://drive.google.com/file/d/1rxlBOr8AlBb4pSAYTRYORR8yjIGsvqG9/view?usp=drivesdk"
       },
       {
         "id": "textile-baler",
@@ -1461,7 +1551,7 @@
           "https://sabtech.com.sa/wp-content/uploads/2020/07/Front-1.jpg",
           "https://sabtech.com.sa/wp-content/uploads/2020/07/Two-Side-2.jpg"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2020/07/Product-brochure-Textible-baling-press.pdf",
+        "pdf": "https://drive.google.com/file/d/1YY0wSmtiGxgbjFkGBH0uVwnRoH7_7WUY/view?usp=drivesdk",
         "image": "https://sabtech.com.sa/wp-content/uploads/2020/07/Side-1.jpg",
         "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/textile-baler/card.png"
       },
@@ -1821,7 +1911,7 @@
           "https://sabtech.com.sa/wp-content/uploads/2023/12/002.png",
           "https://sabtech.com.sa/wp-content/uploads/2023/12/BAnner1.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2020/02/Company-Profile-Brochure(Arabic).pdf",
+        "pdf": "https://drive.google.com/file/d/1F2LiP95GHEjyeOOEM-EKZ8PWOs_46pCK/view?usp=drivesdk",
         "image": "https://sabtech.com.sa/wp-content/uploads/2023/12/PEL3.jpg",
         "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/solar-bin-waste-compactor/card.png"
       },
@@ -2040,7 +2130,7 @@
           "https://sabtech.com.sa/wp-content/uploads/2026/02/VGC3.webp",
           "https://sabtech.com.sa/wp-content/uploads/2026/02/VGC5.webp"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2020/02/Company-Profile-Brochure(Arabic).pdf",
+        "pdf": "https://drive.google.com/file/d/15vbXuUsM8s8Mf3_KIArSDW6RyT6OG6rq/view?usp=drivesdk",
         "image": "https://sabtech.com.sa/wp-content/uploads/2026/02/VGC2-1.webp",
         "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/vertical-garbage-compactor-2cy/card.png"
       }
@@ -3407,7 +3497,7 @@
         ],
         "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/05/Inflatable-Dock-Shelter.pdf",
         "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/05/abrigos-muelle-hinchables-002-1.jpg",
-        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/inflatable-dock-shelter/card.png"
+        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/inflatable-dock-shelter/card-fixed.jpg"
       },
       {
         "id": "retractable-dock-shelter",
@@ -3499,7 +3589,7 @@
         ],
         "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/05/Retractable-Dock-Shelter.pdf",
         "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/05/abrigo-muelle-retractil-003.jpg",
-        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/retractable-dock-shelter/card-v2.jpg"
+        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/retractable-dock-shelter/card-fixed.jpg"
       },
       {
         "id": "movable-dock-ramp",
@@ -4190,7 +4280,7 @@
         ],
         "pdf": "https://sabtech.com.sa/wp-content/uploads/2021/09/ABOVE-GROUND-TiRE-KILLER.pdf",
         "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2021/08/DSC3344.jpg",
-        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/above-ground-tyre-killer/card.jpg"
+        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/above-ground-tyre-killer/card-fixed.jpg"
       },
       {
         "id": "high-security-road-blocker-pas68",
@@ -4388,7 +4478,7 @@
         ],
         "pdf": "https://sabtech.com.sa/wp-content/uploads/2014/08/HIGH-SECURITY-ROAD-BLOCKER-PAS68.pdf",
         "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2020/12/SAB_2063BG1.jpg",
-        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/high-security-road-blocker-pas68/card.png"
+        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/high-security-road-blocker-pas68/card-fixed.jpg"
       },
       {
         "id": "high-security-shallow-road-blocker-pas68",
@@ -5625,7 +5715,7 @@
           "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/12/Seccional-acristalada.jpg",
           "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/12/Volvo-Granada-5-10-11-13.jpg"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/12/INDUSTRIAL-SECTIONAL-DOORS.pdf",
+        "pdf": "https://drive.google.com/file/d/1sG2BiEIcNtM0XTh7BhddA6kJgZUyvn1D/view?usp=drivesdk",
         "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/12/Industrial-Sectional-Door-1.jpg",
         "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/industrial-sectional-doors/card.jpg"
       },
@@ -5790,7 +5880,7 @@
       "ar": "آلات ومعدات ثقيلة",
       "en": "Heavy Machinery & Equipment"
     },
-    "image": "https://electrocreative-cdn.b-cdn.net/bestolex/categories/v2/other-products.jpg",
+    "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-1/card-v3.png",
     "description": {
       "ar": "تشكيلة متخصصة من الآلات والمعدات الثقيلة ومعدات تزويد الوقود ذات الكفاءة العالية.",
       "en": "Specialized heavy machinery, refueling equipment, and heavy-duty industrial solutions."
@@ -6073,6 +6163,7 @@
           }
         ],
         "images": [
+          "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-1/card-v3.png",
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-1/1.jpg",
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-1/2.PNG",
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-1/3.PNG",
@@ -6089,7 +6180,7 @@
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-1/14.PNG",
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-1/15.PNG"
         ],
-        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-1/card.png",
+        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-1/card-v3.png",
         "pdf": "https://drive.google.com/file/d/1oSrLqajGn4924sWI0s49rmHEevWLuMp5/view?usp=drivesdk"
       },
       {
@@ -6368,6 +6459,7 @@
           }
         ],
         "images": [
+          "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-2/card-v3.png",
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-2/1.PNG",
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-2/2.PNG",
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-2/3.PNG",
@@ -6383,7 +6475,7 @@
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-2/13.PNG",
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-2/14.PNG"
         ],
-        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-2/card.png",
+        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-2/card-v3.png",
         "pdf": "https://drive.google.com/file/d/1S7VLRdb_-IVQVKWAUMuL2DibKsUuE7yv/view?usp=drivesdk"
       },
       {
@@ -6685,6 +6777,7 @@
           }
         ],
         "images": [
+          "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-3/card-v3.png",
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-3/1.jpeg",
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-3/2.jpeg",
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-3/3.jpeg",
@@ -6702,7 +6795,7 @@
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-3/15.jpeg",
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-3/16.jpeg"
         ],
-        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-3/card.png",
+        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-3/card-v3.png",
         "pdf": "https://drive.google.com/file/d/1lGJWrJ5FheMssET0x-kil6GtsquLg9BL/view?usp=drivesdk"
       },
       {
@@ -7004,6 +7097,7 @@
           }
         ],
         "images": [
+          "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-4/card-v3.png",
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-4/1.jpeg",
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-4/2.jpeg",
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-4/3.jpeg",
@@ -7021,7 +7115,7 @@
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-4/15.jpeg",
           "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-4/16.jpeg"
         ],
-        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-4/card.png",
+        "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-4/card-v3.png",
         "pdf": "https://drive.google.com/file/d/1y2ziRqu5P96aLT_VL_GaQCXiSj6UQAtn/view?usp=drivesdk"
       }
     ]

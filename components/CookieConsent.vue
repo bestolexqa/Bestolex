@@ -379,9 +379,8 @@ onMounted(() => {
       // Apply saved consent state
       updateGoogleConsent(consentPreferences.value.analytics, consentPreferences.value.marketing)
     } else {
-      // First visit: Keep default denied state and show banner
+      // First visit: Default denied state is already active from head script; show banner automatically
       showBanner.value = true
-      updateGoogleConsent(false, false)
     }
   } catch (e) {
     showBanner.value = true

@@ -1,5 +1,4 @@
-import fs from 'node:fs'
-import path from 'node:path'
+import { getStoredCategories, saveStoredCategories } from '~~/server/utils/blogStorage'
 import { useServerSupabase } from '~~/server/utils/supabase'
 
 export default defineEventHandler(async (event) => {
@@ -7,7 +6,7 @@ export default defineEventHandler(async (event) => {
   const body = await readBody(event)
   const supabase = useServerSupabase()
 
-  // 1. Supabase update
+  // 1. Supabase update if configured
   if (supabase) {
     try {
       await supabase
@@ -15,33 +14,29 @@ export default defineEventHandler(async (event) => {
         .update({
           name_ar: body.name_ar,
           name_en: body.name_en,
-          slug: body.slug || (body.name_en ? body.name_en.toLowerCase().trim().replace(/\s+/g, '-') : undefined)
+          slug: body.slug || (body.name_en ? body.name_en.toLowerCase().trim().replace(/[^\w\u0621-\u064A]+/g, '-') : undefined)
         })
-        .eq('id', id)
+        .or(`id.eq.${id},slug.eq.${id}`)
     } catch (e) {
       console.warn('Supabase category update error:', e)
     }
   }
 
-  // 2. Local fallback update
-  try {
-    const filePath = path.resolve(process.cwd(), 'data/categories.json')
-    if (fs.existsSync(filePath)) {
-      let list = JSON.parse(fs.readFileSync(filePath, 'utf-8'))
-      list = list.map((item: any) => {
-        if (item.id === id || item.slug === id) {
-          return {
-            ...item,
-            name_ar: body.name_ar || item.name_ar,
-            name_en: body.name_en || item.name_en,
-            slug: body.slug || item.slug
-          }
-        }
-        return item
-      })
-      fs.writeFileSync(filePath, JSON.stringify(list, null, 2), 'utf-8')
+  // 2. Persistent storage update
+  const list = await getStoredCategories()
+  const updatedList = list.map((item: any) => {
+    if (item.id === id || item.slug === id) {
+      return {
+        ...item,
+        name_ar: body.name_ar || item.name_ar,
+        name_en: body.name_en || item.name_en,
+        slug: body.slug || item.slug
+      }
     }
-  } catch (err) {}
+    return item
+  })
+
+  await saveStoredCategories(updatedList)
 
   return { success: true }
 })

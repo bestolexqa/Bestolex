@@ -209,7 +209,12 @@ const { locale } = useI18n()
 const localePath = useLocalePath()
 
 const { data: blogData } = await useFetch('/api/blog')
-const articles = computed(() => blogData.value || mockArticles)
+const articles = computed(() => {
+  if (blogData.value && Array.isArray(blogData.value) && blogData.value.length > 0) {
+    return blogData.value
+  }
+  return mockArticles
+})
 
 // Filtering & Pagination State
 const searchQuery = ref('')

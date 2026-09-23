@@ -258,6 +258,97 @@
       </div>
     </section>
 
+    <!-- Articles / Blog Section -->
+    <section class="py-24 bg-gray-50 dark:bg-gray-900 border-t border-gray-100 dark:border-gray-800 transition-colors">
+      <div class="container mx-auto px-4 md:px-8">
+        <div class="text-center max-w-3xl mx-auto mb-16" data-aos="fade-up">
+          <div class="inline-block bg-primary/10 text-primary font-extrabold px-4 py-1.5 rounded-lg text-sm mb-4">
+            {{ locale === 'ar' ? 'المدونة الهندسية' : 'Engineering Blog' }}
+          </div>
+          <h2 class="text-3xl md:text-5xl font-black text-gray-900 dark:text-white mb-6">
+            {{ locale === 'ar' ? 'أحدث المقالات الهندسية' : 'Latest Engineering Articles' }}
+          </h2>
+          <p class="text-lg md:text-xl text-gray-600 dark:text-gray-400 leading-relaxed">
+            {{ locale === 'ar' 
+              ? 'أحدث الرؤى الفنية، وأدلة الصيانة، والحلول الهندسية في مجال المعدات الثقيلة والأنظمة اللوجستية في قطر.' 
+              : 'Latest technical insights, maintenance guides, and industrial equipment solutions in Qatar.' 
+            }}
+          </p>
+        </div>
+
+        <!-- 6 Articles Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+          <article 
+            v-for="(article, idx) in articles" 
+            :key="article.id" 
+            class="bg-white dark:bg-gray-800 rounded-3xl overflow-hidden shadow-lg border border-gray-100 dark:border-gray-700 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 flex flex-col group"
+            data-aos="fade-up"
+            :data-aos-delay="(idx % 3) * 100"
+          >
+            <!-- Article Image -->
+            <div class="relative h-52 overflow-hidden bg-gray-100 dark:bg-gray-700">
+              <NuxtImg 
+                :src="article.image" 
+                :alt="article.title?.[locale] || article.title_ar" 
+                class="w-full h-full object-cover group-hover:scale-110 transition duration-700" 
+                format="webp" 
+                loading="lazy" 
+              />
+              <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
+              
+              <!-- Category Tag -->
+              <span class="absolute top-4 rtl:right-4 ltr:left-4 bg-[#121c2d]/90 backdrop-blur-md text-[#E99E15] font-black text-xs px-3.5 py-1.5 rounded-full border border-[#E99E15]/30">
+                {{ article.category?.[locale] || article.category_ar || 'عام' }}
+              </span>
+            </div>
+
+            <!-- Article Content -->
+            <div class="p-6 flex-1 flex flex-col justify-between">
+              <div>
+                <!-- Date & Read Time -->
+                <div class="flex items-center gap-3 text-xs font-bold text-gray-400 mb-3">
+                  <span>📅 {{ article.date }}</span>
+                  <span>•</span>
+                  <span>⏱️ {{ article.readTime?.[locale] || article.read_time_ar || '5 دقائق' }}</span>
+                </div>
+
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-3 group-hover:text-primary transition-colors leading-tight line-clamp-2">
+                  <NuxtLink :to="localePath(`/blog/${article.id}`)">
+                    {{ article.title?.[locale] || article.title_ar }}
+                  </NuxtLink>
+                </h3>
+
+                <p class="text-gray-600 dark:text-gray-400 text-sm leading-relaxed mb-6 line-clamp-3">
+                  {{ article.desc?.[locale] || article.excerpt_ar }}
+                </p>
+              </div>
+
+              <!-- Read Article Link -->
+              <div class="pt-4 border-t border-gray-100 dark:border-gray-700/60 mt-auto">
+                <NuxtLink 
+                  :to="localePath(`/blog/${article.id}`)" 
+                  class="inline-flex items-center gap-2 text-primary hover:text-orange-600 font-black text-sm group-hover:underline transition"
+                >
+                  <span>{{ locale === 'ar' ? 'قراءة المقال' : 'Read Article' }}</span>
+                  <span class="rtl:rotate-180 text-base">&rarr;</span>
+                </NuxtLink>
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <!-- View More Button -->
+        <div class="text-center" data-aos="fade-up">
+          <NuxtLink 
+            :to="localePath('/blog')" 
+            class="inline-flex items-center gap-3 bg-gradient-to-r from-primary to-orange-500 hover:from-orange-500 hover:to-orange-600 text-white font-bold px-8 py-4 rounded-xl transition shadow-lg shadow-primary/30 hover:shadow-primary/50 hover:-translate-y-1 text-base sm:text-lg"
+          >
+            <span>{{ locale === 'ar' ? 'عرض كافة المقالات' : 'Explore All Articles' }}</span>
+            <span class="rtl:rotate-180 text-xl">&rarr;</span>
+          </NuxtLink>
+        </div>
+      </div>
+    </section>
 
   </div>
 </template>
@@ -316,7 +407,7 @@ useHead({
 // Fetch live articles and display the 6 pinned articles
 const { data: blogData } = await useFetch('/api/blog')
 const articles = computed(() => {
-  const all = blogData.value || mockArticles
+  const all = (blogData.value && Array.isArray(blogData.value) && blogData.value.length > 0) ? blogData.value : mockArticles
   const featured = all.filter((a) => a.is_featured || a.isFeatured)
   
   if (featured.length >= 6) {

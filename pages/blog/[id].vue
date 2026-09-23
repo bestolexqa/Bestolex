@@ -130,7 +130,7 @@ const articleId = computed(() => route.params.id)
 const { data: dynamicArticle } = await useFetch(() => `/api/blog/${route.params.id}`)
 
 const article = computed(() => {
-  if (dynamicArticle.value) return dynamicArticle.value
+  if (dynamicArticle.value && (dynamicArticle.value.title || dynamicArticle.value.title_ar)) return dynamicArticle.value
   return mockArticles.find(a => a.id === articleId.value || a.slug === articleId.value)
 })
 

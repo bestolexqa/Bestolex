@@ -351,56 +351,56 @@ onUnmounted(() => {
 const services = [
   {
     icon: '📋',
-    image: 'https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=600&q=80',
+    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-1.png',
     title: { ar: 'دراسة الاحتياج والمعاينة', en: 'Requirement Assessment & Site Survey' },
     desc: { ar: 'دراسة دقيقة لاحتياجات العميل ومعاينة ميدانية للموقع لفهم ظروف التشغيل والمتطلبات الفنية.', en: 'Comprehensive assessment of customer needs and site survey to understand operating conditions and technical requirements.' },
     highlight: { ar: 'معاينة ميدانية وتقارير فنية', en: 'Site survey & technical reporting' }
   },
   {
     icon: '💡',
-    image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=600&q=80',
+    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-2.png',
     title: { ar: 'المقترح الفني والتجاري', en: 'Technical & Commercial Proposal' },
     desc: { ar: 'اختيار الحل الهندسي الأنسب وإعداد عروض فنية ومالية شفافة ومطابقة للمواصفات.', en: 'Selecting the optimal engineering solution and preparing transparent technical and commercial proposals.' },
     highlight: { ar: 'دراسات جدوى وعروض أسعار متكاملة', en: 'Feasibility & complete proposals' }
   },
   {
     icon: '📦',
-    image: '/images/categories/docking-systems.jpg',
+    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-3.png',
     title: { ar: 'إدارة الخدمات اللوجستية', en: 'Supply & Logistics Management' },
     desc: { ar: 'إدارة سلاسل التوريد والشحن والتخليص الجمركي وفق الجداول الزمنية المعتمدة للمشروع.', en: 'Managing supply chain, shipping, and customs clearance strictly adhering to project timelines.' },
     highlight: { ar: 'شحن آمن والتزام دقيق بالمواعيد', en: 'Safe shipping & punctual delivery' }
   },
   {
     icon: '🛠️',
-    image: 'https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=600&q=80',
+    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-4.png',
     title: { ar: 'التركيب والإشراف الفني', en: 'Installation & Technical Supervision' },
     desc: { ar: 'تنفيذ أعمال التركيب الميداني بأيدي مهندسين وفنيين معتمدين وفق معايير السلامة المهنية.', en: 'Executing site installations by certified engineers and technicians following strict safety standards.' },
     highlight: { ar: 'إشراف هندسي معتمد', en: 'Certified engineering supervision' }
   },
   {
     icon: '✅',
-    image: 'https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80',
+    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-5.png',
     title: { ar: 'الاختبار والتشغيل والتسليم', en: 'Testing, Commissioning & Handover' },
     desc: { ar: 'اختبار كفاءة الأنظمة وتشغيلها الفعلي تحت الضغط وتسليمها وفق معايير الجودة المعتمدة.', en: 'Load testing, operational verification, and formal handover according to approved quality benchmarks.' },
     highlight: { ar: 'شهادات فحص واختبار أداء', en: 'Inspection & test certificates' }
   },
   {
     icon: '👨‍🏫',
-    image: 'https://images.unsplash.com/photo-1581092162384-8987c1d64718?auto=format&fit=crop&w=600&q=80',
+    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-6.png',
     title: { ar: 'التدريب على التشغيل', en: 'Operational Training' },
     desc: { ar: 'تدريب كوادر العميل على التشغيل الصحيح والاستخدام الآمن وإجراءات الطوارئ.', en: 'Training customer personnel on proper operation, safe handling, and emergency protocols.' },
     highlight: { ar: 'تدريب عملي للكوادر الفنية', en: 'Hands-on operational training' }
   },
   {
     icon: '🔧',
-    image: 'https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=600&q=80',
+    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-7.png',
     title: { ar: 'الصيانة الوقائية والتصحيحية', en: 'Preventive & Corrective Maintenance' },
     desc: { ar: 'عقود صيانة دورية مرنة واستجابة سريعة للأعطال للحفاظ على استمرارية الإنتاج.', en: 'Flexible routine maintenance contracts and rapid fault response to maintain workflow continuity.' },
     highlight: { ar: 'عقود صيانة دورية ومرنة', en: 'Flexible routine maintenance contracts' }
   },
   {
     icon: '⚙️',
-    image: '/images/categories/industrial-doors.jpg',
+    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-8.png',
     title: { ar: 'توفير قطع الغيار الأصلية', en: 'Spare Parts & After-Sales Support' },
     desc: { ar: 'مخزون وفير من قطع الغيار الأصلية المعتمدة لضمان أطول عمر افتراضي للمعدات.', en: 'Extensive inventory of genuine certified spare parts ensuring the longest equipment service life.' },
     highlight: { ar: 'قطع أصلية وضمان معتمد', en: 'Original parts & certified warranty' }

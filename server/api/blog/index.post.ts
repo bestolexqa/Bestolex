@@ -1,19 +1,18 @@
-import fs from 'node:fs'
-import path from 'node:path'
+import { getStoredArticles, saveStoredArticles } from '~~/server/utils/blogStorage'
 import { useServerSupabase } from '~~/server/utils/supabase'
 
 export default defineEventHandler(async (event) => {
   const body = await readBody(event)
   const supabase = useServerSupabase()
 
-  const slug = body.slug || (body.title_ar ? body.title_ar.trim().toLowerCase().replace(/\s+/g, '-') : 'article-' + Date.now())
+  const slug = body.slug || (body.title_ar ? body.title_ar.trim().toLowerCase().replace(/[^\w\u0621-\u064A]+/g, '-') : 'article-' + Date.now())
 
   const newArticleRecord = {
     slug,
     title_ar: body.title_ar,
     title_en: body.title_en || body.title_ar,
-    category_ar: body.category_ar || 'عام',
-    category_en: body.category_en || 'General',
+    category_ar: body.category_ar || 'النظم الهيدروليكية المتقدمة',
+    category_en: body.category_en || 'Advanced Hydraulic Systems',
     excerpt_ar: body.excerpt_ar || '',
     excerpt_en: body.excerpt_en || '',
     content_ar: body.content_ar,
@@ -25,46 +24,39 @@ export default defineEventHandler(async (event) => {
     is_featured: !!body.is_featured
   }
 
-  // 1. If Supabase configured, insert to Supabase
+  // 1. If Supabase configured, attempt insert
   if (supabase) {
     try {
-      const { data, error } = await supabase
-        .from('articles')
-        .insert([newArticleRecord])
-        .select()
-        .single()
-
-      if (!error && data) {
-        return { success: true, data }
-      }
+      await supabase.from('articles').insert([newArticleRecord])
     } catch (e) {
-      console.error('Failed to insert article to Supabase:', e)
+      console.warn('Supabase article insert failed, falling back to persistent cloud storage:', e)
     }
   }
 
-  // 2. Also save to local data/articles.json
+  // 2. Save persistently to Bunny Storage & Local
   try {
-    const filePath = path.resolve(process.cwd(), 'data/articles.json')
-    const raw = fs.readFileSync(filePath, 'utf-8')
-    const list = JSON.parse(raw)
+    const list = await getStoredArticles()
 
     const formatted = {
       id: slug,
       slug: slug,
       title: { ar: body.title_ar, en: body.title_en || body.title_ar },
-      category: { ar: body.category_ar || 'عام', en: body.category_en || 'General' },
+      category: { ar: body.category_ar || 'النظم الهيدروليكية المتقدمة', en: body.category_en || 'Advanced Hydraulic Systems' },
       date: new Date().toISOString().split('T')[0],
       readTime: { ar: body.read_time_ar || '5 دقائق قراءة', en: body.read_time_en || '5 min read' },
       image: body.image || '/images/news/news1.jpg',
+      is_featured: !!body.is_featured,
       desc: { ar: body.excerpt_ar || body.title_ar, en: body.excerpt_en || body.title_en },
       content: { ar: body.content_ar, en: body.content_en || body.content_ar }
     }
 
+    // Add to the beginning of the list
     list.unshift(formatted)
-    fs.writeFileSync(filePath, JSON.stringify(list, null, 2), 'utf-8')
+    await saveStoredArticles(list)
 
     return { success: true, data: formatted }
-  } catch (err) {
-    return { success: true, warning: 'Saved locally' }
+  } catch (err: any) {
+    console.error('Error saving article:', err)
+    return { success: false, error: err.message }
   }
 })

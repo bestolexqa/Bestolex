@@ -1,5 +1,4 @@
-import fs from 'node:fs'
-import path from 'node:path'
+import { getStoredCategories, saveStoredCategories } from '~~/server/utils/blogStorage'
 import { useServerSupabase } from '~~/server/utils/supabase'
 
 export default defineEventHandler(async (event) => {
@@ -10,10 +9,11 @@ export default defineEventHandler(async (event) => {
     throw createError({ statusCode: 400, message: 'اسم القسم بالعربية مطلوب' })
   }
 
-  const slug = body.slug || (body.name_en ? body.name_en.toLowerCase().trim().replace(/\s+/g, '-') : 'cat-' + Date.now())
+  const slug = body.slug || (body.name_en ? body.name_en.toLowerCase().trim().replace(/[^\w\u0621-\u064A]+/g, '-') : 'cat-' + Date.now())
   const name_en = body.name_en || body.name_ar
 
   const newCategory = {
+    id: 'cat-' + Date.now(),
     name_ar: body.name_ar,
     name_en,
     slug
@@ -22,32 +22,16 @@ export default defineEventHandler(async (event) => {
   // 1. Insert to Supabase if connected
   if (supabase) {
     try {
-      const { data, error } = await supabase
-        .from('article_categories')
-        .insert([newCategory])
-        .select()
-        .single()
-
-      if (!error && data) {
-        return { success: true, data }
-      }
+      await supabase.from('article_categories').insert([newCategory])
     } catch (e) {
       console.warn('Supabase category insert error:', e)
     }
   }
 
-  // 2. Local fallback
-  try {
-    const filePath = path.resolve(process.cwd(), 'data/categories.json')
-    let list = []
-    if (fs.existsSync(filePath)) {
-      list = JSON.parse(fs.readFileSync(filePath, 'utf-8'))
-    }
-    const catItem = { id: 'cat-' + Date.now(), ...newCategory }
-    list.push(catItem)
-    fs.writeFileSync(filePath, JSON.stringify(list, null, 2), 'utf-8')
-    return { success: true, data: catItem }
-  } catch (err) {
-    return { success: true }
-  }
+  // 2. Persistent storage (Bunny + Local)
+  const list = await getStoredCategories()
+  list.push(newCategory)
+  await saveStoredCategories(list)
+
+  return { success: true, data: newCategory }
 })

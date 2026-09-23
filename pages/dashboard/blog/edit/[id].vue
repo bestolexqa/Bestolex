@@ -289,6 +289,8 @@ import { ref, onMounted } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { useUpload } from '~/composables/useUpload'
 
+import defaultCategories from '@/data/categories.json'
+
 definePageMeta({
   layout: false,
   middleware: 'auth'
@@ -302,7 +304,7 @@ const isSubmitting = ref(false)
 const isDragging = ref(false)
 const showManualInput = ref(false)
 const fileInputRef = ref(null)
-const categoryList = ref([])
+const categoryList = ref(defaultCategories)
 
 const { uploadFile, isUploading, uploadProgress, error: uploadError } = useUpload()
 

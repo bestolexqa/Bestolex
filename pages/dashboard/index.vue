@@ -109,7 +109,7 @@
               <div v-for="(art, i) in recentArticles" :key="i" class="p-4 bg-gray-50 dark:bg-gray-900 rounded-2xl border border-gray-100 dark:border-gray-800 flex items-center justify-between">
                 <div class="flex items-center gap-3">
                   <div class="w-12 h-12 rounded-xl overflow-hidden bg-gray-200 dark:bg-gray-800 flex-shrink-0">
-                    <img :src="art.image" class="w-full h-full object-cover">
+                    <img :src="art.image" alt="صورة المقال" class="w-full h-full object-cover">
                   </div>
                   <div>
                     <h4 class="font-bold text-gray-900 dark:text-white text-sm line-clamp-1">{{ art.title?.ar || art.title_ar }}</h4>

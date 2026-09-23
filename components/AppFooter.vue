@@ -83,6 +83,7 @@
           <li><NuxtLink :to="localePath('/products')" class="hover:text-primary transition">{{ locale === 'ar' ? 'المنتجات' : 'Products' }}</NuxtLink></li>
           <li><NuxtLink :to="localePath('/training')" class="hover:text-primary transition">{{ locale === 'ar' ? 'التدريب' : 'Training' }}</NuxtLink></li>
           <li><NuxtLink :to="localePath('/privacy')" class="hover:text-primary transition">{{ locale === 'ar' ? 'سياسة الخصوصية' : 'Privacy Policy' }}</NuxtLink></li>
+          <li><NuxtLink :to="localePath('/terms')" class="hover:text-primary transition">{{ locale === 'ar' ? 'شروط الاستخدام' : 'Terms of Use' }}</NuxtLink></li>
           <li>
             <button @click="openCookieSettings" type="button" class="hover:text-primary transition text-left rtl:text-right flex items-center gap-1.5 text-gray-400 hover:text-amber-400">
               <span>🍪</span>

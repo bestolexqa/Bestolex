@@ -78,35 +78,27 @@ export default defineNuxtConfig({
           innerHTML: `
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
+            // 1. Google Consent Mode v2: Mandatory default state (Always DENIED for all 4 parameters)
+            gtag('consent', 'default', {
+              'ad_storage': 'denied',
+              'ad_user_data': 'denied',
+              'ad_personalization': 'denied',
+              'analytics_storage': 'denied',
+              'wait_for_update': 500
+            });
+            // 2. If user previously saved consent, apply update immediately
             try {
               var savedConsent = localStorage.getItem('bestolex_cookie_consent');
               if (savedConsent) {
                 var parsed = JSON.parse(savedConsent);
-                gtag('consent', 'default', {
+                gtag('consent', 'update', {
                   'ad_storage': parsed.marketing ? 'granted' : 'denied',
                   'ad_user_data': parsed.marketing ? 'granted' : 'denied',
                   'ad_personalization': parsed.marketing ? 'granted' : 'denied',
-                  'analytics_storage': parsed.analytics ? 'granted' : 'denied',
-                  'wait_for_update': 500
-                });
-              } else {
-                gtag('consent', 'default', {
-                  'ad_storage': 'denied',
-                  'ad_user_data': 'denied',
-                  'ad_personalization': 'denied',
-                  'analytics_storage': 'denied',
-                  'wait_for_update': 500
+                  'analytics_storage': parsed.analytics ? 'granted' : 'denied'
                 });
               }
-            } catch (e) {
-              gtag('consent', 'default', {
-                'ad_storage': 'denied',
-                'ad_user_data': 'denied',
-                'ad_personalization': 'denied',
-                'analytics_storage': 'denied',
-                'wait_for_update': 500
-              });
-            }
+            } catch (e) {}
           `,
           tagPosition: 'head'
         },

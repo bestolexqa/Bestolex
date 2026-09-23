@@ -86,7 +86,7 @@
                 <!-- Article Title & Thumbnail -->
                 <td class="p-4">
                   <div class="flex items-center gap-4">
-                    <img :src="article.image" class="w-14 h-14 rounded-xl object-cover flex-shrink-0 bg-gray-100 dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
+                    <img :src="article.image" alt="Article thumbnail" class="w-14 h-14 rounded-xl object-cover flex-shrink-0 bg-gray-100 dark:bg-gray-800 border border-gray-200 dark:border-gray-700">
                     <div>
                       <h4 class="font-bold text-gray-900 dark:text-white text-base line-clamp-1">
                         {{ article.title?.ar || article.title_ar }}
