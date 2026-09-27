@@ -61,8 +61,7 @@
       </div>
 
       <!-- Main Body Text -->
-      <div class="bg-white dark:bg-gray-800 rounded-3xl p-6 sm:p-12 shadow-xl border border-gray-100 dark:border-gray-700 mb-16 text-gray-800 dark:text-gray-200 leading-relaxed text-base sm:text-lg whitespace-pre-line" data-aos="fade-up">
-        {{ article.content[locale] }}
+      <div class="prose prose-lg dark:prose-invert max-w-none bg-white dark:bg-gray-800 rounded-3xl p-6 sm:p-12 shadow-xl border border-gray-100 dark:border-gray-700 mb-16 text-gray-800 dark:text-gray-200 leading-relaxed text-base sm:text-lg article-content" data-aos="fade-up" v-html="article.content?.[locale] || article.content?.ar || ''">
       </div>
 
       <!-- Call to Action Banner inside Article -->
@@ -198,3 +197,102 @@ useHead({
   ]
 })
 </script>
+
+<style scoped>
+/* Article HTML content styling */
+.article-content :deep(h1),
+.article-content :deep(h2),
+.article-content :deep(h3),
+.article-content :deep(h4),
+.article-content :deep(h5),
+.article-content :deep(h6) {
+  font-weight: 800;
+  line-height: 1.3;
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
+  color: #111827;
+}
+
+.dark .article-content :deep(h1),
+.dark .article-content :deep(h2),
+.dark .article-content :deep(h3),
+.dark .article-content :deep(h4) {
+  color: #f9fafb;
+}
+
+.article-content :deep(h1) { font-size: 1.875rem; }
+.article-content :deep(h2) { font-size: 1.5rem; }
+.article-content :deep(h3) { font-size: 1.25rem; }
+
+.article-content :deep(p) {
+  margin-bottom: 1.25em;
+  line-height: 1.8;
+}
+
+.article-content :deep(ul),
+.article-content :deep(ol) {
+  padding-inline-start: 1.5rem;
+  margin-bottom: 1.25em;
+}
+
+.article-content :deep(li) {
+  margin-bottom: 0.5em;
+  line-height: 1.7;
+}
+
+.article-content :deep(ul) { list-style-type: disc; }
+.article-content :deep(ol) { list-style-type: decimal; }
+
+.article-content :deep(strong),
+.article-content :deep(b) {
+  font-weight: 700;
+}
+
+.article-content :deep(em),
+.article-content :deep(i) {
+  font-style: italic;
+}
+
+.article-content :deep(a) {
+  color: #E99E15;
+  text-decoration: underline;
+}
+
+.article-content :deep(blockquote) {
+  border-inline-start: 4px solid #E99E15;
+  padding-inline-start: 1rem;
+  margin: 1.5em 0;
+  font-style: italic;
+  color: #6b7280;
+}
+
+.article-content :deep(img) {
+  max-width: 100%;
+  border-radius: 0.75rem;
+  margin: 1.5em auto;
+}
+
+.article-content :deep(hr) {
+  border: none;
+  border-top: 1px solid #e5e7eb;
+  margin: 2em 0;
+}
+
+.article-content :deep(table) {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5em;
+}
+
+.article-content :deep(th),
+.article-content :deep(td) {
+  border: 1px solid #e5e7eb;
+  padding: 0.5rem 1rem;
+  text-align: start;
+}
+
+.article-content :deep(th) {
+  background-color: #f3f4f6;
+  font-weight: 700;
+}
+</style>
