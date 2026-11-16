@@ -110,7 +110,11 @@
           </p>
           <p class="flex items-center gap-2">
             <span class="text-primary font-bold">📞</span>
-            <span dir="ltr" class="font-mono text-xs text-gray-300">+974 5070 8833 / +974 5150 5014</span>
+            <span dir="ltr" class="font-mono text-xs text-gray-300">
+              <a href="tel:+97451505014" class="hover:text-primary transition">+974 5150 5014</a>
+              <span class="mx-1">/</span>
+              <a href="tel:+97450708833" class="hover:text-primary transition">+974 5070 8833</a>
+            </span>
           </p>
           <p class="flex items-center gap-2">
             <span class="text-green-500 font-bold">💬</span>

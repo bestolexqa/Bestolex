@@ -47,7 +47,7 @@
         <p class="text-base md:text-xl text-gray-200 font-medium max-w-4xl mx-auto mb-6 leading-relaxed">
           {{ locale === 'ar' 
             ? 'تقدم بيستوليكس لتجارة الآلات والمعدات الثقيلة برامج تدريبية متخصصة في الأنظمة الهيدروليكية، بالتعاون مع SAB TECH، بهدف تطوير المهارات الفنية للمهندسين والفنيين وفرق الصيانة والتشغيل ورفع كفاءتهم في فهم وتشغيل وصيانة وتشخيص الأنظمة الهيدروليكية.' 
-            : 'Bestolex for Trading of Heavy Machinery and Equipment offers specialized hydraulic training programs in cooperation with SAB TECH, designed to develop the technical capabilities of engineers, technicians, maintenance teams and equipment operators.' 
+            : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L. offers specialized hydraulic training programs in cooperation with SAB TECH, designed to develop the technical capabilities of engineers, technicians, maintenance teams and equipment operators.' 
           }}
         </p>
 

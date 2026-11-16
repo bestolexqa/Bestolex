@@ -133,6 +133,11 @@ const article = computed(() => {
   return mockArticles.find(a => a.id === articleId.value || a.slug === articleId.value)
 })
 
+// Unknown article slugs must return a real 404 (not a soft 200 page).
+if (!article.value) {
+  throw createError({ statusCode: 404, statusMessage: 'Article not found', fatal: true })
+}
+
 const relatedArticles = computed(() => {
   if (!article.value) return []
   return mockArticles.filter(a => a.id !== article.value.id && a.slug !== article.value.id).slice(0, 2)
@@ -182,15 +187,15 @@ useHead({
         },
         'publisher': {
           '@type': 'Organization',
-          'name': 'Bestolex Trading & Contracting',
+          'name': 'Bestolex Trading of Heavy Equipment and Machinery W.L.L.',
           'logo': {
             '@type': 'ImageObject',
-            'url': 'https://bestolex.qa/logo.png'
+            'url': 'https://www.bestolex.com/logo.png'
           }
         },
         'mainEntityOfPage': {
           '@type': 'WebPage',
-          '@id': `https://bestolex.qa/blog/${articleId.value}`
+          '@id': `https://www.bestolex.com${localePath(`/blog/${articleId.value}`)}`
         }
       }))
     }

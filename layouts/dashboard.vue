@@ -142,9 +142,10 @@ const currentTitle = computed(() => {
   return 'لوحة التحكم'
 })
 
-const handleLogout = () => {
-  const authCookie = useCookie('bestolex_admin_token')
-  authCookie.value = null
+useHead({ meta: [{ name: 'robots', content: 'noindex, nofollow' }] })
+
+const handleLogout = async () => {
+  await $fetch('/api/auth/logout', { method: 'POST' }).catch(() => {})
   router.push('/dashboard/login')
 }
 </script>

@@ -15,7 +15,7 @@
             {{ locale === 'ar' ? 'سياسة الخصوصية' : 'Privacy Policy' }}
           </h1>
           <p class="text-lg sm:text-xl font-bold text-gray-700 dark:text-gray-300">
-            {{ locale === 'ar' ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)' : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L' }}
+            {{ locale === 'ar' ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)' : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L.' }}
           </p>
         </header>
 
@@ -512,7 +512,7 @@
                   بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)
                 </h3>
                 <p class="text-gray-500 dark:text-gray-400 font-medium">
-                  Bestolex Trading of Heavy Equipment and Machinery W.L.L
+                  Bestolex Trading of Heavy Equipment and Machinery W.L.L.
                 </p>
               </div>
 
@@ -547,8 +547,8 @@
                 <p>
                   <strong class="text-gray-900 dark:text-white">الهاتف:</strong> 
                   <span dir="ltr" class="font-mono text-gray-900 dark:text-white font-semibold">
-                    <a href="tel:+97450708833" class="hover:text-amber-600 dark:hover:text-amber-400">+974 5070 8833</a> / 
-                    <a href="tel:+97451505014" class="hover:text-amber-600 dark:hover:text-amber-400">+974 5150 5014</a>
+                    <a href="tel:+97451505014" class="hover:text-amber-600 dark:hover:text-amber-400">+974 5150 5014</a> / 
+                    <a href="tel:+97450708833" class="hover:text-amber-600 dark:hover:text-amber-400">+974 5070 8833</a>
                   </span>
                 </p>
                 <p>
@@ -572,7 +572,7 @@
               1. Introduction
             </h2>
             <p>
-              Bestolex Trading of Heavy Equipment and Machinery W.L.L ("the Company", "we" or "us") respects the privacy of visitors to its website, its customers and those who deal with it. We are committed to handling and protecting their personal data in accordance with Qatar Law No. (13) of 2016 on Personal Data Privacy Protection and related legislation and regulations.
+              Bestolex Trading of Heavy Equipment and Machinery W.L.L. ("the Company", "we" or "us") respects the privacy of visitors to its website, its customers and those who deal with it. We are committed to handling and protecting their personal data in accordance with Qatar Law No. (13) of 2016 on Personal Data Privacy Protection and related legislation and regulations.
             </p>
             <p>
               This Policy explains what personal data we collect, how we collect it, the purposes for which we use it, the parties with whom we share it, how we protect and retain it, and the rights available to you in relation to it.
@@ -1053,7 +1053,7 @@
             <div class="p-6 sm:p-8 rounded-3xl bg-gray-50 dark:bg-gray-800/70 border border-gray-200 dark:border-gray-700/70 space-y-4">
               <div class="mb-4">
                 <h3 class="text-xl sm:text-2xl font-black text-gray-900 dark:text-white">
-                  Bestolex Trading of Heavy Equipment and Machinery W.L.L
+                  Bestolex Trading of Heavy Equipment and Machinery W.L.L.
                 </h3>
                 <p class="text-gray-500 dark:text-gray-400 font-medium">
                   بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)
@@ -1091,8 +1091,8 @@
                 <p>
                   <strong class="text-gray-900 dark:text-white">Phone:</strong> 
                   <span class="font-mono text-gray-900 dark:text-white font-semibold">
-                    <a href="tel:+97450708833" class="hover:text-amber-600 dark:hover:text-amber-400">+974 5070 8833</a> / 
-                    <a href="tel:+97451505014" class="hover:text-amber-600 dark:hover:text-amber-400">+974 5150 5014</a>
+                    <a href="tel:+97451505014" class="hover:text-amber-600 dark:hover:text-amber-400">+974 5150 5014</a> / 
+                    <a href="tel:+97450708833" class="hover:text-amber-600 dark:hover:text-amber-400">+974 5070 8833</a>
                   </span>
                 </p>
                 <p>

@@ -46,8 +46,8 @@
                 </div>
                 <div>
                   <h4 class="font-bold text-gray-800 dark:text-white text-lg mb-1">{{ locale === 'ar' ? 'رقم الهاتف' : 'Phone' }}</h4>
-                  <p dir="ltr" class="font-medium">+974 5070 8833</p>
-                  <p dir="ltr" class="font-medium">+974 5150 5014</p>
+                  <p dir="ltr" class="font-medium"><a href="tel:+97451505014" class="hover:text-primary transition">+974 5150 5014</a></p>
+                  <p dir="ltr" class="font-medium"><a href="tel:+97450708833" class="hover:text-primary transition">+974 5070 8833</a></p>
                 </div>
               </div>
 
@@ -249,7 +249,7 @@ useSeoMeta({
   keywords: isAr.value
     ? 'تواصل مع بيستوليكس, رقم هاتف بيستوليكس قطر, طلب عرض سعر معدات صناعية قطر, حجز موعد استشارة هندسية الدوحة, عنوان شركة بيستوليكس'
     : 'contact Bestolex Qatar, Bestolex phone number, industrial quote request Doha, engineering consultation booking Qatar',
-  ogTitle: isAr.value ? 'تواصل مع شركة بيستوليكس للتجارة والمقاولات قطر' : 'Contact Bestolex Trading & Contracting Qatar',
+  ogTitle: isAr.value ? 'تواصل مع شركة بيستوليكس لتجارة الآلات والمعدات الثقيلة' : 'Contact Bestolex Trading of Heavy Equipment and Machinery',
   ogDescription: isAr.value ? 'فريقنا الهندسي جاهز للإجابة على استفساراتكم وتقديم العروض الفنية.' : 'Our engineering team is ready to assist with technical proposals and inquiries.',
   ogImage: 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg'
 })
@@ -264,11 +264,11 @@ useHead({
         'name': 'تواصل معنا | Bestolex Qatar',
         'mainEntity': {
           '@type': 'LocalBusiness',
-          'name': locale.value === 'ar' ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)' : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L',
-          'legalName': 'Bestolex Trading of Heavy Equipment and Machinery W.L.L',
+          'name': locale.value === 'ar' ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)' : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L.',
+          'legalName': 'Bestolex Trading of Heavy Equipment and Machinery W.L.L.',
           'alternateName': 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)',
           'email': 'info@bestolex.com',
-          'telephone': '+974 5070 8833',
+          'telephone': '+974 5150 5014',
           'url': 'https://www.bestolex.com',
           'address': {
             '@type': 'PostalAddress',

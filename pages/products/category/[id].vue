@@ -181,6 +181,9 @@ const loadCategory = () => {
 }
 
 loadCategory()
+if (!category.value) {
+  throw createError({ statusCode: 404, statusMessage: 'Category not found', fatal: true })
+}
 onMounted(loadCategory)
 watch(() => route.params.id, loadCategory)
 

@@ -185,7 +185,7 @@
               </div>
               <div class="bg-white/10 backdrop-blur-sm p-4 rounded-xl border border-white/10 text-center">
                 <div class="text-[#E99E15] font-black text-2xl mb-1">+25</div>
-                <div class="text-xs text-gray-300 font-bold">{{ locale === 'ar' ? 'سنة خبرة صناعية' : 'Years Experience' }}</div>
+                <div class="text-xs text-gray-300 font-bold">{{ locale === 'ar' ? 'سنة خبرة شريكنا المصنّع ساب تك' : 'Years of SAB TECH Experience' }}</div>
               </div>
             </div>
           </div>
@@ -277,7 +277,7 @@ useHead({
         'serviceType': 'Industrial & Hydraulic Engineering Services',
         'provider': {
           '@type': 'Organization',
-          'name': 'Bestolex Trading & Contracting'
+          'name': 'Bestolex Trading of Heavy Equipment and Machinery W.L.L.'
         },
         'areaServed': {
           '@type': 'Country',

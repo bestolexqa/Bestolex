@@ -4456,18 +4456,17 @@
       {
         "id": "high-security-road-blocker-pas68",
         "name": {
-          "ar": "مصد طريق عالي الامان PAS68",
-          "en": "High Security Road Blocker PAS68"
+          "ar": "مصد طريق عالي الأمان",
+          "en": "High Security Road Blocker"
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/high-security-road-blocker-pas68/1.png",
         "description": {
-          "ar": "إن مصدة الطرق من ساب تكـ عبارة عن حاجز طريق هيدروليكي عالي الأمان تم اختباره وفقًا لمعايير PAS68: V/7500[N3]/80/90:-1.5/4.6 اختراق صفري (يعني M50-P1 “اختراق صفري” وفقًا لمعيار ASTM F2656) وما زال قيد التشغيل بعد التأثير.\nيوفر حاجز الطريق هذا أمانًا عالي المستوى لمحيطك، خاصة في المناطق المعرضة لهجمات المركبات. إنه يعمل باستخدام وحدة طاقة هيدروليكية (HPU)، قادرة على النشر خلال 3-5 ثوانٍ في ظل الظروف العادية وبسرعة تصل إلى 1.5 ثانية مع نظام متطور الفتح السريع في حالات الطوارئ (EFO).\nفي حالة انقطاع التيار الكهربائي، يمكن تشغيل حاجز الطريق يدويًا باستخدام مضخة يدوية مُجهزة خصيصًا، مما يضمن استمرار الأمان حتى في الظروف المعاكسة.\nتسمح الإلكترونيات التي يتم التحكم فيها بواسطة PLC بالتكامل متعدد الاستخدامات مع أجهزة قراءة البطاقات، وأجهزة القياسات الحيوية، والتحكم في الراديو، والتعرف على لوحة الترخيص، وإشارات المرور.",
-          "en": "SABTECH’s RBXM1000CT is a Superior Quality-security hydraulic road blocker tested according to PAS68: V/7500[N3]/80/90:-1.5/4.6 zero penetration (meaning M50-P1 zero penetration as per ASTM F2656 standard) and remaining operational after impact. This Road Blocker provides top-tier security for your perimeter, particularly in areas vulnerable to vehicle attacks.\nIt operates using a hydraulic power unit (HPU), capable of deploying within 3-5 seconds under normal conditions and as swiftly as 1.5 seconds with the emergency fast opening (EFO) Advanced System.\nIn the event of a power failure, the road blocker can be manually operated using a specially fitted hand pump, ensuring continued security even in adverse circumstances."
+          "ar": "مصد الطريق RBXM1000CT من ساب تك حاجز طريق هيدروليكي عالي الأمان، مصمم لحماية محيط المنشآت من دخول المركبات غير المصرح لها. تُذكر المطابقة لمعايير اختبار التصادم PAS 68 وIWA 14-1 وASTM F2656 فقط للموديلات المدعومة بشهادة اختبار رسمية، وتُرفق الشهادة بالعرض الفني.\nيوفر حاجز الطريق هذا أمانًا عالي المستوى لمحيطك، خاصة في المناطق المعرضة لهجمات المركبات. إنه يعمل باستخدام وحدة طاقة هيدروليكية (HPU)، قادرة على النشر خلال 3-5 ثوانٍ في ظل الظروف العادية وبسرعة تصل إلى 1.5 ثانية مع نظام متطور الفتح السريع في حالات الطوارئ (EFO).\nفي حالة انقطاع التيار الكهربائي، يمكن تشغيل حاجز الطريق يدويًا باستخدام مضخة يدوية مُجهزة خصيصًا، مما يضمن استمرار الأمان حتى في الظروف المعاكسة.\nتسمح الإلكترونيات التي يتم التحكم فيها بواسطة PLC بالتكامل متعدد الاستخدامات مع أجهزة قراءة البطاقات، وأجهزة القياسات الحيوية، والتحكم في الراديو، والتعرف على لوحة الترخيص، وإشارات المرور.",
+          "en": "SAB TECH's RBXM1000CT is a high-security hydraulic road blocker designed to protect facility perimeters against unauthorized vehicle access. Compliance with the PAS 68, IWA 14-1 and ASTM F2656 crash-test standards is stated only for models backed by an official test certificate, which is attached to the technical proposal. This road blocker provides high-level security for your perimeter, particularly in areas vulnerable to vehicle attacks.\nIt operates using a hydraulic power unit (HPU), capable of deploying within 3-5 seconds under normal conditions and as swiftly as 1.5 seconds with the emergency fast opening (EFO) Advanced System.\nIn the event of a power failure, the road blocker can be manually operated using a specially fitted hand pump, ensuring continued security even in adverse circumstances."
         },
         "features": {
           "ar": [
-            "تم اختبار التصادم وفق معايير PAS68 و IWA14-1 العالمية",
-            "مكافئ لتصنيفات الكفاءة الأمنية الفائقة K12 و M50 و ASTM F2656",
+            "المطابقة لمعايير PAS 68 وIWA 14-1 وASTM F2656 تُذكر فقط للموديلات المدعومة بشهادة اختبار رسمية",
             "صفيحة فولاذية علوية مربعة الشكل بسماكة 10 ملم مانعة للانزلاق",
             "هيكل عالي التحمل مصفح ومصنوع من الفولاذ الصلب S275JR",
             "سرعة تشغيل فائقة (3-5 ثوانٍ) وفتح طوارئ سريع (1.5 ثانية)",
@@ -4475,8 +4474,7 @@
             "خدمة ما بعد البيع متكاملة مع توفر قطع الغيار وضمان لمدة سنة واحدة"
           ],
           "en": [
-            "PAS68 and IWA14-1 crash tested for maximum perimeter security",
-            "Equivalent to K12, M50, and ASTM F2656 zero penetration standards",
+            "PAS 68, IWA 14-1 and ASTM F2656 compliance stated only for models with an official test certificate",
             "Checkered top steel plate at 10 mm thickness for slip resistance",
             "Heavy-duty structure made out of Superior Quality-grade S275JR steel",
             "Fast deployment (3-5s) with Emergency Fast Opening (EFO) in 1.5s",
@@ -4663,18 +4661,18 @@
       {
         "id": "high-security-shallow-road-blocker-pas68",
         "name": {
-          "ar": "مصد سطحي طريق عالي الامان PAS68",
-          "en": "High Security Shallow Road Blocker PAS68"
+          "ar": "مصد طريق سطحي عالي الأمان",
+          "en": "High Security Shallow Road Blocker"
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/high-security-shallow-road-blocker-pas68/1.png",
         "description": {
-          "ar": "توفر مصدات الطرق السطحية الهيدروليكية فائقة الجودة الأمان من ساب تك أمانًا لا مثيل له في محيط المنشآت الحساسة، مما يمنع بشكل فعال الوصول غير المصرح به للمركبات.\nمع عمق تركيب يبلغ 40 سم فقط، يعتبر مصد الطريق السطحي مثالياً للمواقع التي تكون فيها الأساسات الخرسانية العميقة غير عملية، مما يوفر مرونة ممتازة للتركيب.\nيعمل النظام متطور بواسطة وحدة طاقة هيدروليكية (HPU) قادرة على الرفع والفتح خلال 3-5 ثوانٍ، وبسرعة تصل إلى 1.5 ثانية مع نظام متطور الفتح السريع في حالات الطوارئ (EFO).\nتسمح لوحة التحكم الإلكترونية بي إل سي بالتكامل والتوافق مع أجهزة قراءة البطاقات، البصمة الحيوية، والتحكم بالراديو، وقارئ لوحات المركبات.",
-          "en": "SABTECH’s Superior Quality Security Shallow Mount Hydraulic Road Blocker provides unmatched perimeter security, effectively preventing unauthorized vehicle access.\nWith an installation depth of just 40 cm, our shallow road blocker is ideal for sites where deep concrete foundations are impractical, offering enhanced installation flexibility.\nPowered by a Hydraulic Power Unit (HPU), it deploys within 3 to 5 seconds under standard operation, and as fast as 1.5 seconds with Emergency Fast Opening (EFO).\nThe PLC-controlled Advanced System supports integration with card readers, biometric readers, radio controls, and license plate recognition."
+          "ar": "توفر مصدات الطرق السطحية الهيدروليكية عالية الأمان من ساب تك حماية عالية لمحيط المنشآت الحساسة، مما يمنع بشكل فعال الوصول غير المصرح به للمركبات.\nمع عمق تركيب يبلغ 40 سم فقط، يعتبر مصد الطريق السطحي مثالياً للمواقع التي تكون فيها الأساسات الخرسانية العميقة غير عملية، مما يوفر مرونة ممتازة للتركيب.\nيعمل النظام متطور بواسطة وحدة طاقة هيدروليكية (HPU) قادرة على الرفع والفتح خلال 3-5 ثوانٍ، وبسرعة تصل إلى 1.5 ثانية مع نظام متطور الفتح السريع في حالات الطوارئ (EFO).\nتسمح لوحة التحكم الإلكترونية بي إل سي بالتكامل والتوافق مع أجهزة قراءة البطاقات، البصمة الحيوية، والتحكم بالراديو، وقارئ لوحات المركبات.",
+          "en": "SAB TECH's high-security shallow-mount hydraulic road blocker provides high-level perimeter security, effectively preventing unauthorized vehicle access.\nWith an installation depth of just 40 cm, our shallow road blocker is ideal for sites where deep concrete foundations are impractical, offering enhanced installation flexibility.\nPowered by a Hydraulic Power Unit (HPU), it deploys within 3 to 5 seconds under standard operation, and as fast as 1.5 seconds with Emergency Fast Opening (EFO).\nThe PLC-controlled Advanced System supports integration with card readers, biometric readers, radio controls, and license plate recognition."
         },
         "features": {
           "ar": [
             "عمق أساسات سطحية منخفض جداً (40 سم فقط) مناسب للمناطق المحدودة",
-            "اختبارات تصادم واختراق صفري معتمدة عالمياً وفق معيار PAS68",
+            "المطابقة لمعيار PAS 68 تُذكر فقط للموديلات المدعومة بشهادة اختبار رسمية",
             "سرعة تشغيل فائقة (3-5 ثوانٍ) وفتح طوارئ سريع خلال 1.5 ثانية (EFO)",
             "هيكل عالي التحمل مصفح ومقاوم للاصطدامات الشديدة مع تشغيل يدوي للطوارئ",
             "لوحة تحكم بي إل سي متطورة تدعم الربط مع جميع أنظمة حديثة وموثوقة التحكم في الدخول",
@@ -4682,7 +4680,7 @@
           ],
           "en": [
             "Ultra-shallow foundation depth (just 40 cm) for sites with underground constraints",
-            "Crash tested and certified for zero penetration according to PAS68 standards",
+            "PAS 68 compliance stated only for models with an official test certificate",
             "Fast deployment (3-5 sec) with Emergency Fast Opening (EFO) in 1.5 sec",
             "Heavy-duty armoured structure with manual emergency hand pump operation",
             "Advanced PLC controller supporting complete access control Advanced System integrations",

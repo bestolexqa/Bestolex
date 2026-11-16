@@ -24,7 +24,7 @@ export default defineNuxtConfig({
     gmailUser: process.env.GMAIL_USER,
     gmailPass: process.env.GMAIL_PASS,
     bunnyStorageZoneName: process.env.BUNNY_STORAGE_ZONE_NAME || 'electrocreative-zone',
-    bunnyStorageAccessKey: process.env.BUNNY_STORAGE_ACCESS_KEY || 'fdbaf174-b9f2-4453-93bbfa08f649-6912-41c6',
+    bunnyStorageAccessKey: process.env.BUNNY_STORAGE_ACCESS_KEY || '',
     bunnyStorageBaseUrl: process.env.BUNNY_STORAGE_BASE_URL || 'https://storage.bunnycdn.com',
     public: {
       bunnyPullZoneUrl: process.env.BUNNY_PULL_ZONE_URL ? (process.env.BUNNY_PULL_ZONE_URL.startsWith('http') ? process.env.BUNNY_PULL_ZONE_URL : `https://${process.env.BUNNY_PULL_ZONE_URL}`) : 'https://electrocreative-cdn.b-cdn.net'
@@ -32,10 +32,12 @@ export default defineNuxtConfig({
   },
   i18n: {
     locales: [
-      { code: 'ar', iso: 'ar-SA', dir: 'rtl', name: 'العربية' },
-      { code: 'en', iso: 'en-US', dir: 'ltr', name: 'English' }
+      { code: 'ar', language: 'ar-QA', dir: 'rtl', name: 'العربية' },
+      { code: 'en', language: 'en', dir: 'ltr', name: 'English' }
     ],
     defaultLocale: 'ar',
+    strategy: 'prefix_except_default',
+    baseUrl: 'https://www.bestolex.com',
     detectBrowserLanguage: false
   },
   supabase: {
@@ -48,23 +50,17 @@ export default defineNuxtConfig({
   ],
   app: {
     head: {
-      htmlAttrs: {
-        lang: 'ar',
-        dir: 'rtl'
-      },
       title: 'بيستوليكس قطر | الأنظمة الهيدروليكية والمعدات الصناعية',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         { name: 'robots', content: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' },
-        { name: 'author', content: 'بيستوليكس للتجارة والمقاولات | Bestolex' },
+        { name: 'author', content: 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م) | Bestolex Trading of Heavy Equipment and Machinery W.L.L.' },
         { name: 'theme-color', content: '#E99E15' },
         { name: 'geo.region', content: 'QA' },
         { name: 'geo.placename', content: 'Doha, Qatar' },
         { property: 'og:site_name', content: 'Bestolex Qatar | بيستوليكس قطر' },
         { property: 'og:type', content: 'website' },
-        { property: 'og:locale', content: 'ar_QA' },
-        { property: 'og:locale:alternate', content: 'en_US' },
         { name: 'twitter:card', content: 'summary_large_image' }
       ],
       link: [
