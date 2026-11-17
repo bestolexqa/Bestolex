@@ -64,12 +64,12 @@
             {{ locale === 'ar' ? 'من نحن' : 'About Us' }}
           </div>
           <h2 class="text-3xl md:text-4xl font-black text-gray-900 dark:text-white leading-tight">
-            {{ locale === 'ar' ? 'الشركة القطرية الرائدة في حلول وتجارة الآلات والمعدات الثقيلة المتقدمة والأنظمة اللوجستية' : 'The Leading Qatari Enterprise in Advanced Heavy Machinery & Logistics Solutions' }}
+            {{ locale === 'ar' ? 'شركة قطرية لتوريد معدات التحميل والنفايات والحماية المحيطية والأبواب الصناعية' : 'A Qatari Supplier of Loading, Waste, Perimeter Security and Industrial Door Systems' }}
           </h2>
           <p class="text-gray-600 dark:text-gray-300 text-lg leading-relaxed">
             {{ locale === 'ar' 
-              ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة هي الخيار الأول والشريك الهندسي الموثوق في قطر لتوريد وتركيب أحدث المعدات الصناعية والنظم الهيدروليكية واللوجستية. نحن ندعم قطاعات المقاولات الكبرى، البنية التحتية، المصانع، المستودعات، والموانئ بحلول متكاملة وعالية الكفاءة. تشمل محفظتنا الاستثنائية منصات التحميل الهيدروليكية، مكابس النفايات وإعادة التدوير، المصدات الأمنية الغاطسة وحماية المحيط، والأبواب الصناعية المتينة والمصممة لتحمل شتى الظروف.'
-              : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L. is the premier choice and trusted engineering partner in Qatar for the supply, installation, and maintenance of cutting-edge industrial equipment and hydraulic systems. We empower major contracting, infrastructure, factories, warehouses, and ports sectors with highly efficient, integrated solutions. Our exceptional portfolio includes hydraulic dock levelers, waste recycling compactors, crash-rated security bollards, and heavy-duty industrial doors designed for extreme conditions.'
+              ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م) شركة قطرية والوكيل الحصري لمنتجات ساب تك في قطر. نورّد ونركّب معدات المنشآت في أربعة مجالات: أنظمة التحميل والمستودعات، والنفايات وإعادة التدوير، والحماية المحيطية، والأبواب الصناعية، ونخدم المستودعات والمصانع والموانئ والجهات الحكومية والمجمعات التجارية والمقاولين. ونوفّر المعدات الثقيلة عند الطلب.'
+              : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L. is a Qatari company and the exclusive SABTECH agent in Qatar. We supply and install facility equipment in four areas: loading and warehouse systems, waste and recycling, perimeter protection and industrial doors, serving warehouses, factories, ports, government sites, commercial complexes and contractors. Heavy equipment is available on request.'
             }}
           </p>
           <div class="grid grid-cols-2 gap-4 pt-4">
