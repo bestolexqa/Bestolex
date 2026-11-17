@@ -236,50 +236,49 @@
 import { computed } from 'vue'
 
 const { locale } = useI18n()
+const localePath = useLocalePath()
 
 const isAr = computed(() => locale.value === 'ar')
 
 useSeoMeta({
-  title: isAr.value
-    ? 'تواصل معنا | طلب عروض الأسعار والاستشارات - بيستوليكس قطر'
-    : 'Contact Us | Quotes & Technical Consultations - Bestolex',
-  description: isAr.value
-    ? 'تواصل مباشرة مع فريق بيستوليكس في الدوحة، قطر لطلب عروض الأسعار، المعاينة الميدانية، والاستشارات الهندسية للمعدات الهيدروليكية وحلول حماية المحيط والمستودعات.'
-    : 'Contact Bestolex Trading in Doha, Qatar for quotes, site survey requests, and technical consultations on hydraulic and industrial systems.',
-  keywords: isAr.value
-    ? 'تواصل مع بيستوليكس, رقم هاتف بيستوليكس قطر, طلب عرض سعر معدات صناعية قطر, حجز موعد استشارة هندسية الدوحة, عنوان شركة بيستوليكس'
-    : 'contact Bestolex Qatar, Bestolex phone number, industrial quote request Doha, engineering consultation booking Qatar',
-  ogTitle: isAr.value ? 'تواصل مع شركة بيستوليكس لتجارة الآلات والمعدات الثقيلة' : 'Contact Bestolex Trading of Heavy Equipment and Machinery',
-  ogDescription: isAr.value ? 'فريقنا الهندسي جاهز للإجابة على استفساراتكم وتقديم العروض الفنية.' : 'Our engineering team is ready to assist with technical proposals and inquiries.',
-  ogImage: 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg'
+  title: () => isAr.value ? 'تواصل معنا واطلب عرض سعر | بيستوليكس قطر' : 'Contact Bestolex | Request a Quote in Doha, Qatar',
+  description: () => isAr.value
+    ? 'اطلب عرض سعر أو معاينة ميدانية من بيستوليكس في الدوحة لأنظمة التحميل ومكابس النفايات ومصدات الطرق والأبواب الصناعية. هاتف وواتساب: +974 51505014.'
+    : 'Request a quote or site survey from Bestolex in Doha for loading systems, waste balers, road blockers and industrial doors. Phone and WhatsApp: +974 51505014.',
+  ogTitle: () => isAr.value ? 'تواصل معنا واطلب عرض سعر | بيستوليكس قطر' : 'Contact Bestolex | Request a Quote in Doha, Qatar',
+  ogDescription: () => isAr.value
+    ? 'اطلب عرض سعر أو معاينة ميدانية من بيستوليكس في الدوحة لأنظمة التحميل ومكابس النفايات ومصدات الطرق والأبواب الصناعية. هاتف وواتساب: +974 51505014.'
+    : 'Request a quote or site survey from Bestolex in Doha for loading systems, waste balers, road blockers and industrial doors. Phone and WhatsApp: +974 51505014.',
+  ogImage: BUSINESS.image
 })
 
-useHead({
+useHead(() => ({
   script: [
     {
       type: 'application/ld+json',
-      children: JSON.stringify({
+      key: 'ld-contact',
+      innerHTML: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'ContactPage',
-        'name': 'تواصل معنا | Bestolex Qatar',
-        'mainEntity': {
+        name: isAr.value ? 'تواصل معنا | بيستوليكس' : 'Contact Bestolex',
+        url: `${SITE_URL}${localePath('/contact')}`,
+        isPartOf: { '@id': WEBSITE_ID },
+        mainEntity: {
           '@type': 'LocalBusiness',
-          'name': locale.value === 'ar' ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)' : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L.',
-          'legalName': 'Bestolex Trading of Heavy Equipment and Machinery W.L.L.',
-          'alternateName': 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)',
-          'email': 'info@bestolex.com',
-          'telephone': '+974 5150 5014',
-          'url': 'https://www.bestolex.com',
-          'address': {
-            '@type': 'PostalAddress',
-            'addressLocality': 'Doha',
-            'addressCountry': 'QA'
-          }
+          '@id': `${SITE_URL}/#business`,
+          name: isAr.value ? BUSINESS.legalNameAr : BUSINESS.legalNameEn,
+          legalName: BUSINESS.legalNameEn,
+          telephone: BUSINESS.phonePrimary,
+          email: BUSINESS.email,
+          url: SITE_URL,
+          address: BUSINESS.address,
+          openingHoursSpecification: BUSINESS.openingHours,
+          parentOrganization: { '@id': ORG_ID }
         }
       })
     }
   ]
-})
+}))
 
 const form = ref({
   name: '',

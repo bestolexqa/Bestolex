@@ -8,13 +8,46 @@
 // Per-language <html lang/dir>, self-referencing canonical, hreflang alternates (ar-QA, en, x-default) and og:locale.
 const i18nHead = useLocaleHead({ lang: true, dir: true, seo: true })
 
+// Site-wide entity graph: one Organization and one WebSite, referenced by @id from page-level schema.
+const siteGraph = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'Organization',
+      '@id': ORG_ID,
+      name: BUSINESS.legalNameEn,
+      alternateName: [BUSINESS.legalNameAr, 'Bestolex', 'بيستوليكس'],
+      legalName: BUSINESS.legalNameEn,
+      url: SITE_URL,
+      logo: BUSINESS.logo,
+      email: BUSINESS.email,
+      telephone: BUSINESS.phonePrimary,
+      address: BUSINESS.address,
+      contactPoint: [
+        { '@type': 'ContactPoint', telephone: BUSINESS.phonePrimary, contactType: 'sales', areaServed: 'QA', availableLanguage: ['ar', 'en'] },
+        { '@type': 'ContactPoint', telephone: BUSINESS.phoneSecondary, contactType: 'customer service', areaServed: 'QA', availableLanguage: ['ar', 'en'] }
+      ]
+    },
+    {
+      '@type': 'WebSite',
+      '@id': WEBSITE_ID,
+      url: SITE_URL,
+      name: 'Bestolex Qatar',
+      alternateName: 'بيستوليكس قطر',
+      inLanguage: ['ar-QA', 'en'],
+      publisher: { '@id': ORG_ID }
+    }
+  ]
+})
+
 useHead(() => ({
   htmlAttrs: {
     lang: i18nHead.value.htmlAttrs?.lang,
     dir: i18nHead.value.htmlAttrs?.dir
   },
   link: [...(i18nHead.value.link || [])],
-  meta: [...(i18nHead.value.meta || [])]
+  meta: [...(i18nHead.value.meta || [])],
+  script: [{ type: 'application/ld+json', key: 'ld-site', innerHTML: siteGraph }]
 }))
 </script>
 

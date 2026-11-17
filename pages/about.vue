@@ -64,12 +64,12 @@
             {{ locale === 'ar' ? 'من نحن' : 'About Us' }}
           </div>
           <h2 class="text-3xl md:text-4xl font-black text-gray-900 dark:text-white leading-tight">
-            {{ locale === 'ar' ? 'الشركة القطرية الرائدة في حلول وتجارة الآلات والمعدات الثقيلة المتقدمة والأنظمة اللوجستية' : 'The Leading Qatari Enterprise in Advanced Heavy Machinery & Logistics Solutions' }}
+            {{ locale === 'ar' ? 'شركة قطرية لتوريد معدات التحميل والنفايات والحماية المحيطية والأبواب الصناعية' : 'A Qatari Supplier of Loading, Waste, Perimeter Security and Industrial Door Systems' }}
           </h2>
           <p class="text-gray-600 dark:text-gray-300 text-lg leading-relaxed">
             {{ locale === 'ar' 
-              ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة هي الخيار الأول والشريك الهندسي الموثوق في قطر لتوريد وتركيب أحدث المعدات الصناعية والنظم الهيدروليكية واللوجستية. نحن ندعم قطاعات المقاولات الكبرى، البنية التحتية، المصانع، المستودعات، والموانئ بحلول متكاملة وعالية الكفاءة. تشمل محفظتنا الاستثنائية منصات التحميل الهيدروليكية، مكابس النفايات وإعادة التدوير، المصدات الأمنية الغاطسة وحماية المحيط، والأبواب الصناعية المتينة والمصممة لتحمل شتى الظروف.'
-              : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L. is the premier choice and trusted engineering partner in Qatar for the supply, installation, and maintenance of cutting-edge industrial equipment and hydraulic systems. We empower major contracting, infrastructure, factories, warehouses, and ports sectors with highly efficient, integrated solutions. Our exceptional portfolio includes hydraulic dock levelers, waste recycling compactors, crash-rated security bollards, and heavy-duty industrial doors designed for extreme conditions.'
+              ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م) شركة قطرية والوكيل الحصري لمنتجات ساب تك في قطر. نورّد ونركّب معدات المنشآت في أربعة مجالات: أنظمة التحميل والمستودعات، والنفايات وإعادة التدوير، والحماية المحيطية، والأبواب الصناعية، ونخدم المستودعات والمصانع والموانئ والجهات الحكومية والمجمعات التجارية والمقاولين. ونوفّر المعدات الثقيلة عند الطلب.'
+              : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L. is a Qatari company and the exclusive SABTECH agent in Qatar. We supply and install facility equipment in four areas: loading and warehouse systems, waste and recycling, perimeter protection and industrial doors, serving warehouses, factories, ports, government sites, commercial complexes and contractors. Heavy equipment is available on request.'
             }}
           </p>
           <div class="grid grid-cols-2 gap-4 pt-4">
@@ -347,38 +347,33 @@ const activeTab = ref('principles')
 const isAr = computed(() => locale.value === 'ar')
 
 useSeoMeta({
-  title: isAr.value
-    ? 'من نحن | شركة بيستوليكس للحلول الهندسية والصناعية في قطر'
-    : 'About Us | Bestolex Engineering Solutions Qatar',
-  description: isAr.value
-    ? 'تعرف على شركة بيستوليكس القطرية، الوكيل الحصري والشريك الصناعي المعتمد لساب تك، والمتخصصة في توريد وتجهيز المنشآت بالأنظمة الهيدروليكية وحلول حماية المحيط ومعدات المستودعات.'
-    : 'Learn about Bestolex Trading of Heavy Equipment and Machinery W.L.L. in Qatar, exclusive partner for SAB TECH, specializing in industrial hydraulics, security systems, and logistics solutions.',
-  keywords: isAr.value
-    ? 'عن شركة بيستوليكس, بيستوليكس قطر, وكيل ساب تك قطر, سجل تجاري 248416, شركات معدات صناعية الدوحة, مقاولات هيدروليكية قطر, توريد معدات أمنية الدوحة'
-    : 'about Bestolex Qatar, Bestolex Trading, SAB TECH Qatar partner, CR 248416, industrial equipment suppliers Doha, hydraulic contracting Qatar',
-  ogTitle: isAr.value ? 'من نحن | بيستوليكس لتجارة الآلات والمعدات الثقيلة قطر' : 'About Us | Bestolex Trading Qatar',
-  ogDescription: isAr.value ? 'شراكة هندسية وصناعية رائدة تلبي احتياجات المشاريع الكبرى في دولة قطر.' : 'Leading engineering & industrial partnership serving major projects in Qatar.',
-  ogImage: 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg'
+  title: () => isAr.value ? 'من نحن | بيستوليكس لتجارة الآلات والمعدات الثقيلة' : 'About Bestolex | Exclusive SABTECH Agent in Qatar',
+  description: () => isAr.value
+    ? 'بيستوليكس شركة قطرية والوكيل الحصري لمنتجات ساب تك في قطر، تورّد أنظمة التحميل ومعدات النفايات والحماية المحيطية والأبواب الصناعية للمنشآت.'
+    : 'Bestolex is a Qatari company and the exclusive SABTECH agent in Qatar, supplying loading, waste, perimeter security and industrial door systems.',
+  ogTitle: () => isAr.value ? 'من نحن | بيستوليكس لتجارة الآلات والمعدات الثقيلة' : 'About Bestolex | Exclusive SABTECH Agent in Qatar',
+  ogDescription: () => isAr.value
+    ? 'بيستوليكس شركة قطرية والوكيل الحصري لمنتجات ساب تك في قطر، تورّد أنظمة التحميل ومعدات النفايات والحماية المحيطية والأبواب الصناعية للمنشآت.'
+    : 'Bestolex is a Qatari company and the exclusive SABTECH agent in Qatar, supplying loading, waste, perimeter security and industrial door systems.',
+  ogImage: BUSINESS.image
 })
 
-useHead({
+useHead(() => ({
   script: [
     {
       type: 'application/ld+json',
-      children: JSON.stringify({
+      key: 'ld-about',
+      innerHTML: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'AboutPage',
-        'name': 'من نحن | Bestolex Qatar',
-        'description': 'Company profile and industrial engineering capabilities of Bestolex in Qatar.',
-        'publisher': {
-          '@type': 'Organization',
-          'name': 'Bestolex Trading of Heavy Equipment and Machinery W.L.L.',
-          'url': 'https://www.bestolex.com'
-        }
+        name: isAr.value ? 'من نحن | بيستوليكس' : 'About Bestolex',
+        url: `${SITE_URL}${localePath('/about')}`,
+        isPartOf: { '@id': WEBSITE_ID },
+        about: { '@id': ORG_ID }
       })
     }
   ]
-})
+}))
 
 // Values List
 const valuesList = [

@@ -22,9 +22,12 @@
         <div class="flex justify-center mb-8">
           <NuxtImg src="/logo-dark-transparent.png" alt="Bestolex Logo" class="h-20 md:h-32 object-contain drop-shadow-2xl" format="webp" loading="eager" />
         </div>
-        <h1 class="text-xl md:text-3xl font-medium mb-8 text-gray-100 drop-shadow-md">
-          {{ locale === 'ar' ? 'الخيار الأول لتجارة الآلات والمعدات الثقيلة والنظم الهيدروليكية المتقدمة' : 'YOUR PREMIER PARTNER FOR HEAVY MACHINERY & ADVANCED HYDRAULIC SYSTEMS' }}
+        <h1 class="text-xl md:text-3xl font-medium mb-3 text-gray-100 drop-shadow-md">
+          {{ locale === 'ar' ? 'معدات التحميل والنفايات والحماية المحيطية والأبواب الصناعية في قطر' : 'Loading, Waste, Perimeter Security and Industrial Door Solutions in Qatar' }}
         </h1>
+        <p class="text-base md:text-xl mb-8 text-gray-200 drop-shadow-md">
+          {{ locale === 'ar' ? 'بيستوليكس – الوكيل الحصري لمنتجات ساب تك في قطر' : 'Bestolex – the exclusive SABTECH agent in Qatar' }}
+        </p>
         <NuxtLink :to="localePath('/products')" class="inline-block bg-primary text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-orange-600 transition shadow-lg shadow-primary/30 hover:scale-105">
           {{ locale === 'ar' ? 'اكتشف منتجاتنا' : 'Explore Our Products' }}
         </NuxtLink>
@@ -346,54 +349,55 @@ const { locale } = useI18n()
 const localePath = useLocalePath()
 const products = ref(mockProducts)
 
-// Advanced SEO & High Ranking Keywords
 const isAr = computed(() => locale.value === 'ar')
 
 useSeoMeta({
-  title: isAr.value 
-    ? 'بيستوليكس قطر | حلول الأنظمة الهيدروليكية والمعدات الصناعية'
-    : 'Bestolex Qatar | Industrial Hydraulics & Security Systems',
-  description: isAr.value
-    ? 'الشركة الرائدة في قطر لتوريد وتركيب وصيانة الأنظمة الهيدروليكية الصناعية، المصدات الأمنية الغاطسة، حواجز مفجر الإطارات، منصات التحميل اللوجستية، ومكابس تدوير الكرتون والبلاستيك.'
-    : 'Leading industrial supplier in Qatar for hydraulic machinery, crash-rated bollards, tyre killers, hydraulic dock levelers, industrial doors, and waste baling presses.',
-  keywords: isAr.value
-    ? 'أنظمة هيدروليكية قطر, منصات تحميل هيدروليكية الدوحة, مصدات أمنية غاطسة قطر, حواجز مفجر الإطارات, مكابس كرتون وبلاستيك قطر, أبواب صناعية رول, صيانة هيدروليك الدوحة, معدات لوجستية قطر, شركة بيستوليكس'
-    : 'hydraulic systems Qatar, dock levelers Doha, security bollards Qatar, tyre killers Doha, waste balers Qatar, industrial doors, hydraulic maintenance Qatar, Bestolex Trading',
-  ogTitle: isAr.value ? 'بيستوليكس | الحلول الهندسية والصناعية المتكاملة - قطر' : 'Bestolex | Integrated Engineering & Industrial Solutions - Qatar',
-  ogDescription: isAr.value ? 'توريد وتركيب وصيانة المعدات الهيدروليكية والأنظمة الأمنية واللوجستية وفق أعلى المعايير الدولية في دولة قطر.' : 'Supply, installation, and maintenance of hydraulic and industrial equipment in Qatar.',
-  ogImage: 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg'
+  title: () => isAr.value
+    ? 'أنظمة التحميل والنفايات والحماية المحيطية في قطر | بيستوليكس'
+    : 'Loading, Waste & Security Equipment in Qatar | Bestolex',
+  description: () => isAr.value
+    ? 'بيستوليكس تورّد أرصفة التحميل والرافعات المقصية ومكابس النفايات ومصدات الطرق ومفجرات الإطارات والأبواب الصناعية في قطر. الوكيل الحصري لساب تك. اطلب عرض سعر.'
+    : 'Bestolex supplies dock levelers, scissor lifts, balers, road blockers, bollards and industrial doors in Qatar. Exclusive SABTECH agent. Request a quote.',
+  ogTitle: () => isAr.value ? 'بيستوليكس | معدات التحميل والنفايات والحماية والأبواب الصناعية في قطر' : 'Bestolex | Loading, Waste, Security and Industrial Door Solutions in Qatar',
+  ogDescription: () => isAr.value
+    ? 'الوكيل الحصري لمنتجات ساب تك في قطر: توريد وتركيب وصيانة معدات المنشآت.'
+    : 'Exclusive SABTECH agent in Qatar: supply, installation and maintenance of facility equipment.',
+  ogImage: BUSINESS.image
 })
 
-useHead({
+useHead(() => ({
   script: [
     {
       type: 'application/ld+json',
-      children: JSON.stringify({
+      key: 'ld-business',
+      innerHTML: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'LocalBusiness',
-        'name': isAr.value ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)' : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L.',
-        'legalName': 'Bestolex Trading of Heavy Equipment and Machinery W.L.L.',
-        'alternateName': 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)',
-        'description': isAr.value 
-          ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م) شركة قطرية توفر حلولًا ومعدات صناعية للمشاريع والمنشآت في الدوحة ومختلف أنحاء قطر.' 
-          : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L. is a Qatari company providing industrial solutions and equipment for projects and facilities in Doha and across Qatar.',
-        'url': 'https://www.bestolex.com',
-        'telephone': '+974 5150 5014',
-        'email': 'info@bestolex.com',
-        'address': {
-          '@type': 'PostalAddress',
-          'addressLocality': 'Doha',
-          'addressCountry': 'QA'
-        },
+        '@id': `${SITE_URL}/#business`,
+        'name': isAr.value ? BUSINESS.legalNameAr : BUSINESS.legalNameEn,
+        'legalName': BUSINESS.legalNameEn,
+        'alternateName': [BUSINESS.legalNameAr, 'Bestolex', 'بيستوليكس'],
+        'description': isAr.value
+          ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م) شركة قطرية والوكيل الحصري لمنتجات ساب تك في قطر، تورّد أنظمة التحميل والمستودعات ومعدات النفايات وإعادة التدوير والحماية المحيطية والأبواب الصناعية.'
+          : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L. is a Qatari company and the exclusive SABTECH agent in Qatar, supplying loading and warehouse systems, waste and recycling equipment, perimeter protection and industrial doors.',
+        'url': SITE_URL,
+        'logo': BUSINESS.logo,
+        'image': BUSINESS.image,
+        'telephone': BUSINESS.phonePrimary,
+        'email': BUSINESS.email,
+        'address': BUSINESS.address,
+        'openingHoursSpecification': BUSINESS.openingHours,
+        'areaServed': { '@type': 'Country', 'name': 'Qatar' },
+        'parentOrganization': { '@id': ORG_ID },
         'taxID': '5009022658',
         'identifier': 'CR: 248416'
       })
     }
   ]
-})
+}))
 
 // Fetch live articles and display the 6 pinned articles
-const { data: blogData } = await useFetch('/api/blog')
+const { data: blogData } = await useFetch('/api/blog', { query: { view: 'list' } })
 const articles = computed(() => {
   const all = (blogData.value && Array.isArray(blogData.value) && blogData.value.length > 0) ? blogData.value : mockArticles
   const featured = all.filter((a) => a.is_featured || a.isFeatured)
