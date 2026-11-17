@@ -4,7 +4,7 @@ import defaultArticles from '~~/data/articles.json'
 import defaultCategories from '~~/data/categories.json'
 import { useServerSupabase } from './supabase'
 
-const BUNNY_STORAGE_ACCESS_KEY = process.env.BUNNY_STORAGE_ACCESS_KEY || 'fdbaf174-b9f2-4453-93bbfa08f649-6912-41c6'
+const BUNNY_STORAGE_ACCESS_KEY = process.env.BUNNY_STORAGE_ACCESS_KEY || ''
 const BUNNY_STORAGE_ZONE = process.env.BUNNY_STORAGE_ZONE_NAME || 'electrocreative-zone'
 const BUNNY_PULL_ZONE = process.env.BUNNY_PULL_ZONE_URL || 'electrocreative-cdn.b-cdn.net'
 

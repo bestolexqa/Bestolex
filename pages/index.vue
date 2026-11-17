@@ -4,15 +4,17 @@
     <section class="relative h-[80vh] flex items-center justify-center bg-gray-900 overflow-hidden">
       <!-- Video Background -->
       <div class="absolute inset-0 z-0">
-        <video
-          src="https://electrocreative-cdn.b-cdn.net/doctors.oralign.co_case-details_461%20(1).webm"
-          referrerpolicy="no-referrer"
-          autoplay
-          loop
-          muted
-          playsinline
+        <!-- Interim cover image: the previous background video belonged to another project (dental clinic).
+             Replace with a compressed Bestolex video + this image as its poster when the footage is ready. -->
+        <img
+          src="https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg"
+          alt=""
+          aria-hidden="true"
+          fetchpriority="high"
+          loading="eager"
+          decoding="async"
           class="w-full h-full object-cover opacity-60 dark:opacity-40"
-        ></video>
+        />
         <!-- Optional overlay gradient for better text readability -->
         <div class="absolute inset-0 bg-gradient-to-t from-gray-900 via-transparent to-transparent opacity-80"></div>
       </div>
@@ -369,14 +371,14 @@ useHead({
       children: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'LocalBusiness',
-        'name': isAr.value ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)' : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L',
-        'legalName': 'Bestolex Trading of Heavy Equipment and Machinery W.L.L',
+        'name': isAr.value ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)' : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L.',
+        'legalName': 'Bestolex Trading of Heavy Equipment and Machinery W.L.L.',
         'alternateName': 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م)',
         'description': isAr.value 
           ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م) شركة قطرية توفر حلولًا ومعدات صناعية للمشاريع والمنشآت في الدوحة ومختلف أنحاء قطر.' 
-          : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L is a Qatari company providing industrial solutions and equipment for projects and facilities in Doha and across Qatar.',
+          : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L. is a Qatari company providing industrial solutions and equipment for projects and facilities in Doha and across Qatar.',
         'url': 'https://www.bestolex.com',
-        'telephone': '+974 5070 8833',
+        'telephone': '+974 5150 5014',
         'email': 'info@bestolex.com',
         'address': {
           '@type': 'PostalAddress',

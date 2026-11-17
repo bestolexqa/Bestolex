@@ -250,7 +250,7 @@ useHead({
         'description': 'Technical and industrial articles from Bestolex Qatar.',
         'publisher': {
           '@type': 'Organization',
-          'name': 'Bestolex Trading & Contracting'
+          'name': 'Bestolex Trading of Heavy Equipment and Machinery W.L.L.'
         }
       })
     }

@@ -19,9 +19,20 @@ export default defineEventHandler(async (event) => {
 
       // Bunny Storage Configuration
       const storageZone = config.bunnyStorageZoneName || 'electrocreative-zone'
-      const accessKey = config.bunnyStorageAccessKey || 'fdbaf174-b9f2-4453-93bbfa08f649-6912-41c6'
+      const accessKey = config.bunnyStorageAccessKey || ''
       const baseUrl = (config.bunnyStorageBaseUrl || 'https://storage.bunnycdn.com').replace(/\/$/, '')
       const pullZoneUrl = (config.public.bunnyPullZoneUrl || 'https://electrocreative-cdn.b-cdn.net').replace(/\/$/, '')
+
+      if (!accessKey) {
+        throw createError({ statusCode: 500, message: 'Storage is not configured' })
+      }
+      const allowedTypes = ['image/jpeg', 'image/png', 'image/webp', 'image/avif', 'image/gif']
+      if (!allowedTypes.includes(item.type || '')) {
+        throw createError({ statusCode: 415, message: 'Only image uploads are allowed' })
+      }
+      if (item.data.length > 8 * 1024 * 1024) {
+        throw createError({ statusCode: 413, message: 'Image is larger than 8 MB' })
+      }
 
       try {
         await $fetch(`${baseUrl}/${storageZone}/${fileName}`, {

@@ -22,7 +22,7 @@
         <p class="text-gray-300 text-sm sm:text-base md:text-lg leading-relaxed max-w-3xl mx-auto">
           {{ isAr 
             ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م) شركة قطرية توفر حلولًا ومعدات صناعية للمشاريع والمنشآت في الدوحة ومختلف أنحاء قطر. تشمل محفظتنا معدات إدارة النفايات وإعادة التدوير، وأنظمة ومعدات أرصفة التحميل، وأنظمة حماية المحيط والتحكم في الدخول، والأبواب الصناعية، والمعدات الثقيلة.' 
-            : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L is a Qatari company providing industrial solutions and equipment for projects and facilities in Doha and across Qatar. Our portfolio includes waste management and recycling equipment, loading dock systems and equipment, perimeter protection and access control systems, industrial doors, and heavy equipment.' 
+            : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L. is a Qatari company providing industrial solutions and equipment for projects and facilities in Doha and across Qatar. Our portfolio includes waste management and recycling equipment, loading dock systems and equipment, perimeter protection and access control systems, industrial doors, and heavy equipment.' 
           }}
         </p>
       </div>
@@ -116,7 +116,7 @@ const whatsappUrl = computed(() => {
   const text = isAr.value 
     ? 'مرحباً بيستوليكس، أود طلب معاينة ميدانية لمشروعنا.' 
     : 'Hello Bestolex, I would like to request a site survey for our project.'
-  return `https://wa.me/97450708833?text=${encodeURIComponent(text)}`
+  return `https://wa.me/97451505014?text=${encodeURIComponent(text)}`
 })
 
 // Lucide Linear Icons as inline render functions (Gold stroke)

@@ -24,7 +24,7 @@
         </div>
 
         <h1 class="text-3xl sm:text-5xl md:text-6xl font-black mb-6 text-white leading-tight tracking-tight">
-          {{ locale === 'ar' ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة' : 'Bestolex for Trading of Heavy Machinery & Equipment' }}
+          {{ locale === 'ar' ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة' : 'Bestolex Trading of Heavy Equipment and Machinery' }}
         </h1>
 
         <div class="w-24 h-1.5 bg-[#E99E15] mx-auto mb-6 rounded-full"></div>
@@ -54,7 +54,7 @@
           <!-- Floating Badge -->
           <div class="absolute -bottom-6 rtl:-left-6 ltr:-right-6 bg-[#E99E15] text-white p-6 rounded-2xl shadow-xl hidden sm:flex flex-col items-center justify-center border-4 border-white dark:border-gray-900">
             <span class="font-black text-3xl">25+</span>
-            <span class="text-xs font-bold uppercase tracking-wider text-center">{{ locale === 'ar' ? 'سنة خبرة إقليمية' : 'Years Experience' }}</span>
+            <span class="text-xs font-bold uppercase tracking-wider text-center">{{ locale === 'ar' ? 'سنة خبرة شريكنا المصنّع ساب تك' : 'Years of SAB TECH Experience' }}</span>
           </div>
         </div>
 
@@ -69,15 +69,15 @@
           <p class="text-gray-600 dark:text-gray-300 text-lg leading-relaxed">
             {{ locale === 'ar' 
               ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة هي الخيار الأول والشريك الهندسي الموثوق في قطر لتوريد وتركيب أحدث المعدات الصناعية والنظم الهيدروليكية واللوجستية. نحن ندعم قطاعات المقاولات الكبرى، البنية التحتية، المصانع، المستودعات، والموانئ بحلول متكاملة وعالية الكفاءة. تشمل محفظتنا الاستثنائية منصات التحميل الهيدروليكية، مكابس النفايات وإعادة التدوير، المصدات الأمنية الغاطسة وحماية المحيط، والأبواب الصناعية المتينة والمصممة لتحمل شتى الظروف.'
-              : 'Bestolex for Trading of Heavy Machinery and Equipment is the premier choice and trusted engineering partner in Qatar for the supply, installation, and maintenance of cutting-edge industrial equipment and hydraulic systems. We empower major contracting, infrastructure, factories, warehouses, and ports sectors with highly efficient, integrated solutions. Our exceptional portfolio includes hydraulic dock levelers, waste recycling compactors, crash-rated security bollards, and heavy-duty industrial doors designed for extreme conditions.'
+              : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L. is the premier choice and trusted engineering partner in Qatar for the supply, installation, and maintenance of cutting-edge industrial equipment and hydraulic systems. We empower major contracting, infrastructure, factories, warehouses, and ports sectors with highly efficient, integrated solutions. Our exceptional portfolio includes hydraulic dock levelers, waste recycling compactors, crash-rated security bollards, and heavy-duty industrial doors designed for extreme conditions.'
             }}
           </p>
           <div class="grid grid-cols-2 gap-4 pt-4">
             <div class="bg-white dark:bg-gray-800 p-4 rounded-xl border border-gray-100 dark:border-gray-700 flex items-center gap-3">
               <span class="text-3xl text-[#E99E15]">🏆</span>
               <div>
-                <h4 class="font-bold text-gray-900 dark:text-white text-sm md:text-base">{{ locale === 'ar' ? 'اعتمادات عالمية' : 'Global Certifications' }}</h4>
-                <p class="text-xs text-gray-500">ISO 9001:2015 & CE</p>
+                <h4 class="font-bold text-gray-900 dark:text-white text-sm md:text-base">{{ locale === 'ar' ? 'اعتمادات الشريك المصنّع' : 'Manufacturer Certifications' }}</h4>
+                <p class="text-xs text-gray-500">{{ locale === 'ar' ? 'ساب تك: ISO 9001:2015 وعلامة CE' : 'SAB TECH: ISO 9001:2015 & CE marking' }}</p>
               </div>
             </div>
             <div class="bg-white dark:bg-gray-800 p-4 rounded-xl border border-gray-100 dark:border-gray-700 flex items-center gap-3">
@@ -168,14 +168,14 @@
             </h2>
             <p class="text-gray-300 text-base md:text-lg leading-relaxed">
               {{ locale === 'ar' 
-                ? 'بيستوليكس هي الوكيل والموزّع المعتمد في دولة قطر لشركة أساس السعودية لأعمال التقنية المحدودة (SAB TECH) — بخبرة تمتد لأكثر من 25 عاماً في التصنيع والحلول الهندسية، واعتمادات الجودة العالمية ISO 9001:2015 وCE، مع حضور إقليمي واسع في جدة والرياض والدمام وخميس مشيط ودبي.'
-                : 'Bestolex is the authorized agent and distributor in Qatar for Saudi Basis for Technical Works Ltd. (SAB TECH) — with over 25 years of engineering manufacturing expertise, ISO 9001:2015 and CE quality certifications, and strong regional presence across KSA and UAE.'
+                ? 'بيستوليكس هي الوكيل الحصري في دولة قطر لشركة أساس السعودية لأعمال التقنية المحدودة (SAB TECH)، شريكنا الاستراتيجي والجهة المصنِّعة. تمتد خبرة ساب تك لأكثر من 25 عاماً في التصنيع والحلول الهندسية، وهي حاصلة على شهادة إدارة الجودة ISO 9001:2015، وتحمل منتجاتها المشمولة بوثائقها الفنية علامة CE، مع حضور إقليمي في جدة والرياض والدمام وخميس مشيط ودبي.'
+                : 'Bestolex is the exclusive agent in Qatar for Saudi Basis for Technical Works Ltd. (SAB TECH), our strategic partner and manufacturer. SAB TECH brings over 25 years of manufacturing and engineering experience, holds ISO 9001:2015 quality management certification, and its products covered by its technical documentation carry CE marking, with a regional presence across KSA and the UAE.'
               }}
             </p>
             <div class="flex flex-wrap gap-4 pt-2">
-              <div class="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-xl text-sm font-semibold text-gray-200 border border-white/10">ISO 9001:2015 Certified</div>
-              <div class="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-xl text-sm font-semibold text-gray-200 border border-white/10">CE Quality Mark</div>
-              <div class="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-xl text-sm font-semibold text-gray-200 border border-white/10">PAS 68 & ASTM Standards</div>
+              <div class="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-xl text-sm font-semibold text-gray-200 border border-white/10">{{ locale === 'ar' ? 'ساب تك: ISO 9001:2015' : 'SAB TECH: ISO 9001:2015' }}</div>
+              <div class="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-xl text-sm font-semibold text-gray-200 border border-white/10">{{ locale === 'ar' ? 'علامة CE على منتجات ساب تك' : 'CE marking on SAB TECH products' }}</div>
+              <div class="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-xl text-sm font-semibold text-gray-200 border border-white/10">{{ locale === 'ar' ? 'الوكيل الحصري في قطر' : 'Exclusive Agent in Qatar' }}</div>
             </div>
           </div>
 
@@ -352,11 +352,11 @@ useSeoMeta({
     : 'About Us | Bestolex Engineering Solutions Qatar',
   description: isAr.value
     ? 'تعرف على شركة بيستوليكس القطرية، الوكيل الحصري والشريك الصناعي المعتمد لساب تك، والمتخصصة في توريد وتجهيز المنشآت بالأنظمة الهيدروليكية وحلول حماية المحيط ومعدات المستودعات.'
-    : 'Learn about Bestolex Trading & Contracting in Qatar, exclusive partner for SAB TECH, specializing in industrial hydraulics, security systems, and logistics solutions.',
+    : 'Learn about Bestolex Trading of Heavy Equipment and Machinery W.L.L. in Qatar, exclusive partner for SAB TECH, specializing in industrial hydraulics, security systems, and logistics solutions.',
   keywords: isAr.value
     ? 'عن شركة بيستوليكس, بيستوليكس قطر, وكيل ساب تك قطر, سجل تجاري 248416, شركات معدات صناعية الدوحة, مقاولات هيدروليكية قطر, توريد معدات أمنية الدوحة'
     : 'about Bestolex Qatar, Bestolex Trading, SAB TECH Qatar partner, CR 248416, industrial equipment suppliers Doha, hydraulic contracting Qatar',
-  ogTitle: isAr.value ? 'من نحن | بيستوليكس للتجارة والمقاولات قطر' : 'About Us | Bestolex Trading Qatar',
+  ogTitle: isAr.value ? 'من نحن | بيستوليكس لتجارة الآلات والمعدات الثقيلة قطر' : 'About Us | Bestolex Trading Qatar',
   ogDescription: isAr.value ? 'شراكة هندسية وصناعية رائدة تلبي احتياجات المشاريع الكبرى في دولة قطر.' : 'Leading engineering & industrial partnership serving major projects in Qatar.',
   ogImage: 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg'
 })
@@ -372,8 +372,8 @@ useHead({
         'description': 'Company profile and industrial engineering capabilities of Bestolex in Qatar.',
         'publisher': {
           '@type': 'Organization',
-          'name': 'Bestolex Trading & Contracting',
-          'url': 'https://bestolex.qa'
+          'name': 'Bestolex Trading of Heavy Equipment and Machinery W.L.L.',
+          'url': 'https://www.bestolex.com'
         }
       })
     }
@@ -456,7 +456,7 @@ const portfolioList = [
   {
     icon: '🛡️',
     title: { ar: 'أنظمة حماية المحيط', en: 'Perimeter Security Systems' },
-    desc: { ar: 'المصدات الأمنية ومفجرات الإطارات المطابقة لمواصفات PAS 68 وASTM.', en: 'Security road blockers, bollards & tyre killers compliant with PAS 68 & ASTM.' },
+    desc: { ar: 'مصدات الطريق ومفجرات الإطارات والأعمدة الأمنية. تُذكر المطابقة لمعايير PAS 68 وASTM للموديلات المدعومة بشهادة اختبار رسمية فقط.', en: 'Road blockers, tyre killers and security bollards. Compliance with PAS 68 or ASTM is stated only for models backed by an official test certificate.' },
     link: '/products/category/perimeter-protection'
   },
   {

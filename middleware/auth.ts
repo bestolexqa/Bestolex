@@ -1,13 +1,17 @@
-export default defineNuxtRouteMiddleware((to, from) => {
-  const token = useCookie('bestolex_admin_token')
+// Dashboard route guard. The session cookie is httpOnly, so the client asks the server.
+export default defineNuxtRouteMiddleware(async (to) => {
+  const isDashboard = /(^|\/)dashboard(\/|$)/.test(to.path)
+  if (!isDashboard) return
 
-  if (to.path.startsWith('/dashboard') && to.path !== '/dashboard/login') {
-    if (!token.value) {
-      return navigateTo('/dashboard/login')
-    }
+  const isLogin = /\/dashboard\/login\/?$/.test(to.path)
+  const requestFetch = useRequestFetch()
+  const session = await requestFetch<{ authenticated: boolean }>('/api/auth/session')
+    .catch(() => ({ authenticated: false }))
+
+  if (!isLogin && !session.authenticated) {
+    return navigateTo('/dashboard/login')
   }
-
-  if (to.path === '/dashboard/login' && token.value) {
+  if (isLogin && session.authenticated) {
     return navigateTo('/dashboard')
   }
 })

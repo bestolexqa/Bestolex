@@ -3,7 +3,7 @@ import path from 'path';
 import { getAllImagesInFolder } from './drive_scanner_helper.mjs';
 
 const STORAGE_ZONE_NAME = 'electrocreative-zone';
-const ACCESS_KEY = 'fdbaf174-b9f2-4453-93bbfa08f649-6912-41c6';
+const ACCESS_KEY = process.env.BUNNY_STORAGE_ACCESS_KEY;
 const PULL_ZONE = 'electrocreative-cdn.b-cdn.net';
 const BASE_STORAGE_URL = 'https://storage.bunnycdn.com';
 

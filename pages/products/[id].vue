@@ -329,6 +329,11 @@ const initProduct = () => {
 
 initProduct()
 
+// Unknown product ids must return a real 404 (not a soft 200 page).
+if (!product.value) {
+  throw createError({ statusCode: 404, statusMessage: 'Product not found', fatal: true })
+}
+
 const shareImage = computed(() => {
   if (!product.value) return 'https://www.bestolex.com/logo.png'
   const raw = product.value.cardImage || product.value.image || product.value.images?.[0] || product.value.coverImage || ''
@@ -460,7 +465,7 @@ const pageDesc = computed(() => {
 })
 
 const pageUrl = computed(() => {
-  return `https://www.bestolex.com/products/${route.params.id}`
+  return `https://www.bestolex.com${localePath(`/products/${route.params.id}`)}`
 })
 
 useSeoMeta({
@@ -490,9 +495,7 @@ useSeoMeta({
 })
 
 useHead(() => ({
-  link: [
-    { rel: 'canonical', href: pageUrl.value }
-  ],
+  // canonical + hreflang come from useLocaleHead in app.vue (self-referencing per language)
   script: [
     {
       type: 'application/ld+json',
@@ -502,19 +505,7 @@ useHead(() => ({
         'name': product.value?.name?.[locale.value] || 'Bestolex Equipment',
         'image': [shareImage.value, ...(product.value?.images || [])],
         'description': pageDesc.value,
-        'brand': {
-          '@type': 'Brand',
-          'name': 'Bestolex / SAB TECH'
-        },
-        'offers': {
-          '@type': 'Offer',
-          'priceCurrency': 'QAR',
-          'availability': 'https://schema.org/InStock',
-          'seller': {
-            '@type': 'Organization',
-            'name': 'Bestolex Trading & Contracting'
-          }
-        }
+        'url': pageUrl.value
       })
     }
   ]

@@ -76,8 +76,10 @@ definePageMeta({
   middleware: 'auth'
 })
 
+useHead({ meta: [{ name: 'robots', content: 'noindex, nofollow' }] })
+
 const router = useRouter()
-const email = ref('bestolex.qa@gmail.com')
+const email = ref('')
 const password = ref('')
 const isLoading = ref(false)
 const errorMessage = ref('')
@@ -87,30 +89,22 @@ const handleLogin = async () => {
   errorMessage.value = ''
 
   try {
-    const response = await $fetch('/api/auth/login', {
+    // The server sets an httpOnly session cookie; nothing is stored in the browser by this page.
+    await $fetch('/api/auth/login', {
       method: 'POST',
       body: {
         email: email.value,
         password: password.value
       }
     })
-
-    if (response.success) {
-      const authCookie = useCookie('bestolex_admin_token')
-      authCookie.value = response.token
-      router.push('/dashboard')
-    } else {
-      errorMessage.value = response.message || 'بيانات الدخول غير صحيحة'
-    }
+    password.value = ''
+    await router.push('/dashboard')
   } catch (error) {
-    // Local fallback comparison
-    if (email.value === 'bestolex.qa@gmail.com' && password.value === '123456') {
-      const authCookie = useCookie('bestolex_admin_token')
-      authCookie.value = 'bestolex_admin_authenticated'
-      router.push('/dashboard')
-    } else {
-      errorMessage.value = 'البريد الإلكتروني أو كلمة المرور غير صحيحة'
-    }
+    const status = error?.statusCode || error?.response?.status
+    if (status === 429) errorMessage.value = 'محاولات كثيرة. حاول مرة أخرى بعد 15 دقيقة.'
+    else if (status === 503) errorMessage.value = 'تسجيل الدخول غير مُفعّل: لم تُضبط بيانات المدير في إعدادات الخادم.'
+    else if (status === 401) errorMessage.value = 'البريد الإلكتروني أو كلمة المرور غير صحيحة'
+    else errorMessage.value = `تعذّر الاتصال بالخادم (${status || 'خطأ شبكة'}). حاول مرة أخرى.`
   } finally {
     isLoading.value = false
   }
