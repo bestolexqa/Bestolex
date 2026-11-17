@@ -1059,10 +1059,7 @@ useSeoMeta({
     : 'Hydraulic Training Courses in Qatar | Bestolex',
   description: () => locale.value === 'ar'
     ? 'دورات تدريبية متخصصة في الأنظمة الهيدروليكية للمهندسين والفنيين وفرق الصيانة والتشغيل، تشمل أساسيات الهيدروليك والصيانة وتشخيص الأعطال والتطبيق العملي.'
-    : 'Professional hydraulic training courses for engineers, technicians and maintenance teams covering hydraulic fundamentals, industrial hydraulics, maintenance, troubleshooting and hands-on applications.',
-  keywords: () => locale.value === 'ar'
-    ? 'دورات هيدروليك قطر, تدريب الأنظمة الهيدروليكية, دورة صيانة هيدروليك, تدريب فنيين هيدروليك, بيستوليكس قطر'
-    : 'Hydraulic Training Qatar, Hydraulic Courses Qatar, Industrial Hydraulic Training, Hydraulic Maintenance Training, Hydraulic Troubleshooting Course',
+    : 'Hydraulic training courses in Qatar for engineers, technicians and maintenance teams: fundamentals, maintenance, troubleshooting and hands-on practice.',
   ogTitle: () => locale.value === 'ar' 
     ? 'دورات تدريب الأنظمة الهيدروليكية في قطر | بيستوليكس' 
     : 'Hydraulic Training Courses in Qatar | Bestolex',

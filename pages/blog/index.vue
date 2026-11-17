@@ -208,7 +208,7 @@ import mockArticles from '@/data/articles.json'
 const { locale } = useI18n()
 const localePath = useLocalePath()
 
-const { data: blogData } = await useFetch('/api/blog')
+const { data: blogData } = await useFetch('/api/blog', { query: { view: 'list' } })
 const articles = computed(() => {
   if (blogData.value && Array.isArray(blogData.value) && blogData.value.length > 0) {
     return blogData.value
@@ -225,18 +225,15 @@ const perPage = 6
 const isAr = computed(() => locale.value === 'ar')
 
 useSeoMeta({
-  title: isAr.value
-    ? 'المدونة الهندسية والصناعية | مقالات وأدلة صيانة وتشغيل المعدات - بيستوليكس قطر'
-    : 'Engineering & Industrial Blog | Maintenance & Operations Guides - Bestolex Qatar',
-  description: isAr.value
-    ? 'مركز المعرفة والمقالات الهندسية المتخصصة في قطر: صيانة الزيوت الهيدروليكية، مقارنات المصدات الأمنية ومفجرات الإطارات، منصات التحميل اللوجستية، ومكابس تدوير النفايات.'
-    : 'Bestolex engineering knowledge hub in Qatar: hydraulic fluid maintenance, perimeter security bollards, tyre killers, dock levelers, and recycling baler guides.',
-  keywords: isAr.value
-    ? 'مدونة هندسية قطر, مقالات صيانة هيدروليك, أعطال مضخات هيدروليكية, مقارنة مصدات أمنية, صيانة منصات تحميل, مكابس كرتون قطر, بيستوليكس'
-    : 'engineering blog Qatar, hydraulic maintenance articles, security bollards comparison, dock leveler guides, waste recycling Doha',
-  ogTitle: isAr.value ? 'المدونة الهندسية والتقنية | بيستوليكس قطر' : 'Engineering Blog | Bestolex Qatar',
-  ogDescription: isAr.value ? 'مقالات وأدلة فنية متخصصة تهم مديري المشاريع والمصانع في دولة قطر.' : 'Specialized technical guides for plant and project managers in Qatar.',
-  ogImage: 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg'
+  title: () => isAr.value ? 'المدونة الفنية: أدلة المعدات الصناعية في قطر | بيستوليكس' : 'Technical Blog: Industrial Equipment Guides | Bestolex',
+  description: () => isAr.value
+    ? 'أدلة ومقالات فنية لمديري المشتريات والمهندسين في قطر عن أرصفة التحميل ومكابس النفايات ومصدات الطرق والأبواب الصناعية: الاختيار والتشغيل والصيانة.'
+    : 'Guides for procurement managers and engineers in Qatar on dock levelers, waste balers, road blockers and industrial doors: selection, operation and upkeep.',
+  ogTitle: () => isAr.value ? 'المدونة الفنية: أدلة المعدات الصناعية في قطر | بيستوليكس' : 'Technical Blog: Industrial Equipment Guides | Bestolex',
+  ogDescription: () => isAr.value
+    ? 'أدلة ومقالات فنية لمديري المشتريات والمهندسين في قطر عن أرصفة التحميل ومكابس النفايات ومصدات الطرق والأبواب الصناعية: الاختيار والتشغيل والصيانة.'
+    : 'Guides for procurement managers and engineers in Qatar on dock levelers, waste balers, road blockers and industrial doors: selection, operation and upkeep.',
+  ogImage: BUSINESS.image
 })
 
 useHead({

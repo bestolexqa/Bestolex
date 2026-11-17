@@ -189,18 +189,58 @@ watch(() => route.params.id, loadCategory)
 
 const isAr = computed(() => locale.value === 'ar')
 
-useSeoMeta({
-  title: () => {
-    if (!category.value) return isAr.value ? 'أقسام المنتجات | بيستوليكس' : 'Product Categories | Bestolex'
-    const catTitle = category.value.title?.[locale.value] || category.value.title?.ar || ''
-    return isAr.value ? `${catTitle} | منتجات بيستوليكس قطر` : `${catTitle} | Bestolex Qatar Products`
-  },
-  description: () => {
-    if (!category.value) return ''
-    return category.value.description?.[locale.value] || category.value.description?.ar || ''
-  },
-  ogTitle: () => category.value?.title?.[locale.value] || 'Bestolex Qatar Products',
-  ogDescription: () => category.value?.description?.[locale.value] || '',
-  ogImage: () => category.value?.image || 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg'
+const catTitle = computed(() => category.value?.title?.[locale.value] || category.value?.title?.ar || '')
+const catUrl = computed(() => `${SITE_URL}${localePath(`/products/category/${route.params.id}`)}`)
+const catPageTitle = computed(() => {
+  if (!category.value) return isAr.value ? 'أقسام المنتجات | بيستوليكس' : 'Product Categories | Bestolex'
+  return seoTitle(category.value.seo?.title?.[locale.value] || catTitle.value, locale.value)
 })
+const catPageDesc = computed(() => {
+  if (!category.value) return ''
+  return category.value.seo?.description?.[locale.value] || seoDescription(category.value.description?.[locale.value] || '')
+})
+
+useSeoMeta({
+  title: catPageTitle,
+  description: catPageDesc,
+  ogTitle: catPageTitle,
+  ogDescription: catPageDesc,
+  ogImage: () => category.value?.image || BUSINESS.image
+})
+
+useHead(() => ({
+  script: [
+    {
+      type: 'application/ld+json',
+      key: 'ld-collection',
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        '@id': `${catUrl.value}#page`,
+        name: catTitle.value,
+        description: catPageDesc.value,
+        url: catUrl.value,
+        isPartOf: { '@id': WEBSITE_ID },
+        mainEntity: {
+          '@type': 'ItemList',
+          itemListElement: (category.value?.products || []).map((p, i) => ({
+            '@type': 'ListItem',
+            position: i + 1,
+            url: `${SITE_URL}${localePath(`/products/${p.id}`)}`,
+            name: p.name?.[locale.value] || p.name?.ar
+          }))
+        }
+      })
+    },
+    {
+      type: 'application/ld+json',
+      key: 'ld-breadcrumb',
+      innerHTML: JSON.stringify(breadcrumbLd([
+        [isAr.value ? 'الرئيسية' : 'Home', `${SITE_URL}${localePath('/')}`.replace(/\/$/, '')],
+        [isAr.value ? 'المنتجات' : 'Products', `${SITE_URL}${localePath('/products')}`],
+        [catTitle.value, catUrl.value]
+      ]))
+    }
+  ]
+}))
 </script>

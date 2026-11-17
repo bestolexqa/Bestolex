@@ -3,6 +3,23 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-04-03',
   srcDir: '.', // Use root directory for app files
   devtools: { enabled: true },
+  routeRules: {
+    // Basic security headers on every response (item 25). A Content-Security-Policy comes later,
+    // once GTM/GA4 and the CDN hosts are final.
+    '/**': {
+      headers: {
+        'X-Content-Type-Options': 'nosniff',
+        'X-Frame-Options': 'SAMEORIGIN',
+        'Referrer-Policy': 'strict-origin-when-cross-origin',
+        'Permissions-Policy': 'camera=(), microphone=(), geolocation=(), payment=()'
+      }
+    },
+    // Old product slugs that carried an uncertified "PAS68" claim → permanent redirects.
+    '/products/high-security-road-blocker-pas68': { redirect: { to: '/products/high-security-road-blocker', statusCode: 301 } },
+    '/en/products/high-security-road-blocker-pas68': { redirect: { to: '/en/products/high-security-road-blocker', statusCode: 301 } },
+    '/products/high-security-shallow-road-blocker-pas68': { redirect: { to: '/products/high-security-shallow-road-blocker', statusCode: 301 } },
+    '/en/products/high-security-shallow-road-blocker-pas68': { redirect: { to: '/en/products/high-security-shallow-road-blocker', statusCode: 301 } }
+  },
   modules: [
     '@nuxtjs/tailwindcss',
     '@nuxtjs/i18n',
@@ -50,7 +67,7 @@ export default defineNuxtConfig({
   ],
   app: {
     head: {
-      title: 'بيستوليكس قطر | الأنظمة الهيدروليكية والمعدات الصناعية',
+      title: 'بيستوليكس قطر | معدات التحميل والنفايات والحماية والأبواب الصناعية',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },

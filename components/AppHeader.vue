@@ -463,7 +463,7 @@ const getCategoryArticles = (catNameAr) => {
 onMounted(async () => {
   try {
     const [arts, cats] = await Promise.all([
-      $fetch('/api/blog'),
+      $fetch('/api/blog', { query: { view: 'list' } }),
       $fetch('/api/blog/categories')
     ])
     if (arts && arts.length) blogArticles.value = arts

@@ -449,34 +449,34 @@ onMounted(() => {
   }
 })
 
+const productName = computed(() => product.value?.name?.[locale.value] || product.value?.name?.ar || '')
+
+// Page title and meta description: hand-written per product in data/products.json (seo.*),
+// with a safe fallback that never cuts a word or adds "…".
 const pageTitle = computed(() => {
   if (!product.value) return locale.value === 'ar' ? 'المنتجات | بيستوليكس قطر' : 'Products | Bestolex Qatar'
-  const name = product.value.name?.[locale.value] || product.value.name?.ar || 'منتج بيستوليكس'
-  const suffix = locale.value === 'ar' ? ' | بيستوليكس قطر' : ' | Bestolex Qatar'
-  const maxLen = 60 - suffix.length
-  const cleanName = name.length > maxLen ? name.substring(0, maxLen - 1) + '…' : name
-  return `${cleanName}${suffix}`
+  const custom = product.value.seo?.title?.[locale.value]
+  return seoTitle(custom || productName.value, locale.value)
 })
 
 const pageDesc = computed(() => {
-  if (!product.value) return 'معدات وأنظمة صناعية وهيدروليكية معتمدة في قطر من شركة بيستوليكس.'
-  const desc = product.value.description?.[locale.value] || product.value.description?.ar || ''
-  return desc.substring(0, 180).replace(/\r?\n|\r/g, ' ')
+  if (!product.value) return ''
+  const custom = product.value.seo?.description?.[locale.value]
+  return custom || seoDescription(product.value.description?.[locale.value] || product.value.description?.ar || '')
 })
 
 const pageUrl = computed(() => {
-  return `https://www.bestolex.com${localePath(`/products/${route.params.id}`)}`
+  return `${SITE_URL}${localePath(`/products/${route.params.id}`)}`
+})
+
+const categoryInfo = computed(() => {
+  const cat = mockProducts.find(c => (c.products || []).some(p => p.id === route.params.id))
+  return cat ? { id: cat.id, title: cat.title?.[locale.value] || cat.title?.ar } : null
 })
 
 useSeoMeta({
   title: pageTitle,
   description: pageDesc,
-  keywords: () => {
-    if (!product.value) return ''
-    const name = product.value.name?.[locale.value] || ''
-    const cat = product.value.categoryTitle?.[locale.value] || ''
-    return `${name}, ${cat}, سعر ${name} في قطر, مواصفات ${name}, توريد ${name} الدوحة, بيستوليكس قطر`
-  },
   // Open Graph for WhatsApp, Facebook, LinkedIn
   ogSiteName: 'Bestolex Qatar | بيستوليكس قطر',
   ogType: 'website',
@@ -485,7 +485,7 @@ useSeoMeta({
   ogUrl: pageUrl,
   ogImage: shareImage,
   ogImageSecureUrl: shareImage,
-  ogImageAlt: () => product.value?.name?.[locale.value] || 'Bestolex Product',
+  ogImageAlt: () => productName.value || 'Bestolex Product',
   ogImageType: () => (shareImage.value.endsWith('.png') ? 'image/png' : 'image/jpeg'),
   // Twitter Card
   twitterCard: 'summary_large_image',
@@ -499,14 +499,27 @@ useHead(() => ({
   script: [
     {
       type: 'application/ld+json',
-      children: JSON.stringify({
+      key: 'ld-product',
+      innerHTML: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'Product',
-        'name': product.value?.name?.[locale.value] || 'Bestolex Equipment',
-        'image': [shareImage.value, ...(product.value?.images || [])],
+        '@id': `${pageUrl.value}#product`,
+        'name': productName.value || 'Bestolex Equipment',
+        'image': [...new Set([shareImage.value, ...(product.value?.images || [])])].slice(0, 6),
         'description': pageDesc.value,
-        'url': pageUrl.value
+        'url': pageUrl.value,
+        'category': categoryInfo.value?.title || undefined
       })
+    },
+    {
+      type: 'application/ld+json',
+      key: 'ld-breadcrumb',
+      innerHTML: JSON.stringify(breadcrumbLd([
+        [locale.value === 'ar' ? 'الرئيسية' : 'Home', `${SITE_URL}${localePath('/')}`.replace(/\/$/, '') || SITE_URL],
+        [locale.value === 'ar' ? 'المنتجات' : 'Products', `${SITE_URL}${localePath('/products')}`],
+        ...(categoryInfo.value ? [[categoryInfo.value.title, `${SITE_URL}${localePath(`/products/category/${categoryInfo.value.id}`)}`]] : []),
+        [productName.value, pageUrl.value]
+      ]))
     }
   ]
 }))

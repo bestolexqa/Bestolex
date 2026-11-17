@@ -36,7 +36,7 @@
         </div>
 
         <h1 class="text-3xl sm:text-5xl md:text-6xl font-black mb-6 text-white leading-tight tracking-tight max-w-4xl mx-auto drop-shadow-lg">
-          {{ locale === 'ar' ? 'أفضل خدمات المعدات الثقيلة والنظم الهيدروليكية لتلبي تطلعات أعمالكم باحترافية' : 'Premium Heavy Machinery & Hydraulic Services That Meet Your Business Aspirations' }}
+          {{ locale === 'ar' ? 'توريد وتركيب وصيانة المعدات الصناعية في قطر' : 'Supply, Installation and Maintenance of Industrial Equipment in Qatar' }}
         </h1>
 
         <div class="w-24 h-1.5 bg-[#E99E15] mx-auto mb-6 rounded-full shadow-md shadow-[#E99E15]/50"></div>
@@ -253,17 +253,14 @@ const isBookingOpen = ref(false)
 const isAr = computed(() => locale.value === 'ar')
 
 useSeoMeta({
-  title: isAr.value
-    ? 'خدماتنا الهندسية | توريد وتركيب وصيانة المعدات - بيستوليكس'
-    : 'Engineering Services | Supply, Install & Maintain - Bestolex',
-  description: isAr.value
-    ? 'خدمات متكاملة من 8 مراحل تغطي دورة حياة المشاريع الصناعية: دراسة الموقع، التصميم الهندسي، التوريد المعتمد، التركيب الميداني، التدريب على التشغيل، وعقود الصيانة الدورية في قطر.'
-    : 'Comprehensive 8-stage industrial services lifecycle in Qatar: site assessment, engineering design, certified supply, field installation, commissioning, and preventive maintenance.',
-  keywords: isAr.value
-    ? 'خدمات صيانة هيدروليك قطر, تركيب مصدات أمنية الدوحة, تركيب منصات تحميل قطر, عقود صيانة سنوية معدات صناعية, تدريب تشغيل مكابس, فحص ميداني واستشارات هندسية قطر'
-    : 'hydraulic maintenance Qatar, security bollard installation Doha, dock leveler maintenance, industrial maintenance contracts Qatar, engineering survey Doha',
-  ogTitle: isAr.value ? 'خدمات بيستوليكس الهندسية والصناعية المتكاملة - قطر' : 'Bestolex Integrated Engineering Services - Qatar',
-  ogDescription: isAr.value ? 'من دراسة الاحتياج إلى التركيب والتشغيل والدعم الفني المستمر.' : 'From site assessment to installation, commissioning, and continuous technical support.',
+  title: () => isAr.value ? 'خدماتنا: التوريد والتركيب والصيانة في قطر | بيستوليكس' : 'Supply, Installation & Maintenance in Qatar | Bestolex',
+  description: () => isAr.value
+    ? 'ثماني مراحل من المعاينة الميدانية والعرض الفني إلى التوريد والتركيب والتشغيل والتدريب والصيانة وقطع الغيار لمعدات المنشآت في قطر. اطلب معاينة.'
+    : 'Eight stages from site survey and proposal to supply, installation, commissioning, operator training, maintenance and spare parts in Qatar. Book a survey.',
+  ogTitle: () => isAr.value ? 'خدماتنا: التوريد والتركيب والصيانة في قطر | بيستوليكس' : 'Supply, Installation & Maintenance in Qatar | Bestolex',
+  ogDescription: () => isAr.value
+    ? 'ثماني مراحل من المعاينة الميدانية والعرض الفني إلى التوريد والتركيب والتشغيل والتدريب والصيانة وقطع الغيار لمعدات المنشآت في قطر. اطلب معاينة.'
+    : 'Eight stages from site survey and proposal to supply, installation, commissioning, operator training, maintenance and spare parts in Qatar. Book a survey.',
   ogImage: 'https://electrocreative-cdn.b-cdn.net/bestolex/categories/docking-systems.jpg'
 })
 

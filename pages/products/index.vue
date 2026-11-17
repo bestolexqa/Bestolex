@@ -39,17 +39,14 @@ const products = ref(mockProducts)
 const isAr = computed(() => locale.value === 'ar')
 
 useSeoMeta({
-  title: isAr.value
-    ? 'أقسام المنتجات والمعدات الصناعية | بيستوليكس قطر'
-    : 'Product Categories & Industrial Machinery | Bestolex Qatar',
-  description: isAr.value
-    ? 'كتالوج شامل لمنتجات بيستوليكس في قطر: أنظمة حماية المحيط، منصات التحميل الهيدروليكية، مكابس التدوير، والأبواب الصناعية مع المواصفات الفنية وكتيبات PDF.'
-    : 'Comprehensive Bestolex product catalog in Qatar: perimeter security bollards, dock levelers, waste balers, industrial doors with technical PDF brochures.',
-  keywords: isAr.value
-    ? 'معدات صناعية قطر, منصات شحن هيدروليكية, مصدات سيارات أمنية, مكابس نفايات قطر, أبواب منشآت ومستودعات, كتالوج بيستوليكس قطر'
-    : 'industrial equipment Qatar, loading docks, security bollards Doha, balers Qatar, industrial doors Doha, Bestolex products',
-  ogTitle: isAr.value ? 'كتالوج المنتجات والمعدات الصناعية | بيستوليكس قطر' : 'Industrial Equipment Catalog | Bestolex Qatar',
-  ogDescription: isAr.value ? 'استكشف منتجاتنا الهندسية المعتمدة واطلب عرض سعر مباشر.' : 'Explore our engineering products and request direct quotes.',
-  ogImage: 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg'
+  title: () => isAr.value ? 'منتجات بيستوليكس: التحميل والنفايات والحماية والأبواب' : 'Industrial Equipment Catalogue in Qatar | Bestolex',
+  description: () => isAr.value
+    ? 'أقسام منتجات بيستوليكس في قطر: أنظمة التحميل والمستودعات، والنفايات وإعادة التدوير، والحماية المحيطية، والأبواب الصناعية، والمعدات الثقيلة عند الطلب.'
+    : 'Bestolex range in Qatar: loading and warehouse systems, waste and recycling equipment, perimeter protection, industrial doors and heavy equipment on request.',
+  ogTitle: () => isAr.value ? 'منتجات بيستوليكس: التحميل والنفايات والحماية والأبواب' : 'Industrial Equipment Catalogue in Qatar | Bestolex',
+  ogDescription: () => isAr.value
+    ? 'أقسام منتجات بيستوليكس في قطر: أنظمة التحميل والمستودعات، والنفايات وإعادة التدوير، والحماية المحيطية، والأبواب الصناعية، والمعدات الثقيلة عند الطلب.'
+    : 'Bestolex range in Qatar: loading and warehouse systems, waste and recycling equipment, perimeter protection, industrial doors and heavy equipment on request.',
+  ogImage: BUSINESS.image
 })
 </script>

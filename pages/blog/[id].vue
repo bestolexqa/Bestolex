@@ -61,7 +61,7 @@
       </div>
 
       <!-- Main Body Text -->
-      <div class="prose prose-lg dark:prose-invert max-w-none bg-white dark:bg-gray-800 rounded-3xl p-6 sm:p-12 shadow-xl border border-gray-100 dark:border-gray-700 mb-16 text-gray-800 dark:text-gray-200 leading-relaxed text-base sm:text-lg article-content" data-aos="fade-up" v-html="article.content?.[locale] || article.content?.ar || ''">
+      <div class="prose prose-lg dark:prose-invert max-w-none bg-white dark:bg-gray-800 rounded-3xl p-6 sm:p-12 shadow-xl border border-gray-100 dark:border-gray-700 mb-16 text-gray-800 dark:text-gray-200 leading-relaxed text-base sm:text-lg article-content" data-aos="fade-up" v-html="articleHtml">
       </div>
 
       <!-- Call to Action Banner inside Article -->
@@ -145,62 +145,56 @@ const relatedArticles = computed(() => {
 
 const isAr = computed(() => locale.value === 'ar')
 
+const articleTitle = computed(() => article.value?.title?.[locale.value] || article.value?.title?.ar || '')
+const articleUrl = computed(() => `${SITE_URL}${localePath(`/blog/${articleId.value}`)}`)
+// Article bodies may contain their own <h1>; keep the page title as the only H1.
+const articleHtml = computed(() => demoteH1(article.value?.content?.[locale.value] || article.value?.content?.ar || ''))
+const articleDesc = computed(() => seoDescription(
+  article.value?.desc?.[locale.value] || article.value?.excerpt?.[locale.value] || article.value?.desc?.ar || article.value?.excerpt_ar || ''
+))
+
 useSeoMeta({
-  title: () => {
-    if (!article.value) return isAr.value ? 'المقال | المدونة الهندسية بيستوليكس' : 'Article | Bestolex Blog'
-    const t = article.value.title?.[locale.value] || article.value.title?.ar || ''
-    const suffix = isAr.value ? ' | بيستوليكس' : ' | Bestolex'
-    const maxLen = 60 - suffix.length
-    const cleanT = t.length > maxLen ? t.substring(0, maxLen - 1) + '…' : t
-    return `${cleanT}${suffix}`
-  },
-  description: () => {
-    if (!article.value) return ''
-    return article.value.desc?.[locale.value] || article.value.desc?.ar || article.value.excerpt_ar || ''
-  },
-  keywords: () => {
-    if (!article.value) return ''
-    const t = article.value.title?.[locale.value] || ''
-    const cat = article.value.category?.[locale.value] || ''
-    return `${t}, ${cat}, صيانة وتشغيل المعدات في قطر, مقالات هندسية, بيستوليكس للمعدات`
-  },
-  ogTitle: () => article.value?.title?.[locale.value] || 'Bestolex Article',
-  ogDescription: () => article.value?.desc?.[locale.value] || article.value?.desc?.ar || '',
-  ogImage: () => article.value?.image || 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg',
+  title: () => article.value
+    ? seoTitle(articleTitle.value, locale.value)
+    : (isAr.value ? 'المقال | مدونة بيستوليكس' : 'Article | Bestolex Blog'),
+  description: articleDesc,
+  ogTitle: () => articleTitle.value || 'Bestolex Article',
+  ogDescription: articleDesc,
+  ogImage: () => article.value?.image || BUSINESS.image,
   ogType: 'article'
 })
 
-useHead({
+useHead(() => ({
   script: [
     {
       type: 'application/ld+json',
-      children: computed(() => JSON.stringify({
+      key: 'ld-article',
+      innerHTML: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'BlogPosting',
-        'headline': article.value?.title?.[locale.value] || 'Engineering Article',
-        'description': article.value?.desc?.[locale.value] || article.value?.desc?.ar || '',
-        'image': article.value?.image ? [article.value.image] : [],
-        'datePublished': article.value?.date || '2026-08-15',
-        'author': {
-          '@type': 'Organization',
-          'name': 'Bestolex Engineering Team | فريق بيستوليكس الهندسي'
-        },
-        'publisher': {
-          '@type': 'Organization',
-          'name': 'Bestolex Trading of Heavy Equipment and Machinery W.L.L.',
-          'logo': {
-            '@type': 'ImageObject',
-            'url': 'https://www.bestolex.com/logo.png'
-          }
-        },
-        'mainEntityOfPage': {
-          '@type': 'WebPage',
-          '@id': `https://www.bestolex.com${localePath(`/blog/${articleId.value}`)}`
-        }
-      }))
+        '@id': `${articleUrl.value}#article`,
+        'headline': articleTitle.value || 'Engineering Article',
+        'description': articleDesc.value,
+        'image': article.value?.image ? [article.value.image] : [BUSINESS.image],
+        'datePublished': article.value?.date || undefined,
+        'inLanguage': isAr.value ? 'ar-QA' : 'en',
+        'author': { '@id': ORG_ID },
+        'publisher': { '@id': ORG_ID },
+        'isPartOf': { '@id': WEBSITE_ID },
+        'mainEntityOfPage': { '@type': 'WebPage', '@id': articleUrl.value }
+      })
+    },
+    {
+      type: 'application/ld+json',
+      key: 'ld-breadcrumb',
+      innerHTML: JSON.stringify(breadcrumbLd([
+        [isAr.value ? 'الرئيسية' : 'Home', `${SITE_URL}${localePath('/')}`.replace(/\/$/, '')],
+        [isAr.value ? 'المدونة' : 'Blog', `${SITE_URL}${localePath('/blog')}`],
+        [articleTitle.value, articleUrl.value]
+      ]))
     }
   ]
-})
+}))
 </script>
 
 <style scoped>
