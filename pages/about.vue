@@ -181,7 +181,7 @@
 
           <div class="lg:col-span-4 flex justify-center">
             <div class="bg-white p-8 rounded-2xl shadow-2xl text-center w-full max-w-xs">
-              <NuxtImg src="https://sabtech.com.sa/wp-content/uploads/2019/05/logo-03-1-1.png" alt="SAB TECH Logo" class="h-16 mx-auto object-contain mb-4" format="webp" loading="lazy" />
+              <NuxtImg src="/partners/sabtech-logo.png" alt="SAB TECH Logo" class="h-16 mx-auto object-contain mb-4" format="webp" loading="lazy" />
               <div class="text-gray-900 font-bold text-sm mb-1">{{ locale === 'ar' ? 'شريك التقنية والتصنيع' : 'Manufacturing & Tech Partner' }}</div>
               <div class="text-gray-500 text-xs">{{ locale === 'ar' ? 'خبرة أكثر من 25 عاماً' : '+25 Years Engineering Excellence' }}</div>
             </div>
