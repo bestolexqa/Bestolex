@@ -9,8 +9,9 @@ const SESSION_TTL_SECONDS = 60 * 60 * 12 // 12 hours
  * There is deliberately no fallback: if they are missing, admin login is disabled.
  */
 export function getAdminCredentials(): { email: string, password: string } | null {
+  // Trim accidental spaces/newlines pasted into the Vercel dashboard
   const email = (process.env.ADMIN_EMAIL || '').trim().toLowerCase()
-  const password = process.env.ADMIN_PASSWORD || ''
+  const password = (process.env.ADMIN_PASSWORD || '').trim()
   if (!email || password.length < 12) return null
   return { email, password }
 }

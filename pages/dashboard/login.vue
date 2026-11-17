@@ -103,7 +103,8 @@ const handleLogin = async () => {
     const status = error?.statusCode || error?.response?.status
     if (status === 429) errorMessage.value = 'محاولات كثيرة. حاول مرة أخرى بعد 15 دقيقة.'
     else if (status === 503) errorMessage.value = 'تسجيل الدخول غير مُفعّل: لم تُضبط بيانات المدير في إعدادات الخادم.'
-    else errorMessage.value = 'البريد الإلكتروني أو كلمة المرور غير صحيحة'
+    else if (status === 401) errorMessage.value = 'البريد الإلكتروني أو كلمة المرور غير صحيحة'
+    else errorMessage.value = `تعذّر الاتصال بالخادم (${status || 'خطأ شبكة'}). حاول مرة أخرى.`
   } finally {
     isLoading.value = false
   }

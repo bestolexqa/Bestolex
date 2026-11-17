@@ -8,6 +8,7 @@ const MAX_ATTEMPTS = 8
 export default defineEventHandler(async (event) => {
   const creds = getAdminCredentials()
   if (!creds) {
+    console.warn('[admin-login] rejected: ADMIN_EMAIL / ADMIN_PASSWORD missing or too short')
     throw createError({ statusCode: 503, statusMessage: 'Admin login is not configured' })
   }
 
@@ -20,13 +21,18 @@ export default defineEventHandler(async (event) => {
 
   const body = await readBody(event)
   const email = String(body?.email || '').trim().toLowerCase()
-  const password = String(body?.password || '')
+  const password = String(body?.password || '').trim()
 
-  if (safeEqual(email, creds.email) && safeEqual(password, creds.password)) {
+  const emailOk = safeEqual(email, creds.email)
+  const passwordOk = safeEqual(password, creds.password)
+  if (emailOk && passwordOk) {
     attempts.delete(ip)
     setSessionCookie(event, createSessionToken(creds.email, creds.password))
     return { success: true }
   }
+
+  // Diagnostic only: which field did not match (never logs the values themselves)
+  console.warn(`[admin-login] rejected: ${!emailOk ? 'email does not match ADMIN_EMAIL' : 'password does not match ADMIN_PASSWORD'}`)
 
   if (!record || now - record.first >= WINDOW_MS) attempts.set(ip, { count: 1, first: now })
   else record.count++
