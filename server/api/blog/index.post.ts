@@ -1,3 +1,4 @@
+import { bothLocales, pingIndexNow } from '~~/server/utils/indexnow'
 import { getStoredArticles, saveStoredArticles } from '~~/server/utils/blogStorage'
 import { useServerSupabase } from '~~/server/utils/supabase'
 
@@ -53,6 +54,8 @@ export default defineEventHandler(async (event) => {
     // Add to the beginning of the list
     list.unshift(formatted)
     await saveStoredArticles(list)
+    // Let Bing/Copilot and other IndexNow engines know about the new article (and the blog index)
+    await pingIndexNow(bothLocales([`/blog/${encodeURIComponent(String(slug))}`, '/blog']))
 
     return { success: true, data: formatted }
   } catch (err: any) {

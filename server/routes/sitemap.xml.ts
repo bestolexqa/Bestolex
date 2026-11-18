@@ -47,7 +47,8 @@ export default defineEventHandler(async (event) => {
     const id = article?.id || article?.slug
     if (!id) continue
     if (article.isPublished === false || article.is_published === false) continue
-    const date = typeof article.date === 'string' && /^\d{4}-\d{2}-\d{2}/.test(article.date) ? article.date.slice(0, 10) : undefined
+    const raw = article.updatedAt || article.date
+    const date = typeof raw === 'string' && /^\d{4}-\d{2}-\d{2}/.test(raw) ? raw.slice(0, 10) : undefined
     paths.push({ path: `/blog/${encodeURIComponent(String(id))}`, lastmod: date })
   }
 

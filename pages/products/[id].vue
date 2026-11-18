@@ -60,6 +60,12 @@
               </h1>
               
               <div class="w-20 h-1 bg-[#E99E15] mb-8"></div>
+
+              <!-- At a glance: short answer-first summary (GEO) -->
+              <div v-if="product.summary && product.summary[locale]" class="w-full max-w-3xl bg-white/5 border border-[#E99E15]/40 rounded-2xl px-6 py-5 mb-8 text-start">
+                <p class="text-[#E99E15] text-sm font-black mb-2">{{ locale === 'ar' ? 'باختصار' : 'At a glance' }}</p>
+                <p class="text-white text-base md:text-lg leading-relaxed">{{ product.summary[locale] }}</p>
+              </div>
               
               <!-- Description -->
               <p class="text-lg md:text-xl text-gray-300 leading-relaxed mb-10 whitespace-pre-line text-center">
@@ -170,16 +176,19 @@
                 <div class="bg-gradient-to-r from-primary to-orange-500 px-5 py-4 md:px-6 md:py-4">
                   <h3 class="text-white font-black text-lg md:text-xl">{{ locale === 'ar' ? 'الجدول التقني' : 'Technical Table' }}</h3>
                 </div>
-                <div class="divide-y divide-gray-100 dark:divide-gray-700">
-                  <div 
-                    v-for="(spec, idx) in product.specs[locale]" 
-                    :key="idx"
-                    class="flex flex-col sm:flex-row sm:items-center justify-between p-4 md:p-5 hover:bg-gray-50 dark:hover:bg-gray-750 transition"
-                  >
-                    <span class="text-gray-500 dark:text-gray-400 font-bold mb-1 sm:mb-0 text-sm md:text-base">{{ spec.label }}</span>
-                    <span class="font-black text-gray-900 dark:text-white text-base md:text-lg sm:text-end">{{ spec.value }}</span>
-                  </div>
-                </div>
+                <table class="w-full">
+                  <caption class="sr-only">{{ locale === 'ar' ? `المواصفات الفنية: ${product.name[locale]}` : `Technical specifications: ${product.name[locale]}` }}</caption>
+                  <tbody class="divide-y divide-gray-100 dark:divide-gray-700">
+                    <tr 
+                      v-for="(spec, idx) in product.specs[locale]" 
+                      :key="idx"
+                      class="flex flex-col sm:flex-row sm:items-center justify-between p-4 md:p-5 hover:bg-gray-50 dark:hover:bg-gray-750 transition"
+                    >
+                      <th scope="row" class="text-gray-500 dark:text-gray-400 font-bold mb-1 sm:mb-0 text-sm md:text-base text-start">{{ spec.label }}</th>
+                      <td class="font-black text-gray-900 dark:text-white text-base md:text-lg sm:text-end">{{ spec.value }}</td>
+                    </tr>
+                  </tbody>
+                </table>
               </div>
             </div>
 
@@ -234,6 +243,22 @@
             </div>
           </div>
         </div>
+
+        <!-- FAQ (GEO): visible questions and answers, mirrored in FAQPage structured data -->
+        <section v-if="faqItems.length" class="mt-16 md:mt-20 max-w-4xl mx-auto" data-aos="fade-up" aria-labelledby="product-faq-title">
+          <div class="text-center mb-8 md:mb-12">
+            <h2 id="product-faq-title" class="text-2xl md:text-4xl font-bold text-gray-900 dark:text-white mb-3 md:mb-4">
+              {{ locale === 'ar' ? 'الأسئلة الشائعة' : 'Frequently Asked Questions' }}
+            </h2>
+            <div class="h-1 w-20 md:w-24 bg-primary mx-auto rounded-full"></div>
+          </div>
+          <div class="space-y-4">
+            <div v-for="(item, idx) in faqItems" :key="idx" class="bg-white dark:bg-gray-800 rounded-2xl shadow border border-gray-100 dark:border-gray-700 p-5 md:p-7">
+              <h3 class="text-lg md:text-xl font-bold text-gray-900 dark:text-white mb-2">{{ item.q }}</h3>
+              <p class="text-base md:text-lg text-gray-600 dark:text-gray-300 leading-relaxed">{{ item.a }}</p>
+            </div>
+          </div>
+        </section>
 
         <!-- Quote Form Section -->
         <div id="quote-form" class="mt-16 md:mt-24 bg-white dark:bg-gray-800 rounded-3xl shadow-2xl border border-gray-100 dark:border-gray-700 p-6 md:p-16 max-w-4xl mx-auto" data-aos="fade-up">
@@ -469,6 +494,8 @@ const pageUrl = computed(() => {
   return `${SITE_URL}${localePath(`/products/${route.params.id}`)}`
 })
 
+const faqItems = computed(() => product.value?.faq?.[locale.value] || [])
+
 const categoryInfo = computed(() => {
   const cat = mockProducts.find(c => (c.products || []).some(p => p.id === route.params.id))
   return cat ? { id: cat.id, title: cat.title?.[locale.value] || cat.title?.ar } : null
@@ -508,9 +535,28 @@ useHead(() => ({
         'image': [...new Set([shareImage.value, ...(product.value?.images || [])])].slice(0, 6),
         'description': pageDesc.value,
         'url': pageUrl.value,
-        'category': categoryInfo.value?.title || undefined
+        'category': categoryInfo.value?.title || undefined,
+        'brand': product.value?.brand ? { '@type': 'Brand', 'name': product.value.brand } : undefined,
+        'additionalProperty': (product.value?.specs?.[locale.value] || []).map(s => ({
+          '@type': 'PropertyValue', 'name': s.label, 'value': s.value
+        }))
       })
     },
+    ...(faqItems.value.length ? [{
+      type: 'application/ld+json',
+      key: 'ld-faq',
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        '@id': `${pageUrl.value}#faq`,
+        'inLanguage': locale.value === 'ar' ? 'ar-QA' : 'en',
+        'mainEntity': faqItems.value.map(item => ({
+          '@type': 'Question',
+          'name': item.q,
+          'acceptedAnswer': { '@type': 'Answer', 'text': item.a }
+        }))
+      })
+    }] : []),
     {
       type: 'application/ld+json',
       key: 'ld-breadcrumb',

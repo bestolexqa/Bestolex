@@ -377,9 +377,8 @@ useHead(() => ({
         'name': isAr.value ? BUSINESS.legalNameAr : BUSINESS.legalNameEn,
         'legalName': BUSINESS.legalNameEn,
         'alternateName': [BUSINESS.legalNameAr, 'Bestolex', 'بيستوليكس'],
-        'description': isAr.value
-          ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م) شركة قطرية والوكيل الحصري لمنتجات ساب تك في قطر، تورّد أنظمة التحميل والمستودعات ومعدات النفايات وإعادة التدوير والحماية المحيطية والأبواب الصناعية.'
-          : 'Bestolex Trading of Heavy Equipment and Machinery W.L.L. is a Qatari company and the exclusive SABTECH agent in Qatar, supplying loading and warehouse systems, waste and recycling equipment, perimeter protection and industrial doors.',
+        'description': isAr.value ? BUSINESS.descriptionAr : BUSINESS.descriptionEn,
+        'sameAs': BUSINESS.sameAs,
         'url': SITE_URL,
         'logo': BUSINESS.logo,
         'image': BUSINESS.image,

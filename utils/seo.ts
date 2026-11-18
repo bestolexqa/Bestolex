@@ -18,6 +18,22 @@ export const BUSINESS = {
     addressLocality: 'Doha',
     addressCountry: 'QA'
   },
+  // Official profiles of the same entity (schema.org sameAs). Instagram/Facebook are the links already shown
+  // in the site footer; the Google Maps entry is the verified Google Business Profile (CID from the contact-page map).
+  sameAs: [
+    'https://maps.google.com/?cid=12312827937338030265',
+    'https://www.instagram.com/bestolex',
+    'https://www.facebook.com/Bestolex'
+  ],
+  // One-sentence entity definition reused in Organization/LocalBusiness so every engine reads the same facts.
+  descriptionEn: 'Bestolex Trading of Heavy Equipment and Machinery W.L.L. is a Qatari company in Doha and the exclusive SABTECH agent in Qatar, supplying, installing and maintaining loading and warehouse systems, waste and recycling equipment, perimeter protection and industrial doors.',
+  descriptionAr: 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م) شركة قطرية في الدوحة والوكيل الحصري لمنتجات ساب تك في قطر، تورّد وتركّب وتصون أنظمة التحميل والمستودعات ومعدات النفايات وإعادة التدوير والحماية المحيطية والأبواب الصناعية.',
+  knowsAbout: [
+    'Dock levelers', 'Dock shelters', 'Scissor lift tables', 'Cargo lifts',
+    'Cardboard balers', 'Waste compactors', 'Recycling equipment',
+    'Road blockers', 'Tyre killers', 'Automatic bollards', 'Turnstiles', 'Under vehicle surveillance systems',
+    'High-speed doors', 'Industrial sectional doors'
+  ],
   // Open Sunday–Thursday and Saturday, 07:00–18:00 (Friday closed)
   openingHours: [
     {

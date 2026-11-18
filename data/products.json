@@ -19,7 +19,7 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/persi-compactor/1.jpg",
         "description": {
-          "ar": "يعد ضاغط النفايات الصناعية أمرًا بالغ الأهمية لشركات إدارة النفايات. لقد تم تصميم هندسي مبتكره للتعامل مع كميات كبيرة من المواد القابلة لإعادة التدوير، والنفايات المتبقية، والنفايات التجارية، وبالتالي يساعد الضاغط في الحفاظ على مظهر منشأتك نظيفًا وآمنًا.\nباستخدام الأنظمة حديثة وموثوقة الهيدروليكية، يستخدم هذا الضاغط لوحة ضغط أفقية لتحقيق أقصى قدر من ضغط النفايات إلى حجم أصغر، مما يقلل من تكاليف النقل. يوصى به لأماكن مثل الفنادق والمستشفيات ومراكز التسوق ومحلات السوبر ماركت ومعالجات الطعام.",
+          "ar": "يعد ضاغط النفايات الصناعية أمرًا بالغ الأهمية لشركات إدارة النفايات. لقد تم تصميمه للتعامل مع كميات كبيرة من المواد القابلة لإعادة التدوير، والنفايات المتبقية، والنفايات التجارية، وبالتالي يساعد الضاغط في الحفاظ على مظهر منشأتك نظيفًا وآمنًا.\nباستخدام الأنظمة حديثة وموثوقة الهيدروليكية، يستخدم هذا الضاغط لوحة ضغط أفقية لتحقيق أقصى قدر من ضغط النفايات إلى حجم أصغر، مما يقلل من تكاليف النقل. يوصى به لأماكن مثل الفنادق والمستشفيات ومراكز التسوق ومحلات السوبر ماركت ومعالجات الطعام.",
           "en": "Industrial refuse compactor is critical for waste management companies. Designed to handle large volumes of recyclable materials, residual waste, and commercial waste. Recommended for hotels, hospitals, shopping malls, supermarkets, food processors."
         },
         "features": {
@@ -27,7 +27,7 @@
             "التخلص السهل والصحي من النفايات",
             "منع الروائح والإفراط في التعبئة",
             "تقليل تكاليف التجميع",
-            "انخفاض تكلفة الصيانة دورية متقدمة",
+            "انخفاض تكلفة الصيانة",
             "خدمة ما بعد البيع مع قطع الغيار",
             "ضمان لمدة سنة واحدة"
           ],
@@ -35,7 +35,7 @@
             "Easy and hygienic waste disposal",
             "Prevents odors and overfilling",
             "Reduces collection costs",
-            "Low Comprehensive Maintenance cost",
+            "Low maintenance cost",
             "After sales service with spare parts",
             "1-year warranty"
           ]
@@ -186,8 +186,8 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/auto-horizontal-baler/1.png",
         "description": {
-          "ar": "مكبس عالي الكفاءة أفقي أوتوماتيكي متطور يعمل بالطاقة الهيدروليكية لضغط النفايات برباط آلي بالكامل.\nالاستخدامات الموصى بها: مراكز التسوق، السوبر ماركت، المتاجر الكبرى، الصناعات التحويلية، صناعة الرسومات، الطابعات، المستودعات، المراكز اللوجستية، وشركات إعادة التدوير على نطاق واسع والبلديات.",
-          "en": "Advanced Automatic Horizontal Premium Baler powered by hydraulics for Superior Quality compaction force with fully automated bale tying.\nRecommended uses: Shopping malls, supermarkets, department stores, manufacturing, printing & graphic industries, warehouses, logistics centers, and large-scale recycling operations."
+          "ar": "مكبس أفقي أوتوماتيكي متطور يعمل بالطاقة الهيدروليكية لضغط النفايات برباط آلي بالكامل.\nالاستخدامات الموصى بها: مراكز التسوق، السوبر ماركت، المتاجر الكبرى، الصناعات التحويلية، صناعة الرسومات، الطابعات، المستودعات، المراكز اللوجستية، وشركات إعادة التدوير على نطاق واسع والبلديات.",
+          "en": "Advanced Automatic Horizontal Baler powered by hydraulics for high compaction force with fully automated bale tying.\nRecommended uses: Shopping malls, supermarkets, department stores, manufacturing, printing & graphic industries, warehouses, logistics centers, and large-scale recycling operations."
         },
         "features": {
           "ar": [
@@ -199,7 +199,7 @@
             "ضمان لمدة سنة واحدة"
           ],
           "en": [
-            "Hydraulically powered for Superior Quality compaction force",
+            "Hydraulically powered for high compaction force",
             "Fully automated bale tying",
             "Advanced electrical control panel",
             "Safe and easy operation",
@@ -225,8 +225,8 @@
           {
             "image": "https://sabtech.com.sa/wp-content/uploads/2019/09/Hydraulic-Colling-System.jpg",
             "label": {
-              "ar": "نظام متطور تبريد للهيدروليك",
-              "en": "Hydraulic Cooling Advanced System"
+              "ar": "نظام تبريد للهيدروليك",
+              "en": "Hydraulic Cooling System"
             }
           },
           {
@@ -347,8 +347,8 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/horizontal-plastic-baler-70/1.png",
         "description": {
-          "ar": "يعتبر مكبس عالي الكفاءة البالات الأفقية 70 طن من ساب تكـ بمثابة حل قوي تم تصميم هندسي مبتكره خصيصًا للتطبيقات الثقيلة، مما يلبي احتياجات الشركات الصناعية والمصنعين. مثالية للتعامل مع مجموعة واسعة من المواد بما في ذلك الورق والكرتون والبراميل.\nباستخدام الطاقة الهيدروليكية وقوة تصل إلى 70 طن، فإنها توفر الطاقة المطلوبة لضغط المواد بشكل فعال إلى بالات كثيفة للغاية. وهذا يضمن كفاءة التعامل مع المواد وتخزينها، وتحسين استخدام المساحة وتسهيل العمليات المبسطة للشركات التي تتعامل مع كميات كبيرة من المواد القابلة لإعادة التدوير أو النفايات. ضغط نفايات مادة بي إي تي وتحقيق أقصى قدر من الإيرادات.",
-          "en": "Our 70 Ton Horizontal Baling Press is a Ultra-Powerful & Efficient solution designed specifically for heavy-duty applications, serving the needs of industrial companies and manufacturers. Ideal for handling a wide variety of materials including paper, cardboard, and drums.\nUtilizing hydraulic power up to 70 Tons, it provides the required force to efficiently compress materials into dense bales, ensuring material handling efficiency, space optimization, and streamlined operations for Superior Quality volume recyclers."
+          "ar": "يعتبر مكبس البالات الأفقية 70 طن من ساب تكـ بمثابة حل قوي تم تصميمه خصيصًا للتطبيقات الثقيلة، مما يلبي احتياجات الشركات الصناعية والمصنعين. مثالية للتعامل مع مجموعة واسعة من المواد بما في ذلك الورق والكرتون والبراميل.\nباستخدام الطاقة الهيدروليكية وقوة تصل إلى 70 طن، فإنها توفر الطاقة المطلوبة لضغط المواد بشكل فعال إلى بالات كثيفة للغاية. وهذا يضمن كفاءة التعامل مع المواد وتخزينها، وتحسين استخدام المساحة وتسهيل العمليات المبسطة للشركات التي تتعامل مع كميات كبيرة من المواد القابلة لإعادة التدوير أو النفايات. ضغط نفايات مادة بي إي تي وتحقيق أقصى قدر من الإيرادات.",
+          "en": "Our 70 Ton Horizontal Baling Press is a powerful solution designed specifically for heavy-duty applications, serving the needs of industrial companies and manufacturers. Ideal for handling a wide variety of materials including paper, cardboard, and drums.\nUtilizing hydraulic power up to 70 Tons, it provides the required force to efficiently compress materials into dense bales, ensuring material handling efficiency, space optimization, and streamlined operations for high volume recyclers."
         },
         "features": {
           "ar": [
@@ -359,7 +359,7 @@
             "ضمان لمدة سنة واحدة"
           ],
           "en": [
-            "Superior Quality density compaction force up to 70 Tons",
+            "High density compaction force up to 70 Tons",
             "Significant reduction in waste volume",
             "Easy loading and operation",
             "After sales service with spare parts",
@@ -412,8 +412,8 @@
           {
             "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Robust-end-door-designed.jpg",
             "label": {
-              "ar": "باب ذو تصميم هندسي مبتكر قوي ومتين",
-              "en": "Robust end door Innovative Engineering Design"
+              "ar": "باب ذو تصميم قوي ومتين",
+              "en": "Robust end door design"
             }
           },
           {
@@ -534,7 +534,58 @@
             "en": "70-ton horizontal baling press for paper, cardboard, PET, cans and woven bags, producing bales of up to 300 kg. Saudi-made with twin cylinders. Get a quote.",
             "ar": "مكبس أفقي بقوة 70 طناً للورق والكرتون وعبوات PET والعلب والأكياس المنسوجة، ينتج بالات حتى 300 كجم. صناعة سعودية بأسطوانتين. اطلب عرض سعر."
           }
-        }
+        },
+        "summary": {
+          "ar": "مكبس أفقي بقوة ضغط 70 طناً للمصانع ومراكز إعادة التدوير والمنشآت ذات الكميات الكبيرة في قطر، يكبس الورق والكرتون والبلاستيك والبراميل في بالات تصل إلى 300 كجم. فتحة التلقيم 1500 × 1020 × 540 مم، والمحرك 22 كيلوواط.",
+          "en": "A 70-ton horizontal baling press for factories, recycling centers and high-volume sites in Qatar. It compresses paper, cardboard, plastic and drums into bales of up to 300 kg, through a 1,500 × 1,020 × 540 mm feed opening, driven by a 22 kW motor."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما المواد التي يكبسها المكبس الأفقي؟",
+              "a": "الورق والكرتون والأكياس المنسوجة وعبوات PET والعلب والبراميل وبقايا القماش."
+            },
+            {
+              "q": "ما مقاس البالة ووزنها؟",
+              "a": "800 × 1020 × 540 مم، ويصل وزنها إلى 300 كجم حسب المادة."
+            },
+            {
+              "q": "متى أختار المكبس الأفقي بدل العمودي؟",
+              "a": "عندما تكون الكميات كبيرة ومستمرة، كما في المصانع ومراكز إعادة التدوير، لأن المكبس الأفقي يُلقَّم بكميات أكبر وينتج بالات أثقل. أما المكابس العمودية فتناسب الكميات المحدودة والمساحات الصغيرة."
+            },
+            {
+              "q": "ما متطلبات التركيب؟",
+              "a": "مقاس المكبس 4000 × 1500 × 1500 مم، ومحرك 22 كيلوواط على تغذية 220/380 فولت ثلاثية الطور 50/60 هرتز."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "What materials does the horizontal baler compress?",
+              "a": "Paper, cardboard, woven bags, PET bottles, cans, drums and cloth scraps."
+            },
+            {
+              "q": "What size and weight are the bales?",
+              "a": "800 × 1,020 × 540 mm, weighing up to 300 kg depending on the material."
+            },
+            {
+              "q": "When should I choose a horizontal baler over a vertical one?",
+              "a": "When volumes are large and continuous, as in factories and recycling centers, because a horizontal baler takes larger loads and produces heavier bales. Vertical balers suit limited volumes and smaller spaces."
+            },
+            {
+              "q": "What are the installation requirements?",
+              "a": "The machine measures 4,000 × 1,500 × 1,500 mm and has a 22 kW motor on a 220/380 V three-phase 50/60 Hz supply."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "steel-press-50t",
@@ -746,7 +797,8 @@
             "en": "50-ton steel press for steel, copper, aluminium and stainless scrap with a 75–90 second cycle, for recycling plants and steel makers in Qatar. Get a quote.",
             "ar": "مكبس حديد بقوة 50 طناً لخردة الحديد والنحاس والألمنيوم والستانلس، بدورة 75–90 ثانية، لمصانع التدوير والحديد في قطر. اطلب عرض سعر من بيستوليكس."
           }
-        }
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "cardboard-plastic-baler-100",
@@ -756,21 +808,21 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/cardboard-plastic-baler-100/1.png",
         "description": {
-          "ar": "مكبس عالي الكفاءة رأسي عالي الكفاءة مصمم لضغط الورق المقوى، الكرتون، والبلاستيك. يوفر مساحات التخزين ويقلل من تكاليف النقل بفضل قوة الضغط الفائقة الجودة التي تصل إلى 10 أطنان، مما يجعله الخيار الأمثل للمصانع ومراكز إعادة التدوير.",
-          "en": "Superior Quality-efficiency vertical Premium Baler designed for compacting cardboard and plastics. It saves storage space and reduces transport costs with a 10-ton pressing force, making it ideal for factories and recycling centers."
+          "ar": "مكبس رأسي عالي الكفاءة مصمم لضغط الورق المقوى، الكرتون، والبلاستيك. يوفر مساحات التخزين ويقلل من تكاليف النقل بفضل قوة الضغط العالية التي تصل إلى 10 أطنان، مما يجعله الخيار الأمثل للمصانع ومراكز إعادة التدوير.",
+          "en": "High-efficiency vertical baler designed for compacting cardboard and plastics. It saves storage space and reduces transport costs with a 10-ton pressing force, making it ideal for factories and recycling centers."
         },
         "features": {
           "ar": [
             "قوة ضغط تصل إلى 10 أطنان.",
             "لوحة تحكم سهلة الاستخدام وتدعم الإنتاجية القصوى ومطابقة لمعايير الأمان العالمية.",
-            "نظام متطور إخراج آلي لبالات النفايات المكبوسة.",
+            "نظام إخراج آلي لبالات النفايات المكبوسة.",
             "محرك هيدروليكي قوي لضمان أداء مستمر وعمر افتراضي طويل."
           ],
           "en": [
             "10-ton pressing force.",
             "Easy-to-use control panel compliant with international safety standards.",
-            "Automatic ejection Advanced System for compacted bales.",
-            "Ultra-Powerful & Efficient hydraulic motor ensuring continuous performance and long lifespan."
+            "Automatic ejection system for compacted bales.",
+            "Powerful hydraulic motor ensuring continuous performance and long lifespan."
           ]
         },
         "featureImages": [
@@ -827,7 +879,7 @@
         "specs": {
           "ar": [
             {
-              "label": "قلبة الفتحة",
+              "label": "فتحة التلقيم",
               "value": "580 طول × 480 ارتفاع"
             },
             {
@@ -839,12 +891,12 @@
               "value": "يختلف حسب نوعية المواد إلى 100 كجم"
             },
             {
-              "label": "فلتات الربط",
+              "label": "فتحات الربط",
               "value": "3"
             },
             {
-              "label": "مقاسات المكينة",
-              "value": "2900 طول × 1059 عرض × 650 ارتفاع"
+              "label": "مقاسات المكبس",
+              "value": "1050 طول × 650 عرض × 2900 ارتفاع مم"
             },
             {
               "label": "قوة المحرك",
@@ -852,7 +904,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "220V, 1Phase, 60Hz"
+              "value": "240 فولت، أحادي الطور، 50 هرتز"
             }
           ],
           "en": [
@@ -874,7 +926,7 @@
             },
             {
               "label": "Machine Dimensions",
-              "value": "2900L × 1059W × 650H mm"
+              "value": "1050L × 650W × 2900H mm"
             },
             {
               "label": "Motor Power",
@@ -882,7 +934,7 @@
             },
             {
               "label": "Electricity",
-              "value": "220V, 1Phase, 60Hz"
+              "value": "240V, 1Phase, 50Hz"
             }
           ]
         },
@@ -934,7 +986,58 @@
             "en": "Compact 10-ton vertical baler for cardboard and light plastic in restaurants, hotels, service stations and hospitals in Qatar. Bales up to 100 kg. Get a quote.",
             "ar": "مكبس عمودي صغير بقوة 10 أطنان للكرتون والبلاستيك الخفيف في المطاعم والفنادق ومحطات الخدمة والمستشفيات في قطر، ينتج بالات حتى 100 كجم. اطلب عرض سعر."
           }
-        }
+        },
+        "summary": {
+          "ar": "مكبس كرتون وبلاستيك عمودي بقوة ضغط 10 أطنان، يحوّل الكرتون والبلاستيك الخفيف إلى بالات تصل إلى 100 كجم بمقاس 700 × 500 × 700 مم. مناسب للمطاعم ومحطات الخدمة والفنادق والمستشفيات في قطر، ويعمل على تغذية 240 فولت أحادية الطور 50 هرتز.",
+          "en": "A vertical cardboard and plastic baler with a 10-ton pressing force that turns cardboard and light plastic into bales of up to 100 kg (700 × 500 × 700 mm). Suited to restaurants, service stations, hotels and hospitals in Qatar, it runs on a 240 V single-phase 50 Hz supply."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما المواد التي يكبسها مكبس الكرتون العمودي؟",
+              "a": "الكرتون والورق المقوى والبلاستيك الخفيف وبراميل الألياف."
+            },
+            {
+              "q": "ما مقاس البالة ووزنها؟",
+              "a": "700 × 500 × 700 مم، ويصل وزنها إلى 100 كجم حسب نوع المادة، وتُربط من 3 فتحات."
+            },
+            {
+              "q": "لمن يناسب هذا الموديل؟",
+              "a": "للمنشآت التي تنتج كميات محدودة من الكرتون، مثل المطاعم ومحطات الخدمة والفنادق والمستشفيات. للكميات الأكبر توجد موديلات 200 و500."
+            },
+            {
+              "q": "ما متطلبات الكهرباء والمساحة؟",
+              "a": "محرك 1.5 كيلوواط على تغذية 240 فولت أحادية الطور 50 هرتز، ومقاس المكبس 1050 × 650 × 2900 مم (طول × عرض × ارتفاع)."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار."
+            }
+          ],
+          "en": [
+            {
+              "q": "What materials does this vertical baler compress?",
+              "a": "Cardboard, corrugated board, light plastic and fibre drums."
+            },
+            {
+              "q": "What size and weight are the bales?",
+              "a": "700 × 500 × 700 mm, weighing up to 100 kg depending on the material, tied through 3 slots."
+            },
+            {
+              "q": "Who is this model for?",
+              "a": "Sites that generate limited volumes of cardboard, such as restaurants, service stations, hotels and hospitals. Models 200 and 500 cover larger volumes."
+            },
+            {
+              "q": "What are the power and space requirements?",
+              "a": "A 1.5 kW motor on a 240 V single-phase 50 Hz supply, and a machine size of 1,050 × 650 × 2,900 mm (L × W × H)."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts."
+            }
+          ]
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "cardboard-plastic-baler-200",
@@ -944,8 +1047,8 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/cardboard-plastic-baler-200/1.png",
         "description": {
-          "ar": "تم تصميم هندسي مبتكر مكبس عالي الكفاءة الكرتون والبلاستيك العمودي 200 الخاص بنا خصيصًا للعملاء الذين يديرون شركات متوسطة الحجم، بما في ذلك محلات السوبر ماركت والمطاعم. تم تصميم هندسي مبتكر هذه الآلة للتعامل مع إعادة تدوير المواد المختلفة مثل الورق المقوى والكرتون وبراميل الألياف والبلاستيك بسهولة. سواء كنت تفضل راحة العمليات الآلية أو مرونة التحكم اليدوي، فإن مكبس عالي الكفاءة البالات هذا يوفر الأداء الأمثل.\nارفع قدرات إعادة التدوير لديك وعزز الكفاءة التشغيلية، مثالي للشركات التي تهدف إلى إعادة التدوير وجني فوائد بيع البالات القياسية الدولية التي تنتجها أجهزتنا. الاستخدام الموصى به لـ: الفنادق، المستشفيات، المطاعم، محطات الخدمة، محلات البقالة، المصانع، المراكز اللوجستية، إلخ.",
-          "en": "Our 200 vertical cardboard and plastic Premium Baler is specially designed for customers managing medium-sized businesses, including supermarkets and restaurants. Designed to handle recycling of various materials such as cardboard, paper, fiber drums, and plastics with ease. Ideal for hotels, hospitals, restaurants, service stations, grocery stores, factories, logistics centers, etc."
+          "ar": "تم تصميم مكبس الكرتون والبلاستيك العمودي 200 الخاص بنا خصيصًا للعملاء الذين يديرون شركات متوسطة الحجم، بما في ذلك محلات السوبر ماركت والمطاعم. تم تصميم هذه الآلة للتعامل مع إعادة تدوير المواد المختلفة مثل الورق المقوى والكرتون وبراميل الألياف والبلاستيك بسهولة. سواء كنت تفضل راحة العمليات الآلية أو مرونة التحكم اليدوي، فإن مكبس البالات هذا يوفر الأداء الأمثل.\nارفع قدرات إعادة التدوير لديك وعزز الكفاءة التشغيلية، مثالي للشركات التي تهدف إلى إعادة التدوير وجني فوائد بيع البالات القياسية الدولية التي تنتجها أجهزتنا. الاستخدام الموصى به لـ: الفنادق، المستشفيات، المطاعم، محطات الخدمة، محلات البقالة، المصانع، المراكز اللوجستية، إلخ.",
+          "en": "Our 200 vertical cardboard and plastic baler is specially designed for customers managing medium-sized businesses, including supermarkets and restaurants. Designed to handle recycling of various materials such as cardboard, paper, fiber drums, and plastics with ease. Ideal for hotels, hospitals, restaurants, service stations, grocery stores, factories, logistics centers, etc."
         },
         "features": {
           "ar": [
@@ -1130,7 +1233,8 @@
             "en": "20-ton vertical baler for cardboard, paper and plastic in supermarkets, warehouses and factories in Qatar, producing bales of up to 200 kg. Get a quote.",
             "ar": "مكبس عمودي بقوة 20 طناً للكرتون والورق والبلاستيك في محلات السوبر ماركت والمستودعات والمصانع في قطر، ينتج بالات حتى 200 كجم. اطلب عرض سعر."
           }
-        }
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "cardboard-plastic-baler-500",
@@ -1140,8 +1244,8 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/cardboard-plastic-baler-500/1.png",
         "description": {
-          "ar": "تم تصميم هندسي مبتكر مكبس عالي الكفاءة الكراتين والبلاستيك العمودي 500 الأفضل لدينا بشكل متين لتحمل متطلبات الشركات واسعة النطاق، بما في ذلك منافذ البيع بالتجزئة الموسعة والمصانع ومرافق إعادة التدوير. لقد تم تصميم هندسي مبتكره خصيصًا للتعامل مع كميات كبيرة من المواد مثل الورق المقوى والبلاستيك والمنسوجات دون عناء. ومن خلال ضغط هذه المواد وإدارتها بكفاءة، تعمل هذه الآلة على تبسيط عمليات إعادة التدوير، مما يضمن عمليات أكثر سلاسة.\nوبفضل بنيتها القوية وفائقة الجودة الأداء وأدائها الموثوق، فإنها تجعلها حلاً ميدانيًا للشركات التي تهدف إلى إعادة التدوير، مما يؤدي إلى توليد إيرادات فائقة الجودة من خلال بيع البالات ذات المعايير الدولية التي تنتجها أجهزتنا. الاستخدام الموصى به لـ: تجارة الجملة، مراكز التسوق، مصانع إعادة تدوير المنتجات المتعددة، المصانع، المراكز اللوجستية، إلخ.",
-          "en": "Our top-of-the-line 500 vertical cardboard and plastic Premium Baler is ruggedly built to withstand the demands of large-scale operations, including expanded retail outlets, factories, and recycling facilities. Specially designed to effortlessly handle large volumes of materials such as cardboard, plastic, and textiles. Ideal for wholesale, shopping malls, multi-product recycling plants, factories, logistics centers, etc."
+          "ar": "تم تصميم مكبس الكراتين والبلاستيك العمودي 500 الأفضل لدينا بشكل متين لتحمل متطلبات الشركات واسعة النطاق، بما في ذلك منافذ البيع بالتجزئة الموسعة والمصانع ومرافق إعادة التدوير. لقد تم تصميمه خصيصًا للتعامل مع كميات كبيرة من المواد مثل الورق المقوى والبلاستيك والمنسوجات دون عناء. ومن خلال ضغط هذه المواد وإدارتها بكفاءة، تعمل هذه الآلة على تبسيط عمليات إعادة التدوير، مما يضمن عمليات أكثر سلاسة.\nوبفضل بنيتها القوية وعالية الأداء وأدائها الموثوق، فإنها تجعلها حلاً ميدانيًا للشركات التي تهدف إلى إعادة التدوير، مما يؤدي إلى توليد إيرادات عالية من خلال بيع البالات ذات المعايير الدولية التي تنتجها أجهزتنا. الاستخدام الموصى به لـ: تجارة الجملة، مراكز التسوق، مصانع إعادة تدوير المنتجات المتعددة، المصانع، المراكز اللوجستية، إلخ.",
+          "en": "Our top-of-the-line 500 vertical cardboard and plastic baler is ruggedly built to withstand the demands of large-scale operations, including expanded retail outlets, factories, and recycling facilities. Specially designed to effortlessly handle large volumes of materials such as cardboard, plastic, and textiles. Ideal for wholesale, shopping malls, multi-product recycling plants, factories, logistics centers, etc."
         },
         "features": {
           "ar": [
@@ -1198,7 +1302,7 @@
           {
             "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/02/image-3.png",
             "label": {
-              "ar": "لوحة إخراج بالة متينة وقوية وفائقة الجودة الأداء",
+              "ar": "لوحة إخراج بالة متينة وقوية وعالية الأداء",
               "en": "Durable Bale Ejection Plate"
             }
           },
@@ -1343,7 +1447,8 @@
             "en": "50-ton vertical baler for high cardboard and plastic volumes in malls, wholesalers and factories in Qatar, with adjustable bale height and 500 kg bales.",
             "ar": "مكبس عمودي بقوة 50 طناً للكميات الكبيرة من الكرتون والبلاستيك في المجمعات وتجار الجملة والمصانع في قطر، بارتفاع بالة قابل للتعديل وبالات حتى 500 كجم."
           }
-        }
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "can-bottle-baler-80",
@@ -1353,7 +1458,7 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/can-bottle-baler-80/1.png",
         "description": {
-          "ar": "تم تصميم هندسي مبتكر مكبس عالي الكفاءة العلب و القوارير البلاستيكة 80 طن عالي التحمل لتحويل كميات كبيرة من المواد المعاد تدويرها، مما يوفر قوة لا مثيل لها تبلغ 80 طنًا من قوة الحزم لضغط القوارير والعلب والكرتون/الورق المقوى ونفايات المكاتب لتحقيق الربح. تم تصميم هندسي مبتكر هذه الآلة شديدة التحمل للتعامل مع كميات كبيرة من المواد القابلة لإعادة التدوير، مع التركيز بشكل خاص على العلب و القوارير (البولي إيثيلين تيريفثاليت).\nسواء كنت تعمل في مجال صناعة المشروبات أو إعادة التدوير على نطاق واسع أو البيع بالتجزئة، باستخدام هذه الماكينة، يمكنك تحقيق أقصى قدر من العائدات على حجم بالتك وتقليل تكاليف النقل لتحقيق أعلى إيرادات ممكنة لكل بالة. المواد المناسبة للضغط: القوارير، العلب، الورق المقوى المموج، البلاستيك، المنسوجات، إلخ.",
+          "ar": "تم تصميم مكبس العلب و القوارير البلاستيكة 80 طن عالي التحمل لتحويل كميات كبيرة من المواد المعاد تدويرها، مما يوفر قوة لا مثيل لها تبلغ 80 طنًا من قوة الحزم لضغط القوارير والعلب والكرتون/الورق المقوى ونفايات المكاتب لتحقيق الربح. تم تصميم هذه الآلة شديدة التحمل للتعامل مع كميات كبيرة من المواد القابلة لإعادة التدوير، مع التركيز بشكل خاص على العلب و القوارير (البولي إيثيلين تيريفثاليت).\nسواء كنت تعمل في مجال صناعة المشروبات أو إعادة التدوير على نطاق واسع أو البيع بالتجزئة، باستخدام هذه الماكينة، يمكنك تحقيق أقصى قدر من العائدات على حجم بالتك وتقليل تكاليف النقل لتحقيق أعلى إيرادات ممكنة لكل بالة. المواد المناسبة للضغط: القوارير، العلب، الورق المقوى المموج، البلاستيك، المنسوجات، إلخ.",
           "en": "Tailored to transform significant quantities of recycle waste, our heavy-duty Vertical PET Baling Press 80T offers unmatched power of 80 Tons of bale force to compress PET bottles, cans, cardboard/cartons, and office waste into profit. This heavy-duty machine is designed to handle large volumes of recyclable materials, with a special focus on PET (polyethylene terephthalate) bottles.\nWhether you are in the beverage industry, large scale recycling or retail, with this machine you can maximize returns on your bale size and reduce transportation costs to generate the highest revenue possible per bale. Materials suitable for compaction: PET bottles, cans, corrugated cardboard, plastics, textiles, etc."
         },
         "features": {
@@ -1397,8 +1502,8 @@
           {
             "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/04/Hydraulic-System.jpg",
             "label": {
-              "ar": "نظام متطور الهيدروليك",
-              "en": "Hydraulic Advanced System"
+              "ar": "نظام الهيدروليك",
+              "en": "Hydraulic System"
             }
           },
           {
@@ -1537,7 +1642,8 @@
             "en": "80-ton vertical baler for PET bottles, cans, light plastic and cardboard, with adjustable bale height and bales of up to 380 kg of PET. Get a quote.",
             "ar": "مكبس عمودي بقوة 80 طناً لعبوات PET والعلب والبلاستيك الخفيف والكرتون، بارتفاع بالة قابل للتعديل وبالات حتى 380 كجم من PET. اطلب عرض سعر في قطر."
           }
-        }
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "textile-baler",
@@ -1547,8 +1653,8 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/textile-baler/1.png",
         "description": {
-          "ar": "تم تصميم هندسي مبتكر أفضل مكابس صناعية الأقمشة 30 طن الخاص بنا لحزم الملابس المستعملة، والصوف، والقطن. إنها مجهزة بنظام متطور ربط شامل يعمل من جميع جوانب الحزمة، مما يسهل إنشاء بالات مضغوطة بإحكام. تساهم آلية الربط هذه في زيادة وزن البالات إلى أقصى حد بالنسبة لحجمها، وتحسين مساحة التخزين وكفاءة النقل.\nباستخدام الأنظمة حديثة وموثوقة الهيدروليكية المتقدمة، تقوم أفضل مكابس صناعية البالات هذه بتطبيق ضغط كبير على المواد النسيجية، مما ينتج عنه بالات معبأة بكثافة وموحدة في الحجم والوزن.\nهذه الأنواع من الأفضل مكابس صناعية التي تتطلبها صناعات النسيج ومرافق إعادة تدوير الملابس وتصديرها إلى بلدان أخرى. تتميز هذه الأفضل مكابس صناعية بسهولة التشغيل ومزودة بنظام متطور ربط من جميع الجوانب للحصول على حزم مدمجة لتحقيق وزن أكبر فيما يتعلق بحجم الحزمة.",
-          "en": "Our 30 Ton Textile Baling Press is designed to pack used clothes, wool, and cotton. Equipped with an all-around tying Advanced System working from all sides of the bale, facilitating tightly compacted bales. Optimizes storage space and transport efficiency."
+          "ar": "تم تصميم مكبس الأقمشة 30 طن الخاص بنا لحزم الملابس المستعملة، والصوف، والقطن. إنها مجهزة بنظام ربط شامل يعمل من جميع جوانب الحزمة، مما يسهل إنشاء بالات مضغوطة بإحكام. تساهم آلية الربط هذه في زيادة وزن البالات إلى أقصى حد بالنسبة لحجمها، وتحسين مساحة التخزين وكفاءة النقل.\nباستخدام الأنظمة حديثة وموثوقة الهيدروليكية المتقدمة، تقوم مكابس البالات هذه بتطبيق ضغط كبير على المواد النسيجية، مما ينتج عنه بالات معبأة بكثافة وموحدة في الحجم والوزن.\nهذه الأنواع من المكابس التي تتطلبها صناعات النسيج ومرافق إعادة تدوير الملابس وتصديرها إلى بلدان أخرى. تتميز هذه المكابس بسهولة التشغيل ومزودة بنظام ربط من جميع الجوانب للحصول على حزم مدمجة لتحقيق وزن أكبر فيما يتعلق بحجم الحزمة.",
+          "en": "Our 30 Ton Textile Baling Press is designed to pack used clothes, wool, and cotton. Equipped with an all-around tying system working from all sides of the bale, facilitating tightly compacted bales. Optimizes storage space and transport efficiency."
         },
         "features": {
           "ar": [
@@ -1559,7 +1665,7 @@
             "ضمان لمدة سنة واحدة"
           ],
           "en": [
-            "Lift-up chamber Innovative Engineering Design",
+            "Lift-up chamber design",
             "Easy all-around bale tying",
             "Safe and easy to operate",
             "After sales service with spare parts",
@@ -1711,7 +1817,8 @@
             "en": "30-ton textile baler for used clothes, wool and cotton with all-side tying and bales of 65–75 kg, for textile recycling and export in Qatar. Get a quote.",
             "ar": "مكبس أقمشة بقوة 30 طناً للملابس المستعملة والصوف والقطن، بربط من جميع الجهات وبالات 65–75 كجم، لإعادة تدوير المنسوجات وتصديرها في قطر. اطلب عرض سعر."
           }
-        }
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "pringer-compactor",
@@ -1721,7 +1828,7 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/pringer-compactor/1.png",
         "description": {
-          "ar": "يعد ضاغط النفايات الصناعية أمرًا بالغ الأهمية لشركات إدارة النفايات. لقد تم تصميم هندسي مبتكره للتعامل مع كميات كبيرة من المواد القابلة لإعادة التدوير، والنفايات المتبقية، والنفايات التجارية، وبالتالي يساعد الضاغط في الحفاظ على مظهر منشأتك نظيفًا وآمنًا.\nباستخدام الأنظمة حديثة وموثوقة الهيدروليكية، يستخدم هذا الضاغط لوحة ضغط أفقية لتحقيق أقصى قدر من ضغط النفايات إلى حجم أصغر، مما يقلل من تكاليف النقل. يوصى به لأماكن مثل الفنادق والمستشفيات ومراكز التسوق ومحلات السوبر ماركت والتصنيع الغذائي.",
+          "ar": "يعد ضاغط النفايات الصناعية أمرًا بالغ الأهمية لشركات إدارة النفايات. لقد تم تصميمه للتعامل مع كميات كبيرة من المواد القابلة لإعادة التدوير، والنفايات المتبقية، والنفايات التجارية، وبالتالي يساعد الضاغط في الحفاظ على مظهر منشأتك نظيفًا وآمنًا.\nباستخدام الأنظمة حديثة وموثوقة الهيدروليكية، يستخدم هذا الضاغط لوحة ضغط أفقية لتحقيق أقصى قدر من ضغط النفايات إلى حجم أصغر، مما يقلل من تكاليف النقل. يوصى به لأماكن مثل الفنادق والمستشفيات ومراكز التسوق ومحلات السوبر ماركت والتصنيع الغذائي.",
           "en": "Industrial refuse compactor is critical for waste management companies. Designed to handle large volumes of recyclable materials, residual waste, and commercial waste. Recommended for hotels, hospitals, shopping malls, supermarkets, food processors."
         },
         "features": {
@@ -1729,7 +1836,7 @@
             "التخلص السهل والصحي من النفايات",
             "منع الروائح والإفراط في التعبئة",
             "تقليل تكاليف التجميع",
-            "انخفاض تكلفة الصيانة دورية متقدمة",
+            "انخفاض تكلفة الصيانة",
             "خدمة ما بعد البيع مع قطع الغيار",
             "ضمان لمدة سنة واحدة"
           ],
@@ -1737,7 +1844,7 @@
             "Easy and hygienic waste disposal",
             "Prevents odors and overfilling",
             "Reduces collection costs",
-            "Low Comprehensive Maintenance cost",
+            "Low maintenance cost",
             "After sales service with spare parts",
             "1-year warranty"
           ]
@@ -2106,7 +2213,8 @@
             "en": "Solar-powered smart bin that compacts waste on site, cutting volume up to 90% and collection trips, for parks, transit hubs and events in Qatar. Get a quote.",
             "ar": "حاوية ذكية تعمل بالطاقة الشمسية تضغط النفايات في موقعها وتقلل حجمها حتى 90% وعدد مرات الجمع، للحدائق ومحطات النقل والفعاليات في قطر. اطلب عرض سعر."
           }
-        }
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "vertical-garbage-compactor-2cy",
@@ -2343,7 +2451,58 @@
             "en": "2 cubic yard vertical garbage compactor with 4:1 compaction and a 25-second cycle for residential towers, hotels, malls and hospitals in Qatar. Get a quote.",
             "ar": "مكبس نفايات عمودي سعة 2 ياردة مكعبة بنسبة ضغط 4:1 ودورة 25 ثانية، للأبراج السكنية والفنادق والمجمعات والمستشفيات في قطر. اطلب عرض سعر من بيستوليكس."
           }
-        }
+        },
+        "summary": {
+          "ar": "مكبس نفايات رأسي بحاوية فولاذية سعتها 2 ياردة مكعبة، يضغط النفايات بنسبة 4:1 في دورة مدتها 25 ثانية، فيقلل حجمها حتى 75% ويخفض عدد مرات النقل. مناسب للمجمعات التجارية والسكنية والفنادق والمستشفيات في قطر.",
+          "en": "A vertical garbage compactor with a 2 cubic yard steel container that compacts refuse at a 4:1 ratio in a 25-second cycle, cutting volume by up to 75% and reducing collection trips. Suited to commercial and residential complexes, hotels and hospitals in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "كم يقلل مكبس النفايات من حجمها؟",
+              "a": "نسبة الضغط 4:1، أي تقليل الحجم حتى 75%، بدورة تشغيل مدتها 25 ثانية."
+            },
+            {
+              "q": "ما مقاسات المكبس وفتحة التعبئة؟",
+              "a": "مقاس المكبس 2205 × 1325 × 2280 مم (عرض × عمق × ارتفاع)، وارتفاع التعبئة 1410 مم، وفتحة التعبئة 1220 × 768 مم."
+            },
+            {
+              "q": "ما وسائل الأمان والتشغيل؟",
+              "a": "مفتاح أمان يوقف التشغيل عند فتح الباب العلوي، ولمبة تنبيه عند امتلاء الحاوية، ولوحة تحكم بالأزرار."
+            },
+            {
+              "q": "هل يعمل بالطاقة الشمسية؟",
+              "a": "يتوفر خيار التشغيل بالطاقة الشمسية."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "How much does it reduce waste volume?",
+              "a": "It compacts at a 4:1 ratio, reducing volume by up to 75%, with a 25-second cycle time."
+            },
+            {
+              "q": "What are the machine and feed opening dimensions?",
+              "a": "The machine measures 2,205 × 1,325 × 2,280 mm (W × D × H), with a 1,410 mm filling height and a 1,220 × 768 mm feed opening."
+            },
+            {
+              "q": "What safety and control features does it have?",
+              "a": "An upper-door safety switch that stops operation when the door opens, a full-container warning light and a push-button control station."
+            },
+            {
+              "q": "Can it run on solar power?",
+              "a": "An optional solar power setup is available."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        },
+        "brand": "SAB TECH"
       }
     ],
     "seo": {
@@ -2377,24 +2536,24 @@
         },
         "coverImage": "https://sabtech.com.sa/wp-content/uploads/2019/05/Mast-Cargo-Hydraulic-Lift-.jpg",
         "description": {
-          "ar": "توفر رافعة البضائع الهيدروليكية من ساب تك حلاً سريعًا وفعالًا وموثوقًا لنقل البضائع داخل المباني والمستودعات متعددة الطوابق. وتضمن الوصول الآمن إلى ارتفاعات تصل إلى 10 أمتار من الطوابق السفلية والطوابق الأرضية والميزانين والشرفات.\nتم تصميم هندسي مبتكر مصعد البضائع المثبت على الحائط هذا للتركيب الداخلي والخارجي، وهو فعال في العمالة، وفعال من حيث التكلفة، ومصمم ليدوم طويلاً، ويتطلب الحد الأدنى من الصيانة دورية متقدمة. من خلال استخدام الطاقة الهيدروليكية، فإنه ينقل بسهولة حمولات تصل إلى 3 طن من مستوى الأرض إلى الارتفاعات المرتفعة، مما يجعله خيارًا مثاليًا لمختلف التطبيقات التجارية والصناعية.",
+          "ar": "توفر رافعة البضائع الهيدروليكية من ساب تك حلاً سريعًا وفعالًا وموثوقًا لنقل البضائع داخل المباني والمستودعات متعددة الطوابق. وتضمن الوصول الآمن إلى ارتفاعات تصل إلى 10 أمتار من الطوابق السفلية والطوابق الأرضية والميزانين والشرفات.\nتم تصميم مصعد البضائع المثبت على الحائط هذا للتركيب الداخلي والخارجي، وهو فعال في العمالة، وفعال من حيث التكلفة، ومصمم ليدوم طويلاً، ويتطلب الحد الأدنى من الصيانة. من خلال استخدام الطاقة الهيدروليكية، فإنه ينقل بسهولة حمولات تصل إلى 3 طن من مستوى الأرض إلى الارتفاعات المرتفعة، مما يجعله خيارًا مثاليًا لمختلف التطبيقات التجارية والصناعية.",
           "en": "Sabtech hydraulic cargo lift provides a fast, efficient, and reliable solution for transporting goods within multi-story buildings and warehouses. It ensures safe access to heights up to 10 meters from basements, ground floors, mezzanines, and balconies.\nDesigned for internal and external wall-mounted installation, this cost-effective cargo lift reduces labor costs, increases productivity, and handles loads up to 3 tons smoothly using hydraulic power."
         },
         "features": {
           "ar": [
             "قابلة للتخصيص لحمولة وارتفاعات مختلفة (حتى 3 طن و10 أمتار)",
-            "نظام متطور هيدروليكي عالي الكفاءة يضمن العمل بسلاسة وأمان",
+            "نظام هيدروليكي عالي الكفاءة يضمن العمل بسلاسة وأمان",
             "تشغل مساحة صغيرة ومثبتة على الحائط (تركيب داخلي أو خارجي)",
-            "انخفاض تكاليف الصيانة دورية متقدمة وتقديم أداء شاق مستمر",
+            "انخفاض تكاليف الصيانة وتقديم أداء شاق مستمر",
             "غرفة حماية وهيكل خارجي اختياري لحماية البضائع والأفراد",
             "تقليل تكلفة العمالة وزيادة وقت الإنتاجية",
             "خدمة ما بعد البيع مع توفر قطع الغيار وضمان لمدة سنة واحدة"
           ],
           "en": [
             "Customizable for various capacities and heights (up to 3 tons & 10m)",
-            "Superior Quality-efficiency hydraulic Advanced System for smooth and safe operation",
-            "Compact wall-mounted Innovative Engineering Design (indoor or outdoor installation)",
-            "Low Comprehensive Maintenance costs and heavy-duty reliability",
+            "High-efficiency hydraulic system for smooth and safe operation",
+            "Compact wall-mounted design (indoor or outdoor installation)",
+            "Low maintenance costs and heavy-duty reliability",
             "Optional external enclosure and platform guard rails",
             "Reduces labor costs and boosts operational uptime",
             "After-sales service with spare parts and 1-year warranty"
@@ -2412,7 +2571,7 @@
             "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Equipped-with-high-tensile-steel-wire-ropes-1.png",
             "label": {
               "ar": "كابل صلب شديد التحمل",
-              "en": "Superior Quality Tensile Steel Wire Ropes"
+              "en": "High Tensile Steel Wire Ropes"
             }
           },
           {
@@ -2432,7 +2591,7 @@
           {
             "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Customizable-platform-sizes-tailored-to-your-loading-capacity-requirements-1.png",
             "label": {
-              "ar": "تصميم هندسي مبتكر منصة التحميل حسب الحمولات",
+              "ar": "تصميم منصة التحميل حسب الحمولات",
               "en": "Customizable Platform Sizes"
             }
           },
@@ -2554,7 +2713,8 @@
             "en": "Hydraulic mast cargo lift (goods lift) for moving loads between floors, mezzanines and basements up to 10 m in warehouses and buildings in Qatar. Get a quote.",
             "ar": "مصعد ورافعة بضائع هيدروليكية لنقل الحمولات بين الطوابق والميزانين والأقبية حتى ارتفاع 10 أمتار في المستودعات والمباني في قطر. اطلب عرض سعر."
           }
-        }
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "scissors-lift",
@@ -2564,15 +2724,15 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/scissors-lift/1.png",
         "description": {
-          "ar": "الرافعة المقصية الهيدروليكية من ساب تكـ خيار موثوق للغاية لمهام مناولة البضائع والمواد، وتتميز ببناء قوي ونظام متطور طاقة هيدروليكي عالي الأداء.\nتم تصميم هندسي مبتكر هذه الطاولات بدقة مع وضع السلامة كأولوية قصوى، وتتضمن صمام تخفيف هيدروليكي لمنع الحوادث وضمان حماية الموظفين والمنشآت. تضمن الرافعة المقصية النقل العمودي الفعال للمواد، وتعمل على تقليل الانحراف حتى عند التعامل مع حمولات تصل إلى 3 طن، مما يسهل العمليات في المستودعات ومرافق التصنيع ومراكز التوزيع.",
-          "en": "Sabtech hydraulic scissor lift table provides a dependable solution for heavy-duty material handling. Featuring a rugged construction and Superior Quality-performance hydraulic Advanced System, it is designed with safety as top priority.\nIncludes hydraulic relief valves to protect personnel and structures. It minimizes deflection when handling loads up to 3 tons and provides smooth vertical transport of goods across warehouses, manufacturing plants, and logistics hubs."
+          "ar": "الرافعة المقصية الهيدروليكية من ساب تكـ خيار موثوق للغاية لمهام مناولة البضائع والمواد، وتتميز ببناء قوي ونظام طاقة هيدروليكي عالي الأداء.\nتم تصميم هذه الطاولات بدقة مع وضع السلامة كأولوية قصوى، وتتضمن صمام تخفيف هيدروليكي لمنع الحوادث وضمان حماية الموظفين والمنشآت. تضمن الرافعة المقصية النقل العمودي الفعال للمواد، وتعمل على تقليل الانحراف حتى عند التعامل مع حمولات تصل إلى 3 طن، مما يسهل العمليات في المستودعات ومرافق التصنيع ومراكز التوزيع.",
+          "en": "Sabtech hydraulic scissor lift table provides a dependable solution for heavy-duty material handling. Featuring a rugged construction and high-performance hydraulic system, it is designed with safety as top priority.\nIncludes hydraulic relief valves to protect personnel and structures. It minimizes deflection when handling loads up to 3 tons and provides smooth vertical transport of goods across warehouses, manufacturing plants, and logistics hubs."
         },
         "features": {
           "ar": [
             "التعامل السلس مع البضائع والمواد ذات الحمولة الثقيلة (حتى 3 طن)",
             "تقليل تكلفة العمالة وزيادة سرعة الإنتاجية",
             "سهل التركيب والتشغيل بأعلى مستويات السلامة",
-            "الحد الأدنى من تكاليف الصيانة دورية متقدمة واعتمادية فائقة الجودة في التشغيل الشاق",
+            "الحد الأدنى من تكاليف الصيانة واعتمادية عالية في التشغيل الشاق",
             "صمام تخفيف هيدروليكي وشريط أمان أسفل المنصة للحماية",
             "خدمة ما بعد البيع مع توفر قطع الغيار وضمان لمدة سنة واحدة"
           ],
@@ -2580,7 +2740,7 @@
             "Smooth handling of heavy-duty goods and materials (up to 3 tons)",
             "Reduces labor costs and boosts operational productivity",
             "Easy installation and operation with maximum safety standards",
-            "Low Comprehensive Maintenance costs and heavy-duty reliability",
+            "Low maintenance costs and heavy-duty reliability",
             "Hydraulic relief valve & under-platform safety bar protection",
             "After-sales service with spare parts and 1-year warranty"
           ]
@@ -2762,7 +2922,58 @@
             "en": "Hydraulic scissor lift table for lifting heavy loads in warehouses, factories and loading bays in Qatar, with relief valves for operator safety. Get a quote.",
             "ar": "طاولة رافعة مقصية هيدروليكية لرفع الأحمال الثقيلة في المستودعات والمصانع وأرصفة التحميل في قطر، مزودة بصمامات أمان لحماية المشغلين. اطلب عرض سعر."
           }
-        }
+        },
+        "summary": {
+          "ar": "رافعة مقصية هيدروليكية من ساب تك لرفع البضائع والمواد حتى 3 أطنان بارتفاع رفع 2000 مم، للمستودعات والمصانع وأرصفة التحميل في قطر. تورّدها وتركّبها بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر، مع ضمان لمدة سنة وقطع غيار.",
+          "en": "A SAB TECH hydraulic scissor lift table that lifts goods and materials of up to 3 tons to a height of 2,000 mm, for warehouses, factories and loading bays in Qatar. Supplied and installed by Bestolex, the exclusive SAB TECH agent in Qatar, with a 1-year warranty and spare parts."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما أقصى حمولة للرافعة المقصية وما ارتفاع الرفع؟",
+              "a": "الحمولة القصوى حتى 3 أطنان (3000 كجم)، وارتفاع الرفع 2000 مم، والارتفاع وهي مغلقة 350 مم، ومقاس المنصة 1765 × 2500 مم. إن كانت احتياجاتك مختلفة فاذكرها في طلب عرض السعر لنقترح الموديل المناسب."
+            },
+            {
+              "q": "أين تُستخدم الرافعة المقصية؟",
+              "a": "في نقل البضائع والمواد عمودياً داخل المستودعات والمصانع ومراكز اللوجستيات، وعند أرصفة التحميل لرفع الأحمال إلى مستوى العمل."
+            },
+            {
+              "q": "ما وسائل الأمان في الرافعة؟",
+              "a": "صمامات تخفيف هيدروليكية تحمي العاملين والمنشأة، وقضيب أمان أسفل المنصة."
+            },
+            {
+              "q": "كم سعر الرافعة المقصية في قطر؟",
+              "a": "يتحدد السعر حسب الحمولة ومقاس المنصة وارتفاع الرفع ومتطلبات التركيب. اطلب عرض سعر من النموذج في هذه الصفحة أو عبر واتساب +974 51505014."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "What is the maximum capacity and lifting height of the scissor lift table?",
+              "a": "It lifts up to 3 tons (3,000 kg) to a height of 2,000 mm, with a closed height of 350 mm and a 1,765 × 2,500 mm platform. If your requirements differ, include them in your quote request and we will propose a suitable model."
+            },
+            {
+              "q": "Where is a scissor lift table used?",
+              "a": "For vertical transport of goods and materials in warehouses, factories and logistics hubs, and at loading bays to bring loads to working level."
+            },
+            {
+              "q": "What safety features does it have?",
+              "a": "Hydraulic relief valves that protect personnel and structures, and an under-platform safety bar."
+            },
+            {
+              "q": "How much does a scissor lift table cost in Qatar?",
+              "a": "The price depends on the load, platform size, lifting height and installation requirements. Request a quote through the form on this page or on WhatsApp at +974 51505014."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "movable-scissors-lifts",
@@ -2772,18 +2983,18 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/movable-scissors-lifts/1.png",
         "description": {
-          "ar": "الرافعة المقصية الهيدروليكية المتحركة من ساب تكـ هي رافعة منصية شائعة تستخدم لأنواع مختلفة من أعمال الصيانة دورية متقدمة والمشاريع التي يصل ارتفاعها إلى 14 متر توفير سهولة المناورة في المساحات الضيقة للتطبيقات الداخلية والخارجية على الأسطح الثابتة والمستوية.\nفهي توفر الجودة والمتانة مع تحسين التكلفة الإجمالية للملكية والإنتاجية. توفر نظام متطور محرك التيار المتردد الاختياري إنتاجية لا مثيل لها للتنقل في مواقع العمل الداخلية والخارجية بطريقة مدمجة وخفيفة الوزن ومتعددة الاستخدامات.",
-          "en": "SAB TECH’s Hydraulic Movable Scissor Lift is a popular aerial platform lift which is used for different kind of Comprehensive Maintenance and projects jobs up to 14 meters working height. Providing easy maneuverability in tight spaces for indoor and outdoor applications on firm and level surfaces.\nIt delivers quality and durability while improving total cost of ownership and productivity. The optional AC drive Advanced System offers unmatched productivity for getting around at indoor and outdoor jobsites in a compact, lightweight, and versatile manner."
+          "ar": "الرافعة المقصية الهيدروليكية المتحركة من ساب تكـ هي رافعة منصية شائعة تستخدم لأنواع مختلفة من أعمال الصيانة والمشاريع التي يصل ارتفاعها إلى 14 متر توفير سهولة المناورة في المساحات الضيقة للتطبيقات الداخلية والخارجية على الأسطح الثابتة والمستوية.\nفهي توفر الجودة والمتانة مع تحسين التكلفة الإجمالية للملكية والإنتاجية. توفر نظام محرك التيار المتردد الاختياري إنتاجية لا مثيل لها للتنقل في مواقع العمل الداخلية والخارجية بطريقة مدمجة وخفيفة الوزن ومتعددة الاستخدامات.",
+          "en": "SAB TECH’s Hydraulic Movable Scissor Lift is a popular aerial platform lift which is used for different kind of maintenance and projects jobs up to 14 meters working height. Providing easy maneuverability in tight spaces for indoor and outdoor applications on firm and level surfaces.\nIt delivers quality and durability while improving total cost of ownership and productivity. The optional AC drive system offers unmatched productivity for getting around at indoor and outdoor jobsites in a compact, lightweight, and versatile manner."
         },
         "features": {
           "ar": [
-            "مثالية للأعمال الهوائية والصيانة دورية متقدمة الداخلية والخارجية حتى ارتفاع 14 متر",
+            "مثالية للأعمال الهوائية والصيانة الداخلية والخارجية حتى ارتفاع 14 متر",
             "عناصر تحكم ومفاتيح تشغيل على مستوى الأرض والمنصة",
             "منصة ممتدة توفر مساحة عمل أكبر للعمال والمعدات",
             "أربع ركائز (أذرع ميكانيكية) لتشغيل مستقر وآمن تمامًا",
             "حاجز أمان متين وشديد التحمل محيط بالمنصة",
             "سهولة السحب والمناورة بين مواقع العمل بكل يسر",
-            "انخفاض تكلفة الصيانة دورية متقدمة واعتمادية فائقة الجودة في العمل الشاق",
+            "انخفاض تكلفة الصيانة واعتمادية عالية في العمل الشاق",
             "خدمة ما بعد البيع مع توفر قطع الغيار وضمان لمدة سنة واحدة"
           ],
           "en": [
@@ -2793,7 +3004,7 @@
             "Four mechanical outriggers for stable and safe operation",
             "Durable safety rail surrounding the platform",
             "Easy to tow and maneuver from place to place",
-            "Low Comprehensive Maintenance cost and heavy-duty reliability",
+            "Low maintenance cost and heavy-duty reliability",
             "After-sales service with spare parts and 1-year warranty"
           ]
         },
@@ -2990,7 +3201,8 @@
             "en": "Movable hydraulic scissor lift platform for maintenance and project work up to 14 m working height, indoors or outdoors on firm, level ground. Get a quote.",
             "ar": "منصة رافعة مقصية هيدروليكية متحركة لأعمال الصيانة والمشاريع حتى ارتفاع عمل 14 متراً، داخل المباني وخارجها على أرض صلبة ومستوية. اطلب عرض سعر."
           }
-        }
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "wheelchair-lift",
@@ -3237,7 +3449,8 @@
             "en": "Hydraulic wheelchair platform lift for safe access between levels in homes, banks, hotels and public buildings, indoors or outdoors in Qatar. Get a quote.",
             "ar": "رافعة هيدروليكية لنقل مستخدمي الكراسي المتحركة بأمان بين المستويات في المنازل والبنوك والفنادق والمباني العامة، داخلها وخارجها في قطر. اطلب عرض سعر."
           }
-        }
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "hydraulic-dock-leveler",
@@ -3247,8 +3460,8 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/hydraulic-dock-leveler/1.png",
         "description": {
-          "ar": "تم تصميم هندسي مبتكر منصات التحميل الهيدروليكية من ساب تكـ بدقة شديدة لسد الفجوة بين منصات تحميل المستودعات والشاحنات ذات مستويات الارتفاع المختلفة، مما يضمن عمليات التحميل والتفريغ الآمنة والفعالة.\nتتيح منصات التحميل الهيدروليكية التشغيل الفعال مع الحد الأدنى من متطلبات الصيانة دورية متقدمة، مما يؤدي إلى انخفاض كبير في تكاليف الملكية مقارنة بالوحدات الميكانيكية. ونتيجة لذلك، فإن منصة التحميل الهيدروليكية من ساب تكـ يمثل الخيار الأمثل لتعزيز الإنتاجية في أي منطقة تحميل.\nتوفر منصة التحميل لدينا الأولوية للسلامة، مما يوفر للمشغلين القدرة على إيقاف حركة المنصة في أي وقت أثناء سفرها. تم تصميم هندسي مبتكرها خصيصًا لاستيعاب جميع أنواع الرافعات الشوكية، فهي تتميز بزاوية ميل قصوى تبلغ 13 درجة لمنع الانزلاق إلى القاع أثناء الاستخدام.",
-          "en": "SAB TECH’s Hydraulic Dock Levelers are meticulously engineered to bridge the gap between warehouse loading bays and trucks of varying height levels, ensuring safe and efficient loading and unloading operations.\nThe hydraulic dock Advanced System enables efficient operation with minimal Comprehensive Maintenance requirements, leading to significantly reduced ownership costs compared to mechanical units. As a result, SAB TECH’s Hydraulic Dock Leveler stands as the ideal choice to boost productivity at any loading bay."
+          "ar": "تم تصميم منصات التحميل الهيدروليكية من ساب تكـ بدقة شديدة لسد الفجوة بين منصات تحميل المستودعات والشاحنات ذات مستويات الارتفاع المختلفة، مما يضمن عمليات التحميل والتفريغ الآمنة والفعالة.\nتتيح منصات التحميل الهيدروليكية التشغيل الفعال مع الحد الأدنى من متطلبات الصيانة، مما يؤدي إلى انخفاض كبير في تكاليف الملكية مقارنة بالوحدات الميكانيكية. ونتيجة لذلك، فإن منصة التحميل الهيدروليكية من ساب تكـ يمثل الخيار الأمثل لتعزيز الإنتاجية في أي منطقة تحميل.\nتوفر منصة التحميل لدينا الأولوية للسلامة، مما يوفر للمشغلين القدرة على إيقاف حركة المنصة في أي وقت أثناء سفرها. تم تصميمها خصيصًا لاستيعاب جميع أنواع الرافعات الشوكية، فهي تتميز بزاوية ميل قصوى تبلغ 13 درجة لمنع الانزلاق إلى القاع أثناء الاستخدام.",
+          "en": "SAB TECH’s Hydraulic Dock Levelers are meticulously engineered to bridge the gap between warehouse loading bays and trucks of varying height levels, ensuring safe and efficient loading and unloading operations.\nThe hydraulic dock system enables efficient operation with minimal maintenance requirements, leading to significantly reduced ownership costs compared to mechanical units. As a result, SAB TECH’s Hydraulic Dock Leveler stands as the ideal choice to boost productivity at any loading bay."
         },
         "features": {
           "ar": [
@@ -3431,7 +3644,58 @@
             "en": "Hydraulic dock leveler that bridges the gap between loading bays and trucks of different heights for safe, fast forklift loading in Qatar. Request a quote.",
             "ar": "رصيف تحميل هيدروليكي يسد الفجوة بين رصيف المستودع والشاحنات بارتفاعات مختلفة، لتحميل آمن وسريع بالرافعات الشوكية في قطر. اطلب عرض سعر من بيستوليكس."
           }
-        }
+        },
+        "summary": {
+          "ar": "رصيف تحميل هيدروليكي من ساب تك يسد الفجوة بين أرضية المستودع والشاحنات مختلفة الارتفاع، بحمولة قياسية 6 أو 8 أطنان قابلة للتخصيص حتى 45 طناً. مناسب للمستودعات ومراكز التوزيع في قطر، وتورّده وتركّبه بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "A SAB TECH hydraulic dock leveler that bridges the gap between the warehouse floor and trucks of different bed heights, rated 6 or 8 tons as standard and customizable up to 45 tons. Built for warehouses and distribution centers in Qatar, supplied and installed by Bestolex, the exclusive SAB TECH agent in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما الحمولات والمقاسات المتاحة لرصيف التحميل؟",
+              "a": "الحمولة القياسية 6 أو 8 أطنان، ويمكن تخصيصها حتى 45 طناً. ومقاسات المنصة القياسية من 1830 × 2730 مم إلى 2000 × 2500 مم."
+            },
+            {
+              "q": "ما فرق الارتفاع الذي يعالجه رصيف التحميل؟",
+              "a": "حتى 600 مم فوق مستوى أرضية المستودع، وحتى 300 مم تحتها."
+            },
+            {
+              "q": "لماذا أختار رصيف التحميل الهيدروليكي بدل الميكانيكي؟",
+              "a": "لأنه يعمل بسلاسة ويتطلب صيانة أقل، ما يخفض تكلفة الملكية مقارنة بالوحدات الميكانيكية، ويضم حماية تلقائية من السقوط الحر."
+            },
+            {
+              "q": "هل يتكامل رصيف التحميل مع الأبواب المقطعية؟",
+              "a": "نعم، يمكن ربط لوحته الكهربائية بالأبواب المقطعية وأنظمة تثبيت المركبات."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "What capacities and sizes are available?",
+              "a": "Standard capacities are 6 or 8 tons, customizable up to 45 tons. Standard platform sizes range from 1,830 × 2,730 mm to 2,000 × 2,500 mm."
+            },
+            {
+              "q": "What height difference can it handle?",
+              "a": "Up to 600 mm above the warehouse floor level and up to 300 mm below it."
+            },
+            {
+              "q": "Why choose a hydraulic dock leveler over a mechanical one?",
+              "a": "It operates smoothly with lower maintenance requirements, which reduces ownership costs compared with mechanical units, and it includes automatic free-fall protection."
+            },
+            {
+              "q": "Can it be integrated with sectional doors?",
+              "a": "Yes. Its electrical panel can be integrated with sectional doors and vehicle restraints."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "dock-leveler-inkema",
@@ -3499,8 +3763,8 @@
           {
             "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Safety-bar-for-maintenance-work.jpg",
             "label": {
-              "ar": "عمود أمان لتثبيت المنصة أثناء الصيانة دورية متقدمة",
-              "en": "Safety Support Bar for Comprehensive Maintenance"
+              "ar": "عمود أمان لتثبيت المنصة أثناء الصيانة",
+              "en": "Safety Support Bar for Maintenance"
             }
           }
         ],
@@ -3576,7 +3840,8 @@
             "en": "RH1 dock leveler that covers the gap and height difference between the loading bay and the truck, suitable for all types of loading bays in Qatar. Get a quote.",
             "ar": "رصيف تحميل RH1 يغطي الفجوة وفرق الارتفاع بين رصيف التحميل والشاحنة، ويناسب مختلف أنواع أرصفة التحميل في قطر. اطلب عرض سعر من بيستوليكس."
           }
-        }
+        },
+        "brand": "Inkema"
       },
       {
         "id": "manual-loading-bridges",
@@ -3630,8 +3895,8 @@
           {
             "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/05/Compensation-system-is-formed-by-spring.jpg",
             "label": {
-              "ar": "نظام متطور نوابض ميكانيكية للارتداد",
-              "en": "Spring Compensation Advanced System"
+              "ar": "نظام نوابض ميكانيكية للارتداد",
+              "en": "Spring Compensation System"
             }
           }
         ],
@@ -3710,7 +3975,8 @@
             "en": "Manual loading bridge that spans small gaps and height differences between dock and truck without electrical power, mounted at the dock edge. Get a quote.",
             "ar": "جسر تحميل يدوي يسد الفجوات الصغيرة وفروق الارتفاع بين رصيف التحميل والشاحنة دون كهرباء، ويُركّب على حافة الرصيف. اطلب عرض سعر من بيستوليكس."
           }
-        }
+        },
+        "brand": "Inkema"
       },
       {
         "id": "inflatable-dock-shelter",
@@ -3734,7 +4000,7 @@
           "en": [
             "Perfect thermal insulation for refrigerated food and pharma warehouses",
             "Electrically inflatable cushions adaptable to all truck sizes",
-            "Superior Quality-durability tear-resistant polyester rubber material",
+            "High-durability tear-resistant polyester rubber material",
             "Drastically reduces energy consumption and cooling costs",
             "After-sales service with spare parts and 1-year warranty"
           ]
@@ -3758,7 +4024,7 @@
             "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/05/High-flow-fan-drive-motor.jpg",
             "label": {
               "ar": "مروحة ذات تدفق هواء عالي لتسريع الانتفاخ",
-              "en": "Superior Quality Flow Fan Drive Motor"
+              "en": "High Flow Fan Drive Motor"
             }
           },
           {
@@ -3845,7 +4111,58 @@
             "en": "Inflatable dock shelter that seals around trucks and containers during loading, limiting cooling loss, dust and insects in cold stores in Qatar. Get a quote.",
             "ar": "مظلة رصيف قابلة للنفخ تحكم الإغلاق حول الشاحنات والحاويات أثناء التحميل، فتحد من فقد البرودة والغبار والحشرات في المخازن المبردة في قطر. اطلب عرض سعر."
           }
-        }
+        },
+        "summary": {
+          "ar": "غطاء بوابة قابل للانتفاخ يحيط بجسم الشاحنة أو الحاوية أثناء التحميل ويغلق الفراغ حولها، فيحدّ من فقدان التبريد ودخول الغبار. مناسب للمخازن المبردة ومستودعات الأغذية والأدوية في قطر، ومقاسه القياسي 3500 × 3700 مم وينتفخ خلال 15–20 ثانية.",
+          "en": "An inflatable dock shelter that seals around the truck or container body during loading, limiting cooling loss and dust ingress. Suited to cold stores and food and pharmaceutical warehouses in Qatar; the standard size is 3,500 × 3,700 mm and it inflates in 15–20 seconds."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "متى أختار غطاء البوابة القابل للانتفاخ؟",
+              "a": "عندما تحتاج إلى إحكام حول المركبة، كما في المخازن المبردة ومستودعات الأغذية والأدوية، لأن الوسائد تنتفخ حول جسم الشاحنة وتغلق محيطها أثناء التحميل."
+            },
+            {
+              "q": "ما المقاس القياسي وزمن الانتفاخ؟",
+              "a": "المقاس القياسي 3500 مم عرضاً × 3700 مم ارتفاعاً بعمق 800 مم، ومحرك المنفاخ 0.55 كيلوواط، وزمن الانتفاخ 15–20 ثانية."
+            },
+            {
+              "q": "هل يناسب أحجام الشاحنات المختلفة؟",
+              "a": "نعم، الوسائد تنتفخ كهربائياً وتتكيف مع أحجام الشاحنات المختلفة."
+            },
+            {
+              "q": "هل يتحمل حرارة الصيف في قطر؟",
+              "a": "نطاق درجة حرارة التشغيل في المواصفات من −30 إلى +70 درجة مئوية."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "When should I choose an inflatable dock shelter?",
+              "a": "When you need a tight seal around the vehicle, as in cold stores and food and pharmaceutical warehouses, because the cushions inflate around the truck body and close its perimeter during loading."
+            },
+            {
+              "q": "What is the standard size and inflation time?",
+              "a": "The standard size is 3,500 mm wide × 3,700 mm high with an 800 mm depth, a 0.55 kW blower motor and an inflation time of 15–20 seconds."
+            },
+            {
+              "q": "Does it fit different truck sizes?",
+              "a": "Yes. The electrically inflated cushions adapt to different truck sizes."
+            },
+            {
+              "q": "Can it handle summer heat in Qatar?",
+              "a": "The specified operating temperature range is −30 °C to +70 °C."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        },
+        "brand": "Inkema"
       },
       {
         "id": "retractable-dock-shelter",
@@ -3861,7 +4178,7 @@
         "features": {
           "ar": [
             "هيكل ارتدادي يمتص صدمات الشاحنات ويحمي حوائط البوابة من التلف",
-            "ستائر مطاطية من البولي فينايل كلورايد (PVC) فائقة الجودة المرونة والمتانة",
+            "ستائر مطاطية من البولي فينايل كلورايد (PVC) عالية المرونة والمتانة",
             "إطار ألومنيوم/حديد مجلفن قوي ومقاوم للصدأ",
             "تصريف ممتاز لمياه الأمطار وعزل العوامل الجوية",
             "خدمات ما بعد البيع مع توفر قطع الغيار وضمان لمدة سنة واحدة"
@@ -3947,7 +4264,8 @@
             "en": "Retractable dock shelter with a flexible frame that absorbs truck impact and springs back, and PVC curtains that seal around the docked vehicle. Get a quote.",
             "ar": "مظلة رصيف بإطار مرن يمتص اصطدام الشاحنة ويعود إلى وضعه، وستائر PVC تحكم الإغلاق حول المركبة أثناء التحميل في قطر. اطلب عرض سعر من بيستوليكس."
           }
-        }
+        },
+        "brand": "Inkema"
       },
       {
         "id": "movable-dock-ramp",
@@ -3986,7 +4304,7 @@
           {
             "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Adjustable-screw-adding-more-support.jpg",
             "label": {
-              "ar": "مسمار تعديل الإرتفاعات يعمل كدعامة تقوية وفائقة الجودة الأداء للتثبيت علي الارض",
+              "ar": "مسمار تعديل الإرتفاعات يعمل كدعامة تقوية وعالية الأداء للتثبيت علي الارض",
               "en": "Adjustable Screw Adding More Support"
             }
           },
@@ -4035,7 +4353,7 @@
           {
             "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Powered-by-a-heavy-duty-power-pack-and-sturdy-electrical-panel.jpg",
             "label": {
-              "ar": "مدعوم بوحدة طاقة هيدروليكية ولوحة كهربائية قوية وفائقة الجودة الأداء",
+              "ar": "مدعوم بوحدة طاقة هيدروليكية ولوحة كهربائية قوية وعالية الأداء",
               "en": "Powered by Heavy Duty Power Pack & Sturdy Electrical Panel"
             }
           },
@@ -4152,7 +4470,8 @@
             "en": "Freestanding movable yard ramp for loading trailers with forklifts where there is no loading bay, for trucks up to 1.8 m loading height in Qatar. Get a quote.",
             "ar": "رمبة تحميل متحركة قائمة بذاتها لتحميل المقطورات بالرافعات الشوكية حيث لا يوجد رصيف، لشاحنات حتى ارتفاع تحميل 1.8 متر في قطر. اطلب عرض سعر."
           }
-        }
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "minidock",
@@ -4170,14 +4489,14 @@
             "تحمل حمولة ديناميكية تصل إلى 6 طن على الرغم من حجمها المدمج",
             "طلاء خاص مضاد للتآكل لحماية فائقة وطويلة الأمد",
             "تركيب سريع وبسيط دون الحاجة لعمل حفرة خرسانية (No Pit)",
-            "صيانة دورية متقدمة مجانية وتصميم هندسي مبتكر عملي للغاية لتوفير المساحة",
+            "لا تحتاج إلى صيانة، وتصميم عملي للغاية لتوفير المساحة",
             "خدمة ما بعد البيع متكاملة مع توفر قطع الغيار وضمان لمدة سنة واحدة"
           ],
           "en": [
             "Supports up to 6 tons of dynamic load despite compact size",
             "Special anti-corrosion coating for long-lasting protection",
             "Fast and easy installation requiring no pit construction",
-            "Comprehensive Maintenance-free Innovative Engineering Design saving considerable loading space",
+            "Maintenance-free design saving considerable loading space",
             "After-sales service with spare parts availability and 1-year warranty"
           ]
         },
@@ -4319,7 +4638,8 @@
             "en": "Mini dock leveler that needs no pit and installs quickly at any loading bay, supporting up to 6 tons of dynamic load during loading and unloading. Get a quote.",
             "ar": "رصيف تحميل صغير لا يحتاج إلى حفرة ويُركّب بسرعة على أي رصيف تحميل، ويتحمل حتى 6 أطنان حملاً ديناميكياً أثناء التحميل والتفريغ. اطلب عرض سعر."
           }
-        }
+        },
+        "brand": "Inkema"
       },
       {
         "id": "mobile-loading-dock",
@@ -4329,7 +4649,7 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/mobile-loading-dock/1.png",
         "description": {
-          "ar": "تقدم منصة التحميل الهيدروليكية المتحركة من ساب تكـ حلاً مثاليًا لنقل البضائع عموديًا وتسهيل التحميل والتفريغ في الأماكن الضيقة. منصة التحميل متوافقة مع الرافعات الشوكية، لا تقدر بثمن في المواقع التي تفتقر إلى منطقة التحميل والمنصات ذات الصلة. يمكن تعديل ارتفاع المنصة للتكيف بسهولة لتناسب أحجام الحاويات والشاحنات المختلفة، مما يسمح للرافعات الشوكية بالوصول إلى الأجزاء الداخلية للحاوية من أجل العمل بجودة فائقة. يتم استخدامها على نطاق واسع في المستودعات والمصانع والمحطات والأرصفة والمرافق اللوجستية، وقد تم تصميم هندسي مبتكر منصات التحميل المتحركة لتشغيل عامل واحد.",
+          "ar": "تقدم منصة التحميل الهيدروليكية المتحركة من ساب تكـ حلاً مثاليًا لنقل البضائع عموديًا وتسهيل التحميل والتفريغ في الأماكن الضيقة. منصة التحميل متوافقة مع الرافعات الشوكية، لا تقدر بثمن في المواقع التي تفتقر إلى منطقة التحميل والمنصات ذات الصلة. يمكن تعديل ارتفاع المنصة للتكيف بسهولة لتناسب أحجام الحاويات والشاحنات المختلفة، مما يسمح للرافعات الشوكية بالوصول إلى الأجزاء الداخلية للحاوية من أجل العمل بجودة فائقة. يتم استخدامها على نطاق واسع في المستودعات والمصانع والمحطات والأرصفة والمرافق اللوجستية، وقد تم تصميم منصات التحميل المتحركة لتشغيل عامل واحد.",
           "en": "SABTECH’s Hydraulic Mobile Loading Dock Lift presents an ideal solution for vertically moving goods and facilitating loading and unloading in confined spaces. This critical material handling equipment, compatible with forklifts, is invaluable in locations lacking a loading bay and its relevant platforms. Its adaptable working height can be effortlessly adjusted to accommodate various container and truck sizes, allowing forklifts to access the container interiors for efficient batch operations. Widely deployed in warehouses, factories, stations, docks, and logistics facilities, these Mobile Loading Dock Lifts are designed for single-worker operation."
         },
         "features": {
@@ -4338,8 +4658,8 @@
             "لوحة تحكم كهربائية سهلة الاستخدام وتدعم الإنتاجية القصوى لعملية تشغيل سلسة",
             "منصة تحكم وتوفير خيار التحكم عن بعد (ريموت سلكي)",
             "مسامير وقواعد دعم جانبية قابلة للتعديل لمزيد من الثبات والأمان",
-            "مكونات هيدروليكية فائقة الجودة الجودة والمتانة للعمل في الظروف الشاقة",
-            "توفير تكلفة العمالة وتصميم هندسي مبتكر يتيح تشغيل المنصة بعامل واحد فقط",
+            "مكونات هيدروليكية عالية الجودة والمتانة للعمل في الظروف الشاقة",
+            "توفير تكلفة العمالة وتصميم يتيح تشغيل المنصة بعامل واحد فقط",
             "خدمة ما بعد البيع مع توفر قطع الغيار وضمان لمدة سنة واحدة"
           ],
           "en": [
@@ -4515,7 +4835,8 @@
             "en": "Hydraulic mobile loading dock lift that raises goods and forklifts to truck level where no loading bay exists, for warehouses and confined sites in Qatar.",
             "ar": "منصة رفع هيدروليكية متحركة ترفع البضائع والرافعات الشوكية إلى مستوى الشاحنة في المواقع التي لا يوجد بها رصيف تحميل في قطر. اطلب عرض سعر."
           }
-        }
+        },
+        "brand": "SAB TECH"
       }
     ],
     "seo": {
@@ -4549,8 +4870,8 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/above-ground-tyre-killer/1.png",
         "description": {
-          "ar": "مفجر الإطارات المثبت على السطح فوق الأرض من ساب تكـ هو نظام متطور أمني متطور يثبت مباشره على سطح الأسفلت أو الخرسانة دون الحاجة إلى أعمال أعمال حفر عميقة أو أساسات أرضية معقدة.\nمصمم بصفائح فولاذية منحنية مانعة للانزلاق وأشواك فولاذية حادة تبرز عند محاولة الدخول الخاطئ أو غير المصرح به لتدمير إطارات المركبات فوراً.\nيعتبر الخيار المثالي والأمثل للمواقع الحساسة والمؤقتة أو الطرق التي تحتوي على تمديدات تحت الأرض تحول دون الحفر العميق.",
-          "en": "SABTECH’s Surface Mount Above Ground Tyre Killer is an engineered Superior Quality-security barrier installed directly onto asphalt or concrete surfaces without requiring deep pit excavation.\nDesigned with heavy-duty anti-slip ramps and sharp steel spikes that immediately puncture and destroy vehicle tyres attempting unauthorized entry or wrong-way driving.\nIdeal for sensitive facilities, temporary checkpoints, or sites with underground utilities where deep excavation is impossible."
+          "ar": "مفجر الإطارات المثبت على السطح فوق الأرض من ساب تكـ هو نظام أمني متطور يثبت مباشره على سطح الأسفلت أو الخرسانة دون الحاجة إلى أعمال حفر عميقة أو أساسات أرضية معقدة.\nمصمم بصفائح فولاذية منحنية مانعة للانزلاق وأشواك فولاذية حادة تبرز عند محاولة الدخول الخاطئ أو غير المصرح به لتدمير إطارات المركبات فوراً.\nيعتبر الخيار المثالي والأمثل للمواقع الحساسة والمؤقتة أو الطرق التي تحتوي على تمديدات تحت الأرض تحول دون الحفر العميق.",
+          "en": "SABTECH’s Surface Mount Above Ground Tyre Killer is an engineered high-security barrier installed directly onto asphalt or concrete surfaces without requiring deep pit excavation.\nDesigned with heavy-duty anti-slip ramps and sharp steel spikes that immediately puncture and destroy vehicle tyres attempting unauthorized entry or wrong-way driving.\nIdeal for sensitive facilities, temporary checkpoints, or sites with underground utilities where deep excavation is impossible."
         },
         "features": {
           "ar": [
@@ -4564,7 +4885,7 @@
             "Direct surface-mount installation without requiring deep trenching or excavation",
             "Heavy-duty sharp steel spikes engineered for immediate vehicle tyre destruction",
             "Anti-slip side ramps ensuring smooth passage for authorized vehicles in permitted direction",
-            "Armoured steel construction built to withstand Superior Quality axle loads and heavy traffic",
+            "Armoured steel construction built to withstand high axle loads and heavy traffic",
             "Full after-sales support, genuine spare parts availability, and 1-year warranty"
           ]
         },
@@ -4579,7 +4900,7 @@
           {
             "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2021/08/Customize-spike-for-optional-car-or-tyre-size.jpg",
             "label": {
-              "ar": "تصميم هندسي مبتكر أشواك مخصص حسب مقاس الإطارات",
+              "ar": "تصميم أشواك مخصص حسب مقاس الإطارات",
               "en": "Customized Spikes for Tire Sizes"
             }
           },
@@ -4593,8 +4914,8 @@
           {
             "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2021/08/Spike-movement-by-mechanical-counterweight.jpg",
             "label": {
-              "ar": "حركة الأشواك بنظام متطور الثقل الميكانيكي",
-              "en": "Mechanical Counterweight Advanced System"
+              "ar": "حركة الأشواك بنظام الثقل الميكانيكي",
+              "en": "Mechanical Counterweight System"
             }
           },
           {
@@ -4721,7 +5042,8 @@
             "en": "Surface-mounted tyre killer on asphalt or concrete without deep excavation, with steel spikes that stop unauthorised vehicles at entry points. Get a quote.",
             "ar": "مفجر إطارات يُركّب على سطح الأسفلت أو الخرسانة دون حفر عميق، بأشواك فولاذية توقف المركبات غير المصرح لها عند نقاط الدخول في قطر. اطلب عرض سعر."
           }
-        }
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "high-security-road-blocker",
@@ -4731,8 +5053,8 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/high-security-road-blocker-pas68/1.png",
         "description": {
-          "ar": "مصد الطريق RBXM1000CT من ساب تك حاجز طريق هيدروليكي عالي الأمان، مصمم لحماية محيط المنشآت من دخول المركبات غير المصرح لها. تُذكر المطابقة لمعايير اختبار التصادم PAS 68 وIWA 14-1 وASTM F2656 فقط للموديلات المدعومة بشهادة اختبار رسمية، وتُرفق الشهادة بالعرض الفني.\nيوفر حاجز الطريق هذا أمانًا عالي المستوى لمحيطك، خاصة في المناطق المعرضة لهجمات المركبات. إنه يعمل باستخدام وحدة طاقة هيدروليكية (HPU)، قادرة على النشر خلال 3-5 ثوانٍ في ظل الظروف العادية وبسرعة تصل إلى 1.5 ثانية مع نظام متطور الفتح السريع في حالات الطوارئ (EFO).\nفي حالة انقطاع التيار الكهربائي، يمكن تشغيل حاجز الطريق يدويًا باستخدام مضخة يدوية مُجهزة خصيصًا، مما يضمن استمرار الأمان حتى في الظروف المعاكسة.\nتسمح الإلكترونيات التي يتم التحكم فيها بواسطة PLC بالتكامل متعدد الاستخدامات مع أجهزة قراءة البطاقات، وأجهزة القياسات الحيوية، والتحكم في الراديو، والتعرف على لوحة الترخيص، وإشارات المرور.",
-          "en": "SAB TECH's RBXM1000CT is a high-security hydraulic road blocker designed to protect facility perimeters against unauthorized vehicle access. Compliance with the PAS 68, IWA 14-1 and ASTM F2656 crash-test standards is stated only for models backed by an official test certificate, which is attached to the technical proposal. This road blocker provides high-level security for your perimeter, particularly in areas vulnerable to vehicle attacks.\nIt operates using a hydraulic power unit (HPU), capable of deploying within 3-5 seconds under normal conditions and as swiftly as 1.5 seconds with the emergency fast opening (EFO) Advanced System.\nIn the event of a power failure, the road blocker can be manually operated using a specially fitted hand pump, ensuring continued security even in adverse circumstances."
+          "ar": "مصد الطريق RBXM1000CT من ساب تك حاجز طريق هيدروليكي عالي الأمان، مصمم لحماية محيط المنشآت من دخول المركبات غير المصرح لها. تُذكر المطابقة لمعايير اختبار التصادم PAS 68 وIWA 14-1 وASTM F2656 فقط للموديلات المدعومة بشهادة اختبار رسمية، وتُرفق الشهادة بالعرض الفني.\nيوفر حاجز الطريق هذا أمانًا عالي المستوى لمحيطك، خاصة في المناطق المعرضة لهجمات المركبات. إنه يعمل باستخدام وحدة طاقة هيدروليكية (HPU)، قادرة على النشر خلال 3-5 ثوانٍ في ظل الظروف العادية وبسرعة تصل إلى 1.5 ثانية مع نظام الفتح السريع في حالات الطوارئ (EFO).\nفي حالة انقطاع التيار الكهربائي، يمكن تشغيل حاجز الطريق يدويًا باستخدام مضخة يدوية مُجهزة خصيصًا، مما يضمن استمرار الأمان حتى في الظروف المعاكسة.\nتسمح الإلكترونيات التي يتم التحكم فيها بواسطة PLC بالتكامل متعدد الاستخدامات مع أجهزة قراءة البطاقات، وأجهزة القياسات الحيوية، والتحكم في الراديو، والتعرف على لوحة الترخيص، وإشارات المرور.",
+          "en": "SAB TECH's RBXM1000CT is a high-security hydraulic road blocker designed to protect facility perimeters against unauthorized vehicle access. Compliance with the PAS 68, IWA 14-1 and ASTM F2656 crash-test standards is stated only for models backed by an official test certificate, which is attached to the technical proposal. This road blocker provides high-level security for your perimeter, particularly in areas vulnerable to vehicle attacks.\nIt operates using a hydraulic power unit (HPU), capable of deploying within 3-5 seconds under normal conditions and as swiftly as 1.5 seconds with the emergency fast opening (EFO) system.\nIn the event of a power failure, the road blocker can be manually operated using a specially fitted hand pump, ensuring continued security even in adverse circumstances."
         },
         "features": {
           "ar": [
@@ -4746,7 +5068,7 @@
           "en": [
             "PAS 68, IWA 14-1 and ASTM F2656 compliance stated only for models with an official test certificate",
             "Checkered top steel plate at 10 mm thickness for slip resistance",
-            "Heavy-duty structure made out of Superior Quality-grade S275JR steel",
+            "Heavy-duty structure made out of high-grade S275JR steel",
             "Fast deployment (3-5s) with Emergency Fast Opening (EFO) in 1.5s",
             "Manual hand pump operation during total power failures",
             "After-sales service with spare parts availability and 1-year warranty"
@@ -4799,7 +5121,7 @@
             "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/05/Standard-Powerpack.jpg",
             "label": {
               "ar": "وحدة طاقة هيدروليكية ذات إنتاج عالي",
-              "en": "Superior Quality Output Hydraulic Power Pack"
+              "en": "High Output Hydraulic Power Pack"
             }
           },
           {
@@ -4936,7 +5258,8 @@
             "en": "Hydraulic high-security road blocker that protects facility perimeters and controls vehicle access at the gates of sensitive sites in Qatar. Get a proposal.",
             "ar": "مصد طريق هيدروليكي عالي الأمان لحماية محيط المنشآت والتحكم في دخول المركبات عند بوابات المواقع الحساسة في قطر. اطلب عرضاً فنياً وسعراً من بيستوليكس."
           }
-        }
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "high-security-shallow-road-blocker",
@@ -4946,8 +5269,8 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/high-security-shallow-road-blocker-pas68/1.png",
         "description": {
-          "ar": "توفر مصدات الطرق السطحية الهيدروليكية عالية الأمان من ساب تك حماية عالية لمحيط المنشآت الحساسة، مما يمنع بشكل فعال الوصول غير المصرح به للمركبات.\nمع عمق تركيب يبلغ 40 سم فقط، يعتبر مصد الطريق السطحي مثالياً للمواقع التي تكون فيها الأساسات الخرسانية العميقة غير عملية، مما يوفر مرونة ممتازة للتركيب.\nيعمل النظام متطور بواسطة وحدة طاقة هيدروليكية (HPU) قادرة على الرفع والفتح خلال 3-5 ثوانٍ، وبسرعة تصل إلى 1.5 ثانية مع نظام متطور الفتح السريع في حالات الطوارئ (EFO).\nتسمح لوحة التحكم الإلكترونية بي إل سي بالتكامل والتوافق مع أجهزة قراءة البطاقات، البصمة الحيوية، والتحكم بالراديو، وقارئ لوحات المركبات.",
-          "en": "SAB TECH's high-security shallow-mount hydraulic road blocker provides high-level perimeter security, effectively preventing unauthorized vehicle access.\nWith an installation depth of just 40 cm, our shallow road blocker is ideal for sites where deep concrete foundations are impractical, offering enhanced installation flexibility.\nPowered by a Hydraulic Power Unit (HPU), it deploys within 3 to 5 seconds under standard operation, and as fast as 1.5 seconds with Emergency Fast Opening (EFO).\nThe PLC-controlled Advanced System supports integration with card readers, biometric readers, radio controls, and license plate recognition."
+          "ar": "توفر مصدات الطرق السطحية الهيدروليكية عالية الأمان من ساب تك حماية عالية لمحيط المنشآت الحساسة، مما يمنع بشكل فعال الوصول غير المصرح به للمركبات.\nمع عمق تركيب يبلغ 40 سم فقط، يعتبر مصد الطريق السطحي مثالياً للمواقع التي تكون فيها الأساسات الخرسانية العميقة غير عملية، مما يوفر مرونة ممتازة للتركيب.\nيعمل النظام بواسطة وحدة طاقة هيدروليكية (HPU) قادرة على الرفع والفتح خلال 3-5 ثوانٍ، وبسرعة تصل إلى 1.5 ثانية مع نظام الفتح السريع في حالات الطوارئ (EFO).\nتسمح لوحة التحكم الإلكترونية بي إل سي بالتكامل والتوافق مع أجهزة قراءة البطاقات، البصمة الحيوية، والتحكم بالراديو، وقارئ لوحات المركبات.",
+          "en": "SAB TECH's high-security shallow-mount hydraulic road blocker provides high-level perimeter security, effectively preventing unauthorized vehicle access.\nWith an installation depth of just 40 cm, our shallow road blocker is ideal for sites where deep concrete foundations are impractical, offering enhanced installation flexibility.\nPowered by a Hydraulic Power Unit (HPU), it deploys within 3 to 5 seconds under standard operation, and as fast as 1.5 seconds with Emergency Fast Opening (EFO).\nThe PLC-controlled system supports integration with card readers, biometric readers, radio controls, and license plate recognition."
         },
         "features": {
           "ar": [
@@ -4956,15 +5279,15 @@
             "سرعة تشغيل فائقة (3-5 ثوانٍ) وفتح طوارئ سريع خلال 1.5 ثانية (EFO)",
             "هيكل عالي التحمل مصفح ومقاوم للاصطدامات الشديدة مع تشغيل يدوي للطوارئ",
             "لوحة تحكم بي إل سي متطورة تدعم الربط مع جميع أنظمة حديثة وموثوقة التحكم في الدخول",
-            "صيانة دورية متقدمة منخفضة وخدمة ما بعد البيع مع ضمان لمدة سنة وتوفر قطع الغيار"
+            "صيانة منخفضة وخدمة ما بعد البيع مع ضمان لمدة سنة وتوفر قطع الغيار"
           ],
           "en": [
             "Ultra-shallow foundation depth (just 40 cm) for sites with underground constraints",
             "PAS 68 compliance stated only for models with an official test certificate",
             "Fast deployment (3-5 sec) with Emergency Fast Opening (EFO) in 1.5 sec",
             "Heavy-duty armoured structure with manual emergency hand pump operation",
-            "Advanced PLC controller supporting complete access control Advanced System integrations",
-            "Low Comprehensive Maintenance cost, after-sales support, 1-year warranty, and spare parts"
+            "Advanced PLC controller supporting complete access control system integrations",
+            "Low maintenance cost, after-sales support, 1-year warranty, and spare parts"
           ]
         },
         "featureImages": [
@@ -5014,7 +5337,7 @@
             "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2023/09/out-put-power-pack.jpg",
             "label": {
               "ar": "وحدة طاقة هيدروليكية ذات إنتاج عالي",
-              "en": "Superior Quality Output Hydraulic Power Pack"
+              "en": "High Output Hydraulic Power Pack"
             }
           },
           {
@@ -5158,7 +5481,8 @@
             "en": "High-security shallow-mount hydraulic road blocker with a 40 cm installation depth, for sites where deep foundations are impractical in Qatar. Get a quote.",
             "ar": "مصد طريق هيدروليكي عالي الأمان بعمق تركيب 40 سم فقط، للمواقع التي يصعب فيها حفر أساسات عميقة في قطر. اطلب عرض سعر من بيستوليكس."
           }
-        }
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "road-blocker",
@@ -5168,21 +5492,21 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/road-blocker/1.png",
         "description": {
-          "ar": "توفر مصدات الطرق الهيدروليكية من ساب تكـ حماية أمنية قوية وفائقة الجودة الأداء وفعالة للمناطق الحساسة، مما يضمن دفاعًا لا مثيل له ضد هجمات الدخلاء غير المرغوب فيها.\nتوفر مصدات الطرق لدينا تدفقًا سلسًا لحركة المرور للمركبات المرخصة مع منع اقتحام المركبات غير المصرح به.\nمدعومة بوحدة الطاقة الهيدروليكية (HPU)، يمكن لمصدات الطرق الخاصة بنا أن ترفع وتنخفض بسرعة (خلال 4-6 ثواني)، مما يضمن التشغيل السريع.\nفي حالة انقطاع التيار الكهربائي، تسمح المضخة اليدوية المجهزة خصيصًا بالتشغيل اليدوي، مما يضمن الأمان المستمر حتى في ظل الظروف المعاكسة.",
+          "ar": "توفر مصدات الطرق الهيدروليكية من ساب تكـ حماية أمنية قوية وعالية الأداء وفعالة للمناطق الحساسة، مما يضمن دفاعًا لا مثيل له ضد هجمات الدخلاء غير المرغوب فيها.\nتوفر مصدات الطرق لدينا تدفقًا سلسًا لحركة المرور للمركبات المرخصة مع منع اقتحام المركبات غير المصرح به.\nمدعومة بوحدة الطاقة الهيدروليكية (HPU)، يمكن لمصدات الطرق الخاصة بنا أن ترفع وتنخفض بسرعة (خلال 4-6 ثواني)، مما يضمن التشغيل السريع.\nفي حالة انقطاع التيار الكهربائي، تسمح المضخة اليدوية المجهزة خصيصًا بالتشغيل اليدوي، مما يضمن الأمان المستمر حتى في ظل الظروف المعاكسة.",
           "en": "SAB TECH’s Hydraulic Road blockers offer robust and effective security protection for sensitive areas, ensuring unparalleled defense against unwanted intruder attacks.\nOur road blockers provide seamless traffic flow for authorized vehicles while deterring unauthorized vehicular intrusion.\nPowered by a hydraulic power unit (HPU), our road blockers can rapidly lift and lower (in 4-6 seconds), ensuring swift operation.\nIn the event of a power failure, a specially fitted hand pump allows for manual operation, ensuring continuous security even under adverse conditions."
         },
         "features": {
           "ar": [
             "هيكل فولاذي عالي التحمل مصفح ومصمم لتحمل الصدمات",
             "تشغيل يدوي بمضخة يدوية مدمجة عند انقطاع التيار الكهربائي",
-            "انخفاض تكلفة الصيانة دورية متقدمة والتشغيل السريع الهيدروليكي",
+            "انخفاض تكلفة الصيانة والتشغيل السريع الهيدروليكي",
             "خدمة ما بعد البيع المتكاملة وتوفر قطع الغيار الأصلية",
             "ضمان شامل لمدة سنة كاملة"
           ],
           "en": [
             "Heavy-duty armoured steel structure designed for maximum impact defense",
-            "Manual hand pump operation Advanced System during total power failures",
-            "Low Comprehensive Maintenance cost with fast hydraulic deployment",
+            "Manual hand pump operation system during total power failures",
+            "Low maintenance cost with fast hydraulic deployment",
             "Full after-sales support with genuine spare parts availability",
             "1 Year comprehensive warranty"
           ]
@@ -5205,8 +5529,8 @@
           {
             "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/05/Customize-nailed-design.jpg",
             "label": {
-              "ar": "تصميم هندسي مبتكر شوكات أمنية حسب الطلب",
-              "en": "Customized Nailed Innovative Engineering Design"
+              "ar": "تصميم شوكات أمنية حسب الطلب",
+              "en": "Customized Nailed Design"
             }
           },
           {
@@ -5240,8 +5564,8 @@
           {
             "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/05/Standard-Powerpack.jpg",
             "label": {
-              "ar": "وحدة الهيدروليك القياسية فائقة الجودة الأداء",
-              "en": "Standard Superior Quality Output Power Pack"
+              "ar": "وحدة الهيدروليك القياسية عالية الأداء",
+              "en": "Standard High Output Power Pack"
             }
           },
           {
@@ -5385,7 +5709,58 @@
             "en": "Hydraulic road blocker powered by an HPU that lets authorised vehicles through and stops unauthorised entry at sensitive sites in Qatar. Request a quote.",
             "ar": "مصد طريق هيدروليكي يعمل بوحدة طاقة هيدروليكية، يسمح بمرور المركبات المصرح لها ويمنع الدخول غير المصرح به في المنشآت الحساسة في قطر. اطلب عرض سعر."
           }
-        }
+        },
+        "summary": {
+          "ar": "مصد طريق هيدروليكي من ساب تك يمنع دخول المركبات غير المصرح لها إلى المنشآت الحساسة في قطر، بارتفاع 800–1100 مم وعرض سدّ 2000–6000 مم، ويرتفع أو ينخفض خلال 4–6 ثوانٍ. فيه مضخة يدوية للتشغيل عند انقطاع الكهرباء.",
+          "en": "A SAB TECH hydraulic road blocker that stops unauthorized vehicles entering sensitive facilities in Qatar. It stands 800–1,100 mm high, closes lanes 2,000–6,000 mm wide and raises or lowers in 4–6 seconds, with a hand pump for operation during power failures."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما الفرق بين مصد الطريق ومفجر الإطارات؟",
+              "a": "مصد الطريق حاجز فولاذي يرتفع ليغلق المسار أمام المركبة، أما مفجر الإطارات فأشواك فولاذية تعطّل إطارات المركبة التي تعبر في الاتجاه الممنوع. يُختار النوع حسب مستوى الخطر وطبيعة الموقع، ويُحدَّد بعد المعاينة."
+            },
+            {
+              "q": "ما مقاسات مصد الطريق وسرعة تشغيله؟",
+              "a": "الارتفاع 800–1100 مم، وعرض السد 2000–6000 مم، وزمن الرفع أو الخفض 4–6 ثوانٍ، ووحدة القدرة الهيدروليكية 4.0–7.5 كيلوواط."
+            },
+            {
+              "q": "ماذا يحدث عند انقطاع الكهرباء؟",
+              "a": "يُشغَّل يدوياً بمضخة هيدروليكية مركّبة لهذا الغرض، فيبقى التحكم في المدخل قائماً."
+            },
+            {
+              "q": "هل مصد الطريق معتمد ضد الاصطدام؟",
+              "a": "تُذكر المطابقة لمعايير اختبار التصادم مثل PAS 68 وIWA 14-1 وASTM F2656 فقط للموديلات المدعومة بشهادة اختبار رسمية. إن كان موقعك يتطلب تصنيفاً معيناً فاذكره في طلب عرض السعر لنقترح الموديل المناسب ونقدّم وثائقه."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "What is the difference between a road blocker and a tyre killer?",
+              "a": "A road blocker is a steel barrier that rises to close the lane, while a tyre killer uses steel spikes to disable the tyres of a vehicle crossing in the forbidden direction. The choice depends on the threat level and the site, and is confirmed after a site survey."
+            },
+            {
+              "q": "What are the dimensions and operating speed?",
+              "a": "Raised height 800–1,100 mm, blocking width 2,000–6,000 mm, raise or lower time 4–6 seconds and a 4.0–7.5 kW hydraulic power pack."
+            },
+            {
+              "q": "What happens during a power failure?",
+              "a": "It is operated manually with a fitted hydraulic hand pump, so control of the entrance is maintained."
+            },
+            {
+              "q": "Is the road blocker crash-rated?",
+              "a": "Compliance with crash-test standards such as PAS 68, IWA 14-1 and ASTM F2656 is stated only for models backed by an official test certificate. If your site requires a specific rating, include it in your quote request and we will propose a suitable model with its documentation."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "surface-mount-hydraulic-road-blocker",
@@ -5395,8 +5770,8 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/surface-mount-hydraulic-road-blocker/1.png",
         "description": {
-          "ar": "حاجز الطريق الهيدروليكي المثبت على السطح من ساب تكـ هو حل أمني متكامل يثبت مباشرة فوق سطح الطريق دون الحاجة إلى أي أعمال حفر أو حفر خرساني عميق.\nمصمم بصفائح صلبة مصفحة ومنحدرات جانبية تمكن المركبات من العبور السلس في الاتجاه المصرح به، بينما تمنع الاقتحام وتغلق الطريق فوراً عند الحاجة.\nيتميز بوحدة طاقة هيدروليكية قوية وفائقة الجودة الأداء (HPU) تضمن رفع وخفض الحاجز بسرعة فائقة (خلال 3-5 ثواني)، مع إمكانية التشغيل اليدوي المدمج عند انقطاع التيار الكهربائي.",
-          "en": "SABTECH’s Surface Mount Hydraulic Road Blocker is a heavy-duty security solution installed directly onto the road surface without requiring pit excavation or deep concrete foundations.\nEngineered with armoured steel plates and integral side ramps, allowing smooth passage for authorized vehicles while immediately blocking unwanted intrusions.\nPowered by a Superior Quality-output Hydraulic Power Unit (HPU) providing rapid lifting and lowering (within 3-5 seconds), featuring manual emergency override during power outages."
+          "ar": "حاجز الطريق الهيدروليكي المثبت على السطح من ساب تكـ هو حل أمني متكامل يثبت مباشرة فوق سطح الطريق دون الحاجة إلى أي أعمال حفر أو حفر خرساني عميق.\nمصمم بصفائح صلبة مصفحة ومنحدرات جانبية تمكن المركبات من العبور السلس في الاتجاه المصرح به، بينما تمنع الاقتحام وتغلق الطريق فوراً عند الحاجة.\nيتميز بوحدة طاقة هيدروليكية قوية وعالية الأداء (HPU) تضمن رفع وخفض الحاجز بسرعة فائقة (خلال 3-5 ثواني)، مع إمكانية التشغيل اليدوي المدمج عند انقطاع التيار الكهربائي.",
+          "en": "SABTECH’s Surface Mount Hydraulic Road Blocker is a heavy-duty security solution installed directly onto the road surface without requiring pit excavation or deep concrete foundations.\nEngineered with armoured steel plates and integral side ramps, allowing smooth passage for authorized vehicles while immediately blocking unwanted intrusions.\nPowered by a high-output Hydraulic Power Unit (HPU) providing rapid lifting and lowering (within 3-5 seconds), featuring manual emergency override during power outages."
         },
         "features": {
           "ar": [
@@ -5446,7 +5821,7 @@
           {
             "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2024/07/Standard-Powerpack.jpg",
             "label": {
-              "ar": "وحدة طاقة هيدروليكية قياسية فائقة الجودة الأداء",
+              "ar": "وحدة طاقة هيدروليكية قياسية عالية الأداء",
               "en": "Standard Hydraulic Power Pack"
             }
           },
@@ -5554,7 +5929,8 @@
             "en": "Surface-mounted hydraulic road blocker installed without pit excavation or deep foundations, with armoured steel plates and side ramps. Get a quote in Qatar.",
             "ar": "مصد طريق هيدروليكي يُركّب على سطح الطريق دون حفر أو أساسات عميقة، بألواح فولاذية مدرعة ومنحدرات جانبية لمرور المركبات المصرح لها. اطلب عرض سعر."
           }
-        }
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "road-bollard",
@@ -5564,8 +5940,8 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/road-bollard/1.png",
         "description": {
-          "ar": "مصدات الطرق العمودية الهيدروليكية الأوتوماتيكية من ساب تك هي الحل الأمثل والأنيق لتنظيم وإدارة حركة مرور المركبات وحماية المداخل الحساسة والمباني الهامة.\nمصنوعة من الفولاذ المقاوم للصدأ عالي الجودة والصلابة، وتتميز بحلقات إضاءة LED مدمجة توفر رؤية ووضوحاً ممتازين أثناء الليل والظروف الجوية المختلفة.\nتعمل بالنظام متطور الهيدروليكي السريع للرفع والخفض تلقائياً، وتدعم التكامل الكامل مع كافة أنظمة حديثة وموثوقة التحكم في الدخول مثل البطاقات، الريموت كنترول، وقارئ اللوحات.",
-          "en": "SABTECH’s Automatic Hydraulic Road Bollards provide an elegant and effective solution for vehicle access control and Superior Quality-security perimeter defense at critical entrances.\nManufactured from premium-grade stainless steel and heavy-duty materials, equipped with integrated LED light rings for Superior Quality visibility during nighttime and harsh weather.\nPowered by a rapid hydraulic lifting mechanism, with full compatibility across all access control State-of-the-Art Systems including card readers, remote controls, and ANPR license plate recognition."
+          "ar": "مصدات الطرق العمودية الهيدروليكية الأوتوماتيكية من ساب تك هي الحل الأمثل والأنيق لتنظيم وإدارة حركة مرور المركبات وحماية المداخل الحساسة والمباني الهامة.\nمصنوعة من الفولاذ المقاوم للصدأ عالي الجودة والصلابة، وتتميز بحلقات إضاءة LED مدمجة توفر رؤية ووضوحاً ممتازين أثناء الليل والظروف الجوية المختلفة.\nتعمل بالنظام الهيدروليكي السريع للرفع والخفض تلقائياً، وتدعم التكامل الكامل مع كافة أنظمة حديثة وموثوقة التحكم في الدخول مثل البطاقات، الريموت كنترول، وقارئ اللوحات.",
+          "en": "SABTECH’s Automatic Hydraulic Road Bollards provide an elegant and effective solution for vehicle access control and high-security perimeter defense at critical entrances.\nManufactured from premium-grade stainless steel and heavy-duty materials, equipped with integrated LED light rings for high visibility during nighttime and harsh weather.\nPowered by a rapid hydraulic lifting mechanism, with full compatibility across all access control systems including card readers, remote controls, and ANPR license plate recognition."
         },
         "features": {
           "ar": [
@@ -5576,7 +5952,7 @@
             "خدمة ما بعد البيع متكاملة مع ضمان لمدة سنة وتوفر قطع الغيار الأصلية"
           ],
           "en": [
-            "Robust construction built with Superior Quality-strength rigid steel for impact defense",
+            "Robust construction built with high-strength rigid steel for impact defense",
             "Integrated LED lighting ring for enhanced visibility at night and harsh conditions",
             "Available in a wide range of colors and designs to match location aesthetics",
             "Fast, smooth automatic hydraulic operation with emergency manual override",
@@ -5705,7 +6081,58 @@
             "en": "Automatic hydraulic bollards in stainless steel with LED light rings for vehicle access control at the entrances of sensitive and commercial sites in Qatar.",
             "ar": "أعمدة أمنية أوتوماتيكية هيدروليكية من الستانلس ستيل بحلقات إضاءة LED، للتحكم في دخول المركبات عند مداخل المنشآت الحساسة والتجارية في قطر. اطلب عرض سعر."
           }
-        }
+        },
+        "summary": {
+          "ar": "مصد عمودي هيدروليكي أوتوماتيكي (بولارد) من ساب تك للتحكم في دخول المركبات عند بوابات المنشآت في قطر، يرتفع 600–800 مم خلال 3–5 ثوانٍ، ومزود بحلقة إضاءة LED وتشغيل يدوي للطوارئ. يتكامل مع قارئات البطاقات وأجهزة التحكم عن بعد والتعرف على لوحات المركبات (ANPR).",
+          "en": "A SAB TECH automatic hydraulic bollard for vehicle access control at facility entrances in Qatar. It rises 600–800 mm in 3–5 seconds, has an integrated LED ring and an emergency manual override, and works with card readers, remote controls and ANPR."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما مقاسات البولارد الهيدروليكي؟",
+              "a": "القطر 220–275 مم، والارتفاع عند الرفع 600–800 مم، وسماكة جدار الفولاذ 6–10 مم."
+            },
+            {
+              "q": "هل يعمل البولارد في الغبار والأمطار والحرارة؟",
+              "a": "درجة الحماية IP67 ضد الماء والغبار، ونطاق التشغيل في المواصفات من −20 إلى +65 درجة مئوية، وحلقة LED تحسّن الرؤية ليلاً."
+            },
+            {
+              "q": "هل يتكامل البولارد مع أنظمة التحكم في الدخول؟",
+              "a": "نعم، مع قارئات البطاقات وأجهزة التحكم عن بعد وكاميرات التعرف على لوحات المركبات (ANPR)، وفيه حساسات ضوئية وتشغيل يدوي عند الطوارئ."
+            },
+            {
+              "q": "هل البولارد معتمد ضد الاصطدام؟",
+              "a": "تُذكر المطابقة لمعايير اختبار التصادم مثل PAS 68 وIWA 14-1 وASTM F2656 فقط للموديلات المدعومة بشهادة اختبار رسمية. إن كان موقعك يتطلب تصنيفاً معيناً فاذكره في طلب عرض السعر لنقترح الموديل المناسب ونقدّم وثائقه."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "What are the bollard dimensions?",
+              "a": "Diameter 220–275 mm, raised height 600–800 mm and steel wall thickness 6–10 mm."
+            },
+            {
+              "q": "Does it work in dust, rain and heat?",
+              "a": "It is rated IP67 against water and dust, the specified operating range is −20 °C to +65 °C, and an LED ring improves visibility at night."
+            },
+            {
+              "q": "Does it integrate with access control systems?",
+              "a": "Yes, with card readers, remote controls and ANPR licence plate recognition. It also has photocell sensors and an emergency manual override."
+            },
+            {
+              "q": "Is the bollard crash-rated?",
+              "a": "Compliance with crash-test standards such as PAS 68, IWA 14-1 and ASTM F2656 is stated only for models backed by an official test certificate. If your site requires a specific rating, include it in your quote request and we will propose a suitable model with its documentation."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "turnstiles",
@@ -5715,14 +6142,14 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/turnstiles/1.png",
         "description": {
-          "ar": "البوابات الدوارة الأمنية من ساب تك هي الحل الأمثل والموثوق لتنظيم حركة دخول وخروج الأفراد وإدارة حشود الزوار في المنشآت والمباني الحساسة.\nتتميز بتصميم هندسي مبتكر ميكانيكي وكهرومغناطيسي قوي مصنوع من الفولاذ المقاوم للصدأ (الستانلس ستيل) لضمان المتانة الفائقة الجودة والعمل المستمر في مختلف الظروف البيئية.\nتدعم الربط الكامل مع أنظمة حديثة وموثوقة التحكم في الدخول مثل أجهزة قراءة البطاقات الذكية، البصمة الحيوية، والتعرف على الوجه، مع إمكانية الفتح التلقائي للطوارئ عند انقطاع التيار الكهربائي.",
-          "en": "SABTECH’s Security Turnstiles offer a highly reliable and robust solution for controlling pedestrian access and managing visitor flow in Superior Quality-security facilities.\nEngineered with precision electromechanical mechanisms housed in durable stainless steel cabinets, ensuring long-term performance under heavy usage.\nFully compatible with all access control integrations including RFID card readers, biometric scanners, and facial recognition, with emergency automatic release upon power failure."
+          "ar": "البوابات الدوارة الأمنية من ساب تك هي الحل الأمثل والموثوق لتنظيم حركة دخول وخروج الأفراد وإدارة حشود الزوار في المنشآت والمباني الحساسة.\nتتميز بتصميم ميكانيكي وكهرومغناطيسي قوي مصنوع من الفولاذ المقاوم للصدأ (الستانلس ستيل) لضمان المتانة العالية والعمل المستمر في مختلف الظروف البيئية.\nتدعم الربط الكامل مع أنظمة حديثة وموثوقة التحكم في الدخول مثل أجهزة قراءة البطاقات الذكية، البصمة الحيوية، والتعرف على الوجه، مع إمكانية الفتح التلقائي للطوارئ عند انقطاع التيار الكهربائي.",
+          "en": "SABTECH’s Security Turnstiles offer a highly reliable and robust solution for controlling pedestrian access and managing visitor flow in high-security facilities.\nEngineered with precision electromechanical mechanisms housed in durable stainless steel cabinets, ensuring long-term performance under heavy usage.\nFully compatible with all access control integrations including RFID card readers, biometric scanners, and facial recognition, with emergency automatic release upon power failure."
         },
         "features": {
           "ar": [
             "هيكل متين مصنوع من الفولاذ المقاوم للصدأ 304/316 المضاد للتآكل والخدش",
             "دوران سلس باتجاه واحد أو باتجاهين مع قفل تلقائي وآمن للأذرع",
-            "نظام متطور الفتح التلقائي وإفراغ الممر فوراً في حالات الطوارئ وانقطاع الكهرباء",
+            "نظام الفتح التلقائي وإفراغ الممر فوراً في حالات الطوارئ وانقطاع الكهرباء",
             "تكامل كامل مع جميع لوحات التحكم في الدخول والبصمة والبطاقات الذكية",
             "خدمة ما بعد البيع متكاملة وتوفر قطع الغيار الأصلية مع ضمان لمدة سنة"
           ],
@@ -5730,7 +6157,7 @@
             "Durable housing crafted from corrosion-resistant 304/316 grade stainless steel",
             "Smooth uni-directional or bi-directional rotation with secure automatic locking arms",
             "Automatic fail-safe emergency release mechanism during power outages",
-            "Seamless integration with RFID, biometric, and facial recognition access control State-of-the-Art Systems",
+            "Seamless integration with RFID, biometric, and facial recognition access control systems",
             "Full after-sales support, genuine spare parts availability, and 1-year warranty"
           ]
         },
@@ -5824,7 +6251,58 @@
             "en": "Stainless-steel security turnstiles for pedestrian access control and visitor flow at offices, sites and secure facilities in Qatar. Get a quote.",
             "ar": "بوابات دوارة أمنية من الستانلس ستيل للتحكم في دخول الأفراد وتنظيم حركة الزوار في المكاتب والمواقع والمنشآت الأمنية في قطر. اطلب عرض سعر."
           }
-        }
+        },
+        "summary": {
+          "ar": "بوابات دوارة أمنية من ساب تك لتنظيم دخول الأفراد في المنشآت والمباني الحساسة في قطر، بهيكل من الفولاذ المقاوم للصدأ 304/316 وقدرة مرور 25–40 شخصاً في الدقيقة. تتكامل مع بطاقات RFID والبصمة والتعرف على الوجه، وتتحرر تلقائياً عند انقطاع الكهرباء.",
+          "en": "SAB TECH security turnstiles for controlling pedestrian access at secure facilities and buildings in Qatar, with a 304/316 stainless steel housing and a throughput of 25–40 people per minute. They integrate with RFID cards, biometrics and facial recognition, and release automatically on power failure."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "كم شخصاً تمرر البوابة الدوارة في الدقيقة؟",
+              "a": "25–40 شخصاً في الدقيقة، بعرض ممر 550–600 مم، وزمن فتح وإغلاق 0.2 ثانية."
+            },
+            {
+              "q": "ماذا يحدث عند انقطاع الكهرباء؟",
+              "a": "تتحرر البوابة تلقائياً بآلية طوارئ آمنة (Fail-safe) عند انقطاع الكهرباء."
+            },
+            {
+              "q": "مع أي أنظمة تتكامل البوابات الدوارة؟",
+              "a": "مع قارئات بطاقات RFID وأجهزة البصمة وأنظمة التعرف على الوجه."
+            },
+            {
+              "q": "ما مادة الهيكل ودرجة الحماية؟",
+              "a": "فولاذ مقاوم للصدأ من درجة 304 أو 316، ودرجة حماية IP54 من الغبار والرطوبة، وجهد داخلي آمن 24 فولت تيار مستمر."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "How many people per minute can the turnstile handle?",
+              "a": "25–40 people per minute, with a 550–600 mm passage width and a 0.2-second opening and closing time."
+            },
+            {
+              "q": "What happens during a power outage?",
+              "a": "The turnstile releases automatically through a fail-safe emergency mechanism when power fails."
+            },
+            {
+              "q": "Which systems do the turnstiles integrate with?",
+              "a": "RFID card readers, biometric scanners and facial recognition systems."
+            },
+            {
+              "q": "What is the housing material and protection rating?",
+              "a": "Grade 304 or 316 stainless steel, IP54 protection against dust and moisture, and a safe 24 V DC internal voltage."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "under-vehicle-surveillance-system",
@@ -5834,8 +6312,8 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/under-vehicle-surveillance-system/1.png",
         "description": {
-          "ar": "نظام متطور المراقبة وفحص أسفل المركبات من ساب تكـ هو نظام متطور أمني متطور مصمم خصيصاً للمسح الضوئي الرقمي الدقيق لأسفل المركبات والكشف عن الأجسام والغرباء والمواد الممنوعة في الوقت الفعلي.\nيتميز بكاميرات فائقة الجودة الدقة والسرعة (Line-scan HD) وأنظمة حديثة وموثوقة إضاءة LED مدمجة قوية وفائقة الجودة الأداء تلتقط صورة فائقة الجودة الوضوح لأسفل المركبة فور مرورها عبر الماسح الضوئي.\nيتكامل النظام متطور تلقائياً مع كاميرات التعرف على لوحات المركبات (ANPR) والأنظمة حديثة وموثوقة الأمنية المركزية، مما يضمن أقصى مستويات التفتيش والأمان عند المداخل الحساسة والمطارات والمنشآت العسكرية والحكومية.",
-          "en": "SABTECH’s Under Vehicle Surveillance Advanced System (UVSS) is an advanced digital screening solution designed for real-time inspection and threat detection underneath passing vehicles.\nEquipped with Superior Quality-resolution line-scan HD cameras and Ultra-Powerful & Efficient integrated LED illumination to instantly capture clear full-underbody images as vehicles drive over the scanner.\nSeamlessly integrates with Automatic Number Plate Recognition (ANPR) cameras and central security State-of-the-Art Systems, providing top-tier security screening for critical infrastructure, airports, and government installations."
+          "ar": "نظام المراقبة وفحص أسفل المركبات من ساب تكـ هو نظام أمني متطور مصمم خصيصاً للمسح الضوئي الرقمي الدقيق لأسفل المركبات والكشف عن الأجسام والغرباء والمواد الممنوعة في الوقت الفعلي.\nيتميز بكاميرات عالية الدقة والسرعة (Line-scan HD) وأنظمة حديثة وموثوقة إضاءة LED مدمجة قوية وعالية الأداء تلتقط صورة عالية الوضوح لأسفل المركبة فور مرورها عبر الماسح الضوئي.\nيتكامل النظام تلقائياً مع كاميرات التعرف على لوحات المركبات (ANPR) والأنظمة حديثة وموثوقة الأمنية المركزية، مما يضمن أقصى مستويات التفتيش والأمان عند المداخل الحساسة والمطارات والمنشآت العسكرية والحكومية.",
+          "en": "SABTECH’s Under Vehicle Surveillance System (UVSS) is an advanced digital screening solution designed for real-time inspection and threat detection underneath passing vehicles.\nEquipped with high-resolution line-scan HD cameras and powerful integrated LED illumination to instantly capture clear full-underbody images as vehicles drive over the scanner.\nSeamlessly integrates with Automatic Number Plate Recognition (ANPR) cameras and central security systems, providing top-tier security screening for critical infrastructure, airports, and government installations."
         },
         "features": {
           "ar": [
@@ -5846,8 +6324,8 @@
             "خدمة ما بعد البيع متكاملة وتوفر قطع الغيار الأصلية مع ضمان لمدة سنة كاملة"
           ],
           "en": [
-            "Superior Quality-resolution digital HD line-scan imaging for full and clear underbody vehicle inspection",
-            "Superior Quality-intensity integrated LED illumination for crystal-clear imaging day and night",
+            "High-resolution digital HD line-scan imaging for full and clear underbody vehicle inspection",
+            "High-intensity integrated LED illumination for crystal-clear imaging day and night",
             "Seamless integration with Automatic Number Plate Recognition (ANPR) and security databases",
             "Heavy-duty surface-mount or pit-mount scanner casing built to withstand extreme loads IP68",
             "Full after-sales support, genuine spare parts availability, and 1-year warranty"
@@ -5942,7 +6420,8 @@
             "en": "UVSS with high-resolution line-scan cameras and LED lighting for real-time inspection under vehicles at the gates of sensitive sites in Qatar. Get a quote.",
             "ar": "نظام كشف أسفل المركبات بكاميرات مسح خطي عالية الدقة وإضاءة LED لتفتيش المركبات لحظياً عند بوابات المنشآت الحساسة في قطر. اطلب عرض سعر."
           }
-        }
+        },
+        "brand": "SAB TECH"
       },
       {
         "id": "tyre-killer",
@@ -5952,22 +6431,22 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/tyre-killer/2.png",
         "description": {
-          "ar": "مفجر الإطارات من ساب تكـ هو نظام متطور أمني صلب وشديد الففائقة الجودة مصمم لمنع وحظر حركة المركبات غير المصرح بها في الاتجاه الممنوع ومنع اقتحام المنشآت الحساسة.\nمصنوع من الفولاذ الصلب عالي التحمل ومزود بأشواك فولاذية حادة تضمن تدمير إطارات المركبات المعتدية فوراً لمنعها من التقدم.\nيتوفر بموديلات كهروميكانيكية هيدروليكية أو بميكانيكية الثقل التلقائي، وتدعم التكامل الكامل مع كافة أنظمة حديثة وموثوقة التحكم في الدخول وإشارات المرور.",
-          "en": "SABTECH’s Tyre Killer is a heavy-duty security barrier designed to strictly prevent unauthorized vehicle entry and block traffic in wrong-way directions at critical access control points.\nConstructed from Superior Quality-tensile heavy steel equipped with sharp steel spikes that instantly disable vehicle tyres upon impact, preventing forced intrusion.\nAvailable in electromechanical hydraulic drive models or mechanical counterweight self-reset models, fully integrable with access control State-of-the-Art Systems and traffic indicators."
+          "ar": "مفجر الإطارات من ساب تكـ هو نظام أمني صلب وشديد الفعالية مصمم لمنع وحظر حركة المركبات غير المصرح بها في الاتجاه الممنوع ومنع اقتحام المنشآت الحساسة.\nمصنوع من الفولاذ الصلب عالي التحمل ومزود بأشواك فولاذية حادة تضمن تدمير إطارات المركبات المعتدية فوراً لمنعها من التقدم.\nيتوفر بموديلات كهروميكانيكية هيدروليكية أو بميكانيكية الثقل التلقائي، وتدعم التكامل الكامل مع كافة أنظمة حديثة وموثوقة التحكم في الدخول وإشارات المرور.",
+          "en": "SABTECH’s Tyre Killer is a heavy-duty security barrier designed to strictly prevent unauthorized vehicle entry and block traffic in wrong-way directions at critical access control points.\nConstructed from high-tensile heavy steel equipped with sharp steel spikes that instantly disable vehicle tyres upon impact, preventing forced intrusion.\nAvailable in electromechanical hydraulic drive models or mechanical counterweight self-reset models, fully integrable with access control systems and traffic indicators."
         },
         "features": {
           "ar": [
             "أشواك فولاذية حادة مصممة خصيصاً لإتلاف إطارات المركبات المقتحمة فوراً",
-            "حركة الأشواك تعتمد على نظام متطور الهيدروليك الكهروميكانيكي أو الثقل التلقائي",
+            "حركة الأشواك تعتمد على نظام الهيدروليك الكهروميكانيكي أو الثقل التلقائي",
             "أطوال متغيرة وتصاميم مخصصة حسب متطلبات الموقع وعرض الطريق",
             "هيكل مصفح عالي المتانة ومقاوم للأحمال الثقيلة والصدمات الشديدة",
             "خدمة ما بعد البيع متكاملة وتوفر قطع الغيار الأصلية مع ضمان لمدة سنة"
           ],
           "en": [
             "Heavy-duty sharp steel spikes specifically engineered for immediate tyre destruction",
-            "Spike operation available via electromechanical hydraulic or mechanical counterweight State-of-the-Art Systems",
+            "Spike operation available via electromechanical hydraulic or mechanical counterweight systems",
             "Customizable lengths and spike arrangements to match exact site installation dimensions",
-            "Armoured heavy steel structure designed for Superior Quality axle loads and impact resistance",
+            "Armoured heavy steel structure designed for high axle loads and impact resistance",
             "Complete after-sales service, genuine spare parts availability, and 1-year warranty"
           ]
         },
@@ -5975,7 +6454,7 @@
           {
             "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/05/Customize-spike-for-optional-car-or-tire-size.jpg",
             "label": {
-              "ar": "تصميم هندسي مبتكر أشواك مخصص حسب مقاس الإطارات",
+              "ar": "تصميم أشواك مخصص حسب مقاس الإطارات",
               "en": "Customized Spikes for Tire Sizes"
             }
           },
@@ -5996,8 +6475,8 @@
           {
             "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/05/Spike-movement-by-mechanical-counterweight.jpg",
             "label": {
-              "ar": "حركة الأشواك بنظام متطور الثقل الميكانيكي",
-              "en": "Mechanical Counterweight Advanced System"
+              "ar": "حركة الأشواك بنظام الثقل الميكانيكي",
+              "en": "Mechanical Counterweight System"
             }
           },
           {
@@ -6123,7 +6602,58 @@
             "en": "Tyre killer with steel spikes that disables unauthorised vehicles and blocks wrong-way traffic at gates and checkpoints in Qatar. Get a quote.",
             "ar": "مفجر إطارات بأشواك فولاذية يعطّل المركبات غير المصرح لها ويمنع السير في الاتجاه المعاكس عند البوابات ونقاط التفتيش في قطر. اطلب عرض سعر من بيستوليكس."
           }
-        }
+        },
+        "summary": {
+          "ar": "مفجر إطارات من ساب تك يمنع دخول المركبات غير المصرح لها والسير في الاتجاه المعاكس عند نقاط التحكم في الدخول في قطر، بأشواك فولاذية بارتفاع 150–250 مم وطول سدّ 2000–6000 مم. يتوفر بتشغيل هيدروليكي كهروميكانيكي أو بثقل موازن ميكانيكي، ويتحمل حتى 50 طناً لكل محور.",
+          "en": "A SAB TECH tyre killer that stops unauthorized entry and wrong-way traffic at access control points in Qatar, with 150–250 mm steel spikes across 2,000–6,000 mm. It comes with hydraulic electromechanical or mechanical counterweight operation and is rated for axle loads of up to 50 tons."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "كيف يعمل مفجر الإطارات؟",
+              "a": "يسمح بعبور المركبات في الاتجاه المسموح، وتعطّل أشواكه الفولاذية إطارات المركبة التي تحاول العبور في الاتجاه الممنوع أو الدخول بالقوة."
+            },
+            {
+              "q": "ما الفرق بين التشغيل الهيدروليكي ونموذج الثقل الموازن؟",
+              "a": "النموذج الهيدروليكي الكهروميكانيكي يُتحكم فيه ويُربط بأنظمة التحكم في الدخول وإشارات المرور، أما نموذج الثقل الموازن فميكانيكي يعود إلى وضعه ذاتياً."
+            },
+            {
+              "q": "ما مواصفات مفجر الإطارات؟",
+              "a": "ارتفاع الأشواك 150–250 مم، وطول السد 2000–6000 مم، وسماكة الصفيحة 10–12 مم، وزمن التشغيل 1.5–3 ثوانٍ، والحمولة حتى 50 طناً لكل محور."
+            },
+            {
+              "q": "متى أحتاج مصد طريق بدل مفجر الإطارات؟",
+              "a": "مفجر الإطارات يعطّل المركبة، أما مصد الطريق فيغلق المسار بحاجز فولاذي. يُحدَّد الحل المناسب حسب مستوى الخطر وطبيعة الموقع بعد المعاينة."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "How does a tyre killer work?",
+              "a": "It lets vehicles pass in the permitted direction, while its steel spikes disable the tyres of any vehicle trying to cross in the forbidden direction or force its way in."
+            },
+            {
+              "q": "What is the difference between the hydraulic and counterweight models?",
+              "a": "The hydraulic electromechanical model is controlled and integrated with access control systems and traffic lights, while the counterweight model is mechanical and resets itself."
+            },
+            {
+              "q": "What are the tyre killer specifications?",
+              "a": "Spike height 150–250 mm, blocking length 2,000–6,000 mm, plate thickness 10–12 mm, operating time 1.5–3 seconds and axle loads up to 50 tons."
+            },
+            {
+              "q": "When do I need a road blocker instead of a tyre killer?",
+              "a": "A tyre killer disables the vehicle, while a road blocker closes the lane with a steel barrier. The right solution depends on the threat level and the site, and is confirmed after a site survey."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        },
+        "brand": "SAB TECH"
       }
     ],
     "seo": {
@@ -6157,20 +6687,20 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/industrial-sectional-doors/1.png",
         "description": {
-          "ar": "الأبواب الصناعية الشرائح من ساب تكـ هي الحل الأنسب والأنموذجي للمستودعات والمصانع ومراكز التوزيع والمستودعات المبردة لحفظ الطاقة والعزل الحراري والصوتي.\nمصنوعة من ألواح الساندوتش بانل (Sandwich Panels) فائقة الجودة الجودة المحشوة بمادة البولي يوريثان العازلة بكثافة فائقة الجودة، وتفتح عمودياً إلى الأعلى لتوفير أقصى مساحة ممكنة للمرور والاستخدام.\nمزودة بنظام متطور توازن زنبركي حلزوني متين ومحرك كهربائي صناعي، مع أنظمة حديثة وموثوقة أمان متطورة تمنع سقوط الباب في حالة كسر الكيبل أو النوابض.",
-          "en": "SABTECH’s Industrial Sectional Doors offer the ideal solution for warehouses, factories, distribution centers, and cold storage facilities requiring superior thermal and acoustic insulation.\nConstructed with Superior Quality-density polyurethane sandwich panels and rugged galvanized steel skins, opening vertically upwards to maximize clear passage height and space utilization.\nEquipped with heavy-duty spring counterbalancing mechanisms, industrial electric drives, and advanced anti-drop safety devices."
+          "ar": "الأبواب الصناعية الشرائح من ساب تكـ هي الحل الأنسب والأنموذجي للمستودعات والمصانع ومراكز التوزيع والمستودعات المبردة لحفظ الطاقة والعزل الحراري والصوتي.\nمصنوعة من ألواح الساندوتش بانل (Sandwich Panels) عالية الجودة المحشوة بمادة البولي يوريثان العازلة بكثافة عالية، وتفتح عمودياً إلى الأعلى لتوفير أقصى مساحة ممكنة للمرور والاستخدام.\nمزودة بنظام توازن زنبركي حلزوني متين ومحرك كهربائي صناعي، مع أنظمة حديثة وموثوقة أمان متطورة تمنع سقوط الباب في حالة كسر الكيبل أو النوابض.",
+          "en": "SABTECH’s Industrial Sectional Doors offer the ideal solution for warehouses, factories, distribution centers, and cold storage facilities requiring superior thermal and acoustic insulation.\nConstructed with high-density polyurethane sandwich panels and rugged galvanized steel skins, opening vertically upwards to maximize clear passage height and space utilization.\nEquipped with heavy-duty spring counterbalancing mechanisms, industrial electric drives, and advanced anti-drop safety devices."
         },
         "features": {
           "ar": [
-            "عزل حراري وصوتي عالي الكفاءة بفضل حشوة البولي يوريثان فائقة الجودة الكثافة (40 كجم/م³)",
-            "ألواح ساندوتش بانل مصفحة ومقاومة للصدأ والتآكل والرياح القوية وفائقة الجودة الأداء",
+            "عزل حراري وصوتي عالي الكفاءة بفضل حشوة البولي يوريثان عالية الكثافة (40 كجم/م³)",
+            "ألواح ساندوتش بانل مصفحة ومقاومة للصدأ والتآكل والرياح القوية وعالية الأداء",
             "أنظمة حديثة وموثوقة أمان مدمجة لحماية ضد كسر كابلات الرفع وكسر نوابض التوازن",
             "إمكانية دمج باب مشاة جانبي أو نوافذ زجاجية شفافة للمعاينة والرؤية",
             "تشغيل أوتوماتيكي محرك صناعي سلس مع إمكانية الفتح اليدوي للطوارئ",
             "خدمة ما بعد البيع متكاملة وتوفر قطع الغيار الأصلية مع ضمان سنة كاملة"
           ],
           "en": [
-            "Superior Quality-efficiency thermal and acoustic insulation with 40 kg/m³ density polyurethane core",
+            "High-efficiency thermal and acoustic insulation with 40 kg/m³ density polyurethane core",
             "Armoured galvanized steel sandwich panels resistant to wind load and corrosion",
             "Integrated safety mechanisms against cable snapping and spring breakdown",
             "Optional built-in pedestrian pass door or transparent vision windows",
@@ -6312,13 +6842,13 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/high-speed-doors/1.png",
         "description": {
-          "ar": "الأبواب فائقة الجودة السرعة من ساب تكـ هي أبواب رول أوتوماتيكية سريعة الفتح والإغلاق مصممة لزيادة كفاءة العمليات اللوجستية وتقليل فترات الانتظار والحفاظ على الحرارة والتكييف الداخلي.\nتتميز بستائر قماشية مقواة بولي فينيل كلورايد (PVC) مرنة ومتينة تفتح بسرعة تصل إلى 2.0 متر في الثانية، مما يجعلها مثالية للرافعات الشوكية وحركة البضائع المكثفة والمستودعات الدوائية والأغذية.\nمزودة بشريط أمان كهرومغناطيسي سفلي وحساسات فوتوسيل تضمن أقصى أمان للعمال والآلات أثناء الحركة الفائقة.",
-          "en": "SABTECH’s Superior Quality Speed Doors are automated fast-roll curtains engineered for heavy-duty industrial logistics, reducing wait times, and controlling indoor climates.\nFeaturing flexible Superior Quality-tenacity PVC canvases opening at speeds up to 2.0 m/s, perfectly suited for forklift traffic, cleanrooms, food processing, and pharmaceutical cold storage.\nEquipped with electric safety edge bands and photocell sensors ensuring maximum worker and vehicle protection during Superior Quality-speed operation."
+          "ar": "الأبواب عالية السرعة من ساب تكـ هي أبواب رول أوتوماتيكية سريعة الفتح والإغلاق مصممة لزيادة كفاءة العمليات اللوجستية وتقليل فترات الانتظار والحفاظ على الحرارة والتكييف الداخلي.\nتتميز بستائر قماشية مقواة بولي فينيل كلورايد (PVC) مرنة ومتينة تفتح بسرعة تصل إلى 2.0 متر في الثانية، مما يجعلها مثالية للرافعات الشوكية وحركة البضائع المكثفة والمستودعات الدوائية والأغذية.\nمزودة بشريط أمان كهرومغناطيسي سفلي وحساسات فوتوسيل تضمن أقصى أمان للعمال والآلات أثناء الحركة الفائقة.",
+          "en": "SABTECH’s High Speed Doors are automated fast-roll curtains engineered for heavy-duty industrial logistics, reducing wait times, and controlling indoor climates.\nFeaturing flexible high-tenacity PVC canvases opening at speeds up to 2.0 m/s, perfectly suited for forklift traffic, cleanrooms, food processing, and pharmaceutical cold storage.\nEquipped with electric safety edge bands and photocell sensors ensuring maximum worker and vehicle protection during high-speed operation."
         },
         "features": {
           "ar": [
             "سرعة فتح فائقة تصل إلى 2.0 متر/ثانية لتقليل ضياع الطاقة والتكييف",
-            "ستائر PVC مقواة فائقة الجودة التحمل مع خيارات نوافذ شفافة للرؤية والمعاينة",
+            "ستائر PVC مقواة عالية التحمل مع خيارات نوافذ شفافة للرؤية والمعاينة",
             "حافة أمان كهربائية سفلى وحساسات فوتوسيل تمنع الاصطدام بالكامل",
             "محرك ترسي صناعي ذكي مع لوحة تحكم أوتوماتيكية متعددة السرعات",
             "خدمة ما بعد البيع متكاملة وتوفر قطع الغيار الأصلية مع ضمان سنة كاملة"
@@ -6336,7 +6866,7 @@
             "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/12/Completely-customised-canvases_v0.1.jpg",
             "label": {
               "ar": "ستائر PVC مخصصة بألوان ونوافذ متعددة",
-              "en": "Customized Superior Quality-Speed PVC Canvases"
+              "en": "Customized High-Speed PVC Canvases"
             }
           },
           {
@@ -6350,7 +6880,7 @@
             "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/12/Geared-motor_v0.1.jpg",
             "label": {
               "ar": "محرك ترسي عالي السرعة والأداء",
-              "en": "Superior Quality-Speed Geared Motor"
+              "en": "High-Speed Geared Motor"
             }
           },
           {
@@ -6434,7 +6964,7 @@
           {
             "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/12/Dimensions.jpg",
             "label": {
-              "ar": "مخطط الأبعاد والمقاسات للأبواب فائقة الجودة السرعة",
+              "ar": "مخطط الأبعاد والمقاسات للأبواب عالية السرعة",
               "en": "Dimensions & Clearances Drawing"
             }
           },
@@ -6442,7 +6972,7 @@
             "image": "https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/12/HIGH-SPEED-ROLL-DOOR.jpg",
             "label": {
               "ar": "رسم هندسي - باب رول أوتوماتيكي سريع",
-              "en": "Superior Quality Speed Roll Door Technical Drawing"
+              "en": "High Speed Roll Door Technical Drawing"
             }
           }
         ],
@@ -6503,8 +7033,8 @@
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-1/1.jpg",
         "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-1/1.jpg",
         "description": {
-          "ar": "تقدم بيستوليكس شاحنة تزويد الطائرات بالوقود المستعملة طراز جارسيت 2011 بسعة خزان اسمية تبلغ 10,000 جالون أمريكي (ما يعادل 37,854 لتر تقريباً).\n\nتم تشغيل الشاحنة سابقاً في مطار حمد الدولي في دولة قطر، وهي مصممة خصيصاً لعمليات ومناولة وقود الطيران والمطارات. تجمع الشاحنة بين نظام متطور جارسيت لتزويد وقود الطائرات، ومحرك QSC240، وناقل حركة 3000HS، مع مكونات قياس وتحكم مخصصة لوقود الطيران.\n\nالشاحنة متواجدة حالياً في دولة قطر ومتاحة للمعاينة والفحص الفني والشراء التجاري.",
-          "en": "Bestolex offers this used 2011 Garsite aircraft refueller truck with a nominal tank capacity of 10,000 US gallons, equivalent to approximately 37,854 litres.\n\nThe unit was previously operated at Hamad International Airport in Qatar and is designed for airport and aviation fuel-handling applications. It combines a Garsite aviation refuelling Advanced System, a QSC240 engine, a 3000HS transmission and dedicated aviation-grade metering and fuel-control components.\n\nThe truck is currently located in Qatar and is available for buyer inspection, technical evaluation and commercial purchase."
+          "ar": "تقدم بيستوليكس شاحنة تزويد الطائرات بالوقود المستعملة طراز جارسيت 2011 بسعة خزان اسمية تبلغ 10,000 جالون أمريكي (ما يعادل 37,854 لتر تقريباً).\n\nتم تشغيل الشاحنة سابقاً في مطار حمد الدولي في دولة قطر، وهي مصممة خصيصاً لعمليات ومناولة وقود الطيران والمطارات. تجمع الشاحنة بين نظام جارسيت لتزويد وقود الطائرات، ومحرك QSC240، وناقل حركة 3000HS، مع مكونات قياس وتحكم مخصصة لوقود الطيران.\n\nالشاحنة متواجدة حالياً في دولة قطر ومتاحة للمعاينة والفحص الفني والشراء التجاري.",
+          "en": "Bestolex offers this used 2011 Garsite aircraft refueller truck with a nominal tank capacity of 10,000 US gallons, equivalent to approximately 37,854 litres.\n\nThe unit was previously operated at Hamad International Airport in Qatar and is designed for airport and aviation fuel-handling applications. It combines a Garsite aviation refuelling system, a QSC240 engine, a 3000HS transmission and dedicated aviation-grade metering and fuel-control components.\n\nThe truck is currently located in Qatar and is available for buyer inspection, technical evaluation and commercial purchase."
         },
         "stats": {
           "ar": [
@@ -6563,14 +7093,14 @@
         "features": {
           "ar": [
             "خزان وقود عالي السعة 10,000 جالون أمريكي (37,854 لتر تقريباً).",
-            "نظام متطور قياس Liquid Controls بمعدل تدفق مقنن 300 جالون/دقيقة وضغط 150 رطل/بوصة مربعة.",
+            "نظام قياس Liquid Controls بمعدل تدفق مقنن 300 جالون/دقيقة وضغط 150 رطل/بوصة مربعة.",
             "محرك قوي وموثوق QSC240 مع ناقل حركة أوتوماتيكي 3000HS.",
             "لوحة تحكم متكاملة تشمل مؤشرات الضغط، وصمامات التحكم، وأنظمة حديثة وموثوقة تفريغ الهواء، ومفتاح إيقاف الطوارئ.",
             "سجل تشغيلي في مطار حمد الدولي بقطر مع ساعات تشغيل مسجلة تقارب 4,644.5 ساعة.",
             "متوافقة مع عمليات وقود الطائرات Jet A-1 ومزودة بوعاء ترشيح وفحص عالي الكفاءة."
           ],
           "en": [
-            "Superior Quality-capacity 10,000 US Gallon (approx. 37,854 Litres) fuel tank.",
+            "High-capacity 10,000 US Gallon (approx. 37,854 Litres) fuel tank.",
             "Liquid Controls aviation meter with 300 GPM rated flow and 150 PSI max pressure.",
             "Reliable QSC240 engine paired with 3000HS transmission.",
             "Integrated control panel with pressure gauges, valve controls, air eliminator, and emergency shutdown.",
@@ -6717,7 +7247,7 @@
             "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-1/4.PNG",
             "label": {
               "ar": "وحدة الفلترة وتمديدات الأنابيب",
-              "en": "Filtration Vessel & Piping Advanced System"
+              "en": "Filtration Vessel & Piping System"
             }
           },
           {
@@ -6799,7 +7329,8 @@
             "en": "Used 2011 Garsite aircraft refueller truck, 10,000 US gallons (about 37,854 litres), previously operated at Hamad International Airport. Truck No. 1.",
             "ar": "شاحنة تزويد طائرات بالوقود جارسيت موديل 2011 مستعملة، سعة 10,000 جالون أمريكي (نحو 37,854 لتراً)، عملت سابقاً في مطار حمد الدولي. الشاحنة رقم 1."
           }
-        }
+        },
+        "brand": "Garsite"
       },
       {
         "id": "garsite-10000-gallon-truck-2",
@@ -6810,7 +7341,7 @@
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-2/1.PNG",
         "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-2/1.PNG",
         "description": {
-          "ar": "تقدم بيستوليكس شاحنة تزويد الطائرات بالوقود المستعملة طراز جارسيت 2011 بسعة خزان اسمية تبلغ 10,000 جالون أمريكي (ما يعادل 37,854 لتر تقريباً).\n\nتم تشغيل الشاحنة سابقاً في مطار حمد الدولي في دولة قطر، وهي مصممة خصيصاً لعمليات ومناولة وقود الطيران والمطارات. تجمع الشاحنة بين نظام متطور جارسيت لتزويد وقود الطائرات، ومحرك QSC240، وناقل حركة 3000HS، مع نظام متطور فلترة وتنقية متطور من Parker Velcon ومكونات قياس وتحكم مخصصة لوقود الطيران.\n\nالشاحنة متواجدة حالياً في دولة قطر ومتاحة للمعاينة والفحص الفني والشراء التجاري.",
+          "ar": "تقدم بيستوليكس شاحنة تزويد الطائرات بالوقود المستعملة طراز جارسيت 2011 بسعة خزان اسمية تبلغ 10,000 جالون أمريكي (ما يعادل 37,854 لتر تقريباً).\n\nتم تشغيل الشاحنة سابقاً في مطار حمد الدولي في دولة قطر، وهي مصممة خصيصاً لعمليات ومناولة وقود الطيران والمطارات. تجمع الشاحنة بين نظام جارسيت لتزويد وقود الطائرات، ومحرك QSC240، وناقل حركة 3000HS، مع نظام فلترة وتنقية متطور من Parker Velcon ومكونات قياس وتحكم مخصصة لوقود الطيران.\n\nالشاحنة متواجدة حالياً في دولة قطر ومتاحة للمعاينة والفحص الفني والشراء التجاري.",
           "en": "Bestolex offers this used 2011 Garsite aircraft refueller truck with a nominal tank capacity of 10,000 US gallons, equivalent to approximately 37,854 litres.\n\nThe unit was previously operated at Hamad International Airport in Qatar and is designed for airport and aviation fuel-handling applications. It combines a Garsite aviation refuelling package, a QSC240 engine, a 3000HS transmission, aviation-grade metering and Parker Velcon filtration components.\n\nThe truck is currently located in Qatar and is available for buyer inspection, technical evaluation and commercial purchase."
         },
         "stats": {
@@ -6870,15 +7401,15 @@
         "features": {
           "ar": [
             "خزان وقود عالي السعة 10,000 جالون أمريكي (37,854 لتر تقريباً).",
-            "نظام متطور فلترة ومراقبة متطور Parker Velcon (طراز CDF-230P مع 27 عنصر ترشيح وتدفق تشغيلي حتى 810 جالون/دقيقة).",
-            "نظام متطور قياس Liquid Controls بمعدل تدفق مقنن 300 جالون/دقيقة وضغط 150 رطل/بوصة مربعة.",
+            "نظام فلترة ومراقبة متطور Parker Velcon (طراز CDF-230P مع 27 عنصر ترشيح وتدفق تشغيلي حتى 810 جالون/دقيقة).",
+            "نظام قياس Liquid Controls بمعدل تدفق مقنن 300 جالون/دقيقة وضغط 150 رطل/بوصة مربعة.",
             "محرك قوي وموثوق QSC240 مع ناقل حركة أوتوماتيكي 3000HS.",
             "لوحة تحكم متكاملة تشمل مؤشرات الضغط، وصمامات التحكم، وأنظمة حديثة وموثوقة تفريغ الهواء، ومفتاح إيقاف الطوارئ.",
             "سجل تشغيلي في مطار حمد الدولي بقطر مع ساعات تشغيل مسجلة تقارب 5,055.9 ساعة."
           ],
           "en": [
-            "Superior Quality-capacity 10,000 US Gallon (approx. 37,854 Litres) fuel tank.",
-            "Advanced Parker Velcon filter monitor Advanced System (CDF-230P with 27 elements and up to 810 USGPM operating flow).",
+            "High-capacity 10,000 US Gallon (approx. 37,854 Litres) fuel tank.",
+            "Advanced Parker Velcon filter monitor system (CDF-230P with 27 elements and up to 810 USGPM operating flow).",
             "Liquid Controls aviation meter with 300 GPM rated flow and 150 PSI max pressure.",
             "Reliable QSC240 engine paired with 3000HS transmission.",
             "Integrated control panel with pressure gauges, valve controls, air eliminator, and emergency shutdown.",
@@ -7022,7 +7553,7 @@
           {
             "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-2/6.PNG",
             "label": {
-              "ar": "نظام متطور فلترة وتنقية الوقود Parker Velcon",
+              "ar": "نظام فلترة وتنقية الوقود Parker Velcon",
               "en": "Parker Velcon Aviation Fuel Filtration Vessel"
             }
           },
@@ -7071,7 +7602,7 @@
           {
             "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-2/13.PNG",
             "label": {
-              "ar": "لوحة بيانات نظام متطور الفلترة Parker Velcon",
+              "ar": "لوحة بيانات نظام الفلترة Parker Velcon",
               "en": "Parker Velcon Filter Monitor Data Plate"
             }
           }
@@ -7104,7 +7635,8 @@
             "en": "Used 2011 Garsite aircraft refueller truck, 10,000 US gallons (about 37,854 litres), previously operated at Hamad International Airport. Truck No. 2.",
             "ar": "شاحنة تزويد طائرات بالوقود جارسيت موديل 2011 مستعملة، سعة 10,000 جالون أمريكي (نحو 37,854 لتراً)، عملت سابقاً في مطار حمد الدولي. الشاحنة رقم 2."
           }
-        }
+        },
+        "brand": "Garsite"
       },
       {
         "id": "garsite-10000-gallon-truck-3",
@@ -7115,7 +7647,7 @@
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-3/1.jpeg",
         "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-3/1.jpeg",
         "description": {
-          "ar": "تقدم بيستوليكس شاحنة تزويد الطائرات بالوقود المستعملة طراز جارسيت 2011 بسعة خزان اسمية تبلغ 10,000 جالون أمريكي (ما يعادل 37,854 لتر تقريباً).\n\nتم تشغيل الشاحنة سابقاً في مطار حمد الدولي في دولة قطر، وهي مصممة خصيصاً لعمليات ومناولة وقود الطيران والمطارات. تجمع الشاحنة بين حزمة جارسيت 10MS-800A-FL-AEDAS لتزويد وقود الطائرات، ومحرك QSC240، وناقل حركة 3000HS، مع نظام متطور فلترة وتنقية متطور من Parker Velcon ومكونات قياس وتحكم مخصصة لوقود الطيران.\n\nالشاحنة متواجدة حالياً في دولة قطر ومتاحة للمعاينة والفحص الفني والشراء التجاري.",
+          "ar": "تقدم بيستوليكس شاحنة تزويد الطائرات بالوقود المستعملة طراز جارسيت 2011 بسعة خزان اسمية تبلغ 10,000 جالون أمريكي (ما يعادل 37,854 لتر تقريباً).\n\nتم تشغيل الشاحنة سابقاً في مطار حمد الدولي في دولة قطر، وهي مصممة خصيصاً لعمليات ومناولة وقود الطيران والمطارات. تجمع الشاحنة بين حزمة جارسيت 10MS-800A-FL-AEDAS لتزويد وقود الطائرات، ومحرك QSC240، وناقل حركة 3000HS، مع نظام فلترة وتنقية متطور من Parker Velcon ومكونات قياس وتحكم مخصصة لوقود الطيران.\n\nالشاحنة متواجدة حالياً في دولة قطر ومتاحة للمعاينة والفحص الفني والشراء التجاري.",
           "en": "Bestolex offers this used 2011 Garsite aircraft refueller truck with a nominal tank capacity of 10,000 US gallons, equivalent to approximately 37,854 litres.\n\nThe unit was previously operated at Hamad International Airport in Qatar and is designed for airport and aviation fuel-handling applications. It combines a Garsite aviation refuelling package, a QSC240 engine, a 3000HS transmission, aviation-grade metering and Parker Velcon filtration components.\n\nThe truck is currently located in Qatar and is available for buyer inspection, technical evaluation and commercial purchase."
         },
         "stats": {
@@ -7175,15 +7707,15 @@
         "features": {
           "ar": [
             "خزان وقود عالي السعة 10,000 جالون أمريكي مصنوع من الستانلس ستيل المقاوم للصدأ SA-240 304.",
-            "نظام متطور فلترة ومراقبة متطور Parker Velcon (طراز CDF-230P مع 27 عنصر ترشيح وتدفق تشغيلي حتى 810 جالون/دقيقة).",
+            "نظام فلترة ومراقبة متطور Parker Velcon (طراز CDF-230P مع 27 عنصر ترشيح وتدفق تشغيلي حتى 810 جالون/دقيقة).",
             "حزمة تزويد وقود معتمدة من Garsite طراز 10MS-800A-FL-AEDAS (رقم تسلسلي: 6428).",
-            "نظام متطور قياس Liquid Controls بمعدل تدفق مقنن 300 جالون/دقيقة وضغط 150 رطل/بوصة مربعة.",
+            "نظام قياس Liquid Controls بمعدل تدفق مقنن 300 جالون/دقيقة وضغط 150 رطل/بوصة مربعة.",
             "محرك قوي وموثوق QSC240 مع ناقل حركة أوتوماتيكي 3000HS.",
             "سجل تشغيلي في مطار حمد الدولي بقطر مع ساعات تشغيل مسجلة تقارب 5,865 ساعة."
           ],
           "en": [
-            "Superior Quality-capacity 10,000 US Gallon fuel tank constructed with SA-240 304 stainless steel.",
-            "Advanced Parker Velcon filter monitor Advanced System (CDF-230P with 27 elements and up to 810 USGPM operating flow).",
+            "High-capacity 10,000 US Gallon fuel tank constructed with SA-240 304 stainless steel.",
+            "Advanced Parker Velcon filter monitor system (CDF-230P with 27 elements and up to 810 USGPM operating flow).",
             "Garsite certified refuelling package model 10MS-800A-FL-AEDAS (Serial: 6428).",
             "Liquid Controls aviation meter with 300 GPM rated flow and 150 PSI max pressure.",
             "Reliable QSC240 engine paired with 3000HS transmission.",
@@ -7343,14 +7875,14 @@
           {
             "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-3/4.jpeg",
             "label": {
-              "ar": "لوحة بيانات نظام متطور الفلترة Parker Velcon",
+              "ar": "لوحة بيانات نظام الفلترة Parker Velcon",
               "en": "Parker Velcon Filter Monitor Data Plate"
             }
           },
           {
             "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-3/5.jpeg",
             "label": {
-              "ar": "نظام متطور فلترة وتنقية الوقود Parker Velcon",
+              "ar": "نظام فلترة وتنقية الوقود Parker Velcon",
               "en": "Parker Velcon Aviation Fuel Filtration Vessel"
             }
           },
@@ -7434,7 +7966,8 @@
             "en": "Used 2011 Garsite aircraft refueller truck, 10,000 US gallons (about 37,854 litres), previously operated at Hamad International Airport. Truck No. 3.",
             "ar": "شاحنة تزويد طائرات بالوقود جارسيت موديل 2011 مستعملة، سعة 10,000 جالون أمريكي (نحو 37,854 لتراً)، عملت سابقاً في مطار حمد الدولي. الشاحنة رقم 3."
           }
-        }
+        },
+        "brand": "Garsite"
       },
       {
         "id": "garsite-10000-gallon-truck-4",
@@ -7445,7 +7978,7 @@
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-4/1.jpeg",
         "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-4/1.jpeg",
         "description": {
-          "ar": "تقدم بيستوليكس شاحنة تزويد الطائرات بالوقود المستعملة طراز جارسيت 2011 بسعة خزان اسمية تبلغ 10,000 جالون أمريكي (ما يعادل 37,854 لتر تقريباً).\n\nتم تشغيل الشاحنة سابقاً في مطار حمد الدولي في دولة قطر، وهي مصممة خصيصاً لعمليات ومناولة وقود الطيران والمطارات. تجمع الشاحنة بين حزمة جارسيت 10MS-800A-FL-AEDAS لتزويد وقود الطائرات، ومحرك QSC240، وتعيين ناقل الحركة HS3000، مع نظام متطور فلترة وتنقية متطور من Parker Velcon ومكونات قياس وتحكم مخصصة لوقود الطيران.\n\nالشاحنة متواجدة حالياً في دولة قطر ومتاحة للمعاينة والفحص الفني والشراء التجاري.",
+          "ar": "تقدم بيستوليكس شاحنة تزويد الطائرات بالوقود المستعملة طراز جارسيت 2011 بسعة خزان اسمية تبلغ 10,000 جالون أمريكي (ما يعادل 37,854 لتر تقريباً).\n\nتم تشغيل الشاحنة سابقاً في مطار حمد الدولي في دولة قطر، وهي مصممة خصيصاً لعمليات ومناولة وقود الطيران والمطارات. تجمع الشاحنة بين حزمة جارسيت 10MS-800A-FL-AEDAS لتزويد وقود الطائرات، ومحرك QSC240، وتعيين ناقل الحركة HS3000، مع نظام فلترة وتنقية متطور من Parker Velcon ومكونات قياس وتحكم مخصصة لوقود الطيران.\n\nالشاحنة متواجدة حالياً في دولة قطر ومتاحة للمعاينة والفحص الفني والشراء التجاري.",
           "en": "Bestolex offers this used 2011 Garsite aircraft refueller truck with a nominal tank capacity of 10,000 US gallons, equivalent to approximately 37,854 litres.\n\nThe unit was previously operated at Hamad International Airport in Qatar and is designed for airport and aviation fuel-handling applications. It combines a Garsite aviation refuelling package, a QSC240 engine, an HS3000 transmission designation, aviation-grade metering and Parker Velcon filtration components.\n\nThe truck is currently located in Qatar and is available for buyer inspection, technical evaluation and commercial purchase."
         },
         "stats": {
@@ -7505,15 +8038,15 @@
         "features": {
           "ar": [
             "خزان وقود عالي السعة 10,000 جالون أمريكي مصنوع من الستانلس ستيل المقاوم للصدأ SA-240 304.",
-            "نظام متطور فلترة ومراقبة متطور Parker Velcon (طراز CDF-230P مع 27 عنصر ترشيح وتدفق تشغيلي حتى 810 جالون/دقيقة).",
+            "نظام فلترة ومراقبة متطور Parker Velcon (طراز CDF-230P مع 27 عنصر ترشيح وتدفق تشغيلي حتى 810 جالون/دقيقة).",
             "حزمة تزويد وقود معتمدة من Garsite طراز 10MS-800A-FL-AEDAS (رقم تسلسلي: 6429).",
-            "نظام متطور قياس Liquid Controls بمعدل تدفق مقنن 300 جالون/دقيقة وضغط 150 رطل/بوصة مربعة.",
+            "نظام قياس Liquid Controls بمعدل تدفق مقنن 300 جالون/دقيقة وضغط 150 رطل/بوصة مربعة.",
             "محرك قوي وموثوق QSC240 مع ناقل حركة HS3000.",
             "سجل تشغيلي في مطار حمد الدولي بقطر مع ساعات تشغيل مسجلة تقارب 6,093 ساعة."
           ],
           "en": [
-            "Superior Quality-capacity 10,000 US Gallon fuel tank constructed with SA-240 304 stainless steel.",
-            "Advanced Parker Velcon filter monitor Advanced System (CDF-230P with 27 elements and up to 810 USGPM operating flow).",
+            "High-capacity 10,000 US Gallon fuel tank constructed with SA-240 304 stainless steel.",
+            "Advanced Parker Velcon filter monitor system (CDF-230P with 27 elements and up to 810 USGPM operating flow).",
             "Garsite certified refuelling package model 10MS-800A-FL-AEDAS (Serial: 6429).",
             "Liquid Controls aviation meter with 300 GPM rated flow and 150 PSI max pressure.",
             "Reliable QSC240 engine paired with HS3000 transmission.",
@@ -7680,14 +8213,14 @@
           {
             "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-4/4.jpeg",
             "label": {
-              "ar": "نظام متطور فلترة وتنقية الوقود Parker Velcon",
+              "ar": "نظام فلترة وتنقية الوقود Parker Velcon",
               "en": "Parker Velcon Aviation Fuel Filtration Vessel"
             }
           },
           {
             "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-4/5.jpeg",
             "label": {
-              "ar": "لوحة بيانات نظام متطور الفلترة Parker Velcon",
+              "ar": "لوحة بيانات نظام الفلترة Parker Velcon",
               "en": "Parker Velcon Filter Monitor Data Plate"
             }
           },
@@ -7764,7 +8297,8 @@
             "en": "Used 2011 Garsite aircraft refueller truck, 10,000 US gallons (about 37,854 litres), previously operated at Hamad International Airport. Truck No. 4.",
             "ar": "شاحنة تزويد طائرات بالوقود جارسيت موديل 2011 مستعملة، سعة 10,000 جالون أمريكي (نحو 37,854 لتراً)، عملت سابقاً في مطار حمد الدولي. الشاحنة رقم 4."
           }
-        }
+        },
+        "brand": "Garsite"
       }
     ],
     "seo": {
