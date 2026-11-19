@@ -10,7 +10,7 @@ export default defineNuxtConfig({
   nitro: {
     vercel: {
       functions: {
-        regions: ['bom1']
+        regions: ['iad1']
       }
     }
   },
