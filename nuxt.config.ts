@@ -3,6 +3,17 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-04-03',
   srcDir: '.', // Use root directory for app files
   devtools: { enabled: true },
+  // Run the server function near the Gulf instead of Vercel's default iad1 (Washington), since
+  // every page is rendered on request (monitoring log, improvement 15). bom1 (Mumbai) is the
+  // closest region Vercel offers to Qatar; there is no Gulf region (dxb1 is rejected). Written by
+  // Nitro into the function's .vc-config.json, so it travels with the code and applies on deploy.
+  nitro: {
+    vercel: {
+      functions: {
+        regions: ['bom1']
+      }
+    }
+  },
   routeRules: {
     // Basic security headers on every response (item 25). A Content-Security-Policy comes later,
     // once GTM/GA4 and the CDN hosts are final.
