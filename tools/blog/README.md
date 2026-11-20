@@ -17,6 +17,7 @@ manual approval step. If the reviewer cannot clear an article, it is not publish
 | `catalog.py` | Product lookup; spec tables and side-by-side comparison tables from `data/products.json`; `relatedProducts` entries. Supply voltage/frequency rows are withheld until confirmed for Qatar. |
 | `images.py` | Branded cover (1200×630 WebP, Arabic + English title, product photo, logo) and inline product figures, saved under `public/blog/`. Fetches photos one at a time through the site's image optimiser. |
 | `qa.py` | Automatic gate: structure, SEO, glossary, claims policy, prices, brands, phone order, links, images, tables, FAQ, duplication with the live blog, and figures not found in the catalog. Exit 1 = errors. |
+| `legacy.py` | Copies a live dashboard article into the repo under its original id (`export <id> <file-stem>`), so it can be corrected without changing its URL. Cleans editor/AI-tool markup, normalises the category, applies the glossary and removes links to sabtech.com.sa. |
 | `topics.json` | Backlog of topics with target keyword (Semrush, Qatar), products, planned tables and live posts the new angle must not repeat. |
 
 ## Article file
@@ -79,7 +80,7 @@ manual approval step. If the reviewer cannot clear an article, it is not publish
 - Figures only from `data/products.json` (via `catalog.py`) or the approved catalogs. Anything
   else is left out — never guessed. `qa.py` lists numbers that are not in the catalog.
 - 25+ years, ISO 9001, CE marking belong to SAB TECH (the manufacturer), never to Bestolex.
-- PAS 68 / IWA 14-1 / ASTM F2656: explain the standard only; no rating for any product.
+- PAS 68 / IWA 14-1 / ASTM F2656: explain the standard; a crash rating or "zero penetration" may be stated only for a model listed in `tools/blog/certifications.json` (owner-approved, read from the test certificate): give the model name, the exact code, the lab and the certificate number, add that product to relatedProducts, and say the rating applies to the tested width and foundation. Today: RB3M1000CT (PAS 68 and IWA 14-1) and RBS3MCT (PAS 68), both tested by CTS in Münster, Germany. No ASTM F2656 rating for any product (no certificate). qa.py enforces this.
 - No prices or discounts. No suppliers or brands other than SAB TECH; Inkema, Beringer and
   Garsite may appear because they are on the site already.
 - Glossary: مفجر إطارات، مصد طريق، رصيف تحميل. Official name: بيستوليكس لتجارة الآلات والمعدات
@@ -121,3 +122,25 @@ manual approval step. If the reviewer cannot clear an article, it is not publish
 8. Internal links point to the right product/category pages in the same language.
 9. FAQ answers are short, factual and not copied from the body.
 10. Not a rewrite of a live post (compare with the posts named in the topic).
+
+## Correcting a live article (legacy)
+
+A repo file whose `id` equals a live dashboard article replaces that article on every public
+reader (`withRepoArticles` puts repo articles first and drops the dashboard copy with the same
+id), so the URL, the sitemap entry and the date stay the same.
+
+1. `python3 tools/blog/legacy.py export <live-id> legacy-<english-words>` (or `<id>` when the id is
+   already an English slug). The file gets `"legacy": true`, the original `date` and cover, and a
+   new `updatedAt`.
+2. Correct and upgrade the text: claims, glossary, Qatar angle, product links, a catalogue table,
+   `seoTitle`, `desc`, `faq`, `relatedProducts`, `keyword`.
+3. `qa.py` treats legacy files like new ones for content rules (errors) but reports length,
+   tables, FAQ and internal-link targets as warnings, and accepts the external cover until the
+   Bunny migration.
+4. Independent review, then PR and preview, then merge only with the user's explicit approval
+   (the daily-articles permission covers new articles only).
+
+Once a live article is corrected in the repo, edits to it in the dashboard no longer appear on the
+site; change the repo file instead. First batch: 15 articles, 20 Nov 2026 (`review.notes` in each
+file lists what changed).
+

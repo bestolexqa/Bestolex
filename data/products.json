@@ -4929,7 +4929,7 @@
         "specs": {
           "ar": [
             {
-              "label": "ارتفاع المصدة السطحي",
+              "label": "ارتفاع المصد السطحي",
               "value": "100 – 120 مم فوق الأرض"
             },
             {
@@ -4937,7 +4937,7 @@
               "value": "150 – 200 مم"
             },
             {
-              "label": "عرض الطريق والمصدة",
+              "label": "عرض الطريق والمصد",
               "value": "2000 – 6000 مم"
             },
             {
@@ -5053,12 +5053,12 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/high-security-road-blocker-pas68/1.png",
         "description": {
-          "ar": "مصد الطريق RBXM1000CT من ساب تك حاجز طريق هيدروليكي عالي الأمان، مصمم لحماية محيط المنشآت من دخول المركبات غير المصرح لها. تُذكر المطابقة لمعايير اختبار التصادم PAS 68 وIWA 14-1 وASTM F2656 فقط للموديلات المدعومة بشهادة اختبار رسمية، وتُرفق الشهادة بالعرض الفني.\nيوفر حاجز الطريق هذا أمانًا عالي المستوى لمحيطك، خاصة في المناطق المعرضة لهجمات المركبات. إنه يعمل باستخدام وحدة طاقة هيدروليكية (HPU)، قادرة على النشر خلال 3-5 ثوانٍ في ظل الظروف العادية وبسرعة تصل إلى 1.5 ثانية مع نظام الفتح السريع في حالات الطوارئ (EFO).\nفي حالة انقطاع التيار الكهربائي، يمكن تشغيل حاجز الطريق يدويًا باستخدام مضخة يدوية مُجهزة خصيصًا، مما يضمن استمرار الأمان حتى في الظروف المعاكسة.\nتسمح الإلكترونيات التي يتم التحكم فيها بواسطة PLC بالتكامل متعدد الاستخدامات مع أجهزة قراءة البطاقات، وأجهزة القياسات الحيوية، والتحكم في الراديو، والتعرف على لوحة الترخيص، وإشارات المرور.",
-          "en": "SAB TECH's RBXM1000CT is a high-security hydraulic road blocker designed to protect facility perimeters against unauthorized vehicle access. Compliance with the PAS 68, IWA 14-1 and ASTM F2656 crash-test standards is stated only for models backed by an official test certificate, which is attached to the technical proposal. This road blocker provides high-level security for your perimeter, particularly in areas vulnerable to vehicle attacks.\nIt operates using a hydraulic power unit (HPU), capable of deploying within 3-5 seconds under normal conditions and as swiftly as 1.5 seconds with the emergency fast opening (EFO) system.\nIn the event of a power failure, the road blocker can be manually operated using a specially fitted hand pump, ensuring continued security even in adverse circumstances."
+          "ar": "مصد الطريق RBXM1000CT من ساب تك حاجز طريق هيدروليكي عالي الأمان، مصمم لحماية محيط المنشآت من دخول المركبات غير المصرح لها. اجتاز الموديل RB3M1000CT بعرض 3 م اختبار تصادم فعلياً لدى مختبر crashtest-service.com في مونستر بألمانيا، وحصل على التصنيف PAS 68:2013 V/7500[N3]/80/90:-1.5/4.6 وIWA 14-1:2013 V/7200[N3C]/80/90:-0.9، أي أنه أوقف شاحنة وزنها 7.5 طن بسرعة 80 كم/س دون أن تتجاوز الحاجز (الشهادة TC-12055-3532-19475-EN). وتُرفق الشهادة بالعرض الفني.\nيوفر حاجز الطريق هذا أمانًا عالي المستوى لمحيطك، خاصة في المناطق المعرضة لهجمات المركبات. إنه يعمل باستخدام وحدة طاقة هيدروليكية (HPU)، قادرة على النشر خلال 3-5 ثوانٍ في ظل الظروف العادية وبسرعة تصل إلى 1.5 ثانية مع نظام الفتح السريع في حالات الطوارئ (EFO).\nفي حالة انقطاع التيار الكهربائي، يمكن تشغيل حاجز الطريق يدويًا باستخدام مضخة يدوية مُجهزة خصيصًا، مما يضمن استمرار الأمان حتى في الظروف المعاكسة.\nتسمح الإلكترونيات التي يتم التحكم فيها بواسطة PLC بالتكامل متعدد الاستخدامات مع أجهزة قراءة البطاقات، وأجهزة القياسات الحيوية، والتحكم في الراديو، والتعرف على لوحة الترخيص، وإشارات المرور.",
+          "en": "SAB TECH's RBXM1000CT is a high-security hydraulic road blocker designed to protect facility perimeters against unauthorized vehicle access. The 3 m wide RB3M1000CT model has been crash-tested at crashtest-service.com in Münster, Germany, and is rated PAS 68:2013 V/7500[N3]/80/90:-1.5/4.6 and IWA 14-1:2013 V/7200[N3C]/80/90:-0.9: it stopped a 7.5-tonne truck at 80 km/h with zero penetration (certificate TC-12055-3532-19475-EN). The certificate is attached to the technical proposal. This road blocker provides high-level security for your perimeter, particularly in areas vulnerable to vehicle attacks.\nIt operates using a hydraulic power unit (HPU), capable of deploying within 3-5 seconds under normal conditions and as swiftly as 1.5 seconds with the emergency fast opening (EFO) system.\nIn the event of a power failure, the road blocker can be manually operated using a specially fitted hand pump, ensuring continued security even in adverse circumstances."
         },
         "features": {
           "ar": [
-            "المطابقة لمعايير PAS 68 وIWA 14-1 وASTM F2656 تُذكر فقط للموديلات المدعومة بشهادة اختبار رسمية",
+            "الموديل RB3M1000CT مختبر وفق PAS 68 (V/7500[N3]/80/90:-1.5/4.6) وIWA 14-1 (V/7200[N3C]/80/90:-0.9) دون اختراق، باختبار في ألمانيا",
             "صفيحة فولاذية علوية مربعة الشكل بسماكة 10 ملم مانعة للانزلاق",
             "هيكل عالي التحمل مصفح ومصنوع من الفولاذ الصلب S275JR",
             "سرعة تشغيل فائقة (3-5 ثوانٍ) وفتح طوارئ سريع (1.5 ثانية)",
@@ -5066,7 +5066,7 @@
             "خدمة ما بعد البيع متكاملة مع توفر قطع الغيار وضمان لمدة سنة واحدة"
           ],
           "en": [
-            "PAS 68, IWA 14-1 and ASTM F2656 compliance stated only for models with an official test certificate",
+            "RB3M1000CT crash-tested to PAS 68 (V/7500[N3]/80/90:-1.5/4.6) and IWA 14-1 (V/7200[N3C]/80/90:-0.9) with zero penetration, tested in Germany",
             "Checkered top steel plate at 10 mm thickness for slip resistance",
             "Heavy-duty structure made out of high-grade S275JR steel",
             "Fast deployment (3-5s) with Emergency Fast Opening (EFO) in 1.5s",
@@ -5142,11 +5142,11 @@
         "specs": {
           "ar": [
             {
-              "label": "ارتفاع المصدة عند الرفع",
+              "label": "ارتفاع المصد عند الرفع",
               "value": "1000 مم"
             },
             {
-              "label": "طول المصدة الحاظرة",
+              "label": "عرض المصد",
               "value": "2000 – 6000 مم"
             },
             {
@@ -5172,6 +5172,14 @@
             {
               "label": "درجة حرارة التشغيل",
               "value": "من -15° م إلى +65° م"
+            },
+            {
+              "label": "اختبار التصادم (الموديل RB3M1000CT، عرض 3 م)",
+              "value": "PAS 68:2013 V/7500[N3]/80/90:-1.5/4.6 — IWA 14-1:2013 V/7200[N3C]/80/90:-0.9، دون اختراق"
+            },
+            {
+              "label": "جهة الاختبار والشهادة",
+              "value": "crashtest-service.com، مونستر، ألمانيا — TC-12055-3532-19475-EN"
             }
           ],
           "en": [
@@ -5206,6 +5214,14 @@
             {
               "label": "Operating Temp",
               "value": "-15°C to +65°C"
+            },
+            {
+              "label": "Crash test (model RB3M1000CT, 3 m wide)",
+              "value": "PAS 68:2013 V/7500[N3]/80/90:-1.5/4.6 — IWA 14-1:2013 V/7200[N3C]/80/90:-0.9, zero penetration"
+            },
+            {
+              "label": "Test lab & certificate",
+              "value": "crashtest-service.com, Münster, Germany — TC-12055-3532-19475-EN"
             }
           ]
         },
@@ -5255,8 +5271,8 @@
             "ar": "مصد طريق عالي الأمان RBXM1000CT في قطر"
           },
           "description": {
-            "en": "Hydraulic high-security road blocker that protects facility perimeters and controls vehicle access at the gates of sensitive sites in Qatar. Get a proposal.",
-            "ar": "مصد طريق هيدروليكي عالي الأمان لحماية محيط المنشآت والتحكم في دخول المركبات عند بوابات المواقع الحساسة في قطر. اطلب عرضاً فنياً وسعراً من بيستوليكس."
+            "en": "Hydraulic high-security road blocker crash-tested to PAS 68 and IWA 14-1 with zero penetration, for sensitive site gates in Qatar. Request a proposal.",
+            "ar": "مصد طريق هيدروليكي عالي الأمان مختبر وفق PAS 68 وIWA 14-1 دون اختراق، لحماية بوابات المنشآت الحساسة في قطر. اطلب عرضاً فنياً من بيستوليكس."
           }
         },
         "brand": "SAB TECH"
@@ -5269,13 +5285,13 @@
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/high-security-shallow-road-blocker-pas68/1.png",
         "description": {
-          "ar": "توفر مصدات الطرق السطحية الهيدروليكية عالية الأمان من ساب تك حماية عالية لمحيط المنشآت الحساسة، مما يمنع بشكل فعال الوصول غير المصرح به للمركبات.\nمع عمق تركيب يبلغ 40 سم فقط، يعتبر مصد الطريق السطحي مثالياً للمواقع التي تكون فيها الأساسات الخرسانية العميقة غير عملية، مما يوفر مرونة ممتازة للتركيب.\nيعمل النظام بواسطة وحدة طاقة هيدروليكية (HPU) قادرة على الرفع والفتح خلال 3-5 ثوانٍ، وبسرعة تصل إلى 1.5 ثانية مع نظام الفتح السريع في حالات الطوارئ (EFO).\nتسمح لوحة التحكم الإلكترونية بي إل سي بالتكامل والتوافق مع أجهزة قراءة البطاقات، البصمة الحيوية، والتحكم بالراديو، وقارئ لوحات المركبات.",
-          "en": "SAB TECH's high-security shallow-mount hydraulic road blocker provides high-level perimeter security, effectively preventing unauthorized vehicle access.\nWith an installation depth of just 40 cm, our shallow road blocker is ideal for sites where deep concrete foundations are impractical, offering enhanced installation flexibility.\nPowered by a Hydraulic Power Unit (HPU), it deploys within 3 to 5 seconds under standard operation, and as fast as 1.5 seconds with Emergency Fast Opening (EFO).\nThe PLC-controlled system supports integration with card readers, biometric readers, radio controls, and license plate recognition."
+          "ar": "توفر مصدات الطرق السطحية الهيدروليكية عالية الأمان من ساب تك حماية عالية لمحيط المنشآت الحساسة، مما يمنع بشكل فعال الوصول غير المصرح به للمركبات.\nمع عمق تركيب يبلغ 40 سم فقط، يعتبر مصد الطريق السطحي مثالياً للمواقع التي تكون فيها الأساسات الخرسانية العميقة غير عملية، مما يوفر مرونة ممتازة للتركيب.\nواجتاز الموديل RBS3MCT بعرض 3 م اختبار تصادم فعلياً لدى مختبر crashtest-service.com في مونستر بألمانيا، وحصل على التصنيف PAS 68:2013 V/7500[N3]/80/90:-1.4/16.2، أي أنه أوقف شاحنة وزنها 7.5 طن بسرعة 80 كم/س دون أن تتجاوز الحاجز (الشهادة TC-12055-4574-19988-2-EN). وتُرفق الشهادة بالعرض الفني.\nيعمل النظام بواسطة وحدة طاقة هيدروليكية (HPU) قادرة على الرفع والفتح خلال 3-5 ثوانٍ، وبسرعة تصل إلى 1.5 ثانية مع نظام الفتح السريع في حالات الطوارئ (EFO).\nتسمح لوحة التحكم الإلكترونية بي إل سي بالتكامل والتوافق مع أجهزة قراءة البطاقات، البصمة الحيوية، والتحكم بالراديو، وقارئ لوحات المركبات.",
+          "en": "SAB TECH's high-security shallow-mount hydraulic road blocker provides high-level perimeter security, effectively preventing unauthorized vehicle access.\nWith an installation depth of just 40 cm, our shallow road blocker is ideal for sites where deep concrete foundations are impractical, offering enhanced installation flexibility.\nThe 3 m wide RBS3MCT model has been crash-tested at crashtest-service.com in Münster, Germany, and is rated PAS 68:2013 V/7500[N3]/80/90:-1.4/16.2: it stopped a 7.5-tonne truck at 80 km/h with zero penetration (certificate TC-12055-4574-19988-2-EN). The certificate is attached to the technical proposal.\nPowered by a Hydraulic Power Unit (HPU), it deploys within 3 to 5 seconds under standard operation, and as fast as 1.5 seconds with Emergency Fast Opening (EFO).\nThe PLC-controlled system supports integration with card readers, biometric readers, radio controls, and license plate recognition."
         },
         "features": {
           "ar": [
             "عمق أساسات سطحية منخفض جداً (40 سم فقط) مناسب للمناطق المحدودة",
-            "المطابقة لمعيار PAS 68 تُذكر فقط للموديلات المدعومة بشهادة اختبار رسمية",
+            "الموديل RBS3MCT مختبر وفق PAS 68 (V/7500[N3]/80/90:-1.4/16.2) دون اختراق، باختبار في ألمانيا",
             "سرعة تشغيل فائقة (3-5 ثوانٍ) وفتح طوارئ سريع خلال 1.5 ثانية (EFO)",
             "هيكل عالي التحمل مصفح ومقاوم للاصطدامات الشديدة مع تشغيل يدوي للطوارئ",
             "لوحة تحكم بي إل سي متطورة تدعم الربط مع جميع أنظمة حديثة وموثوقة التحكم في الدخول",
@@ -5283,7 +5299,7 @@
           ],
           "en": [
             "Ultra-shallow foundation depth (just 40 cm) for sites with underground constraints",
-            "PAS 68 compliance stated only for models with an official test certificate",
+            "RBS3MCT crash-tested to PAS 68 (V/7500[N3]/80/90:-1.4/16.2) with zero penetration, tested in Germany",
             "Fast deployment (3-5 sec) with Emergency Fast Opening (EFO) in 1.5 sec",
             "Heavy-duty armoured structure with manual emergency hand pump operation",
             "Advanced PLC controller supporting complete access control system integrations",
@@ -5355,11 +5371,11 @@
               "value": "400 مم (40 سم فقط)"
             },
             {
-              "label": "ارتفاع المصدة عند الرفع",
+              "label": "ارتفاع المصد عند الرفع",
               "value": "1100 مم"
             },
             {
-              "label": "طول المصدة الحاظرة",
+              "label": "عرض المصد",
               "value": "2000 – 6000 مم"
             },
             {
@@ -5385,6 +5401,14 @@
             {
               "label": "درجة حرارة التشغيل",
               "value": "من -15° م إلى +65° م"
+            },
+            {
+              "label": "اختبار التصادم (الموديل RBS3MCT، عرض 3 م)",
+              "value": "PAS 68:2013 V/7500[N3]/80/90:-1.4/16.2، دون اختراق"
+            },
+            {
+              "label": "جهة الاختبار والشهادة",
+              "value": "crashtest-service.com، مونستر، ألمانيا — TC-12055-4574-19988-2-EN"
             }
           ],
           "en": [
@@ -5423,6 +5447,14 @@
             {
               "label": "Operating Temp",
               "value": "-15°C to +65°C"
+            },
+            {
+              "label": "Crash test (model RBS3MCT, 3 m wide)",
+              "value": "PAS 68:2013 V/7500[N3]/80/90:-1.4/16.2, zero penetration"
+            },
+            {
+              "label": "Test lab & certificate",
+              "value": "crashtest-service.com, Münster, Germany — TC-12055-4574-19988-2-EN"
             }
           ]
         },
@@ -5471,8 +5503,8 @@
             "ar": "مصد طريق سطحي عالي الأمان بعمق 40 سم"
           },
           "description": {
-            "en": "High-security shallow-mount hydraulic road blocker with a 40 cm installation depth, for sites where deep foundations are impractical in Qatar. Get a quote.",
-            "ar": "مصد طريق هيدروليكي عالي الأمان بعمق تركيب 40 سم فقط، للمواقع التي يصعب فيها حفر أساسات عميقة في قطر. اطلب عرض سعر من بيستوليكس."
+            "en": "Shallow-mount high-security road blocker, 40 cm install depth, crash-tested to PAS 68 with zero penetration, for Qatar sites. Get a quote from Bestolex.",
+            "ar": "مصد طريق سطحي عالي الأمان بعمق تركيب 40 سم، مختبر وفق PAS 68 دون اختراق، للمواقع التي يصعب فيها الحفر العميق في قطر. اطلب عرض سعر."
           }
         },
         "brand": "SAB TECH"
@@ -5579,11 +5611,11 @@
         "specs": {
           "ar": [
             {
-              "label": "ارتفاع المصدة عند الرفع",
+              "label": "ارتفاع المصد عند الرفع",
               "value": "800 – 1100 مم"
             },
             {
-              "label": "طول المصدة الحاظرة",
+              "label": "عرض المصد",
               "value": "2000 – 6000 مم"
             },
             {
@@ -5723,7 +5755,7 @@
             },
             {
               "q": "هل مصد الطريق معتمد ضد الاصطدام؟",
-              "a": "تُذكر المطابقة لمعايير اختبار التصادم مثل PAS 68 وIWA 14-1 وASTM F2656 فقط للموديلات المدعومة بشهادة اختبار رسمية. إن كان موقعك يتطلب تصنيفاً معيناً فاذكره في طلب عرض السعر لنقترح الموديل المناسب ونقدّم وثائقه."
+              "a": "هذا الموديل القياسي ليس له شهادة اختبار تصادم. إذا اشترط المشروع تصنيفاً ضد الاقتحام فالبديل الموديلات المختبرة: مصد الطريق عالي الأمان RB3M1000CT (PAS 68 وIWA 14-1) والمصد السطحي عالي الأمان RBS3MCT (PAS 68)، وكلاهما اختُبر في ألمانيا دون أن تتجاوز الشاحنة الحاجز."
             },
             {
               "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
@@ -5745,7 +5777,7 @@
             },
             {
               "q": "Is the road blocker crash-rated?",
-              "a": "Compliance with crash-test standards such as PAS 68, IWA 14-1 and ASTM F2656 is stated only for models backed by an official test certificate. If your site requires a specific rating, include it in your quote request and we will propose a suitable model with its documentation."
+              "a": "This standard model has no crash-test certificate. If the project requires an anti-ram rating, choose a tested model: the RB3M1000CT high-security road blocker (PAS 68 and IWA 14-1) or the RBS3MCT high-security shallow road blocker (PAS 68), both tested in Germany with the truck not advancing beyond the barrier."
             },
             {
               "q": "Does Bestolex supply, install and maintain it in Qatar?",
@@ -5971,11 +6003,11 @@
         "specs": {
           "ar": [
             {
-              "label": "قطر العمود (المصدة)",
+              "label": "قطر العمود",
               "value": "220 – 275 مم"
             },
             {
-              "label": "ارتفاع المصدة عند الرفع",
+              "label": "ارتفاع المصد عند الرفع",
               "value": "600 – 800 مم"
             },
             {
@@ -6480,7 +6512,7 @@
               "value": "150 – 250 مم"
             },
             {
-              "label": "طول المصدة الكلي",
+              "label": "الطول الكلي",
               "value": "2000 – 6000 مم"
             },
             {

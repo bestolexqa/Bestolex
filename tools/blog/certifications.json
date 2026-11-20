@@ -1,0 +1,37 @@
+{
+  "_note": "Crash-test certificates verified by Claude on 2026-11-20 from the scanned certificates published by SAB TECH (read page by page) and approved for use by the Bestolex owner on 2026-11-20. Only these models and these exact classifications may be stated as crash-tested. Other widths or models: describe as untested unless a certificate is added here.",
+  "high-security-road-blocker": [
+    {
+      "model": "RB3M1000CT",
+      "family": "RBXM1000CT",
+      "width_m": 3,
+      "lab": "crashtest-service.com GmbH (CTS), Münster, Germany",
+      "certificate": "TC-12055-3532-19475-EN",
+      "certified": "2020-11-25",
+      "test_date": "2020-11-12",
+      "ratings": [
+        {"standard": "PAS 68:2013", "code": "V/7500[N3]/80/90:-1.5/4.6"},
+        {"standard": "IWA 14-1:2013", "code": "V/7200[N3C]/80/90:-0.9"}
+      ],
+      "vehicle_advanced_beyond_barrier": false,
+      "kinetic_energy_kj": 1800.5,
+      "source": "https://sabtech.com.sa/wp-content/uploads/2020/12/Certificate_TC_12055_3532_19475-EN-signed.pdf"
+    }
+  ],
+  "high-security-shallow-road-blocker": [
+    {
+      "model": "RBS3MCT",
+      "width_m": 3,
+      "lab": "crashtest-service.com GmbH (CTS), Münster, Germany",
+      "certificate": "TC-12055-4574-19988-2-EN",
+      "certified": "2023-08-23",
+      "test_date": "2023-07-19",
+      "ratings": [
+        {"standard": "PAS 68:2013", "code": "V/7500[N3]/80/90:-1.4/16.2"}
+      ],
+      "vehicle_advanced_beyond_barrier": false,
+      "kinetic_energy_kj": 1867,
+      "source": "https://sabtech.com.sa/wp-content/uploads/2023/09/Certificate_TC_12055-4574-19988-2-EN-signed-Test-Report.pdf"
+    }
+  ]
+}
