@@ -49,6 +49,9 @@ OTHER_BRANDS = [
     'dormakaba', 'hikvision', 'dahua', 'uveye', 'comm port', 'gatekeeper',
 ]
 
+CERTIFICATIONS = json.loads((Path(__file__).resolve().parent / 'certifications.json').read_text(encoding='utf-8'))
+RATING_CODE = re.compile(r'V/\d{4,5}\[N\d[A-Z]?\]/\d+/\d+:-?\d+(?:\.\d+)?(?:/\d+(?:\.\d+)?)?')
+
 ALLOWED_EXTERNAL = (
     'bsigroup.com', 'iso.org', 'astm.org', 'gov.qa', 'mme.gov.qa', 'moi.gov.qa', 'mm.gov.qa',
     'km.qa', 'kahramaa.qa', 'qcs', 'qna.org.qa', 'wa.me/97451505014', 'tel:+97451505014', 'mailto:info@bestolex.com',
@@ -166,6 +169,7 @@ def check_article(path: Path, cat: Catalog, live: list[dict], others: list[dict]
         if pid not in cat.products:
             rep.err(f'structure: relatedProducts has unknown product id "{pid}"')
 
+    certified = [c for pid in pids for c in CERTIFICATIONS.get(pid, [])]
     faq = a.get('faq') or []
     if legacy and not faq:
         rep.warn('seo: no faq yet (4–6 questions recommended)')
@@ -273,14 +277,24 @@ def check_article(path: Path, cat: Catalog, live: list[dict], others: list[dict]
             (r'مفرقع', 'glossary: use «مفجر إطارات»'),
             (r'مصد(?:ّ)?ة', 'glossary: use «مصد طريق» (not مصدة)'),
             (r'منصة\s+تحميل\s*[–-]?\s*(?:هيدروليكي|دوك)', 'glossary: dock leveler is «رصيف تحميل»'),
-            (r'اختراق\s+صفري|zero\s+penetration|crash[-\s]?tested|تم\s+اختباره\s+وفق', 'claims: crash/penetration claims need a certificate'),
+            (None if certified else r'اختراق\s+صفري|zero\s+penetration|crash[-\s]?tested|تم\s+اختباره\s+وفق', 'claims: crash/penetration claims need a certificate (tools/blog/certifications.json)'),
             (r'\b(?:P1|M50|M40|M30|K12|K8|K4)\b', 'claims: crash rating codes need a certificate for a named model'),
             (r'(?:\d[\d,.]*\s*(?:ريال|ر\.ق|qar|qr\b|\$|usd|دولار|درهم|aed))|(?:(?:qar|qr|\$|usd)\s*\d)', 'prices are not allowed without approval'),
             (r'الأفضل\s+في\s+قطر|الرائد[ةه]|الأول\s+في\s+قطر|best\s+in\s+qatar|\bthe\s+leading\b|\bleading\s+(?:supplier|company|provider|brand|distributor)|number\s+one|no\.\s*1|\bpremier\b|market\s+leader', 'unverifiable superlative'),
             (r'60\s*(?:hz|هرتز)|220\s*/\s*380', 'electrical supply 60 Hz / 220-380 V is not confirmed for Qatar (task 33)'),
-            (r'\[يحتاج تأكيد|\btodo\b|lorem|image prompt|data-placeholder|\[n\d+\]|as an ai|كنموذج ذكاء', 'placeholder or AI leftover in text'),
+            (r'\[يحتاج تأكيد|\btodo\b|lorem|image prompt|data-placeholder|(?<!\d)\[n\d+\](?![/:])|as an ai|كنموذج ذكاء', 'placeholder or AI leftover in text'),
         ]
+        # crash-test ratings: only the exact codes of certified models listed in relatedProducts,
+        # and only next to the model name printed on the certificate
+        for code in set(RATING_CODE.findall(all_text)):
+            owners = [c for c in certified if any(r['code'] == code for r in c['ratings'])]
+            if not owners:
+                rep.err(f'{L} claims: rating {code} is not on a certificate in certifications.json for a related product')
+            elif not any(c['model'] in all_text for c in owners):
+                rep.err(f'{L} claims: rating {code} must name the tested model ({", ".join(c["model"] for c in owners)})')
         for pattern, msg in rules_err:
+            if pattern is None:
+                continue
             m = re.search(pattern, all_text, re.I)
             if m:
                 rep.err(f'{L} rules: {msg} (found "{m.group(0)}")')
