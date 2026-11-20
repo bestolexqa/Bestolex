@@ -80,7 +80,7 @@ manual approval step. If the reviewer cannot clear an article, it is not publish
 - Figures only from `data/products.json` (via `catalog.py`) or the approved catalogs. Anything
   else is left out — never guessed. `qa.py` lists numbers that are not in the catalog.
 - 25+ years, ISO 9001, CE marking belong to SAB TECH (the manufacturer), never to Bestolex.
-- PAS 68 / IWA 14-1 / ASTM F2656: explain the standard only; no rating for any product.
+- PAS 68 / IWA 14-1 / ASTM F2656: explain the standard; a crash rating or "zero penetration" may be stated only for a model listed in `tools/blog/certifications.json` (owner-approved, read from the test certificate): give the model name, the exact code, the lab and the certificate number, add that product to relatedProducts, and say the rating applies to the tested width and foundation. Today: RB3M1000CT (PAS 68 and IWA 14-1) and RBS3MCT (PAS 68), both tested by CTS in Münster, Germany. No ASTM F2656 rating for any product (no certificate). qa.py enforces this.
 - No prices or discounts. No suppliers or brands other than SAB TECH; Inkema, Beringer and
   Garsite may appear because they are on the site already.
 - Glossary: مفجر إطارات، مصد طريق، رصيف تحميل. Official name: بيستوليكس لتجارة الآلات والمعدات
