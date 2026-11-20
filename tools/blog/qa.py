@@ -51,7 +51,7 @@ OTHER_BRANDS = [
 
 ALLOWED_EXTERNAL = (
     'bsigroup.com', 'iso.org', 'astm.org', 'gov.qa', 'mme.gov.qa', 'moi.gov.qa', 'mm.gov.qa',
-    'km.qa', 'kahramaa.qa', 'qcs', 'wa.me/97451505014', 'tel:+97451505014', 'mailto:info@bestolex.com',
+    'km.qa', 'kahramaa.qa', 'qcs', 'qna.org.qa', 'wa.me/97451505014', 'tel:+97451505014', 'mailto:info@bestolex.com',
 )
 
 
@@ -107,18 +107,31 @@ def check_article(path: Path, cat: Catalog, live: list[dict], others: list[dict]
         return rep
 
     # ---------- structure ----------
+    # "legacy": true marks an article that was first published from the dashboard (Bunny) and is
+    # now corrected in the repo under its original id, so its URL does not change. Its id may be
+    # an Arabic slug; the file is then named legacy-<english-words>.json. Content rules stay
+    # errors; structure targets for new guides (length, tables, FAQ, links) become warnings.
+    legacy = bool(a.get('legacy'))
+    soft = rep.warn if legacy else rep.err
+    rep.stats['legacy'] = legacy
     slug = a.get('id') or ''
-    if not re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*', slug):
-        rep.err('structure: id must be a short lowercase English slug with hyphens')
-    if path.stem != slug:
-        rep.err(f'structure: file name {path.name} must match id "{slug}"')
+    if legacy:
+        if path.stem != slug and not re.fullmatch(r'legacy-[a-z0-9]+(?:-[a-z0-9]+)*', path.stem):
+            rep.err('structure: a legacy file is named after its id or legacy-<english-words>.json')
+        if not any((x.get('id') or x.get('slug')) == slug for x in live):
+            rep.warn('structure: legacy id not found in the live blog (the URL would be new, not corrected)')
+    else:
+        if not re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*', slug):
+            rep.err('structure: id must be a short lowercase English slug with hyphens')
+        if path.stem != slug:
+            rep.err(f'structure: file name {path.name} must match id "{slug}"')
     if a.get('slug') not in (None, slug):
         rep.err('structure: slug must equal id')
     for field in ('title', 'seoTitle', 'desc', 'category', 'content', 'imageAlt', 'readTime'):
         val = a.get(field)
         if not isinstance(val, dict) or not str(val.get('ar') or '').strip() or not str(val.get('en') or '').strip():
             rep.err(f'structure: {field} needs both ar and en')
-    for field in ('date', 'publishAt', 'image'):
+    for field in (('date', 'image') if legacy else ('date', 'publishAt', 'image')):
         if not a.get(field):
             rep.err(f'structure: {field} is missing')
     if a.get('date') and not re.fullmatch(r'\d{4}-\d{2}-\d{2}', a['date']):
@@ -126,7 +139,7 @@ def check_article(path: Path, cat: Catalog, live: list[dict], others: list[dict]
     if a.get('publishAt'):
         try:
             pub = datetime.fromisoformat(a['publishAt'])
-            if a.get('date') and pub.date().isoformat() != a['date']:
+            if not legacy and a.get('date') and pub.date().isoformat() != a['date']:
                 rep.err('structure: date must be the day of publishAt')
         except ValueError:
             rep.err('structure: publishAt must be ISO 8601 with offset, e.g. 2026-11-22T07:00:00+03:00')
@@ -136,23 +149,27 @@ def check_article(path: Path, cat: Catalog, live: list[dict], others: list[dict]
     elif (a.get('category') or {}).get('en') != CATEGORIES[cat_ar]:
         rep.err(f'structure: category.en must be "{CATEGORIES[cat_ar]}"')
     img = a.get('image') or ''
-    if not img.startswith('/blog/') or not (PUBLIC / img.lstrip('/')).exists():
+    if legacy and img.startswith('https://'):
+        rep.warn('images: cover is still on external storage; replace it with public/blog/ when Bunny moves')
+    elif not img.startswith('/blog/') or not (PUBLIC / img.lstrip('/')).exists():
         rep.err(f'images: cover {img or "(none)"} must be a file under public/blog/')
     kw = a.get('keyword') or {}
     if not kw.get('en') or not kw.get('ar'):
-        rep.err('structure: keyword.ar and keyword.en (target search terms) are required')
+        soft('structure: keyword.ar and keyword.en (target search terms) are required')
     if not kw.get('source'):
         rep.warn('seo: keyword.source should name where the volume came from (e.g. Semrush qa, date)')
 
     pids = [p.get('id') for p in (a.get('relatedProducts') or []) if isinstance(p, dict)]
     if not pids:
-        rep.err('structure: relatedProducts must list at least one product discussed')
+        soft('structure: relatedProducts must list at least one product discussed')
     for pid in pids:
         if pid not in cat.products:
             rep.err(f'structure: relatedProducts has unknown product id "{pid}"')
 
     faq = a.get('faq') or []
-    if not (4 <= len(faq) <= 6):
+    if legacy and not faq:
+        rep.warn('seo: no faq yet (4–6 questions recommended)')
+    if not (4 <= len(faq) <= 6) and (faq or not legacy):
         rep.err(f'seo: faq must have 4–6 questions (has {len(faq)})')
     for i, item in enumerate(faq, 1):
         for lang in ('ar', 'en'):
@@ -171,7 +188,7 @@ def check_article(path: Path, cat: Catalog, live: list[dict], others: list[dict]
         n_words = len(words(text))
         rep.stats[f'words_{lang}'] = n_words
         if n_words < 800:
-            rep.err(f'{L} length: {n_words} words; at least 800 are required (aim for 1,000–1,800)')
+            soft(f'{L} length: {n_words} words; at least 800 are required (aim for 1,000–1,800)')
         elif n_words < 1000:
             rep.warn(f'{L} length: {n_words} words; 1,000–1,800 reads as a complete guide')
 
@@ -188,7 +205,7 @@ def check_article(path: Path, cat: Catalog, live: list[dict], others: list[dict]
             rep.err(f'{L} headings: no <h1> inside content (the page title is the only H1)')
         h2s = re.findall(r'<h2[^>]*>(.*?)</h2>', content, re.I | re.S)
         if len(h2s) < 3:
-            rep.err(f'{L} headings: {len(h2s)} <h2> sections; at least 3 needed')
+            soft(f'{L} headings: {len(h2s)} <h2> sections; at least 3 needed')
         if re.search(r'<h[45][\s>]', content, re.I):
             rep.warn(f'{L} headings: prefer h2/h3 only')
 
@@ -206,7 +223,7 @@ def check_article(path: Path, cat: Catalog, live: list[dict], others: list[dict]
         tables = len(re.findall(r'<table[\s>]', content, re.I))
         rep.stats[f'tables_{lang}'] = tables
         if tables < 1:
-            rep.err(f'{L} tables: at least one comparison or specification table is required')
+            soft(f'{L} tables: at least one comparison or specification table is required')
         if tables and content.count('class="table-wrap"') < tables:
             rep.warn(f'{L} tables: wrap every <table> in <div class="table-wrap"> for mobile scrolling')
         if not re.search(r'class="key-takeaways"', content):
@@ -217,7 +234,7 @@ def check_article(path: Path, cat: Catalog, live: list[dict], others: list[dict]
         internal = [l for l in links if l.startswith('/')]
         prefix_ok = (lambda l: not l.startswith('/en/')) if lang == 'ar' else (lambda l: l.startswith('/en/') or l == '/en')
         if len(internal) < 3:
-            rep.err(f'{L} links: {len(internal)} internal links; 3–5 needed (products, category, related posts)')
+            soft(f'{L} links: {len(internal)} internal links; 3–5 needed (products, category, related posts)')
         for l in internal:
             if not prefix_ok(l):
                 rep.err(f'{L} links: {l} points to the other language')
@@ -225,7 +242,7 @@ def check_article(path: Path, cat: Catalog, live: list[dict], others: list[dict]
             if m and m.group(1) not in cat.products:
                 rep.err(f'{L} links: product {m.group(1)} does not exist')
         if not any(re.search(r'/products/', l) for l in internal):
-            rep.err(f'{L} links: link at least one product page')
+            soft(f'{L} links: link at least one product page')
         for l in links:
             if l.startswith('http') and not any(d in l for d in ALLOWED_EXTERNAL):
                 rep.err(f'{L} links: external link {l} is not on the allowed list (standards bodies, Qatar government)')
@@ -274,7 +291,8 @@ def check_article(path: Path, cat: Catalog, live: list[dict], others: list[dict]
         for s in sentences(all_text):
             sl = s.lower()
             mentions_sabtech = bool(re.search(r'ساب\s*تك|sab\s*tech|sabtech|المصنّع|المصنع|manufacturer', sl))
-            if re.search(r'\biso\s*9001|\biso\b', sl) and not mentions_sabtech:
+            # ISO VG (oil viscosity) and numbered ISO standards are references, not the ISO 9001 certificate
+            if re.search(r'\biso\s*9001|\biso\b(?!\s*(?:vg\b|\d))', sl) and not mentions_sabtech:
                 rep.err(f'{L} claims: ISO is SAB TECH\'s certificate; name SAB TECH in the same sentence: "{s[:90]}"')
             if re.search(r'علامة\s*ce|\bce\s*mark|\bce\b\s*(?:certified|marking)', sl) and not mentions_sabtech:
                 rep.err(f'{L} claims: CE marking belongs to SAB TECH products; say so: "{s[:90]}"')
