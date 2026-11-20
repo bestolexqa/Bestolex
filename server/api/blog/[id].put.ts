@@ -1,3 +1,4 @@
+import { bothLocales, pingIndexNow } from '~~/server/utils/indexnow'
 import { getStoredArticles, saveStoredArticles } from '~~/server/utils/blogStorage'
 import { useServerSupabase } from '~~/server/utils/supabase'
 
@@ -45,6 +46,7 @@ export default defineEventHandler(async (event) => {
         content: { ar: body.content_ar, en: body.content_en || body.content_ar },
         readTime: { ar: body.read_time_ar || '5 دقائق قراءة', en: body.read_time_en || '5 min read' },
         image: body.image || item.image,
+        updatedAt: new Date().toISOString().split('T')[0],
         is_featured: body.is_featured !== undefined ? body.is_featured : item.is_featured
       }
     }
@@ -52,6 +54,7 @@ export default defineEventHandler(async (event) => {
   })
 
   await saveStoredArticles(updatedList)
+  await pingIndexNow(bothLocales([`/blog/${encodeURIComponent(String(id))}`]))
 
   return { success: true }
 })

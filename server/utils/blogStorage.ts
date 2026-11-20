@@ -155,6 +155,7 @@ async function loadArticles(): Promise<LoadedList> {
           content: { ar: item.content_ar, en: item.content_en || item.content_ar },
           image: item.image || 'https://electrocreative-cdn.b-cdn.net/bestolex/news/news1.jpg',
           date: item.created_at ? item.created_at.split('T')[0] : '2026-08-15',
+          updatedAt: item.updated_at ? item.updated_at.split('T')[0] : undefined,
           readTime: { ar: item.read_time_ar || '5 دقائق قراءة', en: item.read_time_en || '5 min read' },
           read_time_ar: item.read_time_ar,
           read_time_en: item.read_time_en,

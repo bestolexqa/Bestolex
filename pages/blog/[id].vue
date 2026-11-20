@@ -177,6 +177,7 @@ useHead(() => ({
         'description': articleDesc.value,
         'image': article.value?.image ? [article.value.image] : [BUSINESS.image],
         'datePublished': article.value?.date || undefined,
+        'dateModified': article.value?.updatedAt || article.value?.date || undefined,
         'inLanguage': isAr.value ? 'ar-QA' : 'en',
         'author': { '@id': ORG_ID },
         'publisher': { '@id': ORG_ID },
