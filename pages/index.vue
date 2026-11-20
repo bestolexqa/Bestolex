@@ -166,68 +166,32 @@
             {{ locale === 'ar' ? 'خدماتنا الهندسية والصناعية المتكاملة' : 'Comprehensive Engineering & Industrial Services' }}
           </div>
           <h2 class="text-3xl md:text-5xl font-black text-gray-900 dark:text-white mb-6">
-            {{ locale === 'ar' ? 'خدماتنا الهندسية واللوجستية' : 'Our Engineering & Logistics Services' }}
+            {{ locale === 'ar' ? 'مراحل خدمتنا الثماني' : 'Our Eight Service Stages' }}
           </h2>
           <p class="text-lg md:text-xl text-gray-600 dark:text-gray-400 leading-relaxed">
-            {{ locale === 'ar' 
-              ? 'نقدم حلولاً متكاملة تبدأ من التصميم الدقيق وتوريد المعدات الثقيلة، مروراً بالتركيب الاحترافي للنظم الهيدروليكية، وصولاً إلى خدمات الصيانة والدعم الفني المتميز لضمان أعلى درجات الكفاءة.' 
-              : 'We provide end-to-end industrial solutions: from the precise engineering design of heavy machinery, through expert installation of hydraulic systems, to unparalleled maintenance and technical support for maximum operational efficiency.' 
+            {{ locale === 'ar'
+              ? 'من دراسة المتطلبات والمعاينة الميدانية حتى قطع الغيار وخدمة ما بعد البيع، تتولى بيستوليكس مشروعك في قطر عبر ثماني مراحل.'
+              : 'From the requirements study and site survey to spare parts and after-sales service, Bestolex runs your project in Qatar in eight stages.'
             }}
           </p>
         </div>
 
-        <!-- 4 Services Cards Grid -->
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
-          <div 
-            v-for="(service, idx) in homeServices" 
-            :key="idx" 
-            class="bg-white dark:bg-gray-800 rounded-3xl overflow-hidden shadow-xl border border-gray-100 dark:border-gray-700 hover:-translate-y-2 hover:shadow-2xl transition-all duration-500 flex flex-col group"
+        <!-- The eight service stages -->
+        <ol class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5 md:gap-6 mb-12">
+          <li
+            v-for="(service, idx) in homeServices"
+            :key="idx"
+            class="bg-white dark:bg-gray-800 rounded-2xl shadow border border-gray-100 dark:border-gray-700 p-6 flex flex-col gap-3 hover:-translate-y-1 hover:shadow-xl transition"
             data-aos="fade-up"
-            :data-aos-delay="idx * 100"
+            :data-aos-delay="(idx % 4) * 80"
           >
-            <!-- Card Image Header -->
-            <div class="relative h-48 overflow-hidden bg-gray-100 dark:bg-gray-700">
-              <NuxtImg 
-                :src="service.image" 
-                :alt="service.title[locale]" 
-                class="w-full h-full object-cover group-hover:scale-110 transition duration-700"
-                format="webp"
-                loading="lazy"
-              />
-              <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent"></div>
-              
-              <!-- Step Badge -->
-              <div class="absolute top-4 rtl:right-4 ltr:left-4 bg-[#121c2d]/90 backdrop-blur-md text-[#E99E15] font-black text-xs px-3 py-1.5 rounded-full border border-[#E99E15]/30">
-                {{ service.stage[locale] }}
-              </div>
-
-              <!-- Icon Overlay -->
-              <div class="absolute bottom-3 rtl:right-4 ltr:left-4 text-3xl drop-shadow-md">
-                {{ service.icon }}
-              </div>
+            <div class="flex items-center gap-3">
+              <span class="w-10 h-10 shrink-0 rounded-full bg-[#191919] text-[#E99E15] font-black flex items-center justify-center">{{ idx + 1 }}</span>
+              <h3 class="text-lg font-bold text-gray-900 dark:text-white leading-snug">{{ service.title[locale] }}</h3>
             </div>
-
-            <!-- Card Body -->
-            <div class="p-6 flex-1 flex flex-col justify-between">
-              <div>
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-3 group-hover:text-primary transition-colors leading-tight">
-                  {{ service.title[locale] }}
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 text-sm leading-relaxed mb-4">
-                  {{ service.desc[locale] }}
-                </p>
-              </div>
-
-              <!-- Features Mini Bullet Points -->
-              <div class="pt-4 border-t border-gray-100 dark:border-gray-700/60 mt-auto">
-                <div class="flex items-center gap-2 text-xs font-bold text-[#E99E15]">
-                  <span>✓</span>
-                  <span>{{ service.highlight[locale] }}</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+            <p class="text-gray-600 dark:text-gray-400 text-sm leading-relaxed">{{ service.desc[locale] }}</p>
+          </li>
+        </ol>
 
         <!-- View More Services Button -->
         <div class="text-center" data-aos="fade-up">
@@ -410,39 +374,16 @@ const articles = computed(() => {
   return [...featured, ...nonFeatured].slice(0, 6)
 })
 
+// The eight service stages, numbered 1-8 as in the company profile
 const homeServices = [
-  {
-    icon: '📋',
-    stage: { ar: 'المرحلة 01', en: 'Stage 01' },
-    image: 'https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=600&q=80',
-    title: { ar: 'دراسة الاحتياج والمعاينة', en: 'Requirement Assessment & Site Survey' },
-    desc: { ar: 'دراسة دقيقة لاحتياجات العميل ومعاينة ميدانية للموقع لفهم ظروف التشغيل والمتطلبات الفنية.', en: 'Comprehensive assessment of customer needs and site survey to understand operating conditions.' },
-    highlight: { ar: 'معاينة ميدانية وتقارير فنية', en: 'Site survey & technical reporting' }
-  },
-  {
-    icon: '💡',
-    stage: { ar: 'المرحلة 02', en: 'Stage 02' },
-    image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=600&q=80',
-    title: { ar: 'المقترح الفني والتجاري', en: 'Technical & Commercial Proposal' },
-    desc: { ar: 'اختيار الحل الهندسي الأنسب وإعداد عروض فنية ومالية شفافة ومطابقة للمواصفات.', en: 'Selecting optimal engineering solutions and preparing transparent technical proposals.' },
-    highlight: { ar: 'عروض أسعار ودراسات متكاملة', en: 'Complete proposals & studies' }
-  },
-  {
-    icon: '🛠️',
-    stage: { ar: 'المرحلة 04', en: 'Stage 04' },
-    image: 'https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=600&q=80',
-    title: { ar: 'التركيب والإشراف الفني', en: 'Installation & Technical Supervision' },
-    desc: { ar: 'تنفيذ أعمال التركيب الميداني بأيدي مهندسين وفنيين معتمدين وفق معايير السلامة المهنية.', en: 'Executing site installations by certified engineers following strict safety standards.' },
-    highlight: { ar: 'إشراف هندسي معتمد', en: 'Certified engineering supervision' }
-  },
-  {
-    icon: '🔧',
-    stage: { ar: 'المرحلة 07', en: 'Stage 07' },
-    image: 'https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=600&q=80',
-    title: { ar: 'الصيانة الوقائية والتصحيحية', en: 'Preventive & Corrective Maintenance' },
-    desc: { ar: 'عقود صيانة دورية مرنة واستجابة سريعة للأعطال للحفاظ على استمرارية الإنتاج.', en: 'Flexible routine maintenance contracts and rapid fault response to ensure uptime.' },
-    highlight: { ar: 'عقود صيانة دورية ومرنة', en: 'Flexible maintenance contracts' }
-  }
+  { title: { ar: 'دراسة المتطلبات والمعاينة الميدانية', en: 'Requirements Study & Site Survey' }, desc: { ar: 'نعاين الموقع ونفهم ظروف التشغيل والمتطلبات الفنية قبل أي عرض.', en: 'We survey the site and understand operating conditions and technical requirements before any offer.' } },
+  { title: { ar: 'اختيار الحل والعرض الفني والتجاري', en: 'Solution Selection & Technical and Commercial Proposal' }, desc: { ar: 'نختار الحل المناسب للموقع ونقدّم عرضاً فنياً وتجارياً واضحاً.', en: 'We select the right solution for the site and submit a clear technical and commercial offer.' } },
+  { title: { ar: 'التوريد والخدمات اللوجستية', en: 'Supply & Logistics' }, desc: { ar: 'ننسّق التوريد والشحن والتخليص الجمركي حتى وصول المعدات إلى الموقع.', en: 'We coordinate supply, shipping and customs clearance until the equipment reaches the site.' } },
+  { title: { ar: 'التركيب أو الإشراف الفني', en: 'Installation or Technical Supervision' }, desc: { ar: 'نركّب المعدات بفريقنا الفني أو نشرف على تركيبها وفق إجراءات السلامة.', en: 'Our technical team installs the equipment or supervises its installation following safety procedures.' } },
+  { title: { ar: 'الاختبار والتشغيل والتسليم', en: 'Testing, Commissioning & Handover' }, desc: { ar: 'نختبر النظام ونشغّله ونسلّمه جاهزاً للعمل.', en: 'We test, commission and hand over a working system.' } },
+  { title: { ar: 'تدريب المشغلين', en: 'Operator Training' }, desc: { ar: 'ندرّب فريقك على التشغيل الصحيح والاستخدام الآمن وإجراءات الطوارئ.', en: 'We train your team on correct operation, safe use and emergency procedures.' } },
+  { title: { ar: 'الصيانة الوقائية والتصحيحية', en: 'Preventive & Corrective Maintenance' }, desc: { ar: 'صيانة دورية واستجابة للأعطال للحفاظ على استمرارية التشغيل.', en: 'Scheduled maintenance and fault response to keep operations running.' } },
+  { title: { ar: 'قطع الغيار وخدمة ما بعد البيع', en: 'Spare Parts & After-Sales Service' }, desc: { ar: 'نوفّر قطع الغيار ونتابع المعدات بعد التسليم.', en: 'We supply spare parts and support the equipment after handover.' } }
 ]
 
 const features = [

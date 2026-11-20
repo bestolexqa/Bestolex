@@ -13,11 +13,11 @@
         v-if="!showBanner && !showModal"
         @click="openModal"
         type="button"
-        class="fixed bottom-6 left-6 z-40 bg-gray-900/90 dark:bg-gray-800/90 backdrop-blur-md text-amber-400 hover:text-white border border-amber-500/40 hover:border-amber-400 p-3 rounded-full shadow-2xl hover:shadow-amber-500/30 hover:scale-110 transition-all duration-300 group flex items-center justify-center"
+        class="fixed bottom-4 left-4 md:bottom-6 md:left-6 z-40 bg-gray-900/90 dark:bg-gray-800/90 backdrop-blur-md text-amber-400 hover:text-white border border-amber-500/40 hover:border-amber-400 p-2 md:p-3 rounded-full shadow-2xl hover:shadow-amber-500/30 hover:scale-110 transition-all duration-300 group flex items-center justify-center"
         :title="isAr ? 'إعدادات ملفات الارتباط والخصوصية' : 'Cookie & Privacy Settings'"
         :aria-label="isAr ? 'إعدادات ملفات الارتباط' : 'Cookie Settings'"
       >
-        <span class="text-xl group-hover:rotate-12 transition-transform duration-300">🍪</span>
+        <span class="text-base md:text-xl group-hover:rotate-12 transition-transform duration-300">🍪</span>
         <span class="max-w-0 overflow-hidden whitespace-nowrap group-hover:max-w-xs transition-all duration-500 text-xs font-bold text-white px-0 group-hover:px-2">
           {{ isAr ? 'إعدادات الخصوصية' : 'Privacy Settings' }}
         </span>
@@ -35,29 +35,30 @@
     >
       <div
         v-if="showBanner && !showModal"
-        class="fixed bottom-0 inset-x-0 z-50 p-4 md:p-6 bg-gray-950/95 dark:bg-gray-900/95 backdrop-blur-xl border-t border-amber-500/30 shadow-[0_-10px_40px_rgba(0,0,0,0.6)] text-white"
+        class="fixed bottom-0 inset-x-0 z-50 px-3 py-3 md:p-6 bg-gray-950/95 dark:bg-gray-900/95 backdrop-blur-xl border-t border-amber-500/30 shadow-[0_-10px_40px_rgba(0,0,0,0.6)] text-white"
         role="dialog"
         aria-labelledby="cookie-banner-title"
         aria-describedby="cookie-banner-desc"
       >
-        <div class="container mx-auto max-w-7xl flex flex-col lg:flex-row items-start lg:items-center justify-between gap-6">
+        <div class="container mx-auto max-w-7xl flex flex-col lg:flex-row items-start lg:items-center justify-between gap-3 md:gap-6">
           <!-- Text and Info -->
           <div class="flex items-start gap-4 flex-1">
-            <div class="w-12 h-12 rounded-2xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-2xl flex-shrink-0 shadow-inner">
+            <div class="hidden md:flex w-12 h-12 rounded-2xl bg-amber-500/10 border border-amber-500/30 items-center justify-center text-2xl flex-shrink-0 shadow-inner">
               🍪
             </div>
             <div class="space-y-1.5">
-              <h3 id="cookie-banner-title" class="font-extrabold text-base md:text-lg text-white flex items-center gap-2">
-                <span>{{ isAr ? 'نحترم خصوصيتك وخياراتك' : 'We Value Your Privacy & Choices' }}</span>
-                <span class="text-xs bg-amber-500/20 text-amber-400 px-2 py-0.5 rounded-full font-medium border border-amber-500/30">
-                  {{ isAr ? 'وضع الموافقة من جوجل' : 'Google Consent Mode' }}
-                </span>
+              <h3 id="cookie-banner-title" class="font-extrabold text-sm md:text-lg text-white">
+                {{ isAr ? 'نحترم خصوصيتك وخياراتك' : 'We Value Your Privacy & Choices' }}
               </h3>
               <p id="cookie-banner-desc" class="text-xs md:text-sm text-gray-300 dark:text-gray-300 leading-relaxed max-w-4xl">
-                {{ isAr
+                <span class="md:hidden">{{ isAr
+                  ? 'نستخدم ملفات الارتباط لتحسين الموقع، وملفات التحليلات معطلة حتى توافق.'
+                  : 'We use cookies to improve the site; analytics stay off until you agree.'
+                }}</span>
+                <span class="hidden md:inline">{{ isAr
                   ? 'نستخدم ملفات تعريف الارتباط لتحسين تجربة التصفح، وتحليل أداء الموقع عبر أدوات القياس، وتقديم محتوى يلائم اهتماماتك. تبقى ملفات التحليلات والإعلانات معطلة افتراضياً حتى تمنحنا موافقتك الصريحة وفق المعايير الدولية.'
                   : 'We use cookies to enhance your browsing experience, analyze site performance via analytics tools, and deliver relevant content. Analytics and advertising cookies remain disabled by default until you grant explicit consent.'
-                }}
+                }}</span>
                 <NuxtLink :to="localePath('/privacy')" class="text-amber-400 hover:text-amber-300 underline font-semibold transition ml-1 mr-1">
                   {{ isAr ? 'سياسة الخصوصية وملفات الارتباط' : 'Privacy & Cookie Policy' }}
                 </NuxtLink>
@@ -66,22 +67,22 @@
           </div>
 
           <!-- Actions -->
-          <div class="flex flex-wrap items-center gap-3 w-full lg:w-auto justify-end flex-shrink-0">
+          <div class="flex items-center gap-2 md:gap-3 w-full lg:w-auto justify-end flex-shrink-0">
             <!-- Customize -->
             <button
               @click="openModal"
               type="button"
-              class="px-4 py-2.5 rounded-xl border border-gray-700 bg-gray-800/80 hover:bg-gray-800 text-gray-200 hover:text-white text-xs md:text-sm font-bold transition duration-200 hover:border-gray-500 flex items-center gap-1.5"
+              class="px-3 md:px-4 py-2 md:py-2.5 rounded-xl border border-gray-700 bg-gray-800/80 hover:bg-gray-800 text-gray-200 hover:text-white text-xs md:text-sm font-bold transition duration-200 hover:border-gray-500 flex items-center gap-1.5"
             >
-              <span>⚙️</span>
-              <span>{{ isAr ? 'تخصيص الخيارات' : 'Customize' }}</span>
+              <span class="hidden md:inline">⚙️</span>
+              <span>{{ isAr ? 'تخصيص' : 'Customize' }}</span>
             </button>
 
             <!-- Reject Non-Essential -->
             <button
               @click="rejectNonEssential"
               type="button"
-              class="px-5 py-2.5 rounded-xl border border-gray-600/80 bg-gray-900 hover:bg-gray-800 text-gray-200 hover:text-white text-xs md:text-sm font-bold transition duration-200 shadow-sm"
+              class="px-3 md:px-5 py-2 md:py-2.5 rounded-xl border border-gray-600/80 bg-gray-900 hover:bg-gray-800 text-gray-200 hover:text-white text-xs md:text-sm font-bold transition duration-200 shadow-sm"
             >
               {{ isAr ? 'رفض غير الضروري' : 'Reject Non-Essential' }}
             </button>
@@ -90,7 +91,7 @@
             <button
               @click="acceptAll"
               type="button"
-              class="px-6 py-2.5 rounded-xl bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-gray-950 font-black text-xs md:text-sm shadow-lg shadow-amber-500/20 hover:shadow-amber-500/40 transition duration-200"
+              class="px-4 md:px-6 py-2 md:py-2.5 rounded-xl bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-gray-950 font-black text-xs md:text-sm shadow-lg shadow-amber-500/20 hover:shadow-amber-500/40 transition duration-200"
             >
               {{ isAr ? 'قبول الكل' : 'Accept All' }}
             </button>
