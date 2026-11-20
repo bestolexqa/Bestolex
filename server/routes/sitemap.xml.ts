@@ -1,5 +1,6 @@
 import productCategories from '~~/data/products.json'
 import { getCachedArticles } from '~~/server/utils/blogStorage'
+import { withRepoArticles } from '~~/server/utils/repoArticles'
 
 const BASE = 'https://www.bestolex.com'
 
@@ -42,7 +43,7 @@ export default defineEventHandler(async (event) => {
     }
   }
 
-  const articles = await getCachedArticles().catch(() => [])
+  const articles = await withRepoArticles(await getCachedArticles().catch(() => []))
   for (const article of articles as any[]) {
     const id = article?.id || article?.slug
     if (!id) continue

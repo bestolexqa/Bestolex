@@ -1,5 +1,6 @@
 import productCategories from '~~/data/products.json'
 import { getCachedArticles } from '~~/server/utils/blogStorage'
+import { withRepoArticles } from '~~/server/utils/repoArticles'
 import { BUSINESS, SITE_URL } from '~~/utils/seo'
 
 // GET /llms.txt — a short Markdown map of the site for AI assistants and agents (https://llmstxt.org).
@@ -55,7 +56,7 @@ export default defineEventHandler(async (event) => {
   lines.push(`- [Blog](${SITE_URL}/en/blog)`)
   lines.push('')
 
-  const articles = (await getCachedArticles().catch(() => []) as any[])
+  const articles = (await withRepoArticles(await getCachedArticles().catch(() => [])) as any[])
     .filter(a => (a?.id || a?.slug) && a.isPublished !== false && a.is_published !== false)
     .slice(0, 30)
   if (articles.length) {

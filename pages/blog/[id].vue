@@ -38,6 +38,14 @@
             <span>👤</span>
             <span>{{ locale === 'ar' ? 'فريق بيستوليكس الهندسي' : 'Bestolex Engineering Team' }}</span>
           </div>
+          <div v-if="article.reviewer?.[locale]" class="flex items-center gap-2">
+            <span>✔️</span>
+            <span>{{ locale === 'ar' ? 'مراجعة فنية:' : 'Technical review:' }} {{ article.reviewer[locale] }}</span>
+          </div>
+          <div v-if="article.updatedAt && article.updatedAt !== article.date" class="flex items-center gap-2">
+            <span>🔄</span>
+            <span>{{ locale === 'ar' ? 'آخر تحديث' : 'Updated' }} {{ article.updatedAt }}</span>
+          </div>
           <div class="flex items-center gap-2">
             <span>📅</span>
             <span>{{ article.date }}</span>
@@ -53,7 +61,7 @@
       <div class="relative h-[300px] sm:h-[450px] rounded-3xl overflow-hidden shadow-2xl mb-12 border border-gray-100 dark:border-gray-800" data-aos="zoom-in">
         <NuxtImg 
           :src="article.image" 
-          :alt="article.title[locale]" 
+          :alt="article.imageAlt?.[locale] || article.title[locale]" 
           class="w-full h-full object-cover" 
           format="webp" 
           loading="eager" 
@@ -63,6 +71,44 @@
       <!-- Main Body Text -->
       <div class="prose prose-lg dark:prose-invert max-w-none bg-white dark:bg-gray-800 rounded-3xl p-6 sm:p-12 shadow-xl border border-gray-100 dark:border-gray-700 mb-16 text-gray-800 dark:text-gray-200 leading-relaxed text-base sm:text-lg article-content" data-aos="fade-up" v-html="articleHtml">
       </div>
+
+      <!-- FAQ (repo articles; mirrored in FAQPage structured data) -->
+      <section v-if="faqItems.length" class="bg-white dark:bg-gray-800 rounded-3xl p-6 sm:p-10 shadow-xl border border-gray-100 dark:border-gray-700 mb-16" data-aos="fade-up">
+        <h2 class="text-2xl md:text-3xl font-black text-gray-900 dark:text-white mb-6">
+          {{ locale === 'ar' ? 'أسئلة شائعة' : 'Frequently Asked Questions' }}
+        </h2>
+        <div class="divide-y divide-gray-100 dark:divide-gray-700">
+          <details v-for="(item, i) in faqItems" :key="i" class="py-4 group" :open="i === 0">
+            <summary class="cursor-pointer font-bold text-gray-900 dark:text-white text-base sm:text-lg list-none flex items-start justify-between gap-4">
+              <span>{{ item.q }}</span>
+              <span class="text-primary transition group-open:rotate-45 text-xl leading-none">+</span>
+            </summary>
+            <p class="mt-3 text-gray-700 dark:text-gray-300 leading-relaxed">{{ item.a }}</p>
+          </details>
+        </div>
+      </section>
+
+      <!-- Products discussed in the article, each with a quote request -->
+      <section v-if="relatedProducts.length" class="mb-16" data-aos="fade-up">
+        <h2 class="text-2xl font-black text-gray-900 dark:text-white mb-8 text-center md:text-start">
+          {{ locale === 'ar' ? 'المنتجات المذكورة في المقال' : 'Products in This Article' }}
+        </h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div v-for="p in relatedProducts" :key="p.id" class="bg-white dark:bg-gray-800 rounded-2xl overflow-hidden shadow border border-gray-100 dark:border-gray-700 flex flex-col">
+            <NuxtLink :to="localePath(`/products/${p.id}`)" class="block h-44 overflow-hidden bg-white">
+              <NuxtImg v-if="p.image" :src="p.image" :alt="p.name?.[locale]" class="w-full h-full object-contain p-2" format="webp" loading="lazy" sizes="400px" />
+            </NuxtLink>
+            <div class="p-5 flex-1 flex flex-col gap-4 justify-between">
+              <NuxtLink :to="localePath(`/products/${p.id}`)" class="font-bold text-gray-900 dark:text-white hover:text-primary transition">
+                {{ p.name?.[locale] }}
+              </NuxtLink>
+              <a :href="quoteLink(p)" target="_blank" rel="noopener" class="bg-primary hover:bg-orange-600 text-white text-sm font-bold px-4 py-2.5 rounded-xl text-center transition">
+                {{ locale === 'ar' ? 'اطلب عرض سعر' : 'Request a Quote' }}
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
 
       <!-- Call to Action Banner inside Article -->
       <div class="bg-gradient-to-r from-[#121c2d] to-[#1e2d42] text-white rounded-3xl p-8 md:p-10 shadow-2xl text-center mb-16" data-aos="fade-up">
@@ -140,8 +186,23 @@ if (!article.value) {
 
 const relatedArticles = computed(() => {
   if (!article.value) return []
+  if (Array.isArray(article.value.related) && article.value.related.length) return article.value.related.slice(0, 2)
   return mockArticles.filter(a => a.id !== article.value.id && a.slug !== article.value.id).slice(0, 2)
 })
+
+// Repo articles (server/assets/blog) may carry FAQ items and the products they discuss.
+const faqItems = computed(() => (Array.isArray(article.value?.faq) ? article.value.faq : [])
+  .map(item => ({ q: item?.q?.[locale.value] || '', a: item?.a?.[locale.value] || '' }))
+  .filter(item => item.q && item.a))
+const relatedProducts = computed(() => (Array.isArray(article.value?.relatedProducts) ? article.value.relatedProducts : [])
+  .filter(p => p?.id))
+const quoteLink = (p) => {
+  const name = p?.name?.[locale.value] || p?.id
+  const text = locale.value === 'ar'
+    ? `مرحباً، أرغب في عرض سعر لـ: ${name}`
+    : `Hello, I would like a quotation for: ${name}`
+  return `https://wa.me/97451505014?text=${encodeURIComponent(text)}`
+}
 
 const isAr = computed(() => locale.value === 'ar')
 
@@ -155,12 +216,12 @@ const articleDesc = computed(() => seoDescription(
 
 useSeoMeta({
   title: () => article.value
-    ? seoTitle(articleTitle.value, locale.value)
+    ? (article.value?.seoTitle?.[locale.value] || seoTitle(articleTitle.value, locale.value))
     : (isAr.value ? 'المقال | مدونة بيستوليكس' : 'Article | Bestolex Blog'),
   description: articleDesc,
   ogTitle: () => articleTitle.value || 'Bestolex Article',
   ogDescription: articleDesc,
-  ogImage: () => article.value?.image || BUSINESS.image,
+  ogImage: () => (article.value?.image ? (article.value.image.startsWith('/') ? `${SITE_URL}${article.value.image}` : article.value.image) : BUSINESS.image),
   ogType: 'article'
 })
 
@@ -175,7 +236,7 @@ useHead(() => ({
         '@id': `${articleUrl.value}#article`,
         'headline': articleTitle.value || 'Engineering Article',
         'description': articleDesc.value,
-        'image': article.value?.image ? [article.value.image] : [BUSINESS.image],
+        'image': article.value?.image ? [article.value.image.startsWith('/') ? `${SITE_URL}${article.value.image}` : article.value.image] : [BUSINESS.image],
         'datePublished': article.value?.date || undefined,
         'dateModified': article.value?.updatedAt || article.value?.date || undefined,
         'inLanguage': isAr.value ? 'ar-QA' : 'en',
@@ -185,6 +246,19 @@ useHead(() => ({
         'mainEntityOfPage': { '@type': 'WebPage', '@id': articleUrl.value }
       })
     },
+    ...(faqItems.value.length ? [{
+      type: 'application/ld+json',
+      key: 'ld-faq',
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        'mainEntity': faqItems.value.map(item => ({
+          '@type': 'Question',
+          'name': item.q,
+          'acceptedAnswer': { '@type': 'Answer', 'text': item.a }
+        }))
+      })
+    }] : []),
     {
       type: 'application/ld+json',
       key: 'ld-breadcrumb',
@@ -253,6 +327,76 @@ useHead(() => ({
   font-style: italic;
 }
 
+.article-content :deep(.table-wrap) {
+  overflow-x: auto;
+  margin: 1.5em 0;
+  border-radius: 0.75rem;
+  border: 1px solid #e5e7eb;
+}
+
+.article-content :deep(table) {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+
+.article-content :deep(th) {
+  background: #191919;
+  color: #ffffff;
+  font-weight: 700;
+  text-align: start;
+  padding: 0.75em 1em;
+  white-space: nowrap;
+}
+
+.article-content :deep(td) {
+  padding: 0.7em 1em;
+  border-top: 1px solid #e5e7eb;
+  vertical-align: top;
+}
+
+.article-content :deep(tbody tr:nth-child(even) td) {
+  background: #fafafa;
+}
+
+.dark .article-content :deep(.table-wrap) { border-color: #374151; }
+.dark .article-content :deep(td) { border-top-color: #374151; }
+.dark .article-content :deep(tbody tr:nth-child(even) td) { background: #1f2937; }
+
+.article-content :deep(figure) {
+  margin: 1.75em 0;
+}
+
+.article-content :deep(figure img) {
+  width: 100%;
+  height: auto;
+  max-height: 480px;
+  object-fit: contain;
+  background: #ffffff;
+  border-radius: 1rem;
+  border: 1px solid #e5e7eb;
+}
+
+.article-content :deep(figcaption) {
+  font-size: 0.85em;
+  color: #6b7280;
+  margin-top: 0.5em;
+  text-align: center;
+}
+
+.article-content :deep(.key-takeaways) {
+  background: #fff8e8;
+  border-inline-start: 4px solid #E99E05;
+  border-radius: 0.75rem;
+  padding: 1em 1.25em;
+  margin: 1.5em 0;
+}
+
+.dark .article-content :deep(.key-takeaways) {
+  background: #2a2316;
+}
+
 .article-content :deep(a) {
   color: #E99E15;
   text-decoration: underline;
@@ -278,21 +422,8 @@ useHead(() => ({
   margin: 2em 0;
 }
 
-.article-content :deep(table) {
-  width: 100%;
-  border-collapse: collapse;
-  margin-bottom: 1.5em;
-}
-
-.article-content :deep(th),
+/* Light column dividers, also for tables in older dashboard articles. */
 .article-content :deep(td) {
-  border: 1px solid #e5e7eb;
-  padding: 0.5rem 1rem;
-  text-align: start;
-}
-
-.article-content :deep(th) {
-  background-color: #f3f4f6;
-  font-weight: 700;
+  border-inline: 1px solid #f0f0f0;
 }
 </style>
