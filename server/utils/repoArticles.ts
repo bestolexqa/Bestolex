@@ -7,7 +7,38 @@
 // /api/blog, /api/blog/[id], /sitemap.xml and /llms.txt. Repo articles are read-only in the
 // dashboard (edits go through git).
 
+import blogRedirects from '~~/server/blog-meta/redirects.json'
+import blogOverrides from '~~/server/blog-meta/overrides.json'
+import { normalizeBlogCategory } from '~~/server/utils/blogCategories'
+
 type RepoArticle = Record<string, any>
+
+// Merged articles: the old URL answers 301 to the article it was merged into
+// (server/middleware/blog-redirects.ts) and drops out of every list, the sitemap and llms.txt.
+const REDIRECTS = new Map<string, string>(
+  ((blogRedirects as any).redirects || []).map((r: any) => [String(r.from), String(r.to)])
+)
+
+export function blogRedirectTarget(id: string): string | undefined {
+  return REDIRECTS.get(id)
+}
+
+// Metadata corrections for dashboard articles (category, SEO title, description, image alt)
+// kept in git so they survive the dashboard data. Repo articles carry their own metadata.
+const OVERRIDES: Record<string, any> = (blogOverrides as any).articles || {}
+
+function withOverride(article: any): any {
+  if (!article || article.source === 'repo') return article
+  const o = OVERRIDES[article.id || article.slug] || {}
+  const out: any = { ...article }
+  // Fixed category: the override first, else the old dashboard name mapped onto the fixed list.
+  const category = o.category || normalizeBlogCategory(article.category?.ar ?? article.category_ar ?? article.category)
+  if (category) Object.assign(out, { category, category_ar: category.ar, category_en: category.en })
+  if (o.seoTitle) out.seoTitle = o.seoTitle
+  if (o.desc) Object.assign(out, { desc: o.desc, excerpt_ar: o.desc.ar, excerpt_en: o.desc.en })
+  if (o.imageAlt) out.imageAlt = o.imageAlt
+  return out
+}
 
 let repoArticles: RepoArticle[] | null = null
 
@@ -50,13 +81,16 @@ export function isPublishedNow(article: RepoArticle, now = Date.now()): boolean 
 }
 
 // Live repo articles first for the same date, then dashboard articles, newest first.
-export async function withRepoArticles(list: any[]): Promise<any[]> {
+// Visitors: merged (redirected) articles are left out, and dashboard articles get their metadata
+// overrides and fixed category. The signed-in dashboard (`admin: true`) sees the stored data as is.
+export async function withRepoArticles(list: any[], opts: { admin?: boolean } = {}): Promise<any[]> {
   const scheduled = showScheduled()
   const repo = (await loadRepoArticles())
     .filter((a) => scheduled || isPublishedNow(a))
     .map((a) => ({ ...a }))
-  if (!repo.length) return list
   const taken = new Set(repo.flatMap((a) => [a.id, a.slug]))
-  const merged = [...repo, ...list.filter((a) => !taken.has(a?.id) && !taken.has(a?.slug))]
+  const kept = (a: any) => opts.admin || (!REDIRECTS.has(a?.id) && !REDIRECTS.has(a?.slug))
+  const dashboard = list.filter((a) => a && !taken.has(a?.id) && !taken.has(a?.slug) && kept(a))
+  const merged = [...repo.filter(kept), ...(opts.admin ? dashboard : dashboard.map(withOverride))]
   return merged.sort((a, b) => String(b?.date || '').localeCompare(String(a?.date || '')))
 }

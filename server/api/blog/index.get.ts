@@ -7,8 +7,9 @@ import { withRepoArticles } from '~~/server/utils/repoArticles'
 //                            which keeps their HTML payload small.
 export default defineEventHandler(async (event) => {
   // Visitors get the in-memory copy; a signed-in admin (dashboard) always sees the stored version.
-  const stored = isAdminRequest(event) ? await getStoredArticles() : await getCachedArticles()
-  const articles = await withRepoArticles(stored)
+  const admin = isAdminRequest(event)
+  const stored = admin ? await getStoredArticles() : await getCachedArticles()
+  const articles = await withRepoArticles(stored, { admin })
   if (getQuery(event).view !== 'list') return articles
   return articles.map(({ content, content_ar, content_en, faq, relatedProducts, ...card }: any) => card)
 })

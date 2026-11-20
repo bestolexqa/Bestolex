@@ -5,8 +5,9 @@ import { withRepoArticles } from '~~/server/utils/repoArticles'
 export default defineEventHandler(async (event) => {
   const id = getRouterParam(event, 'id')
   // Visitors get the in-memory copy; a signed-in admin always sees the stored version.
-  const stored = isAdminRequest(event) ? await getStoredArticles() : await getCachedArticles()
-  const list = await withRepoArticles(stored)
+  const admin = isAdminRequest(event)
+  const stored = admin ? await getStoredArticles() : await getCachedArticles()
+  const list = await withRepoArticles(stored, { admin })
 
   const found = list.find((a: any) => a.id === id || a.slug === id)
   if (found) {

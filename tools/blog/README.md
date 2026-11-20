@@ -144,3 +144,19 @@ Once a live article is corrected in the repo, edits to it in the dashboard no lo
 site; change the repo file instead. First batch: 15 articles, 20 Nov 2026 (`review.notes` in each
 file lists what changed).
 
+## Merged articles and metadata corrections (server/blog-meta/)
+
+Two git-tracked files change how dashboard (Bunny) articles appear without editing the dashboard data:
+
+- `server/blog-meta/redirects.json`: an article merged into another one. Its old URL answers **301** to the
+  target (`/blog/<id>`, `/en/blog/<id>` and `GET /api/blog/<id>`, in `server/middleware/blog-redirects.ts`), and it
+  leaves the blog lists, related articles, the sitemap and `llms.txt`. Never redirect a repo file (delete it) and
+  never point at an article that is itself redirected.
+- `server/blog-meta/overrides.json`: `category`, `seoTitle` and `desc` for a dashboard article, applied by
+  `withRepoArticles()` in `server/utils/repoArticles.ts`. The text still comes from the dashboard. Repo files keep
+  their own metadata, so an article moved into the repo needs no override.
+
+Run `python3 tools/blog/meta_check.py` after any change: categories from the fixed list, `seoTitle` 20–60 and
+`desc` 120–155 characters in both languages, the content rules, and no redirect chains.
+Changing these files changes the site: merge and deploy need the owner's confirmation (the daily-articles
+permission does not cover them).
