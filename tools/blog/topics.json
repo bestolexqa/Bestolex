@@ -4,244 +4,556 @@
   "topics": [
     {
       "id": "scissor-lift-table-guide-qatar",
-      "status": "planned",
+      "status": "published",
       "category": "أنظمة التحميل والمستودعات",
-      "keyword": { "en": "scissor lift", "ar": "رافعة مقصية", "volume": 590, "kd": 26 },
+      "keyword": {
+        "en": "scissor lift",
+        "ar": "رافعة مقصية",
+        "volume": 590,
+        "kd": 26
+      },
       "angle": "Buyer guide for hydraulic scissor lift tables: capacity, platform size, closed height, pit or surface mounting, safety features; fixed table vs movable scissor lift (the search intent is mixed with rental work platforms, so say clearly what each one is for).",
-      "products": ["scissors-lift", "movable-scissors-lifts"],
-      "tables": ["spec table scissors-lift", "comparison: fixed lift table vs movable scissor lift (use, height, capacity, mobility)"],
-      "avoidOverlapWith": ["كيف تساعد منصات العمل المرتفعة في تنفيذ مشاريع الصيانة والإنشاءات بكفاءة وأمان؟"]
+      "products": [
+        "scissors-lift",
+        "movable-scissors-lifts"
+      ],
+      "tables": [
+        "spec table scissors-lift",
+        "comparison: fixed lift table vs movable scissor lift (use, height, capacity, mobility)"
+      ],
+      "avoidOverlapWith": [
+        "كيف تساعد منصات العمل المرتفعة في تنفيذ مشاريع الصيانة والإنشاءات بكفاءة وأمان؟"
+      ],
+      "publishedAt": "2026-11-22T07:00:00+03:00",
+      "file": "server/assets/blog/scissor-lift-table-guide-qatar.json"
     },
     {
       "id": "bollards-types-guide-qatar",
-      "status": "planned",
+      "status": "published",
       "category": "الحماية المحيطية",
-      "keyword": { "en": "bollards", "ar": "بولارد", "volume": 390, "kd": 30 },
+      "keyword": {
+        "en": "bollards",
+        "ar": "بولارد",
+        "volume": 390,
+        "kd": 30
+      },
       "angle": "Types of bollards (fixed, removable, automatic/retractable hydraulic) and how to choose for entrances in Qatar: traffic frequency, security level, drainage and power at the site, integration with access control. Explain standards only as background; no crash rating for any product.",
-      "products": ["road-bollard", "road-blocker"],
-      "tables": ["comparison of bollard types (generic, no brands)", "spec table road-bollard"],
-      "avoidOverlapWith": ["كيف تساعد المصدات العمودية الأوتوماتيكية في تنظيم مداخل المركبات وحماية المنشآت؟", "اختيار حواجز أمن المركبات وفق طبيعة التهديد والموقع"]
+      "products": [
+        "road-bollard",
+        "road-blocker"
+      ],
+      "tables": [
+        "comparison of bollard types (generic, no brands)",
+        "spec table road-bollard"
+      ],
+      "avoidOverlapWith": [
+        "كيف تساعد المصدات العمودية الأوتوماتيكية في تنظيم مداخل المركبات وحماية المنشآت؟",
+        "اختيار حواجز أمن المركبات وفق طبيعة التهديد والموقع"
+      ],
+      "publishedAt": "2026-11-22T07:05:00+03:00",
+      "file": "server/assets/blog/bollards-types-guide-qatar.json"
     },
     {
       "id": "cardboard-baler-vertical-vs-horizontal",
       "status": "planned",
       "category": "النفايات وإعادة التدوير",
-      "keyword": { "en": "cardboard baler", "ar": "مكبس كرتون", "volume": 20, "kd": 19 },
+      "keyword": {
+        "en": "cardboard baler",
+        "ar": "مكبس كرتون",
+        "volume": 20,
+        "kd": 19
+      },
       "angle": "Vertical or horizontal cardboard baler: decide by daily volume, floor space, labour and bale weight; comparison of the 10T, 20T, 50T vertical presses and the 70T horizontal press from the catalog.",
-      "products": ["cardboard-plastic-baler-100", "cardboard-plastic-baler-200", "cardboard-plastic-baler-500", "horizontal-plastic-baler-70"],
-      "tables": ["compare_table of the four models", "decision table by daily volume / space / staff"],
-      "avoidOverlapWith": ["دليل هندسة الكبس الميكانيكي: كيف تحقق المكابس العمودية كفاءة استغلال المساحة", "دليل هندسة الكبس الهيدروليكي: كيف تحقق المكابس الأفقية كفاءة التشغيل"]
+      "products": [
+        "cardboard-plastic-baler-100",
+        "cardboard-plastic-baler-200",
+        "cardboard-plastic-baler-500",
+        "horizontal-plastic-baler-70"
+      ],
+      "tables": [
+        "compare_table of the four models",
+        "decision table by daily volume / space / staff"
+      ],
+      "avoidOverlapWith": [
+        "دليل هندسة الكبس الميكانيكي: كيف تحقق المكابس العمودية كفاءة استغلال المساحة",
+        "دليل هندسة الكبس الهيدروليكي: كيف تحقق المكابس الأفقية كفاءة التشغيل"
+      ]
     },
     {
       "id": "dock-shelter-inflatable-vs-retractable",
       "status": "planned",
       "category": "أنظمة التحميل والمستودعات",
-      "keyword": { "en": "dock shelter", "ar": "مظلة رصيف التحميل", "volume": 20, "kd": 13 },
+      "keyword": {
+        "en": "dock shelter",
+        "ar": "مظلة رصيف التحميل",
+        "volume": 20,
+        "kd": 13
+      },
       "angle": "Inflatable or retractable dock shelter for warehouses and cold stores in Qatar: sealing, truck mix, impact from poor positioning, heat and dust; when to pair with a hydraulic dock leveler.",
-      "products": ["inflatable-dock-shelter", "retractable-dock-shelter", "hydraulic-dock-leveler"],
-      "tables": ["compare_table inflatable vs retractable", "selection table by facility type"],
-      "avoidOverlapWith": ["التحكم الحراري يبدأ من بوابة التحميل: حماية البضائع والحفاظ على كفاءة سلاسل التبريد"]
+      "products": [
+        "inflatable-dock-shelter",
+        "retractable-dock-shelter",
+        "hydraulic-dock-leveler"
+      ],
+      "tables": [
+        "compare_table inflatable vs retractable",
+        "selection table by facility type"
+      ],
+      "avoidOverlapWith": [
+        "التحكم الحراري يبدأ من بوابة التحميل: حماية البضائع والحفاظ على كفاءة سلاسل التبريد"
+      ]
     },
     {
       "id": "garbage-compactor-buildings-qatar",
       "status": "planned",
       "category": "النفايات وإعادة التدوير",
-      "keyword": { "en": "garbage compactor", "ar": "ضاغط نفايات", "volume": 30, "kd": 19 },
+      "keyword": {
+        "en": "garbage compactor",
+        "ar": "ضاغط نفايات",
+        "volume": 30,
+        "kd": 19
+      },
       "angle": "Choosing a garbage compactor for residential towers, hotels, malls and hospitals in Doha and Lusail: vertical 2CY compactor vs refuse compactors for bins and containers; collection frequency, space, hygiene.",
-      "products": ["vertical-garbage-compactor-2cy", "persi-compactor", "pringer-compactor"],
-      "tables": ["compare_table of the three compactors", "fit table by building type"],
-      "avoidOverlapWith": ["ضاغط النفايات الصناعي: الدليل الشامل لاختيار مكبس النفايات الهيدروليكي", "الدليل الذكي لإدارة المنشآت الحديثة"]
+      "products": [
+        "vertical-garbage-compactor-2cy",
+        "persi-compactor",
+        "pringer-compactor"
+      ],
+      "tables": [
+        "compare_table of the three compactors",
+        "fit table by building type"
+      ],
+      "avoidOverlapWith": [
+        "ضاغط النفايات الصناعي: الدليل الشامل لاختيار مكبس النفايات الهيدروليكي",
+        "الدليل الذكي لإدارة المنشآت الحديثة"
+      ]
     },
     {
       "id": "tyre-killer-in-ground-vs-surface",
       "status": "planned",
       "category": "الحماية المحيطية",
-      "keyword": { "en": "tyre killer", "ar": "مفجر إطارات", "volume": 30, "kd": 0 },
+      "keyword": {
+        "en": "tyre killer",
+        "ar": "مفجر إطارات",
+        "volume": 30,
+        "kd": 0
+      },
       "angle": "In-ground or surface-mounted tyre killer: excavation, drainage, axle load, one-way traffic control, safety signage and integration with barriers; when a tyre killer is the right tool and when a road blocker is better.",
-      "products": ["tyre-killer", "above-ground-tyre-killer"],
-      "tables": ["compare_table tyre-killer vs above-ground-tyre-killer", "site checklist table"],
-      "avoidOverlapWith": ["اختيار حواجز أمن المركبات وفق طبيعة التهديد والموقع"]
+      "products": [
+        "tyre-killer",
+        "above-ground-tyre-killer"
+      ],
+      "tables": [
+        "compare_table tyre-killer vs above-ground-tyre-killer",
+        "site checklist table"
+      ],
+      "avoidOverlapWith": [
+        "اختيار حواجز أمن المركبات وفق طبيعة التهديد والموقع"
+      ]
     },
     {
       "id": "dock-leveler-selection-guide",
       "status": "planned",
       "category": "أنظمة التحميل والمستودعات",
-      "keyword": { "en": "dock leveler", "ar": "رصيف تحميل", "volume": 20, "kd": 0 },
+      "keyword": {
+        "en": "dock leveler",
+        "ar": "رصيف تحميل",
+        "volume": 20,
+        "kd": 0
+      },
       "angle": "How to specify a dock leveler: capacity, platform length vs height difference (gradient), lip type, pit preparation; hydraulic dock leveler vs manual loading bridge.",
-      "products": ["hydraulic-dock-leveler", "dock-leveler-inkema", "manual-loading-bridges"],
-      "tables": ["compare_table of the three", "specification checklist table"],
-      "avoidOverlapWith": ["كيف ترفع منصات التحميل (Dock Levelers) كفاءة المستودعات والموانئ؟", "أرصفة التحميل الحديثة: نقطة الانطلاق نحو عمليات لوجستية أكثر كفاءة"]
+      "products": [
+        "hydraulic-dock-leveler",
+        "dock-leveler-inkema",
+        "manual-loading-bridges"
+      ],
+      "tables": [
+        "compare_table of the three",
+        "specification checklist table"
+      ],
+      "avoidOverlapWith": [
+        "كيف ترفع منصات التحميل (Dock Levelers) كفاءة المستودعات والموانئ؟",
+        "أرصفة التحميل الحديثة: نقطة الانطلاق نحو عمليات لوجستية أكثر كفاءة"
+      ]
     },
     {
       "id": "turnstile-gate-selection-qatar",
       "status": "planned",
       "category": "الحماية المحيطية",
-      "keyword": { "en": "turnstile gate", "ar": "بوابة دوارة", "volume": 110, "kd": 10 },
+      "keyword": {
+        "en": "turnstile gate",
+        "ar": "بوابة دوارة",
+        "volume": 110,
+        "kd": 10
+      },
       "angle": "Selecting turnstile gates for offices, stadiums, ministries and factories in Qatar: throughput, passage width, access control integration, emergency release, outdoor protection rating.",
-      "products": ["turnstiles"],
-      "tables": ["spec table turnstiles", "selection table by site type"],
-      "avoidOverlapWith": ["كيف تساعد أنظمة التحكم في الدخول على تنظيم حركة الأفراد داخل المنشآت؟"]
+      "products": [
+        "turnstiles"
+      ],
+      "tables": [
+        "spec table turnstiles",
+        "selection table by site type"
+      ],
+      "avoidOverlapWith": [
+        "كيف تساعد أنظمة التحكم في الدخول على تنظيم حركة الأفراد داخل المنشآت؟"
+      ]
     },
     {
       "id": "goods-lift-vs-scissor-lift",
       "status": "planned",
       "category": "أنظمة التحميل والمستودعات",
-      "keyword": { "en": "goods lift", "ar": "مصعد بضائع", "volume": 20, "kd": 0 },
+      "keyword": {
+        "en": "goods lift",
+        "ar": "مصعد بضائع",
+        "volume": 20,
+        "kd": 0
+      },
       "angle": "Moving goods between floors and mezzanines: mast cargo lift vs scissor lift table; lifting height, capacity, footprint, building works.",
-      "products": ["mast-cargo-lift", "scissors-lift"],
-      "tables": ["compare_table mast-cargo-lift vs scissors-lift"],
-      "avoidOverlapWith": ["كيف تساهم حلول الرفع الذكية في تطوير كفاءة المستودعات والمنشآت متعددة الطوابق؟", "الرفع العمودي للمواد: مفتاح الكفاءة"]
+      "products": [
+        "mast-cargo-lift",
+        "scissors-lift"
+      ],
+      "tables": [
+        "compare_table mast-cargo-lift vs scissors-lift"
+      ],
+      "avoidOverlapWith": [
+        "كيف تساهم حلول الرفع الذكية في تطوير كفاءة المستودعات والمنشآت متعددة الطوابق؟",
+        "الرفع العمودي للمواد: مفتاح الكفاءة"
+      ]
     },
     {
       "id": "road-blocker-types-deep-shallow-surface",
       "status": "planned",
       "category": "الحماية المحيطية",
-      "keyword": { "en": "road blocker", "ar": "مصد طريق", "volume": 10, "kd": 0 },
+      "keyword": {
+        "en": "road blocker",
+        "ar": "مصد طريق",
+        "volume": 10,
+        "kd": 0
+      },
       "angle": "Deep, shallow or surface-mounted road blocker: excavation depth, utilities under the road, installation time, maintenance access; specification comparison across the four road blocker models.",
-      "products": ["road-blocker", "high-security-road-blocker", "high-security-shallow-road-blocker", "surface-mount-hydraulic-road-blocker"],
-      "tables": ["compare_table of the four models"],
-      "avoidOverlapWith": ["كيف يمكن تأمين مداخل المنشآت دون الحاجة إلى أعمال حفر عميقة؟", "كيف تحمي المنشآت الحساسة مداخلها من دخول المركبات غير المصرح به؟"]
+      "products": [
+        "road-blocker",
+        "high-security-road-blocker",
+        "high-security-shallow-road-blocker",
+        "surface-mount-hydraulic-road-blocker"
+      ],
+      "tables": [
+        "compare_table of the four models"
+      ],
+      "avoidOverlapWith": [
+        "كيف يمكن تأمين مداخل المنشآت دون الحاجة إلى أعمال حفر عميقة؟",
+        "كيف تحمي المنشآت الحساسة مداخلها من دخول المركبات غير المصرح به؟"
+      ]
     },
     {
       "id": "waste-compactor-vs-baler",
       "status": "planned",
       "category": "النفايات وإعادة التدوير",
-      "keyword": { "en": "waste compactor", "ar": "مكبس نفايات", "volume": 30, "kd": 0 },
+      "keyword": {
+        "en": "waste compactor",
+        "ar": "مكبس نفايات",
+        "volume": 30,
+        "kd": 0
+      },
       "angle": "Compactor or baler? Mixed waste vs recyclables, what each machine produces (compacted container vs sellable bale), who collects it, space and staffing; decision table for facilities in Qatar.",
-      "products": ["vertical-garbage-compactor-2cy", "cardboard-plastic-baler-200", "horizontal-plastic-baler-70"],
-      "tables": ["decision table compactor vs baler", "compare_table of the three"],
-      "avoidOverlapWith": ["كيف تساعد مكابس المخلفات في تقليل مساحة التخزين وتكاليف نقل الكرتون والبلاستيك؟"]
+      "products": [
+        "vertical-garbage-compactor-2cy",
+        "cardboard-plastic-baler-200",
+        "horizontal-plastic-baler-70"
+      ],
+      "tables": [
+        "decision table compactor vs baler",
+        "compare_table of the three"
+      ],
+      "avoidOverlapWith": [
+        "كيف تساعد مكابس المخلفات في تقليل مساحة التخزين وتكاليف نقل الكرتون والبلاستيك؟"
+      ]
     },
     {
       "id": "lifting-equipment-qatar-overview",
       "status": "planned",
       "category": "أنظمة التحميل والمستودعات",
-      "keyword": { "en": "lifting equipment suppliers in qatar", "ar": "معدات رفع في قطر", "volume": 20, "kd": 3 },
+      "keyword": {
+        "en": "lifting equipment suppliers in qatar",
+        "ar": "معدات رفع في قطر",
+        "volume": 20,
+        "kd": 3
+      },
       "angle": "A map of material lifting equipment for warehouses and buildings in Qatar: scissor lift table, movable scissor lift, mast cargo lift, wheelchair platform lift; what each solves, capacity and height ranges, and what to prepare before a site survey.",
-      "products": ["scissors-lift", "movable-scissors-lifts", "mast-cargo-lift", "wheelchair-lift"],
-      "tables": ["compare_table of the four"],
+      "products": [
+        "scissors-lift",
+        "movable-scissors-lifts",
+        "mast-cargo-lift",
+        "wheelchair-lift"
+      ],
+      "tables": [
+        "compare_table of the four"
+      ],
       "avoidOverlapWith": []
     },
     {
       "id": "scissor-lift-cost-factors-qatar",
       "status": "planned",
       "category": "أنظمة التحميل والمستودعات",
-      "keyword": { "en": "scissor lift price in qatar", "ar": "سعر الرافعة المقصية في قطر", "volume": 20, "kd": 3 },
+      "keyword": {
+        "en": "scissor lift price in qatar",
+        "ar": "سعر الرافعة المقصية في قطر",
+        "volume": 20,
+        "kd": 3
+      },
       "angle": "What drives the cost of a scissor lift table (capacity, platform size, height, mounting, finish, options, installation, after-sales) — explain the factors and the information needed for an accurate quotation. No figures or prices.",
-      "products": ["scissors-lift", "movable-scissors-lifts"],
-      "tables": ["cost factor table (factor, why it matters, what to tell us)"],
+      "products": [
+        "scissors-lift",
+        "movable-scissors-lifts"
+      ],
+      "tables": [
+        "cost factor table (factor, why it matters, what to tell us)"
+      ],
       "avoidOverlapWith": []
     },
     {
       "id": "automatic-hydraulic-bollard-how-it-works",
       "status": "planned",
       "category": "الحماية المحيطية",
-      "keyword": { "en": "automatic bollards", "ar": "بولارد أوتوماتيكي", "volume": 20, "kd": 9 },
+      "keyword": {
+        "en": "automatic bollards",
+        "ar": "بولارد أوتوماتيكي",
+        "volume": 20,
+        "kd": 9
+      },
       "angle": "How an automatic hydraulic bollard works (power unit, cycle, safety lights and photocells, emergency lowering), what the installation needs (pit, drainage, ducts), and a maintenance routine.",
-      "products": ["road-bollard"],
-      "tables": ["spec table road-bollard", "installation readiness checklist table"],
-      "avoidOverlapWith": ["كيف تساعد المصدات العمودية الأوتوماتيكية في تنظيم مداخل المركبات وحماية المنشآت؟"]
+      "products": [
+        "road-bollard"
+      ],
+      "tables": [
+        "spec table road-bollard",
+        "installation readiness checklist table"
+      ],
+      "avoidOverlapWith": [
+        "كيف تساعد المصدات العمودية الأوتوماتيكية في تنظيم مداخل المركبات وحماية المنشآت؟"
+      ]
     },
     {
       "id": "vertical-baler-size-selection",
       "status": "planned",
       "category": "النفايات وإعادة التدوير",
-      "keyword": { "en": "baling press", "ar": "مكبس بالات", "volume": null, "kd": null },
+      "keyword": {
+        "en": "baling press",
+        "ar": "مكبس بالات",
+        "volume": null,
+        "kd": null
+      },
       "angle": "Which vertical baling press size: 10T, 20T, 50T or 80T PET press; bale size and weight, feed opening, ceiling height and motor power from the catalog; matching to supermarkets, warehouses, factories and recycling yards.",
-      "products": ["cardboard-plastic-baler-100", "cardboard-plastic-baler-200", "cardboard-plastic-baler-500", "can-bottle-baler-80"],
-      "tables": ["compare_table of the four vertical presses"],
-      "avoidOverlapWith": ["مكبس الكرتون والبلاستيك العمودي 20 طن", "مكبس الكرتون والبلاستيك العمودي 80 طن"]
+      "products": [
+        "cardboard-plastic-baler-100",
+        "cardboard-plastic-baler-200",
+        "cardboard-plastic-baler-500",
+        "can-bottle-baler-80"
+      ],
+      "tables": [
+        "compare_table of the four vertical presses"
+      ],
+      "avoidOverlapWith": [
+        "مكبس الكرتون والبلاستيك العمودي 20 طن",
+        "مكبس الكرتون والبلاستيك العمودي 80 طن"
+      ]
     },
     {
       "id": "loading-dock-design-checklist",
       "status": "planned",
       "category": "أنظمة التحميل والمستودعات",
-      "keyword": { "en": "loading dock", "ar": "رصيف التحميل", "volume": 20, "kd": 0 },
+      "keyword": {
+        "en": "loading dock",
+        "ar": "رصيف التحميل",
+        "volume": 20,
+        "kd": 0
+      },
       "angle": "Planning a loading dock in a new or existing warehouse in Qatar: dock height, truck types, leveler, shelter, bumpers, door, lighting; a checklist the client can fill before the site survey.",
-      "products": ["hydraulic-dock-leveler", "inflatable-dock-shelter", "retractable-dock-shelter"],
-      "tables": ["checklist table (item, why, typical choice)"],
-      "avoidOverlapWith": ["كفاءة مناطق التحميل والتفريغ: الحلقة الأساسية في نجاح العمليات اللوجستية"]
+      "products": [
+        "hydraulic-dock-leveler",
+        "inflatable-dock-shelter",
+        "retractable-dock-shelter"
+      ],
+      "tables": [
+        "checklist table (item, why, typical choice)"
+      ],
+      "avoidOverlapWith": [
+        "كفاءة مناطق التحميل والتفريغ: الحلقة الأساسية في نجاح العمليات اللوجستية"
+      ]
     },
     {
       "id": "manual-bridge-vs-hydraulic-leveler",
       "status": "planned",
       "category": "أنظمة التحميل والمستودعات",
-      "keyword": { "en": "loading bridge", "ar": "جسر تحميل", "volume": null, "kd": null },
+      "keyword": {
+        "en": "loading bridge",
+        "ar": "جسر تحميل",
+        "volume": null,
+        "kd": null
+      },
       "angle": "Manual loading bridge or hydraulic dock leveler: height differences, traffic per day, power availability, budget class (no prices), maintenance.",
-      "products": ["manual-loading-bridges", "hydraulic-dock-leveler"],
-      "tables": ["compare_table manual-loading-bridges vs hydraulic-dock-leveler"],
-      "avoidOverlapWith": ["الحلول البسيطة تصنع فرقًا كبيرًا في كفاءة التحميل والتفريغ"]
+      "products": [
+        "manual-loading-bridges",
+        "hydraulic-dock-leveler"
+      ],
+      "tables": [
+        "compare_table manual-loading-bridges vs hydraulic-dock-leveler"
+      ],
+      "avoidOverlapWith": [
+        "الحلول البسيطة تصنع فرقًا كبيرًا في كفاءة التحميل والتفريغ"
+      ]
     },
     {
       "id": "horizontal-baler-manual-vs-automatic",
       "status": "planned",
       "category": "النفايات وإعادة التدوير",
-      "keyword": { "en": "horizontal baler", "ar": "مكبس أفقي", "volume": null, "kd": null },
+      "keyword": {
+        "en": "horizontal baler",
+        "ar": "مكبس أفقي",
+        "volume": null,
+        "kd": null
+      },
       "angle": "Horizontal baler with manual tying vs automatic tying: throughput, labour, feeding by conveyor, bale weight; the 70T press vs the automatic horizontal baler.",
-      "products": ["horizontal-plastic-baler-70", "auto-horizontal-baler"],
-      "tables": ["compare_table of the two"],
-      "avoidOverlapWith": ["مكبس نفايات أفقي: الحل الفعال لضغط النفايات وتحويلها إلى بالات كثيفة", "مكبس البلاستيك الأفقي: ضغط آلي عالي الكفاءة"]
+      "products": [
+        "horizontal-plastic-baler-70",
+        "auto-horizontal-baler"
+      ],
+      "tables": [
+        "compare_table of the two"
+      ],
+      "avoidOverlapWith": [
+        "مكبس نفايات أفقي: الحل الفعال لضغط النفايات وتحويلها إلى بالات كثيفة",
+        "مكبس البلاستيك الأفقي: ضغط آلي عالي الكفاءة"
+      ]
     },
     {
       "id": "baler-safety-operation-checklist",
       "status": "planned",
       "category": "النفايات وإعادة التدوير",
-      "keyword": { "en": "baler safety", "ar": "سلامة تشغيل المكبس", "volume": null, "kd": null },
+      "keyword": {
+        "en": "baler safety",
+        "ar": "سلامة تشغيل المكبس",
+        "volume": null,
+        "kd": null
+      },
       "angle": "Safe operation of vertical balers: interlocks, operator training, daily and monthly checks, bale handling; a printable checklist table. Use safety features named in the catalog only.",
-      "products": ["cardboard-plastic-baler-200", "cardboard-plastic-baler-500"],
-      "tables": ["daily/weekly/monthly checklist table"],
+      "products": [
+        "cardboard-plastic-baler-200",
+        "cardboard-plastic-baler-500"
+      ],
+      "tables": [
+        "daily/weekly/monthly checklist table"
+      ],
       "avoidOverlapWith": []
     },
     {
       "id": "dock-leveler-maintenance-checklist",
       "status": "planned",
       "category": "أنظمة التحميل والمستودعات",
-      "keyword": { "en": "dock leveler maintenance", "ar": "صيانة رصيف التحميل", "volume": null, "kd": null },
+      "keyword": {
+        "en": "dock leveler maintenance",
+        "ar": "صيانة رصيف التحميل",
+        "volume": null,
+        "kd": null
+      },
       "angle": "Monthly inspection checklist for hydraulic dock levelers (lip, hinges, hydraulics, controls, bumpers, safety legs) and signs that need a technician; part of Bestolex after-sales service stages.",
-      "products": ["hydraulic-dock-leveler"],
-      "tables": ["monthly checklist table"],
-      "avoidOverlapWith": ["حماية مناطق التحميل: استثمار ذكي لتعزيز كفاءة المستودعات"]
+      "products": [
+        "hydraulic-dock-leveler"
+      ],
+      "tables": [
+        "monthly checklist table"
+      ],
+      "avoidOverlapWith": [
+        "حماية مناطق التحميل: استثمار ذكي لتعزيز كفاءة المستودعات"
+      ]
     },
     {
       "id": "mobile-loading-dock-when-to-use",
       "status": "planned",
       "category": "أنظمة التحميل والمستودعات",
-      "keyword": { "en": "mobile loading ramp", "ar": "منصة تحميل متحركة", "volume": null, "kd": null },
+      "keyword": {
+        "en": "mobile loading ramp",
+        "ar": "منصة تحميل متحركة",
+        "volume": null,
+        "kd": null
+      },
       "angle": "When a mobile loading dock or movable ramp replaces a fixed dock: temporary sites, yards without docks, container stuffing; capacity and length comparison.",
-      "products": ["mobile-loading-dock", "movable-dock-ramp"],
-      "tables": ["compare_table of the two"],
-      "avoidOverlapWith": ["حلول التحميل المتنقلة: مرونة تشغيلية تواكب متطلبات المستودعات الحديثة", "مرونة أكبر في عمليات التحميل: كيف تساعد الحلول المتنقلة على تطوير الخدمات اللوجستية"]
+      "products": [
+        "mobile-loading-dock",
+        "movable-dock-ramp"
+      ],
+      "tables": [
+        "compare_table of the two"
+      ],
+      "avoidOverlapWith": [
+        "حلول التحميل المتنقلة: مرونة تشغيلية تواكب متطلبات المستودعات الحديثة",
+        "مرونة أكبر في عمليات التحميل: كيف تساعد الحلول المتنقلة على تطوير الخدمات اللوجستية"
+      ]
     },
     {
       "id": "pet-can-baler-recycling",
       "status": "planned",
       "category": "النفايات وإعادة التدوير",
-      "keyword": { "en": "pet bottle baler", "ar": "مكبس علب وقوارير", "volume": null, "kd": null },
+      "keyword": {
+        "en": "pet bottle baler",
+        "ar": "مكبس علب وقوارير",
+        "volume": null,
+        "kd": null
+      },
       "angle": "Baling PET bottles and cans at malls, stadium venues and recycling points: bale specs of the 80T PET press, storage and handover to recyclers.",
-      "products": ["can-bottle-baler-80"],
-      "tables": ["spec table can-bottle-baler-80"],
-      "avoidOverlapWith": ["مكبس الكرتون والبلاستيك العمودي 80 طن"]
+      "products": [
+        "can-bottle-baler-80"
+      ],
+      "tables": [
+        "spec table can-bottle-baler-80"
+      ],
+      "avoidOverlapWith": [
+        "مكبس الكرتون والبلاستيك العمودي 80 طن"
+      ]
     },
     {
       "id": "industrial-door-types-warehouse",
       "status": "planned",
       "blockedBy": "handoff task 38: door specifications on the site contradict the catalogue",
       "category": "الأبواب الصناعية",
-      "keyword": { "en": "industrial door", "ar": "أبواب صناعية", "volume": 20, "kd": 0 },
+      "keyword": {
+        "en": "industrial door",
+        "ar": "أبواب صناعية",
+        "volume": 20,
+        "kd": 0
+      },
       "angle": "High-speed roll-up door vs sectional door vs rolling shutter for warehouses in Qatar.",
-      "products": ["high-speed-doors", "industrial-sectional-doors"],
-      "tables": ["qualitative comparison"],
-      "avoidOverlapWith": ["أبواب الرول فائقة السرعة ودورها في تسريع حركة المستودعات", "دور الأبواب الصناعية في تحسين العزل"]
+      "products": [
+        "high-speed-doors",
+        "industrial-sectional-doors"
+      ],
+      "tables": [
+        "qualitative comparison"
+      ],
+      "avoidOverlapWith": [
+        "أبواب الرول فائقة السرعة ودورها في تسريع حركة المستودعات",
+        "دور الأبواب الصناعية في تحسين العزل"
+      ]
     },
     {
       "id": "shutter-door-vs-high-speed-door",
       "status": "planned",
       "blockedBy": "handoff task 38",
       "category": "الأبواب الصناعية",
-      "keyword": { "en": "shutter door", "ar": "شتر", "volume": 170, "kd": 18 },
+      "keyword": {
+        "en": "shutter door",
+        "ar": "شتر",
+        "volume": 170,
+        "kd": 18
+      },
       "angle": "Rolling shutter or high-speed door for warehouse openings.",
-      "products": ["high-speed-doors"],
-      "tables": ["qualitative comparison"],
+      "products": [
+        "high-speed-doors"
+      ],
+      "tables": [
+        "qualitative comparison"
+      ],
       "avoidOverlapWith": []
     }
   ]
