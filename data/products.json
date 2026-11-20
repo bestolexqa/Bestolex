@@ -108,7 +108,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "220/380V, 3Phase, 60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             }
           ],
           "en": [
@@ -134,7 +134,7 @@
             },
             {
               "label": "Electricity",
-              "value": "220/380V, 3Phase, 60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             }
           ]
         },
@@ -169,13 +169,63 @@
         "cardImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/persi-compactor/1.jpg",
         "seo": {
           "title": {
-            "en": "German Refuse Compactor 7–26 CY in Qatar",
-            "ar": "ضاغط نفايات ألماني من 7 إلى 26 ياردة مكعبة في قطر"
+            "ar": "ضاغط نفايات بنسبة ضغط 5:1 للمنشآت الكبيرة في قطر",
+            "en": "Refuse Compactor with 5:1 Compaction in Qatar"
           },
           "description": {
-            "en": "Hydraulic refuse compactor from 7 to 26 cubic yards for hotels, hospitals, schools and supermarkets in Qatar. Made in Germany. Get a quote from Bestolex.",
-            "ar": "ضاغط نفايات هيدروليكي ألماني الصنع بسعات من 7 إلى 26 ياردة مكعبة للفنادق والمستشفيات والمدارس ومحلات السوبر ماركت في قطر. اطلب عرض سعر من بيستوليكس."
+            "ar": "ضاغط نفايات هيدروليكي أفقي بنسبة ضغط 5:1 وفتحة تعبئة 2500 × 2500 مم للفنادق ومراكز التسوق والسوبر ماركت في قطر. اطلب عرض سعر من بيستوليكس.",
+            "en": "Horizontal hydraulic refuse compactor with a 5:1 ratio and a 2,500 × 2,500 mm opening for hotels, malls and supermarkets in Qatar. Get a quote."
           }
+        },
+        "summary": {
+          "ar": "ضاغط نفايات أفقي بلوحة ضغط هيدروليكية ونسبة ضغط 5:1 وفتحة تعبئة 2500 × 2500 مم، للكميات الكبيرة من النفايات التجارية والمواد القابلة لإعادة التدوير. مناسب للفنادق والمستشفيات (للنفايات العامة غير الطبية) ومراكز التسوق والسوبر ماركت ومصانع الأغذية في قطر، وتورّده بيستوليكس وتركّبه.",
+          "en": "A horizontal refuse compactor with a hydraulic pressing plate, a 5:1 compaction ratio and a 2,500 × 2,500 mm loading opening, for large volumes of commercial and recyclable waste. Suited to hotels, hospitals (general non-medical waste), shopping centres, supermarkets and food plants in Qatar; supplied and installed by Bestolex."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "كم يقلل الضاغط حجم النفايات؟",
+              "a": "نسبة الضغط 5:1، أي أن حجم النفايات يقل إلى نحو الخمس، فتُفرَّغ الحاوية مرات أقل وتقل رحلات النقل."
+            },
+            {
+              "q": "ما أبعاد الضاغط ووزنه؟",
+              "a": "6400 × 2550 × 2650 مم (طول × عرض × ارتفاع)، ووزنه 4200–4600 كجم، وقدرة محركه 4.0 كيلوواط."
+            },
+            {
+              "q": "هل يصلح للنفايات الطبية في المستشفيات؟",
+              "a": "لا. هو للنفايات العامة غير الطبية، أما النفايات الطبية فلها اشتراطات جمع ومعالجة خاصة."
+            },
+            {
+              "q": "هل يحدّ الضاغط من الروائح؟",
+              "a": "نعم، فهو يمنع الروائح والإفراط في تعبئة الحاوية، ويتيح التخلص السهل والصحي من النفايات."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "How much does the compactor reduce waste volume?",
+              "a": "The compaction ratio is 5:1, so waste shrinks to about a fifth of its loose volume, the container is emptied less often and fewer collection trips are needed."
+            },
+            {
+              "q": "What are its dimensions and weight?",
+              "a": "6,400 × 2,550 × 2,650 mm (L × W × H), 4,200–4,600 kg, with a 4.0 kW motor."
+            },
+            {
+              "q": "Can it take medical waste in hospitals?",
+              "a": "No. It is for general, non-medical waste; medical waste has its own collection and treatment requirements."
+            },
+            {
+              "q": "Does it help with odours?",
+              "a": "Yes. It prevents odours and overfilling and allows easy, hygienic waste disposal."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
         }
       },
       {
@@ -276,7 +326,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "380 فولت، 3 فاز، 60 هرتز"
+              "value": "415 فولت، 3 فاز، 50 هرتز"
             }
           ],
           "en": [
@@ -310,7 +360,7 @@
             },
             {
               "label": "Electricity",
-              "value": "380V, 3Phase, 60Hz"
+              "value": "415V, 3Phase, 50Hz"
             }
           ]
         },
@@ -334,9 +384,59 @@
             "ar": "مكبس أفقي أوتوماتيكي للكرتون والبلاستيك في قطر"
           },
           "description": {
-            "en": "Automatic horizontal baler with auto strapping and variable bale length for paper, plastic and cardboard in malls, factories and logistics sites in Qatar.",
-            "ar": "مكبس أفقي أوتوماتيكي بالكامل مع ربط تلقائي للبالات وطول بالة قابل للتعديل، للورق والبلاستيك والكرتون في المجمعات والمصانع والمراكز اللوجستية في قطر."
+            "ar": "مكبس أفقي أوتوماتيكي بقوة ضغط حتى 45 طناً وربط آلي للبالات، لمراكز التسوق والمستودعات والمراكز اللوجستية وشركات التدوير في قطر. اطلب عرض سعر من بيستوليكس.",
+            "en": "Automatic horizontal baler with up to 45 tonnes of pressing force and automatic bale tying for malls, warehouses and logistics sites in Qatar. Get a quote."
           }
+        },
+        "summary": {
+          "ar": "مكبس أفقي أوتوماتيكي يعمل هيدروليكياً، يضغط المواد القابلة لإعادة التدوير في بالات ويربطها آلياً، بقوة ضغط 22–45 طناً وبالات وزنها 300–400 كجم. مناسب لمراكز التسوق والمتاجر الكبرى والمستودعات والمطابع والمراكز اللوجستية وشركات إعادة التدوير في قطر، وتورّده بيستوليكس وتركّبه.",
+          "en": "A hydraulic automatic horizontal baler that compresses recyclables into bales and ties them automatically, with 22–45 tonnes of pressing force and 300–400 kg bales. Suited to shopping centres, department stores, warehouses, print shops, logistics centres and recyclers in Qatar; supplied and installed by Bestolex."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما قوة الضغط ووزن البالة؟",
+              "a": "قوة الضغط 22–45 طناً حسب الموديل، ووزن البالة 300–400 كجم."
+            },
+            {
+              "q": "هل يربط البالات تلقائياً؟",
+              "a": "نعم، الربط آلي بالكامل بثلاثة إلى أربعة أشرطة أو أسلاك حسب الموديل."
+            },
+            {
+              "q": "كم تستغرق دورة الكبس وما قدرة المحرك؟",
+              "a": "الدورة 24–34 ثانية، وقدرة المحرك 7.5–15.0 كيلوواط حسب الموديل."
+            },
+            {
+              "q": "متى أختار مكبساً أفقياً أوتوماتيكياً؟",
+              "a": "حين تكون كميات المواد القابلة لإعادة التدوير كبيرة، كما في مراكز التسوق والمستودعات والمراكز اللوجستية وشركات إعادة التدوير، إذ يجمع بين قوة ضغط هيدروليكية عالية وربط آلي كامل للبالات. وتحدد بيستوليكس الموديل المناسب بعد معرفة الكمية اليومية والمساحة المتاحة."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "What are the pressing force and bale weight?",
+              "a": "22–45 tonnes of pressing force depending on the model, and bales of 300–400 kg."
+            },
+            {
+              "q": "Does it tie the bales automatically?",
+              "a": "Yes, tying is fully automatic, with three to four straps or wires depending on the model."
+            },
+            {
+              "q": "How long is the cycle and how powerful is the motor?",
+              "a": "The cycle takes 24–34 seconds and the motor is 7.5–15.0 kW, depending on the model."
+            },
+            {
+              "q": "When is an automatic horizontal baler the right choice?",
+              "a": "When recyclables come in large volumes, as in shopping centres, warehouses, logistics centres and recycling companies. It combines high hydraulic pressing force with fully automatic bale tying, and Bestolex recommends the model once it knows the daily quantity and the space available."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
         }
       },
       {
@@ -452,7 +552,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "220/380 فولت، 3 فاز، 50/60 هرتز"
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             }
           ],
           "en": [
@@ -482,7 +582,7 @@
             },
             {
               "label": "Electricity",
-              "value": "220/380V, 3Phase, 50/60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             }
           ]
         },
@@ -555,7 +655,7 @@
             },
             {
               "q": "ما متطلبات التركيب؟",
-              "a": "مقاس المكبس 4000 × 1500 × 1500 مم، ومحرك 22 كيلوواط على تغذية 220/380 فولت ثلاثية الطور 50/60 هرتز."
+              "a": "مقاس المكبس 4000 × 1500 × 1500 مم، ومحرك 22 كيلوواط على تغذية 240/415 فولت ثلاثية الطور 50 هرتز."
             },
             {
               "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
@@ -577,7 +677,7 @@
             },
             {
               "q": "What are the installation requirements?",
-              "a": "The machine measures 4,000 × 1,500 × 1,500 mm and has a 22 kW motor on a 220/380 V three-phase 50/60 Hz supply."
+              "a": "The machine measures 4,000 × 1,500 × 1,500 mm and has a 22 kW motor on a 240/415 V three-phase 50 Hz supply."
             },
             {
               "q": "Does Bestolex supply, install and maintain it in Qatar?",
@@ -734,7 +834,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "220/380V, 3Phase, 60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             }
           ],
           "en": [
@@ -768,7 +868,7 @@
             },
             {
               "label": "Power Supply",
-              "value": "220/380V, 3Phase, 60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             }
           ]
         },
@@ -794,11 +894,61 @@
             "ar": "مكبس حديد 50 طناً للخردة المعدنية في قطر"
           },
           "description": {
-            "en": "50-ton steel press for steel, copper, aluminium and stainless scrap with a 75–90 second cycle, for recycling plants and steel makers in Qatar. Get a quote.",
-            "ar": "مكبس حديد بقوة 50 طناً لخردة الحديد والنحاس والألمنيوم والستانلس، بدورة 75–90 ثانية، لمصانع التدوير والحديد في قطر. اطلب عرض سعر من بيستوليكس."
+            "ar": "مكبس حديد بقوة 50 طناً لخردة الفولاذ والحديد والألومنيوم، بدورة 75–90 ثانية وبالات حتى 70 كجم، لمصانع التدوير والحديد في قطر. اطلب عرض سعر من بيستوليكس.",
+            "en": "50-ton steel press for steel, iron and aluminium scrap, with a 75–90 second cycle and bales of up to 70 kg, for recycling plants in Qatar. Get a quote."
           }
         },
-        "brand": "SAB TECH"
+        "brand": "SAB TECH",
+        "summary": {
+          "ar": "مكبس هيدروليكي بقوة 50 طناً يضغط خردة الفولاذ والحديد والألومنيوم في بالات كثيفة يصل وزنها إلى 70 كجم، فيوفر مساحة التخزين ويسهّل النقل وإعادة التدوير. مناسب لمصانع إعادة التدوير ومنشآت الصلب في قطر، وتورّده بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "A 50-tonne hydraulic press that compresses steel, iron and aluminium scrap into dense bales of up to 70 kg, saving storage space and making transport and recycling easier. Suited to recycling plants and steel facilities in Qatar; supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما المعادن التي يكبسها المكبس؟",
+              "a": "الفولاذ والحديد والألومنيوم."
+            },
+            {
+              "q": "ما مقاس البالة ووزنها؟",
+              "a": "مقاس البالة 150 × 600 × 500 مم، ووزنها حتى 70 كجم من الفولاذ أو الحديد، ومقاس صندوق الكبس 1000 × 600 × 500 مم."
+            },
+            {
+              "q": "كم تستغرق دورة الكبس؟",
+              "a": "من 75 إلى 90 ثانية."
+            },
+            {
+              "q": "ما قدرة المحرك وأبعاد الماكينة؟",
+              "a": "المحرك 22 كيلوواط، والماكينة 2872 × 1120 × 980 مم (طول × عرض × ارتفاع)."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "Which metals can it press?",
+              "a": "Steel, iron and aluminium."
+            },
+            {
+              "q": "What size and weight are the bales?",
+              "a": "Bales measure 150 × 600 × 500 mm and weigh up to 70 kg of steel or iron; the baling chamber is 1,000 × 600 × 500 mm."
+            },
+            {
+              "q": "How long is the pressing cycle?",
+              "a": "75 to 90 seconds."
+            },
+            {
+              "q": "What are the motor power and machine size?",
+              "a": "A 22 kW motor, and the machine measures 2,872 × 1,120 × 980 mm (L × W × H)."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "cardboard-plastic-baler-100",
@@ -1152,7 +1302,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "220/380V, 3Phase, 60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             }
           ],
           "en": [
@@ -1182,7 +1332,7 @@
             },
             {
               "label": "Electricity",
-              "value": "220/380V, 3Phase, 60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             }
           ]
         },
@@ -1234,7 +1384,57 @@
             "ar": "مكبس عمودي بقوة 20 طناً للكرتون والورق والبلاستيك في محلات السوبر ماركت والمستودعات والمصانع في قطر، ينتج بالات حتى 200 كجم. اطلب عرض سعر."
           }
         },
-        "brand": "SAB TECH"
+        "brand": "SAB TECH",
+        "summary": {
+          "ar": "مكبس الكرتون والبلاستيك العمودي 20 طناً يضغط الكرتون والورق المقوى والبلاستيك في بالات يصل وزنها إلى 200 كجم بمقاس 700 × 700 × 1100 مم، بنسبة تخفيض حجم 10:1. مناسب للسوبر ماركت والمطاعم والفنادق والمستشفيات والمصانع والمراكز اللوجستية في قطر، وتورّده بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "The Vertical Baling Press 20T compresses cardboard, paperboard and plastic into bales of up to 200 kg (700 × 700 × 1,100 mm), with a 10:1 volume reduction. Suited to supermarkets, restaurants, hotels, hospitals, factories and logistics centres in Qatar; supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما المواد التي يكبسها المكبس؟",
+              "a": "الكرتون والورق المقوى وبراميل الألياف والبلاستيك."
+            },
+            {
+              "q": "ما وزن البالة ومقاسها؟",
+              "a": "حتى 200 كجم حسب نوع المادة، بمقاس 700 × 700 × 1100 مم، وتُربط البالة من 3 فتحات."
+            },
+            {
+              "q": "ما المساحة والارتفاع اللذان يحتاجهما المكبس؟",
+              "a": "أبعاده 3000 مم ارتفاعاً × 900 مم طولاً × 1550 مم عرضاً، فيُراعى ارتفاع السقف والمساحة اللازمة حوله للتحميل وإخراج البالات عند معاينة الموقع."
+            },
+            {
+              "q": "هل يعمل آلياً أم يدوياً؟",
+              "a": "يوفر خيارات تشغيل آلية ويدوية بلوحة تحكم كهربائية، ومحركه 5.5 كيلوواط."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "What materials does it bale?",
+              "a": "Cardboard, paperboard, fibre drums and plastic."
+            },
+            {
+              "q": "What do the bales weigh and measure?",
+              "a": "Up to 200 kg depending on the material, at 700 × 700 × 1,100 mm, tied through 3 slots."
+            },
+            {
+              "q": "How much space and height does it need?",
+              "a": "It stands 3,000 mm high, 900 mm long and 1,550 mm wide, so ceiling height and the space around it for loading and bale removal are checked during the site survey."
+            },
+            {
+              "q": "Does it run automatically or manually?",
+              "a": "It offers automatic and manual operation through an electrical control panel, with a 5.5 kW motor."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "cardboard-plastic-baler-500",
@@ -1363,7 +1563,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "220/380V, 3Phase, 60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             }
           ],
           "en": [
@@ -1393,7 +1593,7 @@
             },
             {
               "label": "Electricity",
-              "value": "220/380V, 3Phase, 60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             }
           ]
         },
@@ -1444,11 +1644,61 @@
             "ar": "مكبس كرتون عمودي 50 طناً للكميات الكبيرة في قطر"
           },
           "description": {
-            "en": "50-ton vertical baler for high cardboard and plastic volumes in malls, wholesalers and factories in Qatar, with adjustable bale height and 500 kg bales.",
-            "ar": "مكبس عمودي بقوة 50 طناً للكميات الكبيرة من الكرتون والبلاستيك في المجمعات وتجار الجملة والمصانع في قطر، بارتفاع بالة قابل للتعديل وبالات حتى 500 كجم."
+            "ar": "مكبس كرتون وبلاستيك عمودي 50 طناً للكميات الكبيرة في المجمعات وتجار الجملة والمصانع في قطر، يُنتج بالات تصل إلى 500 كجم. اطلب عرض سعر من بيستوليكس.",
+            "en": "50T vertical baler for high cardboard and plastic volumes in malls, wholesalers and factories in Qatar, making bales of up to 500 kg. Request a quote."
           }
         },
-        "brand": "SAB TECH"
+        "brand": "SAB TECH",
+        "summary": {
+          "ar": "مكبس الكرتون والبلاستيك العمودي 50 طناً للكميات الكبيرة من الكرتون والبلاستيك والمنسوجات، يُنتج بالات يصل وزنها إلى 500 كجم بمقاس 1100 × 735 × 1580 مم، بنسبة تخفيض حجم 10:1. مناسب لتجارة الجملة ومراكز التسوق ومصانع إعادة التدوير والمصانع في قطر، وتورّده بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "The Vertical Baling Press 50T handles large volumes of cardboard, plastic and textiles, producing bales of up to 500 kg (1,100 × 735 × 1,580 mm) with a 10:1 volume reduction. Suited to wholesalers, shopping centres, recycling plants and factories in Qatar; supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما وزن البالة ومقاسها؟",
+              "a": "حتى 500 كجم حسب نوع المادة، بمقاس 1100 × 735 × 1580 مم، وتُربط البالة من 6 فتحات."
+            },
+            {
+              "q": "ما فتحة التعبئة وقدرة المحرك؟",
+              "a": "فتحة التعبئة 700 × 1400 مم، وقدرة المحرك 7.5 كيلوواط."
+            },
+            {
+              "q": "ما المساحة والارتفاع اللذان يحتاجهما المكبس؟",
+              "a": "أبعاده 3900 مم ارتفاعاً × 1050 مم طولاً × 2050 مم عرضاً، فيُراعى ارتفاع السقف والمساحة اللازمة للتحميل وإخراج البالات عند معاينة الموقع."
+            },
+            {
+              "q": "متى أختار مكبس 50 طناً بدل 20 طناً؟",
+              "a": "حين تكون الكميات أكبر: فمكبس 50 طناً ينتج بالات تصل إلى 500 كجم مقابل 200 كجم، وفتحة تعبئته 700 × 1400 مم مقابل 420 × 970 مم، لكنه يحتاج ارتفاعاً أكبر (3900 مم مقابل 3000 مم)."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "What do the bales weigh and measure?",
+              "a": "Up to 500 kg depending on the material, at 1,100 × 735 × 1,580 mm, tied through 6 slots."
+            },
+            {
+              "q": "What are the loading opening and motor power?",
+              "a": "The loading opening is 700 × 1,400 mm and the motor is 7.5 kW."
+            },
+            {
+              "q": "How much space and height does it need?",
+              "a": "It stands 3,900 mm high, 1,050 mm long and 2,050 mm wide, so ceiling height and room for loading and bale removal are checked during the site survey."
+            },
+            {
+              "q": "When should I choose the 50T over the 20T baler?",
+              "a": "When volumes are larger: the 50T makes bales of up to 500 kg against 200 kg, through a 700 × 1,400 mm opening against 420 × 970 mm, but it needs more height (3,900 mm against 3,000 mm)."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "can-bottle-baler-80",
@@ -1552,7 +1802,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "220/380 فولت، 3 فاز، 60 هيرتز"
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             }
           ],
           "en": [
@@ -1578,7 +1828,7 @@
             },
             {
               "label": "Electricity",
-              "value": "220/380V, 3Phase, 60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             }
           ]
         },
@@ -1643,7 +1893,57 @@
             "ar": "مكبس عمودي بقوة 80 طناً لعبوات PET والعلب والبلاستيك الخفيف والكرتون، بارتفاع بالة قابل للتعديل وبالات حتى 380 كجم من PET. اطلب عرض سعر في قطر."
           }
         },
-        "brand": "SAB TECH"
+        "brand": "SAB TECH",
+        "summary": {
+          "ar": "مكبس عمودي بقوة 80 طناً مخصص للقوارير البلاستيكية (PET) والعلب، ويكبس أيضاً الكرتون والبلاستيك والمنسوجات، مع إخراج تلقائي للبالة. يُنتج بالات يصل وزنها إلى 380 كجم من PET، ويناسب مصانع المشروبات وشركات إعادة التدوير ومنافذ البيع بالتجزئة في قطر، وتورّده بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "An 80-tonne vertical baler built for PET bottles and cans that also bales cardboard, plastic and textiles, with automatic bale ejection. It makes PET bales of up to 380 kg and suits beverage plants, recyclers and retailers in Qatar; supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما المواد المناسبة لهذا المكبس؟",
+              "a": "القوارير البلاستيكية والعلب أساساً، ويكبس أيضاً الكرتون المموج والبلاستيك والمنسوجات."
+            },
+            {
+              "q": "ما وزن البالة؟",
+              "a": "حتى 380 كجم من القوارير (PET)، ويختلف الوزن حسب نوع المادة."
+            },
+            {
+              "q": "هل تخرج البالة تلقائياً؟",
+              "a": "نعم، يخرج المكبس البالة تلقائياً بعد الكبس، فيقل الجهد اليدوي."
+            },
+            {
+              "q": "ما قدرة المحرك؟",
+              "a": "قدرة المحرك 15.0 كيلوواط."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "What materials is it for?",
+              "a": "Mainly PET bottles and cans; it also bales corrugated cardboard, plastic and textiles."
+            },
+            {
+              "q": "How heavy are the bales?",
+              "a": "Up to 380 kg of PET; the weight varies with the material."
+            },
+            {
+              "q": "Is bale ejection automatic?",
+              "a": "Yes, the baler ejects the bale automatically after pressing, which reduces manual handling."
+            },
+            {
+              "q": "How powerful is the motor?",
+              "a": "The motor is 15.0 kW."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "textile-baler",
@@ -1752,7 +2052,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "220/380V, 3Phase"
+              "value": "240/415V, 3Phase, 50Hz"
             }
           ],
           "en": [
@@ -1790,7 +2090,7 @@
             },
             {
               "label": "Electricity",
-              "value": "220/380V, 3Phase"
+              "value": "240/415V, 3Phase, 50Hz"
             }
           ]
         },
@@ -1818,7 +2118,57 @@
             "ar": "مكبس أقمشة بقوة 30 طناً للملابس المستعملة والصوف والقطن، بربط من جميع الجهات وبالات 65–75 كجم، لإعادة تدوير المنسوجات وتصديرها في قطر. اطلب عرض سعر."
           }
         },
-        "brand": "SAB TECH"
+        "brand": "SAB TECH",
+        "summary": {
+          "ar": "مكبس هيدروليكي بقوة 30 طناً (الموديل TCB30T) لحزم الملابس المستعملة والصوف والقطن في بالات منتظمة مقاسها 800 × 450 × 600 مم ووزنها 65–75 كجم، مع ربط البالة من جميع الجوانب. مناسب لمرافق إعادة تدوير الملابس وتصديرها في قطر، وتورّده بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "A 30-tonne hydraulic baler (model TCB30T) that packs used clothing, wool and cotton into uniform 800 × 450 × 600 mm bales of 65–75 kg, tied on all sides. Suited to clothing recycling and export facilities in Qatar; supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما المواد التي يكبسها المكبس؟",
+              "a": "الملابس المستعملة والصوف والقطن."
+            },
+            {
+              "q": "ما مقاس البالة ووزنها؟",
+              "a": "800 × 450 × 600 مم (طول × عرض × ارتفاع)، ووزنها 65–75 كجم."
+            },
+            {
+              "q": "كيف يعمل المكبس؟",
+              "a": "بصمام تحكم يدوي، وغرفة الكبس ترتفع إلى أعلى لإخراج البالة، وتُربط البالة من جميع الجوانب فتخرج متماسكة."
+            },
+            {
+              "q": "ما قدرة المحرك ووزن الماكينة؟",
+              "a": "المحرك 5.5 كيلوواط، ووزن الماكينة 1000 كجم."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "What does it bale?",
+              "a": "Used clothing, wool and cotton."
+            },
+            {
+              "q": "What size and weight are the bales?",
+              "a": "800 × 450 × 600 mm (L × W × H), weighing 65–75 kg."
+            },
+            {
+              "q": "How is it operated?",
+              "a": "With a manual control valve; the chamber lifts up to release the bale, which is tied on all sides so it stays compact."
+            },
+            {
+              "q": "What are the motor power and machine weight?",
+              "a": "A 5.5 kW motor; the machine weighs 1,000 kg."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "pringer-compactor",
@@ -1938,7 +2288,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "400V, 3Phase, 50Hz"
+              "value": "415V, 3Phase, 50Hz"
             }
           ],
           "en": [
@@ -1964,7 +2314,7 @@
             },
             {
               "label": "Electricity",
-              "value": "400V, 3Phase, 50Hz"
+              "value": "415V, 3Phase, 50Hz"
             }
           ]
         },
@@ -1991,9 +2341,59 @@
             "ar": "ضاغط نفايات برينجر في قطر"
           },
           "description": {
-            "en": "Industrial refuse compactor for hotels, hospitals, malls, supermarkets and food processors in Qatar, built for large volumes of commercial waste. Get a quote.",
-            "ar": "ضاغط نفايات صناعي للفنادق والمستشفيات ومراكز التسوق ومحلات السوبر ماركت ومصانع الأغذية في قطر، لكميات كبيرة من النفايات التجارية. اطلب عرض سعر."
+            "ar": "ضاغط نفايات برينجر للفنادق والمستشفيات ومراكز التسوق والسوبر ماركت ومصانع الأغذية في قطر، لا تتسرب منه السوائل حتى 250 مم. اطلب عرض سعر من بيستوليكس.",
+            "en": "Beringer refuse compactor for hotels, hospitals, malls, supermarkets and food plants in Qatar, liquid-tight to 250 mm with an 80% full signal. Get a quote."
           }
+        },
+        "summary": {
+          "ar": "ضاغط نفايات من برينجر (Beringer) بفتحة تعبئة 1380 × 2090 مم، لا تتسرب منه السوائل حتى ارتفاع 250 مم، ويعطي إشارة عند امتلائه بنسبة 80%. مناسب للفنادق والمستشفيات (للنفايات العامة غير الطبية) ومراكز التسوق والسوبر ماركت ومصانع الأغذية في قطر، وتورّده بيستوليكس وتركّبه.",
+          "en": "A Beringer refuse compactor with a 1,380 × 2,090 mm loading opening, liquid-tight up to 250 mm, with a signal when it is 80% full. Suited to hotels, hospitals (general non-medical waste), shopping centres, supermarkets and food plants in Qatar; supplied and installed by Bestolex."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "هل يمنع الضاغط تسرب السوائل؟",
+              "a": "نعم، لا تتسرب منه السوائل حتى ارتفاع 250 مم."
+            },
+            {
+              "q": "كيف أعرف أن الضاغط امتلأ؟",
+              "a": "يعطي إشارة امتلاء عند وصوله إلى 80%، فيُطلب التفريغ قبل الامتلاء الكامل."
+            },
+            {
+              "q": "ما مقاس فتحة التعبئة وارتفاعها؟",
+              "a": "مقاس فتحة التعبئة 1380 × 2090 مم، وارتفاع فتحة التعبئة 1480 مم."
+            },
+            {
+              "q": "هل يصلح للنفايات الطبية؟",
+              "a": "لا. هو للنفايات العامة غير الطبية، أما النفايات الطبية فلها اشتراطات جمع ومعالجة خاصة."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "Does it stop liquids leaking?",
+              "a": "Yes, it is liquid-tight up to 250 mm."
+            },
+            {
+              "q": "How do I know when it is full?",
+              "a": "It signals when it reaches 80% full, so collection can be booked before it is completely full."
+            },
+            {
+              "q": "What size and height is the loading opening?",
+              "a": "The feed opening is 1,380 × 2,090 mm, and the feed opening height is 1,480 mm."
+            },
+            {
+              "q": "Can it take medical waste?",
+              "a": "No. It is for general, non-medical waste; medical waste has its own collection and treatment requirements."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
         }
       },
       {
@@ -2210,11 +2610,61 @@
             "ar": "حاوية نفايات ذكية بضاغط يعمل بالطاقة الشمسية"
           },
           "description": {
-            "en": "Solar-powered smart bin that compacts waste on site, cutting volume up to 90% and collection trips, for parks, transit hubs and events in Qatar. Get a quote.",
-            "ar": "حاوية ذكية تعمل بالطاقة الشمسية تضغط النفايات في موقعها وتقلل حجمها حتى 90% وعدد مرات الجمع، للحدائق ومحطات النقل والفعاليات في قطر. اطلب عرض سعر."
+            "ar": "حاوية نفايات تعمل بالطاقة الشمسية بضاغط كهربائي ودواسة قدم وحساسات امتلاء، للحدائق والمراكز التجارية ومحطات النقل في قطر. اطلب عرض سعر من بيستوليكس.",
+            "en": "Solar-powered bin with an electric compactor, foot pedal and fill sensors for parks, commercial centres and transport hubs in Qatar. Request a quote."
           }
         },
-        "brand": "SAB TECH"
+        "brand": "SAB TECH",
+        "summary": {
+          "ar": "صندوق نفايات بضاغط كهربائي يعمل بالطاقة الشمسية (لوح 40 واط وبطارية 12 فولت)، يُفتح بدواسة قدم دون لمس، ومزود بحساسات امتلاء ومؤشر LED. مناسب للحدائق والمراكز التجارية ومحطات النقل والأماكن العامة في قطر، وتورّده بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "A solar-powered waste bin with an electric compactor (40 W panel and 12 V battery), a hands-free foot pedal, fill-level sensors and an LED status light. Suited to parks, commercial centres, transport stations and public spaces in Qatar; supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "كيف يعمل الصندوق دون توصيل كهربائي؟",
+              "a": "يشحن لوح شمسي مدمج بقدرة 40 واط بطارية 12 فولت تشغّل الضاغط الكهربائي."
+            },
+            {
+              "q": "ما أبعاد الصندوق وفتحة الرمي؟",
+              "a": "الأبعاد 1518 × 698 × 761 مم (ارتفاع × طول × عرض)، والفتحة 169 × 330 مم على ارتفاع 1183 مم."
+            },
+            {
+              "q": "كيف يعرف فريق النظافة أن الصندوق امتلأ؟",
+              "a": "تقيس حساسات الامتلاء مستوى النفايات وترسل بياناتها، ويوضح مؤشر LED حالة الصندوق ومستوى امتلائه."
+            },
+            {
+              "q": "من أي مادة صُنع الصندوق؟",
+              "a": "هيكله الخارجي من فولاذ زنك مقاوم للتآكل، والقاعدة ومجرى التعبئة من حديد مجلفن، ولمنطقة خدمة الحاوية قفل بمفتاح."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "How does it run without a mains connection?",
+              "a": "A built-in 40 W solar panel charges a 12 V battery that powers the electric compactor."
+            },
+            {
+              "q": "What are the bin and slot dimensions?",
+              "a": "1,518 × 698 × 761 mm (H × L × W), with a 169 × 330 mm slot at a height of 1,183 mm."
+            },
+            {
+              "q": "How do cleaning crews know it is full?",
+              "a": "Fill sensors measure the waste level and report it, and an LED light shows the bin status and fill level."
+            },
+            {
+              "q": "What is it made of?",
+              "a": "The outer body is corrosion-resistant Zintec steel, the base and chute are galvanised steel, and the service access door has a key lock."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "vertical-garbage-compactor-2cy",
@@ -2351,7 +2801,7 @@
             },
             {
               "label": "الكهرباء ومصدر التغذية",
-              "value": "220/380 فولت، 3 فاز، 50/60 هرتز"
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             },
             {
               "label": "زمن دورة التشغيل والضغط",
@@ -2393,7 +2843,7 @@
             },
             {
               "label": "Power Supply",
-              "value": "220/380V, 3Phase, 50/60 Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "Cycle Time",
@@ -2640,7 +3090,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "220/380 فولت، 3 فاز، 60 هرتز"
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             },
             {
               "label": "الحمولة القصوى",
@@ -2662,7 +3112,7 @@
             },
             {
               "label": "Electricity",
-              "value": "220/380V, 3Phase, 60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "Max Capacity",
@@ -2714,7 +3164,57 @@
             "ar": "مصعد ورافعة بضائع هيدروليكية لنقل الحمولات بين الطوابق والميزانين والأقبية حتى ارتفاع 10 أمتار في المستودعات والمباني في قطر. اطلب عرض سعر."
           }
         },
-        "brand": "SAB TECH"
+        "brand": "SAB TECH",
+        "summary": {
+          "ar": "مصعد ورافعة بضائع هيدروليكية مثبتة على الحائط، بحمولة حتى 3 أطنان وارتفاع رفع حتى 10 أمتار ومنصة 1500 × 1500 مم، للتركيب داخل المبنى أو خارجه. مناسبة للمستودعات والمباني متعددة الطوابق والميزانين في قطر، وتورّدها بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "A wall-mounted hydraulic goods lift with a capacity of up to 3 tonnes, a lifting height of up to 10 metres and a 1,500 × 1,500 mm platform, for indoor or outdoor installation. Suited to warehouses, multi-storey buildings and mezzanines in Qatar; supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "كم تتحمل رافعة البضائع؟",
+              "a": "حتى 3 أطنان، ويمكن تخصيص الحمولة والارتفاع حسب المشروع، بحد أقصى 3 أطنان و10 أمتار."
+            },
+            {
+              "q": "ما أقصى ارتفاع للرفع؟",
+              "a": "حتى 10 أمتار، من الطوابق السفلية والأرضية إلى الطوابق العليا والميزانين."
+            },
+            {
+              "q": "هل يمكن تركيبها خارج المبنى؟",
+              "a": "نعم، تُثبت على الحائط داخل المبنى أو خارجه، مع هيكل خارجي وحاجز للمنصة اختياريين."
+            },
+            {
+              "q": "ما مقاس المنصة وقدرة المحرك؟",
+              "a": "المنصة 1500 × 1500 مم، ومحرك الرفع 4.0 كيلوواط."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "How much can it carry?",
+              "a": "Up to 3 tonnes; capacity and height can be customised to the project, up to 3 tonnes and 10 metres."
+            },
+            {
+              "q": "What is the maximum lift height?",
+              "a": "Up to 10 metres, from basements and ground floors to upper floors and mezzanines."
+            },
+            {
+              "q": "Can it be installed outside the building?",
+              "a": "Yes. It is wall-mounted indoors or outdoors, with an optional external enclosure and platform rail."
+            },
+            {
+              "q": "What are the platform size and motor power?",
+              "a": "A 1,500 × 1,500 mm platform and a 4.0 kW lifting motor."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "scissors-lift",
@@ -2837,7 +3337,7 @@
             },
             {
               "label": "كهرباء التشغيل",
-              "value": "220/380 فولت، 3 فاز، 60 هرتز"
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             },
             {
               "label": "الحمولة القصوى",
@@ -2863,7 +3363,7 @@
             },
             {
               "label": "Electricity",
-              "value": "220/380V, 3Phase, 60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "Max Capacity",
@@ -3090,7 +3590,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "380 فولت / 60 هرتز / 3 فاز"
+              "value": "415 فولت / 50 هرتز / 3 فاز"
             },
             {
               "label": "قدرة المحرك",
@@ -3132,7 +3632,7 @@
             },
             {
               "label": "Electricity",
-              "value": "380V / 60Hz / 3Phase"
+              "value": "415V / 50Hz / 3Phase"
             },
             {
               "label": "Motor Power",
@@ -3202,7 +3702,65 @@
             "ar": "منصة رافعة مقصية هيدروليكية متحركة لأعمال الصيانة والمشاريع حتى ارتفاع عمل 14 متراً، داخل المباني وخارجها على أرض صلبة ومستوية. اطلب عرض سعر."
           }
         },
-        "brand": "SAB TECH"
+        "brand": "SAB TECH",
+        "summary": {
+          "ar": "رافعة مقصية متحركة لأعمال الصيانة والمشاريع على الارتفاعات، داخل المباني وخارجها على أرض ثابتة ومستوية، بثلاثة موديلات حتى 9 و11 و14 متراً وحمولة منصة 500 كجم، مع أربع ركائز للثبات وحاجز أمان حول المنصة. تورّدها بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "A movable scissor lift for maintenance and project work at height, indoors or outdoors on firm, level ground, in three models up to 9, 11 and 14 metres with a 500 kg platform load, four outriggers and a guardrail. Supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما الموديلات والارتفاعات المتاحة؟",
+              "a": "ثلاثة موديلات: MSL9M0.5t وMSL11M0.5t وMSL14M0.5t، حتى 9 و11 و14 متراً."
+            },
+            {
+              "q": "كم تتحمل المنصة؟",
+              "a": "500 كجم في الموديلات الثلاثة."
+            },
+            {
+              "q": "كم يستغرق الرفع إلى أقصى ارتفاع؟",
+              "a": "نحو 70 ثانية للموديل MSL9M0.5t، و80 ثانية للموديل MSL11M0.5t، و132 ثانية للموديل MSL14M0.5t."
+            },
+            {
+              "q": "على أي أرضية تعمل الرافعة؟",
+              "a": "على أرضية ثابتة ومستوية، داخل المباني وخارجها، وتُثبت بأربع ركائز قبل الرفع."
+            },
+            {
+              "q": "هل تعمل بالبطارية؟",
+              "a": "نعم، يتوفر التشغيل بالبطارية خياراً إضافياً."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "Which models and heights are available?",
+              "a": "Three models, MSL9M0.5t, MSL11M0.5t and MSL14M0.5t, up to 9, 11 and 14 metres."
+            },
+            {
+              "q": "How much can the platform carry?",
+              "a": "500 kg on all three models."
+            },
+            {
+              "q": "How long does it take to reach full height?",
+              "a": "About 70 seconds for the MSL9M0.5t, 80 for the MSL11M0.5t and 132 for the MSL14M0.5t."
+            },
+            {
+              "q": "What ground does it need?",
+              "a": "Firm, level ground, indoors or outdoors, with its four outriggers set before lifting."
+            },
+            {
+              "q": "Can it run on battery?",
+              "a": "Yes, battery operation is available as an option."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "wheelchair-lift",
@@ -3340,7 +3898,7 @@
             },
             {
               "label": "الكهرباء ومصدر التغذية",
-              "value": "220V, 1Phase, 60Hz"
+              "value": "240V, 1Phase, 50Hz"
             },
             {
               "label": "قدرة موتور الرفع",
@@ -3378,7 +3936,7 @@
             },
             {
               "label": "Power Supply",
-              "value": "220V, 1Phase, 60Hz"
+              "value": "240V, 1Phase, 50Hz"
             },
             {
               "label": "Motor Power",
@@ -3450,7 +4008,57 @@
             "ar": "رافعة هيدروليكية لنقل مستخدمي الكراسي المتحركة بأمان بين المستويات في المنازل والبنوك والفنادق والمباني العامة، داخلها وخارجها في قطر. اطلب عرض سعر."
           }
         },
-        "brand": "SAB TECH"
+        "brand": "SAB TECH",
+        "summary": {
+          "ar": "رافعة هيدروليكية لمستخدمي الكراسي المتحركة تنقلهم بين مستويين داخل المبنى أو خارجه، بحمولة 250 كجم ومنصة 1430 × 1000 مم مانعة للانزلاق وارتفاع رفع حتى 6 أمتار. مناسبة للبنوك والفنادق والمستشفيات ومراكز التسوق والمباني متعددة المستويات في قطر، وتورّدها بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "A hydraulic wheelchair lift that moves users between two levels indoors or outdoors, carrying 250 kg on a 1,430 × 1,000 mm anti-slip platform and lifting up to 6 metres. Suited to banks, hotels, hospitals, shopping centres and multi-level buildings in Qatar; supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "كم تتحمل الرافعة؟",
+              "a": "حتى 250 كجم، على منصة 1430 × 1000 مم بأرضية مانعة للانزلاق."
+            },
+            {
+              "q": "ما أقصى ارتفاع للرفع؟",
+              "a": "حتى 6 أمتار، ويُخصص الارتفاع حسب الموقع."
+            },
+            {
+              "q": "ماذا يحدث عند انقطاع الكهرباء؟",
+              "a": "الرافعة مزودة بصمامات أمان وتحكم طوارئ يسمحان بالنزول الآمن."
+            },
+            {
+              "q": "كيف تُشغَّل الرافعة وما سرعتها؟",
+              "a": "بأزرار على العمود أو بجهاز تحكم عن بُعد، وسرعة الصعود والنزول 0.06–0.1 م/ثانية."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "How much can it carry?",
+              "a": "Up to 250 kg on a 1,430 × 1,000 mm anti-slip platform."
+            },
+            {
+              "q": "What is the maximum lift height?",
+              "a": "Up to 6 metres, customised to the site."
+            },
+            {
+              "q": "What happens in a power cut?",
+              "a": "The lift has safety valves and a manual emergency lowering control that allow a safe descent."
+            },
+            {
+              "q": "How is it operated, and how fast is it?",
+              "a": "With column buttons or a remote control; it travels at 0.06–0.1 m/s."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "hydraulic-dock-leveler",
@@ -3561,7 +4169,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "220/380 فولت، 3 فاز، 60 هرتز"
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             },
             {
               "label": "الحمولة القياسية والتخصيص",
@@ -3587,7 +4195,7 @@
             },
             {
               "label": "Power Supply",
-              "value": "220/380V, 3Phase, 60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "Capacity",
@@ -3788,7 +4396,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "220/380 فولت، 3 فاز، 50/60 هرتز"
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             }
           ],
           "en": [
@@ -3810,7 +4418,7 @@
             },
             {
               "label": "Power Supply",
-              "value": "220/380V, 3Phase, 50/60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             }
           ]
         },
@@ -3841,7 +4449,57 @@
             "ar": "رصيف تحميل RH1 يغطي الفجوة وفرق الارتفاع بين رصيف التحميل والشاحنة، ويناسب مختلف أنواع أرصفة التحميل في قطر. اطلب عرض سعر من بيستوليكس."
           }
         },
-        "brand": "Inkema"
+        "brand": "Inkema",
+        "summary": {
+          "ar": "رصيف تحميل هيدروليكي من إنكيما (الموديل RH1) يسد الفجوة وفرق الارتفاع بين أرضية المستودع والشاحنة بآلية ميل هيدروليكية وشفة مفصلية، بمنصة 2000 × 2500 مم ونطاق عمل حتى 600 مم فوق مستوى المستودع و300 مم تحته. مناسب للمستودعات ومراكز التوزيع في قطر، وتورّده بيستوليكس وتركّبه.",
+          "en": "An Inkema hydraulic dock leveler (model RH1) that bridges the gap and height difference between the warehouse floor and the truck with a hydraulic tilt mechanism and hinged lip, on a 2,000 × 2,500 mm platform working up to 600 mm above and 300 mm below dock level. Suited to warehouses and distribution centres in Qatar; supplied and installed by Bestolex."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما فرق الارتفاع الذي يعالجه رصيف التحميل؟",
+              "a": "حتى 600 مم فوق مستوى أرضية المستودع، وحتى 300 مم تحتها."
+            },
+            {
+              "q": "ما مقاس المنصة وقدرة المحرك؟",
+              "a": "المنصة 2000 × 2500 مم، ومحرك الرفع 0.75 كيلوواط."
+            },
+            {
+              "q": "ما الحمولات المتاحة؟",
+              "a": "تتوفر سعات مختلفة، وتُحدد بعد معرفة أقصى وزن للحمولة مع الرافعة الشوكية."
+            },
+            {
+              "q": "هل يناسب المركبات الخفيفة؟",
+              "a": "نعم، فهو مصمم للتحميل والتفريغ الآمن للشاحنات والمركبات الخفيفة."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "What height difference can it handle?",
+              "a": "Up to 600 mm above and up to 300 mm below the warehouse floor level."
+            },
+            {
+              "q": "What are the platform size and motor power?",
+              "a": "A 2,000 × 2,500 mm platform and a 0.75 kW lifting motor."
+            },
+            {
+              "q": "Which capacities are available?",
+              "a": "Several capacities are available; the right one is set from the maximum weight of load plus forklift."
+            },
+            {
+              "q": "Is it suitable for light vehicles?",
+              "a": "Yes. It is designed for safe loading and unloading of trucks and light vehicles."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "manual-loading-bridges",
@@ -3976,7 +4634,57 @@
             "ar": "جسر تحميل يدوي يسد الفجوات الصغيرة وفروق الارتفاع بين رصيف التحميل والشاحنة دون كهرباء، ويُركّب على حافة الرصيف. اطلب عرض سعر من بيستوليكس."
           }
         },
-        "brand": "Inkema"
+        "brand": "Inkema",
+        "summary": {
+          "ar": "جسر تحميل يدوي من إنكيما يسد الفجوات الصغيرة وفروق الارتفاع بين حافة الرصيف والشاحنة دون كهرباء، بتشغيل ميكانيكي بمساعد غازي وحمولة ديناميكية حتى 4 أطنان. مناسب للمستودعات والمراكز اللوجستية في قطر، وتورّده بيستوليكس وتركّبه.",
+          "en": "An Inkema manual loading bridge that covers small gaps and level differences between the dock edge and the truck without electricity, using mechanical operation with gas-spring assist and a dynamic load of up to 4 tonnes. Suited to warehouses and logistics centres in Qatar; supplied and installed by Bestolex."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "هل يحتاج الجسر إلى كهرباء؟",
+              "a": "لا. يعمل يدوياً بآلية ميكانيكية ومساعد غازي (Gas-Spring)."
+            },
+            {
+              "q": "كم يتحمل الجسر؟",
+              "a": "حمولة ديناميكية حتى 4 أطنان."
+            },
+            {
+              "q": "ما المقاسات المتاحة؟",
+              "a": "العرض 1750–2000 مم والطول 1250–1500 مم."
+            },
+            {
+              "q": "متى أحتاج رصيف تحميل هيدروليكياً بدل الجسر اليدوي؟",
+              "a": "الجسر اليدوي للفجوات الصغيرة وفروق الارتفاع البسيطة. وحين يكبر فرق الارتفاع أو تتنوع الشاحنات كثيراً، يكون رصيف التحميل الهيدروليكي هو الأنسب، وتحدد المعاينة ذلك."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "Does it need electricity?",
+              "a": "No. It works mechanically by hand with a gas-spring assist."
+            },
+            {
+              "q": "How much can it carry?",
+              "a": "A dynamic load of up to 4 tonnes."
+            },
+            {
+              "q": "What sizes are available?",
+              "a": "1,750–2,000 mm wide and 1,250–1,500 mm long."
+            },
+            {
+              "q": "When do I need a hydraulic dock leveler instead?",
+              "a": "The manual bridge is for small gaps and level differences. When the height difference is larger or trucks vary a lot, a hydraulic dock leveler is the better fit; the site survey decides."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "inflatable-dock-shelter",
@@ -4265,7 +4973,57 @@
             "ar": "مظلة رصيف بإطار مرن يمتص اصطدام الشاحنة ويعود إلى وضعه، وستائر PVC تحكم الإغلاق حول المركبة أثناء التحميل في قطر. اطلب عرض سعر من بيستوليكس."
           }
         },
-        "brand": "Inkema"
+        "brand": "Inkema",
+        "summary": {
+          "ar": "غطاء بوابة قابل للارتداد من إنكيما بإطار حديد مجلفن بمساعد زنبركي يرتد عند اصطدام الشاحنة ثم يعود، فيحمي حوائط البوابة، وستائر PVC بسماكة 3 مم تعزل حافة التحميل عن الأمطار والغبار والحرارة. مقاسه القياسي 3400 × 3400 مم، ويناسب المستودعات ومراكز التوزيع في قطر، وتورّده بيستوليكس وتركّبه.",
+          "en": "An Inkema retractable dock shelter with a spring-assisted galvanised steel frame that gives way when a truck hits it and springs back, protecting the door walls, and 3 mm PVC curtains that seal the loading edge against rain, dust and heat. Standard size 3,400 × 3,400 mm; suited to warehouses and distribution centres in Qatar; supplied and installed by Bestolex."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "كيف يحمي الغطاء حوائط البوابة؟",
+              "a": "إطاره الارتدادي بمساعد زنبركي يمتص صدمة الشاحنة بدل أن تنتقل إلى الحائط، ثم يعود إلى وضعه."
+            },
+            {
+              "q": "هل يحدّ الغطاء من دخول الأمطار والغبار؟",
+              "a": "نعم، تعزل الستائر حافة التحميل وتحدّ من دخول الأمطار والغبار والحرارة، ويوفر التصميم تصريفاً جيداً لمياه الأمطار."
+            },
+            {
+              "q": "ما المقاس القياسي؟",
+              "a": "3400 × 3400 مم بعمق 600 مم، ويُحدد المقاس النهائي بعد قياس البوابة والشاحنات."
+            },
+            {
+              "q": "ما الفرق بينه وبين الغطاء القابل للانتفاخ؟",
+              "a": "القابل للارتداد يعتمد على ستائر وإطار يمتص الصدمات، أما القابل للانتفاخ فيحيط بجسم الشاحنة بوسائد منفوخة، وهو الأنسب للمخازن المبردة."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "How does it protect the door walls?",
+              "a": "Its spring-assisted retractable frame absorbs the truck impact instead of passing it to the wall, then springs back."
+            },
+            {
+              "q": "Does it keep rain and dust out?",
+              "a": "Yes. The curtains seal the loading edge against rain, dust and heat, and the design provides good rainwater drainage."
+            },
+            {
+              "q": "What is the standard size?",
+              "a": "3,400 × 3,400 mm with a 600 mm depth; the final size is set after measuring the door and the trucks."
+            },
+            {
+              "q": "How does it differ from the inflatable shelter?",
+              "a": "The retractable shelter uses curtains on an impact-absorbing frame; the inflatable one wraps around the truck body with inflated cushions and suits cold stores better."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "movable-dock-ramp",
@@ -4471,7 +5229,57 @@
             "ar": "رمبة تحميل متحركة قائمة بذاتها لتحميل المقطورات بالرافعات الشوكية حيث لا يوجد رصيف، لشاحنات حتى ارتفاع تحميل 1.8 متر في قطر. اطلب عرض سعر."
           }
         },
-        "brand": "SAB TECH"
+        "brand": "SAB TECH",
+        "summary": {
+          "ar": "رمبة تحميل متحركة تنشئ نقطة تحميل حيث لا يوجد رصيف ثابت، فتصعد الرافعة الشوكية من مستوى الأرض إلى الشاحنة، بحمولة حتى 10 أطنان وارتفاع حتى 1800 مم وطول 11300 مم. مناسبة للمواقع التي تفتقر إلى رصيف تحميل، ولإضافة نقاط تحميل دون أعمال إنشائية في قطر، وتورّدها بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "A movable dock ramp that creates a loading point where there is no fixed dock, letting a forklift drive from ground level into the truck, with up to 10 tonnes capacity, a maximum height of 1,800 mm and an 11,300 mm length. Suited to sites in Qatar with no loading dock, or to add loading points without construction work; supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "متى تغني الرمبة عن رصيف التحميل الثابت؟",
+              "a": "في المواقع التي لا يوجد فيها رصيف، أو حين تلزم نقطة تحميل إضافية أو مؤقتة دون أعمال إنشائية."
+            },
+            {
+              "q": "كم تتحمل الرمبة؟",
+              "a": "حتى 10 أطنان، بطول 11300 مم وعرض 2100 مم وارتفاع أقصى 1800 مم."
+            },
+            {
+              "q": "هل تحتاج إلى أعمال إنشائية؟",
+              "a": "لا. هي هيكل من قطعة واحدة يُحرَّك ويوضع بالرافعة الشوكية، وتُعد بديلاً لإنشاء رصيف خرساني دائم."
+            },
+            {
+              "q": "هل يمكن تعديل ارتفاعها؟",
+              "a": "نعم، بأرجل الارتكاز القابلة للتعديل يدوياً، ويتوفر خيار ذراع هيدروليكي لتعديل الارتفاع."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "When can it replace a fixed loading dock?",
+              "a": "At sites with no dock, or when an extra or temporary loading point is needed without construction work."
+            },
+            {
+              "q": "How much can it carry?",
+              "a": "Up to 10 tonnes, at 11,300 mm long, 2,100 mm wide and 1,800 mm maximum height."
+            },
+            {
+              "q": "Does it need construction work?",
+              "a": "No. It is a one-piece structure moved and positioned by forklift, and an alternative to building a permanent concrete dock."
+            },
+            {
+              "q": "Can its height be adjusted?",
+              "a": "Yes, with the manually adjustable landing jacks; a hydraulic height-adjustment mechanism is available as an option."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "minidock",
@@ -4639,7 +5447,57 @@
             "ar": "رصيف تحميل صغير لا يحتاج إلى حفرة ويُركّب بسرعة على أي رصيف تحميل، ويتحمل حتى 6 أطنان حملاً ديناميكياً أثناء التحميل والتفريغ. اطلب عرض سعر."
           }
         },
-        "brand": "Inkema"
+        "brand": "Inkema",
+        "summary": {
+          "ar": "رصيف تحميل صغير (Mini Dock) من إنكيما يُثبت سطحياً على حافة الرصيف دون حفرة خرسانية، ويسد الفجوة بين الرصيف وأرضية الشاحنة بحمولة ديناميكية حتى 6 أطنان، ويتوفر بعرضين 1800 و2100 مم. مناسب للأرصفة القائمة التي لا تسمح بأعمال إنشائية في قطر، وتورّده بيستوليكس وتركّبه.",
+          "en": "An Inkema mini dock that mounts on the dock edge with no concrete pit and bridges the gap to the truck bed with a dynamic load of up to 6 tonnes, in 1,800 and 2,100 mm widths. Suited to existing docks in Qatar where construction work is not possible; supplied and installed by Bestolex."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "هل يحتاج الرصيف الصغير إلى حفرة خرسانية؟",
+              "a": "لا. تُثبت سطحياً على حافة الرصيف دون حفرة."
+            },
+            {
+              "q": "كم يتحمل الرصيف الصغير؟",
+              "a": "حمولة ديناميكية حتى 6 أطنان."
+            },
+            {
+              "q": "ما المقاسات المتاحة؟",
+              "a": "موديلان بعرض 1800 و2100 مم، بطول 310 مم وارتفاع 535 مم، وشفة مفصلية بعرض 352 مم."
+            },
+            {
+              "q": "كيف يُشغَّل الرصيف الصغير ويُرفع بعد التحميل؟",
+              "a": "تُفتح الشفة بسهولة بمساعدة أسطوانة هوائية، وبعد التحميل أو التفريغ يُسحب ذراع التشغيل إلى الخلف دون رفعه بالكامل، ثم يُوضع الرصيف على مساند الإنزال المنخفضة."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "Does it need a concrete pit?",
+              "a": "No. It is surface-mounted on the dock edge with no pit."
+            },
+            {
+              "q": "How much can it carry?",
+              "a": "A dynamic load of up to 6 tonnes."
+            },
+            {
+              "q": "What sizes are available?",
+              "a": "Two models, 1,800 and 2,100 mm wide, both 310 mm long and 535 mm high, with a 352 mm hinged lip."
+            },
+            {
+              "q": "How is it operated and stowed after loading?",
+              "a": "The lip opens easily with a pneumatic cylinder. After loading or unloading, pull the lever back without raising it fully and rest the unit on the lowering stops."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "mobile-loading-dock",
@@ -4771,7 +5629,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "380 فولت، 3 فاز، 50/60 هرتز"
+              "value": "415 فولت، 3 فاز، 50 هرتز"
             },
             {
               "label": "حمولة الرفع القصوى",
@@ -4797,7 +5655,7 @@
             },
             {
               "label": "Power Supply",
-              "value": "380V, 3Phase, 50/60Hz"
+              "value": "415V, 3Phase, 50Hz"
             },
             {
               "label": "Max Lifting Capacity",
@@ -4836,7 +5694,57 @@
             "ar": "منصة رفع هيدروليكية متحركة ترفع البضائع والرافعات الشوكية إلى مستوى الشاحنة في المواقع التي لا يوجد بها رصيف تحميل في قطر. اطلب عرض سعر."
           }
         },
-        "brand": "SAB TECH"
+        "brand": "SAB TECH",
+        "summary": {
+          "ar": "منصة تحميل هيدروليكية متحركة ترفع البضائع حتى 1600 مم بحمولة 2 طن، بمنصة 1600 × 2000 مم ومنحدر بزاوية 14 درجة، وهي متوافقة مع الرافعات الشوكية ويشغّلها عامل واحد. مناسبة للمواقع الضيقة وتلك التي تفتقر إلى رصيف تحميل في المستودعات والمصانع في قطر، وتورّدها بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "A mobile hydraulic loading dock that lifts goods up to 1,600 mm with a 2-tonne capacity, on a 1,600 × 2,000 mm platform with a 14-degree ramp; it works with forklifts and is run by one operator. Suited to tight sites and those without a loading dock in warehouses and factories in Qatar; supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "كم تتحمل المنصة وما ارتفاع رفعها؟",
+              "a": "حمولة حتى 2 طن، وارتفاع رفع حتى 1600 مم."
+            },
+            {
+              "q": "ما مقاس المنصة والمنحدر؟",
+              "a": "المنصة 1600 × 2000 مم، والمنحدر 1500 × 550 مم بزاوية 14 درجة."
+            },
+            {
+              "q": "كم عاملاً يحتاج تشغيلها؟",
+              "a": "عامل واحد، بلوحة تحكم كهربائية وخيار تحكم عن بُعد سلكي."
+            },
+            {
+              "q": "ما الفرق بينها وبين رمبة التحميل المتحركة؟",
+              "a": "منصة التحميل المتحركة ترفع حمولات حتى 2 طن هيدروليكياً في مساحة صغيرة، أما الرمبة فتتحمل 10 أطنان وطولها 11300 مم، وتصعد عليها الرافعة الشوكية من الأرض إلى الشاحنة."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "What are its capacity and lift height?",
+              "a": "Up to 2 tonnes, lifting up to 1,600 mm."
+            },
+            {
+              "q": "What size are the platform and ramp?",
+              "a": "The platform is 1,600 × 2,000 mm and the ramp 1,500 × 550 mm at 14 degrees."
+            },
+            {
+              "q": "How many people does it take to run?",
+              "a": "One operator, with an electric control panel and an optional wired remote."
+            },
+            {
+              "q": "How does it differ from the movable dock ramp?",
+              "a": "The mobile loading dock lifts loads of up to 2 tonnes hydraulically in a small footprint; the ramp carries 10 tonnes over an 11,300 mm length that forklifts drive up from the ground into the truck."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       }
     ],
     "seo": {
@@ -5043,7 +5951,57 @@
             "ar": "مفجر إطارات يُركّب على سطح الأسفلت أو الخرسانة دون حفر عميق، بأشواك فولاذية توقف المركبات غير المصرح لها عند نقاط الدخول في قطر. اطلب عرض سعر."
           }
         },
-        "brand": "SAB TECH"
+        "brand": "SAB TECH",
+        "summary": {
+          "ar": "مفجر إطارات يُثبت ببراغي فوق الأسفلت أو الخرسانة دون حفر عميق، ويتيح المرور في الاتجاه المسموح عبر منحدرات مانعة للانزلاق، بينما صُممت أشواكه الفولاذية (150–200 مم) لإتلاف إطارات المركبات غير المصرح لها أو السائرة في الاتجاه المعاكس، ويتحمل 50 طناً لكل محور. مناسب للمنشآت الحساسة ونقاط التفتيش المؤقتة والطرق التي تمر تحتها تمديدات في قطر، وتورّده بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "A tyre killer bolted onto asphalt or concrete with no deep excavation. Vehicles pass in the permitted direction over anti-slip ramps, while 150–200 mm steel spikes are designed to puncture the tyres of vehicles entering without authorisation or in the wrong direction; it is rated for 50 tonnes per axle. Suited to sensitive facilities, temporary checkpoints and roads with buried services in Qatar; supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "هل يحتاج المفجر إلى حفر؟",
+              "a": "لا يحتاج إلى حفر عميق أو أساسات، إذ يُثبت سطحياً مباشرة ببراغي فولاذية في الخرسانة أو الأسفلت."
+            },
+            {
+              "q": "كيف يعمل؟",
+              "a": "تتوفر آليتا تشغيل: هيدروليكية كهروميكانيكية، أو ميكانيكية بالثقل الموازن."
+            },
+            {
+              "q": "ما ارتفاعه فوق الطريق؟",
+              "a": "يرتفع الهيكل 100–120 مم فوق الأرض، وتبرز الأشواك 150–200 مم، ويتراوح طوله بين 2000 و6000 مم حسب عرض الطريق."
+            },
+            {
+              "q": "هل هو مختبر ضد اقتحام المركبات؟",
+              "a": "لا، ليس له شهادة اختبار تصادم. وإذا اشترط المشروع تصنيفاً ضد الاقتحام، فالموديلان المختبَران هما RB3M1000CT من مصد الطريق عالي الأمان، وRBS3MCT من مصد الطريق عالي الأمان بعمق تركيب 40 سم، وكلاهما بعرض 3 م، وتفاصيل الشهادتين في صفحتيهما."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "Does it need excavation?",
+              "a": "It needs no deep excavation or foundations; it is surface-fixed directly with steel anchor bolts."
+            },
+            {
+              "q": "How does it operate?",
+              "a": "Two drive options are available: electromechanical hydraulic, or mechanical counterweight."
+            },
+            {
+              "q": "How high does it sit above the road?",
+              "a": "The body sits 100–120 mm above the road and the spikes project 150–200 mm; length ranges from 2,000 to 6,000 mm to suit the road width."
+            },
+            {
+              "q": "Is it crash-rated?",
+              "a": "No, it has no crash-test certificate. If the project requires an anti-ram rating, the tested models are the RB3M1000CT high-security road blocker and the RBS3MCT high-security shallow road blocker, both at 3 m width; certificate details are on their pages."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "high-security-road-blocker",
@@ -5151,7 +6109,7 @@
             },
             {
               "label": "الكهرباء والطاقة",
-              "value": "220/380V, 3Phase, 50/60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "سرعة الفتح والرفع",
@@ -5193,7 +6151,7 @@
             },
             {
               "label": "Power Supply",
-              "value": "220/380V, 3Phase, 50/60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "Deployment Speed",
@@ -5275,7 +6233,57 @@
             "ar": "مصد طريق هيدروليكي عالي الأمان مختبر وفق PAS 68 وIWA 14-1 دون اختراق، لحماية بوابات المنشآت الحساسة في قطر. اطلب عرضاً فنياً من بيستوليكس."
           }
         },
-        "brand": "SAB TECH"
+        "brand": "SAB TECH",
+        "summary": {
+          "ar": "مصد طريق هيدروليكي عالي الأمان يرتفع 1000 مم خلال 3–5 ثوانٍ. اختُبر الموديل RB3M1000CT بعرض 3 م لدى crashtest-service.com (CTS) في مونستر بألمانيا، وحصل على PAS 68:2013 V/7500[N3]/80/90:-1.5/4.6 وIWA 14-1:2013 V/7200[N3C]/80/90:-0.9 (الشهادة TC-12055-3532-19475-EN)، ويخص التصنيف العرض المختبَر 3 م والتأسيس المستخدم في الاختبار. مناسب لبوابات المنشآت الحساسة في قطر، وتورّده بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "A high-security hydraulic road blocker that rises 1,000 mm in 3–5 seconds. Model RB3M1000CT, 3 m wide, was crash-tested by crashtest-service.com (CTS) in Münster, Germany, and rated PAS 68:2013 V/7500[N3]/80/90:-1.5/4.6 and IWA 14-1:2013 V/7200[N3C]/80/90:-0.9 (certificate TC-12055-3532-19475-EN); the rating applies to the tested 3 m width and test foundation. Suited to sensitive site gates in Qatar; supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما شهادة اختبار التصادم؟",
+              "a": "الموديل RB3M1000CT بعرض 3 م: PAS 68:2013 V/7500[N3]/80/90:-1.5/4.6 وIWA 14-1:2013 V/7200[N3C]/80/90:-0.9، لدى crashtest-service.com في مونستر بألمانيا، الشهادة TC-12055-3532-19475-EN. أوقف شاحنة وزنها 7.5 طن بسرعة 80 كم/س دون أن تتجاوز الحاجز."
+            },
+            {
+              "q": "هل يشمل التصنيف كل العروض؟",
+              "a": "لا. التصنيف يخص الموديل RB3M1000CT بالعرض المختبَر 3 م والتأسيس المستخدم في الاختبار فقط، أما العروض الأخرى (2000–6000 مم) فلا تحمل شهادة اختبار تصادم."
+            },
+            {
+              "q": "ما سرعة الرفع، وماذا يحدث عند انقطاع الكهرباء؟",
+              "a": "يرتفع خلال 3–5 ثوانٍ، وخلال 1.5 ثانية في وضع الطوارئ، ويُشغَّل يدوياً بمضخة مدمجة عند انقطاع الكهرباء."
+            },
+            {
+              "q": "هل يرتبط بأنظمة التحكم في الدخول؟",
+              "a": "نعم، لوحة التحكم PLC تدعم منافذ إدخال وإخراج متعددة للربط مع الأنظمة الأمنية."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "What crash-test certificate does it have?",
+              "a": "Model RB3M1000CT, 3 m wide: PAS 68:2013 V/7500[N3]/80/90:-1.5/4.6 and IWA 14-1:2013 V/7200[N3C]/80/90:-0.9, tested by crashtest-service.com in Münster, Germany, certificate TC-12055-3532-19475-EN. It stopped a 7.5-tonne truck at 80 km/h without the truck passing the barrier."
+            },
+            {
+              "q": "Does the rating cover every width?",
+              "a": "No. The rating applies only to the RB3M1000CT at the tested 3 m width and test foundation; other widths (2,000–6,000 mm) have no crash-test certificate."
+            },
+            {
+              "q": "How fast does it rise, and what happens in a power cut?",
+              "a": "It rises in 3–5 seconds, or 1.5 seconds in emergency mode, and a built-in hand pump operates it during a power cut."
+            },
+            {
+              "q": "Does it connect to access control?",
+              "a": "Yes. Its PLC controller supports multiple I/O ports for linking to security systems."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "high-security-shallow-road-blocker",
@@ -5380,7 +6388,7 @@
             },
             {
               "label": "الطاقة والكهرباء",
-              "value": "220/380V, 3Phase, 50/60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "سرعة الفتح والرفع",
@@ -5426,7 +6434,7 @@
             },
             {
               "label": "Power Supply",
-              "value": "220/380V, 3Phase, 50/60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "Deployment Speed",
@@ -5507,7 +6515,57 @@
             "ar": "مصد طريق سطحي عالي الأمان بعمق تركيب 40 سم، مختبر وفق PAS 68 دون اختراق، للمواقع التي يصعب فيها الحفر العميق في قطر. اطلب عرض سعر."
           }
         },
-        "brand": "SAB TECH"
+        "brand": "SAB TECH",
+        "summary": {
+          "ar": "مصد طريق عالي الأمان يحتاج حفرة بعمق 40 سم فقط ويرتفع 1100 مم. اختُبر الموديل RBS3MCT بعرض 3 م لدى crashtest-service.com (CTS) في مونستر بألمانيا، وحصل على PAS 68:2013 V/7500[N3]/80/90:-1.4/16.2 (الشهادة TC-12055-4574-19988-2-EN)، ويخص التصنيف العرض المختبَر 3 م والتأسيس المستخدم في الاختبار. مناسب للمواقع التي تمنع فيها التمديدات أو طبيعة الأرض الحفر العميق في قطر، وتورّده بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "A high-security road blocker that needs a pit only 40 cm deep and rises 1,100 mm. Model RBS3MCT, 3 m wide, was crash-tested by crashtest-service.com (CTS) in Münster, Germany, and rated PAS 68:2013 V/7500[N3]/80/90:-1.4/16.2 (certificate TC-12055-4574-19988-2-EN); the rating applies to the tested 3 m width and test foundation. Suited to sites in Qatar where buried services or ground conditions rule out deep excavation; supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما عمق التركيب؟",
+              "a": "400 مم (40 سم) فقط، فيناسب المواقع التي لا تسمح بأساسات خرسانية عميقة."
+            },
+            {
+              "q": "ما شهادة اختبار التصادم؟",
+              "a": "الموديل RBS3MCT بعرض 3 م: PAS 68:2013 V/7500[N3]/80/90:-1.4/16.2، لدى crashtest-service.com في مونستر بألمانيا، الشهادة TC-12055-4574-19988-2-EN. والتصنيف يخص العرض والتأسيس المختبَرين."
+            },
+            {
+              "q": "ما سرعة الرفع؟",
+              "a": "3–5 ثوانٍ، و1.5 ثانية في وضع الطوارئ، مع تشغيل يدوي للطوارئ."
+            },
+            {
+              "q": "هل يرتبط بأنظمة التحكم في الدخول؟",
+              "a": "نعم، لوحة PLC تتوافق مع قارئات البطاقات والبصمة والتحكم بالراديو وقارئ لوحات المركبات."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "How deep is the installation?",
+              "a": "Only 400 mm (40 cm), so it suits sites that cannot take deep concrete foundations."
+            },
+            {
+              "q": "What crash-test certificate does it have?",
+              "a": "Model RBS3MCT, 3 m wide: PAS 68:2013 V/7500[N3]/80/90:-1.4/16.2, tested by crashtest-service.com in Münster, Germany, certificate TC-12055-4574-19988-2-EN. The rating applies to the tested width and foundation."
+            },
+            {
+              "q": "How fast does it rise?",
+              "a": "3–5 seconds, or 1.5 seconds in emergency mode, with manual emergency operation."
+            },
+            {
+              "q": "Does it connect to access control?",
+              "a": "Yes. Its PLC panel works with card readers, biometrics, radio control and number plate readers."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "road-blocker",
@@ -5620,7 +6678,7 @@
             },
             {
               "label": "مصدر الكهرباء والطاقة",
-              "value": "220/380V, 3Phase, 50/60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "قوة ووحدة الطاقة",
@@ -5654,7 +6712,7 @@
             },
             {
               "label": "Power Supply",
-              "value": "220/380V, 3Phase, 50/60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "Hydraulic Power Pack",
@@ -5867,7 +6925,7 @@
             },
             {
               "label": "مصدر الكهرباء والطاقة",
-              "value": "220/380V, 3Phase, 50/60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "سرعة الفتح والرفع",
@@ -5901,7 +6959,7 @@
             },
             {
               "label": "Power Supply",
-              "value": "220/380V, 3Phase, 50/60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "Deployment Speed",
@@ -5948,7 +7006,57 @@
             "ar": "مصد طريق هيدروليكي يُركّب على سطح الطريق دون حفر أو أساسات عميقة، بألواح فولاذية مدرعة ومنحدرات جانبية لمرور المركبات المصرح لها. اطلب عرض سعر."
           }
         },
-        "brand": "SAB TECH"
+        "brand": "SAB TECH",
+        "summary": {
+          "ar": "مصد طريق هيدروليكي يُثبت فوق الطريق مباشرة دون حفر أو أساسات عميقة، يرتفع 500–800 مم خلال 3–5 ثوانٍ ويتحمل 50 طناً لكل محور، مع منحدرات جانبية مانعة للانزلاق وتشغيل يدوي عند انقطاع الكهرباء. مناسب للمداخل التي تمر تحتها تمديدات في قطر، وتورّده بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "A hydraulic road blocker fixed directly on the road with no excavation or deep foundation, rising 500–800 mm in 3–5 seconds and carrying 50 tonnes per axle, with anti-slip side ramps and manual operation in a power cut. Suited to entrances in Qatar with buried services; supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "هل يحتاج إلى حفر؟",
+              "a": "لا، يُثبت مباشرة فوق الطريق، وتُفحص طبقة الطريق في المعاينة قبل التثبيت."
+            },
+            {
+              "q": "ما ارتفاعه فوق الأرض وهو منخفض؟",
+              "a": "نحو 100–150 مم فوق سطح الطريق، وتعبره المركبات عبر منحدرات جانبية مانعة للانزلاق."
+            },
+            {
+              "q": "هل يعمل عند انقطاع الكهرباء؟",
+              "a": "نعم، يتضمن تشغيلاً يدوياً مدمجاً عند انقطاع التيار الكهربائي."
+            },
+            {
+              "q": "هل هو مختبر ضد الاصطدام؟",
+              "a": "لا، ليس له شهادة اختبار تصادم. وإذا اشترط المشروع تصنيفاً ضد الاقتحام مع عمق حفر محدود، فمصد الطريق عالي الأمان RBS3MCT يحتاج حفرة بعمق 40 سم فقط، واختُبر بعرض 3 م لدى crashtest-service.com (CTS) في مونستر بألمانيا وفق PAS 68:2013 V/7500[N3]/80/90:-1.4/16.2 (الشهادة TC-12055-4574-19988-2-EN)، ويخص التصنيف العرض والتأسيس المختبَرين."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "Does it need excavation?",
+              "a": "No, it is fixed directly on the road; the road surface is checked at the site survey before fixing."
+            },
+            {
+              "q": "How high is it when lowered?",
+              "a": "About 100–150 mm above the road surface, with anti-slip side ramps for vehicles to cross."
+            },
+            {
+              "q": "Does it work in a power cut?",
+              "a": "Yes, it has a built-in manual override for power cuts."
+            },
+            {
+              "q": "Is it crash-tested?",
+              "a": "No, it has no crash-test certificate. If an anti-ram rating is needed with limited digging depth, the RBS3MCT high-security shallow road blocker needs a pit only 40 cm deep; at 3 m width it was crash-tested by crashtest-service.com (CTS) in Münster, Germany, to PAS 68:2013 V/7500[N3]/80/90:-1.4/16.2 (certificate TC-12055-4574-19988-2-EN). The rating applies to the tested width and foundation."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "road-bollard",
@@ -6016,7 +7124,7 @@
             },
             {
               "label": "مصدر الكهرباء والطاقة",
-              "value": "220/380V, 3Phase, 50/60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "سرعة الفتح والرفع",
@@ -6050,7 +7158,7 @@
             },
             {
               "label": "Power Supply",
-              "value": "220/380V, 3Phase, 50/60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "Deployment Speed",
@@ -6196,7 +7304,7 @@
             },
             {
               "label": "مصدر الكهرباء والطاقة",
-              "value": "110/220V AC, 50/60Hz"
+              "value": "240V AC, 50Hz"
             },
             {
               "label": "جهد التشغيل الداخلي",
@@ -6230,7 +7338,7 @@
             },
             {
               "label": "Power Supply",
-              "value": "110/220V AC, 50/60Hz"
+              "value": "240V AC, 50Hz"
             },
             {
               "label": "Internal Voltage",
@@ -6439,7 +7547,57 @@
             "ar": "نظام كشف أسفل المركبات بكاميرات مسح خطي عالية الدقة وإضاءة LED لتفتيش المركبات لحظياً عند بوابات المنشآت الحساسة في قطر. اطلب عرض سعر."
           }
         },
-        "brand": "SAB TECH"
+        "brand": "SAB TECH",
+        "summary": {
+          "ar": "نظام يلتقط صورة كاملة لأسفل المركبة أثناء مرورها بكاميرا Line-Scan عالية الدقة وإضاءة LED مدمجة، بسرعة مرور 1–60 كم/س وتحميل 50 طناً لكل محور وحماية IP68، ويرتبط بأنظمة التعرف على اللوحات (ANPR). مناسب للمداخل الحساسة والجهات الحكومية والمنشآت الحيوية في قطر، وتورّده بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "A system that captures a full image of each vehicle underside as it drives over, with a high-resolution line-scan camera and built-in LED lighting, at 1–60 km/h, 50 tonnes per axle and IP68, linked to number plate recognition (ANPR). Suited to sensitive entrances, government sites and critical facilities in Qatar; supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "هل يجب أن تتوقف المركبة أثناء الفحص؟",
+              "a": "لا. سرعة المرور 1–60 كم/س، ويُحدد الحد المناسب حسب تصميم المدخل ووقت مراجعة الصورة."
+            },
+            {
+              "q": "هل يصلح لمداخل الشاحنات؟",
+              "a": "نعم، تحميل المحور 50 طناً، والهيكل يُركَّب سطحياً أو مدفوناً."
+            },
+            {
+              "q": "هل يرتبط بنظام الدخول الحالي؟",
+              "a": "يدعم الربط مع أنظمة التعرف على اللوحات (ANPR) والتحكم المركزي، ويُحدد أسلوب الربط بعد المعاينة."
+            },
+            {
+              "q": "هل يعمل ليلاً وفي الطقس القاسي؟",
+              "a": "نعم، بإضاءة LED مدمجة وحماية IP68 ونطاق تشغيل من -20 إلى +65 درجة مئوية."
+            },
+            {
+              "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
+              "a": "نعم. تتولى بيستوليكس المشروع كاملاً في قطر: معاينة الموقع ودراسة المتطلبات، ثم التوريد، والتركيب أو الإشراف الفني، والاختبار والتشغيل والتسليم، وتدريب المشغلين، ثم الصيانة الوقائية والتصحيحية وتوفير قطع الغيار. ويشمل المنتج ضماناً لمدة سنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "Does the vehicle have to stop?",
+              "a": "No. Passing speed is 1–60 km/h; the right limit depends on the entrance layout and image review time."
+            },
+            {
+              "q": "Is it suitable for truck entrances?",
+              "a": "Yes. It carries 50 tonnes per axle, and the unit can be surface- or pit-mounted."
+            },
+            {
+              "q": "Does it link to our access control?",
+              "a": "It supports ANPR and central control integration; the method is set after the site survey."
+            },
+            {
+              "q": "Does it work at night and in harsh weather?",
+              "a": "Yes, with built-in LED lighting, IP68 protection and an operating range of -20 to +65 °C."
+            },
+            {
+              "q": "Does Bestolex supply, install and maintain it in Qatar?",
+              "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
+            }
+          ]
+        }
       },
       {
         "id": "tyre-killer",
@@ -6521,7 +7679,7 @@
             },
             {
               "label": "مصدر الكهرباء والطاقة",
-              "value": "220/380V, 3Phase, 50/60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "سرعة الفتح والرفع",
@@ -6555,7 +7713,7 @@
             },
             {
               "label": "Power Supply",
-              "value": "220/380V, 3Phase, 50/60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "Operating Speed",
@@ -6779,7 +7937,7 @@
             },
             {
               "label": "مصدر الكهرباء والطاقة",
-              "value": "220/380V, 3Phase, 50/60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "سرعة الفتح والرفع",
@@ -6809,7 +7967,7 @@
             },
             {
               "label": "Power Supply",
-              "value": "220/380V, 3Phase, 50/60Hz"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "Operating Speed",
@@ -6932,7 +8090,7 @@
             },
             {
               "label": "مصدر الكهرباء والطاقة",
-              "value": "220V, Single Phase, 50/60Hz"
+              "value": "240V, Single Phase, 50Hz"
             },
             {
               "label": "نوع المحرك",
@@ -6962,7 +8120,7 @@
             },
             {
               "label": "Power Supply",
-              "value": "220V, Single Phase, 50/60Hz"
+              "value": "240V, Single Phase, 50Hz"
             },
             {
               "label": "Drive Unit",
@@ -7045,8 +8203,8 @@
       {
         "id": "garsite-10000-gallon-truck-1",
         "name": {
-          "ar": "شاحنة تزويد الطائرات بالوقود جارسيت 2011 سعة 10,000 جالون - شاحنة رقم 1",
-          "en": "2011 Garsite 10,000 US Gallon Aircraft Refueller Truck - Truck No. 1"
+          "ar": "شاحنة تزويد الطائرات بالوقود جارسيت 2011 سعة 10,000 جالون – رقم 1، نحو 4,645 ساعة تشغيل",
+          "en": "2011 Garsite 10,000 US Gallon Aircraft Refueller – Truck No. 1, about 4,645 hours"
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-1/1.jpg",
         "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-1/1.jpg",
@@ -7340,21 +8498,64 @@
         "pdf": "https://drive.google.com/file/d/1oSrLqajGn4924sWI0s49rmHEevWLuMp5/view?usp=drivesdk",
         "seo": {
           "title": {
-            "en": "Used Garsite 10,000 Gal Aircraft Refueller – Truck 1",
-            "ar": "شاحنة تزويد طائرات بالوقود جارسيت 10,000 جالون – رقم 1"
+            "ar": "شاحنة تزويد طائرات جارسيت رقم 1: نحو 4,645 ساعة تشغيل",
+            "en": "Garsite Refueller No. 1: About 4,645 Operating Hours"
           },
           "description": {
-            "en": "Used 2011 Garsite aircraft refueller truck, 10,000 US gallons (about 37,854 litres), previously operated at Hamad International Airport. Truck No. 1.",
-            "ar": "شاحنة تزويد طائرات بالوقود جارسيت موديل 2011 مستعملة، سعة 10,000 جالون أمريكي (نحو 37,854 لتراً)، عملت سابقاً في مطار حمد الدولي. الشاحنة رقم 1."
+            "ar": "نعرض شاحنة جارسيت مستعملة موديل 2011 لتزويد الطائرات بالوقود سعة 10,000 جالون، ساعات تشغيلها نحو 4,644.5، وهي الأقل بين شاحناتنا الأربع.",
+            "en": "This used 2011 Garsite 10,000-gallon aircraft refueller has about 4,644.5 hours, the fewest of our four trucks. It is available to inspect in Qatar."
           }
         },
-        "brand": "Garsite"
+        "brand": "Garsite",
+        "summary": {
+          "ar": "شاحنة جارسيت مستعملة لتزويد الطائرات بالوقود، موديل 2011، سعة 10,000 جالون أمريكي، وهي الأقل ساعات تشغيل بين الشاحنات الأربع (نحو 4,644.5 ساعة مسجلة). حزمة التزويد 10MS-800A-FL-AEDAS (الرقم التسلسلي 6427) من تصنيع فبراير 2011، وعملت في مطار حمد الدولي، ومتاحة للمعاينة في قطر.",
+          "en": "A used 2011 Garsite aircraft refueller, 10,000 US gallons, with the fewest operating hours of the four trucks (about 4,644.5 recorded hours). Its 10MS-800A-FL-AEDAS refuelling package (serial 6427) dates from February 2011; it worked at Hamad International Airport and is available to inspect in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما الذي يميز هذه الشاحنة عن الشاحنات الثلاث الأخرى؟",
+              "a": "أنها الأقل ساعات تشغيل: نحو 4,644.5 ساعة، مقابل 5,055.9 و5,865 و6,093 ساعة للشاحنات 2 و3 و4. وتذكر بياناتها وعاء ترشيح دون عدد العناصر أو معدل التدفق، ولا تذكر مادة الخزان، فيُتحقق منهما في المعاينة."
+            },
+            {
+              "q": "ما سعة الخزان ومعدل التزويد؟",
+              "a": "سعة الخزان 10,000 جالون أمريكي (نحو 37,854 لتراً)، ونظام القياس 10MSD-2 بمعدل تدفق مقنن 300 جالون/دقيقة وضغط أقصى 150 PSI."
+            },
+            {
+              "q": "هل يمكن معاينة الشاحنة وفحصها قبل الشراء؟",
+              "a": "نعم. الشاحنة موجودة في قطر ومتاحة للمعاينة والفحص الفني. ونوصي بفحص نظام التزويد والترشيح والقياس ومراجعة سجلات الصيانة قبل الشراء."
+            },
+            {
+              "q": "كيف أحصل على عرض للشاحنة؟",
+              "a": "تواصل مع بيستوليكس عبر نموذج طلب عرض السعر أو واتساب على +974 51505014، ونرتب لك المعاينة ونرسل بيانات الشاحنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "What sets this truck apart from the other three?",
+              "a": "It has the fewest hours: about 4,644.5, against 5,055.9, 5,865 and 6,093 for trucks 2, 3 and 4. Its data mentions filtration but gives no element count or flow rate, and does not list the tank material, so check both at the viewing."
+            },
+            {
+              "q": "What are the tank capacity and delivery rate?",
+              "a": "The tank holds 10,000 US gallons (about 37,854 litres), and the 10MSD-2 meter is rated at 300 GPM with a 150 PSI maximum pressure."
+            },
+            {
+              "q": "Can the truck be inspected before purchase?",
+              "a": "Yes. The truck is in Qatar and available for viewing and technical inspection. We recommend checking the fuelling, filtration and metering systems and the maintenance records before purchase."
+            },
+            {
+              "q": "How do I get an offer for this truck?",
+              "a": "Contact Bestolex through the quote form or WhatsApp on +974 51505014; we arrange the viewing and send the truck data."
+            }
+          ]
+        },
+        "comparisonGroup": "garsite-refuellers"
       },
       {
         "id": "garsite-10000-gallon-truck-2",
         "name": {
-          "ar": "شاحنة تزويد الطائرات بالوقود جارسيت 2011 سعة 10,000 جالون - شاحنة رقم 2",
-          "en": "2011 Garsite 10,000 US Gallon Aircraft Refueller Truck - Truck No. 2"
+          "ar": "شاحنة تزويد الطائرات بالوقود جارسيت 2011 سعة 10,000 جالون – رقم 2، فلترة 27 عنصراً",
+          "en": "2011 Garsite 10,000 US Gallon Aircraft Refueller – Truck No. 2, 27-element filtration"
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-2/1.PNG",
         "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-2/1.PNG",
@@ -7646,21 +8847,64 @@
         "pdf": "https://drive.google.com/file/d/1S7VLRdb_-IVQVKWAUMuL2DibKsUuE7yv/view?usp=drivesdk",
         "seo": {
           "title": {
-            "en": "Used Garsite 10,000 Gal Aircraft Refueller – Truck 2",
-            "ar": "شاحنة تزويد طائرات بالوقود جارسيت 10,000 جالون – رقم 2"
+            "ar": "شاحنة تزويد طائرات جارسيت رقم 2: فلترة 27 عنصراً",
+            "en": "Garsite Refueller No. 2: 27-Element Filtration"
           },
           "description": {
-            "en": "Used 2011 Garsite aircraft refueller truck, 10,000 US gallons (about 37,854 litres), previously operated at Hamad International Airport. Truck No. 2.",
-            "ar": "شاحنة تزويد طائرات بالوقود جارسيت موديل 2011 مستعملة، سعة 10,000 جالون أمريكي (نحو 37,854 لتراً)، عملت سابقاً في مطار حمد الدولي. الشاحنة رقم 2."
+            "ar": "نعرض شاحنة جارسيت مستعملة موديل 2011 لتزويد الطائرات بالوقود سعة 10,000 جالون، بفلترة 27 عنصراً حتى 810 جالون/دقيقة ونحو 5,055.9 ساعة تشغيل.",
+            "en": "This used 2011 Garsite 10,000-gallon refueller has 27-element filtration rated to 810 GPM and about 5,055.9 hours at Hamad International Airport."
           }
         },
-        "brand": "Garsite"
+        "brand": "Garsite",
+        "summary": {
+          "ar": "شاحنة جارسيت مستعملة لتزويد الطائرات بالوقود، موديل 2011، سعة 10,000 جالون أمريكي، مزودة بنظام فلترة ومراقبة من 27 عنصر ترشيح بتدفق تشغيلي حتى 810 جالون/دقيقة، وساعات تشغيلها المسجلة نحو 5,055.9 ساعة. الشاسيه والخزان من تصنيع يناير 2011، وعملت في مطار حمد الدولي، ومتاحة للمعاينة في قطر.",
+          "en": "A used 2011 Garsite aircraft refueller, 10,000 US gallons, fitted with a 27-element filtration and monitoring system rated up to 810 GPM, with about 5,055.9 recorded operating hours. Chassis and tank date from January 2011; it worked at Hamad International Airport and is available to inspect in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما الذي يميز هذه الشاحنة عن الشاحنات الثلاث الأخرى؟",
+              "a": "أنها الأقل ساعات تشغيل بين الشاحنات المزودة بنظام فلترة من 27 عنصراً (نحو 5,055.9 ساعة، مقابل 5,865 و6,093 للشاحنتين 3 و4)، وأن الشاسيه والخزان من تصنيع يناير 2011."
+            },
+            {
+              "q": "ما سعة الخزان ومعدل التزويد؟",
+              "a": "سعة الخزان 10,000 جالون أمريكي (نحو 37,854 لتراً)، ونظام القياس 10MSD-2 بمعدل تدفق مقنن 300 جالون/دقيقة وضغط أقصى 150 PSI."
+            },
+            {
+              "q": "هل يمكن معاينة الشاحنة وفحصها قبل الشراء؟",
+              "a": "نعم. الشاحنة موجودة في قطر ومتاحة للمعاينة والفحص الفني. ونوصي بفحص نظام التزويد والترشيح والقياس ومراجعة سجلات الصيانة قبل الشراء."
+            },
+            {
+              "q": "كيف أحصل على عرض للشاحنة؟",
+              "a": "تواصل مع بيستوليكس عبر نموذج طلب عرض السعر أو واتساب على +974 51505014، ونرتب لك المعاينة ونرسل بيانات الشاحنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "What sets this truck apart from the other three?",
+              "a": "Of the trucks with the 27-element filtration system, it has the fewest hours (about 5,055.9, against 5,865 and 6,093 for trucks 3 and 4); its chassis and tank date from January 2011."
+            },
+            {
+              "q": "What are the tank capacity and delivery rate?",
+              "a": "The tank holds 10,000 US gallons (about 37,854 litres), and the 10MSD-2 meter is rated at 300 GPM with a 150 PSI maximum pressure."
+            },
+            {
+              "q": "Can the truck be inspected before purchase?",
+              "a": "Yes. The truck is in Qatar and available for viewing and technical inspection. We recommend checking the fuelling, filtration and metering systems and the maintenance records before purchase."
+            },
+            {
+              "q": "How do I get an offer for this truck?",
+              "a": "Contact Bestolex through the quote form or WhatsApp on +974 51505014; we arrange the viewing and send the truck data."
+            }
+          ]
+        },
+        "comparisonGroup": "garsite-refuellers"
       },
       {
         "id": "garsite-10000-gallon-truck-3",
         "name": {
-          "ar": "شاحنة تزويد الطائرات بالوقود جارسيت 2011 سعة 10,000 جالون - شاحنة رقم 3",
-          "en": "2011 Garsite 10,000 US Gallon Aircraft Refueller Truck - Truck No. 3"
+          "ar": "شاحنة تزويد الطائرات بالوقود جارسيت 2011 سعة 10,000 جالون – رقم 3، خزان فولاذ مقاوم للصدأ",
+          "en": "2011 Garsite 10,000 US Gallon Aircraft Refueller – Truck No. 3, stainless steel tank"
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-3/1.jpeg",
         "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-3/1.jpeg",
@@ -7977,21 +9221,64 @@
         "pdf": "https://drive.google.com/file/d/1lGJWrJ5FheMssET0x-kil6GtsquLg9BL/view?usp=drivesdk",
         "seo": {
           "title": {
-            "en": "Used Garsite 10,000 Gal Aircraft Refueller – Truck 3",
-            "ar": "شاحنة تزويد طائرات بالوقود جارسيت 10,000 جالون – رقم 3"
+            "ar": "شاحنة تزويد طائرات جارسيت رقم 3: خزان مقاوم للصدأ",
+            "en": "Garsite Refueller No. 3: Stainless Steel Tank"
           },
           "description": {
-            "en": "Used 2011 Garsite aircraft refueller truck, 10,000 US gallons (about 37,854 litres), previously operated at Hamad International Airport. Truck No. 3.",
-            "ar": "شاحنة تزويد طائرات بالوقود جارسيت موديل 2011 مستعملة، سعة 10,000 جالون أمريكي (نحو 37,854 لتراً)، عملت سابقاً في مطار حمد الدولي. الشاحنة رقم 3."
+            "ar": "نعرض شاحنة جارسيت مستعملة موديل 2011 سعة 10,000 جالون، بخزان فولاذ مقاوم للصدأ SA-240 304 وفلترة 27 عنصراً، ونحو 5,865 ساعة تشغيل في مطار حمد.",
+            "en": "This used 2011 Garsite 10,000-gallon refueller has an SA-240 304 stainless tank, 27-element filtration and about 5,865 hours at Hamad Airport."
           }
         },
-        "brand": "Garsite"
+        "brand": "Garsite",
+        "summary": {
+          "ar": "شاحنة جارسيت مستعملة لتزويد الطائرات بالوقود، موديل 2011، سعة 10,000 جالون أمريكي، بخزان من الفولاذ المقاوم للصدأ SA-240 304 ونظام فلترة ومراقبة من 27 عنصراً، وساعات تشغيلها المسجلة نحو 5,865 ساعة. حزمة التزويد 10MS-800A-FL-AEDAS (الرقم التسلسلي 6428)، وعملت في مطار حمد الدولي، ومتاحة للمعاينة في قطر.",
+          "en": "A used 2011 Garsite aircraft refueller, 10,000 US gallons, with an SA-240 304 stainless steel tank and a 27-element filtration and monitoring system, at about 5,865 recorded operating hours. Its refuelling package is a 10MS-800A-FL-AEDAS (serial 6428); it worked at Hamad International Airport and is available to inspect in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما الذي يميز هذه الشاحنة عن الشاحنات الثلاث الأخرى؟",
+              "a": "خزانها من الفولاذ المقاوم للصدأ SA-240 304 ونظام فلترتها من 27 عنصراً، مثل الشاحنة 4، لكن ساعات تشغيلها أقل (نحو 5,865 ساعة مقابل 6,093)."
+            },
+            {
+              "q": "ما سعة الخزان ومعدل التزويد؟",
+              "a": "سعة الخزان 10,000 جالون أمريكي (نحو 37,854 لتراً)، ونظام القياس 10MSD-2 بمعدل تدفق مقنن 300 جالون/دقيقة وضغط أقصى 150 PSI."
+            },
+            {
+              "q": "هل يمكن معاينة الشاحنة وفحصها قبل الشراء؟",
+              "a": "نعم. الشاحنة موجودة في قطر ومتاحة للمعاينة والفحص الفني. ونوصي بفحص نظام التزويد والترشيح والقياس ومراجعة سجلات الصيانة قبل الشراء."
+            },
+            {
+              "q": "كيف أحصل على عرض للشاحنة؟",
+              "a": "تواصل مع بيستوليكس عبر نموذج طلب عرض السعر أو واتساب على +974 51505014، ونرتب لك المعاينة ونرسل بيانات الشاحنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "What sets this truck apart from the other three?",
+              "a": "It has an SA-240 304 stainless steel tank and 27-element filtration, like truck 4, but fewer hours (about 5,865 against 6,093)."
+            },
+            {
+              "q": "What are the tank capacity and delivery rate?",
+              "a": "The tank holds 10,000 US gallons (about 37,854 litres), and the 10MSD-2 meter is rated at 300 GPM with a 150 PSI maximum pressure."
+            },
+            {
+              "q": "Can the truck be inspected before purchase?",
+              "a": "Yes. The truck is in Qatar and available for viewing and technical inspection. We recommend checking the fuelling, filtration and metering systems and the maintenance records before purchase."
+            },
+            {
+              "q": "How do I get an offer for this truck?",
+              "a": "Contact Bestolex through the quote form or WhatsApp on +974 51505014; we arrange the viewing and send the truck data."
+            }
+          ]
+        },
+        "comparisonGroup": "garsite-refuellers"
       },
       {
         "id": "garsite-10000-gallon-truck-4",
         "name": {
-          "ar": "شاحنة تزويد الطائرات بالوقود جارسيت 2011 سعة 10,000 جالون - شاحنة رقم 4",
-          "en": "2011 Garsite 10,000 US Gallon Aircraft Refueller Truck - Truck No. 4"
+          "ar": "شاحنة تزويد الطائرات بالوقود جارسيت 2011 سعة 10,000 جالون – رقم 4، خزان مقاوم للصدأ و6,093 ساعة",
+          "en": "2011 Garsite 10,000 US Gallon Aircraft Refueller – Truck No. 4, stainless tank, 6,093 hours"
         },
         "coverImage": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-4/1.jpeg",
         "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-4/1.jpeg",
@@ -8308,15 +9595,58 @@
         "pdf": "https://drive.google.com/file/d/1y2ziRqu5P96aLT_VL_GaQCXiSj6UQAtn/view?usp=drivesdk",
         "seo": {
           "title": {
-            "en": "Used Garsite 10,000 Gal Aircraft Refueller – Truck 4",
-            "ar": "شاحنة تزويد طائرات بالوقود جارسيت 10,000 جالون – رقم 4"
+            "ar": "شاحنة جارسيت رقم 4: خزان مقاوم للصدأ و6,093 ساعة",
+            "en": "Garsite Refueller No. 4: Stainless Tank, 6,093 Hours"
           },
           "description": {
-            "en": "Used 2011 Garsite aircraft refueller truck, 10,000 US gallons (about 37,854 litres), previously operated at Hamad International Airport. Truck No. 4.",
-            "ar": "شاحنة تزويد طائرات بالوقود جارسيت موديل 2011 مستعملة، سعة 10,000 جالون أمريكي (نحو 37,854 لتراً)، عملت سابقاً في مطار حمد الدولي. الشاحنة رقم 4."
+            "ar": "نعرض شاحنة جارسيت مستعملة موديل 2011 سعة 10,000 جالون، بخزان فولاذ مقاوم للصدأ SA-240 304 وفلترة 27 عنصراً، ونحو 6,093 ساعة تشغيل في مطار حمد.",
+            "en": "This used 2011 Garsite 10,000-gallon refueller has an SA-240 304 stainless tank, 27-element filtration and about 6,093 hours at Hamad Airport."
           }
         },
-        "brand": "Garsite"
+        "brand": "Garsite",
+        "summary": {
+          "ar": "شاحنة جارسيت مستعملة لتزويد الطائرات بالوقود، موديل 2011، سعة 10,000 جالون أمريكي، بخزان من الفولاذ المقاوم للصدأ SA-240 304 ونظام فلترة ومراقبة من 27 عنصراً، وساعات تشغيلها المسجلة نحو 6,093 ساعة. حزمة التزويد 10MS-800A-FL-AEDAS (الرقم التسلسلي 6429)، وعملت في مطار حمد الدولي، ومتاحة للمعاينة في قطر.",
+          "en": "A used 2011 Garsite aircraft refueller, 10,000 US gallons, with an SA-240 304 stainless steel tank and a 27-element filtration and monitoring system, at about 6,093 recorded operating hours. Its refuelling package is a 10MS-800A-FL-AEDAS (serial 6429); it worked at Hamad International Airport and is available to inspect in Qatar."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما الذي يميز هذه الشاحنة عن الشاحنات الثلاث الأخرى؟",
+              "a": "لها خزان الشاحنة 3 ونظام فلترتها نفسهما (فولاذ مقاوم للصدأ SA-240 304 وفلترة من 27 عنصراً)، وساعات تشغيلها هي الأعلى بين الأربع (نحو 6,093 ساعة)، والرقم التسلسلي لحزمة التزويد 6429."
+            },
+            {
+              "q": "ما سعة الخزان ومعدل التزويد؟",
+              "a": "سعة الخزان 10,000 جالون أمريكي (نحو 37,854 لتراً)، ونظام القياس 10MSD-2 بمعدل تدفق مقنن 300 جالون/دقيقة وضغط أقصى 150 PSI."
+            },
+            {
+              "q": "هل يمكن معاينة الشاحنة وفحصها قبل الشراء؟",
+              "a": "نعم. الشاحنة موجودة في قطر ومتاحة للمعاينة والفحص الفني. ونوصي بفحص نظام التزويد والترشيح والقياس ومراجعة سجلات الصيانة قبل الشراء."
+            },
+            {
+              "q": "كيف أحصل على عرض للشاحنة؟",
+              "a": "تواصل مع بيستوليكس عبر نموذج طلب عرض السعر أو واتساب على +974 51505014، ونرتب لك المعاينة ونرسل بيانات الشاحنة."
+            }
+          ],
+          "en": [
+            {
+              "q": "What sets this truck apart from the other three?",
+              "a": "Like truck 3, it has an SA-240 304 stainless steel tank and 27-element filtration; it has the most hours of the four (about 6,093). Its refuelling package carries serial 6429."
+            },
+            {
+              "q": "What are the tank capacity and delivery rate?",
+              "a": "The tank holds 10,000 US gallons (about 37,854 litres), and the 10MSD-2 meter is rated at 300 GPM with a 150 PSI maximum pressure."
+            },
+            {
+              "q": "Can the truck be inspected before purchase?",
+              "a": "Yes. The truck is in Qatar and available for viewing and technical inspection. We recommend checking the fuelling, filtration and metering systems and the maintenance records before purchase."
+            },
+            {
+              "q": "How do I get an offer for this truck?",
+              "a": "Contact Bestolex through the quote form or WhatsApp on +974 51505014; we arrange the viewing and send the truck data."
+            }
+          ]
+        },
+        "comparisonGroup": "garsite-refuellers"
       }
     ],
     "seo": {

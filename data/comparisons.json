@@ -1,0 +1,186 @@
+{
+  "garsite-refuellers": {
+    "title": {
+      "ar": "مقارنة شاحنات جارسيت الأربع",
+      "en": "Comparing the four Garsite refuellers"
+    },
+    "intro": {
+      "ar": "الشاحنات الأربع من موديل 2011 وسعة كل منها 10,000 جالون أمريكي، ونظام القياس فيها 300 جالون/دقيقة بضغط أقصى 150 PSI، ومحرك كل منها QSC240، وعملت كلها في مطار حمد الدولي. هذه الفروق بينها كما في بيانات كل شاحنة:",
+      "en": "All four are 2011 trucks with 10,000 US gallon tanks, a 300 GPM meter with a 150 PSI maximum pressure and a QSC240 engine, and all worked at Hamad International Airport. These are the differences, as listed in each truck's data:"
+    },
+    "columns": [
+      "garsite-10000-gallon-truck-1",
+      "garsite-10000-gallon-truck-2",
+      "garsite-10000-gallon-truck-3",
+      "garsite-10000-gallon-truck-4"
+    ],
+    "columnLabels": [
+      {
+        "ar": "الشاحنة 1",
+        "en": "Truck 1"
+      },
+      {
+        "ar": "الشاحنة 2",
+        "en": "Truck 2"
+      },
+      {
+        "ar": "الشاحنة 3",
+        "en": "Truck 3"
+      },
+      {
+        "ar": "الشاحنة 4",
+        "en": "Truck 4"
+      }
+    ],
+    "rows": [
+      {
+        "label": {
+          "ar": "ساعات التشغيل المسجلة",
+          "en": "Recorded operating hours"
+        },
+        "values": [
+          {
+            "ar": "نحو 4,644.5",
+            "en": "About 4,644.5"
+          },
+          {
+            "ar": "نحو 5,055.9",
+            "en": "About 5,055.9"
+          },
+          {
+            "ar": "نحو 5,865",
+            "en": "About 5,865"
+          },
+          {
+            "ar": "نحو 6,093",
+            "en": "About 6,093"
+          }
+        ]
+      },
+      {
+        "label": {
+          "ar": "مادة الخزان",
+          "en": "Tank material"
+        },
+        "values": [
+          {
+            "ar": "غير مذكور في بيانات الشاحنة",
+            "en": "Not listed in the truck data"
+          },
+          {
+            "ar": "غير مذكور في بيانات الشاحنة",
+            "en": "Not listed in the truck data"
+          },
+          {
+            "ar": "فولاذ مقاوم للصدأ SA-240 304",
+            "en": "SA-240 304 stainless steel"
+          },
+          {
+            "ar": "فولاذ مقاوم للصدأ SA-240 304",
+            "en": "SA-240 304 stainless steel"
+          }
+        ]
+      },
+      {
+        "label": {
+          "ar": "نظام الفلترة والمراقبة",
+          "en": "Filtration and monitoring"
+        },
+        "values": [
+          {
+            "ar": "مذكور دون عدد العناصر أو معدل التدفق",
+            "en": "Listed, no element count or flow rate given"
+          },
+          {
+            "ar": "27 عنصراً، حتى 810 جالون/دقيقة",
+            "en": "27 elements, up to 810 GPM"
+          },
+          {
+            "ar": "27 عنصراً، حتى 810 جالون/دقيقة",
+            "en": "27 elements, up to 810 GPM"
+          },
+          {
+            "ar": "27 عنصراً، حتى 810 جالون/دقيقة",
+            "en": "27 elements, up to 810 GPM"
+          }
+        ]
+      },
+      {
+        "label": {
+          "ar": "حزمة التزويد (الرقم التسلسلي)",
+          "en": "Refuelling package (serial)"
+        },
+        "values": [
+          {
+            "ar": "10MS-800A-FL-AEDAS (6427)",
+            "en": "10MS-800A-FL-AEDAS (6427)"
+          },
+          {
+            "ar": "غير مذكور (حزمة جارسيت لتزويد الطيران)",
+            "en": "Not listed (Garsite aviation refuelling equipment)"
+          },
+          {
+            "ar": "10MS-800A-FL-AEDAS (6428)",
+            "en": "10MS-800A-FL-AEDAS (6428)"
+          },
+          {
+            "ar": "10MS-800A-FL-AEDAS (6429)",
+            "en": "10MS-800A-FL-AEDAS (6429)"
+          }
+        ]
+      },
+      {
+        "label": {
+          "ar": "تاريخ التصنيع",
+          "en": "Built"
+        },
+        "values": [
+          {
+            "ar": "فبراير 2011",
+            "en": "February 2011"
+          },
+          {
+            "ar": "يناير 2011 (الشاسيه والخزان)",
+            "en": "January 2011 (chassis and tank)"
+          },
+          {
+            "ar": "فبراير 2011",
+            "en": "February 2011"
+          },
+          {
+            "ar": "فبراير 2011",
+            "en": "February 2011"
+          }
+        ]
+      },
+      {
+        "label": {
+          "ar": "رقم الشاسيه",
+          "en": "Chassis serial"
+        },
+        "values": [
+          {
+            "ar": "1223",
+            "en": "1223"
+          },
+          {
+            "ar": "1293",
+            "en": "1293"
+          },
+          {
+            "ar": "1294",
+            "en": "1294"
+          },
+          {
+            "ar": "1295",
+            "en": "1295"
+          }
+        ]
+      }
+    ],
+    "note": {
+      "ar": "المصدر: بيانات كل شاحنة في صفحتها. والشاحنات مستعملة ومتاحة للمعاينة في قطر.",
+      "en": "Source: each truck's data on its page. The trucks are used and available to inspect in Qatar."
+    }
+  }
+}

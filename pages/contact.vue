@@ -83,6 +83,22 @@
                 </div>
               </div>
 
+              <!-- Working hours -->
+              <div class="flex items-start gap-4">
+                <div class="w-12 h-12 bg-orange-100 dark:bg-gray-800 text-primary rounded-full flex items-center justify-center shrink-0 shadow-sm">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  </svg>
+                </div>
+                <div>
+                  <h4 class="font-bold text-gray-800 dark:text-white text-lg mb-1">{{ locale === 'ar' ? 'ساعات العمل' : 'Working Hours' }}</h4>
+                  <p class="text-sm font-medium leading-relaxed">
+                    {{ locale === 'ar' ? 'الأحد إلى الخميس والسبت: 7:00 صباحاً – 6:00 مساءً' : 'Sunday to Thursday and Saturday: 7:00 am – 6:00 pm' }}
+                  </p>
+                  <p class="text-sm text-gray-500 dark:text-gray-400">{{ locale === 'ar' ? 'الجمعة: عطلة' : 'Friday: closed' }}</p>
+                </div>
+              </div>
+
               <!-- Social Media Channels Section -->
               <div class="pt-4 border-t border-gray-100 dark:border-gray-800">
                 <h4 class="font-bold text-gray-800 dark:text-white text-sm mb-3">
@@ -152,49 +168,53 @@
             <form class="space-y-6 relative z-10" @submit.prevent="submitForm">
               
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                <!-- Name Input -->
                 <div>
-                  <label class="block mb-2 text-sm font-bold text-gray-700 dark:text-gray-300">{{ locale === 'ar' ? 'الاسم' : 'Name' }}</label>
-                  <div class="relative">
-                    <div class="absolute inset-y-0 rtl:right-0 ltr:left-0 flex items-center rtl:pr-4 ltr:pl-4 pointer-events-none">
-                      <svg class="w-5 h-5 text-gray-400 dark:text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path></svg>
-                    </div>
-                    <input v-model="form.name" type="text" required class="w-full rtl:pr-12 ltr:pl-12 py-3 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary outline-none transition text-gray-800 dark:text-white" :placeholder="locale === 'ar' ? 'الاسم بالكامل' : 'Full Name'">
-                  </div>
+                  <label for="c-name" class="block mb-2 text-sm font-bold text-gray-700 dark:text-gray-300">{{ locale === 'ar' ? 'الاسم*' : 'Name*' }}</label>
+                  <input id="c-name" v-model="form.name" type="text" required autocomplete="name" class="w-full px-4 py-3 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary outline-none transition text-gray-800 dark:text-white" :placeholder="locale === 'ar' ? 'الاسم بالكامل' : 'Full name'">
                 </div>
-
-                <!-- Phone Input -->
                 <div>
-                  <label class="block mb-2 text-sm font-bold text-gray-700 dark:text-gray-300">{{ locale === 'ar' ? 'رقم الهاتف (اختياري)' : 'Phone (Optional)' }}</label>
-                  <div class="relative">
-                    <div class="absolute inset-y-0 rtl:right-0 ltr:left-0 flex items-center rtl:pr-4 ltr:pl-4 pointer-events-none">
-                      <svg class="w-5 h-5 text-gray-400 dark:text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path></svg>
-                    </div>
-                    <input v-model="form.phone" type="text" class="w-full rtl:pr-12 ltr:pl-12 py-3 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary outline-none transition text-gray-800 dark:text-white" :placeholder="locale === 'ar' ? 'رقم الموبايل' : 'Phone Number'">
-                  </div>
+                  <label for="c-phone" class="block mb-2 text-sm font-bold text-gray-700 dark:text-gray-300">{{ locale === 'ar' ? 'رقم الهاتف أو واتساب*' : 'Phone or WhatsApp*' }}</label>
+                  <input id="c-phone" v-model="form.phone" type="tel" required dir="ltr" autocomplete="tel" placeholder="+974" class="w-full px-4 py-3 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary outline-none transition text-gray-800 dark:text-white">
                 </div>
               </div>
 
-              <!-- Email Input -->
-              <div>
-                <label class="block mb-2 text-sm font-bold text-gray-700 dark:text-gray-300">{{ locale === 'ar' ? 'البريد الإلكتروني' : 'Email' }}</label>
-                <div class="relative">
-                  <div class="absolute inset-y-0 rtl:right-0 ltr:left-0 flex items-center rtl:pr-4 ltr:pl-4 pointer-events-none">
-                    <svg class="w-5 h-5 text-gray-400 dark:text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
-                  </div>
-                  <input v-model="form.email" type="email" required class="w-full rtl:pr-12 ltr:pl-12 py-3 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary outline-none transition text-gray-800 dark:text-white" :placeholder="locale === 'ar' ? 'example@mail.com' : 'example@mail.com'">
+              <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                  <label for="c-email" class="block mb-2 text-sm font-bold text-gray-700 dark:text-gray-300">{{ locale === 'ar' ? 'البريد الإلكتروني (اختياري)' : 'Email (optional)' }}</label>
+                  <input id="c-email" v-model="form.email" type="email" dir="ltr" autocomplete="email" class="w-full px-4 py-3 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary outline-none transition text-gray-800 dark:text-white" placeholder="example@mail.com">
+                </div>
+                <div>
+                  <label for="c-company" class="block mb-2 text-sm font-bold text-gray-700 dark:text-gray-300">{{ locale === 'ar' ? 'اسم الشركة (اختياري)' : 'Company (optional)' }}</label>
+                  <input id="c-company" v-model="form.company" type="text" autocomplete="organization" class="w-full px-4 py-3 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary outline-none transition text-gray-800 dark:text-white">
                 </div>
               </div>
 
-              <!-- Message Input -->
-              <div>
-                <label class="block mb-2 text-sm font-bold text-gray-700 dark:text-gray-300">{{ locale === 'ar' ? 'الرسالة' : 'Message' }}</label>
-                <div class="relative">
-                  <div class="absolute top-4 rtl:right-0 ltr:left-0 flex items-start rtl:pr-4 ltr:pl-4 pointer-events-none">
-                    <svg class="w-5 h-5 text-gray-400 dark:text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"></path></svg>
-                  </div>
-                  <textarea v-model="form.message" rows="5" required class="w-full rtl:pr-12 ltr:pl-12 py-3 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary outline-none transition text-gray-800 dark:text-white resize-none" :placeholder="locale === 'ar' ? 'اكتب رسالتك هنا...' : 'Type your message here...'"></textarea>
+              <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                  <label for="c-type" class="block mb-2 text-sm font-bold text-gray-700 dark:text-gray-300">{{ locale === 'ar' ? 'نوع الطلب' : 'Request type' }}</label>
+                  <select id="c-type" v-model="form.requestType" class="w-full px-4 py-3 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary outline-none transition text-gray-800 dark:text-white">
+                    <option v-for="t in REQUEST_TYPES" :key="t.id" :value="t.id">{{ locale === 'ar' ? t.ar : t.en }}</option>
+                  </select>
                 </div>
+                <div>
+                  <label for="c-product" class="block mb-2 text-sm font-bold text-gray-700 dark:text-gray-300">{{ locale === 'ar' ? 'المنتج (اختياري)' : 'Product (optional)' }}</label>
+                  <select id="c-product" v-model="form.productId" class="w-full px-4 py-3 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary outline-none transition text-gray-800 dark:text-white">
+                    <option value="">{{ locale === 'ar' ? '— اختر منتجاً —' : '— Select a product —' }}</option>
+                    <optgroup v-for="cat in productGroups" :key="cat.id" :label="cat.title">
+                      <option v-for="p in cat.products" :key="p.id" :value="p.id">{{ p.name }}</option>
+                    </optgroup>
+                  </select>
+                </div>
+              </div>
+
+              <div>
+                <label for="c-location" class="block mb-2 text-sm font-bold text-gray-700 dark:text-gray-300">{{ locale === 'ar' ? 'موقع المشروع (اختياري)' : 'Project location (optional)' }}</label>
+                <input id="c-location" v-model="form.location" type="text" class="w-full px-4 py-3 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary outline-none transition text-gray-800 dark:text-white" :placeholder="locale === 'ar' ? 'مثال: الدوحة، مسيعيد، راس لفان' : 'e.g. Doha, Mesaieed, Ras Laffan'">
+              </div>
+
+              <div>
+                <label for="c-message" class="block mb-2 text-sm font-bold text-gray-700 dark:text-gray-300">{{ locale === 'ar' ? 'الرسالة (اختياري)' : 'Message (optional)' }}</label>
+                <textarea id="c-message" v-model="form.message" rows="4" class="w-full px-4 py-3 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl focus:ring-2 focus:ring-primary focus:border-primary outline-none transition text-gray-800 dark:text-white resize-none" :placeholder="locale === 'ar' ? 'اكتب تفاصيل طلبك هنا...' : 'Tell us about your request...'"></textarea>
               </div>
               
               <!-- Submit Button -->
@@ -234,6 +254,8 @@
 
 <script setup>
 import { computed } from 'vue'
+import mockProducts from '@/data/products.json'
+import { REQUEST_TYPES, whatsappLink } from '~/utils/leads'
 
 const { locale } = useI18n()
 const localePath = useLocalePath()
@@ -280,12 +302,21 @@ useHead(() => ({
   ]
 }))
 
-const form = ref({
-  name: '',
-  email: '',
-  phone: '',
-  message: ''
-})
+const route = useRoute()
+const emptyForm = () => ({ name: '', company: '', email: '', phone: '', requestType: 'quote', productId: '', location: '', message: '' })
+const form = ref(emptyForm())
+
+// ?product=<id> preselects a product (links from product pages and articles)
+const allProducts = mockProducts.flatMap(c => (c.products || []).map(p => ({ ...p, catTitle: c.title })))
+if (typeof route.query.product === 'string' && allProducts.some(p => p.id === route.query.product)) {
+  form.value.productId = route.query.product
+}
+
+const productGroups = computed(() => mockProducts.map(c => ({
+  id: c.id,
+  title: c.title?.[locale.value] || c.title?.ar,
+  products: (c.products || []).map(p => ({ id: p.id, name: p.name?.[locale.value] || p.name?.ar }))
+})))
 
 const loading = ref(false)
 const statusMessage = ref('')
@@ -296,19 +327,26 @@ const submitForm = async () => {
   statusMessage.value = ''
   
   try {
-    const response = await $fetch('/api/contact', {
+    const picked = allProducts.find(p => p.id === form.value.productId)
+    await $fetch('/api/contact', {
       method: 'POST',
-      body: form.value
+      body: {
+        ...form.value,
+        productName: picked ? `${picked.name?.ar || ''} - ${picked.name?.en || ''}` : '',
+        categoryTitle: picked ? (picked.catTitle?.ar || '') : '',
+        productUrl: picked ? `${SITE_URL}/products/${picked.id}` : '',
+        isQuoteRequest: !!picked || form.value.requestType === 'quote'
+      }
     })
     
     statusType.value = 'success'
     statusMessage.value = locale.value === 'ar' ? 'تم إرسال رسالتك بنجاح! سنتواصل معك قريباً.' : 'Your message has been sent successfully! We will contact you soon.'
     
     // Reset form
-    form.value = { name: '', email: '', phone: '', message: '' }
+    form.value = emptyForm()
   } catch (error) {
     statusType.value = 'error'
-    statusMessage.value = locale.value === 'ar' ? 'حدث خطأ أثناء الإرسال. يرجى المحاولة مرة أخرى.' : 'An error occurred while sending. Please try again.'
+    statusMessage.value = locale.value === 'ar' ? 'تعذّر الإرسال. حاول مرة أخرى أو راسلنا على واتساب +974 51505014.' : 'Sending failed. Please try again or message us on WhatsApp +974 51505014.'
     console.error(error)
   } finally {
     loading.value = false

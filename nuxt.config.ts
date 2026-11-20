@@ -27,6 +27,29 @@ export default defineNuxtConfig({
         'Permissions-Policy': 'camera=(), microphone=(), geolocation=(), payment=()'
       }
     },
+    // Edge caching (plan item 26): Vercel ISR serves these pages from the CDN and re-renders them in the
+    // background after the given seconds. Product and category pages come from data/products.json, which only
+    // changes with a deploy (a deploy clears the cache), so they can stay an hour. Home and blog show articles,
+    // including scheduled ones that appear at their publish time, so they refresh every 10 minutes.
+    // Not cached: /contact (reads ?product=), the dashboard and every /api route.
+    '/products': { isr: 3600 },
+    '/products/**': { isr: 3600 },
+    '/en/products': { isr: 3600 },
+    '/en/products/**': { isr: 3600 },
+    '/about': { isr: 3600 },
+    '/en/about': { isr: 3600 },
+    '/services': { isr: 3600 },
+    '/en/services': { isr: 3600 },
+    '/privacy': { isr: 3600 },
+    '/en/privacy': { isr: 3600 },
+    '/terms': { isr: 3600 },
+    '/en/terms': { isr: 3600 },
+    '/': { isr: 600 },
+    '/en': { isr: 600 },
+    '/blog': { isr: 600 },
+    '/blog/**': { isr: 600 },
+    '/en/blog': { isr: 600 },
+    '/en/blog/**': { isr: 600 },
     // Old product slugs that carried an uncertified "PAS68" claim → permanent redirects.
     '/products/high-security-road-blocker-pas68': { redirect: { to: '/products/high-security-road-blocker', statusCode: 301 } },
     '/en/products/high-security-road-blocker-pas68': { redirect: { to: '/en/products/high-security-road-blocker', statusCode: 301 } },
@@ -97,7 +120,11 @@ export default defineNuxtConfig({
         { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
         { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' },
         { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700;800;900&display=swap' },
-        { rel: 'icon', type: 'image/png', href: '/logo.png' }
+        // Light icon set (item 30): ICO 16/32/48 (3 KB) instead of the 47 KB logo, plus app icons and a manifest
+        { rel: 'icon', href: '/favicon.ico', sizes: '48x48' },
+        { rel: 'icon', type: 'image/png', sizes: '192x192', href: '/icon-192.png' },
+        { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' },
+        { rel: 'manifest', href: '/site.webmanifest' }
       ],
       script: [
         {

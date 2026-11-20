@@ -92,12 +92,12 @@
           {{ locale === 'ar' ? 'رحلة الخدمة المتكاملة' : 'Integrated Service Journey' }}
         </div>
         <h2 class="text-3xl md:text-5xl font-black text-gray-900 dark:text-white mb-6">
-          {{ locale === 'ar' ? 'منهجية عمل هندسية متكاملة لتركيب وصيانة المعدات الثقيلة' : 'Integrated Engineering Methodology for Heavy Machinery Installation & Maintenance' }}
+          {{ locale === 'ar' ? 'مراحل خدمتنا الثماني من المعاينة حتى ما بعد البيع' : 'Our Eight Service Stages, from Site Survey to After-Sales' }}
         </h2>
         <p class="text-lg md:text-xl text-gray-600 dark:text-gray-300 leading-relaxed">
           {{ locale === 'ar' 
-            ? 'تُقدَّم خدماتنا وفق أعلى معايير الجودة العالمية لضمان استدامة وكفاءة تشغيل منشآتكم ومشاريعكم في دولة قطر.' 
-            : 'Our services are delivered according to the highest international quality standards to ensure efficiency and reliability.' 
+            ? 'تتولى بيستوليكس مشروعك في قطر من دراسة المتطلبات والمعاينة الميدانية حتى قطع الغيار وخدمة ما بعد البيع، في ثماني مراحل واضحة.' 
+            : 'Bestolex runs your project in Qatar from the requirements study and site survey to spare parts and after-sales service, in eight clear stages.' 
           }}
         </p>
       </div>
@@ -124,7 +124,7 @@
             
             <!-- Step Badge -->
             <div class="absolute top-4 rtl:right-4 ltr:left-4 bg-[#121c2d]/90 backdrop-blur-md text-[#E99E15] font-black text-xs px-3 py-1.5 rounded-full border border-[#E99E15]/30">
-              {{ locale === 'ar' ? `المرحلة 0${idx + 1}` : `Stage 0${idx + 1}` }}
+              {{ locale === 'ar' ? `المرحلة ${idx + 1}` : `Stage ${idx + 1}` }}
             </div>
 
             <!-- Icon Overlay -->
@@ -349,58 +349,58 @@ const services = [
   {
     icon: '📋',
     image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-1.png',
-    title: { ar: 'دراسة الاحتياج والمعاينة', en: 'Requirement Assessment & Site Survey' },
-    desc: { ar: 'دراسة دقيقة لاحتياجات العميل ومعاينة ميدانية للموقع لفهم ظروف التشغيل والمتطلبات الفنية.', en: 'Comprehensive assessment of customer needs and site survey to understand operating conditions and technical requirements.' },
-    highlight: { ar: 'معاينة ميدانية وتقارير فنية', en: 'Site survey & technical reporting' }
+    title: { ar: 'دراسة المتطلبات والمعاينة الميدانية', en: 'Requirements Study & Site Survey' },
+    desc: { ar: 'نعاين الموقع ونفهم ظروف التشغيل والمتطلبات الفنية قبل أي عرض.', en: 'We survey the site and understand operating conditions and technical requirements before any offer.' },
+    highlight: { ar: 'معاينة ميدانية قبل العرض', en: 'Site survey before the offer' }
   },
   {
     icon: '💡',
     image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-2.png',
-    title: { ar: 'المقترح الفني والتجاري', en: 'Technical & Commercial Proposal' },
-    desc: { ar: 'اختيار الحل الهندسي الأنسب وإعداد عروض فنية ومالية شفافة ومطابقة للمواصفات.', en: 'Selecting the optimal engineering solution and preparing transparent technical and commercial proposals.' },
-    highlight: { ar: 'دراسات جدوى وعروض أسعار متكاملة', en: 'Feasibility & complete proposals' }
+    title: { ar: 'اختيار الحل والعرض الفني والتجاري', en: 'Solution Selection & Technical and Commercial Proposal' },
+    desc: { ar: 'نختار الحل المناسب للموقع ونقدّم عرضاً فنياً وتجارياً واضحاً.', en: 'We select the right solution for the site and submit a clear technical and commercial offer.' },
+    highlight: { ar: 'عرض فني وتجاري واضح', en: 'Clear technical and commercial offer' }
   },
   {
     icon: '📦',
     image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-3.png',
-    title: { ar: 'إدارة الخدمات اللوجستية', en: 'Supply & Logistics Management' },
-    desc: { ar: 'إدارة سلاسل التوريد والشحن والتخليص الجمركي وفق الجداول الزمنية المعتمدة للمشروع.', en: 'Managing supply chain, shipping, and customs clearance strictly adhering to project timelines.' },
-    highlight: { ar: 'شحن آمن والتزام دقيق بالمواعيد', en: 'Safe shipping & punctual delivery' }
+    title: { ar: 'التوريد والخدمات اللوجستية', en: 'Supply & Logistics' },
+    desc: { ar: 'ننسّق التوريد والشحن والتخليص الجمركي حتى وصول المعدات إلى الموقع.', en: 'We coordinate supply, shipping and customs clearance until the equipment reaches the site.' },
+    highlight: { ar: 'شحن وتخليص حسب جدول المشروع', en: 'Shipping and clearance on the project schedule' }
   },
   {
     icon: '🛠️',
     image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-4.png',
-    title: { ar: 'التركيب والإشراف الفني', en: 'Installation & Technical Supervision' },
-    desc: { ar: 'تنفيذ أعمال التركيب الميداني بأيدي مهندسين وفنيين معتمدين وفق معايير السلامة المهنية.', en: 'Executing site installations by certified engineers and technicians following strict safety standards.' },
-    highlight: { ar: 'إشراف هندسي معتمد', en: 'Certified engineering supervision' }
+    title: { ar: 'التركيب أو الإشراف الفني', en: 'Installation or Technical Supervision' },
+    desc: { ar: 'نركّب المعدات بفريقنا الفني أو نشرف على تركيبها وفق إجراءات السلامة.', en: 'Our technical team installs the equipment or supervises its installation following safety procedures.' },
+    highlight: { ar: 'تركيب وإشراف فني في الموقع', en: 'On-site installation and supervision' }
   },
   {
     icon: '✅',
     image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-5.png',
     title: { ar: 'الاختبار والتشغيل والتسليم', en: 'Testing, Commissioning & Handover' },
-    desc: { ar: 'اختبار كفاءة الأنظمة وتشغيلها الفعلي تحت الضغط وتسليمها وفق معايير الجودة المعتمدة.', en: 'Load testing, operational verification, and formal handover according to approved quality benchmarks.' },
-    highlight: { ar: 'شهادات فحص واختبار أداء', en: 'Inspection & test certificates' }
+    desc: { ar: 'نختبر النظام ونشغّله ونسلّمه جاهزاً للعمل.', en: 'We test, commission and hand over a working system.' },
+    highlight: { ar: 'تسليم بعد اختبار التشغيل', en: 'Handover after commissioning tests' }
   },
   {
     icon: '👨‍🏫',
     image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-6.png',
-    title: { ar: 'التدريب على التشغيل', en: 'Operational Training' },
-    desc: { ar: 'تدريب كوادر العميل على التشغيل الصحيح والاستخدام الآمن وإجراءات الطوارئ.', en: 'Training customer personnel on proper operation, safe handling, and emergency protocols.' },
-    highlight: { ar: 'تدريب عملي للكوادر الفنية', en: 'Hands-on operational training' }
+    title: { ar: 'تدريب المشغلين', en: 'Operator Training' },
+    desc: { ar: 'ندرّب فريقك على التشغيل الصحيح والاستخدام الآمن وإجراءات الطوارئ.', en: 'We train your team on correct operation, safe use and emergency procedures.' },
+    highlight: { ar: 'تدريب عملي في الموقع', en: 'Hands-on training on site' }
   },
   {
     icon: '🔧',
     image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-7.png',
     title: { ar: 'الصيانة الوقائية والتصحيحية', en: 'Preventive & Corrective Maintenance' },
-    desc: { ar: 'عقود صيانة دورية مرنة واستجابة سريعة للأعطال للحفاظ على استمرارية الإنتاج.', en: 'Flexible routine maintenance contracts and rapid fault response to maintain workflow continuity.' },
-    highlight: { ar: 'عقود صيانة دورية ومرنة', en: 'Flexible routine maintenance contracts' }
+    desc: { ar: 'صيانة دورية واستجابة للأعطال للحفاظ على استمرارية التشغيل.', en: 'Scheduled maintenance and fault response to keep operations running.' },
+    highlight: { ar: 'عقود صيانة دورية', en: 'Scheduled maintenance contracts' }
   },
   {
     icon: '⚙️',
     image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-8.png',
-    title: { ar: 'توفير قطع الغيار الأصلية', en: 'Spare Parts & After-Sales Support' },
-    desc: { ar: 'مخزون وفير من قطع الغيار الأصلية المعتمدة لضمان أطول عمر افتراضي للمعدات.', en: 'Extensive inventory of genuine certified spare parts ensuring the longest equipment service life.' },
-    highlight: { ar: 'قطع أصلية وضمان معتمد', en: 'Original parts & certified warranty' }
+    title: { ar: 'قطع الغيار وخدمة ما بعد البيع', en: 'Spare Parts & After-Sales Service' },
+    desc: { ar: 'نوفّر قطع الغيار ونتابع المعدات بعد التسليم.', en: 'We supply spare parts and support the equipment after handover.' },
+    highlight: { ar: 'قطع غيار ودعم بعد البيع', en: 'Spare parts and after-sales support' }
   }
 ]
 </script>
