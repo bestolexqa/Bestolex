@@ -10,5 +10,5 @@ export default defineEventHandler(async (event) => {
   const stored = isAdminRequest(event) ? await getStoredArticles() : await getCachedArticles()
   const articles = await withRepoArticles(stored)
   if (getQuery(event).view !== 'list') return articles
-  return articles.map(({ content, content_ar, content_en, ...card }: any) => card)
+  return articles.map(({ content, content_ar, content_en, faq, relatedProducts, ...card }: any) => card)
 })

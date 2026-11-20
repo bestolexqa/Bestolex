@@ -23,7 +23,9 @@ async function loadRepoArticles(): Promise<RepoArticle[]> {
         try { item = JSON.parse(item) } catch { item = null }
       }
       if (item && typeof item === 'object' && (item.id || item.slug) && item.title && item.content) {
-        list.push({ ...item, id: item.id || item.slug, slug: item.slug || item.id, source: 'repo', readOnly: true })
+        // `keyword` and `review` are working notes for the editorial pipeline, not page data.
+        const { keyword, review, ...article } = item
+        list.push({ ...article, id: item.id || item.slug, slug: item.slug || item.id, source: 'repo', readOnly: true })
       } else {
         console.warn(`[repoArticles] skipped ${key}: missing id, title or content`)
       }
