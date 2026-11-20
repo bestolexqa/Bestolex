@@ -65,7 +65,9 @@
             </div>
             <div class="w-24 h-11 bg-white rounded-lg p-1 flex items-center justify-center flex-shrink-0 shadow-inner">
               <img 
-                src="https://cdn-bdndb.nitrocdn.com/eIrOlccsLlNnvyQrPazdcVenFMvRQVpc/assets/images/optimized/rev-62ed56e/sabtech.com.sa/wp-content/uploads/2019/05/logo-03-1-1.png" 
+                src="/partners/sabtech-logo.png"
+                width="500"
+                height="139" 
                 alt="SABTECH Logo" 
                 class="max-h-full max-w-full object-contain"
                 loading="lazy"

@@ -1,8 +1,10 @@
-import { getStoredArticles } from '~~/server/utils/blogStorage'
+import { getCachedArticles, getStoredArticles } from '~~/server/utils/blogStorage'
+import { isAdminRequest } from '~~/server/utils/adminAuth'
 
 export default defineEventHandler(async (event) => {
   const id = getRouterParam(event, 'id')
-  const list = await getStoredArticles()
+  // Visitors get the in-memory copy; a signed-in admin always sees the stored version.
+  const list = isAdminRequest(event) ? await getStoredArticles() : await getCachedArticles()
 
   const found = list.find((a: any) => a.id === id || a.slug === id)
   if (found) {

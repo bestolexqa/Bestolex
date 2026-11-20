@@ -3,6 +3,19 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-04-03',
   srcDir: '.', // Use root directory for app files
   devtools: { enabled: true },
+  // Function region (monitoring log, improvement 15). Vercel has no Gulf region (dxb1 is rejected).
+  // Measured on 19 Nov 2026, the first read of articles.json from Bunny Storage in a new server
+  // instance took 1.02-1.20 s from bom1 (Mumbai), 0.84 s from iad1 (Washington, the old default)
+  // and 0.19 s from fra1 (Frankfurt). The site has little traffic, so new instances are common;
+  // fra1 keeps that read short, is closer to Qatar than iad1 and sits next to Supabase (eu-west-1).
+  // Written by Nitro into the function's .vc-config.json, so it travels with the code.
+  nitro: {
+    vercel: {
+      functions: {
+        regions: ['fra1']
+      }
+    }
+  },
   routeRules: {
     // Basic security headers on every response (item 25). A Content-Security-Policy comes later,
     // once GTM/GA4 and the CDN hosts are final.
