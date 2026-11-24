@@ -55,13 +55,13 @@
     },
     {
       "id": "cardboard-baler-vertical-vs-horizontal",
-      "status": "planned",
+      "status": "published",
       "category": "النفايات وإعادة التدوير",
       "keyword": {
         "en": "cardboard baler",
         "ar": "مكبس كرتون",
         "volume": 20,
-        "kd": 19
+        "kd": 20
       },
       "angle": "Vertical or horizontal cardboard baler: decide by daily volume, floor space, labour and bale weight; comparison of the 10T, 20T, 50T vertical presses and the 70T horizontal press from the catalog.",
       "products": [
@@ -77,11 +77,13 @@
       "avoidOverlapWith": [
         "دليل هندسة الكبس الميكانيكي: كيف تحقق المكابس العمودية كفاءة استغلال المساحة",
         "دليل هندسة الكبس الهيدروليكي: كيف تحقق المكابس الأفقية كفاءة التشغيل"
-      ]
+      ],
+      "publishedAt": "2026-11-24T07:00:00+03:00",
+      "file": "server/assets/blog/cardboard-baler-vertical-vs-horizontal.json"
     },
     {
       "id": "dock-shelter-inflatable-vs-retractable",
-      "status": "planned",
+      "status": "published",
       "category": "أنظمة التحميل والمستودعات",
       "keyword": {
         "en": "dock shelter",
@@ -101,7 +103,9 @@
       ],
       "avoidOverlapWith": [
         "التحكم الحراري يبدأ من بوابة التحميل: حماية البضائع والحفاظ على كفاءة سلاسل التبريد"
-      ]
+      ],
+      "publishedAt": "2026-11-24T07:05:00+03:00",
+      "file": "server/assets/blog/dock-shelter-inflatable-vs-retractable.json"
     },
     {
       "id": "garbage-compactor-buildings-qatar",
