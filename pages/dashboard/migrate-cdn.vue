@@ -52,6 +52,14 @@
           {{ running && mode === 'verify' ? 'جارٍ التحقق…' : 'تحقّق من الكل' }}
         </button>
         <button
+          type="button"
+          class="px-6 h-12 rounded-xl border border-gray-300 dark:border-gray-600 font-bold disabled:opacity-50"
+          :disabled="running || !info?.keyConfigured"
+          @click="runBlog"
+        >
+          {{ running && mode === 'blog' ? 'جارٍ نقل المقالات…' : 'انقل بيانات المدونة' }}
+        </button>
+        <button
           v-if="running"
           type="button"
           class="px-6 h-12 rounded-xl border border-gray-300 font-bold"
@@ -72,6 +80,8 @@
           <li v-for="f in failed" :key="f.path">{{ f.path }} — {{ f.detail }}</li>
         </ul>
       </div>
+
+      <div v-if="blogNote" class="p-4 rounded-2xl bg-gray-50 dark:bg-gray-800 text-sm" dir="ltr">{{ blogNote }}</div>
 
       <div v-if="done" class="p-4 rounded-2xl bg-green-50 text-green-800 text-sm font-bold">
         {{ mode === 'verify' ? 'انتهى التحقق.' : 'انتهى النقل.' }} الملفات على
@@ -97,7 +107,8 @@ const processed = ref(0)
 const copied = ref(0)
 const exists = ref(0)
 const verified = ref(0)
-const mode = ref<'copy' | 'verify'>('copy')
+const mode = ref<'copy' | 'verify' | 'blog'>('copy')
+const blogNote = ref('')
 const failed = ref<Failure[]>([])
 
 const pct = computed(() => info.value?.total ? Math.round((processed.value / info.value.total) * 100) : 0)
@@ -105,6 +116,22 @@ const pct = computed(() => info.value?.total ? Math.round((processed.value / inf
 onMounted(async () => {
   info.value = await $fetch<Info>('/api/admin/migrate-cdn')
 })
+
+async function runBlog() {
+  mode.value = 'blog'
+  running.value = true
+  done.value = false
+  failed.value = []
+  blogNote.value = ''
+  try {
+    const res = await $fetch<any>('/api/admin/migrate-cdn', { method: 'POST', body: { mode: 'blog' } })
+    if (res.failed?.length) failed.value.push(...res.failed)
+    blogNote.value = (res.results || []).map((r: any) => `${r.path}: ${r.status}${r.detail ? ' — ' + r.detail : ''}`).join(' · ')
+    done.value = true
+  } finally {
+    running.value = false
+  }
+}
 
 async function run(which: 'copy' | 'verify' = 'copy') {
   mode.value = which
