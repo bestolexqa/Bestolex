@@ -24,7 +24,7 @@
     "ar": "4 دقائق قراءة",
     "en": "4 min read"
   },
-  "image": "https://electrocreative-cdn.b-cdn.net/bestolex-1790806211932-vehicle_security_entrance_system__2k_20261001010954.jpg",
+  "image": "https://cdn.bestolex.com/bestolex-1790806211932-vehicle_security_entrance_system__2k_20261001010954.jpg",
   "imageAlt": {
     "ar": "مدخل أمني للمركبات فيه مصد طريق مرفوع ومفجر إطارات قرب غرفة الحراسة",
     "en": "Vehicle security entrance with a raised road blocker and a tyre killer by the guardhouse"
@@ -88,7 +88,7 @@
         "ar": "مفجر إطارات",
         "en": "Tyre Killer"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/tyre-killer/2.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/tyre-killer/2.png"
     },
     {
       "id": "road-blocker",
@@ -96,7 +96,7 @@
         "ar": "مصد طريق هيدروليكي",
         "en": "Road Blocker"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/road-blocker/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/road-blocker/1.png"
     },
     {
       "id": "high-security-road-blocker",
@@ -104,7 +104,7 @@
         "ar": "مصد طريق عالي الأمان",
         "en": "High Security Road Blocker"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/high-security-road-blocker-pas68/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/1.png"
     },
     {
       "id": "high-security-shallow-road-blocker",
@@ -112,7 +112,7 @@
         "ar": "مصد طريق سطحي عالي الأمان",
         "en": "High Security Shallow Road Blocker"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/high-security-shallow-road-blocker-pas68/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/1.png"
     }
   ],
   "review": {

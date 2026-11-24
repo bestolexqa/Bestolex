@@ -18,10 +18,10 @@ export default defineEventHandler(async (event) => {
       const fileName = `bestolex-${timestamp}-${safeFilename}`
 
       // Bunny Storage Configuration
-      const storageZone = config.bunnyStorageZoneName || 'electrocreative-zone'
+      const storageZone = config.bunnyStorageZoneName || 'bestolex-products'
       const accessKey = config.bunnyStorageAccessKey || ''
       const baseUrl = (config.bunnyStorageBaseUrl || 'https://storage.bunnycdn.com').replace(/\/$/, '')
-      const pullZoneUrl = (config.public.bunnyPullZoneUrl || 'https://electrocreative-cdn.b-cdn.net').replace(/\/$/, '')
+      const pullZoneUrl = (config.public.bunnyPullZoneUrl || 'https://cdn.bestolex.com').replace(/\/$/, '')
 
       if (!accessKey) {
         throw createError({ statusCode: 500, message: 'Storage is not configured' })

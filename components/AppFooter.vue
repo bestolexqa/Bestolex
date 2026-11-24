@@ -23,7 +23,7 @@
             </div>
             <div class="w-24 h-11 bg-white rounded-lg p-1 flex items-center justify-center flex-shrink-0 shadow-inner">
               <img 
-                src="https://electrocreative-cdn.b-cdn.net/8d9318ba-ec36-4557-890f-eeecd8451ba7.jpg" 
+                src="https://cdn.bestolex.com/8d9318ba-ec36-4557-890f-eeecd8451ba7.jpg" 
                 alt="Ministry of Commerce and Industry" 
                 class="max-h-full max-w-full object-contain"
                 loading="lazy"
@@ -44,7 +44,7 @@
             </div>
             <div class="w-24 h-11 bg-white rounded-lg p-1 flex items-center justify-center flex-shrink-0 shadow-inner">
               <img 
-                src="https://electrocreative-cdn.b-cdn.net/bestolex/dhareeba-logo.png" 
+                src="https://cdn.bestolex.com/bestolex/dhareeba-logo.png" 
                 alt="General Tax Authority" 
                 class="max-h-full max-w-full object-contain"
                 loading="lazy"

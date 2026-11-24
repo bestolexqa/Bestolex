@@ -119,7 +119,7 @@
             <div>
               <div class="h-48 overflow-hidden relative">
                 <img 
-                  src="https://electrocreative-cdn.b-cdn.net/bestolex/training/bench.jpg" 
+                  src="https://cdn.bestolex.com/bestolex/training/bench.jpg" 
                   alt="Hydraulic Fundamentals" 
                   class="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                   loading="lazy"
@@ -170,7 +170,7 @@
             <div>
               <div class="h-48 overflow-hidden relative">
                 <img 
-                  src="https://electrocreative-cdn.b-cdn.net/bestolex/training/power-unit.jpg" 
+                  src="https://cdn.bestolex.com/bestolex/training/power-unit.jpg" 
                   alt="Industrial Hydraulic Systems" 
                   class="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                   loading="lazy"
@@ -221,7 +221,7 @@
             <div>
               <div class="h-48 overflow-hidden relative">
                 <img 
-                  src="https://electrocreative-cdn.b-cdn.net/bestolex/training/mobile.jpg" 
+                  src="https://cdn.bestolex.com/bestolex/training/mobile.jpg" 
                   alt="Mobile Hydraulics" 
                   class="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                   loading="lazy"
@@ -272,7 +272,7 @@
             <div>
               <div class="h-48 overflow-hidden relative">
                 <img 
-                  src="https://electrocreative-cdn.b-cdn.net/bestolex/training/diagnostics.jpg" 
+                  src="https://cdn.bestolex.com/bestolex/training/diagnostics.jpg" 
                   alt="Hydraulic Maintenance & Troubleshooting" 
                   class="w-full h-full object-cover group-hover:scale-105 transition duration-500"
                   loading="lazy"
@@ -509,7 +509,7 @@
               <!-- Instructor Actual Photo Frame -->
               <div class="w-36 h-36 md:w-44 md:h-44 rounded-3xl bg-gradient-to-tr from-primary to-orange-500 p-1.5 mx-auto mb-5 shadow-2xl overflow-hidden">
                 <img 
-                  src="https://electrocreative-cdn.b-cdn.net/bestolex/training/instructor.jpg" 
+                  src="https://cdn.bestolex.com/bestolex/training/instructor.jpg" 
                   alt="Eng. Hesham Elsir" 
                   class="w-full h-full object-cover object-top rounded-2xl bg-gray-800"
                   loading="lazy"
@@ -893,15 +893,15 @@ const { locale } = useI18n()
 // Hero Animated Carousel Slides (100% strictly no people/humans)
 const heroSlides = [
   {
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/training/bench.jpg',
+    image: 'https://cdn.bestolex.com/bestolex/training/bench.jpg',
     title: { ar: 'مقاعد ومحطات الاختبار الهيدروليكية', en: 'Hydraulic Test & Simulation Benches' }
   },
   {
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/training/cutaway.jpg',
+    image: 'https://cdn.bestolex.com/bestolex/training/cutaway.jpg',
     title: { ar: 'نماذج مقطعية للمضخات والصمامات', en: 'Cutaway Pumps, Valves & Components' }
   },
   {
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/training/power-unit.jpg',
+    image: 'https://cdn.bestolex.com/bestolex/training/power-unit.jpg',
     title: { ar: 'وحدات القدرة والمنظومات الهيدروليكية الصناعية', en: 'Industrial Hydraulic Power Units' }
   }
 ]
@@ -929,37 +929,37 @@ onUnmounted(() => {
 const practicalAreas = [
   {
     icon: '⚙️',
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/training/pumps.jpg',
+    image: 'https://cdn.bestolex.com/bestolex/training/pumps.jpg',
     title: { ar: 'أساسيات المضخات الهيدروليكية', en: 'Hydraulic Pumps Knowledge' },
     desc: { ar: 'فهم أنواع المضخات ومبادئ عملها ودورها داخل النظام الهيدروليكي.', en: 'Understanding pump types, operating principles, and hydraulic loop roles.' }
   },
   {
     icon: '🔩',
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/training/cylinders.jpg',
+    image: 'https://cdn.bestolex.com/bestolex/training/cylinders.jpg',
     title: { ar: 'الأسطوانات الهيدروليكية', en: 'Hydraulic Cylinders' },
     desc: { ar: 'التعرف على مكونات الأسطوانات وآلية التشغيل والتطبيقات الأساسية.', en: 'Cylinder anatomy, operating mechanisms, force calculations, and applications.' }
   },
   {
     icon: '🎛️',
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/training/valves.jpg',
+    image: 'https://cdn.bestolex.com/bestolex/training/valves.jpg',
     title: { ar: 'الصمامات الهيدروليكية', en: 'Hydraulic Valves' },
     desc: { ar: 'فهم وظائف الأنواع المختلفة من الصمامات ودورها في التحكم بالضغط والتدفق والاتجاه.', en: 'Directional, pressure, and flow control valve operation and regulation.' }
   },
   {
     icon: '🔄',
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/training/circuits.jpg',
+    image: 'https://cdn.bestolex.com/bestolex/training/circuits.jpg',
     title: { ar: 'الدوائر والأنظمة الهيدروليكية', en: 'Hydraulic Circuits & Systems' },
     desc: { ar: 'فهم العلاقة بين المكونات وتحليل طريقة عمل الدائرة الهيدروليكية كنظام متكامل.', en: 'Analyzing component interaction and complete integrated system circuit behavior.' }
   },
   {
     icon: '🛠️',
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/training/components.jpg',
+    image: 'https://cdn.bestolex.com/bestolex/training/components.jpg',
     title: { ar: 'التدريب بمكونات حقيقية', en: 'Hands-on Real Components' },
     desc: { ar: 'التعامل المباشر مع مكونات وأنظمة فعلية لتطوير المهارات العملية.', en: 'Direct tactile engagement with actual hardware to build practical mastery.' }
   },
   {
     icon: '📊',
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/training/diagnostics.jpg',
+    image: 'https://cdn.bestolex.com/bestolex/training/diagnostics.jpg',
     title: { ar: 'العروض والاختبارات العملية', en: 'Practical Demonstrations' },
     desc: { ar: 'شرح عملي وتفاعلي يساعد المتدربين على ربط المبادئ النظرية بالتطبيقات الواقعية.', en: 'Live interactive demonstrations connecting theory to real plant scenarios.' }
   }
@@ -1066,6 +1066,6 @@ useSeoMeta({
   ogDescription: () => locale.value === 'ar'
     ? 'برامج تدريبية متخصصة تجمع بين المعرفة الهندسية والتطبيق العملي بمكونات حقيقية في قطر.'
     : 'Specialized hydraulic training combining engineering knowledge with real hands-on components in Qatar.',
-  ogImage: 'https://electrocreative-cdn.b-cdn.net/bestolex/training/bench.jpg'
+  ogImage: 'https://cdn.bestolex.com/bestolex/training/bench.jpg'
 })
 </script>

@@ -5,7 +5,7 @@
     <section class="relative py-24 md:py-32 bg-[#121c2d] text-white overflow-hidden">
       <!-- Background Image with Dark Gradient Overlay -->
       <NuxtImg 
-        src="https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg" 
+        src="https://cdn.bestolex.com/bestolex/about/showroom-v2.jpg" 
         alt="Bestolex Heavy Machinery" 
         class="absolute inset-0 w-full h-full object-cover object-center opacity-25 scale-105 transform hover:scale-100 transition duration-1000"
         format="webp"
@@ -43,7 +43,7 @@
         <div class="lg:col-span-5 relative">
           <div class="bg-white dark:bg-gray-800 p-4 rounded-3xl shadow-2xl border border-gray-100 dark:border-gray-700 relative overflow-hidden group">
             <NuxtImg 
-              src="https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg" 
+              src="https://cdn.bestolex.com/bestolex/about/showroom-v2.jpg" 
               alt="Bestolex Qatar" 
               class="w-full h-[460px] md:h-[520px] object-cover object-center rounded-2xl group-hover:scale-105 transition duration-700"
               format="webp"

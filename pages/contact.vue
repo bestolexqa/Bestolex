@@ -3,7 +3,7 @@
     <!-- Hero Section -->
     <div class="relative w-full h-[30vh] sm:h-[40vh] min-h-[250px] flex items-center justify-center overflow-hidden">
       <div class="absolute inset-0 bg-black/60 z-10"></div>
-      <img src="https://electrocreative-cdn.b-cdn.net/bestolex/services/srv1.png" alt="Contact Us" class="absolute inset-0 w-full h-full object-cover z-0 filter blur-[2px]" />
+      <img src="https://cdn.bestolex.com/bestolex/services/srv1.png" alt="Contact Us" class="absolute inset-0 w-full h-full object-cover z-0 filter blur-[2px]" />
       <div class="relative z-20 text-center px-4" data-aos="fade-down">
         <h1 class="text-4xl md:text-5xl font-bold text-white mb-4 drop-shadow-lg">{{ locale === 'ar' ? 'تواصل معنا' : 'Contact Us' }}</h1>
         <p class="text-lg md:text-xl text-gray-200 max-w-2xl mx-auto drop-shadow-md">

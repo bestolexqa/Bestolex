@@ -3,7 +3,7 @@ import path from 'path';
 
 const STORAGE_ZONE_NAME = 'electrocreative-zone';
 const ACCESS_KEY = process.env.BUNNY_STORAGE_ACCESS_KEY;
-const PULL_ZONE = 'electrocreative-cdn.b-cdn.net';
+const PULL_ZONE = 'cdn.bestolex.com';
 const BASE_STORAGE_URL = 'https://storage.bunnycdn.com';
 
 async function uploadToBunny(filePath, remotePath) {
@@ -79,7 +79,7 @@ async function main() {
 
   // Also upload hero-bg fallback if exists
   const heroPath = 'public/images/about/showroom-v2.jpg';
-  const cdnHero = 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg';
+  const cdnHero = 'https://cdn.bestolex.com/bestolex/about/showroom-v2.jpg';
   urlMap['/images/hero/hero-bg.jpg'] = cdnHero;
 
   fs.writeFileSync('scripts/cdn_url_map.json', JSON.stringify(urlMap, null, 2), 'utf8');

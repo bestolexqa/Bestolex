@@ -4,7 +4,7 @@ import path from 'path';
 const urlMap = JSON.parse(fs.readFileSync('./scripts/cdn_url_map.json', 'utf8'));
 
 // Also make sure hero-bg is mapped
-urlMap['/images/hero/hero-bg.jpg'] = 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg';
+urlMap['/images/hero/hero-bg.jpg'] = 'https://cdn.bestolex.com/bestolex/about/showroom-v2.jpg';
 
 const filesToUpdate = [
   'pages/services.vue',

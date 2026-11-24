@@ -24,7 +24,7 @@
     "ar": "4 دقائق قراءة",
     "en": "4 min read"
   },
-  "image": "https://electrocreative-cdn.b-cdn.net/bestolex-1790621784332-image_d76b1737.jpg",
+  "image": "https://cdn.bestolex.com/bestolex-1790621784332-image_d76b1737.jpg",
   "imageAlt": {
     "ar": "ضاغط نفايات هيدروليكي لمنشأة تجارية",
     "en": "Hydraulic waste compactor for a commercial facility"
@@ -90,7 +90,7 @@
         "ar": "ضواغط النفايات الألمانية",
         "en": "German Refuse Compactor"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/persi-compactor/1.jpg"
+      "image": "https://cdn.bestolex.com/bestolex/products/persi-compactor/1.jpg"
     },
     {
       "id": "pringer-compactor",
@@ -98,7 +98,7 @@
         "ar": "ضاغط نفايات برينجر",
         "en": "Beringer Refuse Compactor"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/pringer-compactor/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/pringer-compactor/1.png"
     },
     {
       "id": "vertical-garbage-compactor-2cy",
@@ -106,7 +106,7 @@
         "ar": "مكبس النفايات الرأسي 2CY",
         "en": "Vertical Garbage Compactor 2CY"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/vertical-garbage-compactor-2cy/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/vertical-garbage-compactor-2cy/1.png"
     }
   ],
   "review": {

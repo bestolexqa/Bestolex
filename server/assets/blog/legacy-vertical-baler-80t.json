@@ -24,7 +24,7 @@
     "ar": "15 دقيقة قراءة",
     "en": "11 min read"
   },
-  "image": "https://electrocreative-cdn.b-cdn.net/bestolex-1791389922293-vertical_recycling_baler_compres__2k_20261007191826.jpg",
+  "image": "https://cdn.bestolex.com/bestolex-1791389922293-vertical_recycling_baler_compres__2k_20261007191826.jpg",
   "imageAlt": {
     "ar": "مكبس عمودي 80 طن للقوارير والكرتون",
     "en": "80-ton vertical baler for bottles and cardboard"
@@ -98,7 +98,7 @@
         "ar": "مكبس الكرتون والبلاستيك العمودي 80 طناً",
         "en": "Vertical PET Baling Press 80T"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/can-bottle-baler-80/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/1.png"
     },
     {
       "id": "cardboard-plastic-baler-200",
@@ -106,7 +106,7 @@
         "ar": "مكبس الكرتون والبلاستيك العمودي 20 طناً",
         "en": "Vertical Baling Press 20T"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/cardboard-plastic-baler-200/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-200/1.png"
     },
     {
       "id": "horizontal-plastic-baler-70",
@@ -114,7 +114,7 @@
         "ar": "مكبس نفايات أفقي 70 طناً",
         "en": "Horizontal Baling Press 70T"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/horizontal-plastic-baler-70/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/horizontal-plastic-baler-70/1.png"
     }
   ],
   "review": {

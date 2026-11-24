@@ -18,7 +18,7 @@ export default defineEventHandler(async (event) => {
     excerpt_en: body.excerpt_en || '',
     content_ar: body.content_ar,
     content_en: body.content_en || body.content_ar,
-    image: body.image || 'https://electrocreative-cdn.b-cdn.net/bestolex/news/news1.jpg',
+    image: body.image || 'https://cdn.bestolex.com/bestolex/news/news1.jpg',
     read_time_ar: body.read_time_ar || '5 دقائق قراءة',
     read_time_en: body.read_time_en || '5 min read',
     is_published: body.is_published !== false,
@@ -45,7 +45,7 @@ export default defineEventHandler(async (event) => {
       category: { ar: body.category_ar || 'النظم الهيدروليكية المتقدمة', en: body.category_en || 'Advanced Hydraulic Systems' },
       date: new Date().toISOString().split('T')[0],
       readTime: { ar: body.read_time_ar || '5 دقائق قراءة', en: body.read_time_en || '5 min read' },
-      image: body.image || 'https://electrocreative-cdn.b-cdn.net/bestolex/news/news1.jpg',
+      image: body.image || 'https://cdn.bestolex.com/bestolex/news/news1.jpg',
       is_featured: !!body.is_featured,
       desc: { ar: body.excerpt_ar || body.title_ar, en: body.excerpt_en || body.title_en },
       content: { ar: body.content_ar, en: body.content_en || body.content_ar }

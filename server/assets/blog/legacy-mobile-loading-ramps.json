@@ -24,7 +24,7 @@
     "ar": "4 دقائق قراءة",
     "en": "4 min read"
   },
-  "image": "https://electrocreative-cdn.b-cdn.net/bestolex-1790698482154-forklift_loading_cargo_into_truck_2k_20260929191413.jpg",
+  "image": "https://cdn.bestolex.com/bestolex-1790698482154-forklift_loading_cargo_into_truck_2k_20260929191413.jpg",
   "imageAlt": {
     "ar": "رافعة شوكية تحمّل البضائع في شاحنة عبر منصة تحميل متنقلة",
     "en": "Forklift loading cargo into a truck over a mobile loading ramp"
@@ -88,7 +88,7 @@
         "ar": "رمبة/منصة تحميل متحركة",
         "en": "Movable Dock Ramp"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/movable-dock-ramp/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/movable-dock-ramp/1.png"
     },
     {
       "id": "mobile-loading-dock",
@@ -96,7 +96,7 @@
         "ar": "منصة تحميل متحركة",
         "en": "Mobile Loading Dock"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/mobile-loading-dock/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/mobile-loading-dock/1.png"
     }
   ],
   "review": {

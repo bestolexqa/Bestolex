@@ -67,6 +67,8 @@ export default defineNuxtConfig({
     format: ['webp', 'avif', 'jpeg', 'png'],
     quality: 80,
     domains: [
+      'cdn.bestolex.com',
+      // kept until the live article records are rewritten to the new host
       'electrocreative-cdn.b-cdn.net',
       'sabtech.com.sa',
       'cdn-bdndb.nitrocdn.com',
@@ -76,11 +78,11 @@ export default defineNuxtConfig({
   runtimeConfig: {
     gmailUser: process.env.GMAIL_USER,
     gmailPass: process.env.GMAIL_PASS,
-    bunnyStorageZoneName: process.env.BUNNY_STORAGE_ZONE_NAME || 'electrocreative-zone',
-    bunnyStorageAccessKey: process.env.BUNNY_STORAGE_ACCESS_KEY || '',
+    bunnyStorageZoneName: process.env.BUNNY_STORAGE_ZONE_NAME || 'bestolex-products',
+    bunnyStorageAccessKey: process.env.BUNNY_NEW_STORAGE_KEY || process.env.BUNNY_STORAGE_ACCESS_KEY || '',
     bunnyStorageBaseUrl: process.env.BUNNY_STORAGE_BASE_URL || 'https://storage.bunnycdn.com',
     public: {
-      bunnyPullZoneUrl: process.env.BUNNY_PULL_ZONE_URL ? (process.env.BUNNY_PULL_ZONE_URL.startsWith('http') ? process.env.BUNNY_PULL_ZONE_URL : `https://${process.env.BUNNY_PULL_ZONE_URL}`) : 'https://electrocreative-cdn.b-cdn.net'
+      bunnyPullZoneUrl: process.env.BUNNY_PULL_ZONE_URL ? (process.env.BUNNY_PULL_ZONE_URL.startsWith('http') ? process.env.BUNNY_PULL_ZONE_URL : `https://${process.env.BUNNY_PULL_ZONE_URL}`) : 'https://cdn.bestolex.com'
     }
   },
   i18n: {

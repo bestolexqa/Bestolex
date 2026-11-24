@@ -99,7 +99,7 @@
         "ar": "رافعة مقصية",
         "en": "Scissor Lift Table"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/scissors-lift/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/scissors-lift/1.png"
     },
     {
       "id": "movable-scissors-lifts",
@@ -107,7 +107,7 @@
         "ar": "رافعة مقصية متحركة",
         "en": "Movable Scissor Lift"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/movable-scissors-lifts/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/movable-scissors-lifts/1.png"
     },
     {
       "id": "mast-cargo-lift",
@@ -115,7 +115,7 @@
         "ar": "مصعد ورافعة بضائع هيدروليكية",
         "en": "Mast Cargo Hydraulic Lift"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/mast-cargo-lift/card.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/card.png"
     }
   ],
   "reviewer": null,
