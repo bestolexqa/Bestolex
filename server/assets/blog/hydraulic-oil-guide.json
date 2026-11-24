@@ -24,7 +24,7 @@
     "ar": "5 دقائق قراءة",
     "en": "5 min read"
   },
-  "image": "https://electrocreative-cdn.b-cdn.net/bestolex-1790805857642-technician_servicing_industrial___2k_20261001010400.jpg",
+  "image": "https://cdn.bestolex.com/bestolex-1790805857642-technician_servicing_industrial___2k_20261001010400.jpg",
   "imageAlt": {
     "ar": "زيت هيدروليكي وفلاتر لصيانة معدات صناعية",
     "en": "Hydraulic oil and filters for industrial equipment maintenance"
@@ -90,7 +90,7 @@
         "ar": "رصيف تحميل هيدروليكي (دوك ليفيلر)",
         "en": "Hydraulic Dock Leveler"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/hydraulic-dock-leveler/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/hydraulic-dock-leveler/1.png"
     },
     {
       "id": "scissors-lift",
@@ -98,7 +98,7 @@
         "ar": "رافعة مقصية",
         "en": "Scissor Lift Table"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/scissors-lift/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/scissors-lift/1.png"
     },
     {
       "id": "horizontal-plastic-baler-70",
@@ -106,7 +106,7 @@
         "ar": "مكبس نفايات أفقي 70 طناً",
         "en": "Horizontal Baling Press 70T"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/horizontal-plastic-baler-70/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/horizontal-plastic-baler-70/1.png"
     },
     {
       "id": "road-blocker",
@@ -114,7 +114,7 @@
         "ar": "مصد طريق هيدروليكي",
         "en": "Road Blocker"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/road-blocker/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/road-blocker/1.png"
     }
   ],
   "review": {

@@ -261,7 +261,7 @@ useSeoMeta({
   ogDescription: () => isAr.value
     ? 'ثماني مراحل من المعاينة الميدانية والعرض الفني إلى التوريد والتركيب والتشغيل والتدريب والصيانة وقطع الغيار لمعدات المنشآت في قطر. اطلب معاينة.'
     : 'Eight stages from site survey and proposal to supply, installation, commissioning, operator training, maintenance and spare parts in Qatar. Book a survey.',
-  ogImage: 'https://electrocreative-cdn.b-cdn.net/bestolex/categories/docking-systems.jpg'
+  ogImage: 'https://cdn.bestolex.com/bestolex/categories/docking-systems.jpg'
 })
 
 useHead({
@@ -302,19 +302,19 @@ const heroSlides = [
     title: { ar: 'تصنيع وهندسة متقدمة', en: 'Advanced Manufacturing & Engineering' }
   },
   {
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/categories/docking-systems.jpg',
+    image: 'https://cdn.bestolex.com/bestolex/categories/docking-systems.jpg',
     title: { ar: 'أنظمة التحميل والمستودعات', en: 'Loading & Warehouse Systems' }
   },
   {
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/categories/waste-management.jpg',
+    image: 'https://cdn.bestolex.com/bestolex/categories/waste-management.jpg',
     title: { ar: 'حلول إدارة وتدوير النفايات', en: 'Waste Management & Recycling Solutions' }
   },
   {
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/categories/perimeter-protection.jpg',
+    image: 'https://cdn.bestolex.com/bestolex/categories/perimeter-protection.jpg',
     title: { ar: 'أنظمة حماية المحيط والأمان', en: 'Perimeter Protection & Security' }
   },
   {
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/categories/industrial-doors.jpg',
+    image: 'https://cdn.bestolex.com/bestolex/categories/industrial-doors.jpg',
     title: { ar: 'الأبواب الصناعية والحلول اللوجستية', en: 'Industrial Doors & Logistics' }
   }
 ]
@@ -348,56 +348,56 @@ onUnmounted(() => {
 const services = [
   {
     icon: '📋',
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-1.png',
+    image: 'https://cdn.bestolex.com/bestolex/services/stage-1.png',
     title: { ar: 'دراسة المتطلبات والمعاينة الميدانية', en: 'Requirements Study & Site Survey' },
     desc: { ar: 'نعاين الموقع ونفهم ظروف التشغيل والمتطلبات الفنية قبل أي عرض.', en: 'We survey the site and understand operating conditions and technical requirements before any offer.' },
     highlight: { ar: 'معاينة ميدانية قبل العرض', en: 'Site survey before the offer' }
   },
   {
     icon: '💡',
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-2.png',
+    image: 'https://cdn.bestolex.com/bestolex/services/stage-2.png',
     title: { ar: 'اختيار الحل والعرض الفني والتجاري', en: 'Solution Selection & Technical and Commercial Proposal' },
     desc: { ar: 'نختار الحل المناسب للموقع ونقدّم عرضاً فنياً وتجارياً واضحاً.', en: 'We select the right solution for the site and submit a clear technical and commercial offer.' },
     highlight: { ar: 'عرض فني وتجاري واضح', en: 'Clear technical and commercial offer' }
   },
   {
     icon: '📦',
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-3.png',
+    image: 'https://cdn.bestolex.com/bestolex/services/stage-3.png',
     title: { ar: 'التوريد والخدمات اللوجستية', en: 'Supply & Logistics' },
     desc: { ar: 'ننسّق التوريد والشحن والتخليص الجمركي حتى وصول المعدات إلى الموقع.', en: 'We coordinate supply, shipping and customs clearance until the equipment reaches the site.' },
     highlight: { ar: 'شحن وتخليص حسب جدول المشروع', en: 'Shipping and clearance on the project schedule' }
   },
   {
     icon: '🛠️',
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-4.png',
+    image: 'https://cdn.bestolex.com/bestolex/services/stage-4.png',
     title: { ar: 'التركيب أو الإشراف الفني', en: 'Installation or Technical Supervision' },
     desc: { ar: 'نركّب المعدات بفريقنا الفني أو نشرف على تركيبها وفق إجراءات السلامة.', en: 'Our technical team installs the equipment or supervises its installation following safety procedures.' },
     highlight: { ar: 'تركيب وإشراف فني في الموقع', en: 'On-site installation and supervision' }
   },
   {
     icon: '✅',
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-5.png',
+    image: 'https://cdn.bestolex.com/bestolex/services/stage-5.png',
     title: { ar: 'الاختبار والتشغيل والتسليم', en: 'Testing, Commissioning & Handover' },
     desc: { ar: 'نختبر النظام ونشغّله ونسلّمه جاهزاً للعمل.', en: 'We test, commission and hand over a working system.' },
     highlight: { ar: 'تسليم بعد اختبار التشغيل', en: 'Handover after commissioning tests' }
   },
   {
     icon: '👨‍🏫',
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-6.png',
+    image: 'https://cdn.bestolex.com/bestolex/services/stage-6.png',
     title: { ar: 'تدريب المشغلين', en: 'Operator Training' },
     desc: { ar: 'ندرّب فريقك على التشغيل الصحيح والاستخدام الآمن وإجراءات الطوارئ.', en: 'We train your team on correct operation, safe use and emergency procedures.' },
     highlight: { ar: 'تدريب عملي في الموقع', en: 'Hands-on training on site' }
   },
   {
     icon: '🔧',
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-7.png',
+    image: 'https://cdn.bestolex.com/bestolex/services/stage-7.png',
     title: { ar: 'الصيانة الوقائية والتصحيحية', en: 'Preventive & Corrective Maintenance' },
     desc: { ar: 'صيانة دورية واستجابة للأعطال للحفاظ على استمرارية التشغيل.', en: 'Scheduled maintenance and fault response to keep operations running.' },
     highlight: { ar: 'عقود صيانة دورية', en: 'Scheduled maintenance contracts' }
   },
   {
     icon: '⚙️',
-    image: 'https://electrocreative-cdn.b-cdn.net/bestolex/services/stage-8.png',
+    image: 'https://cdn.bestolex.com/bestolex/services/stage-8.png',
     title: { ar: 'قطع الغيار وخدمة ما بعد البيع', en: 'Spare Parts & After-Sales Service' },
     desc: { ar: 'نوفّر قطع الغيار ونتابع المعدات بعد التسليم.', en: 'We supply spare parts and support the equipment after handover.' },
     highlight: { ar: 'قطع غيار ودعم بعد البيع', en: 'Spare parts and after-sales support' }

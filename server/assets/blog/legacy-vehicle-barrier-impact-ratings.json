@@ -24,7 +24,7 @@
     "ar": "5 دقائق قراءة",
     "en": "5 min read"
   },
-  "image": "https://electrocreative-cdn.b-cdn.net/bestolex-1790715646923-hydraulic_road_blocker_in_roadway_2k_20260930000028.jpg",
+  "image": "https://cdn.bestolex.com/bestolex-1790715646923-hydraulic_road_blocker_in_roadway_2k_20260930000028.jpg",
   "imageAlt": {
     "ar": "مصد طريق هيدروليكي عالي الأمان عند مدخل منشأة",
     "en": "High-security hydraulic road blocker at a facility entrance"
@@ -90,7 +90,7 @@
         "ar": "مصد طريق عالي الأمان",
         "en": "High Security Road Blocker"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/high-security-road-blocker-pas68/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/1.png"
     },
     {
       "id": "high-security-shallow-road-blocker",
@@ -98,7 +98,7 @@
         "ar": "مصد طريق سطحي عالي الأمان",
         "en": "High Security Shallow Road Blocker"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/high-security-shallow-road-blocker-pas68/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/1.png"
     },
     {
       "id": "road-blocker",
@@ -106,7 +106,7 @@
         "ar": "مصد طريق هيدروليكي",
         "en": "Road Blocker"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/road-blocker/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/road-blocker/1.png"
     }
   ],
   "review": {

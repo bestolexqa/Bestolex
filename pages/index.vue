@@ -7,7 +7,7 @@
         <!-- Interim cover image: the previous background video belonged to another project (dental clinic).
              Replace with a compressed Bestolex video + this image as its poster when the footage is ready. -->
         <img
-          src="https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg"
+          src="https://cdn.bestolex.com/bestolex/about/showroom-v2.jpg"
           alt=""
           aria-hidden="true"
           fetchpriority="high"

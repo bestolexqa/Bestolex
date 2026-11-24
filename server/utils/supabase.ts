@@ -4,7 +4,7 @@ let supabaseClient: any = null
 
 export const useServerSupabase = () => {
   let url = process.env.SUPABASE_URL
-  const key = process.env.SUPABASE_KEY
+  const key = process.env.SUPABASE_KEY || process.env.SUPABASE_KE
 
   if (!url || !key || url.includes('your-project') || key.includes('your-supabase')) {
     return null

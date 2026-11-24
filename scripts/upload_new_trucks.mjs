@@ -3,7 +3,7 @@ import path from 'path';
 
 const STORAGE_ZONE_NAME = 'electrocreative-zone';
 const ACCESS_KEY = process.env.BUNNY_STORAGE_ACCESS_KEY;
-const PULL_ZONE = 'electrocreative-cdn.b-cdn.net';
+const PULL_ZONE = 'cdn.bestolex.com';
 const BASE_STORAGE_URL = 'https://storage.bunnycdn.com';
 
 const newDir = 'C:/Users/PC/.gemini/antigravity-ide/brain/e987ab83-416f-4276-99c5-74533c0171ec/.user_uploaded';

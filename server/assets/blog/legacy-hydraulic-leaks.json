@@ -24,7 +24,7 @@
     "ar": "3 دقائق قراءة",
     "en": "3 min read"
   },
-  "image": "https://electrocreative-cdn.b-cdn.net/bestolex-1790806475221-technician_inspecting_hydraulic___2k_20261001011421.jpg",
+  "image": "https://cdn.bestolex.com/bestolex-1790806475221-technician_inspecting_hydraulic___2k_20261001011421.jpg",
   "imageAlt": {
     "ar": "فني يفحص نظاماً هيدروليكياً بحثاً عن تسرب",
     "en": "Technician inspecting a hydraulic system for leaks"
@@ -88,7 +88,7 @@
         "ar": "رصيف تحميل هيدروليكي (دوك ليفيلر)",
         "en": "Hydraulic Dock Leveler"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/hydraulic-dock-leveler/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/hydraulic-dock-leveler/1.png"
     },
     {
       "id": "road-blocker",
@@ -96,7 +96,7 @@
         "ar": "مصد طريق هيدروليكي",
         "en": "Road Blocker"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/road-blocker/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/road-blocker/1.png"
     }
   ],
   "review": {

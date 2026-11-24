@@ -102,3 +102,39 @@ export async function copyOne(path: string, force = false): Promise<FileResult> 
   }
   return { path, status: 'copied', bytes: body.byteLength }
 }
+
+
+/** The blog records the live site reads from storage rather than from the repo. */
+export const BLOG_DATA_FILES = ['data/articles.json', 'data/categories.json']
+
+/**
+ * Copies the blog records into the new zone and rewrites the old CDN host
+ * inside them, so article covers point at the company's own hostname.
+ */
+export async function migrateBlogData(): Promise<FileResult[]> {
+  const key = process.env.BUNNY_NEW_STORAGE_KEY || ''
+  if (!key) return BLOG_DATA_FILES.map(path => ({ path, status: 'failed' as const, detail: 'BUNNY_NEW_STORAGE_KEY is not set' }))
+
+  const out: FileResult[] = []
+  for (const path of BLOG_DATA_FILES) {
+    try {
+      const src = await fetch(`https://${OLD_CDN_HOST}/${path}`, { cache: 'no-store' })
+      if (!src.ok) { out.push({ path, status: 'failed', detail: `source ${src.status}` }); continue }
+      const text = await src.text()
+      JSON.parse(text)
+      const rewritten = text.split(OLD_CDN_HOST).join(NEW_CDN_HOST)
+      const replaced = (text.length - text.split(OLD_CDN_HOST).join('').length) / OLD_CDN_HOST.length
+
+      const put = await fetch(`${STORAGE_BASE}/${NEW_STORAGE_ZONE}/${path}`, {
+        method: 'PUT',
+        headers: { AccessKey: key, 'Content-Type': 'application/json' },
+        body: rewritten
+      })
+      if (!put.ok) { out.push({ path, status: 'failed', detail: `upload ${put.status}` }); continue }
+      out.push({ path, status: 'copied', bytes: rewritten.length, detail: `${replaced} رابطاً صُحّح` })
+    } catch (e: any) {
+      out.push({ path, status: 'failed', detail: `${e?.message || e}` })
+    }
+  }
+  return out
+}

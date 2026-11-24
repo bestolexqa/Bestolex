@@ -4,9 +4,9 @@ import defaultArticles from '~~/data/articles.json'
 import defaultCategories from '~~/data/categories.json'
 import { useServerSupabase } from './supabase'
 
-const BUNNY_STORAGE_ACCESS_KEY = process.env.BUNNY_STORAGE_ACCESS_KEY || ''
-const BUNNY_STORAGE_ZONE = process.env.BUNNY_STORAGE_ZONE_NAME || 'electrocreative-zone'
-const BUNNY_PULL_ZONE = process.env.BUNNY_PULL_ZONE_URL || 'electrocreative-cdn.b-cdn.net'
+const BUNNY_STORAGE_ACCESS_KEY = process.env.BUNNY_NEW_STORAGE_KEY || process.env.BUNNY_STORAGE_ACCESS_KEY || ''
+const BUNNY_STORAGE_ZONE = process.env.BUNNY_STORAGE_ZONE_NAME || 'bestolex-products'
+const BUNNY_PULL_ZONE = process.env.BUNNY_PULL_ZONE_URL || 'cdn.bestolex.com'
 
 // Helper to upload a JSON string to Bunny Storage
 async function writeToBunny(remoteFilePath: string, data: any): Promise<boolean> {
@@ -153,7 +153,7 @@ async function loadArticles(): Promise<LoadedList> {
           excerpt: { ar: item.excerpt_ar, en: item.excerpt_en || item.excerpt_ar },
           desc: { ar: item.excerpt_ar || item.title_ar, en: item.excerpt_en || item.title_en },
           content: { ar: item.content_ar, en: item.content_en || item.content_ar },
-          image: item.image || 'https://electrocreative-cdn.b-cdn.net/bestolex/news/news1.jpg',
+          image: item.image || 'https://cdn.bestolex.com/bestolex/news/news1.jpg',
           date: item.created_at ? item.created_at.split('T')[0] : '2026-08-15',
           updatedAt: item.updated_at ? item.updated_at.split('T')[0] : undefined,
           readTime: { ar: item.read_time_ar || '5 دقائق قراءة', en: item.read_time_en || '5 min read' },

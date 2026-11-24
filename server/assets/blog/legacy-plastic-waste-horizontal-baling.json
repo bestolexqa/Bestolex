@@ -24,7 +24,7 @@
     "ar": "18 دقيقة قراءة",
     "en": "12 min read"
   },
-  "image": "https://electrocreative-cdn.b-cdn.net/bestolex-1791388667441-hydraulic_baler_compressing_plas__2k_20261007185728.jpg",
+  "image": "https://cdn.bestolex.com/bestolex-1791388667441-hydraulic_baler_compressing_plas__2k_20261007185728.jpg",
   "imageAlt": {
     "ar": "بالات بلاستيك مضغوطة بمكبس أفقي",
     "en": "Plastic bales compressed by a horizontal baler"
@@ -100,7 +100,7 @@
         "ar": "مكبس نفايات أفقي 70 طناً",
         "en": "Horizontal Baling Press 70T"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/horizontal-plastic-baler-70/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/horizontal-plastic-baler-70/1.png"
     },
     {
       "id": "auto-horizontal-baler",
@@ -108,7 +108,7 @@
         "ar": "مكبس أفقي أوتوماتيكي",
         "en": "Horizontal Auto Baler"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/auto-horizontal-baler/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/auto-horizontal-baler/1.png"
     },
     {
       "id": "cardboard-plastic-baler-200",
@@ -116,7 +116,7 @@
         "ar": "مكبس الكرتون والبلاستيك العمودي 20 طناً",
         "en": "Vertical Baling Press 20T"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/cardboard-plastic-baler-200/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-200/1.png"
     },
     {
       "id": "can-bottle-baler-80",
@@ -124,7 +124,7 @@
         "ar": "مكبس الكرتون والبلاستيك العمودي 80 طناً",
         "en": "Vertical PET Baling Press 80T"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/can-bottle-baler-80/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/1.png"
     }
   ],
   "review": {

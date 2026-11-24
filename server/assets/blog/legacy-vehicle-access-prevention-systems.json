@@ -24,7 +24,7 @@
     "ar": "5 دقائق قراءة",
     "en": "5 min read"
   },
-  "image": "https://electrocreative-cdn.b-cdn.net/bestolex-1790715332266-tire_spike_barrier_controls_vehi__2k_20260929235516.jpg",
+  "image": "https://cdn.bestolex.com/bestolex-1790715332266-tire_spike_barrier_controls_vehi__2k_20260929235516.jpg",
   "imageAlt": {
     "ar": "مفجر إطارات بأشواك فولاذية عند مدخل مركبات",
     "en": "Tyre killer with steel spikes at a vehicle entrance"
@@ -49,7 +49,7 @@
         "ar": "مفجر إطارات",
         "en": "Tyre Killer"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/tyre-killer/2.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/tyre-killer/2.png"
     },
     {
       "id": "above-ground-tyre-killer",
@@ -57,7 +57,7 @@
         "ar": "مفجر إطارات فوق الأرض",
         "en": "Above-Ground Tyre Killer"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/above-ground-tyre-killer/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/above-ground-tyre-killer/1.png"
     },
     {
       "id": "road-blocker",
@@ -65,7 +65,7 @@
         "ar": "مصد طريق هيدروليكي",
         "en": "Road Blocker"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/road-blocker/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/road-blocker/1.png"
     }
   ],
   "review": {

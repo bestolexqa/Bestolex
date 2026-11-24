@@ -99,7 +99,7 @@
         "ar": "مصد عمودي أوتوماتيكي (بولارد)",
         "en": "Automatic Hydraulic Bollard"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/road-bollard/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/road-bollard/1.png"
     },
     {
       "id": "road-blocker",
@@ -107,7 +107,7 @@
         "ar": "مصد طريق هيدروليكي",
         "en": "Road Blocker"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/road-blocker/1.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/road-blocker/1.png"
     },
     {
       "id": "tyre-killer",
@@ -115,7 +115,7 @@
         "ar": "مفجر إطارات",
         "en": "Tyre Killer"
       },
-      "image": "https://electrocreative-cdn.b-cdn.net/bestolex/products/tyre-killer/2.png"
+      "image": "https://cdn.bestolex.com/bestolex/products/tyre-killer/2.png"
     }
   ],
   "reviewer": null,

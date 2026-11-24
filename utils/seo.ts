@@ -10,7 +10,7 @@ export const BUSINESS = {
   phoneSecondary: '+974 5070 8833',
   email: 'info@bestolex.com',
   logo: `${SITE_URL}/logo.png`,
-  image: 'https://electrocreative-cdn.b-cdn.net/bestolex/about/showroom-v2.jpg',
+  image: 'https://cdn.bestolex.com/bestolex/about/showroom-v2.jpg',
   address: {
     '@type': 'PostalAddress',
     streetAddress: 'Al Muntazah, Zone 24, Street 830, Building 16, Floor 7, Office 714',

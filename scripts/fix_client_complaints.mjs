@@ -3,7 +3,7 @@ import path from 'path';
 
 const STORAGE_ZONE_NAME = 'electrocreative-zone';
 const ACCESS_KEY = process.env.BUNNY_STORAGE_ACCESS_KEY;
-const PULL_ZONE = 'electrocreative-cdn.b-cdn.net';
+const PULL_ZONE = 'cdn.bestolex.com';
 const BASE_STORAGE_URL = 'https://storage.bunnycdn.com';
 
 const productsToFix = [
@@ -97,16 +97,16 @@ async function main() {
 
   // 2. Fix the trucks cards & category image (replace cropped cut-out with full uncropped realistic photos)
   const truckCards = {
-    'garsite-10000-gallon-truck-1': 'https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-1/1.jpg',
-    'garsite-10000-gallon-truck-2': 'https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-2/1.PNG',
-    'garsite-10000-gallon-truck-3': 'https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-3/1.jpeg',
-    'garsite-10000-gallon-truck-4': 'https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-4/1.jpeg'
+    'garsite-10000-gallon-truck-1': 'https://cdn.bestolex.com/bestolex/products/garsite-10000-gallon-truck-1/1.jpg',
+    'garsite-10000-gallon-truck-2': 'https://cdn.bestolex.com/bestolex/products/garsite-10000-gallon-truck-2/1.PNG',
+    'garsite-10000-gallon-truck-3': 'https://cdn.bestolex.com/bestolex/products/garsite-10000-gallon-truck-3/1.jpeg',
+    'garsite-10000-gallon-truck-4': 'https://cdn.bestolex.com/bestolex/products/garsite-10000-gallon-truck-4/1.jpeg'
   };
 
   for (const cat of categories) {
     if (cat.id === 'other-products') {
       // Update category image to uncropped full realistic photo
-      cat.image = 'https://electrocreative-cdn.b-cdn.net/bestolex/products/garsite-10000-gallon-truck-1/1.jpg';
+      cat.image = 'https://cdn.bestolex.com/bestolex/products/garsite-10000-gallon-truck-1/1.jpg';
       console.log(`Updated other-products category image to full realistic photo`);
     }
 

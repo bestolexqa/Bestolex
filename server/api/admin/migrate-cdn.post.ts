@@ -1,4 +1,4 @@
-import { collectPaths, copyOne, verifyOne, type FileResult } from '~~/server/utils/cdnMigration'
+import { collectPaths, copyOne, verifyOne, migrateBlogData, type FileResult } from '~~/server/utils/cdnMigration'
 
 /**
  * Copies or verifies one batch. The dashboard page calls this repeatedly with
@@ -8,9 +8,21 @@ import { collectPaths, copyOne, verifyOne, type FileResult } from '~~/server/uti
  * mode "verify" — only check that each file answers through the new CDN
  */
 export default defineEventHandler(async (event) => {
-  const body = await readBody<{ offset?: number, limit?: number, force?: boolean, mode?: 'copy' | 'verify' }>(event) || {}
+  const body = await readBody<{ offset?: number, limit?: number, force?: boolean, mode?: 'copy' | 'verify' | 'blog' }>(event) || {}
   const offset = Math.max(0, Number(body.offset) || 0)
-  const mode = body.mode === 'verify' ? 'verify' : 'copy'
+  const mode = body.mode === 'verify' ? 'verify' : (body.mode === 'blog' ? 'blog' : 'copy')
+
+  if (mode === 'blog') {
+    const results = await migrateBlogData()
+    return {
+      mode, total: results.length, offset: 0, processed: results.length,
+      nextOffset: results.length, done: true,
+      copied: results.filter(r => r.status === 'copied').length,
+      exists: 0, verified: 0,
+      failed: results.filter(r => r.status === 'failed'),
+      results
+    }
+  }
   const limit = Math.min(50, Math.max(1, Number(body.limit) || (mode === 'verify' ? 25 : 10)))
   const force = body.force === true
 
