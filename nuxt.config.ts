@@ -97,7 +97,8 @@ export default defineNuxtConfig({
   },
   supabase: {
     url: process.env.SUPABASE_URL || 'https://example.supabase.co',
-    key: process.env.SUPABASE_KEY || 'example-key',
+    // SUPABASE_KE is the historical, misspelled name of this variable in Vercel
+    key: process.env.SUPABASE_KEY || process.env.SUPABASE_KE || 'example-key',
     redirect: false
   },
   css: [
