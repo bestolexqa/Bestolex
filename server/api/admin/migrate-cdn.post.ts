@@ -1,13 +1,17 @@
-import { collectPaths, copyOne, type FileResult } from '~~/server/utils/cdnMigration'
+import { collectPaths, copyOne, verifyOne, type FileResult } from '~~/server/utils/cdnMigration'
 
 /**
- * Copies one batch. The dashboard page calls this repeatedly with a moving
- * offset so a slow batch never times the function out.
+ * Copies or verifies one batch. The dashboard page calls this repeatedly with
+ * a moving offset so a slow batch never times the function out.
+ *
+ * mode "copy"   — copy anything not already in the new zone
+ * mode "verify" — only check that each file answers through the new CDN
  */
 export default defineEventHandler(async (event) => {
-  const body = await readBody<{ offset?: number, limit?: number, force?: boolean }>(event) || {}
+  const body = await readBody<{ offset?: number, limit?: number, force?: boolean, mode?: 'copy' | 'verify' }>(event) || {}
   const offset = Math.max(0, Number(body.offset) || 0)
-  const limit = Math.min(25, Math.max(1, Number(body.limit) || 10))
+  const mode = body.mode === 'verify' ? 'verify' : 'copy'
+  const limit = Math.min(50, Math.max(1, Number(body.limit) || (mode === 'verify' ? 25 : 10)))
   const force = body.force === true
 
   const paths = await collectPaths()
@@ -15,10 +19,11 @@ export default defineEventHandler(async (event) => {
 
   const results: FileResult[] = []
   for (const path of slice) {
-    results.push(await copyOne(path, force))
+    results.push(mode === 'verify' ? await verifyOne(path) : await copyOne(path, force))
   }
 
   return {
+    mode,
     total: paths.length,
     offset,
     processed: slice.length,
@@ -26,6 +31,7 @@ export default defineEventHandler(async (event) => {
     done: offset + slice.length >= paths.length,
     copied: results.filter(r => r.status === 'copied').length,
     exists: results.filter(r => r.status === 'exists').length,
+    verified: results.filter(r => r.status === 'verified').length,
     failed: results.filter(r => r.status === 'failed'),
     results
   }

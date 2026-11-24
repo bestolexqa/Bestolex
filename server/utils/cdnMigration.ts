@@ -42,7 +42,35 @@ export async function collectPaths(): Promise<string[]> {
   return [...set].sort()
 }
 
-export type FileResult = { path: string, status: 'copied' | 'exists' | 'failed', bytes?: number, detail?: string }
+export type FileResult = { path: string, status: 'copied' | 'exists' | 'failed' | 'verified', bytes?: number, detail?: string }
+
+/**
+ * Bunny Storage answers GET but not HEAD, so presence is checked with a
+ * one-byte ranged GET rather than a HEAD request.
+ */
+async function existsInNewZone(path: string, key: string): Promise<boolean> {
+  try {
+    const res = await fetch(`${STORAGE_BASE}/${NEW_STORAGE_ZONE}/${path}`, {
+      headers: { AccessKey: key, Range: 'bytes=0-0' }
+    })
+    await res.arrayBuffer().catch(() => undefined)
+    return res.status === 200 || res.status === 206
+  } catch {
+    return false
+  }
+}
+
+/** Checks the file as a visitor would see it, through the new CDN hostname. */
+export async function verifyOne(path: string): Promise<FileResult> {
+  try {
+    const res = await fetch(`https://${NEW_CDN_HOST}/${encodeURI(path)}`, { headers: { Range: 'bytes=0-0' } })
+    await res.arrayBuffer().catch(() => undefined)
+    if (res.status === 200 || res.status === 206) return { path, status: 'verified' }
+    return { path, status: 'failed', detail: `cdn ${res.status}` }
+  } catch (e: any) {
+    return { path, status: 'failed', detail: `cdn error: ${e?.message || e}` }
+  }
+}
 
 /** Copies one file, unless it is already in the new zone. */
 export async function copyOne(path: string, force = false): Promise<FileResult> {
@@ -50,12 +78,7 @@ export async function copyOne(path: string, force = false): Promise<FileResult> 
   const key = process.env.BUNNY_NEW_STORAGE_KEY || ''
   if (!key) return { path, status: 'failed', detail: 'BUNNY_NEW_STORAGE_KEY is not set' }
 
-  if (!force) {
-    try {
-      const head = await fetch(target, { method: 'HEAD', headers: { AccessKey: key } })
-      if (head.ok) return { path, status: 'exists' }
-    } catch { /* fall through and copy */ }
-  }
+  if (!force && await existsInNewZone(path, key)) return { path, status: 'exists' }
 
   let body: ArrayBuffer
   try {

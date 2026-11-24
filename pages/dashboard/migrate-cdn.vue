@@ -21,8 +21,8 @@
           <div class="text-2xl font-black text-green-600">{{ copied }}</div>
         </div>
         <div class="bg-white dark:bg-gray-800 p-4 rounded-2xl border border-gray-100 dark:border-gray-700">
-          <div class="text-xs font-bold text-gray-400 mb-1">موجودة مسبقاً</div>
-          <div class="text-2xl font-black text-gray-500">{{ exists }}</div>
+          <div class="text-xs font-bold text-gray-400 mb-1">{{ mode === 'verify' ? 'تعمل على الـCDN' : 'موجودة مسبقاً' }}</div>
+          <div class="text-2xl font-black" :class="mode === 'verify' ? 'text-green-600' : 'text-gray-500'">{{ mode === 'verify' ? verified : exists }}</div>
         </div>
         <div class="bg-white dark:bg-gray-800 p-4 rounded-2xl border border-gray-100 dark:border-gray-700">
           <div class="text-xs font-bold text-gray-400 mb-1">فشلت</div>
@@ -39,9 +39,17 @@
           type="button"
           class="px-6 h-12 rounded-xl bg-primary text-white font-bold disabled:opacity-50"
           :disabled="running || !info?.keyConfigured"
-          @click="run"
+          @click="run('copy')"
         >
-          {{ running ? 'جارٍ النقل…' : (done ? 'إعادة التشغيل' : 'ابدأ النقل') }}
+          {{ running && mode === 'copy' ? 'جارٍ النقل…' : 'ابدأ النقل' }}
+        </button>
+        <button
+          type="button"
+          class="px-6 h-12 rounded-xl border border-gray-900 dark:border-gray-200 font-bold disabled:opacity-50"
+          :disabled="running"
+          @click="run('verify')"
+        >
+          {{ running && mode === 'verify' ? 'جارٍ التحقق…' : 'تحقّق من الكل' }}
         </button>
         <button
           v-if="running"
@@ -66,7 +74,7 @@
       </div>
 
       <div v-if="done" class="p-4 rounded-2xl bg-green-50 text-green-800 text-sm font-bold">
-        انتهى النقل. تحقّق من فتح الملفات على
+        {{ mode === 'verify' ? 'انتهى التحقق.' : 'انتهى النقل.' }} الملفات على
         <span dir="ltr" class="font-mono">{{ info?.cdn }}</span>
         قبل استبدال الروابط في الموقع.
       </div>
@@ -88,6 +96,8 @@ const done = ref(false)
 const processed = ref(0)
 const copied = ref(0)
 const exists = ref(0)
+const verified = ref(0)
+const mode = ref<'copy' | 'verify'>('copy')
 const failed = ref<Failure[]>([])
 
 const pct = computed(() => info.value?.total ? Math.round((processed.value / info.value.total) * 100) : 0)
@@ -96,13 +106,15 @@ onMounted(async () => {
   info.value = await $fetch<Info>('/api/admin/migrate-cdn')
 })
 
-async function run() {
+async function run(which: 'copy' | 'verify' = 'copy') {
+  mode.value = which
   running.value = true
   stop.value = false
   done.value = false
   processed.value = 0
   copied.value = 0
   exists.value = 0
+  verified.value = 0
   failed.value = []
 
   let offset = 0
@@ -110,12 +122,13 @@ async function run() {
     while (!stop.value) {
       const res = await $fetch<any>('/api/admin/migrate-cdn', {
         method: 'POST',
-        body: { offset, limit: 10 }
+        body: { offset, limit: which === 'verify' ? 25 : 10, mode: which }
       })
       offset = res.nextOffset
       processed.value = offset
       copied.value += res.copied
       exists.value += res.exists
+      verified.value += res.verified || 0
       if (res.failed?.length) failed.value.push(...res.failed)
       if (res.done) { done.value = true; break }
     }
