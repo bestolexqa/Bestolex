@@ -150,7 +150,7 @@
                     <span class="text-xs">{{ locale === 'ar' ? cat.name_ar : (cat.name_en || cat.name_ar) }}</span>
                   </div>
                   <span class="text-[10px] bg-gray-100 dark:bg-gray-700 text-gray-500 dark:text-gray-400 px-2 py-0.5 rounded-full">
-                    {{ getCategoryArticles(cat.name_ar).length }}
+                    {{ countCategoryArticles(cat.name_ar) }}
                   </span>
                 </div>
               </div>
@@ -172,7 +172,7 @@
                     {{ locale === 'ar' ? `مقالات قسم: ${activeBlogCategory}` : `Articles in: ${activeBlogCategory}` }}
                   </h4>
                   <span class="text-[11px] text-gray-400 font-mono">
-                    {{ getCategoryArticles(activeBlogCategory).length }} {{ locale === 'ar' ? 'مقالات' : 'articles' }}
+                    {{ countCategoryArticles(activeBlogCategory) }} {{ locale === 'ar' ? 'مقالات' : 'articles' }}
                   </span>
                 </div>
 
@@ -347,7 +347,7 @@
                 @click="expandedMobileBlogCat = expandedMobileBlogCat === cat.name_ar ? null : cat.name_ar"
               >
                 <span>🏷️ {{ locale === 'ar' ? cat.name_ar : (cat.name_en || cat.name_ar) }}</span>
-                <span class="text-[10px] bg-gray-100 dark:bg-gray-800 px-2 py-0.5 rounded-full">{{ getCategoryArticles(cat.name_ar).length }}</span>
+                <span class="text-[10px] bg-gray-100 dark:bg-gray-800 px-2 py-0.5 rounded-full">{{ countCategoryArticles(cat.name_ar) }}</span>
               </div>
               
               <!-- Sub-articles -->
@@ -495,9 +495,19 @@ const servicesList = [
   { icon: '🤝', title: { ar: 'الصيانة الوقائية وقطع الغيار', en: 'Preventive Maintenance' }, desc: { ar: 'عقود صيانة دورية واستجابة طارئة', en: 'Periodic maintenance & emergency support' } }
 ]
 
+// The whole mobile list renders in the server HTML on every page, so the menu
+// shows the newest four per category instead of all 42 — otherwise every page
+// exports 42 internal links and dilutes the product pages.
+const MENU_ARTICLES_PER_CATEGORY = 4
 const getCategoryArticles = (catNameAr) => {
-  return (blogArticles.value || []).filter(a => articleCategoryAr(a) === catNameAr)
+  return (blogArticles.value || [])
+    .filter(a => articleCategoryAr(a) === catNameAr)
+    .slice()
+    .sort((x, y) => String(y.date || '').localeCompare(String(x.date || '')))
+    .slice(0, MENU_ARTICLES_PER_CATEGORY)
 }
+const countCategoryArticles = (catNameAr) =>
+  (blogArticles.value || []).filter(a => articleCategoryAr(a) === catNameAr).length
 
 // Fetch live articles & categories if available
 onMounted(async () => {

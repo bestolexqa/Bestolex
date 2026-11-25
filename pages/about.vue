@@ -102,8 +102,8 @@
           </h3>
           <p class="text-gray-600 dark:text-gray-300 text-base md:text-lg leading-relaxed relative z-10">
             {{ locale === 'ar' 
-              ? 'أن تكون بيستوليكس الشريك الموثوق للمنشآت الصناعية واللوجستية في قطر، من خلال حلول هندسية في أنظمة التحميل والمستودعات، والنفايات وإعادة التدوير، والحماية المحيطية، والأبواب الصناعية، ترفع الكفاءة التشغيلية وتعزز السلامة وتدعم الاستدامة.'
-              : 'For Bestolex to be the trusted partner of industrial and logistics facilities in Qatar, through engineering solutions in loading and warehouse systems, waste and recycling, perimeter protection and industrial doors that raise operational efficiency, strengthen safety and support sustainability.'
+              ? 'أن تكون بيستوليكس الشريك الأول الذي تثق به المنشآت الصناعية واللوجستية في قطر لرفع كفاءتها التشغيلية وتعزيز سلامتها ودعم استدامتها.'
+              : 'For Bestolex to be the partner industrial and logistics facilities in Qatar turn to first, to raise their operating efficiency, strengthen their safety and support their sustainability.'
             }}
           </p>
         </div>

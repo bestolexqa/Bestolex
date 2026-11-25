@@ -21,7 +21,9 @@ export type RehostResult = RehostAsset & {
   url?: string
 }
 
-export const SABTECH_STORAGE_ZONE = process.env.BUNNY_NEW_STORAGE_ZONE || 'bestolex-products'
+// blogStorage.ts reads BUNNY_STORAGE_ZONE_NAME for the same zone; both are
+// accepted here so a missing variable cannot write to a different zone.
+export const SABTECH_STORAGE_ZONE = process.env.BUNNY_NEW_STORAGE_ZONE || process.env.BUNNY_STORAGE_ZONE_NAME || 'bestolex-products'
 export const SABTECH_CDN_HOST = process.env.BUNNY_NEW_CDN_HOST || 'cdn.bestolex.com'
 const STORAGE_BASE = process.env.BUNNY_STORAGE_BASE_URL || 'https://storage.bunnycdn.com'
 
@@ -46,7 +48,7 @@ function contentType(path: string): string {
 /** Bunny Storage answers GET but not HEAD, so a one-byte ranged GET stands in. */
 async function existsInZone(path: string, key: string): Promise<boolean> {
   try {
-    const res = await fetch(`${STORAGE_BASE}/${SABTECH_STORAGE_ZONE}/${path}`, {
+    const res = await fetch(`${STORAGE_BASE}/${SABTECH_STORAGE_ZONE}/${encodeURI(path)}`, {
       headers: { AccessKey: key, Range: 'bytes=0-0' },
       signal: AbortSignal.timeout(15000)
     })
@@ -105,7 +107,7 @@ export async function copySabtechOne(a: RehostAsset, force = false): Promise<Reh
   // so the integrity check happens at the storage end, not only here.
   const checksum = createHash('sha256').update(Buffer.from(body)).digest('hex').toUpperCase()
   try {
-    const put = await fetch(`${STORAGE_BASE}/${SABTECH_STORAGE_ZONE}/${a.path}`, {
+    const put = await fetch(`${STORAGE_BASE}/${SABTECH_STORAGE_ZONE}/${encodeURI(a.path)}`, {
       method: 'PUT',
       headers: { AccessKey: key, 'Content-Type': contentType(a.path), Checksum: checksum },
       body,

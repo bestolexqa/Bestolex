@@ -17,6 +17,11 @@ export default defineNuxtConfig({
     }
   },
   routeRules: {
+    // The asset migration downloads from sabtech.com.sa and uploads to Bunny in
+    // series, and a certificate is 2.2 MB, so this route needs more than the
+    // default function timeout.
+    '/api/admin/rehost-sabtech': { isr: false, vercel: { maxDuration: 120 } },
+    '/api/admin/migrate-cdn': { isr: false, vercel: { maxDuration: 120 } },
     // Basic security headers on every response (item 25). A Content-Security-Policy comes later,
     // once GTM/GA4 and the CDN hosts are final.
     '/**': {

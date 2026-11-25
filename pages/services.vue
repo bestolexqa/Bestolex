@@ -170,7 +170,7 @@
             </h2>
             <p class="text-gray-300 text-base md:text-lg leading-relaxed">
               {{ locale === 'ar' 
-                ? 'في بيستوليكس لا يتوقف العمل عند التوريد: نعاين الموقع، ونقترح الحل في أنظمة التحميل والمستودعات، والنفايات وإعادة التدوير، والحماية المحيطية، والأبواب الصناعية، ثم نركّب ونشغّل وندرّب، ونتابع بعقود صيانة دورية وقطع غيار أصلية لتبقى معداتكم تعمل دون انقطاع.' 
+                ? 'في بيستوليكس لا يتوقف العمل عند التوريد: نعاين الموقع، ونقترح الحل المناسب من أنظمة التحميل والمستودعات، والنفايات وإعادة التدوير، والحماية المحيطية، والأبواب الصناعية، ثم نركّب المعدة ونشغّلها وندرّب مشغّليها، ونتابع بعقود صيانة دورية وقطع غيار أصلية لتبقى معداتكم تعمل دون انقطاع.' 
                 : 'At Bestolex the work does not stop at supply: we survey the site, propose the solution across loading and warehouse systems, waste and recycling, perimeter protection and industrial doors, then install, commission and train, and follow through with maintenance contracts and genuine spare parts so your equipment keeps running.' 
               }}
             </p>
