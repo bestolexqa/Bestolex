@@ -1221,6 +1221,13 @@
             }
           },
           {
+            "label": {
+              "ar": "غرفة المواد",
+              "en": "Material Chamber"
+            },
+            "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-200/component-material-chamber.png"
+          },
+          {
             "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-200/component-volume-reduction-101.png",
             "label": {
               "ar": "انخفاض في الحجم بنسبة 10:1",
@@ -4612,7 +4619,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "240 فولت، أحادي الطور، 50 هرتز (منفاخ 0.55 كيلوواط)"
+              "value": "240 فولت، أحادي الطور، 50 هرتز — التغذية المطلوبة في الموقع للمنفاخ (0.55 كيلوواط)"
             }
           ],
           "en": [
@@ -4638,7 +4645,7 @@
             },
             {
               "label": "Electricity",
-              "value": "240V, Single-Phase, 50Hz (0.55 kW blower)"
+              "value": "240V, Single-Phase, 50Hz — site supply required for the blower (0.55 kW)"
             }
           ]
         },
@@ -4693,7 +4700,7 @@
             },
             {
               "q": "ما خطوات التوريد والتركيب والصيانة لـ«أغطية بوابات مطاطية قابلة للانتفاخ» في قطر؟",
-              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240 فولت، أحادي الطور، 50 هرتز (منفاخ 0.55 كيلوواط)) وأبعاد الغطاء القياسية (3500 (عرض) × 3700 (ارتفاع) مم) قبل إصدار العرض الفني."
+              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240 فولت، أحادي الطور، 50 هرتز — التغذية المطلوبة في الموقع للمنفاخ (0.55 كيلوواط)) وأبعاد الغطاء القياسية (3500 (عرض) × 3700 (ارتفاع) مم) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -4715,7 +4722,7 @@
             },
             {
               "q": "What are the supply, installation and maintenance steps for the Inflatable Dock Shelter in Qatar?",
-              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240V, Single-Phase, 50Hz (0.55 kW blower)) and the standard shelter size (3500 (W) × 3700 (H) mm) before the technical proposal is issued."
+              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240V, Single-Phase, 50Hz — site supply required for the blower (0.55 kW)) and the standard shelter size (3500 (W) × 3700 (H) mm) before the technical proposal is issued."
             }
           ]
         },
@@ -5004,7 +5011,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "240/415 فولت، 3 فاز، 50 هرتز (مع ذراع الرفع الهيدروليكي الاختياري)"
+              "value": "لا يحتاج تغذية كهربائية — ضبط الارتفاع يدوي بأرجل الارتكاز، وذراع الرفع الهيدروليكي خيار"
             }
           ],
           "en": [
@@ -5038,7 +5045,7 @@
             },
             {
               "label": "Electricity",
-              "value": "240/415V, 3-Phase, 50Hz (with the optional hydraulic lift arm)"
+              "value": "No electrical supply needed — height is set manually on the support legs, and the hydraulic lift arm is an option"
             }
           ]
         },
@@ -5102,7 +5109,7 @@
             },
             {
               "q": "ما خطوات التوريد والتركيب والصيانة لـ«منحدر تحميل متحرك» في قطر؟",
-              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز (مع ذراع الرفع الهيدروليكي الاختياري)) وطول المنصة (11300 مم) قبل إصدار العرض الفني."
+              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (لا يحتاج تغذية كهربائية — ضبط الارتفاع يدوي بأرجل الارتكاز، وذراع الرفع الهيدروليكي خيار) وطول المنصة (11300 مم) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -5124,7 +5131,7 @@
             },
             {
               "q": "What are the supply, installation and maintenance steps for the Movable Dock Ramp in Qatar?",
-              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz (with the optional hydraulic lift arm)) and the ramp length (11300 mm) before the technical proposal is issued."
+              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (No electrical supply needed — height is set manually on the support legs, and the hydraulic lift arm is an option) and the ramp length (11300 mm) before the technical proposal is issued."
             }
           ]
         }
@@ -5610,19 +5617,19 @@
         "coverImage": "https://cdn.bestolex.com/bestolex/products/above-ground-tyre-killer/1.png",
         "description": {
           "ar": "مفجر الإطارات المثبت على السطح فوق الأرض من ساب تك هو نظام أمني متطور يثبت مباشرة على سطح الأسفلت أو الخرسانة دون الحاجة إلى أعمال حفر عميقة أو أساسات أرضية معقدة.\nمصمم بصفائح فولاذية منحنية مانعة للانزلاق وأشواك فولاذية حادة تبرز عند محاولة الدخول الخاطئ أو غير المصرح به لتدمير إطارات المركبات فوراً.\nيعتبر الخيار المثالي والأمثل للمواقع الحساسة والمؤقتة أو الطرق التي تحتوي على تمديدات تحت الأرض تحول دون الحفر العميق.",
-          "en": "SAB TECH’s Surface Mount Above Ground Tyre Killer is an engineered high-security barrier installed directly onto asphalt or concrete surfaces without requiring deep pit excavation.\nDesigned with heavy-duty anti-slip ramps and sharp steel spikes that immediately puncture and destroy vehicle tyres attempting unauthorized entry or wrong-way driving.\nIdeal for sensitive facilities, temporary checkpoints, or sites with underground utilities where deep excavation is impossible."
+          "en": "SAB TECH’s Surface Mount Above Ground Tyre Killer is an engineered high-security barrier installed directly onto asphalt or concrete surfaces without requiring deep pit excavation.\nDesigned with heavy-duty anti-slip ramps and sharp steel spikes designed to puncture the tyres of a vehicle attempting unauthorized entry or wrong-way driving.\nIdeal for sensitive facilities, temporary checkpoints, or sites with underground utilities where deep excavation is impossible."
         },
         "features": {
           "ar": [
             "تركيب سطحي مباشر على الطريق أعلى الأرض بدون حفر أو أعمال إنشائية عميقة",
-            "أشواك فولاذية صلبة وحادة مصممة خصيصاً لإتلاف إطارات المركبات المعتدية فوراً",
+            "أشواك فولاذية صلبة وحادة مصممة لإتلاف إطارات المركبة التي تعبر في الاتجاه الممنوع",
             "منحدرات جانبية مانعة للانزلاق تضمن مروراً آمناً للمركبات المرخصة بالاتجاه المسموح",
             "هيكل فولاذي مصفح شديد التحمل يتحمل حمل محور ساكن حتى 50 طناً",
             "خدمة ما بعد البيع متكاملة وتوفر قطع الغيار الأصلية مع ضمان لمدة سنة كاملة"
           ],
           "en": [
             "Direct surface-mount installation without requiring deep trenching or excavation",
-            "Heavy-duty sharp steel spikes engineered for immediate vehicle tyre destruction",
+            "Heavy-duty sharp steel spikes designed to disable the tyres of a wrong-way vehicle",
             "Anti-slip side ramps ensuring smooth passage for authorized vehicles in permitted direction",
             "Armoured steel construction built to withstand high axle loads and heavy traffic",
             "Full after-sales support, genuine spare parts availability, and 1-year warranty"
@@ -5684,7 +5691,7 @@
               "value": "10 – 12 مم"
             },
             {
-              "label": "تحميل المحور المسموح",
+              "label": "تحميل المحور الساكن المسموح",
               "value": "50 طن لكل محور"
             },
             {
@@ -5701,7 +5708,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "240/415 فولت، 3 فاز، 50 هرتز (للموديل الهيدروليكي الكهروميكانيكي)"
+              "value": "240/415 فولت، 3 فاز، 50 هرتز — التغذية المطلوبة في الموقع للموديل الهيدروليكي الكهروميكانيكي؛ وموديل الثقل الميكانيكي لا يحتاج تغذية"
             }
           ],
           "en": [
@@ -5722,7 +5729,7 @@
               "value": "10 – 12 mm"
             },
             {
-              "label": "Max Axle Load",
+              "label": "Max Static Axle Load",
               "value": "50 Tons per axle"
             },
             {
@@ -5739,7 +5746,7 @@
             },
             {
               "label": "Electricity",
-              "value": "240/415V, 3-Phase, 50Hz (electromechanical hydraulic model)"
+              "value": "240/415V, 3-Phase, 50Hz — site supply required for the electromechanical hydraulic model; the counterweight model needs none"
             }
           ]
         },
@@ -5958,7 +5965,7 @@
               "value": "يدعم منافذ I/O متعددة للربط الأمني"
             },
             {
-              "label": "تحميل المحور المسموح",
+              "label": "تحميل المحور الساكن المسموح",
               "value": "50 طن لكل محور"
             },
             {
@@ -6000,7 +6007,7 @@
               "value": "Multi-channel I/O access control ready"
             },
             {
-              "label": "Max Axle Load",
+              "label": "Max Static Axle Load",
               "value": "50 Tons per axle"
             },
             {
@@ -6151,27 +6158,6 @@
                 "en": "12 November 2020"
               },
               "file": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/certificate-tc-12055-3532-19475-en.pdf"
-            },
-            {
-              "standard": {
-                "ar": "تقرير اختبار التصادم",
-                "en": "Crash-test report"
-              },
-              "rating": "",
-              "model": {
-                "ar": "RB3M1000CT",
-                "en": "RB3M1000CT"
-              },
-              "certificateNo": "",
-              "lab": {
-                "ar": "crashtest-service.com GmbH — مونستر، ألمانيا",
-                "en": "crashtest-service.com GmbH — Münster, Germany"
-              },
-              "date": {
-                "ar": "",
-                "en": ""
-              },
-              "file": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/crash-test-report.pdf"
             }
           ]
         }
@@ -6301,7 +6287,7 @@
               "value": "يدعم منافذ I/O متعددة للربط الأمني"
             },
             {
-              "label": "تحميل المحور المسموح",
+              "label": "تحميل المحور الساكن المسموح",
               "value": "50 طن لكل محور"
             },
             {
@@ -6347,7 +6333,7 @@
               "value": "Multi-channel I/O access control ready"
             },
             {
-              "label": "Max Axle Load",
+              "label": "Max Static Axle Load",
               "value": "50 Tons per axle"
             },
             {
@@ -6491,8 +6477,8 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/road-blocker/1.png",
         "description": {
-          "ar": "توفر مصدات الطرق الهيدروليكية من ساب تك حماية أمنية قوية وعالية الأداء وفعالة للمناطق الحساسة، فتمنع عبور المركبات غير المصرح لها عند المدخل.\nتوفر مصدات الطرق لدينا تدفقًا سلسًا لحركة المرور للمركبات المرخصة مع منع اقتحام المركبات غير المصرح به.\nمدعومة بوحدة الطاقة الهيدروليكية (HPU)، يمكن لمصدات الطرق الخاصة بنا أن ترفع وتنخفض بسرعة (خلال 4-6 ثواني)، مما يضمن التشغيل السريع.\nفي حالة انقطاع التيار الكهربائي، تسمح المضخة اليدوية المجهزة خصيصًا بالتشغيل اليدوي، مما يضمن الأمان المستمر حتى في ظل الظروف المعاكسة.",
-          "en": "SAB TECH’s Hydraulic Road blockers offer robust and effective security protection for sensitive areas, stopping unauthorized vehicles at the controlled entrance.\nOur road blockers provide seamless traffic flow for authorized vehicles while deterring unauthorized vehicular intrusion.\nPowered by a hydraulic power unit (HPU), our road blockers can rapidly lift and lower (in 4-6 seconds), ensuring swift operation.\nIn the event of a power failure, a specially fitted hand pump allows for manual operation, ensuring continuous security even under adverse conditions."
+          "ar": "توفر مصدات الطرق الهيدروليكية من ساب تك حماية أمنية قوية وعالية الأداء وفعالة للمناطق الحساسة، فتمنع عبور المركبات غير المصرح لها عند المدخل.\nتوفر مصدات الطرق لدينا تدفقًا سلسًا لحركة المرور للمركبات المرخصة مع منع عبور المركبات غير المصرح لها.\nمدعومة بوحدة الطاقة الهيدروليكية (HPU)، يمكن لمصدات الطرق الخاصة بنا أن ترفع وتنخفض بسرعة (خلال 4-6 ثواني)، مما يضمن التشغيل السريع.\nفي حالة انقطاع التيار الكهربائي، تسمح المضخة اليدوية المجهزة خصيصًا بالتشغيل اليدوي، مما يضمن الأمان المستمر حتى في ظل الظروف المعاكسة.",
+          "en": "SAB TECH’s Hydraulic Road blockers offer robust and effective security protection for sensitive areas, stopping unauthorized vehicles at the controlled entrance.\nOur road blockers provide seamless traffic flow for authorized vehicles while keeping unauthorized vehicles out.\nPowered by a hydraulic power unit (HPU), our road blockers can rapidly lift and lower (in 4-6 seconds), ensuring swift operation.\nIn the event of a power failure, a specially fitted hand pump allows for manual operation, ensuring continuous security even under adverse conditions."
         },
         "features": {
           "ar": [
@@ -6760,8 +6746,8 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/surface-mount-hydraulic-road-blocker/1.png",
         "description": {
-          "ar": "حاجز الطريق الهيدروليكي المثبت على السطح من ساب تك هو حل أمني متكامل يثبت مباشرة فوق سطح الطريق دون الحاجة إلى أي أعمال حفر أو حفر خرساني عميق.\nمصمم بصفائح صلبة مصفحة ومنحدرات جانبية تمكن المركبات من العبور السلس في الاتجاه المصرح به، بينما تمنع الاقتحام وتغلق الطريق فوراً عند الحاجة.\nيتميز بوحدة طاقة هيدروليكية قوية وعالية الأداء (HPU) تضمن رفع وخفض الحاجز بسرعة فائقة (خلال 3-5 ثواني)، مع إمكانية التشغيل اليدوي المدمج عند انقطاع التيار الكهربائي.",
-          "en": "SAB TECH’s Surface Mount Hydraulic Road Blocker is a heavy-duty security solution installed directly onto the road surface without requiring pit excavation or deep concrete foundations.\nEngineered with armoured steel plates and integral side ramps, allowing smooth passage for authorized vehicles while immediately blocking unwanted intrusions.\nPowered by a high-output Hydraulic Power Unit (HPU) providing rapid lifting and lowering (within 3-5 seconds), featuring manual emergency override during power outages."
+          "ar": "حاجز الطريق الهيدروليكي المثبت على السطح من ساب تك هو حل أمني متكامل يثبت مباشرة فوق سطح الطريق دون الحاجة إلى أي أعمال حفر أو حفر خرساني عميق.\nمصمم بصفائح صلبة مصفحة ومنحدرات جانبية تمكن المركبات من العبور السلس في الاتجاه المصرح به، بينما تغلق الحارة فوراً عند الحاجة فتمنع عبور المركبات غير المصرح لها.\nيتميز بوحدة طاقة هيدروليكية قوية وعالية الأداء (HPU) تضمن رفع وخفض الحاجز بسرعة فائقة (خلال 3-5 ثواني)، مع إمكانية التشغيل اليدوي المدمج عند انقطاع التيار الكهربائي.",
+          "en": "SAB TECH’s Surface Mount Hydraulic Road Blocker is a heavy-duty security solution installed directly onto the road surface without requiring pit excavation or deep concrete foundations.\nEngineered with armoured steel plates and integral side ramps, allowing smooth passage for authorized vehicles while closing the lane immediately to stop unauthorized vehicles.\nPowered by a high-output Hydraulic Power Unit (HPU) providing rapid lifting and lowering (within 3-5 seconds), featuring manual emergency override during power outages."
         },
         "features": {
           "ar": [
@@ -6850,7 +6836,7 @@
               "value": "4.0 – 7.5 كيلوواط"
             },
             {
-              "label": "تحميل المحور المسموح",
+              "label": "تحميل المحور الساكن المسموح",
               "value": "50 طن لكل محور"
             },
             {
@@ -6884,7 +6870,7 @@
               "value": "4.0 – 7.5 kW"
             },
             {
-              "label": "Max Axle Load",
+              "label": "Max Static Axle Load",
               "value": "50 Tons per axle"
             },
             {
@@ -7383,7 +7369,7 @@
               "value": "وحدات إضاءة LED مدمجة عالية السطوع العمر 50,000 ساعة"
             },
             {
-              "label": "تحميل المحور المسموح",
+              "label": "تحميل المحور الساكن المسموح",
               "value": "50 طن لكل محور"
             },
             {
@@ -7400,7 +7386,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "240 فولت، أحادي الطور، 50 هرتز"
+              "value": "240 فولت، أحادي الطور، 50 هرتز — التغذية المطلوبة في الموقع؛ ويُثبَّت الحمل من ورقة مواصفات المصنّع"
             }
           ],
           "en": [
@@ -7421,7 +7407,7 @@
               "value": "High-intensity LED lights (50,000 hrs lifetime)"
             },
             {
-              "label": "Max Axle Load",
+              "label": "Max Static Axle Load",
               "value": "50 Tons per axle"
             },
             {
@@ -7438,7 +7424,7 @@
             },
             {
               "label": "Electricity",
-              "value": "240V, Single-Phase, 50Hz"
+              "value": "240V, Single-Phase, 50Hz — site supply required; the load is confirmed from the manufacturer datasheet"
             }
           ]
         },
@@ -7486,7 +7472,7 @@
             },
             {
               "q": "ما الذي تشمله خدمة بيستوليكس في قطر لـ«نظام كشف تحت المركبة»؟",
-              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240 فولت، أحادي الطور، 50 هرتز) ودقة الكاميرا والمسح (كاميرا HD Line-Scan عالية السرعة والدقة) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240 فولت، أحادي الطور، 50 هرتز — التغذية المطلوبة في الموقع؛ ويُثبَّت الحمل من ورقة مواصفات المصنّع) ودقة الكاميرا والمسح (كاميرا HD Line-Scan عالية السرعة والدقة) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -7508,7 +7494,7 @@
             },
             {
               "q": "What does Bestolex's service in Qatar cover for the Under Vehicle Surveillance System?",
-              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240V, Single-Phase, 50Hz) and the camera technology (High-speed Digital HD Line-Scan Camera) before the technical proposal is issued."
+              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240V, Single-Phase, 50Hz — site supply required; the load is confirmed from the manufacturer datasheet) and the camera technology (High-speed Digital HD Line-Scan Camera) before the technical proposal is issued."
             }
           ]
         }
@@ -7521,19 +7507,19 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/tyre-killer/2.png",
         "description": {
-          "ar": "مفجر الإطارات من ساب تك هو نظام أمني صلب وشديد الفعالية مصمم لمنع وحظر حركة المركبات غير المصرح بها في الاتجاه الممنوع ومنع اقتحام المنشآت الحساسة.\nمصنوع من الفولاذ الصلب عالي التحمل ومزود بأشواك فولاذية حادة تضمن تدمير إطارات المركبات المعتدية فوراً لمنعها من التقدم.\nيتوفر بموديلات كهروميكانيكية هيدروليكية أو بميكانيكية الثقل التلقائي، وتدعم التكامل الكامل مع كافة أنظمة التحكم في الدخول الحديثة وإشارات المرور.",
-          "en": "SAB TECH’s Tyre Killer is a heavy-duty security barrier designed to strictly prevent unauthorized vehicle entry and block traffic in wrong-way directions at critical access control points.\nConstructed from high-tensile heavy steel equipped with sharp steel spikes that instantly disable vehicle tyres upon impact, preventing forced intrusion.\nAvailable in electromechanical hydraulic drive models or mechanical counterweight self-reset models, fully integrable with access control systems and traffic indicators."
+          "ar": "مفجر الإطارات من ساب تك هو نظام أمني صلب وشديد الفعالية مصمم لمنع حركة المركبات في الاتجاه الممنوع عند نقاط التحكم في الدخول.\nمصنوع من الفولاذ الصلب عالي التحمل ومزود بأشواك فولاذية حادة مصممة لإتلاف إطارات المركبة التي تعبر في الاتجاه الممنوع ومنعها من التقدم.\nيتوفر بموديلات كهروميكانيكية هيدروليكية أو بميكانيكية الثقل التلقائي، وتدعم التكامل الكامل مع كافة أنظمة التحكم في الدخول الحديثة وإشارات المرور.",
+          "en": "SAB TECH’s Tyre Killer is a heavy-duty security barrier designed to stop wrong-way vehicle movement at access control points.\nConstructed from high-tensile heavy steel equipped with sharp steel spikes designed to disable the tyres of a vehicle crossing the wrong way upon impact, preventing forced intrusion.\nAvailable in electromechanical hydraulic drive models or mechanical counterweight self-reset models, fully integrable with access control systems and traffic indicators."
         },
         "features": {
           "ar": [
-            "أشواك فولاذية حادة مصممة خصيصاً لإتلاف إطارات المركبات المقتحمة فوراً",
+            "أشواك فولاذية حادة مصممة لإتلاف إطارات المركبة التي تعبر في الاتجاه الممنوع",
             "حركة الأشواك تعتمد على نظام الهيدروليك الكهروميكانيكي أو الثقل التلقائي",
             "أطوال متغيرة وتصاميم مخصصة حسب متطلبات الموقع وعرض الطريق",
             "هيكل مصفح عالي المتانة يتحمل حمل محور ساكن حتى 50 طناً",
             "خدمة ما بعد البيع متكاملة وتوفر قطع الغيار الأصلية مع ضمان لمدة سنة"
           ],
           "en": [
-            "Heavy-duty sharp steel spikes specifically engineered for immediate tyre destruction",
+            "Heavy-duty sharp steel spikes designed to disable the tyres of a wrong-way vehicle",
             "Spike operation available via electromechanical hydraulic or mechanical counterweight systems",
             "Customizable lengths and spike arrangements to match exact site installation dimensions",
             "Armoured heavy steel structure rated for a 50-ton static axle load",
@@ -7551,7 +7537,7 @@
           {
             "image": "https://cdn.bestolex.com/bestolex/products/tyre-killer/component-shallow-installation-type.png",
             "label": {
-              "ar": "نموذج سطحي لمنع اقتحام الإطارات",
+              "ar": "نموذج التركيب السطحي",
               "en": "Shallow Installation Type"
             }
           },
@@ -7600,7 +7586,7 @@
               "value": "1.5 – 3 ثوانٍ"
             },
             {
-              "label": "تحميل المحور المسموح",
+              "label": "تحميل المحور الساكن المسموح",
               "value": "50 طن لكل محور"
             },
             {
@@ -7634,7 +7620,7 @@
               "value": "1.5 – 3 Seconds"
             },
             {
-              "label": "Max Axle Load",
+              "label": "Max Static Axle Load",
               "value": "50 Tons per axle"
             },
             {
@@ -7966,7 +7952,7 @@
               "a": "الباب المقطعي يُختار للعزل: ألواحه بسماكة 40 مم بعزل حراري وصوتي، وسرعته 1.1 م/ث فتحاً و0.5 م/ث إغلاقاً. والباب الرول فائق السرعة يُختار للسرعة: نحو 1.0 م/ث في الاتجاهين، ومقاومة رياح حتى الفئة 5 مقابل الفئة 3 للمقطعي. فإن كان الباب يفتح عشرات المرات في الساعة فالسرعة أهم، وإن كان يفصل مساحة مبردة أو مكيّفة فالعزل أهم."
             },
             {
-              "q": "هل يصلح الباب المقطعي للمستودعات المبردة؟",
+              "q": "هل يصلح الباب المقطعي لفصل مساحة مكيّفة أو مبردة؟",
               "a": "ألواحه موفرة للطاقة بسماكة 40 مم بعزل حراري وصوتي، وإحكامه ضد الرياح والماء من الفئة 3، ونطاق تشغيله من -20° م إلى +45° م، وهذه الأرقام تناسب فصل مساحة مكيّفة أو مبردة عن الخارج. ويُحدَّد مقاس الباب ونوع الرفع بعد معاينة الفتحة."
             },
             {
@@ -7992,7 +7978,7 @@
               "a": "The sectional door is the choice for insulation: 40 mm panels with thermal and acoustic insulation, opening at 1.1 m/s and closing at 0.5 m/s. The high-speed roll-up door is the choice for speed: about 1.0 m/s both ways, and wind resistance up to Class 5 against Class 3 for the sectional door. If the opening cycles dozens of times an hour, speed matters more; if it separates a chilled or air-conditioned space, insulation matters more."
             },
             {
-              "q": "Does the sectional door suit cold-storage warehouses?",
+              "q": "Does the sectional door suit separating a conditioned or chilled space?",
               "a": "Its energy-efficient panels are 40 mm thick with thermal and acoustic insulation, it is rated Class 3 for wind and water tightness, and it works from -20 °C to +45 °C, which suits separating a chilled or air-conditioned space from the outside. The door size and lift type are set after the opening is surveyed."
             },
             {
