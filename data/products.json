@@ -140,7 +140,7 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/img_1.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/persi-compactor/drawing-presto-compactor-drawing.jpg",
             "label": {
               "ar": "نموذج ضاغط نفايات برستو",
               "en": "Presto Compactor Drawing"
@@ -153,7 +153,6 @@
           "https://cdn.bestolex.com/bestolex/products/persi-compactor/3.png",
           "https://cdn.bestolex.com/bestolex/products/persi-compactor/4.jpg"
         ],
-        "pdf": "https://drive.google.com/file/d/1DZj37pfK9MWGiT7iTRtlazZrQVQc5sxJ/view?usp=drivesdk",
         "image": "https://cdn.bestolex.com/bestolex/products/persi-compactor/1.jpg",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/persi-compactor/1.jpg",
         "seo": {
@@ -359,7 +358,6 @@
           "https://cdn.bestolex.com/bestolex/products/auto-horizontal-baler/3.png",
           "https://cdn.bestolex.com/bestolex/products/auto-horizontal-baler/4.png"
         ],
-        "pdf": "https://drive.google.com/file/d/173MBh1xZIwTjgcPkVsqLyQ12V37nlw-j/view?usp=drivesdk",
         "image": "https://cdn.bestolex.com/bestolex/products/auto-horizontal-baler/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/auto-horizontal-baler/1.png",
         "seo": {
@@ -572,21 +570,21 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/HBP-front.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/horizontal-plastic-baler-70/drawing-front-view.jpg",
             "label": {
               "ar": "عرض من الأمام",
               "en": "Front View"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/HBP-side.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/horizontal-plastic-baler-70/drawing-side-view.jpg",
             "label": {
               "ar": "عرض من الجانب",
               "en": "Side View"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/HBP-top.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/horizontal-plastic-baler-70/drawing-top-view.jpg",
             "label": {
               "ar": "عرض من الأعلى",
               "en": "Top View"
@@ -598,7 +596,6 @@
           "https://cdn.bestolex.com/bestolex/products/horizontal-plastic-baler-70/2.png",
           "https://cdn.bestolex.com/bestolex/products/horizontal-plastic-baler-70/3.png"
         ],
-        "pdf": "https://drive.google.com/file/d/12HAKbg4W1Bx0lE7RhC4Xt7j19XhCLRgk/view?usp=drivesdk",
         "image": "https://cdn.bestolex.com/bestolex/products/horizontal-plastic-baler-70/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/horizontal-plastic-baler-70/1.png",
         "seo": {
@@ -853,7 +850,6 @@
           "https://cdn.bestolex.com/bestolex/products/steel-press-50t/2.png",
           "https://cdn.bestolex.com/bestolex/products/steel-press-50t/3.png"
         ],
-        "pdf": "https://drive.google.com/file/d/1TNR4l6dVV0-Qu2b6598RDBBYw84MBsJu/view?usp=drivesdk",
         "image": "https://cdn.bestolex.com/bestolex/products/steel-press-50t/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/steel-press-50t/1.png",
         "seo": {
@@ -1058,34 +1054,33 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/04/BP-10T-front.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-100/drawing-front-view.jpg",
             "label": {
               "ar": "عرض من الأمام",
               "en": "Front View"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/04/BP-10T-side.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-100/drawing-side-view.jpg",
             "label": {
               "ar": "عرض من الجانب",
               "en": "Side View"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/04/BP-10T-top.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-100/drawing-top-view.jpg",
             "label": {
               "ar": "عرض من الأعلى",
               "en": "Top View"
             }
           }
         ],
-        "warrantyImage": "https://sabtech.com.sa/wp-content/uploads/2019/05/sabtech2.png",
+        "warrantyImage": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-100/warranty.png",
         "images": [
           "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-100/1.png",
           "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-100/2.png",
           "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-100/3.png"
         ],
-        "pdf": "https://drive.google.com/file/d/1A0MomUDPXnxED2_EEWaNTFAKMrDyOG1S/view?usp=drivesdk",
         "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-100/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-100/1.png",
         "seo": {
@@ -1299,21 +1294,21 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/04/BP-20T-front.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-200/drawing-front-view.jpg",
             "label": {
               "ar": "عرض من الأمام",
               "en": "Front View"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/04/BP-20T-side.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-200/drawing-side-view.jpg",
             "label": {
               "ar": "عرض من الجانب",
               "en": "Side View"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/04/BP-20T-top.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-200/drawing-top-view.jpg",
             "label": {
               "ar": "عرض من الأعلى",
               "en": "Top View"
@@ -1325,7 +1320,6 @@
           "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-200/2.png",
           "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-200/3.png"
         ],
-        "pdf": "https://drive.google.com/file/d/1ZkrXUeMzXw22hWXAKMOp96zhx5M7Dsb2/view?usp=drivesdk",
         "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-200/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-200/1.png",
         "seo": {
@@ -1553,21 +1547,21 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/02/BP-50T-front.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-500/drawing-front-view.jpg",
             "label": {
               "ar": "عرض من الأمام",
               "en": "Front View"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/02/BP-50T-side.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-500/drawing-side-view.jpg",
             "label": {
               "ar": "عرض من الجانب",
               "en": "Side View"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/02/BP-50T-top.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-500/drawing-top-view.jpg",
             "label": {
               "ar": "عرض من الأعلى",
               "en": "Top View"
@@ -1579,7 +1573,6 @@
           "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-500/2.png",
           "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-500/3.png"
         ],
-        "pdf": "https://drive.google.com/file/d/1_bXSHdw0ByPPsKRFCWwpCzgA1IdT2ufx/view?usp=drivesdk",
         "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-500/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-500/1.png",
         "seo": {
@@ -1778,28 +1771,28 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/04/BP-80-T-ST-IMAGE.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/drawing-front-view.png",
             "label": {
               "ar": "نموذج عرض من الأمام",
               "en": "Front View"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/04/BP-80-T-2ND-IMAGE.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/drawing-side-view.png",
             "label": {
               "ar": "نموذج عرض من الجانب",
               "en": "Side View"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/04/BP-80-T-3RD-IMAGE.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/drawing-top-view.png",
             "label": {
               "ar": "نموذج عرض من الأعلى",
               "en": "Top View"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/04/BP-80-T-4TH-IMAGE.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/drawing-bale-size.png",
             "label": {
               "ar": "حجم البالة",
               "en": "Bale Size"
@@ -1813,7 +1806,6 @@
         ],
         "image": "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/1.png",
-        "pdf": "https://drive.google.com/file/d/1rxlBOr8AlBb4pSAYTRYORR8yjIGsvqG9/view?usp=drivesdk",
         "seo": {
           "title": {
             "en": "Vertical PET & Can Baler 80T in Qatar",
@@ -2030,7 +2022,6 @@
           "https://cdn.bestolex.com/bestolex/products/textile-baler/2.png",
           "https://cdn.bestolex.com/bestolex/products/textile-baler/3.png"
         ],
-        "pdf": "https://drive.google.com/file/d/1YY0wSmtiGxgbjFkGBH0uVwnRoH7_7WUY/view?usp=drivesdk",
         "image": "https://cdn.bestolex.com/bestolex/products/textile-baler/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/textile-baler/1.png",
         "seo": {
@@ -2248,7 +2239,6 @@
           "https://cdn.bestolex.com/bestolex/products/pringer-compactor/2.png",
           "https://cdn.bestolex.com/bestolex/products/pringer-compactor/3.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/09/Refuse-compactor-2020.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/pringer-compactor/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/pringer-compactor/1.png",
         "seo": {
@@ -2510,7 +2500,6 @@
           "https://cdn.bestolex.com/bestolex/products/solar-bin-waste-compactor/3.png",
           "https://cdn.bestolex.com/bestolex/products/solar-bin-waste-compactor/4.png"
         ],
-        "pdf": "https://drive.google.com/file/d/1F2LiP95GHEjyeOOEM-EKZ8PWOs_46pCK/view?usp=drivesdk",
         "image": "https://cdn.bestolex.com/bestolex/products/solar-bin-waste-compactor/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/solar-bin-waste-compactor/1.png",
         "seo": {
@@ -2792,7 +2781,6 @@
           "https://cdn.bestolex.com/bestolex/products/vertical-garbage-compactor-2cy/3.png",
           "https://cdn.bestolex.com/bestolex/products/vertical-garbage-compactor-2cy/4.png"
         ],
-        "pdf": "https://drive.google.com/file/d/15vbXuUsM8s8Mf3_KIArSDW6RyT6OG6rq/view?usp=drivesdk",
         "image": "https://cdn.bestolex.com/bestolex/products/vertical-garbage-compactor-2cy/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/vertical-garbage-compactor-2cy/1.png",
         "seo": {
@@ -2887,7 +2875,7 @@
           "ar": "مصعد ورافعة بضائع هيدروليكية",
           "en": "Mast Cargo Hydraulic Lift"
         },
-        "coverImage": "https://sabtech.com.sa/wp-content/uploads/2019/05/Mast-Cargo-Hydraulic-Lift-.jpg",
+        "coverImage": "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/cover.jpg",
         "description": {
           "ar": "توفر رافعة البضائع الهيدروليكية من ساب تك حلاً سريعًا وفعالًا وموثوقًا لنقل البضائع داخل المباني والمستودعات متعددة الطوابق. وتضمن الوصول الآمن إلى ارتفاعات تصل إلى 10 أمتار من الطوابق السفلية والطوابق الأرضية والميزانين والشرفات.\nتم تصميم مصعد البضائع المثبت على الحائط هذا للتركيب الداخلي والخارجي، وهو فعال في العمالة، وفعال من حيث التكلفة، ومصمم ليدوم طويلاً، ويتطلب الحد الأدنى من الصيانة. من خلال استخدام الطاقة الهيدروليكية، فإنه ينقل بسهولة حمولات تصل إلى 3 طن من مستوى الأرض إلى الارتفاعات المرتفعة، مما يجعله خيارًا مثاليًا لمختلف التطبيقات التجارية والصناعية.",
           "en": "SAB TECH hydraulic cargo lift provides a fast, efficient, and reliable solution for transporting goods within multi-story buildings and warehouses. It ensures safe access to heights up to 10 meters from basements, ground floors, mezzanines, and balconies.\nDesigned for internal and external wall-mounted installation, this cost-effective cargo lift reduces labor costs, increases productivity, and handles loads up to 3 tons smoothly using hydraulic power."
@@ -2914,63 +2902,63 @@
         },
         "featureImages": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Powered-by-a-single-hydraulic-cylinder-1.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/component-powered-by-single-hydraulic-cylinder.png",
             "label": {
               "ar": "يعمل بواسطة بستم هيدروليكي واحد",
               "en": "Powered by Single Hydraulic Cylinder"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Equipped-with-high-tensile-steel-wire-ropes-1.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/component-high-tensile-steel-wire-ropes.png",
             "label": {
               "ar": "كابل صلب شديد التحمل",
               "en": "High Tensile Steel Wire Ropes"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Electric-Control-Panel-1.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/component-electric-control-panel.png",
             "label": {
               "ar": "طبلون الكهرباء ولوحة التحكم",
               "en": "Electric Control Panel"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Hydraulic-Power-Pack-2.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/component-hydraulic-power-pack.png",
             "label": {
               "ar": "وحدة الهيدروليك المركزية",
               "en": "Hydraulic Power Pack"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Customizable-platform-sizes-tailored-to-your-loading-capacity-requirements-1.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/component-customizable-platform-sizes.png",
             "label": {
               "ar": "تصميم منصة الرفع حسب الحمولات",
               "en": "Customizable Platform Sizes"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Push-button-control-1.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/component-robust-push-button-control.png",
             "label": {
               "ar": "أزرار تشغيل متينة",
               "en": "Robust Push Button Control"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Optional-external-enclosure-1.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/component-optional-external-enclosure.png",
             "label": {
               "ar": "هيكل خارجي اختياري",
               "en": "Optional External Enclosure"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Optional-platform-rail-1.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/component-optional-platform-rail.png",
             "label": {
               "ar": "حاجز منصة اختياري",
               "en": "Optional Platform Rail"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Safety-siren-beeper-1.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/component-safety-siren-beeper.png",
             "label": {
               "ar": "صفارة إنذار للسلامة",
               "en": "Safety Siren Beeper"
@@ -3025,21 +3013,21 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/side-view1a.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/drawing-side-view-drawing.png",
             "label": {
               "ar": "نموذج رؤية جانبية",
               "en": "Side View Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/front-view1a.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/drawing-front-view-drawing.png",
             "label": {
               "ar": "نموذج منظر أمامي",
               "en": "Front View Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/top-view-11.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/drawing-top-view-drawing.png",
             "label": {
               "ar": "نموذج منظر علوي",
               "en": "Top View Drawing"
@@ -3047,15 +3035,14 @@
           }
         ],
         "images": [
-          "https://sabtech.com.sa/wp-content/uploads/2019/05/MLC-5-1.png",
-          "https://sabtech.com.sa/wp-content/uploads/2019/05/MLC-6-1.png",
-          "https://sabtech.com.sa/wp-content/uploads/2019/05/MLC-1-1.png",
-          "https://sabtech.com.sa/wp-content/uploads/2019/05/MLC-2-1.png",
-          "https://sabtech.com.sa/wp-content/uploads/2019/05/MLC-3-1.png",
-          "https://sabtech.com.sa/wp-content/uploads/2019/05/MLC-4-1.png"
+          "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/share.png",
+          "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/gallery-2.png",
+          "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/gallery-3.png",
+          "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/gallery-4.png",
+          "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/gallery-5.png",
+          "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/gallery-6.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/05/MAST-CARGO-HYDRAULIC-LIFT.pdf",
-        "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/MLC-5-1.png",
+        "image": "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/share.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/mast-cargo-lift/card.png",
         "seo": {
           "title": {
@@ -3276,21 +3263,21 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/04/SL-PLATEFORM-1.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/scissors-lift/drawing-top-view-drawing.jpg",
             "label": {
               "ar": "نموذج رافعة مقصية من الأعلى",
               "en": "Top View Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/04/SL-OPEN-1.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/scissors-lift/drawing-side-open-view-drawing.jpg",
             "label": {
               "ar": "نموذج عرض من الجانب",
               "en": "Side Open View Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/04/SL-CLOSE-1.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/scissors-lift/drawing-closed-platform-view-drawing.jpg",
             "label": {
               "ar": "نموذج رصيف تحميل مغلق",
               "en": "Closed Platform View Drawing"
@@ -3303,7 +3290,6 @@
           "https://cdn.bestolex.com/bestolex/products/scissors-lift/3.png",
           "https://cdn.bestolex.com/bestolex/products/scissors-lift/4.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/04/SCISSOR-LIFT-TABLE.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/scissors-lift/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/scissors-lift/1.png",
         "seo": {
@@ -3539,21 +3525,21 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/MSCL-OPEN-1.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/movable-scissors-lifts/drawing-top-view-drawing.jpg",
             "label": {
               "ar": "نموذج عرض من الأعلى",
               "en": "Top View Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/MSCL-CLOSE.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/movable-scissors-lifts/drawing-side-view-drawing.jpg",
             "label": {
               "ar": "نموذج عرض من الجانب",
               "en": "Side View Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/MSCL-SIDE-1.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/movable-scissors-lifts/drawing-closed-platform-view-drawing.jpg",
             "label": {
               "ar": "نموذج رصيف تحميل مغلق",
               "en": "Closed Platform View Drawing"
@@ -3566,7 +3552,6 @@
           "https://cdn.bestolex.com/bestolex/products/movable-scissors-lifts/3.png",
           "https://cdn.bestolex.com/bestolex/products/movable-scissors-lifts/4.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/05/MOVABLE-SCISSOR-LIFT.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/movable-scissors-lifts/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/movable-scissors-lifts/1.png",
         "seo": {
@@ -3835,21 +3820,21 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2020/07/s1.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/wheelchair-lift/drawing-model-side-view-drawing.png",
             "label": {
               "ar": "نموذج عرض من الجانب",
               "en": "Model Side View Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2020/07/s3.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/wheelchair-lift/drawing-model-top-view-drawing.png",
             "label": {
               "ar": "نموذج عرض من الأعلى",
               "en": "Model Top View Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2020/07/s2.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/wheelchair-lift/drawing-model-front-view-drawing.png",
             "label": {
               "ar": "نموذج عرض من الأمام",
               "en": "Model Front View Drawing"
@@ -3865,7 +3850,6 @@
           "https://cdn.bestolex.com/bestolex/products/wheelchair-lift/6.png",
           "https://cdn.bestolex.com/bestolex/products/wheelchair-lift/7.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2020/07/WheelChair-Lift.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/wheelchair-lift/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/wheelchair-lift/1.png",
         "seo": {
@@ -4075,21 +4059,21 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/04/DL-CLOSE-3.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/hydraulic-dock-leveler/drawing-closed-platform-drawing.jpg",
             "label": {
               "ar": "نموذج رصيف تحميل مغلق",
               "en": "Closed Platform Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/04/DL-PLATEFORMR.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/hydraulic-dock-leveler/drawing-top-view-platform-drawing.png",
             "label": {
               "ar": "نموذج المنصة من الأعلى",
               "en": "Top View Platform Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/04/DL-OPEN-2.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/hydraulic-dock-leveler/drawing-open-platform-drawing.jpg",
             "label": {
               "ar": "نموذج رصيف تحميل مفتوح",
               "en": "Open Platform Drawing"
@@ -4102,7 +4086,6 @@
           "https://cdn.bestolex.com/bestolex/products/hydraulic-dock-leveler/3.png",
           "https://cdn.bestolex.com/bestolex/products/hydraulic-dock-leveler/4.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/04/Dock-Leveler.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/hydraulic-dock-leveler/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/hydraulic-dock-leveler/1.png",
         "seo": {
@@ -4292,7 +4275,6 @@
           "https://cdn.bestolex.com/bestolex/products/dock-leveler-inkema/5.png",
           "https://cdn.bestolex.com/bestolex/products/dock-leveler-inkema/6.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/05/Dock-Leveler-RH1.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/dock-leveler-inkema/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/dock-leveler-inkema/1.png",
         "seo": {
@@ -4462,7 +4444,7 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/drawing.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/manual-loading-bridges/drawing-manual-bridge-spec-drawing.jpg",
             "label": {
               "ar": "رسم هندسي - جسر تحميل يدوي",
               "en": "Manual Bridge Spec Drawing"
@@ -4473,7 +4455,6 @@
           "https://cdn.bestolex.com/bestolex/products/manual-loading-bridges/1.png",
           "https://cdn.bestolex.com/bestolex/products/manual-loading-bridges/2.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/05/MANUAL-LOADING-BRIDGE.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/manual-loading-bridges/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/manual-loading-bridges/1.png",
         "seo": {
@@ -4651,7 +4632,7 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/DS-9019B-Model.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/inflatable-dock-shelter/drawing-inflatable-dock-shelter-drawing.jpg",
             "label": {
               "ar": "رسم هندسي - حماية مطاطية قابلة للإنتفاخ",
               "en": "Inflatable Dock Shelter Drawing"
@@ -4663,7 +4644,6 @@
           "https://cdn.bestolex.com/bestolex/products/inflatable-dock-shelter/2.png",
           "https://cdn.bestolex.com/bestolex/products/inflatable-dock-shelter/3.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/05/INFLATABLE-DOCK-SHELTER.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/inflatable-dock-shelter/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/inflatable-dock-shelter/1.png",
         "seo": {
@@ -4803,7 +4783,7 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Dock-shelter.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/retractable-dock-shelter/drawing-retractable-dock-shelter-drawing.jpg",
             "label": {
               "ar": "رسم هندسي - غطاء قابل للإرتداد",
               "en": "Retractable Dock Shelter Drawing"
@@ -4816,7 +4796,6 @@
           "https://cdn.bestolex.com/bestolex/products/retractable-dock-shelter/3.png",
           "https://cdn.bestolex.com/bestolex/products/retractable-dock-shelter/4.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/05/RETRACTABLE-DOCK-SHELTER.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/retractable-dock-shelter/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/retractable-dock-shelter/1.png",
         "seo": {
@@ -5051,14 +5030,14 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/DRFRONT-1.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/movable-dock-ramp/drawing-side-view-drawing.jpg",
             "label": {
               "ar": "نموذج عرض من الجانب",
               "en": "Side View Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/DRTOP-1.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/movable-dock-ramp/drawing-top-view-drawing.jpg",
             "label": {
               "ar": "نموذج عرض من الأعلى",
               "en": "Top View Drawing"
@@ -5071,7 +5050,6 @@
           "https://cdn.bestolex.com/bestolex/products/movable-dock-ramp/3.png",
           "https://cdn.bestolex.com/bestolex/products/movable-dock-ramp/4.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/05/MOVABLE-DOCK-RAMP.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/movable-dock-ramp/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/movable-dock-ramp/1.png",
         "seo": {
@@ -5263,14 +5241,14 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/Minidock-Copy-1.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/minidock/drawing-side-view-spec-drawing.jpg",
             "label": {
               "ar": "رسم هندسي - رصيف التحميل الصغير (عرض جانبي)",
               "en": "Side View Spec Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/Untitled.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/minidock/drawing-top-front-view-spec-drawing.jpg",
             "label": {
               "ar": "رسم هندسي - رصيف التحميل الصغير (عرض علوي/أمامي)",
               "en": "Top/Front View Spec Drawing"
@@ -5283,7 +5261,6 @@
           "https://cdn.bestolex.com/bestolex/products/minidock/3.png",
           "https://cdn.bestolex.com/bestolex/products/minidock/4.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/12/MINI-DOCK.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/minidock/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/minidock/1.png",
         "seo": {
@@ -5519,7 +5496,6 @@
           "https://cdn.bestolex.com/bestolex/products/mobile-loading-dock/4.png",
           "https://cdn.bestolex.com/bestolex/products/mobile-loading-dock/5.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2021/09/MOBILE-LOADING-DOCK.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/mobile-loading-dock/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/mobile-loading-dock/1.png",
         "seo": {
@@ -5752,21 +5728,21 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2021/09/top-view.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/above-ground-tyre-killer/drawing-top-view-technical-drawing.png",
             "label": {
               "ar": "رسم هندسي - رؤية علوية لمفجر الإطارات أعلى الأرض",
               "en": "Top View Technical Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2021/09/side-view.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/above-ground-tyre-killer/drawing-side-view-technical-drawing.png",
             "label": {
               "ar": "رسم هندسي - رؤية جانبية لمفجر الإطارات أعلى الأرض",
               "en": "Side View Technical Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2021/09/front-view.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/above-ground-tyre-killer/drawing-front-view-technical-drawing.png",
             "label": {
               "ar": "رسم هندسي - رؤية أمامية لمفجر الإطارات أعلى الأرض",
               "en": "Front View Technical Drawing"
@@ -5779,7 +5755,6 @@
           "https://cdn.bestolex.com/bestolex/products/above-ground-tyre-killer/3.png",
           "https://cdn.bestolex.com/bestolex/products/above-ground-tyre-killer/4.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2021/09/ABOVE-GROUND-TiRE-KILLER.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/above-ground-tyre-killer/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/above-ground-tyre-killer/1.png",
         "seo": {
@@ -6026,21 +6001,21 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2020/12/modal-side-view.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/drawing-side-view-technical-drawing.png",
             "label": {
               "ar": "رسم هندسي - رؤية جانبية للموديل",
               "en": "Side View Technical Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2020/12/modal-front-view.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/drawing-front-view-technical-drawing.png",
             "label": {
               "ar": "رسم هندسي - رؤية أمامية للموديل",
               "en": "Front View Technical Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2020/12/modal-top-view.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/drawing-top-view-technical-drawing.png",
             "label": {
               "ar": "رسم هندسي - رؤية علوية للموديل",
               "en": "Top View Technical Drawing"
@@ -6052,7 +6027,6 @@
           "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/2.png",
           "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/3.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2014/08/HIGH-SECURITY-ROAD-BLOCKER-PAS68.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/1.png",
         "seo": {
@@ -6139,7 +6113,7 @@
                 "ar": "12 نوفمبر 2020",
                 "en": "12 November 2020"
               },
-              "fileWhenReady": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/certificate-tc-12055-3532-19475-en.pdf"
+              "file": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/certificate-tc-12055-3532-19475-en.pdf"
             },
             {
               "standard": "IWA 14-1:2013",
@@ -6157,7 +6131,7 @@
                 "ar": "12 نوفمبر 2020",
                 "en": "12 November 2020"
               },
-              "fileWhenReady": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/certificate-tc-12055-3532-19475-en.pdf"
+              "file": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/certificate-tc-12055-3532-19475-en.pdf"
             }
           ]
         }
@@ -6352,21 +6326,21 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2023/09/front-view.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/drawing-shallow-model-front-view-drawing.png",
             "label": {
               "ar": "رسم هندسي - رؤية أمامية للموديل السطحي",
               "en": "Shallow Model Front View Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2023/09/side-view.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/drawing-shallow-model-side-view-drawing.png",
             "label": {
               "ar": "رسم هندسي - رؤية جانبية للموديل السطحي",
               "en": "Shallow Model Side View Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2023/09/top-view.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/drawing-shallow-model-top-view-drawing.png",
             "label": {
               "ar": "رسم هندسي - رؤية علوية للموديل السطحي",
               "en": "Shallow Model Top View Drawing"
@@ -6377,7 +6351,6 @@
           "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/1.png",
           "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/2.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2014/08/HIGH-SECURITY-SHALLOW-Road-Blocker-PAS68.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/1.png",
         "seo": {
@@ -6464,7 +6437,7 @@
                 "ar": "19 يوليو 2023",
                 "en": "19 July 2023"
               },
-              "fileWhenReady": "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/certificate-tc-12055-4574-19988-2-en.pdf"
+              "file": "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/certificate-tc-12055-4574-19988-2-en.pdf"
             }
           ]
         }
@@ -6640,21 +6613,21 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/f2.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/road-blocker/drawing-front-view-technical-drawing.png",
             "label": {
               "ar": "رسم هندسي - رؤية أمامية لمصد الطريق",
               "en": "Front View Technical Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/f3.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/road-blocker/drawing-side-view-technical-drawing.png",
             "label": {
               "ar": "رسم هندسي - رؤية جانبية لمصد الطريق",
               "en": "Side View Technical Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/f1.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/road-blocker/drawing-top-view-technical-drawing.png",
             "label": {
               "ar": "رسم هندسي - رؤية علوية لمصد الطريق",
               "en": "Top View Technical Drawing"
@@ -6672,7 +6645,6 @@
           "https://cdn.bestolex.com/bestolex/products/road-blocker/8.png",
           "https://cdn.bestolex.com/bestolex/products/road-blocker/9.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/05/Road-Blocker.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/road-blocker/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/road-blocker/1.png",
         "seo": {
@@ -6887,7 +6859,6 @@
           "https://cdn.bestolex.com/bestolex/products/surface-mount-hydraulic-road-blocker/4.png",
           "https://cdn.bestolex.com/bestolex/products/surface-mount-hydraulic-road-blocker/5.png"
         ],
-        "pdf": "",
         "image": "https://cdn.bestolex.com/bestolex/products/surface-mount-hydraulic-road-blocker/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/surface-mount-hydraulic-road-blocker/1.png",
         "seo": {
@@ -7075,7 +7046,7 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/BOLLARD-1.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/road-bollard/drawing-automatic-road-bollard-technical-drawing.jpg",
             "label": {
               "ar": "رسم هندسي وتخطيطي للبولارد",
               "en": "Automatic Road Bollard Technical Drawing"
@@ -7087,7 +7058,6 @@
           "https://cdn.bestolex.com/bestolex/products/road-bollard/2.png",
           "https://cdn.bestolex.com/bestolex/products/road-bollard/3.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/05/AUTOMATIC-ROAD-BOLLARD.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/road-bollard/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/road-bollard/1.png",
         "seo": {
@@ -7257,7 +7227,6 @@
           "https://cdn.bestolex.com/bestolex/products/turnstiles/3.png",
           "https://cdn.bestolex.com/bestolex/products/turnstiles/4.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2020/02/TURNSTILES.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/turnstiles/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/turnstiles/1.png",
         "seo": {
@@ -7434,7 +7403,6 @@
           "https://cdn.bestolex.com/bestolex/products/under-vehicle-surveillance-system/2.png",
           "https://cdn.bestolex.com/bestolex/products/under-vehicle-surveillance-system/3.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2020/02/UNDER-VEHICLE-SURVEILLANCE-SYSTEM.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/under-vehicle-surveillance-system/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/under-vehicle-surveillance-system/1.png",
         "seo": {
@@ -7635,21 +7603,21 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Tyre-killer-top-view.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/tyre-killer/drawing-tyre-killer-top-view-drawing.jpg",
             "label": {
               "ar": "رسم هندسي - رؤية علوية لمفجر الإطارات",
               "en": "Tyre Killer Top View Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Tyre-killer-side-view.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/tyre-killer/drawing-tyre-killer-side-view-drawing.jpg",
             "label": {
               "ar": "رسم هندسي - رؤية جانبية لمفجر الإطارات",
               "en": "Tyre Killer Side View Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Tyre-killer-front-view.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/tyre-killer/drawing-tyre-killer-front-view-drawing.jpg",
             "label": {
               "ar": "رسم هندسي - رؤية أمامية لمفجر الإطارات",
               "en": "Tyre Killer Front View Drawing"
@@ -7661,7 +7629,6 @@
           "https://cdn.bestolex.com/bestolex/products/tyre-killer/3.png",
           "https://cdn.bestolex.com/bestolex/products/tyre-killer/4.png"
         ],
-        "pdf": "https://sabtech.com.sa/wp-content/uploads/2019/05/ABOVE-GROUND-TiRE-KILLER.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/tyre-killer/2.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/tyre-killer/2.png",
         "seo": {
@@ -7928,7 +7895,6 @@
           "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/4.png",
           "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/5.png"
         ],
-        "pdf": "https://drive.google.com/file/d/1sG2BiEleNtMOXTh7BhddA6kJgZUyvn1D/view?usp=drivesdk",
         "image": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/1.png",
         "seo": {
@@ -8154,14 +8120,14 @@
         },
         "specDrawings": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/Dimensions.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/drawing-dimensions-clearances-drawing.jpg",
             "label": {
               "ar": "مخطط الأبعاد والمقاسات للأبواب عالية السرعة",
               "en": "Dimensions & Clearances Drawing"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/HIGH-SPEED-ROLL-DOOR.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/drawing-high-speed-roll-door-technical-drawing.jpg",
             "label": {
               "ar": "رسم هندسي - باب رول أوتوماتيكي سريع",
               "en": "High Speed Roll Door Technical Drawing"
@@ -8173,7 +8139,6 @@
           "https://cdn.bestolex.com/bestolex/products/high-speed-doors/2.png",
           "https://cdn.bestolex.com/bestolex/products/high-speed-doors/3.png"
         ],
-        "pdf": "https://drive.google.com/file/d/1l_ooCGWRafWiTRShPTbhzOws4LMnYjWh/view?usp=drivesdk",
         "image": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/1.png",
         "seo": {
@@ -8564,7 +8529,6 @@
           "https://cdn.bestolex.com/bestolex/products/garsite-10000-gallon-truck-1/15.PNG"
         ],
         "cardImage": "https://cdn.bestolex.com/bestolex/products/garsite-10000-gallon-truck-1/card-v3.png",
-        "pdf": "https://drive.google.com/file/d/1oSrLqajGn4924sWI0s49rmHEevWLuMp5/view?usp=drivesdk",
         "seo": {
           "title": {
             "ar": "شاحنة تزويد طائرات جارسيت رقم 1: نحو 4,645 ساعة تشغيل",
@@ -8913,7 +8877,6 @@
           "https://cdn.bestolex.com/bestolex/products/garsite-10000-gallon-truck-2/14.PNG"
         ],
         "cardImage": "https://cdn.bestolex.com/bestolex/products/garsite-10000-gallon-truck-2/card-v3.png",
-        "pdf": "https://drive.google.com/file/d/1S7VLRdb_-IVQVKWAUMuL2DibKsUuE7yv/view?usp=drivesdk",
         "seo": {
           "title": {
             "ar": "شاحنة تزويد طائرات جارسيت رقم 2: فلترة 27 عنصراً",
@@ -9287,7 +9250,6 @@
           "https://cdn.bestolex.com/bestolex/products/garsite-10000-gallon-truck-3/16.jpeg"
         ],
         "cardImage": "https://cdn.bestolex.com/bestolex/products/garsite-10000-gallon-truck-3/card-v3.png",
-        "pdf": "https://drive.google.com/file/d/1lGJWrJ5FheMssET0x-kil6GtsquLg9BL/view?usp=drivesdk",
         "seo": {
           "title": {
             "ar": "شاحنة تزويد طائرات جارسيت رقم 3: خزان مقاوم للصدأ",
@@ -9661,7 +9623,6 @@
           "https://cdn.bestolex.com/bestolex/products/garsite-10000-gallon-truck-4/16.jpeg"
         ],
         "cardImage": "https://cdn.bestolex.com/bestolex/products/garsite-10000-gallon-truck-4/card-v3.png",
-        "pdf": "https://drive.google.com/file/d/1y2ziRqu5P96aLT_VL_GaQCXiSj6UQAtn/view?usp=drivesdk",
         "seo": {
           "title": {
             "ar": "شاحنة جارسيت رقم 4: خزان مقاوم للصدأ و6,093 ساعة",
