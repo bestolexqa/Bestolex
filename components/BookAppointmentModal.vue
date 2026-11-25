@@ -92,6 +92,7 @@
 
 <script setup>
 import { ref, computed } from 'vue'
+import { trackLead } from '~/utils/track'
 import { useI18n } from 'vue-i18n'
 
 const props = defineProps({
@@ -146,6 +147,7 @@ const submitBooking = async () => {
     })
     
     if (response.success) {
+      trackLead({ formName: 'appointment', requestType: 'site-survey' })
       submitSuccess.value = true
     } else {
       submitError.value = true
