@@ -172,7 +172,11 @@
                   >
                     <div class="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
                       <span class="font-bold text-[#191919] dark:text-white">{{ localized(cert.standard) }}</span>
+                      <!-- The link appears only once the PDF is on our own CDN;
+                           until then the page states the certificate's details
+                           and that a copy comes with the technical proposal. -->
                       <a
+                        v-if="cert.file"
                         :href="cert.file"
                         target="_blank"
                         rel="noopener noreferrer"

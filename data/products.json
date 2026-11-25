@@ -6119,8 +6119,8 @@
         "comparisonGroup": "road-blockers",
         "certificates": {
           "note": {
-            "ar": "الشهادة صادرة للموديل RB3M1000CT بعرض سدّ 3 م، وهو متغيّر العرض 3 م من عائلة RBXM1000CT. والتصنيف يخص الموديل بعرضه وطريقة تأسيسه كما اختُبر فعلاً، ولا ينتقل تلقائياً إلى عرض آخر (RB2M أو RB4M أو RB5M) أو تأسيس آخر. اذكر التصنيف الذي يشترطه الاستشاري وعرض المدخل في طلب عرض السعر لنطابقهما على الموديل المناسب.",
-            "en": "The certificate is issued for the RB3M1000CT at a 3 m blocking width, the 3 m variant of the RBXM1000CT family. A rating belongs to the model at the width and foundation actually tested; it does not carry over to another width (RB2M, RB4M, RB5M) or another foundation. State the rating your consultant requires and your lane width in the quote request so we can match both to the right model."
+            "ar": "الشهادة صادرة للموديل RB3M1000CT بعرض سدّ 3 م، وهو متغيّر العرض 3 م من عائلة RBXM1000CT. والتصنيف يخص الموديل بعرضه وطريقة تأسيسه كما اختُبر فعلاً، ولا ينتقل تلقائياً إلى عرض آخر (RB2M أو RB4M أو RB5M) أو تأسيس آخر. اذكر التصنيف الذي يشترطه الاستشاري وعرض المدخل في طلب عرض السعر لنطابقهما على الموديل المناسب. وتُرسل نسخة الشهادة مع العرض الفني عند الطلب.",
+            "en": "The certificate is issued for the RB3M1000CT at a 3 m blocking width, the 3 m variant of the RBXM1000CT family. A rating belongs to the model at the width and foundation actually tested; it does not carry over to another width (RB2M, RB4M, RB5M) or another foundation. State the rating your consultant requires and your lane width in the quote request so we can match both to the right model. A copy of the certificate is sent with the technical proposal on request."
           },
           "items": [
             {
@@ -6139,7 +6139,7 @@
                 "ar": "12 نوفمبر 2020",
                 "en": "12 November 2020"
               },
-              "file": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/certificate-tc-12055-3532-19475-en.pdf"
+              "fileWhenReady": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/certificate-tc-12055-3532-19475-en.pdf"
             },
             {
               "standard": "IWA 14-1:2013",
@@ -6157,7 +6157,7 @@
                 "ar": "12 نوفمبر 2020",
                 "en": "12 November 2020"
               },
-              "file": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/certificate-tc-12055-3532-19475-en.pdf"
+              "fileWhenReady": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/certificate-tc-12055-3532-19475-en.pdf"
             }
           ]
         }
@@ -6444,8 +6444,8 @@
         "comparisonGroup": "road-blockers",
         "certificates": {
           "note": {
-            "ar": "التصنيف يخص الموديل بعرضه وطريقة تأسيسه كما اختُبر فعلاً، ولا ينتقل تلقائياً إلى موديل آخر أو عرض آخر أو تأسيس آخر. اذكر التصنيف الذي يشترطه الاستشاري في طلب عرض السعر لنطابقه على الموديل المناسب.",
-            "en": "A rating belongs to the model at the width and foundation actually tested; it does not carry over to another model, width or foundation. State the rating your consultant requires in the quote request so we can match it to the right model."
+            "ar": "التصنيف يخص الموديل بعرضه وطريقة تأسيسه كما اختُبر فعلاً، ولا ينتقل تلقائياً إلى موديل آخر أو عرض آخر أو تأسيس آخر. اذكر التصنيف الذي يشترطه الاستشاري في طلب عرض السعر لنطابقه على الموديل المناسب. وتُرسل نسخة الشهادة مع العرض الفني عند الطلب.",
+            "en": "A rating belongs to the model at the width and foundation actually tested; it does not carry over to another model, width or foundation. State the rating your consultant requires in the quote request so we can match it to the right model. A copy of the certificate is sent with the technical proposal on request."
           },
           "items": [
             {
@@ -6464,7 +6464,7 @@
                 "ar": "19 يوليو 2023",
                 "en": "19 July 2023"
               },
-              "file": "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/certificate-tc-12055-4574-19988-2-en.pdf"
+              "fileWhenReady": "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/certificate-tc-12055-4574-19988-2-en.pdf"
             }
           ]
         }
