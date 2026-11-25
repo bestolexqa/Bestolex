@@ -74,7 +74,7 @@
               <!-- Stats Cards -->
               <div v-if="product.stats && product.stats[locale]" class="mb-10 w-full grid grid-cols-2 md:grid-cols-3 border border-[#6F7070]">
                 <div v-for="(stat, i) in product.stats[locale]" :key="i" class="px-4 py-4 text-start border-s border-s-[#6F7070] first:border-s-0">
-                  <div class="bp-num font-display text-[#E99E05] font-bold text-2xl md:text-3xl mb-1" dir="ltr">{{ stat.value }}</div>
+                  <div class="bp-num font-display text-[#E99E05] font-bold text-2xl md:text-3xl mb-1">{{ stat.value }}</div>
                   <div class="text-gray-300 text-sm">{{ stat.label }}</div>
                 </div>
               </div>
@@ -182,7 +182,7 @@
                   <tbody>
                     <tr v-for="(spec, idx) in product.specs[locale]" :key="idx">
                       <th scope="row" class="font-bold text-gray-900 dark:text-white w-1/2">{{ spec.label }}</th>
-                      <td class="bp-num text-gray-900 dark:text-gray-100" dir="ltr">{{ spec.value }}</td>
+                      <td class="bp-num text-gray-900 dark:text-gray-100">{{ spec.value }}</td>
                     </tr>
                   </tbody>
                 </table>
