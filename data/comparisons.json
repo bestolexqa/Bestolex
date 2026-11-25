@@ -182,5 +182,285 @@
       "ar": "المصدر: بيانات كل شاحنة في صفحتها. والشاحنات مستعملة ومتاحة للمعاينة في قطر.",
       "en": "Source: each truck's data on its page. The trucks are used and available to inspect in Qatar."
     }
+  },
+  "road-blockers": {
+    "title": {
+      "ar": "قارن مصدات الطرق الأربعة",
+      "en": "Comparing the four road blockers"
+    },
+    "intro": {
+      "ar": "الأربعة هيدروليكية وتعمل على كهرباء قطر 240/415 فولت ثلاثي الأطوار و50 هرتز، وعرضها من 2000 إلى 6000 مم. الفروق في عمق التركيب وارتفاع المصد وسرعة الرفع ووجود شهادة اختبار تصادم:",
+      "en": "All four are hydraulic, run on Qatar mains at 240/415 V three-phase 50 Hz, and come in widths from 2000 to 6000 mm. They differ in installation depth, raised height, raising time and whether a crash-test certificate covers them:"
+    },
+    "columns": [
+      "road-blocker",
+      "surface-mount-hydraulic-road-blocker",
+      "high-security-road-blocker",
+      "high-security-shallow-road-blocker"
+    ],
+    "columnLabels": [
+      {
+        "ar": "مصد طريق هيدروليكي",
+        "en": "Road Blocker"
+      },
+      {
+        "ar": "مصد طريق سطحي",
+        "en": "Surface-Mount Road Blocker"
+      },
+      {
+        "ar": "مصد طريق عالي الأمان",
+        "en": "High Security Road Blocker"
+      },
+      {
+        "ar": "مصد طريق سطحي عالي الأمان",
+        "en": "High Security Shallow Road Blocker"
+      }
+    ],
+    "rows": [
+      {
+        "label": {
+          "ar": "ارتفاع المصد عند الرفع",
+          "en": "Raised blocker height"
+        },
+        "values": [
+          {
+            "ar": "800 – 1100 مم",
+            "en": "800 – 1100 mm"
+          },
+          {
+            "ar": "500 – 800 مم",
+            "en": "500 – 800 mm"
+          },
+          {
+            "ar": "1000 مم",
+            "en": "1000 mm"
+          },
+          {
+            "ar": "1100 مم",
+            "en": "1100 mm"
+          }
+        ]
+      },
+      {
+        "label": {
+          "ar": "عرض المصد",
+          "en": "Blocker width"
+        },
+        "values": [
+          {
+            "ar": "2000 – 6000 مم",
+            "en": "2000 – 6000 mm"
+          },
+          {
+            "ar": "2000 – 6000 مم",
+            "en": "2000 – 6000 mm"
+          },
+          {
+            "ar": "2000 – 6000 مم",
+            "en": "2000 – 6000 mm"
+          },
+          {
+            "ar": "2000 – 6000 مم",
+            "en": "2000 – 6000 mm"
+          }
+        ]
+      },
+      {
+        "label": {
+          "ar": "عمق التركيب",
+          "en": "Installation depth"
+        },
+        "values": [
+          {
+            "ar": "غير مذكور في الكتالوج",
+            "en": "Not listed in the catalogue"
+          },
+          {
+            "ar": "100 – 150 مم فوق الأرض",
+            "en": "100 – 150 mm"
+          },
+          {
+            "ar": "غير مذكور في الكتالوج",
+            "en": "Not listed in the catalogue"
+          },
+          {
+            "ar": "400 مم (40 سم فقط)",
+            "en": "400 mm (Just 40 cm)"
+          }
+        ]
+      },
+      {
+        "label": {
+          "ar": "سرعة الفتح والرفع",
+          "en": "Raising time"
+        },
+        "values": [
+          {
+            "ar": "4 – 6 ثوانٍ",
+            "en": "4 – 6 Seconds"
+          },
+          {
+            "ar": "3 – 5 ثوانٍ",
+            "en": "3 – 5 Seconds"
+          },
+          {
+            "ar": "3 – 5 ثوانٍ (1.5 ثانية في طوارئ EFO)",
+            "en": "3 – 5 sec (1.5 sec Emergency EFO)"
+          },
+          {
+            "ar": "3 – 5 ثوانٍ (1.5 ثانية في طوارئ EFO)",
+            "en": "3 – 5 sec (1.5 sec Emergency EFO)"
+          }
+        ]
+      },
+      {
+        "label": {
+          "ar": "قدرة وحدة الهيدروليك",
+          "en": "Hydraulic power pack"
+        },
+        "values": [
+          {
+            "ar": "4.0 – 7.5 كيلوواط",
+            "en": "4.0 – 7.5 kW"
+          },
+          {
+            "ar": "4.0 – 7.5 كيلوواط",
+            "en": "4.0 – 7.5 kW"
+          },
+          {
+            "ar": "4.0 – 7.5 كيلوواط",
+            "en": "4.0 – 7.5 kW"
+          },
+          {
+            "ar": "4.0 – 7.5 كيلوواط",
+            "en": "4.0 – 7.5 kW"
+          }
+        ]
+      },
+      {
+        "label": {
+          "ar": "الكهرباء",
+          "en": "Power supply"
+        },
+        "values": [
+          {
+            "ar": "240/415V, 3Phase, 50Hz",
+            "en": "240/415V, 3Phase, 50Hz"
+          },
+          {
+            "ar": "240/415V, 3Phase, 50Hz",
+            "en": "240/415V, 3Phase, 50Hz"
+          },
+          {
+            "ar": "240/415V, 3Phase, 50Hz",
+            "en": "240/415V, 3Phase, 50Hz"
+          },
+          {
+            "ar": "240/415V, 3Phase, 50Hz",
+            "en": "240/415V, 3Phase, 50Hz"
+          }
+        ]
+      },
+      {
+        "label": {
+          "ar": "تحميل المحور المسموح",
+          "en": "Permitted axle load"
+        },
+        "values": [
+          {
+            "ar": "غير مذكور في الكتالوج",
+            "en": "Not listed in the catalogue"
+          },
+          {
+            "ar": "50 طن لكل محور",
+            "en": "50 Tons per axle"
+          },
+          {
+            "ar": "50 طن لكل محور",
+            "en": "50 Tons per axle"
+          },
+          {
+            "ar": "50 طن لكل محور",
+            "en": "50 Tons per axle"
+          }
+        ]
+      },
+      {
+        "label": {
+          "ar": "درجة حرارة التشغيل",
+          "en": "Operating temperature"
+        },
+        "values": [
+          {
+            "ar": "غير مذكور في الكتالوج",
+            "en": "Not listed in the catalogue"
+          },
+          {
+            "ar": "من -15° م إلى +65° م",
+            "en": "-15°C to +65°C"
+          },
+          {
+            "ar": "من -15° م إلى +65° م",
+            "en": "-15°C to +65°C"
+          },
+          {
+            "ar": "من -15° م إلى +65° م",
+            "en": "-15°C to +65°C"
+          }
+        ]
+      },
+      {
+        "label": {
+          "ar": "نظام التحكم PLC",
+          "en": "PLC control"
+        },
+        "values": [
+          {
+            "ar": "غير مذكور في الكتالوج",
+            "en": "Not listed in the catalogue"
+          },
+          {
+            "ar": "غير مذكور في الكتالوج",
+            "en": "Not listed in the catalogue"
+          },
+          {
+            "ar": "يدعم منافذ I/O متعددة للربط الأمني",
+            "en": "Multi-channel I/O access control ready"
+          },
+          {
+            "ar": "يدعم منافذ I/O متعددة للربط الأمني",
+            "en": "Multi-channel I/O access control ready"
+          }
+        ]
+      },
+      {
+        "label": {
+          "ar": "اختبار التصادم",
+          "en": "Crash test"
+        },
+        "values": [
+          {
+            "ar": "لا شهادة اختبار تصادم",
+            "en": "No crash-test certificate"
+          },
+          {
+            "ar": "لا شهادة اختبار تصادم",
+            "en": "No crash-test certificate"
+          },
+          {
+            "ar": "PAS 68:2013 V/7500[N3]/80/90:-1.5/4.6 — IWA 14-1:2013 V/7200[N3C]/80/90:-0.9، دون اختراق — الموديل RB3M1000CT",
+            "en": "PAS 68:2013 V/7500[N3]/80/90:-1.5/4.6 — IWA 14-1:2013 V/7200[N3C]/80/90:-0.9, zero penetration"
+          },
+          {
+            "ar": "PAS 68:2013 V/7500[N3]/80/90:-1.4/16.2، دون اختراق — الموديل RBS3MCT",
+            "en": "PAS 68:2013 V/7500[N3]/80/90:-1.4/16.2, zero penetration"
+          }
+        ]
+      }
+    ],
+    "note": {
+      "ar": "المصدر: جدول المواصفات في صفحة كل موديل. «غير مذكور في الكتالوج» تعني أن الكتالوج لا يذكر القيمة لهذا الموديل، لا أنها غير متاحة. وتصنيف اختبار التصادم يخص العرض المختبَر (3 م) والتأسيس المختبَر فقط.",
+      "en": "Source: the specification table on each model’s own page. “Not listed in the catalogue” means the catalogue gives no figure for that model, not that it is unavailable. A crash-test rating covers only the tested width (3 m) and the tested foundation."
+    }
   }
 }

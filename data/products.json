@@ -6100,7 +6100,8 @@
               "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
             }
           ]
-        }
+        },
+        "comparisonGroup": "road-blockers"
       },
       {
         "id": "high-security-shallow-road-blocker",
@@ -6374,7 +6375,8 @@
               "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
             }
           ]
-        }
+        },
+        "comparisonGroup": "road-blockers"
       },
       {
         "id": "road-blocker",
@@ -6642,7 +6644,8 @@
             }
           ]
         },
-        "brand": "SAB TECH"
+        "brand": "SAB TECH",
+        "comparisonGroup": "road-blockers"
       },
       {
         "id": "surface-mount-hydraulic-road-blocker",
@@ -6850,7 +6853,8 @@
               "a": "Yes. Bestolex handles the full project in Qatar: site survey and requirements study, supply, installation or technical supervision, testing and commissioning, operator training, then preventive and corrective maintenance and spare parts. The product carries a 1-year warranty."
             }
           ]
-        }
+        },
+        "comparisonGroup": "road-blockers"
       },
       {
         "id": "road-bollard",

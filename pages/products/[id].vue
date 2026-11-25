@@ -274,7 +274,7 @@
                 <tr>
                   <th></th>
                   <th v-for="(col, ci) in comparison.columns" :key="col" :class="col === product.id ? 'bg-[#E99E05]/15 !text-[#191919] dark:!text-white' : ''">
-                    <span v-if="col === product.id">{{ comparison.columnLabels[ci][locale] }} ({{ locale === 'ar' ? 'هذه الشاحنة' : 'this truck' }})</span>
+                    <span v-if="col === product.id">{{ comparison.columnLabels[ci][locale] }} ({{ locale === 'ar' ? 'هذا الموديل' : 'this model' }})</span>
                     <NuxtLink v-else :to="localePath(`/products/${col}`)" class="text-[#191919] dark:text-gray-200 underline decoration-[#E99E05] decoration-2 underline-offset-4">{{ comparison.columnLabels[ci][locale] }}</NuxtLink>
                   </th>
                 </tr>
