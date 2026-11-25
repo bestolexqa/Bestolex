@@ -107,7 +107,7 @@
             <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
             
             <!-- Category Tag -->
-            <span class="absolute top-4 rtl:right-4 ltr:left-4 bg-[#121c2d]/90 backdrop-blur-md text-[#E99E15] font-black text-xs px-3.5 py-1.5 rounded-full border border-[#E99E15]/30">
+            <span class="absolute top-4 rtl:right-4 ltr:left-4 bg-[#191919]/90 backdrop-blur-md text-[#E99E05] font-black text-xs px-3.5 py-1.5 rounded-full border border-[#E99E05]/30">
               {{ article.category?.[locale] || article.category_ar || 'عام' }}
             </span>
           </div>

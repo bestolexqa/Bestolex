@@ -102,7 +102,8 @@ export default defineNuxtConfig({
     redirect: false
   },
   css: [
-    'aos/dist/aos.css'
+    'aos/dist/aos.css',
+    '~/assets/css/design-system.css'
   ],
   app: {
     head: {
@@ -112,7 +113,7 @@ export default defineNuxtConfig({
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         { name: 'robots', content: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' },
         { name: 'author', content: 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م) | Bestolex Trading of Heavy Equipment and Machinery W.L.L.' },
-        { name: 'theme-color', content: '#E99E15' },
+        { name: 'theme-color', content: '#E99E05' },
         { name: 'geo.region', content: 'QA' },
         { name: 'geo.placename', content: 'Doha, Qatar' },
         { property: 'og:site_name', content: 'Bestolex Qatar | بيستوليكس قطر' },
@@ -122,7 +123,7 @@ export default defineNuxtConfig({
       link: [
         { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
         { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' },
-        { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700;800;900&display=swap' },
+        { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Changa:wght@500;600;700;800&family=Tajawal:wght@300;400;500;700;800;900&display=swap' },
         // Light icon set (item 30): ICO 16/32/48 (3 KB) instead of the 47 KB logo, plus app icons and a manifest
         { rel: 'icon', href: '/favicon.ico', sizes: '48x48' },
         { rel: 'icon', type: 'image/png', sizes: '192x192', href: '/icon-192.png' },

@@ -2,7 +2,7 @@
   <div class="about-page bg-gray-50 dark:bg-gray-900 min-h-screen transition-colors duration-300">
     
     <!-- Hero Banner Section -->
-    <section class="relative py-24 md:py-32 bg-[#121c2d] text-white overflow-hidden">
+    <section class="relative py-24 md:py-32 bg-[#191919] text-white overflow-hidden">
       <!-- Background Image with Dark Gradient Overlay -->
       <NuxtImg 
         src="https://cdn.bestolex.com/bestolex/about/showroom-v2.jpg" 
@@ -11,14 +11,14 @@
         format="webp"
         loading="eager"
       />
-      <div class="absolute inset-0 bg-gradient-to-t from-[#121c2d] via-[#121c2d]/80 to-transparent"></div>
+      <div class="absolute inset-0 bg-gradient-to-t from-[#191919] via-[#191919]/80 to-transparent"></div>
       
       <!-- Subtle Pattern -->
       <div class="absolute inset-0 opacity-10" style="background-image: radial-gradient(#ffffff 1px, transparent 1px); background-size: 24px 24px;"></div>
 
       <div class="container mx-auto px-4 md:px-8 relative z-10 text-center" data-aos="fade-up">
         <!-- Qatar Badge -->
-        <div class="inline-flex items-center gap-2 bg-white/10 border border-white/20 text-[#E99E15] px-5 py-2 rounded-full font-bold text-sm md:text-base mb-6 backdrop-blur-md shadow-lg">
+        <div class="inline-flex items-center gap-2 bg-white/10 border border-white/20 text-[#E99E05] px-5 py-2 rounded-full font-bold text-sm md:text-base mb-6 backdrop-blur-md shadow-lg">
           <span>🇶🇦</span>
           <span>{{ locale === 'ar' ? 'دولة قطر | الملف التعريفي للشركة' : 'State of Qatar | Company Profile' }}</span>
         </div>
@@ -27,9 +27,9 @@
           {{ locale === 'ar' ? 'بيستوليكس لتجارة الآلات والمعدات الثقيلة' : 'Bestolex Trading of Heavy Equipment and Machinery' }}
         </h1>
 
-        <div class="w-24 h-1.5 bg-[#E99E15] mx-auto mb-6 rounded-full"></div>
+        <div class="w-24 h-1.5 bg-[#E99E05] mx-auto mb-6 rounded-full"></div>
 
-        <p class="text-xl md:text-3xl text-[#E99E15] font-black italic max-w-3xl mx-auto drop-shadow-md">
+        <p class="text-xl md:text-3xl text-[#E99E05] font-black italic max-w-3xl mx-auto drop-shadow-md">
           "{{ locale === 'ar' ? 'قوة تدفع أعمالكم .. ثقة تدوم' : 'Power That Drives Your Business, Trust That Lasts' }}"
         </p>
       </div>
@@ -52,7 +52,7 @@
             <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent rounded-2xl"></div>
           </div>
           <!-- Floating Badge -->
-          <div class="absolute -bottom-6 rtl:-left-6 ltr:-right-6 bg-[#E99E15] text-white p-6 rounded-2xl shadow-xl hidden sm:flex flex-col items-center justify-center border-4 border-white dark:border-gray-900">
+          <div class="absolute -bottom-6 rtl:-left-6 ltr:-right-6 bg-[#E99E05] text-white p-6 rounded-2xl shadow-xl hidden sm:flex flex-col items-center justify-center border-4 border-white dark:border-gray-900">
             <span class="font-black text-3xl">25+</span>
             <span class="text-xs font-bold uppercase tracking-wider text-center">{{ locale === 'ar' ? 'سنة خبرة شريكنا المصنّع ساب تك' : 'Years of SAB TECH Experience' }}</span>
           </div>
@@ -74,14 +74,14 @@
           </p>
           <div class="grid grid-cols-2 gap-4 pt-4">
             <div class="bg-white dark:bg-gray-800 p-4 rounded-xl border border-gray-100 dark:border-gray-700 flex items-center gap-3">
-              <span class="text-3xl text-[#E99E15]">🏆</span>
+              <span class="text-3xl text-[#E99E05]">🏆</span>
               <div>
                 <h4 class="font-bold text-gray-900 dark:text-white text-sm md:text-base">{{ locale === 'ar' ? 'اعتمادات الشريك المصنّع' : 'Manufacturer Certifications' }}</h4>
                 <p class="text-xs text-gray-500">{{ locale === 'ar' ? 'ساب تك: ISO 9001:2015 وعلامة CE' : 'SAB TECH: ISO 9001:2015 & CE marking' }}</p>
               </div>
             </div>
             <div class="bg-white dark:bg-gray-800 p-4 rounded-xl border border-gray-100 dark:border-gray-700 flex items-center gap-3">
-              <span class="text-3xl text-[#E99E15]">🤝</span>
+              <span class="text-3xl text-[#E99E05]">🤝</span>
               <div>
                 <h4 class="font-bold text-gray-900 dark:text-white text-sm md:text-base">{{ locale === 'ar' ? 'شريك ساب تك' : 'SAB TECH Partner' }}</h4>
                 <p class="text-xs text-gray-500">{{ locale === 'ar' ? 'الوكيل المعتمد في قطر' : 'Authorized Qatar Distributor' }}</p>
@@ -94,9 +94,9 @@
       <!-- Vision & Mission Cards -->
       <section class="grid grid-cols-1 md:grid-cols-2 gap-8" data-aos="fade-up">
         <!-- Vision -->
-        <div class="bg-white dark:bg-gray-800 p-8 md:p-10 rounded-3xl shadow-xl border-2 border-transparent hover:border-[#E99E15] transition duration-500 group relative overflow-hidden">
-          <div class="absolute -right-8 -top-8 w-32 h-32 bg-[#E99E15]/10 rounded-full group-hover:scale-150 transition duration-700"></div>
-          <div class="w-16 h-16 bg-[#E99E15]/10 text-[#E99E15] rounded-2xl flex items-center justify-center text-3xl mb-6 font-bold">🎯</div>
+        <div class="bg-white dark:bg-gray-800 p-8 md:p-10 rounded-3xl shadow-xl border-2 border-transparent hover:border-[#E99E05] transition duration-500 group relative overflow-hidden">
+          <div class="absolute -right-8 -top-8 w-32 h-32 bg-[#E99E05]/10 rounded-full group-hover:scale-150 transition duration-700"></div>
+          <div class="w-16 h-16 bg-[#E99E05]/10 text-[#E99E05] rounded-2xl flex items-center justify-center text-3xl mb-6 font-bold">🎯</div>
           <h3 class="text-2xl md:text-3xl font-black text-gray-900 dark:text-white mb-4">
             {{ locale === 'ar' ? 'رؤيتنا' : 'Our Vision' }}
           </h3>
@@ -133,7 +133,7 @@
           <h2 class="text-3xl md:text-4xl font-black text-gray-900 dark:text-white">
             {{ locale === 'ar' ? 'القيم التي نرتكز عليها' : 'Core Values We Stand For' }}
           </h2>
-          <div class="h-1 w-20 bg-[#E99E15] mx-auto mt-4 rounded-full"></div>
+          <div class="h-1 w-20 bg-[#E99E05] mx-auto mt-4 rounded-full"></div>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
@@ -154,12 +154,12 @@
       </section>
 
       <!-- Strategic Partner Section (SAB TECH Spotlight) -->
-      <section class="bg-gradient-to-r from-[#121c2d] to-[#1e2d42] text-white rounded-3xl p-8 md:p-14 shadow-2xl relative overflow-hidden" data-aos="fade-up">
+      <section class="bg-gradient-to-r from-[#191919] to-[#1e2d42] text-white rounded-3xl p-8 md:p-14 shadow-2xl relative overflow-hidden" data-aos="fade-up">
         <div class="absolute inset-0 opacity-10" style="background-image: radial-gradient(#ffffff 1px, transparent 1px); background-size: 20px 20px;"></div>
         
         <div class="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
           <div class="lg:col-span-8 space-y-6">
-            <div class="inline-flex items-center gap-2 bg-[#E99E15]/20 text-[#E99E15] border border-[#E99E15]/30 px-4 py-1.5 rounded-full font-bold text-xs md:text-sm">
+            <div class="inline-flex items-center gap-2 bg-[#E99E05]/20 text-[#E99E05] border border-[#E99E05]/30 px-4 py-1.5 rounded-full font-bold text-xs md:text-sm">
               <span>🤝</span>
               <span>{{ locale === 'ar' ? 'التحالف الاستراتيجي' : 'Strategic Alliance' }}</span>
             </div>
@@ -198,12 +198,12 @@
           <h2 class="text-3xl md:text-4xl font-black text-gray-900 dark:text-white">
             {{ locale === 'ar' ? 'ما يميز بيستوليكس في السوق القطري' : 'What Sets Bestolex Apart in Qatar' }}
           </h2>
-          <div class="h-1 w-20 bg-[#E99E15] mx-auto mt-4 rounded-full"></div>
+          <div class="h-1 w-20 bg-[#E99E05] mx-auto mt-4 rounded-full"></div>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           <div v-for="(item, idx) in advantageList" :key="idx" class="bg-white dark:bg-gray-800 p-6 md:p-8 rounded-2xl shadow border border-gray-100 dark:border-gray-700 flex items-start gap-4 hover:shadow-xl transition">
-            <div class="w-12 h-12 bg-[#E99E15]/10 text-[#E99E15] rounded-xl flex items-center justify-center font-bold text-xl flex-shrink-0">
+            <div class="w-12 h-12 bg-[#E99E05]/10 text-[#E99E05] rounded-xl flex items-center justify-center font-bold text-xl flex-shrink-0">
               {{ idx + 1 }}
             </div>
             <div>
@@ -223,17 +223,17 @@
           <h2 class="text-3xl md:text-4xl font-black text-gray-900 dark:text-white">
             {{ locale === 'ar' ? 'حلولنا ومجالات تخصصنا' : 'Our Solutions & Specialization' }}
           </h2>
-          <div class="h-1 w-20 bg-[#E99E15] mx-auto mt-4 rounded-full"></div>
+          <div class="h-1 w-20 bg-[#E99E05] mx-auto mt-4 rounded-full"></div>
         </div>
 
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          <div v-for="(p, idx) in portfolioList" :key="idx" class="bg-white dark:bg-gray-800 rounded-2xl p-6 shadow-lg border border-gray-100 dark:border-gray-700 hover:border-[#E99E15] transition duration-300 flex flex-col justify-between">
+          <div v-for="(p, idx) in portfolioList" :key="idx" class="bg-white dark:bg-gray-800 rounded-2xl p-6 shadow-lg border border-gray-100 dark:border-gray-700 hover:border-[#E99E05] transition duration-300 flex flex-col justify-between">
             <div>
               <div class="text-4xl mb-4">{{ p.icon }}</div>
               <h3 class="font-bold text-xl text-gray-900 dark:text-white mb-3">{{ p.title[locale] }}</h3>
               <p class="text-gray-600 dark:text-gray-400 text-sm leading-relaxed mb-6">{{ p.desc[locale] }}</p>
             </div>
-            <NuxtLink :to="localePath(p.link)" class="inline-flex items-center gap-2 text-[#E99E15] font-bold text-sm hover:underline">
+            <NuxtLink :to="localePath(p.link)" class="inline-flex items-center gap-2 text-[#E99E05] font-bold text-sm hover:underline">
               <span>{{ locale === 'ar' ? 'تصفح منتجات القسم' : 'Explore Category' }}</span>
               <span class="rtl:rotate-180">&rarr;</span>
             </NuxtLink>
@@ -253,7 +253,7 @@
         </div>
 
         <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-6 text-center">
-          <div v-for="(sec, idx) in targetSectors" :key="idx" class="p-5 bg-gray-50 dark:bg-gray-900 rounded-2xl border border-gray-100 dark:border-gray-700 hover:border-[#E99E15] dark:hover:border-[#E99E15] transition shadow-sm">
+          <div v-for="(sec, idx) in targetSectors" :key="idx" class="p-5 bg-gray-50 dark:bg-gray-900 rounded-2xl border border-gray-100 dark:border-gray-700 hover:border-[#E99E05] dark:hover:border-[#E99E05] transition shadow-sm">
             <div class="text-4xl mb-3">{{ sec.icon }}</div>
             <h4 class="font-bold text-gray-900 dark:text-white text-sm md:text-base">{{ sec.title[locale] }}</h4>
           </div>
@@ -265,21 +265,21 @@
         <div class="flex flex-wrap justify-center gap-3 mb-8 border-b border-gray-200 dark:border-gray-700 pb-6">
           <button 
             @click="activeTab = 'principles'"
-            :class="activeTab === 'principles' ? 'bg-[#E99E15] text-white shadow-lg shadow-[#E99E15]/30' : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200'"
+            :class="activeTab === 'principles' ? 'bg-[#E99E05] text-white shadow-lg shadow-[#E99E05]/30' : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200'"
             class="px-6 py-3 rounded-xl font-bold transition text-base md:text-lg"
           >
             {{ locale === 'ar' ? '🧭 مبادئنا' : '🧭 Principles' }}
           </button>
           <button 
             @click="activeTab = 'goals'"
-            :class="activeTab === 'goals' ? 'bg-[#E99E15] text-white shadow-lg shadow-[#E99E15]/30' : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200'"
+            :class="activeTab === 'goals' ? 'bg-[#E99E05] text-white shadow-lg shadow-[#E99E05]/30' : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200'"
             class="px-6 py-3 rounded-xl font-bold transition text-base md:text-lg"
           >
             {{ locale === 'ar' ? '🎯 أهدافنا' : '🎯 Goals' }}
           </button>
           <button 
             @click="activeTab = 'philosophy'"
-            :class="activeTab === 'philosophy' ? 'bg-[#E99E15] text-white shadow-lg shadow-[#E99E15]/30' : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200'"
+            :class="activeTab === 'philosophy' ? 'bg-[#E99E05] text-white shadow-lg shadow-[#E99E05]/30' : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200'"
             class="px-6 py-3 rounded-xl font-bold transition text-base md:text-lg"
           >
             {{ locale === 'ar' ? '💡 فلسفتنا في العمل' : '💡 Work Philosophy' }}
@@ -289,7 +289,7 @@
         <!-- Principles Tab -->
         <div v-if="activeTab === 'principles'" class="space-y-4 max-w-4xl mx-auto">
           <div v-for="(p, i) in principlesList" :key="i" class="flex items-start gap-4 p-4 bg-gray-50 dark:bg-gray-900 rounded-xl border border-gray-100 dark:border-gray-800">
-            <span class="text-[#E99E15] font-bold text-xl">•</span>
+            <span class="text-[#E99E05] font-bold text-xl">•</span>
             <p class="text-gray-800 dark:text-gray-200 font-semibold text-base md:text-lg">{{ p[locale] }}</p>
           </div>
         </div>
@@ -297,14 +297,14 @@
         <!-- Goals Tab -->
         <div v-if="activeTab === 'goals'" class="space-y-4 max-w-4xl mx-auto">
           <div v-for="(g, i) in goalsList" :key="i" class="flex items-start gap-4 p-4 bg-gray-50 dark:bg-gray-900 rounded-xl border border-gray-100 dark:border-gray-800">
-            <span class="text-[#E99E15] font-bold text-xl">🎯</span>
+            <span class="text-[#E99E05] font-bold text-xl">🎯</span>
             <p class="text-gray-800 dark:text-gray-200 font-semibold text-base md:text-lg">{{ g[locale] }}</p>
           </div>
         </div>
 
         <!-- Philosophy Tab -->
         <div v-if="activeTab === 'philosophy'" class="max-w-3xl mx-auto text-center space-y-6 py-4">
-          <div class="w-16 h-16 bg-[#E99E15]/10 text-[#E99E15] rounded-full flex items-center justify-center text-3xl mx-auto font-bold">💡</div>
+          <div class="w-16 h-16 bg-[#E99E05]/10 text-[#E99E05] rounded-full flex items-center justify-center text-3xl mx-auto font-bold">💡</div>
           <p class="text-xl md:text-2xl text-gray-800 dark:text-gray-200 font-bold leading-relaxed italic">
             {{ locale === 'ar'
               ? 'نؤمن بأن النجاح الحقيقي يُبنى على الجودة قبل الكمية، وعلى شراكة صادقة مع العميل تتجاوز حدود البيع لتصل إلى دعم فني مستمر وموثوقية طويلة الأمد — من فهم الاحتياج، إلى اختيار الحل الأمثل، إلى التركيب والصيانة الدورية.'
@@ -315,7 +315,7 @@
       </section>
 
       <!-- Contact Banner -->
-      <section class="bg-[#121c2d] text-white rounded-3xl p-8 md:p-12 text-center relative overflow-hidden shadow-2xl" data-aos="fade-up">
+      <section class="bg-[#191919] text-white rounded-3xl p-8 md:p-12 text-center relative overflow-hidden shadow-2xl" data-aos="fade-up">
         <h2 class="text-3xl md:text-4xl font-black mb-4">
           {{ locale === 'ar' ? 'جاهزون لشراكة عمل مستدامة وموثوقة' : 'Ready for a Sustainable & Reliable Partnership?' }}
         </h2>
@@ -323,7 +323,7 @@
           {{ locale === 'ar' ? 'تواصل معنا في الدوحة، دولة قطر للحصول على الاستشارات الفنية وعروض الأسعار' : 'Contact us in Doha, Qatar for technical consultation & customized quotes' }}
         </p>
         <div class="flex flex-wrap justify-center gap-4">
-          <NuxtLink :to="localePath('/contact')" class="bg-[#E99E15] text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-orange-600 transition shadow-lg">
+          <NuxtLink :to="localePath('/contact')" class="bg-[#E99E05] text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-orange-600 transition shadow-lg">
             {{ locale === 'ar' ? 'تواصل معنا الآن' : 'Contact Us Now' }}
           </NuxtLink>
           <NuxtLink :to="localePath('/products')" class="bg-white/10 text-white border border-white/20 px-8 py-4 rounded-xl font-bold text-lg hover:bg-white/20 transition">

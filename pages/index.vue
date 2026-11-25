@@ -105,7 +105,7 @@
               <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
               
               <!-- Category Tag -->
-              <span class="absolute top-4 rtl:right-4 ltr:left-4 bg-[#121c2d]/90 backdrop-blur-md text-[#E99E15] font-black text-xs px-3.5 py-1.5 rounded-full border border-[#E99E15]/30">
+              <span class="absolute top-4 rtl:right-4 ltr:left-4 bg-[#191919]/90 backdrop-blur-md text-[#E99E05] font-black text-xs px-3.5 py-1.5 rounded-full border border-[#E99E05]/30">
                 {{ article.category[locale] }}
               </span>
             </div>
@@ -186,7 +186,7 @@
             :data-aos-delay="(idx % 4) * 80"
           >
             <div class="flex items-center gap-3">
-              <span class="w-10 h-10 shrink-0 rounded-full bg-[#191919] text-[#E99E15] font-black flex items-center justify-center">{{ idx + 1 }}</span>
+              <span class="w-10 h-10 shrink-0 rounded-full bg-[#191919] text-[#E99E05] font-black flex items-center justify-center">{{ idx + 1 }}</span>
               <h3 class="text-lg font-bold text-gray-900 dark:text-white leading-snug">{{ service.title[locale] }}</h3>
             </div>
             <p class="text-gray-600 dark:text-gray-400 text-sm leading-relaxed">{{ service.desc[locale] }}</p>
@@ -248,7 +248,7 @@
               <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
               
               <!-- Category Tag -->
-              <span class="absolute top-4 rtl:right-4 ltr:left-4 bg-[#121c2d]/90 backdrop-blur-md text-[#E99E15] font-black text-xs px-3.5 py-1.5 rounded-full border border-[#E99E15]/30">
+              <span class="absolute top-4 rtl:right-4 ltr:left-4 bg-[#191919]/90 backdrop-blur-md text-[#E99E05] font-black text-xs px-3.5 py-1.5 rounded-full border border-[#E99E05]/30">
                 {{ article.category?.[locale] || article.category_ar || 'عام' }}
               </span>
             </div>

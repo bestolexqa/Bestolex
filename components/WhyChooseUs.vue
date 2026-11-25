@@ -1,15 +1,15 @@
 <template>
   <section class="py-16 md:py-20 relative bg-[#0b1320] text-white overflow-hidden border-t border-b border-gray-800/80">
     <!-- Subtle Ambient Glow -->
-    <div class="absolute -top-40 -left-40 w-96 h-96 bg-[#E99E15]/10 rounded-full blur-3xl pointer-events-none"></div>
-    <div class="absolute -bottom-40 -right-40 w-96 h-96 bg-[#E99E15]/10 rounded-full blur-3xl pointer-events-none"></div>
+    <div class="absolute -top-40 -left-40 w-96 h-96 bg-[#E99E05]/10 rounded-full blur-3xl pointer-events-none"></div>
+    <div class="absolute -bottom-40 -right-40 w-96 h-96 bg-[#E99E05]/10 rounded-full blur-3xl pointer-events-none"></div>
 
     <div class="container mx-auto px-4 md:px-8 relative z-10">
       
       <!-- Section Header -->
       <div class="text-center max-w-4xl mx-auto mb-12 md:mb-14" data-aos="fade-up">
         <!-- Subtitle as regular paragraph -->
-        <p class="inline-block bg-[#E99E15]/15 text-[#E99E15] border border-[#E99E15]/30 font-bold px-4 py-1.5 rounded-full text-xs md:text-sm mb-4 tracking-wide shadow-sm">
+        <p class="inline-block bg-[#E99E05]/15 text-[#E99E05] border border-[#E99E05]/30 font-bold px-4 py-1.5 rounded-full text-xs md:text-sm mb-4 tracking-wide shadow-sm">
           {{ isAr ? 'شريك محلي لحلول صناعية متكاملة' : 'Your Local Partner for Integrated Industrial Solutions' }}
         </p>
 
@@ -32,18 +32,18 @@
         <div 
           v-for="(card, idx) in cards" 
           :key="idx"
-          class="bg-gray-900/80 backdrop-blur-sm rounded-2xl p-6 sm:p-7 border border-gray-800 hover:border-[#E99E15]/60 hover:shadow-xl hover:shadow-[#E99E15]/10 hover:-translate-y-1 transition-all duration-300 flex flex-col justify-between group"
+          class="bg-gray-900/80 backdrop-blur-sm rounded-2xl p-6 sm:p-7 border border-gray-800 hover:border-[#E99E05]/60 hover:shadow-xl hover:shadow-[#E99E05]/10 hover:-translate-y-1 transition-all duration-300 flex flex-col justify-between group"
           data-aos="fade-up"
           :data-aos-delay="(idx % 3) * 100"
         >
           <div>
             <!-- Unified Linear Gold SVG Icon -->
-            <div class="w-14 h-14 rounded-xl bg-[#E99E15]/10 border border-[#E99E15]/30 flex items-center justify-center text-[#E99E15] mb-5 group-hover:scale-110 group-hover:bg-[#E99E15] group-hover:text-gray-950 transition-all duration-300 shadow-md">
+            <div class="w-14 h-14 rounded-xl bg-[#E99E05]/10 border border-[#E99E05]/30 flex items-center justify-center text-[#E99E05] mb-5 group-hover:scale-110 group-hover:bg-[#E99E05] group-hover:text-gray-950 transition-all duration-300 shadow-md">
               <component :is="card.iconComponent" class="w-7 h-7 stroke-[2]" />
             </div>
 
             <!-- Card Title H3 -->
-            <h3 class="text-lg sm:text-xl font-bold text-white mb-3 group-hover:text-[#E99E15] transition-colors leading-snug">
+            <h3 class="text-lg sm:text-xl font-bold text-white mb-3 group-hover:text-[#E99E05] transition-colors leading-snug">
               {{ isAr ? card.titleAr : card.titleEn }}
             </h3>
 
@@ -62,7 +62,7 @@
           <button 
             type="button"
             @click="isModalOpen = true"
-            class="w-full sm:w-auto inline-flex items-center justify-center gap-3 bg-gradient-to-r from-[#E99E15] to-orange-500 hover:from-orange-500 hover:to-orange-600 text-white font-extrabold px-8 py-4 rounded-xl transition duration-300 shadow-lg shadow-[#E99E15]/30 hover:shadow-[#E99E15]/50 hover:scale-105 text-base sm:text-lg cursor-pointer"
+            class="w-full sm:w-auto inline-flex items-center justify-center gap-3 bg-gradient-to-r from-[#E99E05] to-orange-500 hover:from-orange-500 hover:to-orange-600 text-white font-extrabold px-8 py-4 rounded-xl transition duration-300 shadow-lg shadow-[#E99E05]/30 hover:shadow-[#E99E05]/50 hover:scale-105 text-base sm:text-lg cursor-pointer"
           >
             <!-- Calendar/Survey Icon -->
             <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 stroke-[2.5]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
@@ -92,7 +92,7 @@
 
       <!-- Tagline & Clearance Space (100px bottom clearance for floating buttons) -->
       <div class="text-center pt-6 pb-24 md:pb-28 border-t border-gray-800/60 max-w-xl mx-auto" data-aos="fade-up">
-        <p class="text-base sm:text-lg md:text-xl font-bold tracking-wide text-[#E99E15] drop-shadow-sm">
+        <p class="text-base sm:text-lg md:text-xl font-bold tracking-wide text-[#E99E05] drop-shadow-sm">
           {{ isAr ? 'قوة تدفع أعمالكم… ثقة تدوم' : 'Power That Drives Your Business. Trust That Lasts.' }}
         </p>
       </div>

@@ -20,19 +20,18 @@
           loading="eager"
         />
         <!-- Subtle dark gradient overlay for text readability -->
-        <div class="absolute inset-0 bg-gradient-to-t from-[#121c2d] via-black/30 to-black/40"></div>
+        <div class="absolute inset-0 bg-gradient-to-t from-[#191919] via-[#191919]/55 to-[#191919]/35"></div>
         
         <div class="relative z-10 text-center px-4" data-aos="fade-up">
-          <p class="text-3xl md:text-5xl lg:text-6xl font-black text-white drop-shadow-[0_4px_12px_rgba(0,0,0,0.8)] tracking-tight">
+          <p class="font-display text-3xl md:text-5xl lg:text-6xl font-extrabold text-white drop-shadow-[0_4px_12px_rgba(0,0,0,0.8)]">
             {{ product.name[locale] }}
           </p>
         </div>
       </section>
 
       <!-- Hero Product Section (Restored Original Layout but Full Width Carousel) -->
-      <section class="bg-[#121c2d] py-12 md:py-20 relative overflow-hidden">
+      <section class="bg-[#191919] py-12 md:py-20 relative overflow-hidden">
         <!-- Subtle Pattern Background -->
-        <div class="absolute inset-0 opacity-10" style="background-image: radial-gradient(#ffffff 1px, transparent 1px); background-size: 24px 24px;"></div>
         
         <div class="container mx-auto px-4 md:px-8 relative z-10">
           <div class="flex flex-col gap-12 lg:gap-16 items-center">
@@ -45,25 +44,25 @@
                 <span>/</span>
                 <NuxtLink :to="localePath('/products')" class="hover:text-white transition">{{ locale === 'ar' ? 'المنتجات' : 'Products' }}</NuxtLink>
                 <span>/</span>
-                <span class="text-[#E99E15]">{{ product.name[locale] }}</span>
+                <span class="text-[#E99E05]">{{ product.name[locale] }}</span>
               </div>
               
               <!-- Badge -->
-              <div class="inline-block bg-gray-800/80 border border-gray-700 text-[#E99E15] rounded-full px-5 py-2 text-sm font-bold mb-6">
-                <span class="w-2 h-2 rounded-full bg-[#E99E15] inline-block rtl:ml-2 ltr:mr-2"></span>
+              <div class="inline-block border border-[#E99E05]/60 text-[#E99E05] rounded-lg px-4 py-2 text-sm font-bold mb-6">
+                <span class="w-2 h-2 rounded-full bg-[#E99E05] inline-block rtl:ml-2 ltr:mr-2"></span>
                 {{ product.categoryTitle?.[locale] || (locale === 'ar' ? 'المخلفات وإعادة التدوير' : 'Waste & Recycling') }}
               </div>
               
               <!-- Title -->
-              <h1 class="text-4xl md:text-5xl lg:text-6xl font-black text-white mb-6 leading-tight">
+              <h1 class="font-display text-4xl md:text-5xl lg:text-6xl font-extrabold text-white mb-6 leading-tight">
                 {{ product.name[locale] }}
               </h1>
               
-              <div class="w-20 h-1 bg-[#E99E15] mb-8"></div>
+              <div class="w-20 h-1 bg-[#E99E05] mb-8"></div>
 
               <!-- At a glance: short answer-first summary (GEO) -->
-              <div v-if="product.summary && product.summary[locale]" class="w-full max-w-3xl bg-white/5 border border-[#E99E15]/40 rounded-2xl px-6 py-5 mb-8 text-start">
-                <p class="text-[#E99E15] text-sm font-black mb-2">{{ locale === 'ar' ? 'باختصار' : 'At a glance' }}</p>
+              <div v-if="product.summary && product.summary[locale]" class="w-full max-w-3xl bg-white/5 border-s-4 border-s-[#E99E05] border border-white/10 rounded-xl px-6 py-5 mb-8 text-start">
+                <p class="text-[#E99E05] text-sm font-black mb-2">{{ locale === 'ar' ? 'باختصار' : 'At a glance' }}</p>
                 <p class="text-white text-base md:text-lg leading-relaxed">{{ product.summary[locale] }}</p>
               </div>
               
@@ -73,24 +72,24 @@
               </p>
               
               <!-- Stats Cards -->
-              <div v-if="product.stats && product.stats[locale]" class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-10 w-full">
-                <div v-for="(stat, i) in product.stats[locale]" :key="i" class="bg-white/5 border border-white/10 rounded-2xl p-5 text-center backdrop-blur-sm hover:bg-white/10 transition">
-                  <div class="text-[#E99E15] font-black text-2xl md:text-3xl mb-1">{{ stat.value }}</div>
-                  <div class="text-gray-300 text-sm font-medium">{{ stat.label }}</div>
+              <div v-if="product.stats && product.stats[locale]" class="mb-10 w-full grid grid-cols-2 md:grid-cols-3 border border-[#6F7070]">
+                <div v-for="(stat, i) in product.stats[locale]" :key="i" class="px-4 py-4 text-start border-s border-s-[#6F7070] first:border-s-0">
+                  <div class="bp-num font-display text-[#E99E05] font-bold text-2xl md:text-3xl mb-1" dir="ltr">{{ stat.value }}</div>
+                  <div class="text-gray-300 text-sm">{{ stat.label }}</div>
                 </div>
               </div>
               
               <!-- Buttons -->
               <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                <button @click="scrollToQuote" class="bg-[#E99E15] text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-orange-500 transition shadow-lg hover:shadow-[#E99E15]/40 flex items-center justify-center gap-3">
+                <button @click="scrollToQuote" class="bg-[#E99E05] text-[#191919] px-8 py-4 rounded-[10px] font-extrabold text-lg hover:bg-[#d08f04] transition flex items-center justify-center gap-3">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" /></svg>
                   {{ locale === 'ar' ? 'طلب عرض سعر' : 'Request a Quote' }}
                 </button>
-                <a :href="whatsappHref" target="_blank" rel="noopener noreferrer" @click="trackWhatsapp" class="bg-[#25D366] text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-[#1ebe5b] transition shadow-lg flex items-center justify-center gap-3">
+                <a :href="whatsappHref" target="_blank" rel="noopener noreferrer" @click="trackWhatsapp" class="bg-[#25D366] text-white px-8 py-4 rounded-[10px] font-bold text-lg hover:bg-[#1ebe5b] transition flex items-center justify-center gap-3">
                   <svg class="h-6 w-6 fill-current" viewBox="0 0 24 24" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
                   {{ locale === 'ar' ? 'اطلب عبر واتساب' : 'Ask on WhatsApp' }}
                 </a>
-                <a v-if="product.pdf" :href="product.pdf" target="_blank" @click="trackBrochureDownload" class="bg-transparent border-2 border-gray-600 text-white px-8 py-4 rounded-xl font-bold text-lg hover:border-white transition flex items-center justify-center gap-3">
+                <a v-if="product.pdf" :href="product.pdf" target="_blank" @click="trackBrochureDownload" class="bg-transparent border border-[#6F7070] text-white px-8 py-4 rounded-[10px] font-bold text-lg hover:border-white transition flex items-center justify-center gap-3">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" /></svg>
                   {{ locale === 'ar' ? 'تحميل الكتيب' : 'Download Brochure' }}
                 </a>
@@ -99,7 +98,7 @@
 
             <!-- Product Images / Carousel (Full Width Row) -->
             <div class="w-full" data-aos="fade-up">
-              <div class="bg-white rounded-[2rem] p-4 md:p-8 shadow-2xl relative group product-3d-container">
+              <div class="bg-white rounded-xl p-4 md:p-8 relative group product-3d-container">
                 <div class="h-[400px] md:h-[600px] flex items-center justify-center overflow-hidden relative">
                   <transition name="fade">
                     <NuxtImg 
@@ -121,7 +120,7 @@
                   :key="idx"
                   @click="setCurrentImage(idx)"
                   class="w-20 h-20 md:w-28 md:h-28 bg-white rounded-xl overflow-hidden border-2 transition-all p-2"
-                  :class="currentImageIndex === idx ? 'border-[#E99E15] shadow-lg shadow-[#E99E15]/30 scale-110' : 'border-transparent opacity-60 hover:opacity-100 hover:scale-105'"
+                  :class="currentImageIndex === idx ? 'border-[#E99E05]' : 'border-transparent opacity-60 hover:opacity-100'"
                 >
                   <NuxtImg :src="img" :alt="`${product.name?.[locale] || 'Bestolex'} - ${idx + 1}`" class="w-full h-full object-contain" format="webp" loading="lazy" />
                 </button>
@@ -136,11 +135,11 @@
 
         <!-- Features Section (2 cols on Desktop, 1 on Mobile) -->
         <div v-if="product.features && product.features[locale]" class="mt-16 md:mt-20" data-aos="fade-up">
-          <div class="text-center mb-8 md:mb-12">
-            <h2 class="text-2xl md:text-4xl font-bold text-gray-900 dark:text-white mb-3 md:mb-4">
+          <div class="mb-8 md:mb-10">
+            <h2 class="font-display text-2xl md:text-4xl font-bold text-gray-900 dark:text-white mb-3 md:mb-4">
               {{ locale === 'ar' ? 'أهم المميزات' : 'Key Features' }}
             </h2>
-            <div class="h-1 w-20 md:w-24 bg-primary mx-auto rounded-full"></div>
+            <div class="h-1 w-16 bg-primary"></div>
           </div>
           
           <!-- Features Grid -->
@@ -148,7 +147,7 @@
             <div 
               v-for="(feature, idx) in product.features[locale]" 
               :key="idx"
-              class="bg-white dark:bg-gray-800 p-5 md:p-8 rounded-2xl shadow border border-gray-100 dark:border-gray-700 flex items-start gap-3 md:gap-4 hover:shadow-xl transition"
+              class="bg-white dark:bg-gray-800 p-5 md:p-8 rounded-xl border border-[#E1E3E3] dark:border-gray-700 flex items-start gap-3 md:gap-4 hover:border-[#191919] dark:hover:border-[#E99E05] transition"
               data-aos="fade-up"
               :data-aos-delay="idx * 100"
             >
@@ -166,30 +165,24 @@
 
         <!-- Technical Specs & Drawings -->
         <div v-if="(product.specs && product.specs[locale]) || (product.specDrawings && product.specDrawings.length)" class="mt-16 md:mt-20" data-aos="fade-up">
-          <div class="text-center mb-8 md:mb-12">
-            <h2 class="text-2xl md:text-4xl font-bold text-gray-900 dark:text-white mb-3 md:mb-4">
+          <div class="mb-8 md:mb-10">
+            <h2 class="font-display text-2xl md:text-4xl font-bold text-gray-900 dark:text-white mb-3 md:mb-4">
               {{ locale === 'ar' ? 'المواصفات الفنية والرسومات التقنية' : 'Technical Specifications & Drawings' }}
             </h2>
-            <div class="h-1 w-20 md:w-24 bg-primary mx-auto rounded-full"></div>
+            <div class="h-1 w-16 bg-primary"></div>
           </div>
           
           <div class="flex flex-col lg:flex-row gap-8 md:gap-12 items-start">
             <!-- Technical Specs Table -->
             <div v-if="product.specs && product.specs[locale]" class="w-full" :class="product.specDrawings?.length ? 'lg:w-1/2' : ''">
-              <div class="bg-white dark:bg-gray-800 rounded-3xl shadow-xl border border-gray-100 dark:border-gray-700 overflow-hidden">
-                <div class="bg-gradient-to-r from-primary to-orange-500 px-5 py-4 md:px-6 md:py-4">
-                  <h3 class="text-white font-black text-lg md:text-xl">{{ locale === 'ar' ? 'الجدول التقني' : 'Technical Table' }}</h3>
-                </div>
-                <table class="w-full">
+              <div class="bp">
+                <table>
+                  <!-- سطر المصدر يُضاف حين يحمل كل منتج حقل مصدره في data/products.json؛ لا يُكتب مصدر عام غير مؤكد. -->
                   <caption class="sr-only">{{ locale === 'ar' ? `المواصفات الفنية: ${product.name[locale]}` : `Technical specifications: ${product.name[locale]}` }}</caption>
-                  <tbody class="divide-y divide-gray-100 dark:divide-gray-700">
-                    <tr 
-                      v-for="(spec, idx) in product.specs[locale]" 
-                      :key="idx"
-                      class="flex flex-col sm:flex-row sm:items-center justify-between p-4 md:p-5 hover:bg-gray-50 dark:hover:bg-gray-750 transition"
-                    >
-                      <th scope="row" class="text-gray-500 dark:text-gray-400 font-bold mb-1 sm:mb-0 text-sm md:text-base text-start">{{ spec.label }}</th>
-                      <td class="font-black text-gray-900 dark:text-white text-base md:text-lg sm:text-end">{{ spec.value }}</td>
+                  <tbody>
+                    <tr v-for="(spec, idx) in product.specs[locale]" :key="idx">
+                      <th scope="row" class="font-bold text-gray-900 dark:text-white w-1/2">{{ spec.label }}</th>
+                      <td class="bp-num text-gray-900 dark:text-gray-100" dir="ltr">{{ spec.value }}</td>
                     </tr>
                   </tbody>
                 </table>
@@ -205,14 +198,14 @@
                 <div 
                   v-for="(drawing, idx) in product.specDrawings" 
                   :key="idx"
-                  class="bg-white dark:bg-gray-800 rounded-2xl border border-gray-100 dark:border-gray-700 overflow-hidden shadow-lg hover:shadow-xl transition group"
+                  class="bg-white dark:bg-gray-800 rounded-xl border border-[#E1E3E3] dark:border-gray-700 overflow-hidden transition group"
                   data-aos="zoom-in"
                   :data-aos-delay="idx * 100"
                 >
                   <div class="aspect-square bg-white p-3 md:p-4 flex items-center justify-center">
                     <NuxtImg :src="drawing.image" :alt="drawing.label[locale]" class="w-full h-full object-contain group-hover:scale-110 transition duration-500" format="webp" loading="lazy" />
                   </div>
-                  <div class="p-3 md:p-4 text-center border-t border-gray-100 dark:border-gray-700">
+                  <div class="p-3 md:p-4 text-center border-t border-[#E1E3E3] dark:border-gray-700">
                     <p class="font-bold text-gray-800 dark:text-gray-200 text-sm md:text-base">{{ drawing.label[locale] }}</p>
                   </div>
                 </div>
@@ -223,18 +216,18 @@
 
         <!-- Feature Images Grid -->
         <div v-if="product.featureImages && product.featureImages.length" class="mt-16 md:mt-20" data-aos="fade-up">
-          <div class="text-center mb-8 md:mb-12">
-            <h2 class="text-2xl md:text-4xl font-bold text-gray-900 dark:text-white mb-3 md:mb-4">
+          <div class="mb-8 md:mb-10">
+            <h2 class="font-display text-2xl md:text-4xl font-bold text-gray-900 dark:text-white mb-3 md:mb-4">
               {{ locale === 'ar' ? 'مكونات وتفاصيل' : 'Components & Details' }}
             </h2>
-            <div class="h-1 w-20 md:w-24 bg-primary mx-auto rounded-full"></div>
+            <div class="h-1 w-16 bg-primary"></div>
           </div>
           
           <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-10">
             <div 
               v-for="(featImg, idx) in product.featureImages" 
               :key="idx"
-              class="bg-white dark:bg-gray-800 rounded-2xl shadow-lg border border-gray-100 dark:border-gray-700 overflow-hidden group"
+              class="bg-white dark:bg-gray-800 rounded-xl border border-[#E1E3E3] dark:border-gray-700 overflow-hidden group"
               data-aos="fade-up"
               :data-aos-delay="idx * 100"
             >
@@ -250,26 +243,26 @@
 
         <!-- Comparison across sibling products (data/comparisons.json), e.g. the four Garsite refuellers -->
         <section v-if="comparison" class="mt-16 md:mt-20" data-aos="fade-up" aria-labelledby="product-compare-title">
-          <div class="text-center mb-8 md:mb-10">
-            <h2 id="product-compare-title" class="text-2xl md:text-4xl font-bold text-gray-900 dark:text-white mb-3 md:mb-4">{{ comparison.title[locale] }}</h2>
-            <div class="h-1 w-20 md:w-24 bg-primary mx-auto rounded-full"></div>
+          <div class="mb-8 md:mb-10">
+            <h2 id="product-compare-title" class="font-display text-2xl md:text-4xl font-bold text-gray-900 dark:text-white mb-3 md:mb-4">{{ comparison.title[locale] }}</h2>
+            <div class="h-1 w-16 bg-primary"></div>
           </div>
           <p class="max-w-4xl mx-auto text-gray-600 dark:text-gray-300 leading-relaxed mb-6 text-center">{{ comparison.intro[locale] }}</p>
-          <div class="overflow-x-auto bg-white dark:bg-gray-800 rounded-2xl shadow border border-gray-100 dark:border-gray-700">
-            <table class="w-full min-w-[640px] text-sm md:text-base">
+          <div class="bp overflow-x-auto">
+            <table class="min-w-[640px]">
               <thead>
-                <tr class="bg-gray-50 dark:bg-gray-900">
-                  <th class="p-4 text-start font-bold text-gray-700 dark:text-gray-300"></th>
-                  <th v-for="(col, ci) in comparison.columns" :key="col" class="p-4 text-start font-bold" :class="col === product.id ? 'bg-[#E99E15]/15 text-gray-900 dark:text-white' : 'text-gray-700 dark:text-gray-300'">
+                <tr>
+                  <th></th>
+                  <th v-for="(col, ci) in comparison.columns" :key="col" :class="col === product.id ? 'bg-[#E99E05]/15 !text-gray-900 dark:!text-white' : ''">
                     <span v-if="col === product.id">{{ comparison.columnLabels[ci][locale] }} ({{ locale === 'ar' ? 'هذه الشاحنة' : 'this truck' }})</span>
                     <NuxtLink v-else :to="localePath(`/products/${col}`)" class="text-primary hover:underline">{{ comparison.columnLabels[ci][locale] }}</NuxtLink>
                   </th>
                 </tr>
               </thead>
               <tbody>
-                <tr v-for="(row, ri) in comparison.rows" :key="ri" class="border-t border-gray-100 dark:border-gray-700">
-                  <th scope="row" class="p-4 text-start font-bold text-gray-800 dark:text-gray-200 whitespace-nowrap">{{ row.label[locale] }}</th>
-                  <td v-for="(val, vi) in row.values" :key="vi" class="p-4 text-gray-700 dark:text-gray-300" :class="comparison.columns[vi] === product.id ? 'bg-[#E99E15]/10 font-semibold' : ''">{{ val[locale] }}</td>
+                <tr v-for="(row, ri) in comparison.rows" :key="ri">
+                  <th scope="row" class="font-bold text-gray-800 dark:text-gray-200 whitespace-nowrap">{{ row.label[locale] }}</th>
+                  <td v-for="(val, vi) in row.values" :key="vi" class="bp-num text-gray-700 dark:text-gray-300" :class="comparison.columns[vi] === product.id ? 'bg-[#E99E05]/10 font-bold' : ''">{{ val[locale] }}</td>
                 </tr>
               </tbody>
             </table>
@@ -279,14 +272,14 @@
 
         <!-- FAQ (GEO): visible questions and answers, mirrored in FAQPage structured data -->
         <section v-if="faqItems.length" class="mt-16 md:mt-20 max-w-4xl mx-auto" data-aos="fade-up" aria-labelledby="product-faq-title">
-          <div class="text-center mb-8 md:mb-12">
-            <h2 id="product-faq-title" class="text-2xl md:text-4xl font-bold text-gray-900 dark:text-white mb-3 md:mb-4">
+          <div class="mb-8 md:mb-10">
+            <h2 id="product-faq-title" class="font-display text-2xl md:text-4xl font-bold text-gray-900 dark:text-white mb-3 md:mb-4">
               {{ locale === 'ar' ? 'الأسئلة الشائعة' : 'Frequently Asked Questions' }}
             </h2>
-            <div class="h-1 w-20 md:w-24 bg-primary mx-auto rounded-full"></div>
+            <div class="h-1 w-16 bg-primary"></div>
           </div>
           <div class="space-y-4">
-            <div v-for="(item, idx) in faqItems" :key="idx" class="bg-white dark:bg-gray-800 rounded-2xl shadow border border-gray-100 dark:border-gray-700 p-5 md:p-7">
+            <div v-for="(item, idx) in faqItems" :key="idx" class="bg-white dark:bg-gray-800 rounded-xl border border-[#E1E3E3] dark:border-gray-700 p-5 md:p-7">
               <h3 class="text-lg md:text-xl font-bold text-gray-900 dark:text-white mb-2">{{ item.q }}</h3>
               <p class="text-base md:text-lg text-gray-600 dark:text-gray-300 leading-relaxed">{{ item.a }}</p>
             </div>
@@ -294,9 +287,9 @@
         </section>
 
         <!-- Quote Form Section -->
-        <div id="quote-form" class="mt-16 md:mt-24 bg-white dark:bg-gray-800 rounded-3xl shadow-2xl border border-gray-100 dark:border-gray-700 p-6 md:p-16 max-w-4xl mx-auto" data-aos="fade-up">
-          <div class="text-center mb-8 md:mb-10">
-            <h2 class="text-2xl md:text-4xl font-black text-gray-900 dark:text-white mb-3 md:mb-4">
+        <div id="quote-form" class="mt-16 md:mt-24 bg-white dark:bg-gray-800 rounded-xl border border-[#E1E3E3] dark:border-gray-700 p-6 md:p-16 max-w-4xl mx-auto" data-aos="fade-up">
+          <div class="mb-8 md:mb-10">
+            <h2 class="font-display text-2xl md:text-4xl font-black text-gray-900 dark:text-white mb-3 md:mb-4">
               {{ locale === 'ar' ? 'طلب عرض سعر للمنتج' : 'Request a Quote for this Product' }}
             </h2>
             <p class="text-base md:text-lg text-gray-500 dark:text-gray-400">
@@ -345,7 +338,7 @@
               <textarea id="q-message" v-model="form.message" rows="4" :placeholder="locale === 'ar' ? 'الكمية، المقاسات، موعد التنفيذ...' : 'Quantity, sizes, timeline...'" class="w-full px-4 py-3 md:px-5 md:py-4 bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-700 rounded-xl focus:ring-2 focus:ring-primary outline-none text-gray-900 dark:text-white transition resize-none"></textarea>
             </div>
 
-            <button type="submit" :disabled="loading" class="w-full bg-primary text-white py-4 md:py-5 rounded-xl font-bold text-lg md:text-xl hover:bg-orange-600 transition shadow-lg hover:shadow-primary/40 disabled:opacity-50">
+            <button type="submit" :disabled="loading" class="w-full bg-primary text-[#191919] py-4 md:py-5 rounded-[10px] font-extrabold text-lg md:text-xl hover:bg-[#d08f04] transition disabled:opacity-50">
               <span v-if="loading">{{ locale === 'ar' ? 'جاري الإرسال...' : 'Sending...' }}</span>
               <span v-else>{{ locale === 'ar' ? 'إرسال الطلب' : 'Submit Request' }}</span>
             </button>
@@ -657,7 +650,7 @@ onUnmounted(() => {
   background: transparent;
 }
 .custom-scrollbar::-webkit-scrollbar-thumb {
-  background-color: #E99E15;
+  background-color: #E99E05;
   border-radius: 10px;
 }
 

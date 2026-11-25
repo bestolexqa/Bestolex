@@ -21,7 +21,7 @@
           <span>{{ locale === 'ar' ? 'العودة إلى المدونة' : 'Back to Blog' }}</span>
         </NuxtLink>
 
-        <span class="bg-[#121c2d] dark:bg-gray-800 text-[#E99E15] font-black text-xs px-4 py-1.5 rounded-full border border-[#E99E15]/30">
+        <span class="bg-[#191919] dark:bg-gray-800 text-[#E99E05] font-black text-xs px-4 py-1.5 rounded-full border border-[#E99E05]/30">
           {{ article.category[locale] }}
         </span>
       </div>
@@ -111,7 +111,7 @@
       </section>
 
       <!-- Call to Action Banner inside Article -->
-      <div class="bg-gradient-to-r from-[#121c2d] to-[#1e2d42] text-white rounded-3xl p-8 md:p-10 shadow-2xl text-center mb-16" data-aos="fade-up">
+      <div class="bg-gradient-to-r from-[#191919] to-[#1e2d42] text-white rounded-3xl p-8 md:p-10 shadow-2xl text-center mb-16" data-aos="fade-up">
         <h3 class="text-2xl md:text-3xl font-black mb-4">
           {{ locale === 'ar' ? 'هل تحتاج استشارة هندسية لمشروعك؟' : 'Need Technical Advice for Your Project?' }}
         </h3>
@@ -398,12 +398,12 @@ useHead(() => ({
 }
 
 .article-content :deep(a) {
-  color: #E99E15;
+  color: #E99E05;
   text-decoration: underline;
 }
 
 .article-content :deep(blockquote) {
-  border-inline-start: 4px solid #E99E15;
+  border-inline-start: 4px solid #E99E05;
   padding-inline-start: 1rem;
   margin: 1.5em 0;
   font-style: italic;
