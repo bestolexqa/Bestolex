@@ -3483,14 +3483,14 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/movable-scissors-lifts/1.png",
         "description": {
-          "ar": "الرافعة المقصية الهيدروليكية المتحركة من ساب تكـ هي رافعة منصية شائعة تستخدم لأنواع مختلفة من أعمال الصيانة والمشاريع التي يصل ارتفاعها إلى 14 متر توفير سهولة المناورة في المساحات الضيقة للتطبيقات الداخلية والخارجية على الأسطح الثابتة والمستوية.\nفهي توفر الجودة والمتانة مع تحسين التكلفة الإجمالية للملكية والإنتاجية. توفر نظام محرك التيار المتردد الاختياري إنتاجية لا مثيل لها للتنقل في مواقع العمل الداخلية والخارجية بطريقة مدمجة وخفيفة الوزن ومتعددة الاستخدامات.",
-          "en": "SAB TECH’s Hydraulic Movable Scissor Lift is a popular aerial platform lift which is used for different kind of maintenance and projects jobs up to 14 meters working height. Providing easy maneuverability in tight spaces for indoor and outdoor applications on firm and level surfaces.\nIt delivers quality and durability while improving total cost of ownership and productivity. The optional AC drive system offers unmatched productivity for getting around at indoor and outdoor jobsites in a compact, lightweight, and versatile manner."
+          "ar": "الرافعة المقصية الهيدروليكية المتحركة من ساب تك مناسبة لأعمال الصيانة والمشاريع على الارتفاعات، داخل المباني وخارجها على أسطح ثابتة ومستوية، بثلاثة موديلات يرتفع فيها مستوى المنصة إلى 9 و11 و14 متراً، وحمولة 500 كجم.\nترفع الأحمال وتنقلها بأمان بين المواقع، وتأتي بلوحة تحكم وجهاز تحكم عن بعد وحواجز أمان حول المنصة وأذرع ارتكاز للتثبيت ومقبض للسحب، والتشغيل بالبطارية اختياري.",
+          "en": "SAB TECH's hydraulic movable scissor lift suits maintenance and project work at height, indoors or outdoors on firm, level surfaces, in three models with a raised platform height of 9, 11 or 14 m and a 500 kg capacity.\nIt raises loads and moves them safely between locations, with a control panel, remote control, safety rails around the platform, outriggers for stability and a pull lever; battery operation is optional."
         },
         "features": {
           "ar": [
-            "مثالية للأعمال الهوائية والصيانة الداخلية والخارجية حتى ارتفاع 14 متر",
-            "عناصر تحكم ومفاتيح تشغيل على مستوى الأرض والمنصة",
-            "منصة ممتدة توفر مساحة عمل أكبر للعمال والمعدات",
+            "مناسبة للأعمال على الارتفاعات داخل المباني وخارجها، بارتفاع منصة حتى 14 متراً",
+            "لوحة تحكم وجهاز تحكم عن بعد",
+            "وحدة هيدروليك وصندوق أدوات وعجلات صلبة",
             "أربع ركائز (أذرع ميكانيكية) لتشغيل مستقر وآمن تمامًا",
             "حاجز أمان متين وشديد التحمل محيط بالمنصة",
             "سهولة السحب والمناورة بين مواقع العمل بكل يسر",
@@ -3498,9 +3498,9 @@
             "خدمة ما بعد البيع مع توفر قطع الغيار وضمان لمدة سنة واحدة"
           ],
           "en": [
-            "Ideal for indoor and outdoor aerial work up to 14m working height",
-            "Controls at ground and platform level for maximum operation flexibility",
-            "Extended platform for larger working area and equipment",
+            "For indoor and outdoor work at height, with a raised platform height up to 14 m",
+            "Control panel and remote control",
+            "Hydraulic power pack, tool box and solid tyres",
             "Four mechanical outriggers for stable and safe operation",
             "Durable safety rail surrounding the platform",
             "Easy to tow and maneuver from place to place",
@@ -3577,7 +3577,7 @@
               "value": "500 كجم"
             },
             {
-              "label": "ارتفاع الرفع",
+              "label": "ارتفاع المنصة عند الرفع",
               "value": "9000 مم | 11000 مم | 14000 مم"
             },
             {
@@ -3601,10 +3601,6 @@
               "value": "2000×1000 مم | 2150×1200 مم | 2600×1500 مم"
             },
             {
-              "label": "الوزن الكلي",
-              "value": "1500 كجم | 1420 كجم | 2500 كجم"
-            },
-            {
               "label": "التشغيل بالبطارية",
               "value": "اختياري (Optional)"
             }
@@ -3619,7 +3615,7 @@
               "value": "500 kg"
             },
             {
-              "label": "Raised Height",
+              "label": "Raised Platform Height",
               "value": "9000 mm | 11000 mm | 14000 mm"
             },
             {
@@ -3641,10 +3637,6 @@
             {
               "label": "Overall Dimensions",
               "value": "2000×1000 mm | 2150×1200 mm | 2600×1500 mm"
-            },
-            {
-              "label": "Total Weight",
-              "value": "1500 kg | 1420 kg | 2500 kg"
             },
             {
               "label": "Battery Operated",
@@ -3694,24 +3686,24 @@
         "cardImage": "https://cdn.bestolex.com/bestolex/products/movable-scissors-lifts/1.png",
         "seo": {
           "title": {
-            "en": "Mobile Scissor Lift up to 14 m Working Height",
-            "ar": "رافعة مقصية متحركة حتى 14 متراً ارتفاع عمل"
+            "en": "Mobile Scissor Lift up to 14 m Platform Height",
+            "ar": "رافعة مقصية متحركة بارتفاع منصة حتى 14 متراً"
           },
           "description": {
-            "en": "Movable hydraulic scissor lift platform for maintenance and project work up to 14 m working height, indoors or outdoors on firm, level ground. Get a quote.",
-            "ar": "منصة رافعة مقصية هيدروليكية متحركة لأعمال الصيانة والمشاريع حتى ارتفاع عمل 14 متراً، داخل المباني وخارجها على أرض صلبة ومستوية. اطلب عرض سعر."
+            "en": "Movable hydraulic scissor lift for maintenance and project work, with a raised platform height of 9, 11 or 14 m, indoors or outdoors on firm, level ground. Get a quote.",
+            "ar": "رافعة مقصية هيدروليكية متحركة لأعمال الصيانة والمشاريع، بارتفاع منصة 9 أو 11 أو 14 متراً، داخل المباني وخارجها على أرض ثابتة ومستوية. اطلب عرض سعر."
           }
         },
         "brand": "SAB TECH",
         "summary": {
-          "ar": "رافعة مقصية متحركة لأعمال الصيانة والمشاريع على الارتفاعات، داخل المباني وخارجها على أرض ثابتة ومستوية، بثلاثة موديلات حتى 9 و11 و14 متراً وحمولة منصة 500 كجم، مع أربع ركائز للثبات وحاجز أمان حول المنصة. تورّدها بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
-          "en": "A movable scissor lift for maintenance and project work at height, indoors or outdoors on firm, level ground, in three models up to 9, 11 and 14 metres with a 500 kg platform load, four outriggers and a guardrail. Supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
+          "ar": "رافعة مقصية متحركة لأعمال الصيانة والمشاريع على الارتفاعات، داخل المباني وخارجها على أرض ثابتة ومستوية، بثلاثة موديلات يرتفع فيها مستوى المنصة إلى 9 و11 و14 متراً وحمولة 500 كجم، مع أربع ركائز للثبات وحاجز أمان حول المنصة. تورّدها بيستوليكس، الوكيل الحصري لمنتجات ساب تك في قطر.",
+          "en": "A movable scissor lift for maintenance and project work at height, indoors or outdoors on firm, level ground, in three models with a raised platform height of 9, 11 and 14 m and a 500 kg platform load, four outriggers and a guardrail. Supplied by Bestolex, the exclusive SAB TECH agent in Qatar."
         },
         "faq": {
           "ar": [
             {
               "q": "ما الموديلات والارتفاعات المتاحة؟",
-              "a": "ثلاثة موديلات: MSL9M0.5t وMSL11M0.5t وMSL14M0.5t، حتى 9 و11 و14 متراً."
+              "a": "ثلاثة موديلات: MSL9M0.5t وMSL11M0.5t وMSL14M0.5t، يرتفع فيها مستوى المنصة إلى 9 و11 و14 متراً."
             },
             {
               "q": "كم تتحمل المنصة؟",
@@ -3737,7 +3729,7 @@
           "en": [
             {
               "q": "Which models and heights are available?",
-              "a": "Three models, MSL9M0.5t, MSL11M0.5t and MSL14M0.5t, up to 9, 11 and 14 metres."
+              "a": "Three models, MSL9M0.5t, MSL11M0.5t and MSL14M0.5t, with a raised platform height of 9, 11 and 14 m."
             },
             {
               "q": "How much can the platform carry?",
@@ -7858,128 +7850,149 @@
       {
         "id": "industrial-sectional-doors",
         "name": {
-          "ar": "أبواب صناعية شرائح",
+          "ar": "أبواب صناعية مقطعية",
           "en": "Industrial Sectional Doors"
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/1.png",
         "description": {
-          "ar": "الأبواب الصناعية الشرائح من ساب تكـ هي الحل الأنسب والأنموذجي للمستودعات والمصانع ومراكز التوزيع والمستودعات المبردة لحفظ الطاقة والعزل الحراري والصوتي.\nمصنوعة من ألواح الساندوتش بانل (Sandwich Panels) عالية الجودة المحشوة بمادة البولي يوريثان العازلة بكثافة عالية، وتفتح عمودياً إلى الأعلى لتوفير أقصى مساحة ممكنة للمرور والاستخدام.\nمزودة بنظام توازن زنبركي حلزوني متين ومحرك كهربائي صناعي، مع أنظمة حديثة وموثوقة أمان متطورة تمنع سقوط الباب في حالة كسر الكيبل أو النوابض.",
-          "en": "SABTECH’s Industrial Sectional Doors offer the ideal solution for warehouses, factories, distribution centers, and cold storage facilities requiring superior thermal and acoustic insulation.\nConstructed with high-density polyurethane sandwich panels and rugged galvanized steel skins, opening vertically upwards to maximize clear passage height and space utilization.\nEquipped with heavy-duty spring counterbalancing mechanisms, industrial electric drives, and advanced anti-drop safety devices."
+          "ar": "توفر الأبواب الصناعية المقطعية من بيستوليكس عزلاً حرارياً وصوتياً، وهي مصممة للمستودعات والمراكز اللوجستية وفصل المساحات وأي نوع من المنشآت.\nألواحها موفرة للطاقة بسماكة 40 مم، بطلاء أساس وزنك على الفولاذ وإحكام ضد الرياح والماء، وتتوفر بأنواع رفع عمودي ومرتفع وقياسي وبلون يختاره العميل.\nتفتح بسرعة 1.1 م/ث وتغلق بسرعة 0.5 م/ث بمحرك قدرته 0.7 كيلوواط، ومزودة بجهاز أمان عند انقطاع الكابل ونابض أمان للإيقاف وقفل أمان يغلق الباب من الداخل.",
+          "en": "Bestolex industrial sectional doors provide thermal and acoustic insulation and are designed for warehouses, logistics centres, space separation and any type of installation.\nThey use energy-efficient 40 mm panels with a primer, zinc and steel finish and wind- and waterproof seals, come in vertical, high and standard lift types, and are finished in the customer's choice of colour.\nThey open at 1.1 m/s and close at 0.5 m/s with a 0.7 kW motor, and include a cable-break safety device, a spring-break safety device and a safety latch lock that locks the door from inside."
         },
         "features": {
           "ar": [
-            "عزل حراري وصوتي عالي الكفاءة بفضل حشوة البولي يوريثان عالية الكثافة (40 كجم/م³)",
-            "ألواح ساندوتش بانل مصفحة ومقاومة للصدأ والتآكل والرياح القوية وعالية الأداء",
-            "أنظمة حديثة وموثوقة أمان مدمجة لحماية ضد كسر كابلات الرفع وكسر نوابض التوازن",
-            "إمكانية دمج باب مشاة جانبي أو نوافذ زجاجية شفافة للمعاينة والرؤية",
-            "تشغيل أوتوماتيكي محرك صناعي سلس مع إمكانية الفتح اليدوي للطوارئ",
-            "خدمة ما بعد البيع متكاملة وتوفر قطع الغيار الأصلية مع ضمان سنة كاملة"
+            "ألواح موفرة للطاقة بسماكة 40 مم بعزل حراري وصوتي",
+            "مقاومة رياح وعزل ماء من الفئة 3",
+            "مسارات جانبية متينة بسماكة 2 مم وزاوية عمودية",
+            "جهاز أمان عند انقطاع الكابل ونابض أمان للإيقاف",
+            "قفل أمان يغلق الباب من الداخل",
+            "ألوان يختارها العميل",
+            "خدمة ما بعد البيع من بيستوليكس مع توفر قطع الغيار"
           ],
           "en": [
-            "High-efficiency thermal and acoustic insulation with 40 kg/m³ density polyurethane core",
-            "Armoured galvanized steel sandwich panels resistant to wind load and corrosion",
-            "Integrated safety mechanisms against cable snapping and spring breakdown",
-            "Optional built-in pedestrian pass door or transparent vision windows",
-            "Smooth industrial electric motor operation with manual emergency chain release",
-            "Comprehensive after-sales service, genuine spare parts availability, and 1-year warranty"
+            "Energy-efficient 40 mm panels with thermal and acoustic insulation",
+            "Wind resistance and water tightness Class 3",
+            "Sturdy 2 mm side tracks and vertical angle",
+            "Cable-break and spring-break safety devices",
+            "Safety latch lock that locks the door from inside",
+            "Colour of the customer's choice",
+            "After-sales service and spare parts from Bestolex"
           ]
         },
         "featureImages": [
           {
             "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/devices-against-cable-v0.1.jpg",
             "label": {
-              "ar": "أجهزة أمان ضد كسر الكيابل والنوابض",
-              "en": "Anti-Drop Safety Devices"
-            }
-          },
-          {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/double-hardware-for-big-doors-v0.1.jpg",
-            "label": {
-              "ar": "تجهيزات فولاذية مزدوجة للأبواب الكبيرة",
-              "en": "Double Hardware for Heavy Doors"
-            }
-          },
-          {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/glassed-door-with-padestrian-door-v0.1.jpg",
-            "label": {
-              "ar": "شرائح زجاجية مع باب مشاة مدمج",
-              "en": "Glassed Panels with Pedestrian Door"
+              "ar": "أجهزة أمان عند انقطاع الكابل وكسر النابض",
+              "en": "Cable-Break & Spring-Break Safety Devices"
             }
           },
           {
             "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/safety-hook-which-locks-the-door-from-inside-v0.1.jpg",
             "label": {
-              "ar": "خطاف أمان متطور لقفل الباب من الداخل",
-              "en": "Interior Safety Locking Hook"
-            }
-          },
-          {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/support-omega-for-big-doors-v0.1.jpg",
-            "label": {
-              "ar": "دعامة أوميغا الصلبة للأبواب العملاقة",
-              "en": "Omega Reinforcement Beam"
+              "ar": "قفل أمان يغلق الباب من الداخل",
+              "en": "Safety Latch Lock from Inside"
             }
           }
         ],
         "specs": {
           "ar": [
             {
-              "label": "سماكة ألواح الباب",
-              "value": "40 – 80 مم ساندوتش بانل"
+              "label": "سماكة المقطع",
+              "value": "40 مم"
             },
             {
-              "label": "كثافة عزل البولي يوريثان",
-              "value": "40 كجم / م³ CFC Free"
+              "label": "الطلاء",
+              "value": "طلاء أساس وزنك على الفولاذ (Primer, Zinc & Steel)"
+            },
+            {
+              "label": "أنواع الرفع",
+              "value": "عمودي، مرتفع، قياسي"
+            },
+            {
+              "label": "الإحكام",
+              "value": "ضد الرياح والماء"
+            },
+            {
+              "label": "سرعة الفتح",
+              "value": "1.1 م / ثانية"
+            },
+            {
+              "label": "سرعة الإغلاق",
+              "value": "0.5 م / ثانية"
             },
             {
               "label": "مقاومة الرياح",
-              "value": "Class 3 – 4 (حسب مقاس الباب)"
+              "value": "الفئة 3"
+            },
+            {
+              "label": "عزل الماء",
+              "value": "الفئة 3"
+            },
+            {
+              "label": "قدرة المحرك",
+              "value": "0.7 كيلوواط"
+            },
+            {
+              "label": "الحماية الحرارية للمحرك",
+              "value": "120° م"
             },
             {
               "label": "مصدر الكهرباء والطاقة",
               "value": "240/415V, 3Phase, 50Hz"
             },
             {
-              "label": "سرعة الفتح والرفع",
-              "value": "0.25 – 0.35 م / ثانية"
-            },
-            {
-              "label": "نظام السلامة والأمان",
-              "value": "حساس فوتوسيل سفلي ونظام أمان الكيابل"
-            },
-            {
               "label": "درجة حرارة التشغيل",
-              "value": "من -30° م إلى +65° م"
+              "value": "من -20° م إلى +45° م"
             }
           ],
           "en": [
             {
-              "label": "Panel Thickness",
-              "value": "40 – 80 mm Sandwich Panel"
+              "label": "Section Thickness",
+              "value": "40 mm"
             },
             {
-              "label": "Insulation Core Density",
-              "value": "40 kg/m³ CFC-Free Polyurethane"
+              "label": "Finish",
+              "value": "Primer, Zinc & Steel"
             },
             {
-              "label": "Wind Resistance Class",
-              "value": "Class 3 – 4 (EN 12424 standard)"
+              "label": "Lift Types",
+              "value": "Vertical, High & Standard"
+            },
+            {
+              "label": "Seals",
+              "value": "Wind & waterproof"
+            },
+            {
+              "label": "Opening Speed",
+              "value": "1.1 m/s"
+            },
+            {
+              "label": "Closing Speed",
+              "value": "0.5 m/s"
+            },
+            {
+              "label": "Wind Resistance",
+              "value": "Class 3"
+            },
+            {
+              "label": "Water Tightness",
+              "value": "Class 3"
+            },
+            {
+              "label": "Motor Power",
+              "value": "0.7 kW"
+            },
+            {
+              "label": "Motor Thermal Protection",
+              "value": "120 °C"
             },
             {
               "label": "Power Supply",
               "value": "240/415V, 3Phase, 50Hz"
             },
             {
-              "label": "Operating Speed",
-              "value": "0.25 – 0.35 m/s"
-            },
-            {
-              "label": "Safety Devices",
-              "value": "Bottom safety edge & cable break devices"
-            },
-            {
-              "label": "Operating Temp",
-              "value": "-30°C to +65°C"
+              "label": "Working Temp",
+              "value": "-20 °C to +45 °C"
             }
           ]
         },
@@ -7996,7 +8009,7 @@
           "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/component-interior-safety-locking-hook.png",
           "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/component-omega-reinforcement-beam.png"
         ],
-        "pdf": "https://drive.google.com/file/d/1sG2BiEIcNtM0XTh7BhddA6kJgZUyvn1D/view?usp=drivesdk",
+        "pdf": "https://drive.google.com/file/d/1sG2BiEleNtMOXTh7BhddA6kJgZUyvn1D/view?usp=drivesdk",
         "image": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/1.png",
         "seo": {
@@ -8018,45 +8031,40 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/1.png",
         "description": {
-          "ar": "الأبواب عالية السرعة من ساب تكـ هي أبواب رول أوتوماتيكية سريعة الفتح والإغلاق مصممة لزيادة كفاءة العمليات اللوجستية وتقليل فترات الانتظار والحفاظ على الحرارة والتكييف الداخلي.\nتتميز بستائر قماشية مقواة بولي فينيل كلورايد (PVC) مرنة ومتينة تفتح بسرعة تصل إلى 2.0 متر في الثانية، مما يجعلها مثالية للرافعات الشوكية وحركة البضائع المكثفة والمستودعات الدوائية والأغذية.\nمزودة بشريط أمان كهرومغناطيسي سفلي وحساسات فوتوسيل تضمن أقصى أمان للعمال والآلات أثناء الحركة الفائقة.",
-          "en": "SABTECH’s High Speed Doors are automated fast-roll curtains engineered for heavy-duty industrial logistics, reducing wait times, and controlling indoor climates.\nFeaturing flexible high-tenacity PVC canvases opening at speeds up to 2.0 m/s, perfectly suited for forklift traffic, cleanrooms, food processing, and pharmaceutical cold storage.\nEquipped with electric safety edge bands and photocell sensors ensuring maximum worker and vehicle protection during high-speed operation."
+          "ar": "أبواب الرول عالية السرعة من بيستوليكس مناسبة لمناطق الحركة الكثيفة التي تحتاج فتحاً وإغلاقاً سريعين، بسرعة فتح وإغلاق تقارب 1.0 متر في الثانية ومقاس يصل إلى 4000 × 4000 مم.\nهيكلها من الألومنيوم وستارتها من قماش PVC عالي المتانة بألوان حسب الطلب، وتُركَّب في المتاجر والمنشآت الصناعية والمراكز اللوجستية ومصانع الأغذية والسيارات، وتتحمل نطاقاً واسعاً من درجات حرارة التشغيل وتحتاج مساحة تركيب صغيرة.\nمزودة بحافة أمان سفلية مرنة وحساس ضوئي (فوتوسيل) وستارة ضوئية للسلامة ونظام حماية من الاصطدام، وتعمل بمحرك ثلاثي الطور غير متزامن مع لوحة تحكم وجهاز تحكم عن بعد.",
+          "en": "Bestolex high-speed roll-up doors suit high-traffic areas that need fast opening and closing, at about 1.0 m/s in both directions and in sizes up to 4,000 × 4,000 mm.\nThey have an aluminium frame and a high-strength PVC curtain in customizable colours, fit stores and installations in any industrial sector, including logistics, foodstuff and automotive, withstand a wide range of operating temperatures and need minimal installation space.\nSafety comes from a soft, flexible bottom safety edge, a photocell, a light safety curtain and an anti-collision system, and the door is driven by an efficient 3-phase asynchronous motor with a control panel and remote controller."
         },
         "features": {
           "ar": [
-            "سرعة فتح فائقة تصل إلى 2.0 متر/ثانية لتقليل ضياع الطاقة والتكييف",
-            "ستائر PVC مقواة عالية التحمل مع خيارات نوافذ شفافة للرؤية والمعاينة",
-            "حافة أمان كهربائية سفلى وحساسات فوتوسيل تمنع الاصطدام بالكامل",
-            "محرك ترسي صناعي ذكي مع لوحة تحكم أوتوماتيكية متعددة السرعات",
-            "خدمة ما بعد البيع متكاملة وتوفر قطع الغيار الأصلية مع ضمان سنة كاملة"
+            "سرعة فتح وإغلاق تقارب 1.0 متر في الثانية",
+            "مقاس يصل إلى 4000 × 4000 مم ومقاومة رياح حتى الفئة 5",
+            "ستارة PVC عالية المتانة بألوان حسب الطلب وهيكل من الألومنيوم",
+            "حافة أمان مرنة وحساس ضوئي وستارة ضوئية للسلامة ونظام حماية من الاصطدام",
+            "محرك ثلاثي الطور غير متزامن مع لوحة تحكم وجهاز تحكم عن بعد",
+            "خدمة ما بعد البيع من بيستوليكس مع توفر قطع الغيار"
           ],
           "en": [
-            "Ultra-fast opening speed up to 2.0 m/s minimizing energy and climate loss",
-            "Heavy-duty reinforced PVC curtain with optional transparent vision panels",
-            "Electric safety edge bottom band and photocell sensors for crash prevention",
-            "Intelligent industrial geared motor with multi-speed inverter control panel",
-            "Comprehensive after-sales service, genuine spare parts availability, and 1-year warranty"
+            "Opening and closing at about 1.0 m/s",
+            "Sizes up to 4,000 × 4,000 mm, wind resistance up to Class 5",
+            "High-strength PVC curtain in custom colours on an aluminium frame",
+            "Soft safety edge, photocell, light safety curtain and anti-collision system",
+            "Efficient 3-phase asynchronous motor with control panel and remote controller",
+            "After-sales service and spare parts from Bestolex"
           ]
         },
         "featureImages": [
           {
             "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/Completely-customised-canvases_v0.1.jpg",
             "label": {
-              "ar": "ستائر PVC مخصصة بألوان ونوافذ متعددة",
-              "en": "Customized High-Speed PVC Canvases"
+              "ar": "ستائر PVC بألوان حسب الطلب",
+              "en": "Customized PVC Canvases"
             }
           },
           {
             "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/Electric-safety-band_v0.1.png",
             "label": {
-              "ar": "شريط أمان حافة سفلي كهربائي حاسي",
-              "en": "Electric Safety Edge Band"
-            }
-          },
-          {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/Geared-motor_v0.1.jpg",
-            "label": {
-              "ar": "محرك ترسي عالي السرعة والأداء",
-              "en": "High-Speed Geared Motor"
+              "ar": "حافة أمان سفلية مرنة",
+              "en": "Soft & Flexible Safety Edge"
             }
           },
           {
@@ -8077,62 +8085,86 @@
         "specs": {
           "ar": [
             {
-              "label": "سرعة الفتح والرفع",
-              "value": "1.2 – 2.0 متر / ثانية"
+              "label": "المقاس الأقصى",
+              "value": "4000 × 4000 مم"
             },
             {
-              "label": "مادة الستارة والقماش",
-              "value": "بولي فينيل كلورايد PVC مقوى 900 جم/م²"
+              "label": "سرعة الفتح",
+              "value": "نحو 1.0 م / ثانية"
+            },
+            {
+              "label": "سرعة الإغلاق",
+              "value": "نحو 1.0 م / ثانية"
             },
             {
               "label": "مقاومة الرياح",
-              "value": "Class 2 – 3 (حسب مقاس الباب)"
+              "value": "حتى الفئة 5"
+            },
+            {
+              "label": "الستارة",
+              "value": "قماش PVC عالي المتانة، ألوان حسب الطلب"
+            },
+            {
+              "label": "الهيكل",
+              "value": "ألومنيوم"
+            },
+            {
+              "label": "المحرك",
+              "value": "محرك ثلاثي الطور غير متزامن"
             },
             {
               "label": "مصدر الكهرباء والطاقة",
-              "value": "240V, Single Phase, 50Hz"
-            },
-            {
-              "label": "نوع المحرك",
-              "value": "محرك كهروميكانيكي صناعي مع مغير سرعة Inverter"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "عناصر السلامة",
-              "value": "حافة سفلى حساسة + خلايا ضوئية Photocells"
+              "value": "حافة أمان مرنة، حساس ضوئي، ستارة ضوئية، نظام حماية من الاصطدام"
             },
             {
-              "label": "درجة حرارة التشغيل",
-              "value": "من -15° م إلى +60° م"
+              "label": "التحكم",
+              "value": "لوحة تحكم وجهاز تحكم عن بعد"
             }
           ],
           "en": [
             {
+              "label": "Maximum Size",
+              "value": "4000 × 4000 mm"
+            },
+            {
               "label": "Opening Speed",
-              "value": "1.2 – 2.0 m/s"
+              "value": "~1.0 m/s"
             },
             {
-              "label": "Curtain Material",
-              "value": "High-tenacity PVC 900 g/m²"
+              "label": "Closing Speed",
+              "value": "~1.0 m/s"
             },
             {
-              "label": "Wind Resistance Class",
-              "value": "Class 2 – 3 (EN 12424 standard)"
+              "label": "Wind Class",
+              "value": "Up to Class 5"
+            },
+            {
+              "label": "Curtain",
+              "value": "High-strength PVC, customizable colours"
+            },
+            {
+              "label": "Frame",
+              "value": "Aluminium"
+            },
+            {
+              "label": "Motor",
+              "value": "3-phase asynchronous motor"
             },
             {
               "label": "Power Supply",
-              "value": "240V, Single Phase, 50Hz"
-            },
-            {
-              "label": "Drive Unit",
-              "value": "Industrial geared motor with frequency inverter"
+              "value": "240/415V, 3Phase, 50Hz"
             },
             {
               "label": "Safety Devices",
-              "value": "Conductive safety edge & photocell barrier"
+              "value": "Soft safety edge, photocell, light safety curtain, anti-collision system"
             },
             {
-              "label": "Operating Temp",
-              "value": "-15°C to +60°C"
+              "label": "Control",
+              "value": "Control panel & remote controller"
             }
           ]
         },
@@ -8162,7 +8194,7 @@
           "https://cdn.bestolex.com/bestolex/products/high-speed-doors/component-safety-photocell-sensors.png",
           "https://cdn.bestolex.com/bestolex/products/high-speed-doors/component-superior-quality-speed-geared-motor.png"
         ],
-        "pdf": "https://drive.google.com/file/d/1l_ooCGWRafWITRShPTbhzOws4LMnYjWh/view?usp=drivesdk",
+        "pdf": "https://drive.google.com/file/d/1l_ooCGWRafWiTRShPTbhzOws4LMnYjWh/view?usp=drivesdk",
         "image": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/1.png",
         "seo": {
