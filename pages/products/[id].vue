@@ -309,6 +309,55 @@
         </div>
       </section>
 
+
+      <!-- منتجات ذات صلة -->
+      <section v-if="relatedProducts.length" class="bg-white dark:bg-gray-900" aria-labelledby="product-related-title">
+        <div class="container mx-auto px-4 md:px-8 lg:px-12 py-12 md:py-16">
+          <h2 id="product-related-title" class="font-display text-2xl md:text-3xl font-bold text-[#191919] dark:text-white mb-6">
+            {{ locale === 'ar' ? 'منتجات ذات صلة' : 'Related products' }}
+          </h2>
+          <div class="grid grid-cols-2 lg:grid-cols-4 gap-5">
+            <NuxtLink
+              v-for="rel in relatedProducts"
+              :key="rel.id"
+              :to="localePath(`/products/${rel.id}`)"
+              class="group flex flex-col border border-[#E1E3E3] dark:border-gray-700 rounded-xl overflow-hidden hover:border-[#191919] dark:hover:border-[#E99E05] transition"
+            >
+              <div class="aspect-[4/3] bg-[#F4F5F5] dark:bg-gray-800 flex items-center justify-center p-3">
+                <NuxtImg :src="rel.cardImage || rel.image" :alt="rel.name[locale]" class="w-full h-full object-contain" format="webp" loading="lazy" />
+              </div>
+              <span class="px-4 py-3 text-sm md:text-base font-bold leading-relaxed text-[#191919] dark:text-white">{{ rel.name[locale] }}</span>
+            </NuxtLink>
+          </div>
+        </div>
+      </section>
+
+      <!-- اقرأ قبل أن تقرر -->
+      <section v-if="relatedArticles.length" class="bg-[#F4F5F5] dark:bg-gray-800 border-y border-[#E1E3E3] dark:border-gray-700" aria-labelledby="product-reading-title">
+        <div class="container mx-auto px-4 md:px-8 lg:px-12 py-12 md:py-16">
+          <div class="flex flex-wrap items-baseline justify-between gap-3 mb-6">
+            <h2 id="product-reading-title" class="font-display text-2xl md:text-3xl font-bold text-[#191919] dark:text-white">
+              {{ locale === 'ar' ? 'اقرأ قبل أن تقرر' : 'Read before you decide' }}
+            </h2>
+            <NuxtLink :to="localePath('/blog')" class="text-base font-bold text-[#191919] dark:text-white underline decoration-[#E99E05] decoration-2 underline-offset-4">
+              {{ locale === 'ar' ? 'كل المقالات' : 'All articles' }}
+            </NuxtLink>
+          </div>
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-5">
+            <NuxtLink
+              v-for="art in relatedArticles"
+              :key="art.id"
+              :to="localePath(`/blog/${art.id}`)"
+              class="flex flex-col gap-3 bg-white dark:bg-gray-900 border border-[#E1E3E3] dark:border-gray-700 rounded-xl p-5 hover:border-[#191919] dark:hover:border-[#E99E05] transition"
+            >
+              <span class="text-xs font-bold text-[#E99E05]">{{ art.category?.[locale] || art.category?.ar }}</span>
+              <span class="font-display text-lg font-bold leading-snug text-[#191919] dark:text-white">{{ art.title?.[locale] || art.title?.ar }}</span>
+              <span class="text-sm text-[#5E5F5F] dark:text-gray-400 leading-relaxed">{{ art.desc?.[locale] || art.desc?.ar }}</span>
+            </NuxtLink>
+          </div>
+        </div>
+      </section>
+
       <div class="container mx-auto px-4 md:px-8 lg:px-12 pb-16 md:pb-24">
         <!-- Quote Form Section -->
         <div id="quote-form" class="mt-16 md:mt-24 bg-white dark:bg-gray-800 rounded-xl border border-[#E1E3E3] dark:border-gray-700 p-6 md:p-16 max-w-4xl mx-auto" data-aos="fade-up">
@@ -578,6 +627,39 @@ const categoryName = computed(() => {
 // فلا يُرسم خط بلا رقم من الكتالوج.
 // كتل الأرقام تحت العنوان. النموذج يعتمد عليها، ولا تحمل إلا بيانات موجودة:
 // حقل stats إن وُجد (8 منتجات)، وإلا أقصر ثلاث مواصفات تحمل رقماً من الكتالوج.
+// التصنيف المقابل في المدونة لكل قسم منتجات (الأسماء الخمسة الثابتة في server/utils/blogCategories.ts)
+const BLOG_CATEGORY_BY_PRODUCT_CATEGORY = {
+  'waste-management': 'النفايات وإعادة التدوير',
+  'docking-systems': 'أنظمة التحميل والمستودعات',
+  'perimeter-protection': 'الحماية المحيطية',
+  'industrial-doors': 'الأبواب الصناعية',
+  'other-products': 'المعدات الثقيلة'
+}
+
+// بطاقات المقالات بلا نصوصها، وهي مخزّنة في الخادم خمس دقائق
+const { data: blogCards } = await useFetch('/api/blog', {
+  query: { view: 'list' },
+  key: 'blog-cards-list',
+  default: () => [],
+  server: true
+})
+
+const relatedArticles = computed(() => {
+  const list = Array.isArray(blogCards.value) ? blogCards.value : []
+  if (!list.length) return []
+  const want = BLOG_CATEGORY_BY_PRODUCT_CATEGORY[categoryInfo.value?.id]
+  const same = want ? list.filter(a => (a.category?.ar || a.category) === want) : []
+  const rest = list.filter(a => !same.includes(a))
+  return [...same, ...rest].slice(0, 3)
+})
+
+// منتجات أخرى من القسم نفسه
+const relatedProducts = computed(() => {
+  const cat = mockProducts.find(c => (c.products || []).some(pr => pr.id === route.params.id))
+  if (!cat) return []
+  return (cat.products || []).filter(pr => pr.id !== route.params.id).slice(0, 4)
+})
+
 // فهرس القطع: القطعة المعروضة على المنصة
 const partsList = computed(() => product.value?.featureImages || [])
 const activePart = ref(0)
