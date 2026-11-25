@@ -109,13 +109,13 @@
     },
     {
       "id": "garbage-compactor-buildings-qatar",
-      "status": "planned",
+      "status": "published",
       "category": "النفايات وإعادة التدوير",
       "keyword": {
         "en": "garbage compactor",
         "ar": "ضاغط نفايات",
-        "volume": 30,
-        "kd": 19
+        "volume": 20,
+        "kd": 0
       },
       "angle": "Choosing a garbage compactor for residential towers, hotels, malls and hospitals in Doha and Lusail: vertical 2CY compactor vs refuse compactors for bins and containers; collection frequency, space, hygiene.",
       "products": [
@@ -130,11 +130,13 @@
       "avoidOverlapWith": [
         "ضاغط النفايات الصناعي: الدليل الشامل لاختيار مكبس النفايات الهيدروليكي",
         "الدليل الذكي لإدارة المنشآت الحديثة"
-      ]
+      ],
+      "publishedAt": "2026-11-25T07:00:00+03:00",
+      "file": "server/assets/blog/garbage-compactor-buildings-qatar.json"
     },
     {
       "id": "tyre-killer-in-ground-vs-surface",
-      "status": "planned",
+      "status": "published",
       "category": "الحماية المحيطية",
       "keyword": {
         "en": "tyre killer",
@@ -153,7 +155,9 @@
       ],
       "avoidOverlapWith": [
         "اختيار حواجز أمن المركبات وفق طبيعة التهديد والموقع"
-      ]
+      ],
+      "publishedAt": "2026-11-25T07:05:00+03:00",
+      "file": "server/assets/blog/tyre-killer-in-ground-vs-surface.json"
     },
     {
       "id": "dock-leveler-selection-guide",
