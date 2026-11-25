@@ -39,7 +39,7 @@
                 </span>
               </div>
 
-              <h1 class="font-display text-3xl md:text-4xl lg:text-5xl font-extrabold text-[#191919] dark:text-white leading-tight">
+              <h1 class="font-display text-4xl md:text-5xl font-extrabold text-[#191919] dark:text-white leading-[1.15]">
                 {{ product.name[locale] }}
               </h1>
 
@@ -48,10 +48,10 @@
               </p>
 
               <!-- كتل الأرقام: طبقة المخطط الفني -->
-              <div v-if="product.stats && product.stats[locale]" class="bp grid" :class="product.stats[locale].length > 2 ? 'grid-cols-2 md:grid-cols-3' : 'grid-cols-2'">
-                <div v-for="(stat, i) in product.stats[locale]" :key="i" class="px-4 py-3 border-s border-s-[#191919] dark:border-s-[#6F7070] first:border-s-0">
-                  <div class="bp-num font-display text-xl md:text-2xl font-bold text-[#191919] dark:text-white">{{ stat.value }}</div>
-                  <div class="text-sm text-[#5E5F5F] dark:text-gray-400 mt-0.5">{{ stat.label }}</div>
+              <div v-if="heroFigures.length" class="bp grid" :class="heroFigures.length > 2 ? 'grid-cols-3' : 'grid-cols-2'">
+                <div v-for="(fig, i) in heroFigures" :key="i" class="px-4 py-3 border-s border-s-[#191919] dark:border-s-[#6F7070] first:border-s-0">
+                  <div class="text-xs text-[#5E5F5F] dark:text-gray-400">{{ fig.label }}</div>
+                  <div class="bp-num font-display text-lg md:text-xl font-bold text-[#191919] dark:text-white mt-1">{{ fig.value }}</div>
                 </div>
               </div>
 
@@ -74,8 +74,8 @@
             <!-- الصورة بخط الأبعاد -->
             <div class="w-full lg:w-1/2">
               <figure class="m-0 relative" :class="dimensionSpec ? 'pb-14 ps-16' : ''">
-                <div class="bg-white dark:bg-gray-800 border border-[#E1E3E3] dark:border-gray-700 rounded-xl p-4 md:p-6">
-                  <div class="h-[300px] md:h-[440px] flex items-center justify-center overflow-hidden relative">
+                <div class="bg-[#F4F5F5] dark:bg-gray-800 border border-[#E1E3E3] dark:border-gray-700 rounded-xl p-4 md:p-6">
+                  <div class="aspect-[4/5] md:aspect-[4/4.4] flex items-center justify-center overflow-hidden relative">
                     <transition name="fade">
                       <NuxtImg
                         :key="currentDisplayImage"
@@ -107,14 +107,14 @@
               </figure>
 
               <!-- المصغّرات -->
-              <div v-if="allImages.length > 1" class="flex flex-wrap gap-3 mt-5">
+              <div v-if="allImages.length > 1" class="flex flex-wrap gap-2.5 mt-4">
                 <button
-                  v-for="(img, idx) in allImages"
+                  v-for="(img, idx) in allImages.slice(0, 6)"
                   :key="idx"
                   @click="setCurrentImage(idx)"
                   :aria-label="`${product.name?.[locale]} — ${idx + 1}`"
                   :aria-pressed="currentImageIndex === idx"
-                  class="w-16 h-16 md:w-20 md:h-20 bg-white rounded-lg overflow-hidden border p-1.5 transition"
+                  class="w-14 h-14 md:w-16 md:h-16 bg-white rounded-lg overflow-hidden border p-1 transition"
                   :class="currentImageIndex === idx ? 'border-[#191919]' : 'border-[#E1E3E3] opacity-70 hover:opacity-100'"
                 >
                   <NuxtImg :src="img" :alt="''" class="w-full h-full object-contain" format="webp" loading="lazy" />
@@ -142,10 +142,7 @@
           <div class="flex flex-col lg:flex-row gap-10 lg:gap-12 items-start">
 
             <div v-if="product.specs && product.specs[locale]" class="w-full" :class="(product.features && product.features[locale]) ? 'lg:w-1/2' : ''">
-              <div class="mb-5">
-                <h2 class="font-display text-2xl md:text-3xl font-bold text-[#191919] dark:text-white mb-3">{{ locale === 'ar' ? 'المواصفات الفنية' : 'Technical Specifications' }}</h2>
-                <div class="h-1 w-16 bg-[#E99E05]"></div>
-              </div>
+              <h2 class="font-display text-2xl md:text-3xl font-bold text-[#191919] dark:text-white mb-5">{{ locale === 'ar' ? 'المواصفات' : 'Specifications' }}</h2>
               <div class="bp">
                 <table>
                   <!-- سطر المصدر يُضاف حين يحمل كل منتج حقل مصدره في data/products.json؛ لا يُكتب مصدر عام غير مؤكد. -->
@@ -161,10 +158,7 @@
             </div>
 
             <div v-if="product.features && product.features[locale]" class="w-full" :class="(product.specs && product.specs[locale]) ? 'lg:w-1/2' : ''">
-              <div class="mb-5">
-                <h2 class="font-display text-2xl md:text-3xl font-bold text-[#191919] dark:text-white mb-3">{{ locale === 'ar' ? 'أهم المميزات' : 'Key Features' }}</h2>
-                <div class="h-1 w-16 bg-[#E99E05]"></div>
-              </div>
+              <h2 class="font-display text-2xl md:text-3xl font-bold text-[#191919] dark:text-white mb-5">{{ locale === 'ar' ? 'أهم المميزات' : 'Key Features' }}</h2>
               <ul class="flex flex-col gap-3">
                 <li v-for="(feature, idx) in product.features[locale]" :key="idx" class="flex items-start gap-3 border border-[#E1E3E3] dark:border-gray-700 rounded-xl p-4 md:p-5 hover:border-[#191919] dark:hover:border-[#E99E05] transition">
                   <span aria-hidden="true" class="mt-0.5 flex-shrink-0 w-6 h-6 rounded-md bg-[#FFF1D4] text-[#191919] flex items-center justify-center">
@@ -182,10 +176,7 @@
       <!-- الرسومات التقنية -->
       <section v-if="product.specDrawings && product.specDrawings.length" class="bg-[#F4F5F5] dark:bg-gray-800 border-y border-[#E1E3E3] dark:border-gray-700">
         <div class="container mx-auto px-4 md:px-8 lg:px-12 py-12 md:py-16">
-          <div class="mb-6">
-            <h2 class="font-display text-2xl md:text-3xl font-bold text-[#191919] dark:text-white mb-3">{{ locale === 'ar' ? 'الرسومات التقنية' : 'Technical Drawings' }}</h2>
-            <div class="h-1 w-16 bg-[#E99E05]"></div>
-          </div>
+          <h2 class="font-display text-2xl md:text-3xl font-bold text-[#191919] dark:text-white mb-6">{{ locale === 'ar' ? 'الرسومات التقنية' : 'Technical Drawings' }}</h2>
           <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
             <figure v-for="(drawing, idx) in product.specDrawings" :key="idx" class="m-0 bg-white dark:bg-gray-900 border border-[#E1E3E3] dark:border-gray-700 rounded-xl overflow-hidden">
               <div class="aspect-square bg-white p-4 flex items-center justify-center">
@@ -200,10 +191,7 @@
       <!-- مكونات وتفاصيل -->
       <section v-if="product.featureImages && product.featureImages.length" class="bg-white dark:bg-gray-900">
         <div class="container mx-auto px-4 md:px-8 lg:px-12 py-12 md:py-16">
-          <div class="mb-6">
-            <h2 class="font-display text-2xl md:text-3xl font-bold text-[#191919] dark:text-white mb-3">{{ locale === 'ar' ? 'مكونات وتفاصيل' : 'Components & Details' }}</h2>
-            <div class="h-1 w-16 bg-[#E99E05]"></div>
-          </div>
+          <h2 class="font-display text-2xl md:text-3xl font-bold text-[#191919] dark:text-white mb-6">{{ locale === 'ar' ? 'مكونات وتفاصيل' : 'Components & Details' }}</h2>
           <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
             <figure v-for="(featImg, idx) in product.featureImages" :key="idx" class="m-0 bg-white dark:bg-gray-800 border border-[#E1E3E3] dark:border-gray-700 rounded-xl overflow-hidden">
               <div class="w-full aspect-[4/3] md:aspect-video overflow-hidden bg-[#F4F5F5] dark:bg-gray-900 flex items-center justify-center p-4">
@@ -218,10 +206,7 @@
       <!-- مقارنة الموديلات -->
       <section v-if="comparison" class="bg-[#F4F5F5] dark:bg-gray-800 border-y border-[#E1E3E3] dark:border-gray-700" aria-labelledby="product-compare-title">
         <div class="container mx-auto px-4 md:px-8 lg:px-12 py-12 md:py-16">
-          <div class="mb-5">
-            <h2 id="product-compare-title" class="font-display text-2xl md:text-3xl font-bold text-[#191919] dark:text-white mb-3">{{ comparison.title[locale] }}</h2>
-            <div class="h-1 w-16 bg-[#E99E05]"></div>
-          </div>
+          <h2 id="product-compare-title" class="font-display text-2xl md:text-3xl font-bold text-[#191919] dark:text-white mb-4">{{ comparison.title[locale] }}</h2>
           <p class="text-base md:text-lg text-[#444545] dark:text-gray-300 leading-relaxed mb-6 max-w-[70ch]">{{ comparison.intro[locale] }}</p>
           <div class="bp overflow-x-auto">
             <table class="min-w-[640px]">
@@ -250,10 +235,7 @@
       <section v-if="faqItems.length" class="bg-white dark:bg-gray-900" aria-labelledby="product-faq-title">
         <div class="container mx-auto px-4 md:px-8 lg:px-12 py-12 md:py-16">
           <div class="max-w-3xl">
-            <div class="mb-5">
-              <h2 id="product-faq-title" class="font-display text-2xl md:text-3xl font-bold text-[#191919] dark:text-white mb-3">{{ locale === 'ar' ? 'الأسئلة الشائعة' : 'Frequently Asked Questions' }}</h2>
-              <div class="h-1 w-16 bg-[#E99E05]"></div>
-            </div>
+            <h2 id="product-faq-title" class="font-display text-2xl md:text-3xl font-bold text-[#191919] dark:text-white mb-5">{{ locale === 'ar' ? 'الأسئلة الشائعة' : 'Frequently Asked Questions' }}</h2>
             <div>
               <details v-for="(item, idx) in faqItems" :key="idx" class="group border-b border-[#E1E3E3] dark:border-gray-700 py-4">
                 <summary class="faq-summary font-display text-lg md:text-xl font-bold text-[#191919] dark:text-white cursor-pointer flex items-start justify-between gap-4">
@@ -534,6 +516,19 @@ const categoryName = computed(() => {
 
 // أول مواصفة تحمل مقاس الآلة. خط الأبعاد على الصورة يظهر فقط حين توجد،
 // فلا يُرسم خط بلا رقم من الكتالوج.
+// كتل الأرقام تحت العنوان. النموذج يعتمد عليها، ولا تحمل إلا بيانات موجودة:
+// حقل stats إن وُجد (8 منتجات)، وإلا أقصر ثلاث مواصفات تحمل رقماً من الكتالوج.
+const heroFigures = computed(() => {
+  const stats = product.value?.stats?.[locale.value]
+  if (stats && stats.length) return stats.slice(0, 3).map(s => ({ value: s.value, label: s.label }))
+  const specs = product.value?.specs?.[locale.value] || []
+  // قيمة قصيرة تحمل رقماً، فتبقى الكتلة سطراً واحداً كما في النموذج
+  return specs
+    .filter(s => /\d/.test(s.value || '') && (s.value || '').length <= 14 && (s.label || '').length <= 18)
+    .slice(0, 3)
+    .map(s => ({ value: s.value, label: s.label }))
+})
+
 const dimensionSpec = computed(() => {
   const specs = product.value?.specs?.[locale.value] || []
   const re = locale.value === 'ar' ? /أبعاد|مقاس/ : /dimension|size/i
