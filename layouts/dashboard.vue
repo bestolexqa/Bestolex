@@ -129,7 +129,8 @@ const navItems = [
   { name: 'الرئيسية والإحصائيات', path: '/dashboard', icon: '📊' },
   { name: 'إدارة المدونة والمقالات', path: '/dashboard/blog', icon: '📝' },
   { name: 'طلبات الأسعار والمواعيد', path: '/dashboard/quotes', icon: '💼' },
-  { name: 'تحميلات الكتيبات والتفاعل', path: '/dashboard/analytics', icon: '📈' }
+  { name: 'تحميلات الكتيبات والتفاعل', path: '/dashboard/analytics', icon: '📈' },
+  { name: 'نقل ملفات ساب تك', path: '/dashboard/rehost-sabtech', icon: '🗂️' }
 ]
 
 const currentTitle = computed(() => {
@@ -139,6 +140,7 @@ const currentTitle = computed(() => {
   if (route.path.startsWith('/dashboard/blog')) return 'إدارة المدونة والمقالات'
   if (route.path.startsWith('/dashboard/quotes')) return 'طلبات عروض الأسعار والمواعيد'
   if (route.path.startsWith('/dashboard/analytics')) return 'تقارير التحميلات والتفاعل'
+  if (route.path.startsWith('/dashboard/rehost-sabtech')) return 'نقل ملفات ساب تك إلى خادم الشركة'
   return 'لوحة التحكم'
 })
 

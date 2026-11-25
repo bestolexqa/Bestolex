@@ -150,7 +150,7 @@
                     <span class="text-xs">{{ locale === 'ar' ? cat.name_ar : (cat.name_en || cat.name_ar) }}</span>
                   </div>
                   <span class="text-[10px] bg-gray-100 dark:bg-gray-700 text-gray-500 dark:text-gray-400 px-2 py-0.5 rounded-full">
-                    {{ getCategoryArticles(cat.name_ar).length }}
+                    {{ countCategoryArticles(cat.name_ar) }}
                   </span>
                 </div>
               </div>
@@ -172,7 +172,7 @@
                     {{ locale === 'ar' ? `مقالات قسم: ${activeBlogCategory}` : `Articles in: ${activeBlogCategory}` }}
                   </h4>
                   <span class="text-[11px] text-gray-400 font-mono">
-                    {{ getCategoryArticles(activeBlogCategory).length }} {{ locale === 'ar' ? 'مقالات' : 'articles' }}
+                    {{ countCategoryArticles(activeBlogCategory) }} {{ locale === 'ar' ? 'مقالات' : 'articles' }}
                   </span>
                 </div>
 
@@ -347,7 +347,7 @@
                 @click="expandedMobileBlogCat = expandedMobileBlogCat === cat.name_ar ? null : cat.name_ar"
               >
                 <span>🏷️ {{ locale === 'ar' ? cat.name_ar : (cat.name_en || cat.name_ar) }}</span>
-                <span class="text-[10px] bg-gray-100 dark:bg-gray-800 px-2 py-0.5 rounded-full">{{ getCategoryArticles(cat.name_ar).length }}</span>
+                <span class="text-[10px] bg-gray-100 dark:bg-gray-800 px-2 py-0.5 rounded-full">{{ countCategoryArticles(cat.name_ar) }}</span>
               </div>
               
               <!-- Sub-articles -->
@@ -418,13 +418,14 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
+import { ref, computed, watch, onMounted } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRouter } from 'vue-router'
 import { useDark, useToggle } from '@vueuse/core'
 import mockProducts from '@/data/products.json'
 import mockArticles from '@/data/articles.json'
 import mockCategories from '@/data/categories.json'
+import { BLOG_CATEGORIES } from '~~/server/utils/blogCategories'
 
 const { locale } = useI18n()
 const localePath = useLocalePath()
@@ -439,8 +440,50 @@ const activeProductCategory = ref(mockProducts[0] || null)
 
 // Blog Data & Multi-Level Dropdown
 const blogArticles = ref(mockArticles)
-const blogCategories = ref(mockCategories)
-const activeBlogCategory = ref(mockCategories[0]?.name_ar || 'النظم الهيدروليكية')
+const fetchedCategories = ref(mockCategories)
+
+// The five fixed blog categories, in house order.
+const BLOG_CATEGORY_ORDER = BLOG_CATEGORIES
+
+const articleCategoryAr = (a) => {
+  const c = a?.category
+  const name = (c && typeof c === 'object' ? c.ar : (typeof c === 'string' ? c : '')) || a?.category_ar || ''
+  return String(name).trim()
+}
+const articleCategoryEn = (a) => {
+  const c = a?.category
+  return String((c && typeof c === 'object' ? c.en : '') || a?.category_en || '').trim()
+}
+
+// The menu lists the categories the articles are actually filed under, so a
+// category can never show a zero count against a stale category list.
+const blogCategories = computed(() => {
+  const found = new Map()
+  for (const a of (blogArticles.value || [])) {
+    const ar = articleCategoryAr(a)
+    if (!ar) continue
+    if (!found.has(ar)) found.set(ar, { name_ar: ar, name_en: articleCategoryEn(a) })
+    else if (!found.get(ar).name_en) found.get(ar).name_en = articleCategoryEn(a)
+  }
+  const ordered = []
+  for (const c of BLOG_CATEGORY_ORDER) {
+    if (found.has(c.name_ar)) {
+      const hit = found.get(c.name_ar)
+      ordered.push({ name_ar: hit.name_ar, name_en: hit.name_en || c.name_en })
+      found.delete(c.name_ar)
+    }
+  }
+  // Anything outside the fixed five is a stale dashboard name; it does not
+  // belong in the site's main navigation.
+  return ordered.length ? ordered : (fetchedCategories.value || [])
+})
+
+const activeBlogCategory = ref('')
+watch(blogCategories, (list) => {
+  if (list.length && !list.some(c => c.name_ar === activeBlogCategory.value)) {
+    activeBlogCategory.value = list[0].name_ar
+  }
+}, { immediate: true })
 
 // Services List
 const servicesList = [
@@ -452,12 +495,19 @@ const servicesList = [
   { icon: '🤝', title: { ar: 'الصيانة الوقائية وقطع الغيار', en: 'Preventive Maintenance' }, desc: { ar: 'عقود صيانة دورية واستجابة طارئة', en: 'Periodic maintenance & emergency support' } }
 ]
 
+// The whole mobile list renders in the server HTML on every page, so the menu
+// shows the newest four per category instead of all 42 — otherwise every page
+// exports 42 internal links and dilutes the product pages.
+const MENU_ARTICLES_PER_CATEGORY = 4
 const getCategoryArticles = (catNameAr) => {
-  return blogArticles.value.filter(a => {
-    const artCat = a.category?.ar || a.category_ar || a.category
-    return artCat === catNameAr
-  })
+  return (blogArticles.value || [])
+    .filter(a => articleCategoryAr(a) === catNameAr)
+    .slice()
+    .sort((x, y) => String(y.date || '').localeCompare(String(x.date || '')))
+    .slice(0, MENU_ARTICLES_PER_CATEGORY)
 }
+const countCategoryArticles = (catNameAr) =>
+  (blogArticles.value || []).filter(a => articleCategoryAr(a) === catNameAr).length
 
 // Fetch live articles & categories if available
 onMounted(async () => {
@@ -467,10 +517,7 @@ onMounted(async () => {
       $fetch('/api/blog/categories')
     ])
     if (arts && arts.length) blogArticles.value = arts
-    if (cats && cats.length) {
-      blogCategories.value = cats
-      activeBlogCategory.value = cats[0].name_ar
-    }
+    if (cats && cats.length) fetchedCategories.value = cats
   } catch (err) {}
 })
 

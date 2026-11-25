@@ -50,7 +50,7 @@
       </div>
 
       <!-- Quick Actions Banner -->
-      <div class="bg-gradient-to-r from-[#121c2d] to-[#1e2d42] text-white rounded-3xl p-6 sm:p-8 flex flex-col sm:flex-row items-center justify-between gap-6 shadow-xl">
+      <div class="bg-gradient-to-r from-[#191919] to-[#1e2d42] text-white rounded-3xl p-6 sm:p-8 flex flex-col sm:flex-row items-center justify-between gap-6 shadow-xl">
         <div>
           <h2 class="text-xl sm:text-2xl font-black mb-2">مرحباً بك في لوحة تحكم بيستوليكس 🇶🇦</h2>
           <p class="text-gray-300 text-sm max-w-xl">يمكنك إدارة المقالات ونشر التحديثات ومتابعة كافة طلبات عروض الأسعار وحجوزات المواعيد في مكان واحد.</p>

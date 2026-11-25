@@ -2,7 +2,7 @@
   <div class="training-page bg-gray-50 dark:bg-gray-900 min-h-screen transition-colors duration-300">
     
     <!-- Hero Section with Dynamic Background Carousel (No People/Humans) -->
-    <section class="relative py-24 md:py-36 bg-[#121c2d] text-white overflow-hidden flex items-center justify-center">
+    <section class="relative py-24 md:py-36 bg-[#191919] text-white overflow-hidden flex items-center justify-center">
       <!-- Background Carousel Slides -->
       <div class="absolute inset-0 w-full h-full overflow-hidden">
         <div 
@@ -19,7 +19,7 @@
             loading="eager"
           />
           <!-- Dark Gradient Overlay for Maximum Text Readability -->
-          <div class="absolute inset-0 bg-gradient-to-t from-[#121c2d] via-[#121c2d]/85 to-[#121c2d]/70"></div>
+          <div class="absolute inset-0 bg-gradient-to-t from-[#191919] via-[#191919]/85 to-[#191919]/70"></div>
         </div>
       </div>
 
@@ -29,8 +29,8 @@
       <!-- Hero Content -->
       <div class="container mx-auto px-4 md:px-8 relative z-20 text-center max-w-5xl" data-aos="fade-up">
         <!-- Partnership Badge -->
-        <div class="inline-flex items-center gap-2 bg-[#E99E15]/20 border border-[#E99E15]/40 text-[#E99E15] px-5 py-2 rounded-full font-bold text-xs md:text-sm mb-6 backdrop-blur-md shadow-lg">
-          <span class="w-2.5 h-2.5 rounded-full bg-[#E99E15] animate-ping"></span>
+        <div class="inline-flex items-center gap-2 bg-[#E99E05]/20 border border-[#E99E05]/40 text-[#E99E05] px-5 py-2 rounded-full font-bold text-xs md:text-sm mb-6 backdrop-blur-md shadow-lg">
+          <span class="w-2.5 h-2.5 rounded-full bg-[#E99E05] animate-ping"></span>
           <span>{{ locale === 'ar' ? 'بالتعاون مع شركة ساب تك (SAB TECH)' : 'In Cooperation with SAB TECH' }}</span>
         </div>
 
@@ -38,11 +38,11 @@
           {{ locale === 'ar' ? 'الدورات التدريبية المتخصصة في الأنظمة الهيدروليكية' : 'Professional Hydraulic Training Courses' }}
         </h1>
 
-        <div class="inline-block px-4 py-1.5 rounded-xl bg-white/10 text-[#E99E15] font-black text-sm md:text-lg mb-6 border border-white/10 backdrop-blur-sm">
+        <div class="inline-block px-4 py-1.5 rounded-xl bg-white/10 text-[#E99E05] font-black text-sm md:text-lg mb-6 border border-white/10 backdrop-blur-sm">
           {{ locale === 'ar' ? 'تدريب عملي • معرفة هندسية • مهارات قابلة للتطبيق' : 'Practical Training • Engineering Knowledge • Applicable Skills' }}
         </div>
 
-        <div class="w-24 h-1.5 bg-[#E99E15] mx-auto mb-8 rounded-full shadow-md shadow-[#E99E15]/50"></div>
+        <div class="w-24 h-1.5 bg-[#E99E05] mx-auto mb-8 rounded-full shadow-md shadow-[#E99E05]/50"></div>
 
         <p class="text-base md:text-xl text-gray-200 font-medium max-w-4xl mx-auto mb-6 leading-relaxed">
           {{ locale === 'ar' 
@@ -62,7 +62,7 @@
         <div class="flex flex-wrap justify-center gap-4 mb-8">
           <button 
             @click="scrollToSection('register-form')"
-            class="group flex items-center gap-3 bg-gradient-to-r from-[#E99E15] to-orange-500 hover:from-orange-500 hover:to-orange-600 text-white font-black px-8 py-4 rounded-2xl transition-all duration-300 shadow-xl shadow-[#E99E15]/30 hover:shadow-[#E99E15]/50 hover:-translate-y-1 text-base md:text-lg"
+            class="group flex items-center gap-3 bg-gradient-to-r from-[#E99E05] to-orange-500 hover:from-orange-500 hover:to-orange-600 text-white font-black px-8 py-4 rounded-2xl transition-all duration-300 shadow-xl shadow-[#E99E05]/30 hover:shadow-[#E99E05]/50 hover:-translate-y-1 text-base md:text-lg"
           >
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 group-hover:scale-110 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -86,7 +86,7 @@
             :key="idx" 
             @click="setSlide(idx)"
             class="h-2 rounded-full transition-all duration-500"
-            :class="currentSlide === idx ? 'w-10 bg-[#E99E15]' : 'w-2.5 bg-white/40 hover:bg-white/70'"
+            :class="currentSlide === idx ? 'w-10 bg-[#E99E05]' : 'w-2.5 bg-white/40 hover:bg-white/70'"
             :aria-label="'Slide ' + (idx + 1)"
           ></button>
         </div>
@@ -376,12 +376,12 @@
       </section>
 
       <!-- Section 3: Hands-On Experience & Training Center Legacy -->
-      <section class="bg-gradient-to-br from-[#121c2d] to-[#1a2b42] text-white rounded-3xl p-8 md:p-14 shadow-2xl relative overflow-hidden" data-aos="fade-up">
+      <section class="bg-gradient-to-br from-[#191919] to-[#1a2b42] text-white rounded-3xl p-8 md:p-14 shadow-2xl relative overflow-hidden" data-aos="fade-up">
         <div class="absolute inset-0 opacity-10" style="background-image: radial-gradient(#ffffff 1px, transparent 1px); background-size: 20px 20px;"></div>
         
         <div class="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
           <div class="lg:col-span-7 space-y-6">
-            <div class="inline-flex items-center gap-2 bg-[#E99E15]/20 text-[#E99E15] px-4 py-1.5 rounded-full text-xs md:text-sm font-bold border border-[#E99E15]/30">
+            <div class="inline-flex items-center gap-2 bg-[#E99E05]/20 text-[#E99E05] px-4 py-1.5 rounded-full text-xs md:text-sm font-bold border border-[#E99E05]/30">
               <span>⚙️</span>
               <span>{{ locale === 'ar' ? 'تدريب عملي ومحاكاة حقيقية' : 'Hands-On Practical Training' }}</span>
             </div>
@@ -391,7 +391,7 @@
             </h2>
 
             <div class="space-y-4 text-gray-200 text-sm md:text-base leading-relaxed">
-              <p class="font-bold text-[#E99E15]">
+              <p class="font-bold text-[#E99E05]">
                 {{ locale === 'ar' ? 'لا يقتصر البرنامج على المحاضرات النظرية.' : 'The program goes far beyond theoretical lectures.' }}
               </p>
               <p>
@@ -426,13 +426,13 @@
           <!-- Feature Cards / Stats -->
           <div class="lg:col-span-5 grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div class="bg-white/10 backdrop-blur-md p-6 rounded-2xl border border-white/10 flex flex-col justify-center text-center">
-              <span class="text-3xl md:text-4xl font-black text-[#E99E15] mb-2">2011</span>
+              <span class="text-3xl md:text-4xl font-black text-[#E99E05] mb-2">2011</span>
               <span class="text-xs md:text-sm text-gray-300 font-medium">
                 {{ locale === 'ar' ? 'تاريخ تأسيس مركز التدريب المتخصص' : 'Training Center Founded' }}
               </span>
             </div>
             <div class="bg-white/10 backdrop-blur-md p-6 rounded-2xl border border-white/10 flex flex-col justify-center text-center">
-              <span class="text-3xl md:text-4xl font-black text-[#E99E15] mb-2">100%</span>
+              <span class="text-3xl md:text-4xl font-black text-[#E99E05] mb-2">100%</span>
               <span class="text-xs md:text-sm text-gray-300 font-medium">
                 {{ locale === 'ar' ? 'مكونات ونماذج هيدروليكية واقعية' : 'Real Hydraulic Components' }}
               </span>
@@ -721,12 +721,12 @@
       </section>
 
       <!-- Section 8: Registration & Interest Form (سجل اهتمامك بالدورات القادمة) -->
-      <section id="register-form" class="scroll-mt-28 bg-[#121c2d] text-white rounded-3xl p-8 md:p-14 shadow-2xl relative overflow-hidden" data-aos="fade-up">
+      <section id="register-form" class="scroll-mt-28 bg-[#191919] text-white rounded-3xl p-8 md:p-14 shadow-2xl relative overflow-hidden" data-aos="fade-up">
         <div class="absolute inset-0 opacity-10" style="background-image: radial-gradient(#ffffff 1px, transparent 1px); background-size: 20px 20px;"></div>
 
         <div class="relative z-10 max-w-3xl mx-auto">
           <div class="text-center mb-10">
-            <span class="inline-block bg-[#E99E15]/20 text-[#E99E15] px-4 py-1.5 rounded-full text-xs font-bold mb-3 border border-[#E99E15]/30">
+            <span class="inline-block bg-[#E99E05]/20 text-[#E99E05] px-4 py-1.5 rounded-full text-xs font-bold mb-3 border border-[#E99E05]/30">
               {{ locale === 'ar' ? 'تسجيل الاهتمام والحجز' : 'Registration & Inquiries' }}
             </span>
             <h2 class="text-3xl md:text-4xl font-black text-white mb-3">
@@ -753,7 +753,7 @@
                   type="text" 
                   required 
                   :placeholder="locale === 'ar' ? 'أدخل اسمك الكامل' : 'Enter your full name'"
-                  class="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:border-[#E99E15] focus:ring-1 focus:ring-[#E99E15]"
+                  class="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:border-[#E99E05] focus:ring-1 focus:ring-[#E99E05]"
                 />
               </div>
 
@@ -766,7 +766,7 @@
                   type="text" 
                   required 
                   :placeholder="locale === 'ar' ? 'أدخل اسم الشركة' : 'Enter company name'"
-                  class="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:border-[#E99E15] focus:ring-1 focus:ring-[#E99E15]"
+                  class="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:border-[#E99E05] focus:ring-1 focus:ring-[#E99E05]"
                 />
               </div>
             </div>
@@ -781,7 +781,7 @@
                   v-model="form.jobTitle" 
                   type="text" 
                   :placeholder="locale === 'ar' ? 'مثال: مهندس ميكانيكا، مسؤول صيانة' : 'e.g. Mechanical Engineer, Maintenance Manager'"
-                  class="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:border-[#E99E15] focus:ring-1 focus:ring-[#E99E15]"
+                  class="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:border-[#E99E05] focus:ring-1 focus:ring-[#E99E05]"
                 />
               </div>
 
@@ -794,7 +794,7 @@
                   type="tel" 
                   required 
                   placeholder="+974 ..."
-                  class="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:border-[#E99E15] focus:ring-1 focus:ring-[#E99E15]"
+                  class="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:border-[#E99E05] focus:ring-1 focus:ring-[#E99E05]"
                 />
               </div>
             </div>
@@ -810,7 +810,7 @@
                   type="email" 
                   required 
                   placeholder="name@company.com"
-                  class="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:border-[#E99E15] focus:ring-1 focus:ring-[#E99E15]"
+                  class="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:border-[#E99E05] focus:ring-1 focus:ring-[#E99E05]"
                 />
               </div>
 
@@ -820,7 +820,7 @@
                 </label>
                 <select 
                   v-model="form.program"
-                  class="w-full bg-[#1b273b] border border-white/20 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:border-[#E99E15] focus:ring-1 focus:ring-[#E99E15]"
+                  class="w-full bg-[#1b273b] border border-white/20 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:border-[#E99E05] focus:ring-1 focus:ring-[#E99E05]"
                 >
                   <option value="أساسيات الأنظمة الهيدروليكية">{{ locale === 'ar' ? '01 — أساسيات الأنظمة الهيدروليكية' : '01 — Hydraulic Fundamentals' }}</option>
                   <option value="الأنظمة الهيدروليكية الصناعية">{{ locale === 'ar' ? '02 — الأنظمة الهيدروليكية الصناعية' : '02 — Industrial Hydraulic Systems' }}</option>
@@ -841,7 +841,7 @@
                 type="number" 
                 min="1"
                 :placeholder="locale === 'ar' ? 'مثال: 5' : 'e.g. 5'"
-                class="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:border-[#E99E15] focus:ring-1 focus:ring-[#E99E15]"
+                class="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:border-[#E99E05] focus:ring-1 focus:ring-[#E99E05]"
               />
             </div>
 
@@ -854,7 +854,7 @@
                 v-model="form.notes" 
                 rows="3"
                 :placeholder="locale === 'ar' ? 'اذكر أي تفاصيل إضافية حول المعدات أو الأهداف التدريبية...' : 'Mention any specific machinery models or training goals...'"
-                class="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:border-[#E99E15] focus:ring-1 focus:ring-[#E99E15]"
+                class="w-full bg-white/10 border border-white/20 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:border-[#E99E05] focus:ring-1 focus:ring-[#E99E05]"
               ></textarea>
             </div>
 
@@ -867,7 +867,7 @@
             <button 
               type="submit" 
               :disabled="isSubmitting"
-              class="w-full py-4 bg-gradient-to-r from-[#E99E15] to-orange-500 hover:from-orange-500 hover:to-orange-600 disabled:opacity-50 text-white font-black rounded-2xl shadow-xl transition hover:-translate-y-0.5 text-base md:text-lg flex items-center justify-center gap-3"
+              class="w-full py-4 bg-gradient-to-r from-[#E99E05] to-orange-500 hover:from-orange-500 hover:to-orange-600 disabled:opacity-50 text-white font-black rounded-2xl shadow-xl transition hover:-translate-y-0.5 text-base md:text-lg flex items-center justify-center gap-3"
             >
               <span v-if="isSubmitting" class="w-5 h-5 border-2 border-white border-t-transparent rounded-full animate-spin"></span>
               <span>{{ isSubmitting ? (locale === 'ar' ? 'جاري الإرسال...' : 'Submitting...') : (locale === 'ar' ? 'إرسال طلب التدريب' : 'Submit Training Request') }}</span>

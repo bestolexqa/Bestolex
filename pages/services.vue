@@ -2,7 +2,7 @@
   <div class="services-page bg-gray-50 dark:bg-gray-900 min-h-screen transition-colors duration-300">
     
     <!-- Hero Section with Dynamic Background Carousel -->
-    <section class="relative py-24 md:py-36 bg-[#121c2d] text-white overflow-hidden flex items-center justify-center">
+    <section class="relative py-24 md:py-36 bg-[#191919] text-white overflow-hidden flex items-center justify-center">
       <!-- Background Carousel Slides -->
       <div class="absolute inset-0 w-full h-full overflow-hidden">
         <div 
@@ -20,7 +20,7 @@
             loading="eager"
           />
           <!-- Dark Gradient Overlay for Maximum Readability -->
-          <div class="absolute inset-0 bg-gradient-to-t from-[#121c2d] via-[#121c2d]/80 to-[#121c2d]/55"></div>
+          <div class="absolute inset-0 bg-gradient-to-t from-[#191919] via-[#191919]/80 to-[#191919]/55"></div>
         </div>
       </div>
 
@@ -30,8 +30,8 @@
       <!-- Hero Content -->
       <div class="container mx-auto px-4 md:px-8 relative z-10 text-center" data-aos="fade-up">
         <!-- Badge -->
-        <div class="inline-flex items-center gap-2 bg-[#E99E15]/20 border border-[#E99E15]/40 text-[#E99E15] px-5 py-2 rounded-full font-bold text-sm md:text-base mb-6 backdrop-blur-md shadow-lg">
-          <span class="w-2.5 h-2.5 rounded-full bg-[#E99E15] animate-ping"></span>
+        <div class="inline-flex items-center gap-2 bg-[#E99E05]/20 border border-[#E99E05]/40 text-[#E99E05] px-5 py-2 rounded-full font-bold text-sm md:text-base mb-6 backdrop-blur-md shadow-lg">
+          <span class="w-2.5 h-2.5 rounded-full bg-[#E99E05] animate-ping"></span>
           <span>{{ locale === 'ar' ? 'خدمات هندسية ولوجستية متكاملة' : 'Integrated Engineering & Logistics Services' }}</span>
         </div>
 
@@ -39,7 +39,7 @@
           {{ locale === 'ar' ? 'توريد وتركيب وصيانة المعدات الصناعية في قطر' : 'Supply, Installation and Maintenance of Industrial Equipment in Qatar' }}
         </h1>
 
-        <div class="w-24 h-1.5 bg-[#E99E15] mx-auto mb-6 rounded-full shadow-md shadow-[#E99E15]/50"></div>
+        <div class="w-24 h-1.5 bg-[#E99E05] mx-auto mb-6 rounded-full shadow-md shadow-[#E99E05]/50"></div>
 
         <p class="text-lg md:text-2xl text-gray-200 font-medium max-w-3xl mx-auto mb-10 leading-relaxed drop-shadow">
           {{ locale === 'ar' 
@@ -52,7 +52,7 @@
         <div class="flex flex-wrap justify-center gap-4 mb-10">
           <button 
             @click="isBookingOpen = true" 
-            class="group flex items-center gap-3 bg-gradient-to-r from-[#E99E15] to-orange-500 hover:from-orange-500 hover:to-orange-600 text-white font-black px-8 py-4 rounded-2xl transition-all duration-300 shadow-xl shadow-[#E99E15]/30 hover:shadow-[#E99E15]/50 hover:-translate-y-1 text-base md:text-lg"
+            class="group flex items-center gap-3 bg-gradient-to-r from-[#E99E05] to-orange-500 hover:from-orange-500 hover:to-orange-600 text-white font-black px-8 py-4 rounded-2xl transition-all duration-300 shadow-xl shadow-[#E99E05]/30 hover:shadow-[#E99E05]/50 hover:-translate-y-1 text-base md:text-lg"
           >
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 group-hover:scale-110 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
@@ -76,7 +76,7 @@
             :key="idx" 
             @click="setSlide(idx)"
             class="h-2.5 rounded-full transition-all duration-500"
-            :class="currentSlide === idx ? 'w-10 bg-[#E99E15]' : 'w-2.5 bg-white/40 hover:bg-white/70'"
+            :class="currentSlide === idx ? 'w-10 bg-[#E99E05]' : 'w-2.5 bg-white/40 hover:bg-white/70'"
             :aria-label="'Slide ' + (idx + 1)"
           ></button>
         </div>
@@ -123,7 +123,7 @@
             <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent"></div>
             
             <!-- Step Badge -->
-            <div class="absolute top-4 rtl:right-4 ltr:left-4 bg-[#121c2d]/90 backdrop-blur-md text-[#E99E15] font-black text-xs px-3 py-1.5 rounded-full border border-[#E99E15]/30">
+            <div class="absolute top-4 rtl:right-4 ltr:left-4 bg-[#191919]/90 backdrop-blur-md text-[#E99E05] font-black text-xs px-3 py-1.5 rounded-full border border-[#E99E05]/30">
               {{ locale === 'ar' ? `المرحلة ${idx + 1}` : `Stage ${idx + 1}` }}
             </div>
 
@@ -146,7 +146,7 @@
 
             <!-- Features Mini Bullet Points -->
             <div class="pt-4 border-t border-gray-100 dark:border-gray-700/60 mt-auto">
-              <div class="flex items-center gap-2 text-xs font-bold text-[#E99E15]">
+              <div class="flex items-center gap-2 text-xs font-bold text-[#E99E05]">
                 <span>✓</span>
                 <span>{{ service.highlight[locale] }}</span>
               </div>
@@ -156,12 +156,12 @@
       </div>
 
       <!-- Feature Highlight Banner (Why Bestolex Services) -->
-      <section class="bg-gradient-to-r from-[#121c2d] to-[#1e2d42] text-white rounded-3xl p-8 md:p-14 shadow-2xl relative overflow-hidden" data-aos="fade-up">
+      <section class="bg-gradient-to-r from-[#191919] to-[#1e2d42] text-white rounded-3xl p-8 md:p-14 shadow-2xl relative overflow-hidden" data-aos="fade-up">
         <div class="absolute inset-0 opacity-10" style="background-image: radial-gradient(#ffffff 1px, transparent 1px); background-size: 20px 20px;"></div>
         
         <div class="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
           <div class="lg:col-span-8 space-y-6">
-            <div class="inline-flex items-center gap-2 bg-[#E99E15]/20 text-[#E99E15] border border-[#E99E15]/30 px-4 py-1.5 rounded-full font-bold text-xs md:text-sm">
+            <div class="inline-flex items-center gap-2 bg-[#E99E05]/20 text-[#E99E05] border border-[#E99E05]/30 px-4 py-1.5 rounded-full font-bold text-xs md:text-sm">
               <span>⭐</span>
               <span>{{ locale === 'ar' ? 'التزام الجودة والموثوقية' : 'Commitment to Quality & Reliability' }}</span>
             </div>
@@ -170,21 +170,21 @@
             </h2>
             <p class="text-gray-300 text-base md:text-lg leading-relaxed">
               {{ locale === 'ar' 
-                ? 'نحن في بيستوليكس لا نكتفي بتوريد المعدات الثقيلة، بل نوفر أقوى الحلول الهندسية في النظم الهيدروليكية وحماية المحيط المصممة خصيصاً لمنشأتكم، مع عقود صيانة دورية شاملة وقطع غيار أصلية لضمان استمرارية عمل معداتكم بأقصى طاقة دون انقطاع.' 
-                : 'At Bestolex, we go beyond supplying heavy machinery; we provide the most robust engineering solutions in hydraulic systems and perimeter security tailored to your facility, supported by comprehensive maintenance contracts and genuine spare parts to ensure continuous peak performance.' 
+                ? 'في بيستوليكس لا يتوقف العمل عند التوريد: نعاين الموقع، ونقترح الحل المناسب من أنظمة التحميل والمستودعات، والنفايات وإعادة التدوير، والحماية المحيطية، والأبواب الصناعية، ثم نركّب المعدة ونشغّلها وندرّب مشغّليها، ونتابع بعقود صيانة دورية وقطع غيار أصلية لتبقى معداتكم تعمل دون انقطاع.' 
+                : 'At Bestolex the work does not stop at supply: we survey the site, propose the solution across loading and warehouse systems, waste and recycling, perimeter protection and industrial doors, then install, commission and train, and follow through with maintenance contracts and genuine spare parts so your equipment keeps running.' 
               }}
             </p>
             <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 pt-2">
               <div class="bg-white/10 backdrop-blur-sm p-4 rounded-xl border border-white/10 text-center">
-                <div class="text-[#E99E15] font-black text-2xl mb-1">24/7</div>
+                <div class="text-[#E99E05] font-black text-2xl mb-1">24/7</div>
                 <div class="text-xs text-gray-300 font-bold">{{ locale === 'ar' ? 'استجابة سريعة' : 'Rapid Response' }}</div>
               </div>
               <div class="bg-white/10 backdrop-blur-sm p-4 rounded-xl border border-white/10 text-center">
-                <div class="text-[#E99E15] font-black text-2xl mb-1">100%</div>
+                <div class="text-[#E99E05] font-black text-2xl mb-1">100%</div>
                 <div class="text-xs text-gray-300 font-bold">{{ locale === 'ar' ? 'قطع غيار أصلية' : 'Genuine Spare Parts' }}</div>
               </div>
               <div class="bg-white/10 backdrop-blur-sm p-4 rounded-xl border border-white/10 text-center">
-                <div class="text-[#E99E15] font-black text-2xl mb-1">+25</div>
+                <div class="text-[#E99E05] font-black text-2xl mb-1">+25</div>
                 <div class="text-xs text-gray-300 font-bold">{{ locale === 'ar' ? 'سنة خبرة شريكنا المصنّع ساب تك' : 'Years of SAB TECH Experience' }}</div>
               </div>
             </div>
@@ -192,14 +192,14 @@
 
           <div class="lg:col-span-4 flex flex-col items-center justify-center gap-4">
             <div class="bg-white/10 border border-white/20 backdrop-blur-md p-6 rounded-3xl text-center w-full max-w-sm">
-              <div class="w-16 h-16 bg-[#E99E15] text-white rounded-2xl flex items-center justify-center text-3xl mx-auto mb-4 shadow-lg shadow-[#E99E15]/30">
+              <div class="w-16 h-16 bg-[#E99E05] text-white rounded-2xl flex items-center justify-center text-3xl mx-auto mb-4 shadow-lg shadow-[#E99E05]/30">
                 📅
               </div>
               <h3 class="text-xl font-bold mb-2">{{ locale === 'ar' ? 'هل لديك مشروع جديد؟' : 'Have a New Project?' }}</h3>
               <p class="text-gray-300 text-sm mb-6">{{ locale === 'ar' ? 'احجز موعداً مع مهندسينا لمعاينة الموقع واقتراح الحل الأمثل.' : 'Book a meeting with our engineers for a site survey and solution.' }}</p>
               <button 
                 @click="isBookingOpen = true" 
-                class="w-full bg-[#E99E15] hover:bg-orange-500 text-white font-bold py-3.5 rounded-xl transition shadow-lg"
+                class="w-full bg-[#E99E05] hover:bg-orange-500 text-white font-bold py-3.5 rounded-xl transition shadow-lg"
               >
                 {{ locale === 'ar' ? 'احجز موعد الآن' : 'Book Appointment' }}
               </button>

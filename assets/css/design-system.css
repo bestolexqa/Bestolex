@@ -1,0 +1,112 @@
+/*
+ * نظام تصميم بيستوليكس — الطبقات المعتمدة في 24 نوفمبر 2026.
+ * لوحات المرجع: MergeRules / MergeProduct / MergeFamily
+ * https://claude.ai/artifact/3bzrpbikfUPNsX5rjNkyCn
+ *
+ * الطبقة 1: الرموز (الألوان والخطوط) في tailwind.config.ts
+ * الطبقة 2: «المخطط الفني» أدناه — تُستخدم في مناطق المواصفات فقط:
+ *           جداول المواصفات، وجداول المقارنة، وكتل الأرقام، وخطوط الأبعاد.
+ *           لا تُستخدم في بطاقات الأقسام ولا المقالات ولا الصفحة الرئيسية.
+ */
+
+/* أرقام جدولية: تجعل الخانات تصطف رأسياً في الجداول */
+.bp-num {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum" 1;
+}
+
+/* إطار المنطقة الفنية: زوايا قائمة وحدّ أسود رفيع، عكس بطاقات النظام المستديرة */
+.bp {
+  border: 1px solid #191919;
+  background: #ffffff;
+}
+.dark .bp {
+  border-color: #6f7070;
+  background: #1f2937;
+}
+
+.bp table {
+  width: 100%;
+  border-collapse: collapse;
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum" 1;
+}
+.bp th,
+.bp td {
+  padding: 11px 14px;
+  text-align: start;
+  border-bottom: 1px solid #e4e6e6;
+  font-size: 15px;
+}
+.dark .bp th,
+.dark .bp td {
+  border-bottom-color: #374151;
+}
+.bp thead th {
+  font-size: 13px;
+  font-weight: 700;
+  color: #444545;
+  border-bottom: 1px solid #191919;
+  white-space: nowrap;
+}
+.dark .bp thead th {
+  color: #d4d5d5;
+  border-bottom-color: #6f7070;
+}
+.bp tbody tr:last-child th,
+.bp tbody tr:last-child td {
+  border-bottom: 0;
+}
+.bp tbody tr:hover {
+  background: #fff8e8;
+}
+.dark .bp tbody tr:hover {
+  background: rgba(233, 158, 5, 0.08);
+}
+.bp tbody tr.bp-on {
+  background: #fff1d4;
+}
+.dark .bp tbody tr.bp-on {
+  background: rgba(233, 158, 5, 0.16);
+}
+
+/* سطر مصدر الجدول: اسم الكتالوج أو الجهة التي جاءت منها الأرقام */
+.bp-caption {
+  text-align: start;
+  padding: 10px 14px;
+  font-size: 13px;
+  color: #5e5f5f;
+  border-bottom: 1px solid #191919;
+}
+.dark .bp-caption {
+  color: #a9aaaa;
+  border-bottom-color: #6f7070;
+}
+
+/* كتل الأرقام أسفل عنوان المنتج */
+.bp-blocks {
+  display: grid;
+  border: 1px solid #191919;
+  background: #ffffff;
+}
+.dark .bp-blocks {
+  border-color: #6f7070;
+  background: transparent;
+}
+.bp-blocks > * + * {
+  border-inline-start: 1px solid #191919;
+}
+.dark .bp-blocks > * + * {
+  border-inline-start-color: #6f7070;
+}
+
+/* التركيز: يلتزم بلون الهوية في كل الصفحات */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+summary:focus-visible {
+  outline: 3px solid #e99e05;
+  outline-offset: 2px;
+}

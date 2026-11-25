@@ -13,7 +13,9 @@ export default defineEventHandler(async (event) => {
       const { count: brochureCount } = await supabase
         .from('analytics_events')
         .select('*', { count: 'exact', head: true })
-        .eq('event_type', 'brochure_download')
+        // 'brochure_download' is the historical name; the button now sends
+        // 'datasheet_request', and the certificate links 'certificate_download'.
+        .in('event_type', ['brochure_download', 'datasheet_request', 'certificate_download'])
 
       const { count: quotesCount } = await supabase
         .from('quote_requests')

@@ -96,7 +96,7 @@
       "20 Nov (batch D): summary box, catalogue specs and product links, Qatar section with CTA and 3 FAQs added; no unsupported figures found in the live text.",
       "Key takeaways: «من أشهر» / \"a common one\" is an unsourced popularity claim → «من أمثلة» / \"Above-ground vehicle barriers include…\"; AR «يسمح بالمرور في الاتجاه المسموح» (repetition) → «المصرح به».",
       "Original AR text: English-style comma list rewritten with و; «تُستخدم» vowelled.",
-      "Spec table: typo «ثبيت» → «تثبيت» (the typo is in data/products.json too; owner should fix it there).",
+      "Spec table: the «ثبيت» typo was corrected to «تثبيت» in data/products.json on 2026-11-25.",
       "Checklist: «ريموت» → «جهاز تحكم عن بُعد»; EN \"remote\" → \"remote control\".",
       "Added one internal link to the live tyre-killer post (legacy-vehicle-access-prevention-systems, id verified), AR and EN.",
       "FAQ: operation answer rewritten (AR «يعمل هيدروليكياً كهروميكانيكياً» was ungrammatical) and now explains the one-way behaviour from the catalogue description; no-excavation answer attributed to the catalogue. AR and EN.",

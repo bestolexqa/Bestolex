@@ -1,3 +1,4 @@
+import { isAdminRequest } from '~~/server/utils/adminAuth'
 import { collectPaths, copyOne, verifyOne, migrateBlogData, type FileResult } from '~~/server/utils/cdnMigration'
 
 /**
@@ -8,6 +9,7 @@ import { collectPaths, copyOne, verifyOne, migrateBlogData, type FileResult } fr
  * mode "verify" — only check that each file answers through the new CDN
  */
 export default defineEventHandler(async (event) => {
+  if (!isAdminRequest(event)) throw createError({ statusCode: 401, statusMessage: 'Unauthorized' })
   const body = await readBody<{ offset?: number, limit?: number, force?: boolean, mode?: 'copy' | 'verify' | 'blog' }>(event) || {}
   const offset = Math.max(0, Number(body.offset) || 0)
   const mode = body.mode === 'verify' ? 'verify' : (body.mode === 'blog' ? 'blog' : 'copy')

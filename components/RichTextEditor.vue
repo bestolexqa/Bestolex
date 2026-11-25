@@ -254,7 +254,7 @@ onMounted(() => {
   font-weight: 800;
   margin-top: 1.2rem;
   margin-bottom: 0.6rem;
-  color: #E99E15;
+  color: #E99E05;
 }
 
 .editor-content h3 {
@@ -281,7 +281,7 @@ onMounted(() => {
 }
 
 .editor-content blockquote {
-  border-right: 4px solid #E99E15;
+  border-right: 4px solid #E99E05;
   padding-right: 1rem;
   font-style: italic;
   margin: 1rem 0;
