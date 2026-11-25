@@ -436,7 +436,7 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/horizontal-plastic-baler-70/1.png",
         "description": {
-          "ar": "يعتبر مكبس البالات الأفقية 70 طن من ساب تكـ بمثابة حل قوي تم تصميمه خصيصًا للتطبيقات الثقيلة، مما يلبي احتياجات الشركات الصناعية والمصنعين. مثالية للتعامل مع مجموعة واسعة من المواد بما في ذلك الورق والكرتون والبراميل.\nباستخدام الطاقة الهيدروليكية وقوة تصل إلى 70 طن، فإنها توفر الطاقة المطلوبة لضغط المواد بشكل فعال إلى بالات كثيفة للغاية. وهذا يضمن كفاءة التعامل مع المواد وتخزينها، وتحسين استخدام المساحة وتسهيل العمليات المبسطة للشركات التي تتعامل مع كميات كبيرة من المواد القابلة لإعادة التدوير أو النفايات. ضغط نفايات مادة بي إي تي وتحقيق أقصى قدر من الإيرادات.",
+          "ar": "يعتبر مكبس البالات الأفقية 70 طن من ساب تك بمثابة حل قوي تم تصميمه خصيصًا للتطبيقات الثقيلة، مما يلبي احتياجات الشركات الصناعية والمصنعين. مثالية للتعامل مع مجموعة واسعة من المواد بما في ذلك الورق والكرتون والبراميل.\nباستخدام الطاقة الهيدروليكية وقوة تصل إلى 70 طن، فإنها توفر الطاقة المطلوبة لضغط المواد بشكل فعال إلى بالات كثيفة للغاية. وهذا يضمن كفاءة التعامل مع المواد وتخزينها، وتحسين استخدام المساحة وتسهيل العمليات المبسطة للشركات التي تتعامل مع كميات كبيرة من المواد القابلة لإعادة التدوير أو النفايات. ضغط نفايات مادة بي إي تي وتحقيق أقصى قدر من الإيرادات.",
           "en": "Our 70 Ton Horizontal Baling Press is a powerful solution designed specifically for heavy-duty applications, serving the needs of industrial companies and manufacturers. Ideal for handling a wide variety of materials including paper, cardboard, and drums.\nUtilizing hydraulic power up to 70 Tons, it provides the required force to efficiently compress materials into dense bales, ensuring material handling efficiency, space optimization, and streamlined operations for high volume recyclers."
         },
         "features": {
@@ -517,11 +517,11 @@
           "ar": [
             {
               "label": "فتحة التعبئة",
-              "value": "1500 طول × 1020 عرض × 540 إرتفاع ملم"
+              "value": "1500 طول × 1020 عرض × 540 ارتفاع ملم"
             },
             {
               "label": "حجم البالة",
-              "value": "540 طول × 800 عرض × 1020 إرتفاع ملم"
+              "value": "540 طول × 800 عرض × 1020 ارتفاع ملم"
             },
             {
               "label": "وزن البالة",
@@ -533,7 +533,7 @@
             },
             {
               "label": "مقاسات الماكينة",
-              "value": "4000 إرتفاع × 1500 طول × 1500 عرض ملم"
+              "value": "4000 ارتفاع × 1500 طول × 1500 عرض ملم"
             },
             {
               "label": "قوة المحرك",
@@ -953,7 +953,7 @@
             "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-100/component-ball-chamber.png",
             "label": {
               "ar": "غرفة البالة",
-              "en": "Ball Chamber"
+              "en": "Bale Chamber"
             }
           },
           {
@@ -966,8 +966,8 @@
           {
             "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-100/component-volume-reduction-110.png",
             "label": {
-              "ar": "تقليل الحجم 1:10",
-              "en": "Volume Reduction 1:10"
+              "ar": "تقليل الحجم 10:1",
+              "en": "Volume Reduction 10:1"
             }
           },
           {
@@ -980,7 +980,7 @@
           {
             "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-100/component-hydraulic-power-pack.png",
             "label": {
-              "ar": "وحدة الهايدروليك",
+              "ar": "وحدة الهيدروليك",
               "en": "Hydraulic Power Pack"
             }
           },
@@ -1221,7 +1221,7 @@
           {
             "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-200/component-hydraulic-power-pack.png",
             "label": {
-              "ar": "وحدة الهايدروليك",
+              "ar": "وحدة الهيدروليك",
               "en": "Hydraulic Power Pack"
             }
           },
@@ -1244,11 +1244,11 @@
           "ar": [
             {
               "label": "فتحة التعبئة",
-              "value": "420 طول × 970 إرتفاع"
+              "value": "420 طول × 970 ارتفاع"
             },
             {
               "label": "حجم البالة",
-              "value": "700 طول × 700 عرض × 1100 إرتفاع"
+              "value": "700 طول × 700 عرض × 1100 ارتفاع"
             },
             {
               "label": "وزن البالة",
@@ -1260,7 +1260,7 @@
             },
             {
               "label": "مقاسات الماكينة",
-              "value": "3000 إرتفاع × 900 طول × 1550 عرض"
+              "value": "3000 ارتفاع × 900 طول × 1550 عرض"
             },
             {
               "label": "قوة المحرك",
@@ -1410,7 +1410,7 @@
           "ar": [
             "تخفيض الحجم بنسبة 10:1",
             "لوحة تحكم كهربائية",
-            "سهولة التحميل و التشغيل",
+            "سهولة التحميل والتشغيل",
             "خدمة ما بعد البيع مع قطع الغيار",
             "ضمان لمدة سنة واحدة"
           ],
@@ -1482,7 +1482,7 @@
           {
             "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-500/component-hydraulic-power-pack.jpg",
             "label": {
-              "ar": "وحدة الهايدروليك",
+              "ar": "وحدة الهيدروليك",
               "en": "Hydraulic Power Pack"
             }
           },
@@ -1498,11 +1498,11 @@
           "ar": [
             {
               "label": "فتحة التعبئة",
-              "value": "700 طول × 1400 إرتفاع"
+              "value": "700 طول × 1400 ارتفاع"
             },
             {
               "label": "حجم البالة",
-              "value": "1100 طول × 735 عرض × 1580 إرتفاع"
+              "value": "1100 طول × 735 عرض × 1580 ارتفاع"
             },
             {
               "label": "وزن البالة",
@@ -1514,7 +1514,7 @@
             },
             {
               "label": "مقاسات الماكينة",
-              "value": "3900 إرتفاع × 1050 طول × 2050 عرض"
+              "value": "3900 ارتفاع × 1050 طول × 2050 عرض"
             },
             {
               "label": "قوة المحرك",
@@ -1657,14 +1657,14 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/1.png",
         "description": {
-          "ar": "تم تصميم مكبس العلب و القوارير البلاستيكة 80 طن عالي التحمل لتحويل كميات كبيرة من المواد المعاد تدويرها، مما يوفر قوة لا مثيل لها تبلغ 80 طنًا من قوة الحزم لضغط القوارير والعلب والكرتون/الورق المقوى ونفايات المكاتب لتحقيق الربح. تم تصميم هذه الآلة شديدة التحمل للتعامل مع كميات كبيرة من المواد القابلة لإعادة التدوير، مع التركيز بشكل خاص على العلب و القوارير (البولي إيثيلين تيريفثاليت).\nسواء كنت تعمل في مجال صناعة المشروبات أو إعادة التدوير على نطاق واسع أو البيع بالتجزئة، باستخدام هذه الماكينة، يمكنك تحقيق أقصى قدر من العائدات على حجم بالتك وتقليل تكاليف النقل لتحقيق أعلى إيرادات ممكنة لكل بالة. المواد المناسبة للضغط: القوارير، العلب، الورق المقوى المموج، البلاستيك، المنسوجات، إلخ.",
+          "ar": "تم تصميم مكبس العلب والقوارير البلاستيكية 80 طن عالي التحمل لتحويل كميات كبيرة من المواد المعاد تدويرها، مما يوفر قوة لا مثيل لها تبلغ 80 طنًا من قوة الحزم لضغط القوارير والعلب والكرتون/الورق المقوى ونفايات المكاتب لتحقيق الربح. تم تصميم هذه الآلة شديدة التحمل للتعامل مع كميات كبيرة من المواد القابلة لإعادة التدوير، مع التركيز بشكل خاص على العلب والقوارير (البولي إيثيلين تيريفثاليت).\nسواء كنت تعمل في مجال صناعة المشروبات أو إعادة التدوير على نطاق واسع أو البيع بالتجزئة، باستخدام هذه الماكينة، يمكنك تحقيق أقصى قدر من العائدات على حجم بالتك وتقليل تكاليف النقل لتحقيق أعلى إيرادات ممكنة لكل بالة. المواد المناسبة للضغط: القوارير، العلب، الورق المقوى المموج، البلاستيك، المنسوجات، إلخ.",
           "en": "Tailored to transform significant quantities of recycle waste, our heavy-duty Vertical PET Baling Press 80T offers unmatched power of 80 Tons of bale force to compress PET bottles, cans, cardboard/cartons, and office waste into profit. This heavy-duty machine is designed to handle large volumes of recyclable materials, with a special focus on PET (polyethylene terephthalate) bottles.\nWhether you are in the beverage industry, large scale recycling or retail, with this machine you can maximize returns on your bale size and reduce transportation costs to generate the highest revenue possible per bale. Materials suitable for compaction: PET bottles, cans, corrugated cardboard, plastics, textiles, etc."
         },
         "features": {
           "ar": [
             "قوة الضغط 80 طن",
             "خروج البالة تلقائيا",
-            "من السهل التحميل و التشغيل",
+            "من السهل التحميل والتشغيل",
             "خدمة ما بعد البيع مع قطع الغيار",
             "ضمان لمدة سنة واحدة"
           ],
@@ -1680,7 +1680,7 @@
           {
             "image": "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/component-bale-height-adjustment-switch.png",
             "label": {
-              "ar": "مفتاح تعديل إرتفاع البالة",
+              "ar": "مفتاح تعديل ارتفاع البالة",
               "en": "Bale height adjustment switch"
             }
           },
@@ -1715,7 +1715,7 @@
           {
             "image": "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/component-pet-bale.png",
             "label": {
-              "ar": "نفايات القوارير و العلب",
+              "ar": "نفايات القوارير والعلب",
               "en": "PET bale"
             }
           },
@@ -1731,11 +1731,11 @@
           "ar": [
             {
               "label": "فتحة التعبئة",
-              "value": "550 طول × 1200 إرتفاع ملم"
+              "value": "550 طول × 1200 ارتفاع ملم"
             },
             {
               "label": "حجم البالة",
-              "value": "300-1200 طول × 800 عرض × 1200 إرتفاع ملم"
+              "value": "300-1200 طول × 800 عرض × 1200 ارتفاع ملم"
             },
             {
               "label": "وزن البالة",
@@ -1743,7 +1743,7 @@
             },
             {
               "label": "مقاسات الماكينة",
-              "value": "3900 إرتفاع × 1200 طول × 1700 عرض ملم"
+              "value": "3900 ارتفاع × 1200 طول × 1700 عرض ملم"
             },
             {
               "label": "قوة المحرك",
@@ -1978,7 +1978,7 @@
             },
             {
               "label": "مقاسات المعدة",
-              "value": "800 × 500 مم (الطول × الإرتفاع)"
+              "value": "800 × 500 مم (الطول × الارتفاع)"
             },
             {
               "label": "مقاسات البالة",
@@ -2207,7 +2207,7 @@
               "value": "1380 ملم × 2090 ملم"
             },
             {
-              "label": "إرتفاع فتحة التعبئة",
+              "label": "ارتفاع فتحة التعبئة",
               "value": "1480 ملم"
             },
             {
@@ -2899,7 +2899,7 @@
         "coverImage": "https://sabtech.com.sa/wp-content/uploads/2019/05/Mast-Cargo-Hydraulic-Lift-.jpg",
         "description": {
           "ar": "توفر رافعة البضائع الهيدروليكية من ساب تك حلاً سريعًا وفعالًا وموثوقًا لنقل البضائع داخل المباني والمستودعات متعددة الطوابق. وتضمن الوصول الآمن إلى ارتفاعات تصل إلى 10 أمتار من الطوابق السفلية والطوابق الأرضية والميزانين والشرفات.\nتم تصميم مصعد البضائع المثبت على الحائط هذا للتركيب الداخلي والخارجي، وهو فعال في العمالة، وفعال من حيث التكلفة، ومصمم ليدوم طويلاً، ويتطلب الحد الأدنى من الصيانة. من خلال استخدام الطاقة الهيدروليكية، فإنه ينقل بسهولة حمولات تصل إلى 3 طن من مستوى الأرض إلى الارتفاعات المرتفعة، مما يجعله خيارًا مثاليًا لمختلف التطبيقات التجارية والصناعية.",
-          "en": "Sabtech hydraulic cargo lift provides a fast, efficient, and reliable solution for transporting goods within multi-story buildings and warehouses. It ensures safe access to heights up to 10 meters from basements, ground floors, mezzanines, and balconies.\nDesigned for internal and external wall-mounted installation, this cost-effective cargo lift reduces labor costs, increases productivity, and handles loads up to 3 tons smoothly using hydraulic power."
+          "en": "SAB TECH hydraulic cargo lift provides a fast, efficient, and reliable solution for transporting goods within multi-story buildings and warehouses. It ensures safe access to heights up to 10 meters from basements, ground floors, mezzanines, and balconies.\nDesigned for internal and external wall-mounted installation, this cost-effective cargo lift reduces labor costs, increases productivity, and handles loads up to 3 tons smoothly using hydraulic power."
         },
         "features": {
           "ar": [
@@ -3136,8 +3136,8 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/scissors-lift/1.png",
         "description": {
-          "ar": "الرافعة المقصية الهيدروليكية من ساب تكـ خيار موثوق للغاية لمهام مناولة البضائع والمواد، وتتميز ببناء قوي ونظام طاقة هيدروليكي عالي الأداء.\nتم تصميم هذه الطاولات بدقة مع وضع السلامة كأولوية قصوى، وتتضمن صمام تخفيف هيدروليكي لمنع الحوادث وضمان حماية الموظفين والمنشآت. تضمن الرافعة المقصية النقل العمودي الفعال للمواد، وتعمل على تقليل الانحراف حتى عند التعامل مع حمولات تصل إلى 3 طن، مما يسهل العمليات في المستودعات ومرافق التصنيع ومراكز التوزيع.",
-          "en": "Sabtech hydraulic scissor lift table provides a dependable solution for heavy-duty material handling. Featuring a rugged construction and high-performance hydraulic system, it is designed with safety as top priority.\nIncludes hydraulic relief valves to protect personnel and structures. It minimizes deflection when handling loads up to 3 tons and provides smooth vertical transport of goods across warehouses, manufacturing plants, and logistics hubs."
+          "ar": "الرافعة المقصية الهيدروليكية من ساب تك خيار موثوق للغاية لمهام مناولة البضائع والمواد، وتتميز ببناء قوي ونظام طاقة هيدروليكي عالي الأداء.\nتم تصميم هذه الطاولات بدقة مع وضع السلامة كأولوية قصوى، وتتضمن صمام تخفيف هيدروليكي لمنع الحوادث وضمان حماية الموظفين والمنشآت. تضمن الرافعة المقصية النقل العمودي الفعال للمواد، وتعمل على تقليل الانحراف حتى عند التعامل مع حمولات تصل إلى 3 طن، مما يسهل العمليات في المستودعات ومرافق التصنيع ومراكز التوزيع.",
+          "en": "SAB TECH hydraulic scissor lift table provides a dependable solution for heavy-duty material handling. Featuring a rugged construction and high-performance hydraulic system, it is designed with safety as top priority.\nIncludes hydraulic relief valves to protect personnel and structures. It minimizes deflection when handling loads up to 3 tons and provides smooth vertical transport of goods across warehouses, manufacturing plants, and logistics hubs."
         },
         "features": {
           "ar": [
@@ -3550,7 +3550,7 @@
           {
             "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/MSCL-OPEN-1.jpg",
             "label": {
-              "ar": "نموذج عرض من الأعلي",
+              "ar": "نموذج عرض من الأعلى",
               "en": "Top View Drawing"
             }
           },
@@ -3657,7 +3657,7 @@
         "coverImage": "https://cdn.bestolex.com/bestolex/products/wheelchair-lift/1.png",
         "description": {
           "ar": "توفر مصاعد ورافعات الكراسي المتحركة الهيدروليكية حلاً هندسياً متطوراً ومريحاً وموثوقاً لنقل ذوي الاحتياجات الخاصة بأمان واستقلالية تامة بين المستويات والارتفاعات المختلفة، سواء في الأماكن الداخلية أو الخارجية كالمرائب، والطوابق السفلية، والميزانين، والمنشآت التجارية كالبنوك والفنادق والمستشفيات ومراكز التسوق.\nتتميز الرافعة بهيكل متناسق مدمج يناسب المساحات الصغيرة والضيقة، وتعمل بنظام طاقة هيدروليكي عالي الكفاءة يضمن الصعود والنزول السلس والآمن. كما يمكن تشغيلها والتحكم بها بسهولة فائقة عبر لوحة التحكم المدمجة على العمود أو أجهزة التحكم عن بعد لمزيد من المرونة مع توفر تحكم طوارئ يدوي متكامل، ومصممة حسب الطلب لتناسب الارتفاعات المطلوبة حتى 6 أمتار مع ضمان لمدة عام ودعم فني وقطع غيار أصلية.",
-          "en": "Sabtech hydraulic-powered wheelchair lifts provide an advanced, dependable, and convenient solution for transferring individuals with mobility needs safely and independently between different levels, both indoors and outdoors. Perfect for residential garages, basements, exterior decks, and commercial venues such as banks, hotels, hospitals, and shopping centers.\nFeaturing a compact, streamlined structure ideal for tight spaces, the lift operates via a high-efficiency hydraulic power pack ensuring smooth, secure ascent and descent. Operated effortlessly through column-mounted push buttons or wireless remote control with built-in emergency lowering controls. Fully customizable up to a lifting height of 6 meters and backed by a 1-year warranty, comprehensive maintenance, and genuine spare parts."
+          "en": "SAB TECH hydraulic-powered wheelchair lifts provide an advanced, dependable, and convenient solution for transferring individuals with mobility needs safely and independently between different levels, both indoors and outdoors. Perfect for residential garages, basements, exterior decks, and commercial venues such as banks, hotels, hospitals, and shopping centers.\nFeaturing a compact, streamlined structure ideal for tight spaces, the lift operates via a high-efficiency hydraulic power pack ensuring smooth, secure ascent and descent. Operated effortlessly through column-mounted push buttons or wireless remote control with built-in emergency lowering controls. Fully customizable up to a lifting height of 6 meters and backed by a 1-year warranty, comprehensive maintenance, and genuine spare parts."
         },
         "stats": {
           "ar": [
@@ -3947,7 +3947,7 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/hydraulic-dock-leveler/1.png",
         "description": {
-          "ar": "تم تصميم منصات التحميل الهيدروليكية من ساب تكـ بدقة شديدة لسد الفجوة بين منصات تحميل المستودعات والشاحنات ذات مستويات الارتفاع المختلفة، مما يضمن عمليات التحميل والتفريغ الآمنة والفعالة.\nتتيح منصات التحميل الهيدروليكية التشغيل الفعال مع الحد الأدنى من متطلبات الصيانة، مما يؤدي إلى انخفاض كبير في تكاليف الملكية مقارنة بالوحدات الميكانيكية. ونتيجة لذلك، فإن منصة التحميل الهيدروليكية من ساب تكـ يمثل الخيار الأمثل لتعزيز الإنتاجية في أي منطقة تحميل.\nتوفر منصة التحميل لدينا الأولوية للسلامة، مما يوفر للمشغلين القدرة على إيقاف حركة المنصة في أي وقت أثناء سفرها. تم تصميمها خصيصًا لاستيعاب جميع أنواع الرافعات الشوكية، فهي تتميز بزاوية ميل قصوى تبلغ 13 درجة لمنع الانزلاق إلى القاع أثناء الاستخدام.",
+          "ar": "تم تصميم منصات التحميل الهيدروليكية من ساب تك بدقة شديدة لسد الفجوة بين منصات تحميل المستودعات والشاحنات ذات مستويات الارتفاع المختلفة، مما يضمن عمليات التحميل والتفريغ الآمنة والفعالة.\nتتيح منصات التحميل الهيدروليكية التشغيل الفعال مع الحد الأدنى من متطلبات الصيانة، مما يؤدي إلى انخفاض كبير في تكاليف الملكية مقارنة بالوحدات الميكانيكية. ونتيجة لذلك، فإن منصة التحميل الهيدروليكية من ساب تك يمثل الخيار الأمثل لتعزيز الإنتاجية في أي منطقة تحميل.\nتوفر منصة التحميل لدينا الأولوية للسلامة، مما يوفر للمشغلين القدرة على إيقاف حركة المنصة في أي وقت أثناء سفرها. تم تصميمها خصيصًا لاستيعاب جميع أنواع الرافعات الشوكية، فهي تتميز بزاوية ميل قصوى تبلغ 13 درجة لمنع الانزلاق إلى القاع أثناء الاستخدام.",
           "en": "SAB TECH’s Hydraulic Dock Levelers are meticulously engineered to bridge the gap between warehouse loading bays and trucks of varying height levels, ensuring safe and efficient loading and unloading operations.\nThe hydraulic dock system enables efficient operation with minimal maintenance requirements, leading to significantly reduced ownership costs compared to mechanical units. As a result, SAB TECH’s Hydraulic Dock Leveler stands as the ideal choice to boost productivity at any loading bay."
         },
         "features": {
@@ -4184,7 +4184,7 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/dock-leveler-inkema/1.png",
         "description": {
-          "ar": "تعد منصة التحميل من انكيما حلاً لا غنى عنه لمحطات التحميل. مناسبة لاستيعاب ارتفاعات الشاحنات المختلفة ومناطق التحميل، مما يجعلها من المعدات الأساسية لجميع أنواع أماكن التحميل. تُعد منصة التحميل الطريقة الأكثر عملية لتغطية الفجوة والارتفاع بين مستودع التحميل والشاحنة، مما يسمح لها بالثبات بقوة على منصة التحميل.\nبفضل آلية الميلان الهيدروليكية والشفة المفصلية، يمكن لـ منصة التحميل سد المسافة والارتفاع بين منصة التحميل وجسم الشاحنة.\nتشتمل المنصة العلوية لمنصة التحميل على إطار قاعدة سفلي لدعم المكونات الإضافية، ويتم لصقها بالقاعدة، مما يحقق الميل اللازم لتبسيط أنشطة التحميل والتفريغ.",
+          "ar": "تعد منصة التحميل من إنكيما حلاً لا غنى عنه لمحطات التحميل. مناسبة لاستيعاب ارتفاعات الشاحنات المختلفة ومناطق التحميل، مما يجعلها من المعدات الأساسية لجميع أنواع أماكن التحميل. تُعد منصة التحميل الطريقة الأكثر عملية لتغطية الفجوة والارتفاع بين مستودع التحميل والشاحنة، مما يسمح لها بالثبات بقوة على منصة التحميل.\nبفضل آلية الميلان الهيدروليكية والشفة المفصلية، يمكن لـ منصة التحميل سد المسافة والارتفاع بين منصة التحميل وجسم الشاحنة.\nتشتمل المنصة العلوية لمنصة التحميل على إطار قاعدة سفلي لدعم المكونات الإضافية، ويتم لصقها بالقاعدة، مما يحقق الميل اللازم لتبسيط أنشطة التحميل والتفريغ.",
           "en": "Inkema’s RH1 Dock Leveler is an indispensable solution for loading bays. Suitable to accommodate different truck heights and loading bays making it an essential equipment for all types of loading bays. The dock leveler is the most practical way to cover the gap and height between a loading bay and truck, allowing it to rest firmly onto the loading bay.\nWith its hydraulic tilting mechanism and hinged lip, the RH1 Dock Leveler can bridge the distance and height between the loading bay and the truck’s body.\nComprising a lower base frame to support additional components, the dock leveler’s upper platform is affixed to the base, achieving the necessary incline to streamline loading and unloading activities."
         },
         "features": {
@@ -4374,7 +4374,7 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/manual-loading-bridges/1.png",
         "description": {
-          "ar": "تعد جسور التحميل اليدوية من انكيما حلاً سهلاً واقتصاديًا للغاية لتغطية الفجوات الصغيرة والمستويات المختلفة في أرصفة التحميل دون الحاجة لأي تمديدات كهربائية أو تركيبات معقدة.\nتُثبت جسور التحميل اليدوية على حافة رصيف التحميل وتتميز بسهولة التشغيل بفضل ذراع التشغيل الميكانيكي أو الأسطوانات الغازية المساعدة، مما يجعلها مثالية للعمل السريع في المستودعات والمراكز اللوجستية.",
+          "ar": "تعد جسور التحميل اليدوية من إنكيما حلاً سهلاً واقتصاديًا للغاية لتغطية الفجوات الصغيرة والمستويات المختلفة في أرصفة التحميل دون الحاجة لأي تمديدات كهربائية أو تركيبات معقدة.\nتُثبت جسور التحميل اليدوية على حافة رصيف التحميل وتتميز بسهولة التشغيل بفضل ذراع التشغيل الميكانيكي أو الأسطوانات الغازية المساعدة، مما يجعلها مثالية للعمل السريع في المستودعات والمراكز اللوجستية.",
           "en": "Inkema’s Manual Loading Bridges offer a simple, practical, and highly economical solution to bridge small gaps and height differences between loading docks and trucks without requiring electrical power or complex installations.\nSurface-mounted at the dock edge, they feature effortless manual or gas-spring assisted operation, providing reliable freight handling for logistics centers and warehouses."
         },
         "features": {
@@ -4555,7 +4555,7 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/inflatable-dock-shelter/1.png",
         "description": {
-          "ar": "تضمن أغطية البوابات المطاطية القابلة للإنتفاخ من انكيما إحكام الإغلاق التام وحماية الحاويات والشاحنات أثناء عملية التحميل والتفريغ في المناطق ذات التحكم الحراري أو الغرف المبردة.\nتنتفخ الوسائد المطاطية حول الشاحنة فور توقفها لتغليف جسم الشاحنة من كافة الجوانب، مما يمنع تسرب الهواء البارد وحماية البضائع الحساسة من الأتربة والحشرات والعوامل الجوية الخارجية.",
+          "ar": "تضمن أغطية البوابات المطاطية القابلة للإنتفاخ من إنكيما إحكام الإغلاق التام وحماية الحاويات والشاحنات أثناء عملية التحميل والتفريغ في المناطق ذات التحكم الحراري أو الغرف المبردة.\nتنتفخ الوسائد المطاطية حول الشاحنة فور توقفها لتغليف جسم الشاحنة من كافة الجوانب، مما يمنع تسرب الهواء البارد وحماية البضائع الحساسة من الأتربة والحشرات والعوامل الجوية الخارجية.",
           "en": "Inkema’s Inflatable Dock Shelters provide an absolute hermetic seal around trucks and containers during loading and unloading, making them essential for cold storage and climate-controlled facilities.\nInflatable cushions expand around the vehicle’s body upon docking, completely sealing the perimeter to prevent thermal loss, dust ingress, and external contamination."
         },
         "features": {
@@ -4619,7 +4619,7 @@
               "value": "0.55 كيلوواط"
             },
             {
-              "label": "زمن الإنتفاخ التام",
+              "label": "زمن الانتفاخ التام",
               "value": "15 – 20 ثانية"
             },
             {
@@ -4737,7 +4737,7 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/retractable-dock-shelter/1.png",
         "description": {
-          "ar": "تتميز أغطية البوابات المطاطية القابلة للإرتداد من انكيما بهيكل مرن يمتص الصدمات الناتجة عن ركن الشاحنات غير الدقيق، حيث يرتد الهيكل الفولاذي للخلف لحماية البوابة من التلف ثم يعود لوضعه الأصلي.\nتوفر الستائر المطاطية حماية ممتازة لعزل حافة التحميل ومنع دخول مياه الأمطار والغبار والحرارة أثناء عمليات الشحن والتفريغ.",
+          "ar": "تتميز أغطية البوابات المطاطية القابلة للإرتداد من إنكيما بهيكل مرن يمتص الصدمات الناتجة عن ركن الشاحنات غير الدقيق، حيث يرتد الهيكل الفولاذي للخلف لحماية البوابة من التلف ثم يعود لوضعه الأصلي.\nتوفر الستائر المطاطية حماية ممتازة لعزل حافة التحميل ومنع دخول مياه الأمطار والغبار والحرارة أثناء عمليات الشحن والتفريغ.",
           "en": "Inkema’s Retractable Dock Shelters feature a flexible structure designed to absorb impact in case of improper truck positioning, retracting backward to prevent structural damage and automatically returning to its position.\nDurable PVC curtains provide an effective perimeter seal around the docked vehicle, protecting personnel and goods from rain, wind, heat, and dust."
         },
         "features": {
@@ -4919,21 +4919,21 @@
           {
             "image": "https://cdn.bestolex.com/bestolex/products/movable-dock-ramp/component-adjustable-screw-adding-more-support.png",
             "label": {
-              "ar": "مسمار تعديل الإرتفاعات يعمل كدعامة تقوية وعالية الأداء للتثبيت علي الارض",
+              "ar": "مسمار تعديل الارتفاعات يعمل كدعامة تقوية وعالية الأداء للتثبيت على الأرض",
               "en": "Adjustable Screw Adding More Support"
             }
           },
           {
             "image": "https://cdn.bestolex.com/bestolex/products/movable-dock-ramp/component-user-friendly-for-maximum-productivity-adjustable-landing-jack.png",
             "label": {
-              "ar": "سهولة تعديل الإرتفاعات عن طريق رافعة يدوية",
+              "ar": "سهولة تعديل الارتفاعات عن طريق رافعة يدوية",
               "en": "User-friendly for Maximum Productivity Adjustable Landing Jack"
             }
           },
           {
             "image": "https://cdn.bestolex.com/bestolex/products/movable-dock-ramp/component-heavy-duting-folding-lip-for-easy-exit-and-entry.png",
             "label": {
-              "ar": "لسان خلفى متين وقوى قابل للطئ للصعود والنزول من المنصة",
+              "ar": "لسان خلفي متين وقوي قابل للطي للصعود والنزول من المنصة",
               "en": "Heavy Duty Folding Lip for Easy Exit and Entry"
             }
           },
@@ -4961,7 +4961,7 @@
           {
             "image": "https://cdn.bestolex.com/bestolex/products/movable-dock-ramp/component-soild-tires-for-easy-movement-to-different-locations.png",
             "label": {
-              "ar": "الإطارات الصلبة لسهولة الحركة من موقع الي اخر",
+              "ar": "الإطارات الصلبة لسهولة الحركة من موقع إلى آخر",
               "en": "Solid Tires for Easy Movement to Different Locations"
             }
           },
@@ -5137,7 +5137,7 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/minidock/1.png",
         "description": {
-          "ar": "لقد حققت منصة التحميل الصغيرة من انكيما، المعروفة أيضًا باسم ميني دوك ليفيلر، نجاحًا هائلاً منذ إطلاقها بسبب صغر حجمها وحقيقة أنه لا يتطلب أي حفرة للتركيب!\nتعد منصة التحميل الصغيرة خيارًا سريعًا وسهلاً للتثبيت في أي نوع من مستودعات التحميل. يدعم ما يصل إلى 6 طن حمولة في عمليات التحميل والتفريغ على الرغم من صغر حجمها.\nلإزالة منصة التحميل الصغيرة بعد التحميل/التفريغ لا تشكل أي صعوبة، ما عليك سوى سحب الرافعة إلى الخلف دون رفعها بالكامل ووضعها على محطة توقف منخفضة.\nعملية وسهلة وآمنة للتثبيت من خلال توفير قدر كبير من المساحة في أي منطقة تحميل.",
+          "ar": "لقد حققت منصة التحميل الصغيرة من إنكيما، المعروفة أيضًا باسم ميني دوك ليفيلر، نجاحًا هائلاً منذ إطلاقها بسبب صغر حجمها وحقيقة أنه لا يتطلب أي حفرة للتركيب!\nتعد منصة التحميل الصغيرة خيارًا سريعًا وسهلاً للتثبيت في أي نوع من مستودعات التحميل. يدعم ما يصل إلى 6 طن حمولة في عمليات التحميل والتفريغ على الرغم من صغر حجمها.\nلإزالة منصة التحميل الصغيرة بعد التحميل/التفريغ لا تشكل أي صعوبة، ما عليك سوى سحب الرافعة إلى الخلف دون رفعها بالكامل ووضعها على محطة توقف منخفضة.\nعملية وسهلة وآمنة للتثبيت من خلال توفير قدر كبير من المساحة في أي منطقة تحميل.",
           "en": "Inkema’s Mini Dock, also known as Mini Dock Leveler, has been an enormous success since its launch attributed to its small size and the fact that it requires no installation of pit!\nThe Mini Dock is a fast & easy option for installation at any type of loading bay. It supports up to 6 tons of dynamic load in loading & unloading operations despite its small size.\nTo remove the Mini Dock after loading/unloading poses no difficulty, simply pull the lever backwards without raising it entirely and place it on the lowering stops.\nIt is practical, easy, and safe to install by saving a considerable amount of space at any loading bay."
         },
         "features": {
@@ -5167,7 +5167,7 @@
           {
             "image": "https://cdn.bestolex.com/bestolex/products/minidock/component-easy-to-install.png",
             "label": {
-              "ar": "سهلة التركيب والتشبيت",
+              "ar": "سهلة التركيب والتثبيت",
               "en": "Easy to Install"
             }
           },
@@ -5349,8 +5349,8 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/mobile-loading-dock/1.png",
         "description": {
-          "ar": "تقدم منصة التحميل الهيدروليكية المتحركة من ساب تكـ حلاً مثاليًا لنقل البضائع عموديًا وتسهيل التحميل والتفريغ في الأماكن الضيقة. منصة التحميل متوافقة مع الرافعات الشوكية، لا تقدر بثمن في المواقع التي تفتقر إلى منطقة التحميل والمنصات ذات الصلة. يمكن تعديل ارتفاع المنصة للتكيف بسهولة لتناسب أحجام الحاويات والشاحنات المختلفة، مما يسمح للرافعات الشوكية بالوصول إلى الأجزاء الداخلية للحاوية من أجل العمل بجودة فائقة. يتم استخدامها على نطاق واسع في المستودعات والمصانع والمحطات والأرصفة والمرافق اللوجستية، وقد تم تصميم منصات التحميل المتحركة لتشغيل عامل واحد.",
-          "en": "SABTECH’s Hydraulic Mobile Loading Dock Lift presents an ideal solution for vertically moving goods and facilitating loading and unloading in confined spaces. This critical material handling equipment, compatible with forklifts, is invaluable in locations lacking a loading bay and its relevant platforms. Its adaptable working height can be effortlessly adjusted to accommodate various container and truck sizes, allowing forklifts to access the container interiors for efficient batch operations. Widely deployed in warehouses, factories, stations, docks, and logistics facilities, these Mobile Loading Dock Lifts are designed for single-worker operation."
+          "ar": "تقدم منصة التحميل الهيدروليكية المتحركة من ساب تك حلاً مثاليًا لنقل البضائع عموديًا وتسهيل التحميل والتفريغ في الأماكن الضيقة. منصة التحميل متوافقة مع الرافعات الشوكية، لا تقدر بثمن في المواقع التي تفتقر إلى منطقة التحميل والمنصات ذات الصلة. يمكن تعديل ارتفاع المنصة للتكيف بسهولة لتناسب أحجام الحاويات والشاحنات المختلفة، مما يسمح للرافعات الشوكية بالوصول إلى الأجزاء الداخلية للحاوية من أجل العمل بجودة فائقة. يتم استخدامها على نطاق واسع في المستودعات والمصانع والمحطات والأرصفة والمرافق اللوجستية، وقد تم تصميم منصات التحميل المتحركة لتشغيل عامل واحد.",
+          "en": "SAB TECH’s Hydraulic Mobile Loading Dock Lift presents an ideal solution for vertically moving goods and facilitating loading and unloading in confined spaces. This critical material handling equipment, compatible with forklifts, is invaluable in locations lacking a loading bay and its relevant platforms. Its adaptable working height can be effortlessly adjusted to accommodate various container and truck sizes, allowing forklifts to access the container interiors for efficient batch operations. Widely deployed in warehouses, factories, stations, docks, and logistics facilities, these Mobile Loading Dock Lifts are designed for single-worker operation."
         },
         "features": {
           "ar": [
@@ -5609,8 +5609,8 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/above-ground-tyre-killer/1.png",
         "description": {
-          "ar": "مفجر الإطارات المثبت على السطح فوق الأرض من ساب تكـ هو نظام أمني متطور يثبت مباشره على سطح الأسفلت أو الخرسانة دون الحاجة إلى أعمال حفر عميقة أو أساسات أرضية معقدة.\nمصمم بصفائح فولاذية منحنية مانعة للانزلاق وأشواك فولاذية حادة تبرز عند محاولة الدخول الخاطئ أو غير المصرح به لتدمير إطارات المركبات فوراً.\nيعتبر الخيار المثالي والأمثل للمواقع الحساسة والمؤقتة أو الطرق التي تحتوي على تمديدات تحت الأرض تحول دون الحفر العميق.",
-          "en": "SABTECH’s Surface Mount Above Ground Tyre Killer is an engineered high-security barrier installed directly onto asphalt or concrete surfaces without requiring deep pit excavation.\nDesigned with heavy-duty anti-slip ramps and sharp steel spikes that immediately puncture and destroy vehicle tyres attempting unauthorized entry or wrong-way driving.\nIdeal for sensitive facilities, temporary checkpoints, or sites with underground utilities where deep excavation is impossible."
+          "ar": "مفجر الإطارات المثبت على السطح فوق الأرض من ساب تك هو نظام أمني متطور يثبت مباشرة على سطح الأسفلت أو الخرسانة دون الحاجة إلى أعمال حفر عميقة أو أساسات أرضية معقدة.\nمصمم بصفائح فولاذية منحنية مانعة للانزلاق وأشواك فولاذية حادة تبرز عند محاولة الدخول الخاطئ أو غير المصرح به لتدمير إطارات المركبات فوراً.\nيعتبر الخيار المثالي والأمثل للمواقع الحساسة والمؤقتة أو الطرق التي تحتوي على تمديدات تحت الأرض تحول دون الحفر العميق.",
+          "en": "SAB TECH’s Surface Mount Above Ground Tyre Killer is an engineered high-security barrier installed directly onto asphalt or concrete surfaces without requiring deep pit excavation.\nDesigned with heavy-duty anti-slip ramps and sharp steel spikes that immediately puncture and destroy vehicle tyres attempting unauthorized entry or wrong-way driving.\nIdeal for sensitive facilities, temporary checkpoints, or sites with underground utilities where deep excavation is impossible."
         },
         "features": {
           "ar": [
@@ -6386,7 +6386,7 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/road-blocker/1.png",
         "description": {
-          "ar": "توفر مصدات الطرق الهيدروليكية من ساب تكـ حماية أمنية قوية وعالية الأداء وفعالة للمناطق الحساسة، مما يضمن دفاعًا لا مثيل له ضد هجمات الدخلاء غير المرغوب فيها.\nتوفر مصدات الطرق لدينا تدفقًا سلسًا لحركة المرور للمركبات المرخصة مع منع اقتحام المركبات غير المصرح به.\nمدعومة بوحدة الطاقة الهيدروليكية (HPU)، يمكن لمصدات الطرق الخاصة بنا أن ترفع وتنخفض بسرعة (خلال 4-6 ثواني)، مما يضمن التشغيل السريع.\nفي حالة انقطاع التيار الكهربائي، تسمح المضخة اليدوية المجهزة خصيصًا بالتشغيل اليدوي، مما يضمن الأمان المستمر حتى في ظل الظروف المعاكسة.",
+          "ar": "توفر مصدات الطرق الهيدروليكية من ساب تك حماية أمنية قوية وعالية الأداء وفعالة للمناطق الحساسة، مما يضمن دفاعًا لا مثيل له ضد هجمات الدخلاء غير المرغوب فيها.\nتوفر مصدات الطرق لدينا تدفقًا سلسًا لحركة المرور للمركبات المرخصة مع منع اقتحام المركبات غير المصرح به.\nمدعومة بوحدة الطاقة الهيدروليكية (HPU)، يمكن لمصدات الطرق الخاصة بنا أن ترفع وتنخفض بسرعة (خلال 4-6 ثواني)، مما يضمن التشغيل السريع.\nفي حالة انقطاع التيار الكهربائي، تسمح المضخة اليدوية المجهزة خصيصًا بالتشغيل اليدوي، مما يضمن الأمان المستمر حتى في ظل الظروف المعاكسة.",
           "en": "SAB TECH’s Hydraulic Road blockers offer robust and effective security protection for sensitive areas, ensuring unparalleled defense against unwanted intruder attacks.\nOur road blockers provide seamless traffic flow for authorized vehicles while deterring unauthorized vehicular intrusion.\nPowered by a hydraulic power unit (HPU), our road blockers can rapidly lift and lower (in 4-6 seconds), ensuring swift operation.\nIn the event of a power failure, a specially fitted hand pump allows for manual operation, ensuring continuous security even under adverse conditions."
         },
         "features": {
@@ -6655,8 +6655,8 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/surface-mount-hydraulic-road-blocker/1.png",
         "description": {
-          "ar": "حاجز الطريق الهيدروليكي المثبت على السطح من ساب تكـ هو حل أمني متكامل يثبت مباشرة فوق سطح الطريق دون الحاجة إلى أي أعمال حفر أو حفر خرساني عميق.\nمصمم بصفائح صلبة مصفحة ومنحدرات جانبية تمكن المركبات من العبور السلس في الاتجاه المصرح به، بينما تمنع الاقتحام وتغلق الطريق فوراً عند الحاجة.\nيتميز بوحدة طاقة هيدروليكية قوية وعالية الأداء (HPU) تضمن رفع وخفض الحاجز بسرعة فائقة (خلال 3-5 ثواني)، مع إمكانية التشغيل اليدوي المدمج عند انقطاع التيار الكهربائي.",
-          "en": "SABTECH’s Surface Mount Hydraulic Road Blocker is a heavy-duty security solution installed directly onto the road surface without requiring pit excavation or deep concrete foundations.\nEngineered with armoured steel plates and integral side ramps, allowing smooth passage for authorized vehicles while immediately blocking unwanted intrusions.\nPowered by a high-output Hydraulic Power Unit (HPU) providing rapid lifting and lowering (within 3-5 seconds), featuring manual emergency override during power outages."
+          "ar": "حاجز الطريق الهيدروليكي المثبت على السطح من ساب تك هو حل أمني متكامل يثبت مباشرة فوق سطح الطريق دون الحاجة إلى أي أعمال حفر أو حفر خرساني عميق.\nمصمم بصفائح صلبة مصفحة ومنحدرات جانبية تمكن المركبات من العبور السلس في الاتجاه المصرح به، بينما تمنع الاقتحام وتغلق الطريق فوراً عند الحاجة.\nيتميز بوحدة طاقة هيدروليكية قوية وعالية الأداء (HPU) تضمن رفع وخفض الحاجز بسرعة فائقة (خلال 3-5 ثواني)، مع إمكانية التشغيل اليدوي المدمج عند انقطاع التيار الكهربائي.",
+          "en": "SAB TECH’s Surface Mount Hydraulic Road Blocker is a heavy-duty security solution installed directly onto the road surface without requiring pit excavation or deep concrete foundations.\nEngineered with armoured steel plates and integral side ramps, allowing smooth passage for authorized vehicles while immediately blocking unwanted intrusions.\nPowered by a high-output Hydraulic Power Unit (HPU) providing rapid lifting and lowering (within 3-5 seconds), featuring manual emergency override during power outages."
         },
         "features": {
           "ar": [
@@ -6865,7 +6865,7 @@
         "coverImage": "https://cdn.bestolex.com/bestolex/products/road-bollard/1.png",
         "description": {
           "ar": "مصدات الطرق العمودية الهيدروليكية الأوتوماتيكية من ساب تك هي الحل الأمثل والأنيق لتنظيم وإدارة حركة مرور المركبات وحماية المداخل الحساسة والمباني الهامة.\nمصنوعة من الفولاذ المقاوم للصدأ عالي الجودة والصلابة، وتتميز بحلقات إضاءة LED مدمجة توفر رؤية ووضوحاً ممتازين أثناء الليل والظروف الجوية المختلفة.\nتعمل بالنظام الهيدروليكي السريع للرفع والخفض تلقائياً، وتدعم التكامل الكامل مع كافة أنظمة حديثة وموثوقة التحكم في الدخول مثل البطاقات، الريموت كنترول، وقارئ اللوحات.",
-          "en": "SABTECH’s Automatic Hydraulic Road Bollards provide an elegant and effective solution for vehicle access control and high-security perimeter defense at critical entrances.\nManufactured from premium-grade stainless steel and heavy-duty materials, equipped with integrated LED light rings for high visibility during nighttime and harsh weather.\nPowered by a rapid hydraulic lifting mechanism, with full compatibility across all access control systems including card readers, remote controls, and ANPR license plate recognition."
+          "en": "SAB TECH’s Automatic Hydraulic Road Bollards provide an elegant and effective solution for vehicle access control and high-security perimeter defense at critical entrances.\nManufactured from premium-grade stainless steel and heavy-duty materials, equipped with integrated LED light rings for high visibility during nighttime and harsh weather.\nPowered by a rapid hydraulic lifting mechanism, with full compatibility across all access control systems including card readers, remote controls, and ANPR license plate recognition."
         },
         "features": {
           "ar": [
@@ -7064,7 +7064,7 @@
         "coverImage": "https://cdn.bestolex.com/bestolex/products/turnstiles/1.png",
         "description": {
           "ar": "البوابات الدوارة الأمنية من ساب تك هي الحل الأمثل والموثوق لتنظيم حركة دخول وخروج الأفراد وإدارة حشود الزوار في المنشآت والمباني الحساسة.\nتتميز بتصميم ميكانيكي وكهرومغناطيسي قوي مصنوع من الفولاذ المقاوم للصدأ (الستانلس ستيل) لضمان المتانة العالية والعمل المستمر في مختلف الظروف البيئية.\nتدعم الربط الكامل مع أنظمة حديثة وموثوقة التحكم في الدخول مثل أجهزة قراءة البطاقات الذكية، البصمة الحيوية، والتعرف على الوجه، مع إمكانية الفتح التلقائي للطوارئ عند انقطاع التيار الكهربائي.",
-          "en": "SABTECH’s Security Turnstiles offer a highly reliable and robust solution for controlling pedestrian access and managing visitor flow in high-security facilities.\nEngineered with precision electromechanical mechanisms housed in durable stainless steel cabinets, ensuring long-term performance under heavy usage.\nFully compatible with all access control integrations including RFID card readers, biometric scanners, and facial recognition, with emergency automatic release upon power failure."
+          "en": "SAB TECH’s Security Turnstiles offer a highly reliable and robust solution for controlling pedestrian access and managing visitor flow in high-security facilities.\nEngineered with precision electromechanical mechanisms housed in durable stainless steel cabinets, ensuring long-term performance under heavy usage.\nFully compatible with all access control integrations including RFID card readers, biometric scanners, and facial recognition, with emergency automatic release upon power failure."
         },
         "features": {
           "ar": [
@@ -7233,8 +7233,8 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/under-vehicle-surveillance-system/1.png",
         "description": {
-          "ar": "نظام المراقبة وفحص أسفل المركبات من ساب تكـ هو نظام أمني متطور مصمم خصيصاً للمسح الضوئي الرقمي الدقيق لأسفل المركبات والكشف عن الأجسام والغرباء والمواد الممنوعة في الوقت الفعلي.\nيتميز بكاميرات عالية الدقة والسرعة (Line-scan HD) وأنظمة حديثة وموثوقة إضاءة LED مدمجة قوية وعالية الأداء تلتقط صورة عالية الوضوح لأسفل المركبة فور مرورها عبر الماسح الضوئي.\nيتكامل النظام تلقائياً مع كاميرات التعرف على لوحات المركبات (ANPR) والأنظمة حديثة وموثوقة الأمنية المركزية، مما يضمن أقصى مستويات التفتيش والأمان عند المداخل الحساسة والمطارات والمنشآت العسكرية والحكومية.",
-          "en": "SABTECH’s Under Vehicle Surveillance System (UVSS) is an advanced digital screening solution designed for real-time inspection and threat detection underneath passing vehicles.\nEquipped with high-resolution line-scan HD cameras and powerful integrated LED illumination to instantly capture clear full-underbody images as vehicles drive over the scanner.\nSeamlessly integrates with Automatic Number Plate Recognition (ANPR) cameras and central security systems, providing top-tier security screening for critical infrastructure, airports, and government installations."
+          "ar": "نظام المراقبة وفحص أسفل المركبات من ساب تك هو نظام أمني متطور مصمم خصيصاً للمسح الضوئي الرقمي الدقيق لأسفل المركبات والكشف عن الأجسام والغرباء والمواد الممنوعة في الوقت الفعلي.\nيتميز بكاميرات عالية الدقة والسرعة (Line-scan HD) وأنظمة حديثة وموثوقة إضاءة LED مدمجة قوية وعالية الأداء تلتقط صورة عالية الوضوح لأسفل المركبة فور مرورها عبر الماسح الضوئي.\nيتكامل النظام تلقائياً مع كاميرات التعرف على لوحات المركبات (ANPR) والأنظمة حديثة وموثوقة الأمنية المركزية، مما يضمن أقصى مستويات التفتيش والأمان عند المداخل الحساسة والمطارات والمنشآت العسكرية والحكومية.",
+          "en": "SAB TECH’s Under Vehicle Surveillance System (UVSS) is an advanced digital screening solution designed for real-time inspection and threat detection underneath passing vehicles.\nEquipped with high-resolution line-scan HD cameras and powerful integrated LED illumination to instantly capture clear full-underbody images as vehicles drive over the scanner.\nSeamlessly integrates with Automatic Number Plate Recognition (ANPR) cameras and central security systems, providing top-tier security screening for critical infrastructure, airports, and government installations."
         },
         "features": {
           "ar": [
@@ -7402,8 +7402,8 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/tyre-killer/2.png",
         "description": {
-          "ar": "مفجر الإطارات من ساب تكـ هو نظام أمني صلب وشديد الفعالية مصمم لمنع وحظر حركة المركبات غير المصرح بها في الاتجاه الممنوع ومنع اقتحام المنشآت الحساسة.\nمصنوع من الفولاذ الصلب عالي التحمل ومزود بأشواك فولاذية حادة تضمن تدمير إطارات المركبات المعتدية فوراً لمنعها من التقدم.\nيتوفر بموديلات كهروميكانيكية هيدروليكية أو بميكانيكية الثقل التلقائي، وتدعم التكامل الكامل مع كافة أنظمة حديثة وموثوقة التحكم في الدخول وإشارات المرور.",
-          "en": "SABTECH’s Tyre Killer is a heavy-duty security barrier designed to strictly prevent unauthorized vehicle entry and block traffic in wrong-way directions at critical access control points.\nConstructed from high-tensile heavy steel equipped with sharp steel spikes that instantly disable vehicle tyres upon impact, preventing forced intrusion.\nAvailable in electromechanical hydraulic drive models or mechanical counterweight self-reset models, fully integrable with access control systems and traffic indicators."
+          "ar": "مفجر الإطارات من ساب تك هو نظام أمني صلب وشديد الفعالية مصمم لمنع وحظر حركة المركبات غير المصرح بها في الاتجاه الممنوع ومنع اقتحام المنشآت الحساسة.\nمصنوع من الفولاذ الصلب عالي التحمل ومزود بأشواك فولاذية حادة تضمن تدمير إطارات المركبات المعتدية فوراً لمنعها من التقدم.\nيتوفر بموديلات كهروميكانيكية هيدروليكية أو بميكانيكية الثقل التلقائي، وتدعم التكامل الكامل مع كافة أنظمة حديثة وموثوقة التحكم في الدخول وإشارات المرور.",
+          "en": "SAB TECH’s Tyre Killer is a heavy-duty security barrier designed to strictly prevent unauthorized vehicle entry and block traffic in wrong-way directions at critical access control points.\nConstructed from high-tensile heavy steel equipped with sharp steel spikes that instantly disable vehicle tyres upon impact, preventing forced intrusion.\nAvailable in electromechanical hydraulic drive models or mechanical counterweight self-reset models, fully integrable with access control systems and traffic indicators."
         },
         "features": {
           "ar": [
