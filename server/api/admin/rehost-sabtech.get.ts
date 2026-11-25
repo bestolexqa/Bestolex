@@ -1,5 +1,5 @@
 import { isAdminRequest } from '~~/server/utils/adminAuth'
-import { assets, SABTECH_STORAGE_ZONE, SABTECH_CDN_HOST } from '~~/server/utils/sabtechRehost'
+import { assets, withdrawn, SABTECH_STORAGE_ZONE, SABTECH_CDN_HOST } from '~~/server/utils/sabtechRehost'
 
 export default defineEventHandler((event) => {
   // The admin guard middleware covers this; the check is repeated here so a
@@ -17,8 +17,7 @@ export default defineEventHandler((event) => {
     products: new Set(list.map(a => a.product)).size,
     drawings: byKind('drawing-'),
     components: byKind('component-'),
-    brochures: byKind('brochure'),
-    datasheets: byKind('datasheet'),
+    withdrawnCount: withdrawn().length,
     certificates: byKind('certificate') + byKind('crash'),
     pdfs,
     images: list.length - pdfs

@@ -12,10 +12,11 @@
  */
 import { createHash } from 'node:crypto'
 import rehostMap from '~~/server/assets/sabtech-rehost-map.json'
+import withdrawnMap from '~~/server/assets/sabtech-withdrawn.json'
 
 export type RehostAsset = { product: string, source: string, path: string }
 export type RehostResult = RehostAsset & {
-  status: 'copied' | 'exists' | 'verified' | 'failed'
+  status: 'copied' | 'exists' | 'verified' | 'deleted' | 'absent' | 'failed'
   bytes?: number
   detail?: string
   url?: string
@@ -29,6 +30,15 @@ const STORAGE_BASE = process.env.BUNNY_STORAGE_BASE_URL || 'https://storage.bunn
 
 export function assets(): RehostAsset[] {
   return rehostMap as RehostAsset[]
+}
+
+/**
+ * SAB TECH's own brochures and datasheets. The owner's rule is that no SAB TECH
+ * catalogue is hosted by us or attached to a product, so these are kept here as
+ * the list to delete from the zone and never to copy again - not in assets().
+ */
+export function withdrawn(): RehostAsset[] {
+  return withdrawnMap as RehostAsset[]
 }
 
 export function cdnUrl(path: string): string {
@@ -118,4 +128,23 @@ export async function copySabtechOne(a: RehostAsset, force = false): Promise<Reh
     return { ...a, status: 'failed', detail: `upload error: ${e?.message || e}` }
   }
   return { ...a, status: 'copied', bytes: body.byteLength, url: cdnUrl(a.path) }
+}
+
+/** Removes a withdrawn file from the zone. A file already gone counts as done. */
+export async function deleteSabtechOne(a: RehostAsset): Promise<RehostResult> {
+  const key = process.env.BUNNY_NEW_STORAGE_KEY || ''
+  if (!key) return { ...a, status: 'failed', detail: 'BUNNY_NEW_STORAGE_KEY is not set' }
+  try {
+    const res = await fetch(`${STORAGE_BASE}/${SABTECH_STORAGE_ZONE}/${encodeURI(a.path)}`, {
+      method: 'DELETE',
+      headers: { AccessKey: key },
+      signal: AbortSignal.timeout(15000)
+    })
+    await res.arrayBuffer().catch(() => undefined)
+    if (res.ok) return { ...a, status: 'deleted' }
+    if (res.status === 404) return { ...a, status: 'absent' }
+    return { ...a, status: 'failed', detail: `delete ${res.status}` }
+  } catch (e: any) {
+    return { ...a, status: 'failed', detail: `delete error: ${e?.message || e}` }
+  }
 }
