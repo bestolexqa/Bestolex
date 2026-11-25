@@ -188,13 +188,73 @@
         </div>
       </section>
 
-      <!-- مكونات وتفاصيل -->
-      <section v-if="product.featureImages && product.featureImages.length" class="bg-white dark:bg-gray-900">
+      <!-- مكونات وتفاصيل: فهرس القطع -->
+      <section v-if="partsList.length >= 3" class="bg-[#191919]" aria-labelledby="product-parts-title">
+        <div class="container mx-auto px-4 md:px-8 lg:px-12 py-14 md:py-16">
+
+          <div class="flex flex-wrap items-end justify-between gap-4 border-b border-[#343535] pb-5 mb-8">
+            <div class="flex flex-col gap-2">
+              <span class="text-sm font-bold text-[#E99E05]">{{ locale === 'ar' ? 'فهرس القطع' : 'Parts index' }}</span>
+              <h2 id="product-parts-title" class="font-display text-3xl md:text-4xl font-extrabold text-white leading-tight">
+                {{ locale === 'ar' ? 'مكونات وتفاصيل' : 'Components & Details' }}
+              </h2>
+            </div>
+            <p class="m-0 text-base text-[#B9BABA] leading-relaxed max-w-[46ch]">
+              {{ locale === 'ar' ? 'اختر قطعة لتراها عن قرب. الأسماء من كتالوج المصنّع.' : 'Pick a part to see it up close. Names come from the manufacturer catalogue.' }}
+            </p>
+          </div>
+
+          <div class="flex flex-col-reverse lg:flex-row gap-8 lg:gap-10 items-stretch">
+
+            <!-- الفهرس -->
+            <nav class="w-full lg:w-[360px] lg:flex-shrink-0 flex flex-col" :aria-label="locale === 'ar' ? 'قطع المنتج' : 'Product parts'">
+              <button
+                v-for="(part, idx) in partsList"
+                :key="idx"
+                type="button"
+                @click="activePart = idx"
+                :aria-pressed="activePart === idx"
+                class="parts-row text-start flex items-center gap-3.5 w-full border-0 border-b border-[#2E2E2E] bg-transparent cursor-pointer"
+                :class="activePart === idx ? 'py-4 pe-4' : 'py-3 pe-3.5'"
+              >
+                <span aria-hidden="true" class="w-[3px] self-stretch" :class="activePart === idx ? 'bg-[#E99E05]' : 'bg-transparent'"></span>
+                <span class="bp-num font-display font-bold text-[15px] w-6" dir="ltr" :class="activePart === idx ? 'text-[#E99E05]' : 'text-[#6F7070]'">{{ String(idx + 1).padStart(2, '0') }}</span>
+                <span class="flex-1 text-base leading-relaxed" :class="activePart === idx ? 'text-white font-bold' : 'text-[#B9BABA]'">{{ part.label[locale] }}</span>
+              </button>
+            </nav>
+
+            <!-- المنصة -->
+            <figure class="m-0 flex-1 flex flex-col gap-4">
+              <div class="relative border border-[#4A4B4B] bg-[#101010] overflow-hidden">
+                <span aria-hidden="true" class="bp-num font-display absolute top-2 left-5 font-extrabold text-[92px] md:text-[132px] leading-none text-white/[0.06]" dir="ltr">{{ String(activePart + 1).padStart(2, '0') }}</span>
+                <NuxtImg
+                  :key="activePart"
+                  :src="partsList[activePart].image"
+                  :alt="partsList[activePart].label[locale]"
+                  class="parts-stage relative block w-full aspect-[4/3] object-contain p-5 md:p-7"
+                  format="webp"
+                  loading="lazy"
+                />
+                <span aria-hidden="true" class="absolute bottom-0 start-0 h-[3px] bg-[#E99E05] transition-all duration-300" :style="{ width: Math.round(((activePart + 1) / partsList.length) * 100) + '%' }"></span>
+              </div>
+              <figcaption class="flex flex-wrap items-baseline gap-x-4 gap-y-2">
+                <span aria-hidden="true" class="w-8 h-0.5 bg-[#E99E05] self-center"></span>
+                <span class="font-display font-bold text-xl md:text-2xl text-white">{{ partsList[activePart].label[locale] }}</span>
+                <span class="bp-num ms-auto text-[15px] text-[#8A8B8B]" dir="ltr">{{ activePart + 1 }} / {{ partsList.length }}</span>
+              </figcaption>
+            </figure>
+
+          </div>
+        </div>
+      </section>
+
+      <!-- مكونات وتفاصيل: قطعتان أو أقل، فالفهرس لا يخدمها -->
+      <section v-else-if="partsList.length" class="bg-white dark:bg-gray-900">
         <div class="container mx-auto px-4 md:px-8 lg:px-12 py-12 md:py-16">
           <h2 class="font-display text-2xl md:text-3xl font-bold text-[#191919] dark:text-white mb-6">{{ locale === 'ar' ? 'مكونات وتفاصيل' : 'Components & Details' }}</h2>
           <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <figure v-for="(featImg, idx) in product.featureImages" :key="idx" class="m-0 bg-white dark:bg-gray-800 border border-[#E1E3E3] dark:border-gray-700 rounded-xl overflow-hidden">
-              <div class="w-full aspect-[4/3] md:aspect-video overflow-hidden bg-[#F4F5F5] dark:bg-gray-900 flex items-center justify-center p-4">
+            <figure v-for="(featImg, idx) in partsList" :key="idx" class="m-0 bg-white dark:bg-gray-800 border border-[#E1E3E3] dark:border-gray-700 rounded-xl overflow-hidden">
+              <div class="w-full aspect-[4/3] overflow-hidden bg-[#F4F5F5] dark:bg-gray-900 flex items-center justify-center p-4">
                 <NuxtImg :src="featImg.image" :alt="featImg.label[locale]" class="w-full h-full object-contain" format="webp" loading="lazy" />
               </div>
               <figcaption class="px-5 py-4 border-t border-[#E1E3E3] dark:border-gray-700 text-base md:text-lg font-bold text-[#191919] dark:text-white">{{ featImg.label[locale] }}</figcaption>
@@ -323,7 +383,7 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted, onUnmounted } from 'vue'
+import { ref, computed, watch, onMounted, onUnmounted } from 'vue'
 import { useRoute } from 'vue-router'
 import { useI18n } from 'vue-i18n'
 import mockProducts from '@/data/products.json'
@@ -518,6 +578,11 @@ const categoryName = computed(() => {
 // فلا يُرسم خط بلا رقم من الكتالوج.
 // كتل الأرقام تحت العنوان. النموذج يعتمد عليها، ولا تحمل إلا بيانات موجودة:
 // حقل stats إن وُجد (8 منتجات)، وإلا أقصر ثلاث مواصفات تحمل رقماً من الكتالوج.
+// فهرس القطع: القطعة المعروضة على المنصة
+const partsList = computed(() => product.value?.featureImages || [])
+const activePart = ref(0)
+watch(() => product.value?.id, () => { activePart.value = 0 })
+
 const heroFigures = computed(() => {
   const stats = product.value?.stats?.[locale.value]
   if (stats && stats.length) return stats.slice(0, 3).map(s => ({ value: s.value, label: s.label }))
@@ -634,6 +699,25 @@ onUnmounted(() => {
 </script>
 
 <style scoped>
+/* فهرس القطع: الصورة تصعد وتظهر عند التبديل — حركة واحدة مقصودة */
+.parts-stage {
+  animation: part-rise 0.34s cubic-bezier(0.2, 0.7, 0.3, 1) both;
+}
+@keyframes part-rise {
+  from { opacity: 0; transform: translateY(14px) scale(0.985); }
+  to   { opacity: 1; transform: none; }
+}
+.parts-row {
+  transition: background 0.18s ease, padding 0.18s ease;
+}
+.parts-row:hover {
+  background: rgba(255, 255, 255, 0.05);
+}
+@media (prefers-reduced-motion: reduce) {
+  .parts-stage { animation: none; }
+  .parts-row { transition: none; }
+}
+
 /* الأسئلة الشائعة: سهم الهوية بدل المثلث الافتراضي للمتصفح */
 .faq-summary {
   list-style: none;
