@@ -4300,13 +4300,13 @@
       {
         "id": "dock-leveler-inkema",
         "name": {
-          "ar": "رصيف تحميل إنكيما RH1",
-          "en": "Inkema Dock Leveler – RH1"
+          "ar": "رصيف تحميل إنكيما RH11",
+          "en": "Inkema Dock Leveler – RH11"
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/dock-leveler-inkema/1.png",
         "description": {
           "ar": "تعد منصة التحميل من انكيما حلاً لا غنى عنه لمحطات التحميل. مناسبة لاستيعاب ارتفاعات الشاحنات المختلفة ومناطق التحميل، مما يجعلها من المعدات الأساسية لجميع أنواع أماكن التحميل. تُعد منصة التحميل الطريقة الأكثر عملية لتغطية الفجوة والارتفاع بين مستودع التحميل والشاحنة، مما يسمح لها بالثبات بقوة على منصة التحميل.\nبفضل آلية الميلان الهيدروليكية والشفة المفصلية، يمكن لـ منصة التحميل سد المسافة والارتفاع بين منصة التحميل وجسم الشاحنة.\nتشتمل المنصة العلوية لمنصة التحميل على إطار قاعدة سفلي لدعم المكونات الإضافية، ويتم لصقها بالقاعدة، مما يحقق الميل اللازم لتبسيط أنشطة التحميل والتفريغ.",
-          "en": "Inkema’s RH1 Dock Leveler is an indispensable solution for loading bays. Suitable to accommodate different truck heights and loading bays making it an essential equipment for all types of loading bays. The dock leveler is the most practical way to cover the gap and height between a loading bay and truck, allowing it to rest firmly onto the loading bay.\nWith its hydraulic tilting mechanism and hinged lip, the RH1 Dock Leveler can bridge the distance and height between the loading bay and the truck’s body.\nComprising a lower base frame to support additional components, the dock leveler’s upper platform is affixed to the base, achieving the necessary incline to streamline loading and unloading activities."
+          "en": "Inkema’s RH11 Dock Leveler is an indispensable solution for loading bays. Suitable to accommodate different truck heights and loading bays making it an essential equipment for all types of loading bays. The dock leveler is the most practical way to cover the gap and height between a loading bay and truck, allowing it to rest firmly onto the loading bay.\nWith its hydraulic tilting mechanism and hinged lip, the RH11 Dock Leveler can bridge the distance and height between the loading bay and the truck’s body.\nComprising a lower base frame to support additional components, the dock leveler’s upper platform is affixed to the base, achieving the necessary incline to streamline loading and unloading activities."
         },
         "features": {
           "ar": [
@@ -4369,40 +4369,50 @@
           }
         ],
         "specs": {
-          "ar": [
-            {
-              "label": "أبعاد المنصة",
-              "value": "2000 × 2500 مم"
-            },
-            {
-              "label": "نطاق العمل أعلى مستوى المستودع",
-              "value": "حتى 600 مم"
-            },
-            {
-              "label": "نطاق العمل أسفل مستوى المستودع",
-              "value": "حتى 300 مم"
-            },
-            {
-              "label": "قدرة محرك الرفع",
-              "value": "0.75 كيلوواط"
-            },
-            {
-              "label": "الكهرباء",
-              "value": "240/415 فولت، 3 فاز، 50 هرتز"
-            }
-          ],
           "en": [
             {
-              "label": "Platform Size",
-              "value": "2000 × 2500 mm"
+              "label": "Model",
+              "value": "RH11 embedded type with 400 mm hinged lip (for an existing pit)"
             },
             {
-              "label": "Working Range Above Warehouse Level",
-              "value": "Up to 600 mm"
+              "label": "Lengths",
+              "value": "2,060 / 2,300 / 2,560 / 3,060 mm"
             },
             {
-              "label": "Working Range Below Warehouse Level",
-              "value": "Up to 300 mm"
+              "label": "Widths",
+              "value": "1,800 / 2,000 / 2,200 mm"
+            },
+            {
+              "label": "Height",
+              "value": "600 mm"
+            },
+            {
+              "label": "Dynamic Load Capacity",
+              "value": "6 tonnes (10 and 15 tonnes optional)"
+            },
+            {
+              "label": "Platform",
+              "value": "6/8 mm anti-slip chequer plate"
+            },
+            {
+              "label": "Lip",
+              "value": "400 mm hinged lip, 13/15 mm thick, self-cleaning reinforced hinges"
+            },
+            {
+              "label": "Finish",
+              "value": "Anthracite grey RAL 7016 (galvanised, AISI 304 stainless steel or any RAL colour optional)"
+            },
+            {
+              "label": "Safety Items",
+              "value": "Green LED indicator, emergency stop, fixed and movable side skirts, safety bar, anti-fall safety valves, toe guard"
+            },
+            {
+              "label": "Special Sizes",
+              "value": "Up to 5,000 mm long × 2,400 mm wide × 800 mm high on request"
+            },
+            {
+              "label": "Standard",
+              "value": "EN 1398"
             },
             {
               "label": "Motor Power",
@@ -4411,6 +4421,56 @@
             {
               "label": "Power Supply",
               "value": "240/415V, 3Phase, 50Hz"
+            }
+          ],
+          "ar": [
+            {
+              "label": "الموديل",
+              "value": "RH11 مدمج في حفرة قائمة، بشفة مفصلية 400 مم"
+            },
+            {
+              "label": "الأطوال",
+              "value": "2060 / 2300 / 2560 / 3060 مم"
+            },
+            {
+              "label": "العروض",
+              "value": "1800 / 2000 / 2200 مم"
+            },
+            {
+              "label": "الارتفاع",
+              "value": "600 مم"
+            },
+            {
+              "label": "الحمولة الديناميكية",
+              "value": "6 أطنان (10 و15 طناً اختيارياً)"
+            },
+            {
+              "label": "المنصة",
+              "value": "صاج مضلع مانع للانزلاق بسماكة 6/8 مم"
+            },
+            {
+              "label": "الشفة",
+              "value": "مفصلية بطول 400 مم وسماكة 13/15 مم، بمفصلات مقواة ذاتية التنظيف"
+            },
+            {
+              "label": "التشطيب",
+              "value": "رمادي أنثراسيت RAL 7016 (مجلفن أو ستانلس ستيل 304 أو أي لون RAL اختيارياً)"
+            },
+            {
+              "label": "عناصر السلامة",
+              "value": "مؤشر LED أخضر، زر طوارئ، تنانير جانبية ثابتة ومتحركة، قضيب أمان، صمامات منع السقوط، حماية للقدمين"
+            },
+            {
+              "label": "مقاسات خاصة",
+              "value": "حتى 5000 مم طولاً × 2400 مم عرضاً × 800 مم ارتفاعاً حسب الطلب"
+            },
+            {
+              "label": "المعيار",
+              "value": "EN 1398"
+            },
+            {
+              "label": "الكهرباء",
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             }
           ]
         },
@@ -4433,32 +4493,32 @@
         "cardImage": "https://cdn.bestolex.com/bestolex/products/dock-leveler-inkema/1.png",
         "seo": {
           "title": {
-            "en": "Inkema RH1 Dock Leveler in Qatar",
-            "ar": "رصيف تحميل إنكيما RH1 في قطر"
+            "en": "Inkema RH11 Dock Leveler in Qatar",
+            "ar": "رصيف تحميل إنكيما RH11 في قطر"
           },
           "description": {
-            "en": "RH1 dock leveler that covers the gap and height difference between the loading bay and the truck, suitable for all types of loading bays in Qatar. Get a quote.",
-            "ar": "رصيف تحميل RH1 يغطي الفجوة وفرق الارتفاع بين رصيف التحميل والشاحنة، ويناسب مختلف أنواع أرصفة التحميل في قطر. اطلب عرض سعر من بيستوليكس."
+            "en": "RH11 hydraulic dock leveler with a 400 mm hinged lip and 6-tonne dynamic load that bridges the gap between loading bay and truck in Qatar. Get a quote.",
+            "ar": "رصيف تحميل هيدروليكي RH11 بشفة مفصلية 400 مم وحمولة ديناميكية 6 أطنان يسد الفجوة بين رصيف التحميل والشاحنة في قطر. اطلب عرض سعر من بيستوليكس."
           }
         },
         "brand": "Inkema",
         "summary": {
-          "ar": "رصيف تحميل هيدروليكي من إنكيما (الموديل RH1) يسد الفجوة وفرق الارتفاع بين أرضية المستودع والشاحنة بآلية ميل هيدروليكية وشفة مفصلية، بمنصة 2000 × 2500 مم ونطاق عمل حتى 600 مم فوق مستوى المستودع و300 مم تحته. مناسب للمستودعات ومراكز التوزيع في قطر، وتورّده بيستوليكس وتركّبه.",
-          "en": "An Inkema hydraulic dock leveler (model RH1) that bridges the gap and height difference between the warehouse floor and the truck with a hydraulic tilt mechanism and hinged lip, on a 2,000 × 2,500 mm platform working up to 600 mm above and 300 mm below dock level. Suited to warehouses and distribution centres in Qatar; supplied and installed by Bestolex."
+          "ar": "رصيف تحميل هيدروليكي من إنكيما (الموديل RH11) يُركّب في حفرة قائمة، ويسد الفجوة وفرق الارتفاع بين أرضية المستودع والشاحنة بآلية ميل هيدروليكية وشفة مفصلية 400 مم، بحمولة ديناميكية 6 أطنان (10 و15 طناً اختيارياً)، وأطوال من 2060 إلى 3060 مم وعروض من 1800 إلى 2200 مم. مناسب للمستودعات ومراكز التوزيع في قطر، وتورّده بيستوليكس وتركّبه.",
+          "en": "An Inkema hydraulic dock leveler (model RH11) for an existing pit that bridges the gap and height difference between the warehouse floor and the truck with a hydraulic tilt mechanism and a 400 mm hinged lip, rated for 6 tonnes dynamic load (10 and 15 tonnes optional), in lengths from 2,060 to 3,060 mm and widths from 1,800 to 2,200 mm. Suited to warehouses and distribution centres in Qatar; supplied and installed by Bestolex."
         },
         "faq": {
           "ar": [
             {
-              "q": "ما فرق الارتفاع الذي يعالجه رصيف التحميل؟",
-              "a": "حتى 600 مم فوق مستوى أرضية المستودع، وحتى 300 مم تحتها."
+              "q": "ما المقاسات المتاحة؟",
+              "a": "أطوال 2060 و2300 و2560 و3060 مم، وعروض 1800 و2000 و2200 مم، بارتفاع 600 مم. وتتوفر مقاسات خاصة حتى 5000 × 2400 × 800 مم."
             },
             {
-              "q": "ما مقاس المنصة وقدرة المحرك؟",
-              "a": "المنصة 2000 × 2500 مم، ومحرك الرفع 0.75 كيلوواط."
+              "q": "ما الحمولة والمعيار؟",
+              "a": "حمولة ديناميكية 6 أطنان قياسياً، و10 أو 15 طناً اختيارياً، والرصيف مطابق للمعيار الأوروبي EN 1398."
             },
             {
-              "q": "ما الحمولات المتاحة؟",
-              "a": "تتوفر سعات مختلفة، وتُحدد بعد معرفة أقصى وزن للحمولة مع الرافعة الشوكية."
+              "q": "هل يحتاج إلى حفرة؟",
+              "a": "نعم، الموديل RH11 مدمج ومصمم للحفر الجاهزة. وللأرصفة التي لا تسمح بحفرة يناسبها رصيف التحميل الصغير (ميني دوك) الذي يُثبت على حافة الرصيف."
             },
             {
               "q": "هل يناسب المركبات الخفيفة؟",
@@ -4471,16 +4531,16 @@
           ],
           "en": [
             {
-              "q": "What height difference can it handle?",
-              "a": "Up to 600 mm above and up to 300 mm below the warehouse floor level."
+              "q": "Which sizes are available?",
+              "a": "Lengths of 2,060, 2,300, 2,560 and 3,060 mm and widths of 1,800, 2,000 and 2,200 mm, 600 mm high. Special sizes up to 5,000 × 2,400 × 800 mm are available."
             },
             {
-              "q": "What are the platform size and motor power?",
-              "a": "A 2,000 × 2,500 mm platform and a 0.75 kW lifting motor."
+              "q": "What load does it carry, and to which standard?",
+              "a": "A 6-tonne dynamic load as standard, with 10 or 15 tonnes as options; the leveler complies with European standard EN 1398."
             },
             {
-              "q": "Which capacities are available?",
-              "a": "Several capacities are available; the right one is set from the maximum weight of load plus forklift."
+              "q": "Does it need a pit?",
+              "a": "Yes. The RH11 is an embedded model designed for an existing pit. Where a pit is not possible, the mini dock leveler, which mounts on the dock edge, is the better fit."
             },
             {
               "q": "Is it suitable for light vehicles?",
@@ -4501,22 +4561,22 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/manual-loading-bridges/1.png",
         "description": {
-          "ar": "تعد جسور التحميل اليدوية من انكيما حلاً سهلاً واقتصاديًا للغاية لتغطية الفجوات الصغيرة والمستويات المختلفة في أرصفة التحميل دون الحاجة لأي تمديدات كهربائية أو تركيبات معقدة.\nتُثبت جسور التحميل اليدوية على حافة رصيف التحميل وتتميز بسهولة التشغيل بفضل ذراع التشغيل الميكانيكي أو الأسطوانات الغازية المساعدة، مما يجعلها مثالية للعمل السريع في المستودعات والمراكز اللوجستية.",
-          "en": "Inkema’s Manual Loading Bridges offer a simple, practical, and highly economical solution to bridge small gaps and height differences between loading docks and trucks without requiring electrical power or complex installations.\nSurface-mounted at the dock edge, they feature effortless manual or gas-spring assisted operation, providing reliable freight handling for logistics centers and warehouses."
+          "ar": "تعد جسور التحميل اليدوية من انكيما حلاً سهلاً واقتصاديًا للغاية لتغطية الفجوات الصغيرة والمستويات المختلفة في أرصفة التحميل دون الحاجة لأي تمديدات كهربائية أو تركيبات معقدة.\nتُصنع من الألومنيوم المؤكسد، وتُركّب ثابتة أو منزلقة على حافة رصيف التحميل، وتعمل بسهولة بفضل نظام موازنة بنابض أو ميكانيكي مع قفل أمان، مما يجعلها مثالية للعمل السريع بعربات البالتات والرافعات الشوكية الخفيفة في المستودعات والمراكز اللوجستية.",
+          "en": "Inkema’s Manual Loading Bridges offer a simple, practical, and highly economical solution to bridge small gaps and height differences between loading docks and trucks without requiring electrical power or complex installations.\nMade of anodised aluminium and installed fixed or sliding along the dock edge, they are easy to operate thanks to a spring or mechanical compensation system with safety locking, providing reliable handling with pallet trucks and light forklifts in logistics centers and warehouses."
         },
         "features": {
           "ar": [
-            "تشغيل يدوي ميكانيكي بسيط بدون كهرباء",
-            "سطح مقاوم للانزلاق مصنوع من الحديد المحبب لضمان السلامة",
-            "تركيب تثبيتي سهل على حافة حائط منطقة التحميل",
-            "مقاومة ممتازة للعوامل الجوية والتآكل لخدمة شاقة ودائمة",
+            "تشغيل يدوي بسيط بدون كهرباء بنظام موازنة بنابض أو ميكانيكي",
+            "سطح ألومنيوم مؤكسد مانع للانزلاق، خفيف ومقاوم للتآكل",
+            "تركيب ثابت أو منزلق على امتداد حافة الرصيف",
+            "ثمانية مقاسات قياسية ومطابقة للمعيار الأوروبي EN 1398",
             "خدمات ما بعد البيع مع توفر قطع الغيار وضمان لمدة سنة واحدة"
           ],
           "en": [
-            "Simple manual operation requiring no electrical power",
-            "Anti-slip checkered steel surface for enhanced safety",
-            "Easy edge-mounted installation on loading bay walls",
-            "Excellent weather and corrosion resistance for heavy-duty service",
+            "Simple manual operation with spring or mechanical compensation, no power needed",
+            "Anti-slip anodised aluminium surface, light and corrosion-resistant",
+            "Fixed or sliding installation along the dock edge",
+            "Eight standard sizes, compliant with European standard EN 1398",
             "After-sales service with spare parts and 1-year warranty"
           ]
         },
@@ -4551,48 +4611,72 @@
           }
         ],
         "specs": {
-          "ar": [
-            {
-              "label": "سعة الحمل الديناميكي",
-              "value": "حتى 4 طن (4000 كجم)"
-            },
-            {
-              "label": "عرض الجسر",
-              "value": "1750 مم – 2000 مم"
-            },
-            {
-              "label": "طول الجسر",
-              "value": "1250 مم – 1500 مم"
-            },
-            {
-              "label": "مبدأ التشغيل",
-              "value": "يدوي ميكانيكي بمساعد غازي (Gas-Spring)"
-            },
-            {
-              "label": "التركيب",
-              "value": "تثبيت سطحي على حافة الرصيف"
-            }
-          ],
           "en": [
             {
               "label": "Max Dynamic Load",
               "value": "Up to 4 Tons (4000 kg)"
             },
             {
-              "label": "Bridge Width",
-              "value": "1750 mm – 2000 mm"
+              "label": "Material",
+              "value": "Anodised aluminium with anti-slip surface"
             },
             {
-              "label": "Bridge Length",
-              "value": "1250 mm – 1500 mm"
+              "label": "Standard Sizes",
+              "value": "8 sizes: length (H) 565–1,565 mm × width (W) 1,250 or 1,500 mm"
             },
             {
-              "label": "Operation Mechanism",
-              "value": "Manual with Gas-Spring assist"
+              "label": "Sizes (H × W)",
+              "value": "565 × 1500; 815 × 1250/1500; 1065 × 1500; 1315 × 1250/1500; 1565 × 1250/1500 mm"
+            },
+            {
+              "label": "Compensation System",
+              "value": "Spring or mechanical compensation with safety locking"
             },
             {
               "label": "Mounting Type",
-              "value": "Edge-of-Dock Wall Mounted"
+              "value": "Fixed or sliding along the dock edge"
+            },
+            {
+              "label": "Recommended Use",
+              "value": "Pallet trucks and light forklifts"
+            },
+            {
+              "label": "Standard",
+              "value": "EN 1398"
+            }
+          ],
+          "ar": [
+            {
+              "label": "الحمولة الديناميكية القصوى",
+              "value": "حتى 4 أطنان (4000 كجم)"
+            },
+            {
+              "label": "الخامة",
+              "value": "ألومنيوم مؤكسد (أنودايز) بسطح مانع للانزلاق"
+            },
+            {
+              "label": "المقاسات القياسية",
+              "value": "8 مقاسات: الطول 565–1565 مم × العرض 1250 أو 1500 مم"
+            },
+            {
+              "label": "المقاسات (الطول × العرض)",
+              "value": "565 × 1500؛ 815 × 1250 و1500؛ 1065 × 1500؛ 1315 × 1250 و1500؛ 1565 × 1250 و1500 مم"
+            },
+            {
+              "label": "نظام الموازنة",
+              "value": "نابض أو موازنة ميكانيكية مع قفل أمان"
+            },
+            {
+              "label": "طريقة التركيب",
+              "value": "ثابت أو منزلق على امتداد حافة الرصيف"
+            },
+            {
+              "label": "الاستخدام الموصى به",
+              "value": "عربات البالتات والرافعات الشوكية الخفيفة"
+            },
+            {
+              "label": "المعيار",
+              "value": "EN 1398"
             }
           ]
         },
@@ -4622,20 +4706,20 @@
             "ar": "جسر تحميل يدوي لأرصفة التحميل في قطر"
           },
           "description": {
-            "en": "Manual loading bridge that spans small gaps and height differences between dock and truck without electrical power, mounted at the dock edge. Get a quote.",
-            "ar": "جسر تحميل يدوي يسد الفجوات الصغيرة وفروق الارتفاع بين رصيف التحميل والشاحنة دون كهرباء، ويُركّب على حافة الرصيف. اطلب عرض سعر من بيستوليكس."
+            "en": "Aluminium manual loading bridge that spans small gaps and height differences between dock and truck without power, fixed or sliding on the dock edge. Get a quote.",
+            "ar": "جسر تحميل يدوي من الألومنيوم يسد الفجوات الصغيرة وفروق الارتفاع بين رصيف التحميل والشاحنة دون كهرباء، بتركيب ثابت أو منزلق. اطلب عرض سعر من بيستوليكس."
           }
         },
         "brand": "Inkema",
         "summary": {
-          "ar": "جسر تحميل يدوي من إنكيما يسد الفجوات الصغيرة وفروق الارتفاع بين حافة الرصيف والشاحنة دون كهرباء، بتشغيل ميكانيكي بمساعد غازي وحمولة ديناميكية حتى 4 أطنان. مناسب للمستودعات والمراكز اللوجستية في قطر، وتورّده بيستوليكس وتركّبه.",
-          "en": "An Inkema manual loading bridge that covers small gaps and level differences between the dock edge and the truck without electricity, using mechanical operation with gas-spring assist and a dynamic load of up to 4 tonnes. Suited to warehouses and logistics centres in Qatar; supplied and installed by Bestolex."
+          "ar": "جسر تحميل يدوي من إنكيما مصنوع من الألومنيوم يسد الفجوات الصغيرة وفروق الارتفاع بين حافة الرصيف والشاحنة دون كهرباء، بنظام موازنة بنابض أو ميكانيكي وحمولة ديناميكية حتى 4 أطنان، وبثمانية مقاسات قياسية بعرض 1250 أو 1500 مم. مناسب للمستودعات والمراكز اللوجستية في قطر، وتورّده بيستوليكس وتركّبه.",
+          "en": "An Inkema aluminium manual loading bridge that covers small gaps and level differences between the dock edge and the truck without electricity, using a spring or mechanical compensation system, with a dynamic load of up to 4 tonnes and eight standard sizes 1,250 or 1,500 mm wide. Suited to warehouses and logistics centres in Qatar; supplied and installed by Bestolex."
         },
         "faq": {
           "ar": [
             {
               "q": "هل يحتاج الجسر إلى كهرباء؟",
-              "a": "لا. يعمل يدوياً بآلية ميكانيكية ومساعد غازي (Gas-Spring)."
+              "a": "لا. يعمل يدوياً بنظام موازنة بنابض أو ميكانيكي مع قفل أمان."
             },
             {
               "q": "كم يتحمل الجسر؟",
@@ -4643,7 +4727,7 @@
             },
             {
               "q": "ما المقاسات المتاحة؟",
-              "a": "العرض 1750–2000 مم والطول 1250–1500 مم."
+              "a": "8 مقاسات قياسية: الطول من 565 إلى 1565 مم والعرض 1250 أو 1500 مم، بتركيب ثابت أو منزلق."
             },
             {
               "q": "متى أحتاج رصيف تحميل هيدروليكياً بدل الجسر اليدوي؟",
@@ -4657,7 +4741,7 @@
           "en": [
             {
               "q": "Does it need electricity?",
-              "a": "No. It works mechanically by hand with a gas-spring assist."
+              "a": "No. It is operated by hand with a spring or mechanical compensation system and safety locking."
             },
             {
               "q": "How much can it carry?",
@@ -4665,7 +4749,7 @@
             },
             {
               "q": "What sizes are available?",
-              "a": "1,750–2,000 mm wide and 1,250–1,500 mm long."
+              "a": "Eight standard sizes: 565 to 1,565 mm long and 1,250 or 1,500 mm wide, fixed or sliding."
             },
             {
               "q": "When do I need a hydraulic dock leveler instead?",
@@ -4692,15 +4776,15 @@
         "features": {
           "ar": [
             "عزل حراري محكم ومثالي للمستودعات ومصانع الأغذية والأدوية المبردة",
-            "وسائد تنتفخ هيدروليكياً وتتكيف تلقائياً مع مختلف مقاسات الشاحنات",
-            "خامات من البوليستر المطاطي المتين المقاوم للتآكل والتمزق",
+            "وسائد تنفخها مروحة كهربائية وتتكيف مع مختلف مقاسات الشاحنات، وتنكمش خلف شرائط حماية عند التفريغ",
+            "قماش من البوليستر المغطى بـ PVC والبولي أميد، متين ومقاوم للتمزق",
             "تقليل استهلاك الطاقة وتكاليف التبريد بشكل ملحوظ",
             "خدمات ما بعد البيع مع توفر قطع الغيار وضمان لمدة سنة واحدة"
           ],
           "en": [
-            "Perfect thermal insulation for refrigerated food and pharma warehouses",
-            "Electrically inflatable cushions adaptable to all truck sizes",
-            "High-durability tear-resistant polyester rubber material",
+            "Tight thermal sealing for refrigerated food and pharma warehouses",
+            "Fan-inflated cushions that adapt to different truck sizes and retract behind protective strips when deflated",
+            "Durable, tear-resistant PVC-coated polyester and polyamide fabric",
             "Drastically reduces energy consumption and cooling costs",
             "After-sales service with spare parts and 1-year warranty"
           ]
@@ -4736,48 +4820,96 @@
           }
         ],
         "specs": {
-          "ar": [
-            {
-              "label": "أبعاد الغطاء القياسية",
-              "value": "3500 (عرض) × 3700 (ارتفاع) مم"
-            },
-            {
-              "label": "عمق الغطاء",
-              "value": "800 مم"
-            },
-            {
-              "label": "قوة المنفاخ الكهربائي",
-              "value": "0.55 كيلوواط"
-            },
-            {
-              "label": "زمن الإنتفاخ التام",
-              "value": "15 – 20 ثانية"
-            },
-            {
-              "label": "درجة حرارة التشغيل",
-              "value": "-30° م إلى +70° م"
-            }
-          ],
           "en": [
             {
-              "label": "Standard Shelter Size",
-              "value": "3500 (W) × 3700 (H) mm"
+              "label": "Nominal Size",
+              "value": "3500 (W) × 3700 or 4000 (H) mm"
+            },
+            {
+              "label": "Free Opening",
+              "value": "2900 (W) × 3300 or 3600 (H) mm"
             },
             {
               "label": "Shelter Depth",
-              "value": "800 mm"
+              "value": "1020 mm"
             },
             {
-              "label": "Blower Motor Power",
-              "value": "0.55 kW"
+              "label": "Inflatable Cushions",
+              "value": "Top 1200 mm (1500 mm optional), sides 650 mm"
             },
             {
-              "label": "Inflation Time",
-              "value": "15 – 20 seconds"
+              "label": "Fabric",
+              "value": "70% PVC-coated polyester / 30% polyamide, 500–900 g/m²"
+            },
+            {
+              "label": "Wall and Roof",
+              "value": "40 mm insulated panel, RAL 9002 white"
+            },
+            {
+              "label": "Fan Motor",
+              "value": "230 V single-phase, 50/60 Hz"
+            },
+            {
+              "label": "Noise Level",
+              "value": "Below 75 dB in operation"
             },
             {
               "label": "Operating Temperature",
-              "value": "-30°C to +70°C"
+              "value": "-20°C to +70°C"
+            },
+            {
+              "label": "Protection",
+              "value": "IP55, impact resistance IK7"
+            },
+            {
+              "label": "Compliance",
+              "value": "Machinery Directive 2006/42/EC"
+            }
+          ],
+          "ar": [
+            {
+              "label": "المقاس الاسمي",
+              "value": "3500 (عرض) × 3700 أو 4000 (ارتفاع) مم"
+            },
+            {
+              "label": "الفتحة الحرة",
+              "value": "2900 (عرض) × 3300 أو 3600 (ارتفاع) مم"
+            },
+            {
+              "label": "العمق",
+              "value": "1020 مم"
+            },
+            {
+              "label": "الوسائد القابلة للانتفاخ",
+              "value": "علوية 1200 مم (1500 مم اختياري)، وجانبية 650 مم"
+            },
+            {
+              "label": "القماش",
+              "value": "70% بوليستر مغطى بـ PVC و30% بولي أميد، 500–900 غ/م²"
+            },
+            {
+              "label": "الجدار والسقف",
+              "value": "ألواح معزولة سماكة 40 مم، أبيض RAL 9002"
+            },
+            {
+              "label": "محرك المروحة",
+              "value": "230 فولت أحادي الطور، 50/60 هرتز"
+            },
+            {
+              "label": "مستوى الضجيج",
+              "value": "أقل من 75 ديسيبل أثناء التشغيل"
+            },
+            {
+              "label": "درجة حرارة التشغيل",
+              "value": "من −20 إلى +70 درجة مئوية"
+            },
+            {
+              "label": "الحماية",
+              "value": "IP55، ومقاومة صدمات IK7"
+            },
+            {
+              "label": "المطابقة",
+              "value": "توجيه الآلات الأوروبي 2006/42/EC"
             }
           ]
         },
@@ -4813,8 +4945,8 @@
           }
         },
         "summary": {
-          "ar": "غطاء بوابة قابل للانتفاخ يحيط بجسم الشاحنة أو الحاوية أثناء التحميل ويغلق الفراغ حولها، فيحدّ من فقدان التبريد ودخول الغبار. مناسب للمخازن المبردة ومستودعات الأغذية والأدوية في قطر، ومقاسه القياسي 3500 × 3700 مم وينتفخ خلال 15–20 ثانية.",
-          "en": "An inflatable dock shelter that seals around the truck or container body during loading, limiting cooling loss and dust ingress. Suited to cold stores and food and pharmaceutical warehouses in Qatar; the standard size is 3,500 × 3,700 mm and it inflates in 15–20 seconds."
+          "ar": "غطاء بوابة قابل للانتفاخ يحيط بجسم الشاحنة أو الحاوية أثناء التحميل ويغلق الفراغ حولها، فيحدّ من فقدان التبريد ودخول الغبار. مناسب للمخازن المبردة ومستودعات الأغذية والأدوية في قطر، ومقاسه الاسمي 3500 × 3700 أو 4000 مم بعمق 1020 مم، ويعمل من −20 إلى +70 درجة مئوية.",
+          "en": "An inflatable dock shelter that seals around the truck or container body during loading, limiting cooling loss and dust ingress. Suited to cold stores and food and pharmaceutical warehouses in Qatar; the nominal size is 3,500 × 3,700 or 4,000 mm with a 1,020 mm depth, and it works from −20 °C to +70 °C."
         },
         "faq": {
           "ar": [
@@ -4823,8 +4955,8 @@
               "a": "عندما تحتاج إلى إحكام حول المركبة، كما في المخازن المبردة ومستودعات الأغذية والأدوية، لأن الوسائد تنتفخ حول جسم الشاحنة وتغلق محيطها أثناء التحميل."
             },
             {
-              "q": "ما المقاس القياسي وزمن الانتفاخ؟",
-              "a": "المقاس القياسي 3500 مم عرضاً × 3700 مم ارتفاعاً بعمق 800 مم، ومحرك المنفاخ 0.55 كيلوواط، وزمن الانتفاخ 15–20 ثانية."
+              "q": "ما المقاس القياسي؟",
+              "a": "العرض الاسمي 3500 مم والارتفاع 3700 أو 4000 مم بعمق 1020 مم، والفتحة الحرة 2900 × 3300 أو 3600 مم. وتنفخ الوسائد مروحة 230 فولت أحادية الطور."
             },
             {
               "q": "هل يناسب أحجام الشاحنات المختلفة؟",
@@ -4832,7 +4964,7 @@
             },
             {
               "q": "هل يتحمل حرارة الصيف في قطر؟",
-              "a": "نطاق درجة حرارة التشغيل في المواصفات من −30 إلى +70 درجة مئوية."
+              "a": "نطاق درجة حرارة التشغيل في نشرة المصنّع من −20 إلى +70 درجة مئوية، بحماية IP55."
             },
             {
               "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
@@ -4845,8 +4977,8 @@
               "a": "When you need a tight seal around the vehicle, as in cold stores and food and pharmaceutical warehouses, because the cushions inflate around the truck body and close its perimeter during loading."
             },
             {
-              "q": "What is the standard size and inflation time?",
-              "a": "The standard size is 3,500 mm wide × 3,700 mm high with an 800 mm depth, a 0.55 kW blower motor and an inflation time of 15–20 seconds."
+              "q": "What is the standard size?",
+              "a": "A nominal 3,500 mm width and 3,700 or 4,000 mm height with a 1,020 mm depth, and a free opening of 2,900 × 3,300 or 3,600 mm. The cushions are inflated by a 230 V single-phase fan."
             },
             {
               "q": "Does it fit different truck sizes?",
@@ -4854,7 +4986,7 @@
             },
             {
               "q": "Can it handle summer heat in Qatar?",
-              "a": "The specified operating temperature range is −30 °C to +70 °C."
+              "a": "The manufacturer's data sheet gives an operating range of −20 °C to +70 °C, with IP55 protection."
             },
             {
               "q": "Does Bestolex supply, install and maintain it in Qatar?",
@@ -4879,61 +5011,93 @@
           "ar": [
             "هيكل ارتدادي يمتص صدمات الشاحنات ويحمي حوائط البوابة من التلف",
             "ستائر مطاطية من البولي فينايل كلورايد (PVC) عالية المرونة والمتانة",
-            "إطار ألومنيوم/حديد مجلفن قوي ومقاوم للصدأ",
+            "إطار من أنابيب حديد مجلفن 1.5 مم مغطاة بـ PVC، قوي ومقاوم للصدأ",
             "تصريف ممتاز لمياه الأمطار وعزل العوامل الجوية",
             "خدمات ما بعد البيع مع توفر قطع الغيار وضمان لمدة سنة واحدة"
           ],
           "en": [
             "Retractable frame structure absorbs vehicle impact to protect building walls",
             "Flexible heavy-duty PVC curtains for tight perimeter sealing",
-            "Sturdy galvanized steel/aluminum frame structure",
+            "Sturdy 1.5 mm galvanised steel tube frame covered with PVC",
             "Effective rain drainage and weather insulation",
             "After-sales service with spare parts and 1-year warranty"
           ]
         },
         "specs": {
-          "ar": [
-            {
-              "label": "أبعاد الغطاء القياسية",
-              "value": "3400 (عرض) × 3400 (ارتفاع) مم"
-            },
-            {
-              "label": "عمق الغطاء",
-              "value": "600 مم"
-            },
-            {
-              "label": "سمك الستارة الأمامية",
-              "value": "3 مم PVC مضلع"
-            },
-            {
-              "label": "سمك الستارة الجانبية",
-              "value": "3 مم PVC"
-            },
-            {
-              "label": "هيكل الإطار",
-              "value": "حديد مجلفن ارتدادي بمساعد زنبركي"
-            }
-          ],
           "en": [
             {
-              "label": "Standard Shelter Size",
-              "value": "3400 (W) × 3400 (H) mm"
+              "label": "Widths",
+              "value": "3000 / 3100 / 3200 / 3400 mm"
+            },
+            {
+              "label": "Heights",
+              "value": "3000 to 4400 mm in 100 mm steps"
             },
             {
               "label": "Shelter Depth",
+              "value": "600 / 700 / 800 / 900 / 1000 mm"
+            },
+            {
+              "label": "Side Curtain Width",
               "value": "600 mm"
             },
             {
-              "label": "Front Curtain Thickness",
-              "value": "3 mm Reinforced PVC"
+              "label": "Top Curtain Width",
+              "value": "1000 / 1200 / 1500 / 2000 mm"
             },
             {
-              "label": "Side Curtain Thickness",
-              "value": "3 mm PVC"
+              "label": "Curtains",
+              "value": "Black 3 mm PVC, friction and tear resistant; front canvas reinforced with polyester mesh"
             },
             {
               "label": "Frame Structure",
-              "value": "Spring-Assisted Retractable Galvanized Steel"
+              "value": "1.5 mm galvanised steel tubes covered with 0.5 mm PVC; front frame folds towards the façade on impact and returns"
+            },
+            {
+              "label": "Roof",
+              "value": "Inclined top for rainwater drainage"
+            },
+            {
+              "label": "Compliance",
+              "value": "Machinery Directive 2006/42/EC"
+            }
+          ],
+          "ar": [
+            {
+              "label": "العروض",
+              "value": "3000 / 3100 / 3200 / 3400 مم"
+            },
+            {
+              "label": "الارتفاعات",
+              "value": "من 3000 إلى 4400 مم بخطوات 100 مم"
+            },
+            {
+              "label": "العمق",
+              "value": "600 / 700 / 800 / 900 / 1000 مم"
+            },
+            {
+              "label": "عرض الستارة الجانبية",
+              "value": "600 مم"
+            },
+            {
+              "label": "عرض الستارة العلوية",
+              "value": "1000 / 1200 / 1500 / 2000 مم"
+            },
+            {
+              "label": "الستائر",
+              "value": "PVC أسود بسماكة 3 مم مقاوم للاحتكاك والتمزق، والستارة الأمامية مقواة بشبكة بوليستر"
+            },
+            {
+              "label": "هيكل الإطار",
+              "value": "أنابيب حديد مجلفن 1.5 مم مغطاة بـ PVC سماكة 0.5 مم، والإطار الأمامي ينطوي نحو الواجهة عند الصدمة ثم يعود"
+            },
+            {
+              "label": "السقف",
+              "value": "مائل لتصريف مياه الأمطار"
+            },
+            {
+              "label": "المطابقة",
+              "value": "توجيه الآلات الأوروبي 2006/42/EC"
             }
           ]
         },
@@ -4967,14 +5131,14 @@
         },
         "brand": "Inkema",
         "summary": {
-          "ar": "غطاء بوابة قابل للارتداد من إنكيما بإطار حديد مجلفن بمساعد زنبركي يرتد عند اصطدام الشاحنة ثم يعود، فيحمي حوائط البوابة، وستائر PVC بسماكة 3 مم تعزل حافة التحميل عن الأمطار والغبار والحرارة. مقاسه القياسي 3400 × 3400 مم، ويناسب المستودعات ومراكز التوزيع في قطر، وتورّده بيستوليكس وتركّبه.",
-          "en": "An Inkema retractable dock shelter with a spring-assisted galvanised steel frame that gives way when a truck hits it and springs back, protecting the door walls, and 3 mm PVC curtains that seal the loading edge against rain, dust and heat. Standard size 3,400 × 3,400 mm; suited to warehouses and distribution centres in Qatar; supplied and installed by Bestolex."
+          "ar": "غطاء بوابة قابل للارتداد من إنكيما بإطار من أنابيب حديد مجلفن ينطوي نحو الواجهة عند اصطدام الشاحنة ثم يعود، فيحمي حوائط البوابة، وستائر PVC بسماكة 3 مم تعزل حافة التحميل عن الأمطار والغبار والحرارة. يتوفر بعروض 3000–3400 مم وارتفاعات 3000–4400 مم وعمق 600–1000 مم، ويناسب المستودعات ومراكز التوزيع في قطر، وتورّده بيستوليكس وتركّبه.",
+          "en": "An Inkema retractable dock shelter with a galvanised steel tube frame that folds towards the façade when a truck hits it and returns, protecting the door walls, and 3 mm PVC curtains that seal the loading edge against rain, dust and heat. Available 3,000–3,400 mm wide, 3,000–4,400 mm high and 600–1,000 mm deep; suited to warehouses and distribution centres in Qatar; supplied and installed by Bestolex."
         },
         "faq": {
           "ar": [
             {
               "q": "كيف يحمي الغطاء حوائط البوابة؟",
-              "a": "إطاره الارتدادي بمساعد زنبركي يمتص صدمة الشاحنة بدل أن تنتقل إلى الحائط، ثم يعود إلى وضعه."
+              "a": "إطاره الأمامي ينطوي نحو الواجهة عند صدمة الشاحنة بدل أن تنتقل إلى الحائط، ثم يعود إلى وضعه دون تلف."
             },
             {
               "q": "هل يحدّ الغطاء من دخول الأمطار والغبار؟",
@@ -4982,7 +5146,7 @@
             },
             {
               "q": "ما المقاس القياسي؟",
-              "a": "3400 × 3400 مم بعمق 600 مم، ويُحدد المقاس النهائي بعد قياس البوابة والشاحنات."
+              "a": "العروض 3000–3400 مم، والارتفاعات 3000–4400 مم، والعمق 600–1000 مم، ويُحدد المقاس النهائي بعد قياس البوابة والشاحنات."
             },
             {
               "q": "ما الفرق بينه وبين الغطاء القابل للانتفاخ؟",
@@ -4996,7 +5160,7 @@
           "en": [
             {
               "q": "How does it protect the door walls?",
-              "a": "Its spring-assisted retractable frame absorbs the truck impact instead of passing it to the wall, then springs back."
+              "a": "Its front frame folds towards the façade when a truck hits it instead of passing the impact to the wall, then returns to position undamaged."
             },
             {
               "q": "Does it keep rain and dust out?",
@@ -5004,7 +5168,7 @@
             },
             {
               "q": "What is the standard size?",
-              "a": "3,400 × 3,400 mm with a 600 mm depth; the final size is set after measuring the door and the trucks."
+              "a": "Widths of 3,000–3,400 mm, heights of 3,000–4,400 mm and depths of 600–1,000 mm; the final size is set after measuring the door and the trucks."
             },
             {
               "q": "How does it differ from the inflatable shelter?",
@@ -5287,14 +5451,14 @@
         "features": {
           "ar": [
             "تحمل حمولة ديناميكية تصل إلى 6 طن على الرغم من حجمها المدمج",
-            "طلاء خاص مضاد للتآكل لحماية فائقة وطويلة الأمد",
+            "تشطيب رمادي RAL 7016 أو مجلفن، ومحاور محمية من التآكل",
             "تركيب سريع وبسيط دون الحاجة لعمل حفرة خرسانية (No Pit)",
             "لا تحتاج إلى صيانة، وتصميم عملي للغاية لتوفير المساحة",
             "خدمة ما بعد البيع متكاملة مع توفر قطع الغيار وضمان لمدة سنة واحدة"
           ],
           "en": [
             "Supports up to 6 tons of dynamic load despite compact size",
-            "Special anti-corrosion coating for long-lasting protection",
+            "RAL 7016 painted or galvanised finish with corrosion-protected axles",
             "Fast and easy installation requiring no pit construction",
             "Maintenance-free design saving considerable loading space",
             "After-sales service with spare parts availability and 1-year warranty"
@@ -5325,8 +5489,8 @@
           {
             "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/Pneumatic-cylinder-to-open-the-lip-with-almost-no-effort.jpg",
             "label": {
-              "ar": "أسطوانة هوائية لفتح الشفة بسهولة ودون مجهود",
-              "en": "Pneumatic Cylinder to Open Lip"
+              "ar": "نابض غازي لفتح الشفة بسهولة ودون مجهود",
+              "en": "Gas Spring to Open the Lip"
             }
           },
           {
@@ -5345,56 +5509,80 @@
           }
         ],
         "specs": {
-          "ar": [
-            {
-              "label": "الحمولة الديناميكية القصوى",
-              "value": "6 طن (6000 كجم)"
-            },
-            {
-              "label": "عرض الشفة المفصلية (LIP)",
-              "value": "352 مم"
-            },
-            {
-              "label": "الموديل 1800",
-              "value": "الطول 310 مم | العرض 1800 مم | الارتفاع 535 مم"
-            },
-            {
-              "label": "الموديل 2100",
-              "value": "الطول 310 مم | العرض 2100 مم | الارتفاع 535 مم"
-            },
-            {
-              "label": "نوع التركيب",
-              "value": "خارجي بدون حفرة خرسانية (No Pit Required)"
-            },
-            {
-              "label": "الطلاء الحافظ",
-              "value": "طلاء خاص مضاد للتآكل والعوامل الجوية"
-            }
-          ],
           "en": [
             {
               "label": "Max Dynamic Load",
               "value": "6 Tons (6000 kg)"
             },
             {
-              "label": "Hinged Lip Width",
-              "value": "352 mm"
+              "label": "Sizes",
+              "value": "400 × 1800 × 500 mm and 400 × 2100 × 500 mm"
             },
             {
-              "label": "Model 1800",
-              "value": "L: 310mm | W: 1800mm | H: 535mm"
+              "label": "Hinged Lip",
+              "value": "350 mm long, 13/15 mm thick"
             },
             {
-              "label": "Model 2100",
-              "value": "L: 310mm | W: 2100mm | H: 535mm"
+              "label": "Platform",
+              "value": "6/8 mm thick tread steel plate"
+            },
+            {
+              "label": "Operation",
+              "value": "Manual lever with gas-spring assistance"
             },
             {
               "label": "Installation Type",
               "value": "Surface Mounted (No Pit Required)"
             },
             {
-              "label": "Protection Coating",
-              "value": "Special Anti-Corrosion Coating"
+              "label": "Finish",
+              "value": "Anthracite grey RAL 7016 or galvanised"
+            },
+            {
+              "label": "Options",
+              "value": "45° chamfered lip or 90° recessed lip for vans"
+            },
+            {
+              "label": "Standard",
+              "value": "EN 1398"
+            }
+          ],
+          "ar": [
+            {
+              "label": "الحمولة الديناميكية القصوى",
+              "value": "6 طن (6000 كجم)"
+            },
+            {
+              "label": "المقاسات",
+              "value": "400 × 1800 × 500 مم و400 × 2100 × 500 مم"
+            },
+            {
+              "label": "الشفة المفصلية (LIP)",
+              "value": "بطول 350 مم وسماكة 13/15 مم"
+            },
+            {
+              "label": "المنصة",
+              "value": "صاج مضلع بسماكة 6/8 مم"
+            },
+            {
+              "label": "التشغيل",
+              "value": "ذراع يدوي بمساعدة نابض غازي"
+            },
+            {
+              "label": "نوع التركيب",
+              "value": "خارجي بدون حفرة خرسانية (No Pit Required)"
+            },
+            {
+              "label": "التشطيب",
+              "value": "رمادي أنثراسيت RAL 7016 أو مجلفن"
+            },
+            {
+              "label": "خيارات",
+              "value": "شفة مشطوفة 45° أو شفة غائرة 90° للشاحنات الصغيرة"
+            },
+            {
+              "label": "المعيار",
+              "value": "EN 1398"
             }
           ]
         },
@@ -5456,11 +5644,11 @@
             },
             {
               "q": "ما المقاسات المتاحة؟",
-              "a": "موديلان بعرض 1800 و2100 مم، بطول 310 مم وارتفاع 535 مم، وشفة مفصلية بعرض 352 مم."
+              "a": "موديلان بمقاس 400 × 1800 × 500 مم و400 × 2100 × 500 مم، وشفة مفصلية طولها 350 مم وسماكتها 13/15 مم."
             },
             {
               "q": "كيف يُشغَّل الرصيف الصغير ويُرفع بعد التحميل؟",
-              "a": "تُفتح الشفة بسهولة بمساعدة أسطوانة هوائية، وبعد التحميل أو التفريغ يُسحب ذراع التشغيل إلى الخلف دون رفعه بالكامل، ثم يُوضع الرصيف على مساند الإنزال المنخفضة."
+              "a": "تُفتح الشفة بسهولة بمساعدة نابض غازي، وبعد التحميل أو التفريغ يُسحب ذراع التشغيل إلى الخلف دون رفعه بالكامل، ثم يُوضع الرصيف على مساند الإنزال المنخفضة."
             },
             {
               "q": "هل تتولى بيستوليكس التوريد والتركيب والصيانة في قطر؟",
@@ -5478,11 +5666,11 @@
             },
             {
               "q": "What sizes are available?",
-              "a": "Two models, 1,800 and 2,100 mm wide, both 310 mm long and 535 mm high, with a 352 mm hinged lip."
+              "a": "Two models, 400 × 1,800 × 500 mm and 400 × 2,100 × 500 mm, with a 350 mm hinged lip 13/15 mm thick."
             },
             {
               "q": "How is it operated and stowed after loading?",
-              "a": "The lip opens easily with a pneumatic cylinder. After loading or unloading, pull the lever back without raising it fully and rest the unit on the lowering stops."
+              "a": "The lip opens easily with gas-spring assistance. After loading or unloading, pull the lever back without raising it fully and rest the unit on the lowering stops."
             },
             {
               "q": "Does Bestolex supply, install and maintain it in Qatar?",
@@ -7855,26 +8043,26 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/1.png",
         "description": {
-          "ar": "توفر الأبواب الصناعية المقطعية من بيستوليكس عزلاً حرارياً وصوتياً، وهي مصممة للمستودعات والمراكز اللوجستية وفصل المساحات وأي نوع من المنشآت.\nألواحها موفرة للطاقة بسماكة 40 مم، بطلاء أساس وزنك على الفولاذ وإحكام ضد الرياح والماء، وتتوفر بأنواع رفع عمودي ومرتفع وقياسي وبلون يختاره العميل.\nتفتح بسرعة 1.1 م/ث وتغلق بسرعة 0.5 م/ث بمحرك قدرته 0.7 كيلوواط، ومزودة بجهاز أمان عند انقطاع الكابل ونابض أمان للإيقاف وقفل أمان يغلق الباب من الداخل.",
-          "en": "Bestolex industrial sectional doors provide thermal and acoustic insulation and are designed for warehouses, logistics centres, space separation and any type of installation.\nThey use energy-efficient 40 mm panels with a primer, zinc and steel finish and wind- and waterproof seals, come in vertical, high and standard lift types, and are finished in the customer's choice of colour.\nThey open at 1.1 m/s and close at 0.5 m/s with a 0.7 kW motor, and include a cable-break safety device, a spring-break safety device and a safety latch lock that locks the door from inside."
+          "ar": "توفر الأبواب الصناعية المقطعية من بيستوليكس عزلاً حرارياً وصوتياً، وهي مصممة للمباني الصناعية والمستودعات والمراكز اللوجستية وفصل المساحات.\nتُصنع من ألواح ساندويتش من الفولاذ المجلفن بعزل بولي يوريثان سماكة 40 مم (80 مم اختيارياً) ومعامل انتقال حراري 0.561 واط/م²·كلفن، بمقاسات حتى 8000 × 5000 مم، وبلون داخلي RAL 9002 وستة ألوان خارجية.\nيعمل الباب بالمحرك بسرعة 0.2–0.3 م/ث، ومزود بقفل أمان داخلي وجهاز أمان عند كسر النابض ومصد لنهاية الشوط. وللمداخل كثيفة الحركة يتوفر طراز مقطعي سريع يفتح حتى 1.0 م/ث ويغلق حتى 0.5 م/ث.",
+          "en": "Bestolex industrial sectional doors provide thermal and acoustic insulation and are designed for industrial buildings, warehouses, logistics centres and space separation.\nThey use galvanised steel sandwich panels with 40 mm polyurethane insulation (80 mm optional) and a thermal transmittance of 0.561 W/m²K, in sizes up to 8,000 × 5,000 mm, with an RAL 9002 inside face and six outside colours.\nThe motorised door runs at 0.2–0.3 m/s and has an internal safety lock, a spring-break safety device and an end-of-travel buffer. For high-traffic entrances, a high-speed sectional version opens at up to 1.0 m/s and closes at up to 0.5 m/s."
         },
         "features": {
           "ar": [
-            "ألواح موفرة للطاقة بسماكة 40 مم بعزل حراري وصوتي",
-            "مقاومة رياح وعزل ماء من الفئة 3",
-            "مسارات جانبية متينة بسماكة 2 مم وزاوية عمودية",
-            "جهاز أمان عند انقطاع الكابل ونابض أمان للإيقاف",
-            "قفل أمان يغلق الباب من الداخل",
-            "ألوان يختارها العميل",
+            "ألواح ساندويتش من الفولاذ المجلفن بعزل بولي يوريثان سماكة 40 مم (80 مم اختياري)",
+            "مقاسات حتى 8000 × 5000 مم ومعامل انتقال حراري 0.561 واط/م²·كلفن",
+            "ثلاثة أوضاع تشغيل بالمحرك: ضغط مستمر، ونصف آلي، وآلي",
+            "قفل أمان داخلي وجهاز أمان عند كسر النابض ومصد لنهاية الشوط وفق EN 13241",
+            "خيارات ألواح زجاجية وباب مشاة مدمج وفتحات تهوية",
+            "طراز مقطعي سريع يفتح حتى 1.0 م/ث للمداخل كثيفة الحركة",
             "خدمة ما بعد البيع من بيستوليكس مع توفر قطع الغيار"
           ],
           "en": [
-            "Energy-efficient 40 mm panels with thermal and acoustic insulation",
-            "Wind resistance and water tightness Class 3",
-            "Sturdy 2 mm side tracks and vertical angle",
-            "Cable-break and spring-break safety devices",
-            "Safety latch lock that locks the door from inside",
-            "Colour of the customer's choice",
+            "Galvanised steel sandwich panels with 40 mm polyurethane insulation (80 mm optional)",
+            "Sizes up to 8,000 × 5,000 mm and thermal transmittance of 0.561 W/m²K",
+            "Three motorised operating modes: hold-to-run, semi-automatic and automatic",
+            "Internal safety lock, spring-break safety device and end-of-travel buffer to EN 13241",
+            "Options for glazed panels, an integrated wicket door and ventilation grilles",
+            "High-speed sectional version opening at up to 1.0 m/s for high-traffic entrances",
             "After-sales service and spare parts from Bestolex"
           ]
         },
@@ -7882,117 +8070,145 @@
           {
             "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/devices-against-cable-v0.1.jpg",
             "label": {
-              "ar": "أجهزة أمان عند انقطاع الكابل وكسر النابض",
-              "en": "Cable-Break & Spring-Break Safety Devices"
+              "ar": "جهاز أمان عند كسر النابض",
+              "en": "Spring-Break Safety Device"
             }
           },
           {
             "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/safety-hook-which-locks-the-door-from-inside-v0.1.jpg",
             "label": {
-              "ar": "قفل أمان يغلق الباب من الداخل",
-              "en": "Safety Latch Lock from Inside"
+              "ar": "قفل أمان داخلي",
+              "en": "Internal Safety Lock"
             }
           }
         ],
         "specs": {
-          "ar": [
-            {
-              "label": "سماكة المقطع",
-              "value": "40 مم"
-            },
-            {
-              "label": "الطلاء",
-              "value": "طلاء أساس وزنك على الفولاذ (Primer, Zinc & Steel)"
-            },
-            {
-              "label": "أنواع الرفع",
-              "value": "عمودي، مرتفع، قياسي"
-            },
-            {
-              "label": "الإحكام",
-              "value": "ضد الرياح والماء"
-            },
-            {
-              "label": "سرعة الفتح",
-              "value": "1.1 م / ثانية"
-            },
-            {
-              "label": "سرعة الإغلاق",
-              "value": "0.5 م / ثانية"
-            },
-            {
-              "label": "مقاومة الرياح",
-              "value": "الفئة 3"
-            },
-            {
-              "label": "عزل الماء",
-              "value": "الفئة 3"
-            },
-            {
-              "label": "قدرة المحرك",
-              "value": "0.7 كيلوواط"
-            },
-            {
-              "label": "الحماية الحرارية للمحرك",
-              "value": "120° م"
-            },
-            {
-              "label": "مصدر الكهرباء والطاقة",
-              "value": "240/415V, 3Phase, 50Hz"
-            },
-            {
-              "label": "درجة حرارة التشغيل",
-              "value": "من -20° م إلى +45° م"
-            }
-          ],
           "en": [
             {
-              "label": "Section Thickness",
-              "value": "40 mm"
+              "label": "Maximum Size",
+              "value": "8000 × 5000 mm (W × H)"
             },
             {
-              "label": "Finish",
-              "value": "Primer, Zinc & Steel"
+              "label": "Panel Thickness",
+              "value": "40 mm (80 mm optional)"
             },
             {
-              "label": "Lift Types",
-              "value": "Vertical, High & Standard"
+              "label": "Panel",
+              "value": "Galvanised steel sandwich panel with polyurethane (PUR) insulation, finger-safe joints"
             },
             {
-              "label": "Seals",
-              "value": "Wind & waterproof"
+              "label": "Section Height",
+              "value": "500 or 610 mm"
             },
             {
-              "label": "Opening Speed",
-              "value": "1.1 m/s"
+              "label": "Thermal Transmittance",
+              "value": "0.561 W/m²K"
             },
             {
-              "label": "Closing Speed",
-              "value": "0.5 m/s"
+              "label": "Hardware & Tracks",
+              "value": "Galvanised steel (stainless steel optional); tracks adjustable to roof pitch optional"
             },
             {
-              "label": "Wind Resistance",
-              "value": "Class 3"
+              "label": "Finish & Colours",
+              "value": "Stucco embossed both sides; inside RAL 9002, outside RAL 5010, 7016, 9002, 9006, 9007 or 9010"
             },
             {
-              "label": "Water Tightness",
-              "value": "Class 3"
+              "label": "Motorised Speed",
+              "value": "0.2–0.3 m/s, IP40"
+            },
+            {
+              "label": "Operating Modes",
+              "value": "Hold-to-run, semi-automatic, automatic"
+            },
+            {
+              "label": "Service Life",
+              "value": "15,000 cycles standard (springs for 25,000 or 50,000 cycles optional)"
+            },
+            {
+              "label": "Working Temp",
+              "value": "-5 °C to +50 °C"
+            },
+            {
+              "label": "Safety",
+              "value": "Internal safety lock, spring-break safety device, end-of-travel buffer"
+            },
+            {
+              "label": "High-Speed Sectional Version",
+              "value": "Opening up to 1.0 m/s, closing up to 0.5 m/s, 366 mm sections, 50,000 cycles, indoor/outdoor, panel or glazed"
+            },
+            {
+              "label": "Standards",
+              "value": "EN 13241, Directive 2006/42/EC, Regulation (EU) 305/2011"
             },
             {
               "label": "Motor Power",
               "value": "0.7 kW"
             },
             {
-              "label": "Motor Thermal Protection",
-              "value": "120 °C"
-            },
-            {
               "label": "Power Supply",
               "value": "240/415V, 3Phase, 50Hz"
+            }
+          ],
+          "ar": [
+            {
+              "label": "المقاس الأقصى",
+              "value": "8000 × 5000 مم (عرض × ارتفاع)"
             },
             {
-              "label": "Working Temp",
-              "value": "-20 °C to +45 °C"
+              "label": "سماكة اللوح",
+              "value": "40 مم (80 مم اختياري)"
+            },
+            {
+              "label": "اللوح",
+              "value": "ساندويتش فولاذ مجلفن بعزل بولي يوريثان (PUR) ووصلات آمنة للأصابع"
+            },
+            {
+              "label": "ارتفاع المقطع",
+              "value": "500 أو 610 مم"
+            },
+            {
+              "label": "معامل الانتقال الحراري",
+              "value": "0.561 واط/م²·كلفن"
+            },
+            {
+              "label": "العتاد والمسارات",
+              "value": "فولاذ مجلفن (ستانلس ستيل اختياري)، ومسارات قابلة للتعديل حسب ميل السقف اختيارياً"
+            },
+            {
+              "label": "التشطيب والألوان",
+              "value": "نقش Stucco من الجهتين؛ الداخل RAL 9002، والخارج RAL 5010 أو 7016 أو 9002 أو 9006 أو 9007 أو 9010"
+            },
+            {
+              "label": "سرعة التشغيل بالمحرك",
+              "value": "0.2–0.3 م / ثانية، حماية IP40"
+            },
+            {
+              "label": "أوضاع التشغيل",
+              "value": "ضغط مستمر، نصف آلي، آلي"
+            },
+            {
+              "label": "العمر التشغيلي",
+              "value": "15,000 دورة قياسياً (نوابض 25,000 أو 50,000 دورة اختيارياً)"
+            },
+            {
+              "label": "درجة حرارة التشغيل",
+              "value": "من −5° م إلى +50° م"
+            },
+            {
+              "label": "عناصر السلامة",
+              "value": "قفل أمان داخلي، جهاز أمان عند كسر النابض، مصد نهاية الشوط"
+            },
+            {
+              "label": "الطراز المقطعي السريع",
+              "value": "فتح حتى 1.0 م/ث وإغلاق حتى 0.5 م/ث، مقاطع 366 مم، 50,000 دورة، داخلي وخارجي، ألواح أو زجاج"
+            },
+            {
+              "label": "المعايير",
+              "value": "EN 13241، والتوجيه 2006/42/EC، واللائحة الأوروبية 305/2011"
+            },
+            {
+              "label": "مصدر الكهرباء والطاقة",
+              "value": "240/415V, 3Phase, 50Hz"
             }
           ]
         },
@@ -8031,24 +8247,24 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/1.png",
         "description": {
-          "ar": "أبواب الرول عالية السرعة من بيستوليكس مناسبة لمناطق الحركة الكثيفة التي تحتاج فتحاً وإغلاقاً سريعين، بسرعة فتح وإغلاق تقارب 1.0 متر في الثانية ومقاس يصل إلى 4000 × 4000 مم.\nهيكلها من الألومنيوم وستارتها من قماش PVC عالي المتانة بألوان حسب الطلب، وتُركَّب في المتاجر والمنشآت الصناعية والمراكز اللوجستية ومصانع الأغذية والسيارات، وتتحمل نطاقاً واسعاً من درجات حرارة التشغيل وتحتاج مساحة تركيب صغيرة.\nمزودة بحافة أمان سفلية مرنة وحساس ضوئي (فوتوسيل) وستارة ضوئية للسلامة ونظام حماية من الاصطدام، وتعمل بمحرك ثلاثي الطور غير متزامن مع لوحة تحكم وجهاز تحكم عن بعد.",
-          "en": "Bestolex high-speed roll-up doors suit high-traffic areas that need fast opening and closing, at about 1.0 m/s in both directions and in sizes up to 4,000 × 4,000 mm.\nThey have an aluminium frame and a high-strength PVC curtain in customizable colours, fit stores and installations in any industrial sector, including logistics, foodstuff and automotive, withstand a wide range of operating temperatures and need minimal installation space.\nSafety comes from a soft, flexible bottom safety edge, a photocell, a light safety curtain and an anti-collision system, and the door is driven by an efficient 3-phase asynchronous motor with a control panel and remote controller."
+          "ar": "أبواب الرول عالية السرعة من بيستوليكس مناسبة لمناطق الحركة الكثيفة داخل المنشآت التي تحتاج فتحاً وإغلاقاً سريعين، بسرعة فتح وإغلاق تقارب 1.0 متر في الثانية ومقاس يصل إلى 3400 × 3400 مم.\nهيكلها من الألومنيوم المؤكسد بملحقات ستانلس ستيل 304، فيناسب البيئات الرطبة، وستارتها من PVC مقوى بالبوليستر بوزن 900 غ/م² وعشرة ألوان، وتُركَّب في المتاجر والمنشآت الصناعية والمراكز اللوجستية ومصانع الأغذية والسيارات، وتحتاج مساحة تركيب صغيرة.\nمزودة بستارة ضوئية بفلتر مستقطب تمنع اصطدام الباب بالأشخاص والبضائع، وحساس نهاية شوط إلكتروني وفتح يدوي للطوارئ، وعمرها التشغيلي 750,000 دورة. وللواجهات الخارجية المعرضة للرياح يتوفر باب سريع قابل للطي حتى 6000 × 6000 مم بمقاومة رياح من الفئة 4.",
+          "en": "Bestolex high-speed roll-up doors suit high-traffic areas inside a facility that need fast opening and closing, at about 1.0 m/s in both directions and in sizes up to 3,400 × 3,400 mm.\nTheir extruded anodised aluminium frame with AISI 304 stainless steel fittings suits humid locations, and the polyester-reinforced 900 g/m² PVC curtain comes in ten colours. They fit stores and installations in any industrial sector, including logistics, foodstuff and automotive, and need minimal installation space.\nA light curtain with a polarised filter prevents the door from closing on people or goods, with an electronic end-of-travel encoder and manual emergency opening, and the door is rated for 750,000 cycles. For outdoor façades exposed to wind, a fold-up high-speed door up to 6,000 × 6,000 mm with wind class 4 is available."
         },
         "features": {
           "ar": [
             "سرعة فتح وإغلاق تقارب 1.0 متر في الثانية",
-            "مقاس يصل إلى 4000 × 4000 مم ومقاومة رياح حتى الفئة 5",
-            "ستارة PVC عالية المتانة بألوان حسب الطلب وهيكل من الألومنيوم",
-            "حافة أمان مرنة وحساس ضوئي وستارة ضوئية للسلامة ونظام حماية من الاصطدام",
-            "محرك ثلاثي الطور غير متزامن مع لوحة تحكم وجهاز تحكم عن بعد",
+            "مقاس يصل إلى 3400 × 3400 مم للاستخدام الداخلي، وباب قابل للطي للواجهات الخارجية حتى 6000 × 6000 مم بمقاومة رياح الفئة 4",
+            "ستارة PVC بوزن 900 غ/م² بعشرة ألوان على هيكل ألومنيوم مؤكسد بملحقات ستانلس ستيل 304",
+            "ستارة ضوئية بفلتر مستقطب تمنع الاصطدام بالأشخاص والبضائع، وفتح يدوي للطوارئ",
+            "عمر تشغيلي 750,000 دورة ومطابقة للمعيارين EN 13241 وEN 12453",
             "خدمة ما بعد البيع من بيستوليكس مع توفر قطع الغيار"
           ],
           "en": [
             "Opening and closing at about 1.0 m/s",
-            "Sizes up to 4,000 × 4,000 mm, wind resistance up to Class 5",
-            "High-strength PVC curtain in custom colours on an aluminium frame",
-            "Soft safety edge, photocell, light safety curtain and anti-collision system",
-            "Efficient 3-phase asynchronous motor with control panel and remote controller",
+            "Sizes up to 3,400 × 3,400 mm indoors, plus a fold-up door for outdoor façades up to 6,000 × 6,000 mm with wind class 4",
+            "900 g/m² PVC curtain in ten colours on an anodised aluminium frame with AISI 304 stainless fittings",
+            "Light curtain with polarised filter against collisions with people or goods, plus manual emergency opening",
+            "Rated for 750,000 cycles and compliant with EN 13241 and EN 12453",
             "After-sales service and spare parts from Bestolex"
           ]
         },
@@ -8061,17 +8277,10 @@
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/Electric-safety-band_v0.1.png",
-            "label": {
-              "ar": "حافة أمان سفلية مرنة",
-              "en": "Soft & Flexible Safety Edge"
-            }
-          },
-          {
             "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/Photocell-safety_v0.5.png",
             "label": {
-              "ar": "حساس الخلية الضوئية للسلامة (فوتوسيل)",
-              "en": "Safety Photocell Sensors"
+              "ar": "خلية ضوئية إضافية للسلامة (اختيارية)",
+              "en": "Additional Safety Photocell (Optional)"
             }
           },
           {
@@ -8083,52 +8292,14 @@
           }
         ],
         "specs": {
-          "ar": [
-            {
-              "label": "المقاس الأقصى",
-              "value": "4000 × 4000 مم"
-            },
-            {
-              "label": "سرعة الفتح",
-              "value": "نحو 1.0 م / ثانية"
-            },
-            {
-              "label": "سرعة الإغلاق",
-              "value": "نحو 1.0 م / ثانية"
-            },
-            {
-              "label": "مقاومة الرياح",
-              "value": "حتى الفئة 5"
-            },
-            {
-              "label": "الستارة",
-              "value": "قماش PVC عالي المتانة، ألوان حسب الطلب"
-            },
-            {
-              "label": "الهيكل",
-              "value": "ألومنيوم"
-            },
-            {
-              "label": "المحرك",
-              "value": "محرك ثلاثي الطور غير متزامن"
-            },
-            {
-              "label": "مصدر الكهرباء والطاقة",
-              "value": "240/415V, 3Phase, 50Hz"
-            },
-            {
-              "label": "عناصر السلامة",
-              "value": "حافة أمان مرنة، حساس ضوئي، ستارة ضوئية، نظام حماية من الاصطدام"
-            },
-            {
-              "label": "التحكم",
-              "value": "لوحة تحكم وجهاز تحكم عن بعد"
-            }
-          ],
           "en": [
             {
+              "label": "Application",
+              "value": "Indoor"
+            },
+            {
               "label": "Maximum Size",
-              "value": "4000 × 4000 mm"
+              "value": "3400 × 3400 mm (W × H)"
             },
             {
               "label": "Opening Speed",
@@ -8140,19 +8311,19 @@
             },
             {
               "label": "Wind Class",
-              "value": "Up to Class 5"
+              "value": "Class 1 (EN 12424), indoor use"
             },
             {
               "label": "Curtain",
-              "value": "High-strength PVC, customizable colours"
+              "value": "Polyester-reinforced high-strength PVC, 900 g/m², 10 colours"
             },
             {
               "label": "Frame",
-              "value": "Aluminium"
+              "value": "Extruded anodised aluminium with AISI 304 stainless steel fittings"
             },
             {
-              "label": "Motor",
-              "value": "3-phase asynchronous motor"
+              "label": "Operation",
+              "value": "Electronic end-of-travel encoder, isolator switch, manual emergency opening"
             },
             {
               "label": "Power Supply",
@@ -8160,11 +8331,81 @@
             },
             {
               "label": "Safety Devices",
-              "value": "Soft safety edge, photocell, light safety curtain, anti-collision system"
+              "value": "Light curtain with polarised filter (standard); additional photocell and emergency stop optional"
             },
             {
-              "label": "Control",
-              "value": "Control panel & remote controller"
+              "label": "Optional Extras",
+              "value": "Frequency inverter, UPS, motor cover, front motor, extra row of windows, extra push-button panel"
+            },
+            {
+              "label": "Life Cycle",
+              "value": "750,000 cycles"
+            },
+            {
+              "label": "Standards",
+              "value": "EN 13241 and EN 12453"
+            },
+            {
+              "label": "For Outdoor Façades",
+              "value": "Wind-resistant fold-up high-speed door up to 6000 × 6000 mm, wind class 4, ~0.6 m/s"
+            }
+          ],
+          "ar": [
+            {
+              "label": "الاستخدام",
+              "value": "داخلي"
+            },
+            {
+              "label": "المقاس الأقصى",
+              "value": "3400 × 3400 مم (عرض × ارتفاع)"
+            },
+            {
+              "label": "سرعة الفتح",
+              "value": "نحو 1.0 م / ثانية"
+            },
+            {
+              "label": "سرعة الإغلاق",
+              "value": "نحو 1.0 م / ثانية"
+            },
+            {
+              "label": "مقاومة الرياح",
+              "value": "الفئة 1 (EN 12424) للاستخدام الداخلي"
+            },
+            {
+              "label": "الستارة",
+              "value": "PVC عالي المتانة مقوى بالبوليستر، 900 غ/م²، 10 ألوان"
+            },
+            {
+              "label": "الهيكل",
+              "value": "ألومنيوم مؤكسد مبثوق بملحقات ستانلس ستيل 304"
+            },
+            {
+              "label": "التشغيل",
+              "value": "حساس نهاية شوط إلكتروني (Encoder)، مفتاح عزل، فتح يدوي للطوارئ"
+            },
+            {
+              "label": "مصدر الكهرباء والطاقة",
+              "value": "240/415V, 3Phase, 50Hz"
+            },
+            {
+              "label": "عناصر السلامة",
+              "value": "ستارة ضوئية بفلتر مستقطب (قياسية)، وخلية ضوئية إضافية وزر طوارئ (اختياري)"
+            },
+            {
+              "label": "إضافات اختيارية",
+              "value": "محوّل تردد، مصدر طاقة احتياطي UPS، غطاء للمحرك، محرك أمامي، صف نوافذ إضافي، لوحة أزرار إضافية"
+            },
+            {
+              "label": "العمر التشغيلي",
+              "value": "750,000 دورة"
+            },
+            {
+              "label": "المعايير",
+              "value": "EN 13241 وEN 12453"
+            },
+            {
+              "label": "للواجهات الخارجية",
+              "value": "باب سريع قابل للطي مقاوم للرياح حتى 6000 × 6000 مم، الفئة 4، نحو 0.6 م/ث"
             }
           ]
         },
@@ -8203,8 +8444,8 @@
             "ar": "أبواب رول سريعة (شتر سريع) للمستودعات في قطر"
           },
           "description": {
-            "en": "High-speed PVC roll-up doors for busy forklift traffic, food plants and logistics sites, up to 4 x 4 m with photocell and safety edge. Get a quote.",
-            "ar": "أبواب رول سريعة بقماش PVC لحركة الرافعات الشوكية ومصانع الأغذية والمواقع اللوجستية، بمقاس حتى 4×4 م مع خلية ضوئية وحافة أمان. اطلب عرض سعر."
+            "en": "High-speed PVC roll-up doors for busy forklift traffic, food plants and logistics sites, up to 3.4 × 3.4 m indoors with a safety light curtain. Get a quote.",
+            "ar": "أبواب رول سريعة بقماش PVC لحركة الرافعات الشوكية ومصانع الأغذية والمواقع اللوجستية، بمقاس حتى 3.4 × 3.4 م داخلياً مع ستارة ضوئية للسلامة. اطلب عرض سعر."
           }
         }
       }
