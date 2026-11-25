@@ -272,20 +272,20 @@
         },
         "values": [
           {
-            "ar": "غير مذكور في الكتالوج",
-            "en": "Not listed in the catalogue"
+            "ar": "حفرة تحت مستوى الطريق — العمق يُحدَّد في المعاينة حسب ارتفاع المصد (800 – 1100 مم)",
+            "en": "Pit below road level — depth set at the site survey from the raised height (800 – 1100 mm)"
           },
           {
             "ar": "لا يحتاج حفراً (منحدر 100 – 150 مم فوق الأرض)",
             "en": "No excavation (100 – 150 mm ramp above ground)"
           },
           {
-            "ar": "غير مذكور في الكتالوج",
-            "en": "Not listed in the catalogue"
+            "ar": "حفرة تحت مستوى الطريق — العمق يُحدَّد في المعاينة حسب ارتفاع المصد (800 – 1100 مم)",
+            "en": "Pit below road level — depth set at the site survey from the raised height (800 – 1100 mm)"
           },
           {
-            "ar": "400 مم (40 سم فقط)",
-            "en": "400 mm (Just 40 cm)"
+            "ar": "400 مم (40 سم)",
+            "en": "400 mm (40 cm)"
           }
         ]
       },
@@ -340,24 +340,24 @@
       {
         "label": {
           "ar": "الكهرباء",
-          "en": "Power supply"
+          "en": "Electricity"
         },
         "values": [
           {
-            "ar": "240/415V, 3Phase, 50Hz",
-            "en": "240/415V, 3Phase, 50Hz"
+            "ar": "240/415 فولت، 3 فاز، 50 هرتز",
+            "en": "240/415V, 3-Phase, 50Hz"
           },
           {
-            "ar": "240/415V, 3Phase, 50Hz",
-            "en": "240/415V, 3Phase, 50Hz"
+            "ar": "240/415 فولت، 3 فاز، 50 هرتز",
+            "en": "240/415V, 3-Phase, 50Hz"
           },
           {
-            "ar": "240/415V, 3Phase, 50Hz",
-            "en": "240/415V, 3Phase, 50Hz"
+            "ar": "240/415 فولت، 3 فاز، 50 هرتز",
+            "en": "240/415V, 3-Phase, 50Hz"
           },
           {
-            "ar": "240/415V, 3Phase, 50Hz",
-            "en": "240/415V, 3Phase, 50Hz"
+            "ar": "240/415 فولت، 3 فاز، 50 هرتز",
+            "en": "240/415V, 3-Phase, 50Hz"
           }
         ]
       },

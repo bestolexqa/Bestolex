@@ -1,164 +1,962 @@
 [
   {
+    "id": "garbage-compactor-buildings-qatar",
+    "slug": "garbage-compactor-buildings-qatar",
+    "title": {
+      "ar": "ضاغط نفايات للمباني في قطر: كيف تخطط غرفة النفايات وتختار الضاغط المناسب؟",
+      "en": "Garbage Compactor for Buildings in Qatar: Plan the Refuse Room, Then Choose the Unit"
+    },
+    "category": {
+      "ar": "النفايات وإعادة التدوير",
+      "en": "Waste & Recycling"
+    },
+    "date": "2026-11-25",
+    "readTime": {
+      "ar": "8 دقائق قراءة",
+      "en": "7 min read"
+    },
+    "image": "/blog/garbage-compactor-buildings-qatar.webp",
+    "desc": {
+      "ar": "ضاغط نفايات لبرج سكني أو فندق أو مجمع تجاري في قطر؟ قارن الأبعاد وفتحة التعبئة والتحكم في السوائل، وخطط غرفة النفايات قبل اختيار الموديل.",
+      "en": "Choosing a garbage compactor for a tower, hotel or mall in Qatar? Compare size, feed opening and liquid control, and plan the refuse room first."
+    }
+  },
+  {
+    "id": "tyre-killer-in-ground-vs-surface",
+    "slug": "tyre-killer-in-ground-vs-surface",
+    "title": {
+      "ar": "مفجر إطارات في حفرة أم فوق الأرض؟ مقارنة التركيب والاختيار لمداخل المنشآت في قطر",
+      "en": "In-Ground or Surface-Mounted Tyre Killer? How to Choose for Your Gate in Qatar"
+    },
+    "category": {
+      "ar": "الحماية المحيطية",
+      "en": "Perimeter Protection"
+    },
+    "date": "2026-11-25",
+    "readTime": {
+      "ar": "7 دقائق قراءة",
+      "en": "7 min read"
+    },
+    "image": "/blog/tyre-killer-in-ground-vs-surface.webp",
+    "desc": {
+      "ar": "مفجر إطارات في حفرة أم مثبت فوق الأرض؟ قارن الحفر والارتفاع والأشواك وطريقة التشغيل، واعرف ما نفحصه في المعاينة قبل التركيب في قطر.",
+      "en": "In-ground or surface-mounted tyre killer? Compare excavation, ramp height, spikes and drive options, and see what we check on site in Qatar."
+    }
+  },
+  {
+    "id": "cardboard-baler-vertical-vs-horizontal",
+    "slug": "cardboard-baler-vertical-vs-horizontal",
+    "title": {
+      "ar": "مكبس كرتون عمودي أم أفقي؟ كيف تختار حسب الكمية والمساحة والعمالة في قطر",
+      "en": "Vertical or Horizontal Cardboard Baler? How to Choose for Your Site in Qatar"
+    },
+    "category": {
+      "ar": "النفايات وإعادة التدوير",
+      "en": "Waste & Recycling"
+    },
+    "date": "2026-11-24",
+    "readTime": {
+      "ar": "8 دقائق قراءة",
+      "en": "7 min read"
+    },
+    "image": "/blog/cardboard-baler-vertical-vs-horizontal.webp",
+    "desc": {
+      "ar": "مكبس كرتون عمودي 10 أو 20 أو 50 طناً أم أفقي 70 طناً؟ قارن فتحة التلقيم ووزن البالة والارتفاع والعمالة، واختر المناسب لمنشأتك في قطر.",
+      "en": "Choosing a cardboard baler in Qatar? Compare 10, 20 and 50-ton vertical balers and a 70-ton horizontal model by volume, space and staff."
+    }
+  },
+  {
+    "id": "dock-shelter-inflatable-vs-retractable",
+    "slug": "dock-shelter-inflatable-vs-retractable",
+    "title": {
+      "ar": "مظلة رصيف التحميل: قابلة للانتفاخ أم قابلة للارتداد؟ دليل الاختيار للمستودعات في قطر",
+      "en": "Inflatable or Retractable Dock Shelter? A Selection Guide for Warehouses in Qatar"
+    },
+    "category": {
+      "ar": "أنظمة التحميل والمستودعات",
+      "en": "Loading & Warehouse Systems"
+    },
+    "date": "2026-11-24",
+    "readTime": {
+      "ar": "7 دقائق قراءة",
+      "en": "7 min read"
+    },
+    "image": "/blog/dock-shelter-inflatable-vs-retractable.webp",
+    "desc": {
+      "ar": "مظلة رصيف التحميل القابلة للانتفاخ أم القابلة للارتداد؟ قارن الإحكام والمقاس وتحمّل الصدمات، واختر حسب منشأتك في قطر، واعرف متى تضيف رصيف تحميل.",
+      "en": "Inflatable or retractable dock shelter? Compare sealing, size and impact tolerance, pick by facility type in Qatar, and see when to add a dock leveler."
+    }
+  },
+  {
+    "id": "bollards-types-guide-qatar",
+    "slug": "bollards-types-guide-qatar",
+    "title": {
+      "ar": "أنواع البولارد وكيف تختار المناسب لمدخل منشأتك في قطر",
+      "en": "Bollards in Qatar: Types and How to Choose for Your Entrance"
+    },
+    "category": {
+      "ar": "الحماية المحيطية",
+      "en": "Perimeter Protection"
+    },
+    "date": "2026-11-22",
+    "readTime": {
+      "ar": "8 دقائق قراءة",
+      "en": "7 min read"
+    },
+    "image": "/blog/bollards-types-guide-qatar.webp",
+    "desc": {
+      "ar": "الفرق بين البولارد الثابت والقابل للإزالة والأوتوماتيكي الهيدروليكي، ومتى تختار مصد الطريق بدلاً منه، مع المواصفات وطريقة الاختيار للمداخل في قطر.",
+      "en": "Fixed, removable or automatic bollards? Compare types, see when a road blocker fits better, and how to choose bollards for entrances in Qatar."
+    }
+  },
+  {
+    "id": "scissor-lift-table-guide-qatar",
+    "slug": "scissor-lift-table-guide-qatar",
+    "title": {
+      "ar": "الرافعة المقصية في قطر: طاولة رفع للمواد أم رافعة متحركة للعمل على الارتفاعات؟",
+      "en": "Scissor Lift in Qatar: Material Lift Table or Movable Work Platform?"
+    },
+    "category": {
+      "ar": "أنظمة التحميل والمستودعات",
+      "en": "Loading & Warehouse Systems"
+    },
+    "date": "2026-11-22",
+    "readTime": {
+      "ar": "8 دقائق قراءة",
+      "en": "7 min read"
+    },
+    "image": "/blog/scissor-lift-table-guide-qatar.webp",
+    "desc": {
+      "ar": "الفرق بين طاولة الرفع المقصية لمناولة المواد والرافعة المقصية المتحركة للعمل على الارتفاعات، مع المواصفات وطريقة الاختيار وما تجهزه لعرض السعر في قطر.",
+      "en": "Scissor lift table or movable scissor lift? Compare capacity and lifting height, learn how to choose, and what to prepare for a quotation in Qatar."
+    }
+  },
+  {
+    "id": "كبس-المخلفات-البلاستيكية-وإعادة-التدوير-كيف-تساعد-المكابس-الأفقية-على-تقليل-الحجم-وتحسين-كفاءة-النقل-والمعالجة-",
+    "slug": "كبس-المخلفات-البلاستيكية-وإعادة-التدوير-كيف-تساعد-المكابس-الأفقية-على-تقليل-الحجم-وتحسين-كفاءة-النقل-والمعالجة-",
+    "title": {
+      "ar": "كبس المخلفات البلاستيكية وإعادة التدوير: كيف تساعد المكابس الأفقية على تقليل الحجم وتحسين كفاءة النقل والمعالجة؟",
+      "en": "Plastic Waste Baling and Recycling: How Horizontal Balers Improve Volume Reduction, Handling and Transportation"
+    },
+    "category": {
+      "ar": "النفايات وإعادة التدوير",
+      "en": "Waste & Recycling"
+    },
+    "date": "2026-10-07",
+    "readTime": {
+      "ar": "18 دقيقة قراءة",
+      "en": "12 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1791388667441-hydraulic_baler_compressing_plas__2k_20261007185728.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف يحوّل كبس المخلفات البلاستيكية المواد الخفيفة إلى بالات كثيفة تقلل النقل والتخزين، والفرق بين المكبس الأفقي والعمودي، وخيارات المكابس في قطر.",
+      "en": "How baling turns light plastic waste into dense bales that cut haulage and storage, horizontal vs vertical balers, and the balers available in Qatar."
+    }
+  },
+  {
+    "id": "مكبس-الكرتون-والبلاستيك-العمودي-20-طن-حل-عملي-وفعال-لإدارة-المخلفات-وإعادة-التدوير",
+    "slug": "مكبس-الكرتون-والبلاستيك-العمودي-20-طن-حل-عملي-وفعال-لإدارة-المخلفات-وإعادة-التدوير",
+    "title": {
+      "ar": "مكبس الكرتون والبلاستيك العمودي 20 طن – حل عملي وفعال لإدارة المخلفات وإعادة التدوير",
+      "en": "20-Ton Vertical Cardboard and Plastic Baler – An Efficient Solution for Recycling and Waste Management"
+    },
+    "category": {
+      "ar": "النفايات وإعادة التدوير",
+      "en": "Waste & Recycling"
+    },
+    "date": "2026-10-07",
+    "readTime": {
+      "ar": "6 دقائق قراءة",
+      "en": "7 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1791389581698-hydraulic_baler_compressing_card__2k_20261007191251.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "مكبس عمودي بقوة 20 طناً يضغط الكرتون والبلاستيك في بالات توفر مساحة التخزين ورحلات النقل، ويناسب المحلات والمستودعات والمصانع متوسطة الحجم.",
+      "en": "A 20-ton vertical baler that presses cardboard and plastic into bales to save storage space and collection trips, suited to mid-size shops and warehouses."
+    }
+  },
+  {
+    "id": "مكبس-الكرتون-والبلاستيك-العمودي-80-طن-قوة-عالية-لضغط-كميات-كبيرة-من-المواد-القابلة-لإعادة-التدوير",
+    "slug": "مكبس-الكرتون-والبلاستيك-العمودي-80-طن-قوة-عالية-لضغط-كميات-كبيرة-من-المواد-القابلة-لإعادة-التدوير",
+    "title": {
+      "ar": "مكبس عبوات PET والعلب العمودي 80 طن – قوة عالية لضغط كميات كبيرة من المواد القابلة لإعادة التدوير",
+      "en": "80-Ton Vertical Cardboard and Plastic Baler – A High-Capacity Solution for Large-Scale Recycling"
+    },
+    "category": {
+      "ar": "النفايات وإعادة التدوير",
+      "en": "Waste & Recycling"
+    },
+    "date": "2026-10-07",
+    "readTime": {
+      "ar": "15 دقيقة قراءة",
+      "en": "11 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1791389922293-vertical_recycling_baler_compres__2k_20261007191826.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "مكبس عمودي 80 طناً للقوارير والعلب والكرتون: المواصفات، ومقارنة بمكبس 20 طناً، والقطاعات التي يناسبها في قطر، وكيف يقلل تكاليف النقل والتخزين.",
+      "en": "An 80-ton vertical baler for bottles, cans and cardboard: specifications, comparison with the 20-ton model, where it fits in Qatar and how it cuts haulage."
+    }
+  },
+  {
+    "id": "تزويد-الطائرات-بالوقود-المعدات-والأنظمة-وإجراءات-الجودة-والسلامة-في-المطارات",
+    "slug": "تزويد-الطائرات-بالوقود-المعدات-والأنظمة-وإجراءات-الجودة-والسلامة-في-المطارات",
+    "title": {
+      "ar": "تزويد الطائرات بالوقود: المعدات والأنظمة وإجراءات الجودة والسلامة في المطارات",
+      "en": "Aircraft Refueling: Equipment, Systems, Fuel Quality and Safety at Airports"
+    },
+    "category": {
+      "ar": "المعدات الثقيلة",
+      "en": "Heavy Equipment"
+    },
+    "date": "2026-10-03",
+    "readTime": {
+      "ar": "11 دقيقة قراءة",
+      "en": "9 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1791041333589-aircraft_refueled_at_airport_gate_2k_20261003182838.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "دليل لمعدات تزويد الطائرات بالوقود في المطارات: شاحنات التزويد ومركبات الهيدرانت والترشيح والعدادات، مع إجراءات ضبط جودة الوقود والسلامة.",
+      "en": "A guide to airport refueling equipment, from refueler trucks and hydrant servicers to filtration and metering, with fuel quality and safety procedures."
+    }
+  },
+  {
+    "id": "دليل-هندسة-الكبس-الهيدروليكي-كيف-تحقق-المكابس-الأفقية-كفاءة-التشغيل-وأقصى-ربحية-",
+    "slug": "دليل-هندسة-الكبس-الهيدروليكي-كيف-تحقق-المكابس-الأفقية-كفاءة-التشغيل-وأقصى-ربحية-",
+    "title": {
+      "ar": "المكبس الأفقي الهيدروليكي: دليل التشغيل والاختيار لكفاءة أعلى وعائد أفضل",
+      "en": "Horizontal Baler Engineering Guide: How Horizontal Balers Improve Efficiency and Returns"
+    },
+    "category": {
+      "ar": "النفايات وإعادة التدوير",
+      "en": "Waste & Recycling"
+    },
+    "date": "2026-10-03",
+    "readTime": {
+      "ar": "9 دقائق قراءة",
+      "en": "8 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1791050841565-baling_press_compacting_cardboar__2k_20261003210455.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف يعمل المكبس الأفقي الهيدروليكي، والفرق بينه وبين ضاغط النفايات، وحساب التوفير، ومواصفات مكابس ساب تك الأفقية المتاحة في قطر.",
+      "en": "How a hydraulic horizontal baler works, how it differs from a waste compactor, how to work out savings, and the SAB TECH horizontal balers sold in Qatar."
+    }
+  },
+  {
+    "id": "ضاغط-النفايات-الصناعي-الدليل-الشامل-لاختيار-مكبس-النفايات-الهيدروليكي-وتقليل-تكاليف-النقل",
+    "slug": "ضاغط-النفايات-الصناعي-الدليل-الشامل-لاختيار-مكبس-النفايات-الهيدروليكي-وتقليل-تكاليف-النقل",
+    "title": {
+      "ar": "ضاغط النفايات الصناعي: الدليل الشامل لاختيار مكبس النفايات الهيدروليكي وتقليل تكاليف النقل",
+      "en": "Industrial Waste Compactors: The Complete Guide to Choosing a Hydraulic Compactor and Cutting Hauling Costs"
+    },
+    "category": {
+      "ar": "النفايات وإعادة التدوير",
+      "en": "Waste & Recycling"
+    },
+    "date": "2026-10-03",
+    "readTime": {
+      "ar": "15 دقيقة قراءة",
+      "en": "12 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1791043366509-worker_observing_hydraulic_waste__2k_20261003190228.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "دليل اختيار ضاغط النفايات الصناعي: الأنواع، ونسبة الضغط، وحساب التوفير في النقل، والسلامة والصيانة، مع مواصفات الضواغط المتاحة في قطر.",
+      "en": "Choosing an industrial waste compactor: types, compaction ratio, working out haulage savings, safety and maintenance, with the models available in Qatar."
+    }
+  },
+  {
+    "id": "تكنولوجيا-ضواغط-النفايات-الذكية-العاملة-بالطاقة-الشمسية-هندسة-الاستقلالية-الطاقية-والتحليل-الفيزيائي-والميكانيكي-الشامل-لإدارة-المخلفات-الحضرية-المستدامة-في-المساحات-العامة-والمجمعات-التجارية-المعاصرة",
+    "slug": "تكنولوجيا-ضواغط-النفايات-الذكية-العاملة-بالطاقة-الشمسية-هندسة-الاستقلالية-الطاقية-والتحليل-الفيزيائي-والميكانيكي-الشامل-لإدارة-المخلفات-الحضرية-المستدامة-في-المساحات-العامة-والمجمعات-التجارية-المعاصرة",
+    "title": {
+      "ar": "ضاغط النفايات الذكي بالطاقة الشمسية: كيف يعمل وأين يناسب الأماكن العامة في قطر",
+      "en": "Solar-Powered Smart Waste Compactor: How It Works and Where It Fits in Qatar"
+    },
+    "category": {
+      "ar": "النفايات وإعادة التدوير",
+      "en": "Waste & Recycling"
+    },
+    "date": "2026-10-03",
+    "readTime": {
+      "ar": "6 دقائق قراءة",
+      "en": "6 min read"
+    },
+    "image": "/blog/legacy-solar-smart-compactors.webp",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف يعمل ضاغط النفايات الذكي بالطاقة الشمسية: لوح 40 واط وبطارية 12 فولت ومستشعرات امتلاء، ومواصفاته، وأين يناسب الحدائق والمحطات والمجمعات في قطر.",
+      "en": "How a solar smart waste compactor works: a 40 W panel, 12 V battery and fill sensors, its specs, and where it suits parks, stations and malls in Qatar."
+    }
+  },
+  {
+    "id": "تكنولوجيا-الكبس-الهيدروليكي-المتقدم-للألياف-النسيجية-هندسة-تعظيم-وزن-البالات-وخفض-تكاليف-الشحن-الدولي-في-قطاع-إعادة-التدوير-والتصدير-العالمي",
+    "slug": "تكنولوجيا-الكبس-الهيدروليكي-المتقدم-للألياف-النسيجية-هندسة-تعظيم-وزن-البالات-وخفض-تكاليف-الشحن-الدولي-في-قطاع-إعادة-التدوير-والتصدير-العالمي",
+    "title": {
+      "ar": "مكبس الأقمشة 30 طناً: كبس الملابس المستعملة والمنسوجات للتخزين والتصدير",
+      "en": "30-Ton Textile Baler: Baling Used Clothes and Textiles for Storage and Export"
+    },
+    "category": {
+      "ar": "النفايات وإعادة التدوير",
+      "en": "Waste & Recycling"
+    },
+    "date": "2026-10-03",
+    "readTime": {
+      "ar": "5 دقائق قراءة",
+      "en": "5 min read"
+    },
+    "image": "/blog/legacy-textile-baling.webp",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف يعمل مكبس الأقمشة 30 طناً للملابس المستعملة والصوف والقطن: بالة 65–75 كجم وربط من جميع الجهات، والمواصفات، وفوائده في التخزين والتصدير من قطر.",
+      "en": "How a 30-ton textile baler works for used clothes, wool and cotton: 65–75 kg bales tied on all sides, specifications and benefits for storage and export."
+    }
+  },
+  {
+    "id": "كيف-تساعد-المصدات-العمودية-الأوتوماتيكية-في-تنظيم-مداخل-المركبات-وحماية-المنشآت-",
+    "slug": "كيف-تساعد-المصدات-العمودية-الأوتوماتيكية-في-تنظيم-مداخل-المركبات-وحماية-المنشآت-",
+    "title": {
+      "ar": "كيف تساعد المصدات العمودية الأوتوماتيكية في تنظيم مداخل المركبات وحماية المنشآت؟",
+      "en": "How Do Automatic Vertical Bollards Help Control Vehicle Entrances and Protect Facilities?"
+    },
+    "category": {
+      "ar": "الحماية المحيطية",
+      "en": "Perimeter Protection"
+    },
+    "date": "2026-09-30",
+    "readTime": {
+      "ar": "4 دقائق قراءة",
+      "en": "4 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790804254338-stainless_steel_security_bollard__2k_20261001003718.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف تعمل المصدات العمودية الأوتوماتيكية (البولارد) هيدروليكياً، ولماذا يهم الفولاذ المقاوم للصدأ وإضاءة LED، وكيف تُربط بأنظمة التحكم في الدخول.",
+      "en": "How automatic hydraulic bollards work, why stainless steel and LED lighting matter, and how they connect to access control at vehicle entrances."
+    }
+  },
+  {
+    "id": "أبواب-الرول-فائقة-السرعة-ودورها-في-تسريع-حركة-المستودعات",
+    "slug": "أبواب-الرول-فائقة-السرعة-ودورها-في-تسريع-حركة-المستودعات",
+    "title": {
+      "ar": "أبواب الرول فائقة السرعة ودورها في تسريع حركة المستودعات",
+      "en": "High-Speed Roll Doors and Their Role in Faster Warehouse Operations"
+    },
+    "category": {
+      "ar": "الأبواب الصناعية",
+      "en": "Industrial Doors"
+    },
+    "date": "2026-09-30",
+    "readTime": {
+      "ar": "3 دقائق قراءة",
+      "en": "3 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790805337748-forklift_moving_through_industri__2k_20261001005523.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف تقلل أبواب الرول فائقة السرعة وقت انتظار الرافعات الشوكية وتحد من فقدان الحرارة في المستودعات، وما أنظمة الأمان التي تحمي العاملين والمعدات.",
+      "en": "How high-speed roll-up doors cut forklift waiting time and limit heat loss in warehouses, and which safety systems protect staff and equipment."
+    }
+  },
+  {
+    "id": "كيف-توازن-المنشآت-الحساسة-بين-حركة-المركبات-والأمان-عند-المداخل-",
+    "slug": "كيف-توازن-المنشآت-الحساسة-بين-حركة-المركبات-والأمان-عند-المداخل-",
+    "title": {
+      "ar": "كيف توازن المنشآت الحساسة بين حركة المركبات والأمان عند المداخل؟",
+      "en": "How Can Sensitive Facilities Balance Vehicle Flow and Entrance Security?"
+    },
+    "category": {
+      "ar": "الحماية المحيطية",
+      "en": "Perimeter Protection"
+    },
+    "date": "2026-09-30",
+    "readTime": {
+      "ar": "4 دقائق قراءة",
+      "en": "4 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790804008509-hydraulic_road_blocker_blocking___2k_20261001003252.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف يوازن مصد الطريق الهيدروليكي بين تأمين المدخل وانسيابية مرور المركبات المصرح لها: سرعة الرفع، والتشغيل عند انقطاع الكهرباء، ونقاط الاختيار.",
+      "en": "How a hydraulic road blocker balances entrance security with smooth flow for authorised vehicles: rise speed, operation in a power cut, and selection."
+    }
+  },
+  {
+    "id": "دور-الأبواب-الصناعية-في-تحسين-العزل-واستغلال-المساحات-داخل-المنشآت",
+    "slug": "دور-الأبواب-الصناعية-في-تحسين-العزل-واستغلال-المساحات-داخل-المنشآت",
+    "title": {
+      "ar": "دور الأبواب الصناعية في تحسين العزل واستغلال المساحات داخل المنشآت",
+      "en": "How Industrial Doors Improve Insulation and Space Utilization in Commercial Facilities"
+    },
+    "category": {
+      "ar": "الأبواب الصناعية",
+      "en": "Industrial Doors"
+    },
+    "date": "2026-09-30",
+    "readTime": {
+      "ar": "5 دقائق قراءة",
+      "en": "5 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790805107518-industrial_overhead_door_in_ware__2k_20261001005130.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف تؤثر الأبواب الصناعية ذات الشرائح في العزل الحراري والصوتي واستغلال المساحة والسلامة في المستودعات والمصانع، وما تراعيه عند الاختيار في قطر.",
+      "en": "How sectional industrial doors affect thermal and acoustic insulation, space use and safety in warehouses and factories, and what to check when choosing."
+    }
+  },
+  {
+    "id": "فحص-المركبات-من-الأسفل-تقنية-مهمة-لتعزيز-أمن-المداخل-الحساسة",
+    "slug": "فحص-المركبات-من-الأسفل-تقنية-مهمة-لتعزيز-أمن-المداخل-الحساسة",
+    "title": {
+      "ar": "فحص المركبات من الأسفل: تقنية مهمة لتعزيز أمن المداخل الحساسة",
+      "en": "Under-Vehicle Inspection: An Important Technology for Securing Sensitive Entrances"
+    },
+    "category": {
+      "ar": "الحماية المحيطية",
+      "en": "Perimeter Protection"
+    },
+    "date": "2026-09-30",
+    "readTime": {
+      "ar": "4 دقائق قراءة",
+      "en": "4 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790804590763-vehicle_passing_over_inspection___2k_20261001004255.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف يصوّر نظام كشف أسفل المركبات الجزء السفلي للسيارة أثناء مرورها، ودور الإضاءة والربط مع التعرف على اللوحات في تفتيش مداخل المنشآت الحساسة.",
+      "en": "How an under vehicle surveillance system images the underside of each car as it passes, and how lighting and plate recognition support gate checks."
+    }
+  },
+  {
+    "id": "كيف-تساعد-الحواجز-المرورية-في-تنظيم-دخول-المركبات-وحماية-المواقع-الحساسة-",
+    "slug": "كيف-تساعد-الحواجز-المرورية-في-تنظيم-دخول-المركبات-وحماية-المواقع-الحساسة-",
+    "title": {
+      "ar": "كيف تساعد الحواجز المرورية في تنظيم دخول المركبات وحماية المواقع الحساسة؟",
+      "en": "How Vehicle Access Barriers Help Control Traffic and Protect Sensitive Sites"
+    },
+    "category": {
+      "ar": "الحماية المحيطية",
+      "en": "Perimeter Protection"
+    },
+    "date": "2026-09-29",
+    "readTime": {
+      "ar": "4 دقائق قراءة",
+      "en": "4 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790713830010-tire_killer_security_device_inst__2k_20260929233015.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "حواجز تُثبت على الأسفلت أو الخرسانة لتنظيم اتجاه دخول المركبات وخروجها والحد من الدخول غير المصرح به، وتناسب المواقع المؤقتة والطرق التي تمر تحتها تمديدات.",
+      "en": "Barriers fixed on asphalt or concrete to control the direction of vehicle entry and exit, suited to temporary sites and roads with buried utilities."
+    }
+  },
+  {
+    "id": "الرفع-العمودي-للمواد-مفتاح-الكفاءة-في-المستودعات-ومرافق-التصنيع-الحديثة",
+    "slug": "الرفع-العمودي-للمواد-مفتاح-الكفاءة-في-المستودعات-ومرافق-التصنيع-الحديثة",
+    "title": {
+      "ar": "الرفع العمودي للمواد: مفتاح الكفاءة في المستودعات ومرافق التصنيع الحديثة",
+      "en": "Vertical Material Handling Solutions Driving Modern Industrial Efficiency"
+    },
+    "category": {
+      "ar": "أنظمة التحميل والمستودعات",
+      "en": "Loading & Warehouse Systems"
+    },
+    "date": "2026-09-29",
+    "readTime": {
+      "ar": "4 دقائق قراءة",
+      "en": "4 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790697073175-hydraulic_lift_elevating_cargo_2k_20260929185055.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف ينقل مصعد البضائع المواد والأحمال الثقيلة بين مستويات المستودع والمصنع بأمان، ويحسن استغلال المساحة ويختصر وقت المناولة ويقلل المناولة اليدوية.",
+      "en": "How a cargo lift moves goods and heavy loads between warehouse and factory levels safely, making better use of space and saving handling time."
+    }
+  },
+  {
+    "id": "المساحات-الصغيرة-والكفاءة-الكبيرة-حلول-ذكية-لتطوير-مناطق-التحميل-الحديثة",
+    "slug": "المساحات-الصغيرة-والكفاءة-الكبيرة-حلول-ذكية-لتطوير-مناطق-التحميل-الحديثة",
+    "title": {
+      "ar": "المساحات الصغيرة والكفاءة الكبيرة: حلول ذكية لتطوير مناطق التحميل الحديثة",
+      "en": "Small Footprint, Big Impact: Smart Loading Solutions for Modern Warehouses"
+    },
+    "category": {
+      "ar": "أنظمة التحميل والمستودعات",
+      "en": "Loading & Warehouse Systems"
+    },
+    "date": "2026-09-29",
+    "readTime": {
+      "ar": "4 دقائق قراءة",
+      "en": "4 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790696756981-forklift_crossing_mini_dock_leveler_2k_20260929184538.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "عندما تكون المساحة محدودة، تتيح حلول التحميل المدمجة تركيباً سريعاً ومرونة في التحميل والتفريغ اليومي، مع سلامة أفضل وتكاليف تشغيل أقل.",
+      "en": "When space is tight, compact loading solutions install quickly and keep daily loading and unloading flexible and safe, at a lower running cost."
+    }
+  },
+  {
+    "id": "حماية-مناطق-التحميل-استثمار-ذكي-لتعزيز-كفاءة-المستودعات-واستمرارية-العمليات",
+    "slug": "حماية-مناطق-التحميل-استثمار-ذكي-لتعزيز-كفاءة-المستودعات-واستمرارية-العمليات",
+    "title": {
+      "ar": "حماية مناطق التحميل: استثمار ذكي لتعزيز كفاءة المستودعات واستمرارية العمليات",
+      "en": "Smart Dock Protection Solutions for Safer and More Efficient Logistics Operations"
+    },
+    "category": {
+      "ar": "أنظمة التحميل والمستودعات",
+      "en": "Loading & Warehouse Systems"
+    },
+    "date": "2026-09-29",
+    "readTime": {
+      "ar": "4 دقائق قراءة",
+      "en": "3 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790696553188-truck_backing_into_warehouse_dock_2k_20260929184214.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف تحمي حلول منطقة التحميل المبنى من أضرار الحركة المستمرة للشاحنات والمعدات، وتحسن العزل حول البوابة، وتقلل تكاليف الإصلاح وتدعم سلامة العاملين.",
+      "en": "How loading dock protection guards the building against constant truck and equipment traffic, improves insulation at the door and lowers repair costs."
+    }
+  },
+  {
+    "id": "التحكم-الحراري-يبدأ-من-بوابة-التحميل-حماية-البضائع-والحفاظ-على-كفاءة-سلاسل-التبريد",
+    "slug": "التحكم-الحراري-يبدأ-من-بوابة-التحميل-حماية-البضائع-والحفاظ-على-كفاءة-سلاسل-التبريد",
+    "title": {
+      "ar": "التحكم الحراري يبدأ من بوابة التحميل: حماية البضائع والحفاظ على كفاءة سلاسل التبريد",
+      "en": "Protecting the Cold Chain Starts at the Loading Dock"
+    },
+    "category": {
+      "ar": "أنظمة التحميل والمستودعات",
+      "en": "Loading & Warehouse Systems"
+    },
+    "date": "2026-09-29",
+    "readTime": {
+      "ar": "4 دقائق قراءة",
+      "en": "4 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790697838949-refrigerated_truck_at_loading_dock_2k_20260929190321.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "في المستودعات المبردة تبدأ حماية البضائع من بوابة التحميل: كيف يحد الإغلاق المحكم حول الشاحنة من تسرب الحرارة والعوامل الخارجية ويخفض استهلاك الطاقة.",
+      "en": "In cold stores, protecting goods starts at the loading door: how a tight seal around the truck limits heat gain and outside air and cuts energy use."
+    }
+  },
+  {
+    "id": "كيف-تساعد-منصات-العمل-المرتفعة-في-تنفيذ-مشاريع-الصيانة-والإنشاءات-بكفاءة-وأمان-",
+    "slug": "كيف-تساعد-منصات-العمل-المرتفعة-في-تنفيذ-مشاريع-الصيانة-والإنشاءات-بكفاءة-وأمان-",
+    "title": {
+      "ar": "كيف تساعد منصات العمل المرتفعة في تنفيذ مشاريع الصيانة والإنشاءات بكفاءة وأمان؟",
+      "en": "How Elevated Work Platforms Improve Safety and Productivity in Modern Projects"
+    },
+    "category": {
+      "ar": "أنظمة التحميل والمستودعات",
+      "en": "Loading & Warehouse Systems"
+    },
+    "date": "2026-09-29",
+    "readTime": {
+      "ar": "4 دقائق قراءة",
+      "en": "4 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790685837151-team_working_on_elevated_platform_2k_20260929154325.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف تحسن منصات العمل المرتفعة السلامة وسرعة التنفيذ في أعمال الصيانة والتركيب والإنشاءات، ولماذا تعد استثماراً طويل المدى لفرق الصيانة والمقاولين.",
+      "en": "How elevated work platforms improve safety and speed in maintenance, installation and construction work, and why they pay off for contractors."
+    }
+  },
+  {
+    "id": "الحلول-البسيطة-تصنع-فرق-ا-كبير-ا-في-كفاءة-التحميل-والتفريغ",
+    "slug": "الحلول-البسيطة-تصنع-فرق-ا-كبير-ا-في-كفاءة-التحميل-والتفريغ",
+    "title": {
+      "ar": "الحلول البسيطة تصنع فرقًا كبيرًا في كفاءة التحميل والتفريغ",
+      "en": "Simple Loading Solutions That Drive Logistics Efficiency"
+    },
+    "category": {
+      "ar": "أنظمة التحميل والمستودعات",
+      "en": "Loading & Warehouse Systems"
+    },
+    "date": "2026-09-29",
+    "readTime": {
+      "ar": "4 دقائق قراءة",
+      "en": "3 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790696273600-forklift_crossing_warehouse_load__2k_20260929183735.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "ليست كل فروقات المستوى بين الشاحنة والرصيف بحاجة إلى نظام معقد. متى تكفي الحلول الميكانيكية البسيطة، وكيف تدعم الإنتاجية والسلامة بتكلفة أقل.",
+      "en": "Not every height gap between truck and dock needs a complex system. When simple mechanical solutions are enough and how they support output and safety."
+    }
+  },
+  {
+    "id": "حلول-التحميل-المتنقلة-مرونة-تشغيلية-تواكب-متطلبات-المستودعات-الحديثة",
+    "slug": "حلول-التحميل-المتنقلة-مرونة-تشغيلية-تواكب-متطلبات-المستودعات-الحديثة",
+    "title": {
+      "ar": "حلول التحميل المتنقلة: مرونة تشغيلية تواكب متطلبات المستودعات الحديثة",
+      "en": "Mobile Loading Platforms Driving Flexible Warehouse Operations"
+    },
+    "category": {
+      "ar": "أنظمة التحميل والمستودعات",
+      "en": "Loading & Warehouse Systems"
+    },
+    "date": "2026-09-29",
+    "readTime": {
+      "ar": "4 دقائق قراءة",
+      "en": "4 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790698482154-forklift_loading_cargo_into_truck_2k_20260929191413.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف تتيح منصات التحميل المتحركة تحميل الشاحنات وتفريغها بالرافعات الشوكية حيث لا يوجد رصيف ثابت، مع استغلال المساحة المتاحة وسلامة المناولة.",
+      "en": "How mobile loading ramps let forklifts load and unload trucks where there is no fixed dock, while making good use of space and keeping handling safe."
+    }
+  },
+  {
+    "id": "كيف-تساعد-أنظمة-التحكم-في-الدخول-على-تنظيم-حركة-الأفراد-داخل-المنشآت-",
+    "slug": "كيف-تساعد-أنظمة-التحكم-في-الدخول-على-تنظيم-حركة-الأفراد-داخل-المنشآت-",
+    "title": {
+      "ar": "كيف تساعد أنظمة التحكم في الدخول على تنظيم حركة الأفراد داخل المنشآت؟",
+      "en": "How Do Access Control Systems Help Organize People Flow in Facilities?"
+    },
+    "category": {
+      "ar": "الحماية المحيطية",
+      "en": "Perimeter Protection"
+    },
+    "date": "2026-09-29",
+    "readTime": {
+      "ar": "4 دقائق قراءة",
+      "en": "4 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790714970823-people_passing_security_turnstil__2k_20260929234907.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف تنظم البوابات الدوارة الأمنية دخول الموظفين والزوار وتربطه بأنظمة التحقق من الهوية، وماذا يحدث عند انقطاع الكهرباء، وما يُراعى قبل الاختيار.",
+      "en": "How security turnstiles organise staff and visitor entry, link to identity checks and behave in a power cut, and what to weigh before choosing one."
+    }
+  },
+  {
+    "id": "كيف-تحمي-المنشآت-الحساسة-مداخلها-من-دخول-المركبات-غير-المصرح-به-",
+    "slug": "كيف-تحمي-المنشآت-الحساسة-مداخلها-من-دخول-المركبات-غير-المصرح-به-",
+    "title": {
+      "ar": "كيف تحمي المنشآت الحساسة مداخلها من دخول المركبات غير المصرح به؟",
+      "en": "How Can Sensitive Facilities Protect Their Entrances From Unauthorized Vehicles?"
+    },
+    "category": {
+      "ar": "الحماية المحيطية",
+      "en": "Perimeter Protection"
+    },
+    "date": "2026-09-29",
+    "readTime": {
+      "ar": "5 دقائق قراءة",
+      "en": "5 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790714414263-hydraulic_road_blocker_on_asphalt_2k_20260929233958.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف تحمي مداخل المنشآت الحساسة من المركبات: مقارنة بين مصدات الطرق والبولارد ومفجر الإطارات، والحلول السطحية حين يتعذر الحفر في قطر.",
+      "en": "How to protect sensitive facility entrances: road blockers, bollards and tyre killers compared, plus surface options where digging is not possible."
+    }
+  },
+  {
+    "id": "كيف-يمكن-تأمين-مداخل-المنشآت-دون-الحاجة-إلى-أعمال-حفر-عميقة-",
+    "slug": "كيف-يمكن-تأمين-مداخل-المنشآت-دون-الحاجة-إلى-أعمال-حفر-عميقة-",
+    "title": {
+      "ar": "كيف يمكن تأمين مداخل المنشآت دون الحاجة إلى أعمال حفر عميقة؟",
+      "en": "How Can Facilities Secure Vehicle Entrances Without Deep Excavation?"
+    },
+    "category": {
+      "ar": "الحماية المحيطية",
+      "en": "Perimeter Protection"
+    },
+    "date": "2026-09-29",
+    "readTime": {
+      "ar": "4 دقائق قراءة",
+      "en": "4 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790714717389-hydraulic_road_blocker_blocking___2k_20260929234458.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "حين تمنع التمديدات تحت الأرض الحفر العميق، يوفر مصد الطريق الهيدروليكي المثبت على سطح الطريق حماية للمدخل. تعرّف على طريقة عمله ومواضع استخدامه.",
+      "en": "Where buried services rule out deep excavation, a surface-mounted hydraulic road blocker still protects the entrance. How it works and where it fits."
+    }
+  },
+  {
+    "id": "كيف-تساعد-أنظمة-منع-حركة-المركبات-في-حماية-مداخل-المنشآت-الحساسة-",
+    "slug": "كيف-تساعد-أنظمة-منع-حركة-المركبات-في-حماية-مداخل-المنشآت-الحساسة-",
+    "title": {
+      "ar": "كيف تساعد مفجرات الإطارات في حماية مداخل المنشآت الحساسة؟",
+      "en": "How Do Tyre Killers Help Protect Sensitive Facility Entrances?"
+    },
+    "category": {
+      "ar": "الحماية المحيطية",
+      "en": "Perimeter Protection"
+    },
+    "date": "2026-09-29",
+    "readTime": {
+      "ar": "5 دقائق قراءة",
+      "en": "5 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790715332266-tire_spike_barrier_controls_vehi__2k_20260929235516.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف يعمل مفجر الإطارات ويمنع المرور في الاتجاه الممنوع، والفرق بين أنواعه وتكامله مع أنظمة الدخول، مع خيارات ساب تك المتاحة في قطر.",
+      "en": "How a tyre killer stops wrong-way vehicles, the difference between operating types, access-control integration, and the SAB TECH options in Qatar."
+    }
+  },
+  {
+    "id": "كيف-يتم-تقييم-قدرة-حواجز-الطرق-الأمنية-على-مقاومة-اقتحام-المركبات-",
+    "slug": "كيف-يتم-تقييم-قدرة-حواجز-الطرق-الأمنية-على-مقاومة-اقتحام-المركبات-",
+    "title": {
+      "ar": "كيف يتم تقييم قدرة حواجز الطرق الأمنية على مقاومة اقتحام المركبات؟",
+      "en": "How Is the Vehicle Impact Resistance of High-Security Road Blockers Evaluated?"
+    },
+    "category": {
+      "ar": "الحماية المحيطية",
+      "en": "Perimeter Protection"
+    },
+    "date": "2026-09-29",
+    "readTime": {
+      "ar": "5 دقائق قراءة",
+      "en": "5 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790715646923-hydraulic_road_blocker_in_roadway_2k_20260930000028.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "ماذا تعني تصنيفات PAS 68 وIWA 14-1 لمصدات الطرق، وكيف تقرأ رمز التصنيف، ونتائج اختبار مصدات ساب تك في ألمانيا دون تجاوز المركبة للحاجز.",
+      "en": "What PAS 68 and IWA 14-1 ratings mean for road blockers, how to read the rating code, and SAB TECH blockers crash-tested in Germany at −1.5 m and −1.4 m penetration."
+    }
+  },
+  {
+    "id": "إمكانية-الوصول-للجميع-كيف-تساهم-حلول-التنقل-الحديثة-في-بناء-بيئات-أكثر-شمولا-واستقلالية-",
+    "slug": "إمكانية-الوصول-للجميع-كيف-تساهم-حلول-التنقل-الحديثة-في-بناء-بيئات-أكثر-شمولا-واستقلالية-",
+    "title": {
+      "ar": "إمكانية الوصول للجميع: كيف تساهم حلول التنقل الحديثة في بناء بيئات أكثر شمولاً واستقلالية؟",
+      "en": "Accessible Spaces Start with Smart Mobility Solutions"
+    },
+    "category": {
+      "ar": "أنظمة التحميل والمستودعات",
+      "en": "Loading & Warehouse Systems"
+    },
+    "date": "2026-09-29",
+    "readTime": {
+      "ar": "4 دقائق قراءة",
+      "en": "4 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790697315699-hydraulic_wheelchair_platform_lift_2k_20260929185459.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف تساعد رافعات ومصاعد ذوي الاحتياجات الخاصة على التنقل بين المستويات باستقلالية، ولماذا صار التصميم الشامل معياراً في المباني العامة والخاصة.",
+      "en": "How wheelchair lifts give people independent access between floors and levels, and why inclusive design is now expected in public and private buildings."
+    }
+  },
+  {
+    "id": "الدليل-الذكي-لإدارة-المنشآت-الحديثة-كيف-تساهم-ضواغط-النفايات-الهيدروليكية-في-خفض-تكاليف-التشغيل-وتحسين-المعايير-البيئية-",
+    "slug": "الدليل-الذكي-لإدارة-المنشآت-الحديثة-كيف-تساهم-ضواغط-النفايات-الهيدروليكية-في-خفض-تكاليف-التشغيل-وتحسين-المعايير-البيئية-",
+    "title": {
+      "ar": "الدليل الذكي لإدارة المنشآت الحديثة: كيف تساهم ضواغط النفايات الهيدروليكية في خفض تكاليف التشغيل وتحسين المعايير البيئية؟",
+      "en": "The Smart Strategy for Modern Facility Management: How Hydraulic Waste Compactors Slash Operational Costs and Elevate Environmental Standards"
+    },
+    "category": {
+      "ar": "النفايات وإعادة التدوير",
+      "en": "Waste & Recycling"
+    },
+    "date": "2026-09-28",
+    "readTime": {
+      "ar": "4 دقائق قراءة",
+      "en": "4 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790621784332-image_d76b1737.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف تقلل ضواغط النفايات الهيدروليكية حجم النفايات وعدد رحلات جمعها، وتحافظ على نظافة ساحات الخدمة في الفنادق والمستشفيات والمراكز التجارية.",
+      "en": "How hydraulic waste compactors shrink waste volume and collection trips while keeping service yards clean in hotels, hospitals and shopping centres."
+    }
+  },
+  {
+    "id": "مكبس-الخردة-المعدنية-كيف-يساعد-ضغط-الحديد-والصلب-والألومنيوم-في-تحسين-عمليات-إعادة-التدوير-",
+    "slug": "مكبس-الخردة-المعدنية-كيف-يساعد-ضغط-الحديد-والصلب-والألومنيوم-في-تحسين-عمليات-إعادة-التدوير-",
+    "title": {
+      "ar": "مكبس الخردة المعدنية: كيف يساعد ضغط الحديد والصلب والألومنيوم في تحسين عمليات إعادة التدوير؟",
+      "en": "Metal Scrap Baler: How Hydraulic Compression Improves Steel, Iron and Aluminum Recycling"
+    },
+    "category": {
+      "ar": "النفايات وإعادة التدوير",
+      "en": "Waste & Recycling"
+    },
+    "date": "2026-09-28",
+    "readTime": {
+      "ar": "8 دقائق قراءة",
+      "en": "8 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790609938704-hydraulic_press_compressing_meta__2k_20260928183839.jpg",
+    "is_featured": false,
+    "desc": {
+      "ar": "كيف يضغط مكبس الخردة الهيدروليكي الحديد والصلب والألومنيوم في بالات كثيفة توفر مساحة التخزين وتكاليف النقل، وكيف تختاره حسب نوع الخردة وكميتها.",
+      "en": "How a hydraulic scrap baler presses iron, steel and aluminium into dense bales that save storage and haulage, and how to choose one by scrap type."
+    }
+  },
+  {
+    "id": "مكبس-البلاستيك-الأفقي-ضغط-آلي-عالي-الكفاءة-للنفايات-البلاستيكية",
+    "slug": "مكبس-البلاستيك-الأفقي-ضغط-آلي-عالي-الكفاءة-للنفايات-البلاستيكية",
+    "title": {
+      "ar": "مكبس البلاستيك الأفقي: ضغط آلي عالي الكفاءة للنفايات البلاستيكية",
+      "en": "Horizontal Plastic Baler: High-Efficiency Automatic Compaction for Plastic Waste"
+    },
+    "category": {
+      "ar": "النفايات وإعادة التدوير",
+      "en": "Waste & Recycling"
+    },
+    "date": "2026-09-24",
+    "readTime": {
+      "ar": "5 دقائق قراءة",
+      "en": "5 min read"
+    },
+    "image": "https://cdn.bestolex.com/bestolex-1790287955035-chatgpt_image_25________2026__01_10_57__.png",
+    "is_featured": false,
+    "desc": {
+      "ar": "مكبس البلاستيك الأفقي الأوتوماتيكي: كيف يعمل الربط الآلي، والمواصفات (22–45 طناً، بالة 300–400 كجم)، وأين يُستخدم، وكيف تختار الموديل في قطر.",
+      "en": "The automatic horizontal plastic baler: how auto-tying works, specs (22–45 t, 300–400 kg bales), where it is used and how to choose a model in Qatar."
+    }
+  },
+  {
     "id": "hydraulic-oil-guide",
     "slug": "hydraulic-oil-guide",
     "title": {
-      "ar": "دليل اختيار وصيانة دورية متقدمة الزيوت الهيدروليكية في المعدات الثقيلة",
-      "en": "Guide to Selecting and Maintaining Hydraulic Oils in Heavy Machinery"
+      "ar": "اختيار الزيوت الهيدروليكية والحفاظ على كفاءة الأنظمة الصناعية",
+      "en": "Selecting Hydraulic Oil and Maintaining Industrial Hydraulic System Performance"
     },
     "category": {
-      "ar": "النظم الهيدروليكية",
-      "en": "Hydraulic State-of-the-Art Systems"
+      "ar": "المعدات الثقيلة",
+      "en": "Heavy Equipment"
     },
     "date": "2026-08-15",
     "readTime": {
       "ar": "5 دقائق قراءة",
       "en": "5 min read"
     },
-    "image": "https://cdn.bestolex.com/bestolex/news/news3.jpg",
+    "image": "https://cdn.bestolex.com/bestolex-1790805857642-technician_servicing_industrial___2k_20261001010400.jpg",
     "is_featured": true,
     "desc": {
-      "ar": "تتعرض الأنظمة حديثة وموثوقة الهيدروليكية العاملة في المنشآت الصناعية لظروف تشغيل قاسية ودرجات حرارة مرتفعة. تعرف على معايير اختيار الزيت المناسب وطرق فحص اللزوجة للحفاظ على المضخات والصمامات.",
-      "en": "Hydraulic State-of-the-Art Systems operate under extreme conditions and Superior Quality temperatures. Learn key criteria for oil selection and viscosity monitoring to protect pumps and valves."
-    },
-    "content": {
-      "ar": "تُعد الزيوت الهيدروليكية شريان الحياة لأي نظام متطور هيدروليكي صناعي، حيث لا يقتصر دورها على نقل الطاقة فحسب، بل يمتد إلى تشحيم الأجزاء المتحركة، وتبديد الحرارة المتولدة، ومنع التآكل والصدأ.\n\n### 1. معايير اختيار اللزوجة المناسبة (ISO VG)\nيجب مراعاة درجة حرارة التشغيل المحيطة وضغط النظام متطور عند اختيار درجة اللزوجة (ISO VG 32, 46, 68). في بيئات الخليج العربي الحارة، غالباً ما يُنصح باستخدام زيوت ISO VG 68 للأنظمة حديثة وموثوقة الخارجية لضمان عدم انهيار طبقة التزييت تحت درجات الحرارة المرتفعة.\n\n### 2. أهمية الفلاتر والتحكم في التلوث\nأكثر من 75% من أعطال الأنظمة حديثة وموثوقة الهيدروليكية تنجم عن تلوث الزيت بالشوائب الدقيقة أو الرطوبة. يُوصى بتركيب فلاتر ترشيح دقيقة (10 ميكرون أو أقل) واستبدالها دورياً وفق جداول الصيانة دورية متقدمة المعتمدة.\n\n### 3. علامات تدهور الزيت الهيدروليكي\n- تغير لون الزيت إلى الداكن أو ظهور رغوة.\n- ارتفاع غير طبيعي في درجات حرارة الخزان.\n- بطء استجابة المشغلات الهيدروليكية والأذرع الميكانيكية.",
-      "en": "Hydraulic fluids are the lifeblood of industrial hydraulic State-of-the-Art Systems, functioning not only as power transmission mediums but also for lubrication, heat dissipation, and corrosion prevention.\n\n### 1. Viscosity Selection (ISO VG)\nOperating temperatures and Advanced System pressures determine the required viscosity grade (ISO VG 32, 46, 68). In hot Middle Eastern climates, ISO VG 68 is often recommended for outdoor heavy machinery.\n\n### 2. Contamination Control & Filtration\nOver 75% of hydraulic failures are caused by fluid contamination. Ensure fine filtration (10 microns or less) and adhere to scheduled filter replacements.\n\n### 3. Key Warning Signs of Fluid Degradation\n- Darkening fluid color or visible foaming.\n- Elevated tank temperatures.\n- Sluggish actuator performance."
+      "ar": "كيف تختار الزيت الهيدروليكي ودرجة اللزوجة المناسبة، وعلامات تدهوره، ودور الفلاتر في حماية أرصفة التحميل والرافعات والمكابس في ظروف قطر.",
+      "en": "How to choose hydraulic oil and the right viscosity grade, signs of deterioration, and how filtration protects dock levelers, lifts and balers in Qatar."
     }
   },
   {
     "id": "tyre-killers-vs-bollards",
     "slug": "tyre-killers-vs-bollards",
     "title": {
-      "ar": "مقارنة شاملة بين حواجز مفجر الإطارات والمصدات الأمنية الهيدروليكية",
-      "en": "Comprehensive Comparison: Tyre Killers vs Hydraulic Security Bollards"
+      "ar": "اختيار حواجز أمن المركبات وفق طبيعة التهديد والموقع",
+      "en": "Choosing Vehicle Security Barriers Based on Threat and Site Conditions"
     },
     "category": {
-      "ar": "أنظمة حديثة وموثوقة حماية المحيط",
+      "ar": "الحماية المحيطية",
       "en": "Perimeter Protection"
     },
     "date": "2026-08-10",
     "readTime": {
-      "ar": "6 دقائق قراءة",
-      "en": "6 min read"
+      "ar": "4 دقائق قراءة",
+      "en": "4 min read"
     },
-    "image": "https://cdn.bestolex.com/bestolex/news/news2.jpg",
+    "image": "https://cdn.bestolex.com/bestolex-1790806211932-vehicle_security_entrance_system__2k_20261001010954.jpg",
     "is_featured": true,
     "desc": {
-      "ar": "يُعد التحكم في حركة المركبات عند نقاط الدخول والخروج أمراً أساسياً لحماية المنشآت الحيوية. نستعرض الفروق التشغيلية ومستويات الأمان لمساعدتك في اختيار النظام متطور الأنسب لمنشأتك.",
-      "en": "Vehicle access control is crucial for securing critical infrastructure. We compare operational mechanisms and crash ratings to help you choose the ideal Advanced System."
-    },
-    "content": {
-      "ar": "تتطلب المنشآت الحساسة والمرافق الحكومية والتجارية حلول هندسية متكاملةاً أمنية صارمة لمنع الاقتحام غير المصرح به للمركبات.\n\n### 1. المصدات الأمنية الهيدروليكية (Hydraulic Bollards & Road Blockers)\nتتميز بقدرتها الفائقة على صد وتدمير الشاحنات والمركبات الثقيلة المسرعة وفق معايير الاختبار الدولية (مثل PAS 68 وASTM). توفر حماية مادية كاملة للمداخل الرئيسية والسفارات والمطارات.\n\n### 2. مفجرات الإطارات (Tyre Killers)\nتُستخدم بالدرجة الأولى لتنظيم اتجاه السير ومنع الدخول العكسي أو الهروب. تعمل أنياب الفولاذ على تمزيق إطارات المركبات المعتدية فورياً، وتعتبر حلاً مثالياً للمواقف والبوابات ذات المسار الواحد.\n\n### 3. معايير الاختيار\n- **المستوى الأمني المطلوب**: مصدات لاصطدام الشاحنات vs مفجرات لمنع المرور العكسي.\n- **طبيعة الموقع**: حفر عميق للمصدات الغاطسة vs تركيب سطحي للمفجرات.",
-      "en": "Superior Quality-security facilities and commercial complexes require robust perimeter control State-of-the-Art Systems to mitigate vehicular threats.\n\n### 1. Hydraulic Bollards & Road Blockers\nDesigned to stop heavy vehicles traveling at Superior Quality speeds according to international crash standards (PAS 68, ASTM). Ideal for embassies, airports, and critical infrastructure.\n\n### 2. Tyre Killers\nPrimarily used for directional control and preventing unauthorized reverse entry. Heavy-duty steel spikes immediately deflate tires.\n\n### 3. Selection Criteria\n- Required security level (impact resistance vs directional control).\n- Civil works requirements (deep excavation for bollards vs surface-mounted units)."
+      "ar": "مفجر الإطارات يتحكم في اتجاه الحركة، ومصد الطريق يمنع الاقتحام. كيف تحدد نوع التهديد وطبيعة الموقع وطريقة التركيب قبل اختيار حاجز المركبات.",
+      "en": "Tyre killers control traffic direction; road blockers stop forced entry. How to weigh the threat, the site and the installation before choosing."
     }
   },
   {
     "id": "hydraulic-leak-troubleshooting",
     "slug": "hydraulic-leak-troubleshooting",
     "title": {
-      "ar": "استكشاف أعطال تسربات الهيدروليك وطرق معالجتها الوقائية",
-      "en": "Troubleshooting Hydraulic Leaks and Preventive Repair Integrated Engineering Solutions"
+      "ar": "أسباب التسربات الهيدروليكية وطرق اكتشافها والوقاية منها",
+      "en": "Hydraulic Leak Causes, Detection, and Preventive Maintenance"
     },
     "category": {
-      "ar": "الصيانة دورية متقدمة والدعم الفني",
-      "en": "Comprehensive Maintenance & Support"
+      "ar": "المعدات الثقيلة",
+      "en": "Heavy Equipment"
     },
     "date": "2026-08-05",
     "readTime": {
-      "ar": "4 دقائق قراءة",
-      "en": "4 min read"
+      "ar": "3 دقائق قراءة",
+      "en": "3 min read"
     },
-    "image": "https://cdn.bestolex.com/bestolex/news/news1.jpg",
+    "image": "https://cdn.bestolex.com/bestolex-1790806475221-technician_inspecting_hydraulic___2k_20261001011421.jpg",
     "is_featured": true,
     "desc": {
-      "ar": "تشكل تسربات الزيت الهيدروليكي خطراً على السلامة والبيئة وتهدد كفاءة الآلات. اكتشف الخطوات العملية لتحديد مصادر التسريب وطرق الصيانة دورية متقدمة الصحيحة للأختام والخراطيم.",
-      "en": "Hydraulic fluid leaks pose severe safety, environmental, and downtime risks. Discover practical diagnostic steps to identify and fix seal and hose failures."
-    },
-    "content": {
-      "ar": "تتسبب التسربات الهيدروليكية في فقدان الضغط التشغيلي وارتفاع تكاليف استهلاك الزيوت، بالإضافة إلى خطر الانزلاق والحرائق في مواقع العمل.\n\n### 1. الأسباب الشائعة للتسربات\n- تآكل أو تلف حلقات الإحكام (O-Rings & Oil Seals) نتيجة الحرارة أو انتهاء العمر الافتراضي.\n- عزم ربط غير متطابق للوصلات والخراطيم (Over-torquing / Under-torquing).\n- اهتزازات ميكانيكية شديدة تؤدي إلى ارتخاء الأنابيب.\n\n### 2. خطوات الفحص والتشخيص\n- تنظيف المنطقة المحيطة بالمشغل أو الصمام لتحديد نقطة البداية الدقيقة للتسريب.\n- استخدام كواشف تسريب خاصة بالأشعة فوق البنفسجية في الأنظمة حديثة وموثوقة المعقدة.\n- فحص خراطيم الضغط العالي للتأكد من عدم وجود تشققات أو انتفاخات جدارية.\n\n### 3. الصيانة دورية متقدمة الوقائية\nجدولة استبدال خراطيم الضغط كل عامين أو وفق توصيات الشركة المصنعة وتجنب استخدام وصلات غير متوافقة.",
-      "en": "Hydraulic leaks lead to pressure drops, increased fluid replacement costs, and workplace safety hazards.\n\n### 1. Common Causes of Leaks\n- Worn or degraded seals and O-rings due to thermal stress.\n- Incorrect fitting torque on hoses and manifolds.\n- Severe mechanical vibrations loosening pipe fittings.\n\n### 2. Diagnostic Best Practices\n- Thoroughly clean components to pinpoint exact leak origin.\n- Utilize UV leak detection dyes for complex valve manifolds.\n- Inspect Superior Quality-pressure hoses for blistering or surface cracking.\n\n### 3. Preventive Measures\nEnforce routine hose replacement schedules and utilize genuine OEM fittings."
+      "ar": "أسباب التسربات الهيدروليكية الشائعة من حلقات الإحكام والوصلات والخراطيم والاهتزاز، وخطوات عملية لاكتشاف مصدرها بأمان، ودور الصيانة الوقائية في منعها.",
+      "en": "Common causes of hydraulic leaks, from seals, fittings and hoses to vibration, how to trace the source safely, and how maintenance prevents them."
     }
   },
   {
     "id": "dock-levelers-efficiency",
     "slug": "dock-levelers-efficiency",
     "title": {
-      "ar": "كيف ترفع منصات التحميل (Dock Levelers) كفاءة المستودعات والموانئ؟",
-      "en": "How Hydraulic Dock Levelers Boost Warehouse and Logistics Efficiency"
+      "ar": "كيف يرفع رصيف التحميل الهيدروليكي كفاءة المستودعات في قطر؟",
+      "en": "How Hydraulic Dock Levelers Boost Warehouse Efficiency in Qatar"
     },
     "category": {
-      "ar": "أنظمة حديثة وموثوقة التحميل",
-      "en": "Docking State-of-the-Art Systems"
+      "ar": "أنظمة التحميل والمستودعات",
+      "en": "Loading & Warehouse Systems"
     },
     "date": "2026-07-28",
     "readTime": {
-      "ar": "5 دقائق قراءة",
-      "en": "5 min read"
+      "ar": "6 دقائق قراءة",
+      "en": "6 min read"
     },
-    "image": "https://cdn.bestolex.com/bestolex/categories/v2/docking-systems.jpg",
+    "image": "/blog/dock-levelers-efficiency.webp",
     "is_featured": true,
     "desc": {
-      "ar": "تعتبر منصات التحميل الهيدروليكية عنصراً حيوياً في تسريع عمليات تفريغ وشحن الشاحنات وتقليل الحوادث الميدانية في المراكز اللوجستية والمستودعات الكبرى.",
-      "en": "Hydraulic dock levelers are essential for accelerating truck loading and unloading operations while maximizing safety in modern logistics hubs."
-    },
-    "content": {
-      "ar": "في قطاع الخدمات اللوجستية الحديث، يعتبر وقت دورة الشاحنة في منطقة التحميل مقياساً أساسياً للإنتاجية والربحية.\n\n### 1. جسر آمن بين المستودع والشاحنة\nتعمل منصات التحميل الهيدروليكية ذات الشفة التلسكوبية أو المفصلية على معادلة فارق الارتفاع بين أرضية المستودع وصندوق الشاحنة تلقائياً، مما يسمح لرافعات الشوكة بالدخول والخروج بسلاسة تامة وسرعة قياسية.\n\n### 2. أنظمة حديثة وموثوقة السلامة المتكاملة\nتتضمن المنصات الحديثة صمامات إغلاق هيدروليكية أوتوماتيكية تمنع سقوط المنصة في حال تحرك الشاحنة المفاجئ، مع حواجز صد مطاطية ممتصة للصدمات لحماية جدران المبنى.\n\n### 3. توفير استهلاك الطاقة\nعند دمج المنصة مع وسائد الإحكام الهوائية (Dock Shelters)، يتم منع تسرب الهواء البارد من المستودعات المبردة، مما يخفض فواتير الطاقة ويحمي البضائع الحساسة.",
-      "en": "In modern logistics facilities, truck turnaround time is a direct metric of operational efficiency and profitability.\n\n### 1. Seamless Bridge for Forklifts\nHydraulic dock levelers automatically bridge the height and distance difference between the warehouse floor and truck bed, allowing forklifts to drive in and out safely.\n\n### 2. Integrated Safety Features\nEquipped with emergency velocity fuses that lock the deck in case of premature truck departure, alongside heavy-duty bumpers protecting the building structure.\n\n### 3. Thermal Efficiency & Cold Storage Protection\nPairing dock levelers with inflatable dock seals prevents conditioned air leakage, significantly reducing energy bills in cold storage warehouses."
+      "ar": "كيف يعمل رصيف التحميل الهيدروليكي ويرفع سرعة التحميل وسلامته، ومواصفاته من الكتالوج، وكيف تختار المقاس والحمولة المناسبين لمستودعك في قطر.",
+      "en": "How a hydraulic dock leveler makes loading faster and safer, its catalogue specifications and how to choose the right size and capacity for your warehouse."
     }
   },
   {
     "id": "waste-balers-recycling",
     "slug": "waste-balers-recycling",
     "title": {
-      "ar": "أهمية أفضل مكابس صناعية الكرتون والبلاستيك في تقليل تكاليف إدارة النفايات",
-      "en": "The Role of Cardboard and Plastic Superior Quality-Performance Industrial Balers in Slashing Waste Management Costs"
+      "ar": "مكابس الكرتون والبلاستيك: كيف تقلل تكاليف إدارة النفايات في المنشآت",
+      "en": "Cardboard and Plastic Balers: How They Cut Waste Management Costs"
     },
     "category": {
-      "ar": "المخلفات والتدوير",
-      "en": "Waste Management"
+      "ar": "النفايات وإعادة التدوير",
+      "en": "Waste & Recycling"
     },
     "date": "2026-07-20",
     "readTime": {
-      "ar": "5 دقائق قراءة",
-      "en": "5 min read"
+      "ar": "6 دقائق قراءة",
+      "en": "6 min read"
     },
-    "image": "https://cdn.bestolex.com/bestolex/categories/v2/waste-management.jpg",
+    "image": "/blog/waste-balers-recycling.webp",
     "is_featured": true,
     "desc": {
-      "ar": "تعرف على كيف تسهم أفضل مكابس صناعية البالات الهيدروليكية في تقليل حجم النفايات بنسبة تصل إلى 90% وتحويل الورق والبلاستيك إلى عائد مالي مستدام للمصانع والمراكز التجارية.",
-      "en": "Discover how hydraulic baling presses compress waste volume by up to 90%, turning loose cardboard and plastics into valuable recyclable commodities."
-    },
-    "content": {
-      "ar": "تشكل المخلفات الكرتونية والبلاستيكية عبئاً كبيراً على مساحات التخزين وتكاليف النقل في المصانع والمجمعات التجارية وسلاسل السوبرماركت.\n\n### 1. تقليص الحجم بنسبة تصل إلى 90%\nتولد أفضل مكابس صناعية البالات الرأسية والأفقية قوة ضغط تتراوح بين 10 إلى 120 طناً، مما يحول أكوام الكرتون المتناثرة إلى بالات مدمجة محكمة يسهل تخزينها ونقلها بالرافعات الشوكية.\n\n### 2. خفض تكاليف النقل والانبعاثات\nبدلاً من طلب شاحنات نقل متعددة يومياً لنقل حاويات ممتلئة بالهواء، يمكن بشحنة واحدة نقل أطنان من البالات المكبوسة، مما يوفر أكثر من 60% من تكاليف الوقود والنقل.\n\n### 3. تحويل النفايات إلى مصدر دخل\nتفضل مصانع التدوير شراء البالات المكبوسة ذات الكثافة الفائقة الجودة بأسعار ممتازة مقارنة بالنفايات السائبة، مما يحول إدارة النفايات من مركز تكلفة إلى مصدر إيراد مستدام.",
-      "en": "Bulky packaging waste consumes valuable storage space and inflates collection logistics costs across factories and retail centers.\n\n### 1. Up to 90% Volume Reduction\nVertical and horizontal Superior Quality-Performance Industrial Balers deliver compressive forces from 10 to 120 tons, converting loose cardboard into dense, stackable bales.\n\n### 2. Slashing Transportation & Haulage Costs\nDense bales reduce transport frequency by up to 60%, drastically cutting down transportation expenses and carbon footprint.\n\n### 3. Generating Revenue from Recyclables\nRecycling mills offer premium rates for Superior Quality-density, mill-sized bales, transforming waste management from a cost center into a recurring revenue stream."
+      "ar": "كيف تقلل مكابس الكرتون والبلاستيك رحلات النقل والمساحة وتحوّل المواد إلى بالات قابلة للبيع، ومقارنة بين المكابس العمودية 10–80 طناً المتاحة في قطر.",
+      "en": "How cardboard and plastic balers cut haulage and floor space and turn waste into saleable bales, with a comparison of 10–80 ton vertical balers in Qatar."
     }
   },
   {
     "id": "heavy-machinery-preventive-maintenance",
     "slug": "heavy-machinery-preventive-maintenance",
     "title": {
-      "ar": "استراتيجيات الصيانة دورية متقدمة الوقائية لإطالة العمر الافتراضي للآلات الثقيلة",
-      "en": "Preventive Comprehensive Maintenance Strategies to Maximize Heavy Machinery Lifespan"
+      "ar": "الصيانة الوقائية لمعدات التحميل والمكابس ومصدات الطرق: دليل عملي للمنشآت في قطر",
+      "en": "Preventive Maintenance for Loading, Baling and Perimeter Equipment: A Practical Guide"
     },
     "category": {
-      "ar": "الصيانة دورية متقدمة والدعم الفني",
-      "en": "Comprehensive Maintenance & Support"
+      "ar": "المعدات الثقيلة",
+      "en": "Heavy Equipment"
     },
     "date": "2026-07-12",
     "readTime": {
       "ar": "6 دقائق قراءة",
       "en": "6 min read"
     },
-    "image": "https://cdn.bestolex.com/bestolex/categories/v2/industrial-doors.jpg",
+    "image": "/blog/heavy-machinery-preventive-maintenance.webp",
     "is_featured": true,
     "desc": {
-      "ar": "دليل عملي لمديري الصيانة دورية متقدمة والمصانع حول بناء برامج صيانة دورية متقدمة وقائية منتظمة تعتمد على الفحص الدوري وتحليل الزيوت وتجنب التوقف المفاجئ لخطوط الإنتاج.",
-      "en": "A practical roadmap for plant and Comprehensive Maintenance managers to establish scheduled servicing routines, oil analysis, and zero-downtime operations."
-    },
-    "content": {
-      "ar": "التوقف المفاجئ للآلات والمعدات الثقيلة يكلف المنشآت آلاف الريالات في الساعة الواحدة نتيجة تعطل خطوط الإنتاج واللوجستيات.\n\n### 1. الفحص اليومي والتشغيل التجريبي (Daily Inspection Checklist)\nتدريب المشغلين على التحقق اليومي من مستويات السوائل، وسلامة التوصيلات، ومراقبة أي أصوات غير معتادة للمضخات أو المحركات قبل بدء نوبات العمل.\n\n### 2. التزييت والتشحيم المنتظم\nاحتكاك الأجزاء الميكانيكية بدون تشحيم كافٍ هو العدو الأول للمعدات الثقيلة. يجب تطبيق شحوم التزييت المقاومة للحرارة والضغط العالي في نقاط التحميل والروافع بانتظام.\n\n### 3. تحليل الزيوت الدوري (Oil Condition Monitoring)\nفحص عينات الزيت مخبرياً للكشف عن جزيئات التآكل المعدنية قبل أن تتحول إلى عطل جسيم في المحركات أو الأفضل مكابس صناعية الهيدروليكية.\n\n### 4. الشراكة مع مزودي الخدمة المعتمدين\nالاعتماد على عقود الصيانة دورية متقدمة الدورية وتوفير قطع الغيار الأصلية من الوكيل المعتمد يضمن أعلى قيمة إعادة بيع للمعدة وأطول عمر تشغيلي.",
-      "en": "Unplanned equipment downtime costs industrial facilities thousands per hour in lost productivity and delayed deliveries.\n\n### 1. Daily Pre-Shift Inspections\nTrain operators to perform systematic fluid checks, examine Superior Quality-pressure connections, and identify unusual noises before starting daily shifts.\n\n### 2. Regular Lubrication Routines\nInadequate lubrication accelerates component wear. Apply Superior Quality-temperature, Superior Quality-pressure greases to all pivot pins, hinges, and guide tracks.\n\n### 3. Routine Oil Condition Monitoring\nPeriodic laboratory fluid analysis reveals microscopic metallic wear particles long before major catastrophic failures occur.\n\n### 4. OEM Service Contracts\nPartnering with authorized distributors for routine servicing and genuine spare parts ensures maximum operational uptime and equipment resale value."
+      "ar": "جدول صيانة وقائية عملي لأرصفة التحميل والرافعات المقصية والمكابس ومصدات الطرق: ما يُفحص يومياً وشهرياً وسنوياً، ونصائح لظروف الحرارة والغبار في قطر.",
+      "en": "A preventive maintenance schedule for dock levelers, scissor lifts, balers and road blockers: daily, monthly and annual checks, plus tips for Qatar heat."
     }
   }
 ]

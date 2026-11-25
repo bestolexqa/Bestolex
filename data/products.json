@@ -108,7 +108,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "240/415V, 3Phase, 50Hz"
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             }
           ],
           "en": [
@@ -134,7 +134,7 @@
             },
             {
               "label": "Electricity",
-              "value": "240/415V, 3Phase, 50Hz"
+              "value": "240/415V, 3-Phase, 50Hz"
             }
           ]
         },
@@ -151,12 +151,7 @@
           "https://cdn.bestolex.com/bestolex/products/persi-compactor/1.jpg",
           "https://cdn.bestolex.com/bestolex/products/persi-compactor/2.png",
           "https://cdn.bestolex.com/bestolex/products/persi-compactor/3.png",
-          "https://cdn.bestolex.com/bestolex/products/persi-compactor/4.jpg",
-          "https://cdn.bestolex.com/bestolex/products/persi-compactor/component-control-panel-box.png",
-          "https://cdn.bestolex.com/bestolex/products/persi-compactor/component-gas-lift-cylinder.png",
-          "https://cdn.bestolex.com/bestolex/products/persi-compactor/component-liquid-drain-valve.png",
-          "https://cdn.bestolex.com/bestolex/products/persi-compactor/component-removable-hooklift.png",
-          "https://cdn.bestolex.com/bestolex/products/persi-compactor/component-waste-retainer.png"
+          "https://cdn.bestolex.com/bestolex/products/persi-compactor/4.jpg"
         ],
         "pdf": "https://drive.google.com/file/d/1DZj37pfK9MWGiT7iTRtlazZrQVQc5sxJ/view?usp=drivesdk",
         "image": "https://cdn.bestolex.com/bestolex/products/persi-compactor/1.jpg",
@@ -195,7 +190,7 @@
             },
             {
               "q": "ما الذي تتولاه بيستوليكس في قطر عند توريد «ضواغط النفايات الألمانية»؟",
-              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415V, 3Phase, 50Hz) وأبعاد الضاغط (6400 مم (طول) × 2550 مم (عرض) × 2650 مم (ارتفاع)) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) وأبعاد الضاغط (6400 مم (طول) × 2550 مم (عرض) × 2650 مم (ارتفاع)) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -217,7 +212,7 @@
             },
             {
               "q": "What does Bestolex handle in Qatar when supplying the German Refuse Compactor?",
-              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3Phase, 50Hz) and the compactor dimensions (6400L × 2550W × 2650H mm) before the technical proposal is issued."
+              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the compactor dimensions (6400L × 2550W × 2650H mm) before the technical proposal is issued."
             }
           ]
         }
@@ -283,7 +278,7 @@
           {
             "image": "https://cdn.bestolex.com/bestolex/products/auto-horizontal-baler/component-bale-size-1000x800-mm.png",
             "label": {
-              "ar": "مقاس البالة 800 ملم × 1000 ملم",
+              "ar": "مقاس البالة 800 مم × 1000 مم",
               "en": "Bale Size 1000x800 mm"
             }
           }
@@ -300,11 +295,11 @@
             },
             {
               "label": "فتحة التعبئة",
-              "value": "1030 × 750 حتى 10870 × 1100 ملم"
+              "value": "1030 × 750 حتى 10870 × 1100 مم"
             },
             {
               "label": "أحجام الماكينات",
-              "value": "1860 – 2240 (ارتفاع) × 1235 – 1590 (عرض) × 3300 – 3750 (طول) ملم"
+              "value": "1860 – 2240 (ارتفاع) × 1235 – 1590 (عرض) × 3300 – 3750 (طول) مم"
             },
             {
               "label": "مدة الدورة",
@@ -320,7 +315,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "415 فولت، 3 فاز، 50 هرتز"
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             }
           ],
           "en": [
@@ -354,7 +349,7 @@
             },
             {
               "label": "Electricity",
-              "value": "415V, 3Phase, 50Hz"
+              "value": "240/415V, 3-Phase, 50Hz"
             }
           ]
         },
@@ -401,7 +396,7 @@
             },
             {
               "q": "ما الذي تتولاه بيستوليكس في قطر عند توريد «مكبس أفقي أوتوماتيكي»؟",
-              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (415 فولت، 3 فاز، 50 هرتز) ووزن البالة (300 – 400 كجم) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) ووزن البالة (300 – 400 كجم) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -423,7 +418,7 @@
             },
             {
               "q": "What does Bestolex handle in Qatar when supplying the Horizontal Auto Baler?",
-              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (415V, 3Phase, 50Hz) and the bale weight (300 – 400 kg) before the technical proposal is issued."
+              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the bale weight (300 – 400 kg) before the technical proposal is issued."
             }
           ]
         }
@@ -517,11 +512,11 @@
           "ar": [
             {
               "label": "فتحة التعبئة",
-              "value": "1500 طول × 1020 عرض × 540 ارتفاع ملم"
+              "value": "1500 طول × 1020 عرض × 540 ارتفاع مم"
             },
             {
               "label": "حجم البالة",
-              "value": "540 طول × 800 عرض × 1020 ارتفاع ملم"
+              "value": "540 طول × 800 عرض × 1020 ارتفاع مم"
             },
             {
               "label": "وزن البالة",
@@ -533,7 +528,7 @@
             },
             {
               "label": "مقاسات الماكينة",
-              "value": "4000 ارتفاع × 1500 طول × 1500 عرض ملم"
+              "value": "4000 ارتفاع × 1500 طول × 1500 عرض مم"
             },
             {
               "label": "قوة المحرك",
@@ -571,7 +566,7 @@
             },
             {
               "label": "Electricity",
-              "value": "240/415V, 3Phase, 50Hz"
+              "value": "240/415V, 3-Phase, 50Hz"
             }
           ]
         },
@@ -640,7 +635,7 @@
             },
             {
               "q": "ما الذي تتولاه بيستوليكس في قطر عند توريد «مكبس نفايات أفقي 70 طناً»؟",
-              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) وفتحة التعبئة (1500 طول × 1020 عرض × 540 ارتفاع ملم) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) وفتحة التعبئة (1500 طول × 1020 عرض × 540 ارتفاع مم) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -662,7 +657,7 @@
             },
             {
               "q": "What does Bestolex handle in Qatar when supplying the Horizontal Baling Press 70T?",
-              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3Phase, 50Hz) and the feeding opening (1500L × 1020W × 540H mm) before the technical proposal is issued."
+              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the feeding opening (1500L × 1020W × 540H mm) before the technical proposal is issued."
             }
           ]
         },
@@ -815,7 +810,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "240/415V, 3Phase, 50Hz"
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             }
           ],
           "en": [
@@ -848,8 +843,8 @@
               "value": "22.0 kW (29.5 HP)"
             },
             {
-              "label": "Power Supply",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "Electricity",
+              "value": "240/415V, 3-Phase, 50Hz"
             }
           ]
         },
@@ -896,7 +891,7 @@
             },
             {
               "q": "ما الذي تتولاه بيستوليكس في قطر عند توريد «مكبس الحديد 50 طن»؟",
-              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415V, 3Phase, 50Hz) وقوة الضغط (50 طن) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) وقوة الضغط (50 طن) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -918,7 +913,7 @@
             },
             {
               "q": "What does Bestolex handle in Qatar when supplying the Steel Press 50T?",
-              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the power supply (240/415V, 3Phase, 50Hz) and the pressing force (50 Tons) before the technical proposal is issued."
+              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the pressing force (50 Tons) before the technical proposal is issued."
             }
           ]
         }
@@ -1057,7 +1052,7 @@
             },
             {
               "label": "Electricity",
-              "value": "240V, 1Phase, 50Hz"
+              "value": "240V, Single-Phase, 50Hz"
             }
           ]
         },
@@ -1149,7 +1144,7 @@
             },
             {
               "q": "What does Bestolex handle in Qatar when supplying the Vertical Baling Press 100 (10T)?",
-              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240V, 1Phase, 50Hz) and the opening size (580L × 480H mm) before the technical proposal is issued."
+              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240V, Single-Phase, 50Hz) and the opening size (580L × 480H mm) before the technical proposal is issued."
             }
           ]
         },
@@ -1226,13 +1221,6 @@
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/04/image-3.png",
-            "label": {
-              "ar": "غرفة المواد",
-              "en": "Material Chamber"
-            }
-          },
-          {
             "image": "https://cdn.bestolex.com/bestolex/products/cardboard-plastic-baler-200/component-volume-reduction-101.png",
             "label": {
               "ar": "انخفاض في الحجم بنسبة 10:1",
@@ -1268,7 +1256,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "240/415V, 3Phase, 50Hz"
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             }
           ],
           "en": [
@@ -1298,7 +1286,7 @@
             },
             {
               "label": "Electricity",
-              "value": "240/415V, 3Phase, 50Hz"
+              "value": "240/415V, 3-Phase, 50Hz"
             }
           ]
         },
@@ -1368,7 +1356,7 @@
             },
             {
               "q": "ما الذي تتولاه بيستوليكس في قطر عند توريد «مكبس الكرتون والبلاستيك العمودي 20 طناً»؟",
-              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415V, 3Phase, 50Hz) وفتحة التعبئة (420 طول × 970 ارتفاع) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) وفتحة التعبئة (420 طول × 970 ارتفاع) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -1390,7 +1378,7 @@
             },
             {
               "q": "What does Bestolex handle in Qatar when supplying the Vertical Baling Press 20T?",
-              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3Phase, 50Hz) and the feeding opening (420L × 970H mm) before the technical proposal is issued."
+              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the feeding opening (420L × 970H mm) before the technical proposal is issued."
             }
           ]
         }
@@ -1522,7 +1510,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "240/415V, 3Phase, 50Hz"
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             }
           ],
           "en": [
@@ -1552,7 +1540,7 @@
             },
             {
               "label": "Electricity",
-              "value": "240/415V, 3Phase, 50Hz"
+              "value": "240/415V, 3-Phase, 50Hz"
             }
           ]
         },
@@ -1622,7 +1610,7 @@
             },
             {
               "q": "ما الذي تتولاه بيستوليكس في قطر عند توريد «مكبس الكرتون والبلاستيك العمودي 50 طناً»؟",
-              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415V, 3Phase, 50Hz) وفتحة التعبئة (700 طول × 1400 ارتفاع) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) وفتحة التعبئة (700 طول × 1400 ارتفاع) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -1644,7 +1632,7 @@
             },
             {
               "q": "What does Bestolex handle in Qatar when supplying the Vertical Baling Press 50T?",
-              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3Phase, 50Hz) and the feeding opening (700L × 1400H mm) before the technical proposal is issued."
+              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the feeding opening (700L × 1400H mm) before the technical proposal is issued."
             }
           ]
         }
@@ -1743,7 +1731,7 @@
             },
             {
               "label": "مقاسات الماكينة",
-              "value": "3900 ارتفاع × 1200 طول × 1700 عرض ملم"
+              "value": "3900 ارتفاع × 1200 طول × 1700 عرض مم"
             },
             {
               "label": "قوة المحرك",
@@ -1777,7 +1765,7 @@
             },
             {
               "label": "Electricity",
-              "value": "240/415V, 3Phase, 50Hz"
+              "value": "240/415V, 3-Phase, 50Hz"
             }
           ]
         },
@@ -1814,13 +1802,7 @@
         "images": [
           "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/1.png",
           "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/2.png",
-          "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/3.png",
-          "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/component-bale-height-switch.png",
-          "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/component-cans-bottles-waste.png",
-          "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/component-control-panel.png",
-          "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/component-hydraulic-advanced-system.png",
-          "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/component-lock-mechanism.png",
-          "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/component-sliding-door.png"
+          "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/3.png"
         ],
         "image": "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/1.png",
         "cardImage": "https://cdn.bestolex.com/bestolex/products/can-bottle-baler-80/1.png",
@@ -1882,7 +1864,7 @@
             },
             {
               "q": "What does Bestolex handle in Qatar when supplying the Vertical PET Baling Press 80T?",
-              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3Phase, 50Hz) and the feed opening (1200L × 550H mm) before the technical proposal is issued."
+              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the feed opening (1200L × 550H mm) before the technical proposal is issued."
             }
           ]
         }
@@ -1994,7 +1976,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "240/415V, 3Phase, 50Hz"
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             }
           ],
           "en": [
@@ -2032,7 +2014,7 @@
             },
             {
               "label": "Electricity",
-              "value": "240/415V, 3Phase, 50Hz"
+              "value": "240/415V, 3-Phase, 50Hz"
             }
           ]
         },
@@ -2079,7 +2061,7 @@
             },
             {
               "q": "ما الذي تتولاه بيستوليكس في قطر عند توريد «مكبس الأقمشة»؟",
-              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415V, 3Phase, 50Hz) وموديل الماكينة (TCB30T) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) وموديل الماكينة (TCB30T) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -2101,7 +2083,7 @@
             },
             {
               "q": "What does Bestolex handle in Qatar when supplying the Textile Baler?",
-              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3Phase, 50Hz) and the model (TCB30T) before the technical proposal is issued."
+              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the model (TCB30T) before the technical proposal is issued."
             }
           ]
         }
@@ -2204,15 +2186,15 @@
           "ar": [
             {
               "label": "فتحة التعبئة",
-              "value": "1380 ملم × 2090 ملم"
+              "value": "1380 مم × 2090 مم"
             },
             {
               "label": "ارتفاع فتحة التعبئة",
-              "value": "1480 ملم"
+              "value": "1480 مم"
             },
             {
               "label": "ضمان عدم تسرب السوائل",
-              "value": "إلى 250 ملم"
+              "value": "إلى 250 مم"
             },
             {
               "label": "إشارة الامتلاء",
@@ -2224,7 +2206,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "415V, 3Phase, 50Hz"
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             }
           ],
           "en": [
@@ -2250,7 +2232,7 @@
             },
             {
               "label": "Electricity",
-              "value": "415V, 3Phase, 50Hz"
+              "value": "240/415V, 3-Phase, 50Hz"
             }
           ]
         },
@@ -2296,7 +2278,7 @@
             },
             {
               "q": "ما الذي تتولاه بيستوليكس في قطر عند توريد «ضاغط نفايات برينجر»؟",
-              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (415V, 3Phase, 50Hz) وفتحة التعبئة (1380 ملم × 2090 ملم) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) وفتحة التعبئة (1380 مم × 2090 مم) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -2318,7 +2300,7 @@
             },
             {
               "q": "What does Bestolex handle in Qatar when supplying the Beringer Refuse Compactor?",
-              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (415V, 3Phase, 50Hz) and the feed opening (1380 mm × 2090 mm) before the technical proposal is issued."
+              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the feed opening (1380 mm × 2090 mm) before the technical proposal is issued."
             }
           ]
         }
@@ -2346,7 +2328,7 @@
             },
             {
               "label": "ارتفاع الحاوية",
-              "value": "1518 ملم"
+              "value": "1518 مم"
             }
           ],
           "en": [
@@ -2441,15 +2423,15 @@
           "ar": [
             {
               "label": "الأبعاد الكلية (ارتفاع × طول × عرض)",
-              "value": "1518 ملم (ارتفاع) × 698 ملم (طول) × 761 ملم (عرض)"
+              "value": "1518 مم (ارتفاع) × 698 مم (طول) × 761 مم (عرض)"
             },
             {
               "label": "أبعاد فتحة التعبئة",
-              "value": "169 ملم (ارتفاع) × 330 ملم (عرض)"
+              "value": "169 مم (ارتفاع) × 330 مم (عرض)"
             },
             {
               "label": "ارتفاع فتحة رمي النفايات",
-              "value": "1183 ملم"
+              "value": "1183 مم"
             },
             {
               "label": "اللوح الشمسي الكهروضوئي",
@@ -2559,7 +2541,7 @@
             },
             {
               "q": "ما الذي تتولاه بيستوليكس في قطر عند توريد «ضاغط نفايات بالطاقة الشمسية»؟",
-              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة نظام التغذية والبطارية (نظام تيار مستمر 12 فولت (12V DC System)) والأبعاد الكلية (ارتفاع × طول × عرض) (1518 ملم (ارتفاع) × 698 ملم (طول) × 761 ملم (عرض)) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة نظام التغذية والبطارية (نظام تيار مستمر 12 فولت (12V DC System)) والأبعاد الكلية (ارتفاع × طول × عرض) (1518 مم (ارتفاع) × 698 مم (طول) × 761 مم (عرض)) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -2722,7 +2704,7 @@
               "value": "2.2 كيلوواط (kW)"
             },
             {
-              "label": "الكهرباء ومصدر التغذية",
+              "label": "الكهرباء",
               "value": "240/415 فولت، 3 فاز، 50 هرتز"
             },
             {
@@ -2735,15 +2717,15 @@
             },
             {
               "label": "أبعاد ومقاسات الماكينة",
-              "value": "عرض 2205 × عمق 1325 × ارتفاع 2280 ملم"
+              "value": "عرض 2205 × عمق 1325 × ارتفاع 2280 مم"
             },
             {
               "label": "ارتفاع فتحة التعبئة",
-              "value": "1410 ملم"
+              "value": "1410 مم"
             },
             {
               "label": "أبعاد فتحة التعبئة",
-              "value": "طول 1220 × عرض 768 ملم"
+              "value": "طول 1220 × عرض 768 مم"
             },
             {
               "label": "التشطيب الداخلي",
@@ -2764,8 +2746,8 @@
               "value": "2.2 kW"
             },
             {
-              "label": "Power Supply",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "Electricity",
+              "value": "240/415V, 3-Phase, 50Hz"
             },
             {
               "label": "Cycle Time",
@@ -2840,7 +2822,7 @@
             },
             {
               "q": "ما الذي تتولاه بيستوليكس في قطر عند توريد «مكبس النفايات الرأسي 2CY»؟",
-              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء ومصدر التغذية (240/415 فولت، 3 فاز، 50 هرتز) والسعة الاستيعابية (2 ياردة مكعبة (2 Cubic Yards)) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة الموقع: مساحة الوضع وارتفاع السقف ومصدر الكهرباء ومسار إخراج البالات أو الحاوية. ثم نورّد الوحدة ونركّبها ونوصّلها كهربائياً، ونشغّلها ونسلّمها بعد دورة ضغط كاملة، وندرّب المشغلين على التلقيم والربط والإخراج الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) والسعة الاستيعابية (2 ياردة مكعبة (2 Cubic Yards)) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -2862,7 +2844,7 @@
             },
             {
               "q": "What does Bestolex handle in Qatar when supplying the Vertical Garbage Compactor 2CY?",
-              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the power supply (240/415V, 3Phase, 50Hz) and the capacity (2 Cubic Yards) before the technical proposal is issued."
+              "a": "We start with a site survey: floor space, ceiling height, power supply and the route out for bales or the bin. We then supply the unit, install it, connect it electrically, commission it after a full compression cycle and hand it over, and train the operators on feeding, tying and safe discharge. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the capacity (2 Cubic Yards) before the technical proposal is issued."
             }
           ]
         },
@@ -2955,7 +2937,7 @@
           {
             "image": "https://sabtech.com.sa/wp-content/uploads/2019/05/Customizable-platform-sizes-tailored-to-your-loading-capacity-requirements-1.png",
             "label": {
-              "ar": "تصميم منصة التحميل حسب الحمولات",
+              "ar": "تصميم منصة الرفع حسب الحمولات",
               "en": "Customizable Platform Sizes"
             }
           },
@@ -2992,11 +2974,11 @@
           "ar": [
             {
               "label": "أبعاد منصة التحميل",
-              "value": "1500 × 1500 ملم"
+              "value": "1500 × 1500 مم"
             },
             {
               "label": "ارتفاع الرفع",
-              "value": "حتى 10 أمتار (10000 ملم)"
+              "value": "حتى 10 أمتار (10000 مم)"
             },
             {
               "label": "قدرة محرك الرفع",
@@ -3026,7 +3008,7 @@
             },
             {
               "label": "Electricity",
-              "value": "240/415V, 3Phase, 50Hz"
+              "value": "240/415V, 3-Phase, 50Hz"
             },
             {
               "label": "Max Capacity",
@@ -3103,7 +3085,7 @@
             },
             {
               "q": "ما خطوات التوريد والتركيب والصيانة لـ«مصعد ورافعة بضائع هيدروليكية» في قطر؟",
-              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) وأبعاد منصة التحميل (1500 × 1500 ملم) قبل إصدار العرض الفني."
+              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) وأبعاد منصة التحميل (1500 × 1500 مم) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -3125,7 +3107,7 @@
             },
             {
               "q": "What are the supply, installation and maintenance steps for the Mast Cargo Hydraulic Lift in Qatar?",
-              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3Phase, 50Hz) and the platform dimensions (1500 × 1500 mm) before the technical proposal is issued."
+              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the platform dimensions (1500 × 1500 mm) before the technical proposal is issued."
             }
           ]
         }
@@ -3235,22 +3217,22 @@
           "ar": [
             {
               "label": "مقاسات المنصة",
-              "value": "1765 × 2500 ملم"
+              "value": "1765 × 2500 مم"
             },
             {
               "label": "ارتفاع الرفع",
-              "value": "2000 ملم"
+              "value": "2000 مم"
             },
             {
               "label": "ارتفاع وضع الإغلاق",
-              "value": "350 ملم"
+              "value": "350 مم"
             },
             {
               "label": "قدرة محرك الرفع",
               "value": "4.0 كيلوواط"
             },
             {
-              "label": "كهرباء التشغيل",
+              "label": "الكهرباء",
               "value": "240/415 فولت، 3 فاز، 50 هرتز"
             },
             {
@@ -3277,7 +3259,7 @@
             },
             {
               "label": "Electricity",
-              "value": "240/415V, 3Phase, 50Hz"
+              "value": "240/415V, 3-Phase, 50Hz"
             },
             {
               "label": "Max Capacity",
@@ -3351,7 +3333,7 @@
             },
             {
               "q": "ما خطوات التوريد والتركيب والصيانة لـ«رافعة مقصية» في قطر؟",
-              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة كهرباء التشغيل (240/415 فولت، 3 فاز، 50 هرتز) ومقاسات المنصة (1765 × 2500 ملم) قبل إصدار العرض الفني."
+              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) ومقاسات المنصة (1765 × 2500 مم) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -3373,7 +3355,7 @@
             },
             {
               "q": "What are the supply, installation and maintenance steps for the Scissor Lift Table in Qatar?",
-              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3Phase, 50Hz) and the platform dimensions (1765 × 2500 mm) before the technical proposal is issued."
+              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the platform dimensions (1765 × 2500 mm) before the technical proposal is issued."
             }
           ]
         },
@@ -3494,7 +3476,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "415 فولت / 50 هرتز / 3 فاز"
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             },
             {
               "label": "قدرة المحرك",
@@ -3532,7 +3514,7 @@
             },
             {
               "label": "Electricity",
-              "value": "415V / 50Hz / 3Phase"
+              "value": "240/415V, 3-Phase, 50Hz"
             },
             {
               "label": "Motor Power",
@@ -3619,7 +3601,7 @@
             },
             {
               "q": "ما خطوات التوريد والتركيب والصيانة لـ«رافعة مقصية متحركة» في قطر؟",
-              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (415 فولت / 50 هرتز / 3 فاز) والموديلات المتوفرة (MSL9M0.5t | MSL11M0.5t | MSL14M0.5t) قبل إصدار العرض الفني."
+              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) والموديلات المتوفرة (MSL9M0.5t | MSL11M0.5t | MSL14M0.5t) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -3645,7 +3627,7 @@
             },
             {
               "q": "What are the supply, installation and maintenance steps for the Movable Scissor Lift in Qatar?",
-              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (415V / 50Hz / 3Phase) and the available models (MSL9M0.5t | MSL11M0.5t | MSL14M0.5t) before the technical proposal is issued."
+              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the available models (MSL9M0.5t | MSL11M0.5t | MSL14M0.5t) before the technical proposal is issued."
             }
           ]
         }
@@ -3785,8 +3767,8 @@
               "value": "0.06 ~ 0.1 م / ثانية"
             },
             {
-              "label": "الكهرباء ومصدر التغذية",
-              "value": "240V, 1Phase, 50Hz"
+              "label": "الكهرباء",
+              "value": "240 فولت، أحادي الطور، 50 هرتز"
             },
             {
               "label": "قدرة موتور الرفع",
@@ -3798,7 +3780,7 @@
             },
             {
               "label": "جهد دائرة التحكم",
-              "value": "24 فولت تيار مستمر (24 VDC)"
+              "value": "24 فولت تيار مستمر"
             },
             {
               "label": "المواد والتشطيب",
@@ -3823,8 +3805,8 @@
               "value": "0.06 ~ 0.1 m/s"
             },
             {
-              "label": "Power Supply",
-              "value": "240V, 1Phase, 50Hz"
+              "label": "Electricity",
+              "value": "240V, Single-Phase, 50Hz"
             },
             {
               "label": "Motor Power",
@@ -3836,7 +3818,7 @@
             },
             {
               "label": "Control Voltage",
-              "value": "24 VDC"
+              "value": "24V DC"
             },
             {
               "label": "Material & Finish",
@@ -3914,7 +3896,7 @@
             },
             {
               "q": "ما خطوات التوريد والتركيب والصيانة لـ«رافعة ومصعد ذوي الاحتياجات الخاصة» في قطر؟",
-              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء ومصدر التغذية (240V, 1Phase, 50Hz) ومقاسات وأبعاد المنصة (1430 × 1000 مم (صاج منقوش مانع للانزلاق)) قبل إصدار العرض الفني."
+              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240 فولت، أحادي الطور، 50 هرتز) ومقاسات وأبعاد المنصة (1430 × 1000 مم (صاج منقوش مانع للانزلاق)) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -3936,7 +3918,7 @@
             },
             {
               "q": "What are the supply, installation and maintenance steps for the Wheelchair Hydraulic Lift in Qatar?",
-              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the load capacity (250 kg) and the platform size (1430 × 1000 mm (skid-proof checkered plate)) before the technical proposal is issued."
+              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240V, Single-Phase, 50Hz) and the platform size (1430 × 1000 mm (skid-proof checkered plate)) before the technical proposal is issued."
             }
           ]
         }
@@ -4075,8 +4057,8 @@
               "value": "0.75 kW (1 HP)"
             },
             {
-              "label": "Power Supply",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "Electricity",
+              "value": "240/415V, 3-Phase, 50Hz"
             },
             {
               "label": "Capacity",
@@ -4172,7 +4154,7 @@
             },
             {
               "q": "What are the supply, installation and maintenance steps for the Hydraulic Dock Leveler in Qatar?",
-              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the capacity (6-8 Tons Standard (Up to 45 Tons Custom)) and the standard platform sizes (1830×2730 mm – 2000×2500 mm) before the technical proposal is issued."
+              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the standard platform sizes (1830×2730 mm – 2000×2500 mm) before the technical proposal is issued."
             }
           ]
         },
@@ -4290,8 +4272,8 @@
               "value": "0.75 kW"
             },
             {
-              "label": "Power Supply",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "Electricity",
+              "value": "240/415V, 3-Phase, 50Hz"
             }
           ]
         },
@@ -4363,7 +4345,7 @@
             },
             {
               "q": "What are the supply, installation and maintenance steps for the Inkema Dock Leveler – RH1 in Qatar?",
-              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the platform size (2000 × 2500 mm) and the working range above warehouse level (Up to 600 mm) before the technical proposal is issued."
+              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the platform size (2000 × 2500 mm) before the technical proposal is issued."
             }
           ]
         }
@@ -4627,6 +4609,10 @@
             {
               "label": "درجة حرارة التشغيل",
               "value": "-30° م إلى +70° م"
+            },
+            {
+              "label": "الكهرباء",
+              "value": "240 فولت، أحادي الطور، 50 هرتز (منفاخ 0.55 كيلوواط)"
             }
           ],
           "en": [
@@ -4649,6 +4635,10 @@
             {
               "label": "Operating Temperature",
               "value": "-30°C to +70°C"
+            },
+            {
+              "label": "Electricity",
+              "value": "240V, Single-Phase, 50Hz (0.55 kW blower)"
             }
           ]
         },
@@ -4703,7 +4693,7 @@
             },
             {
               "q": "ما خطوات التوريد والتركيب والصيانة لـ«أغطية بوابات مطاطية قابلة للانتفاخ» في قطر؟",
-              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة أبعاد الغطاء القياسية (3500 (عرض) × 3700 (ارتفاع) مم) وعمق الغطاء (800 مم) قبل إصدار العرض الفني."
+              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240 فولت، أحادي الطور، 50 هرتز (منفاخ 0.55 كيلوواط)) وأبعاد الغطاء القياسية (3500 (عرض) × 3700 (ارتفاع) مم) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -4725,7 +4715,7 @@
             },
             {
               "q": "What are the supply, installation and maintenance steps for the Inflatable Dock Shelter in Qatar?",
-              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the standard shelter size (3500 (W) × 3700 (H) mm) and the shelter depth (800 mm) before the technical proposal is issued."
+              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240V, Single-Phase, 50Hz (0.55 kW blower)) and the standard shelter size (3500 (W) × 3700 (H) mm) before the technical proposal is issued."
             }
           ]
         },
@@ -5011,6 +5001,10 @@
             {
               "label": "اختياري",
               "value": "ذراع هيدروليكي لتعديل الارتفاعات"
+            },
+            {
+              "label": "الكهرباء",
+              "value": "240/415 فولت، 3 فاز، 50 هرتز (مع ذراع الرفع الهيدروليكي الاختياري)"
             }
           ],
           "en": [
@@ -5041,6 +5035,10 @@
             {
               "label": "Optional",
               "value": "Hydraulic height adjustment mechanism"
+            },
+            {
+              "label": "Electricity",
+              "value": "240/415V, 3-Phase, 50Hz (with the optional hydraulic lift arm)"
             }
           ]
         },
@@ -5104,7 +5102,7 @@
             },
             {
               "q": "ما خطوات التوريد والتركيب والصيانة لـ«منحدر تحميل متحرك» في قطر؟",
-              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة أقصى حمولة (10000 كجم (10 طن)) وطول المنصة (11300 مم) قبل إصدار العرض الفني."
+              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز (مع ذراع الرفع الهيدروليكي الاختياري)) وطول المنصة (11300 مم) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -5126,7 +5124,7 @@
             },
             {
               "q": "What are the supply, installation and maintenance steps for the Movable Dock Ramp in Qatar?",
-              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the loading capacity (10000 kg (10 Tons)) and the ramp length (11300 mm) before the technical proposal is issued."
+              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz (with the optional hydraulic lift arm)) and the ramp length (11300 mm) before the technical proposal is issued."
             }
           ]
         }
@@ -5473,7 +5471,7 @@
             },
             {
               "label": "الكهرباء",
-              "value": "415 فولت، 3 فاز، 50 هرتز"
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             },
             {
               "label": "حمولة الرفع القصوى",
@@ -5498,8 +5496,8 @@
               "value": "2.2 kW"
             },
             {
-              "label": "Power Supply",
-              "value": "415V, 3Phase, 50Hz"
+              "label": "Electricity",
+              "value": "240/415V, 3-Phase, 50Hz"
             },
             {
               "label": "Max Lifting Capacity",
@@ -5552,7 +5550,7 @@
             },
             {
               "q": "ما خطوات التوريد والتركيب والصيانة لـ«رصيف تحميل متحرك هيدروليكي» في قطر؟",
-              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (415 فولت، 3 فاز، 50 هرتز) وأبعاد منصة التحميل (1600 × 2000 مم) قبل إصدار العرض الفني."
+              "a": "نقيس أولاً باب التحميل: ارتفاع أرضية المستودع، وأعلى وأدنى ارتفاع لصناديق الشاحنات التي تصل إليه، والحفرة إن وُجدت، ومسار الرافعة الشوكية. ثم نورّد الوحدة ونركّبها أو نشرف فنياً على تركيبها، ونختبرها ونشغّلها ونسلّمها، وندرّب المشغلين على التشغيل والإيقاف الآمن. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) وأبعاد منصة التحميل (1600 × 2000 مم) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -5574,7 +5572,7 @@
             },
             {
               "q": "What are the supply, installation and maintenance steps for the Mobile Loading Dock in Qatar?",
-              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the max lifting capacity (2000 kg (2 Tons)) and the platform size (1600 × 2000 mm) before the technical proposal is issued."
+              "a": "We first measure the loading bay: warehouse floor height, the highest and lowest truck beds that reach it, the pit if there is one, and the forklift route. We then supply the unit, install it or supervise its installation, test, commission and hand it over, and train the operators on safe operation and stopping. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the platform size (1600 × 2000 mm) before the technical proposal is issued."
             }
           ]
         }
@@ -5700,6 +5698,10 @@
             {
               "label": "درجة حرارة التشغيل",
               "value": "من -20° م إلى +65° م"
+            },
+            {
+              "label": "الكهرباء",
+              "value": "240/415 فولت، 3 فاز، 50 هرتز (للموديل الهيدروليكي الكهروميكانيكي)"
             }
           ],
           "en": [
@@ -5734,6 +5736,10 @@
             {
               "label": "Operating Temp",
               "value": "-20°C to +65°C"
+            },
+            {
+              "label": "Electricity",
+              "value": "240/415V, 3-Phase, 50Hz (electromechanical hydraulic model)"
             }
           ]
         },
@@ -5845,7 +5851,7 @@
         "features": {
           "ar": [
             "الموديل RB3M1000CT مختبر وفق PAS 68 (V/7500[N3]/80/90:-1.5/4.6) وIWA 14-1 (V/7200[N3C]/80/90:-0.9)، ولم تتجاوز الشاحنة الحاجز (اختراق −1.5 م)، باختبار في ألمانيا",
-            "صفيحة فولاذية علوية مربعة الشكل بسماكة 10 ملم مانعة للانزلاق",
+            "صفيحة فولاذية علوية مربعة الشكل بسماكة 10 مم مانعة للانزلاق",
             "هيكل عالي التحمل مصفح ومصنوع من الفولاذ الصلب S275JR",
             "سرعة تشغيل فائقة (3-5 ثوانٍ) وفتح طوارئ سريع (1.5 ثانية)",
             "تشغيل يدوي بمضخة يدوية مدمجة عند انقطاع التيار الكهربائي",
@@ -5936,8 +5942,8 @@
               "value": "2000 – 6000 مم"
             },
             {
-              "label": "الكهرباء والطاقة",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "الكهرباء",
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             },
             {
               "label": "سرعة الفتح والرفع",
@@ -5978,8 +5984,8 @@
               "value": "2000 – 6000 mm"
             },
             {
-              "label": "Power Supply",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "Electricity",
+              "value": "240/415V, 3-Phase, 50Hz"
             },
             {
               "label": "Deployment Speed",
@@ -6077,7 +6083,7 @@
             },
             {
               "q": "ما الذي تشمله خدمة بيستوليكس في قطر لـ«مصد طريق عالي الأمان»؟",
-              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء والطاقة (240/415V, 3Phase, 50Hz) وارتفاع المصد عند الرفع (1000 مم) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) وارتفاع المصد عند الرفع (1000 مم) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -6099,7 +6105,7 @@
             },
             {
               "q": "What does Bestolex's service in Qatar cover for the High Security Road Blocker?",
-              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the power supply (240/415V, 3Phase, 50Hz) and the raised height (1000 mm) before the technical proposal is issued."
+              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the raised height (1000 mm) before the technical proposal is issued."
             }
           ]
         },
@@ -6190,13 +6196,20 @@
               "ar": "مضخة سحب المياه من الحفرة",
               "en": "Pit Water Submersible Pump"
             }
+          },
+          {
+            "label": {
+              "ar": "وحدة طاقة هيدروليكية عالية الأداء",
+              "en": "High-Output Hydraulic Power Pack"
+            },
+            "image": "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/component-superior-quality-output-hydraulic-power-pack.png"
           }
         ],
         "specs": {
           "ar": [
             {
               "label": "عمق التركيب السطحي",
-              "value": "400 مم (40 سم فقط)"
+              "value": "400 مم (40 سم)"
             },
             {
               "label": "ارتفاع المصد عند الرفع",
@@ -6207,8 +6220,8 @@
               "value": "2000 – 6000 مم"
             },
             {
-              "label": "الطاقة والكهرباء",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "الكهرباء",
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             },
             {
               "label": "سرعة الفتح والرفع",
@@ -6242,7 +6255,7 @@
           "en": [
             {
               "label": "Shallow Pit Depth",
-              "value": "400 mm (Just 40 cm)"
+              "value": "400 mm (40 cm)"
             },
             {
               "label": "Raised Height",
@@ -6253,8 +6266,8 @@
               "value": "2000 – 6000 mm"
             },
             {
-              "label": "Power Supply",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "Electricity",
+              "value": "240/415V, 3-Phase, 50Hz"
             },
             {
               "label": "Deployment Speed",
@@ -6311,8 +6324,7 @@
         ],
         "images": [
           "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/1.png",
-          "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/2.png",
-          "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/component-superior-quality-output-hydraulic-power-pack.png"
+          "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/2.png"
         ],
         "pdf": "https://sabtech.com.sa/wp-content/uploads/2014/08/HIGH-SECURITY-SHALLOW-ROAD-BLOCKER-PAS68.pdf",
         "image": "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/1.png",
@@ -6352,7 +6364,7 @@
             },
             {
               "q": "ما الذي تشمله خدمة بيستوليكس في قطر لـ«مصد طريق عالي الأمان بحفرة ضحلة»؟",
-              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة عمق التركيب السطحي (400 مم (40 سم فقط)) وارتفاع المصد عند الرفع (1100 مم) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة عمق التركيب السطحي (400 مم (40 سم)) وارتفاع المصد عند الرفع (1100 مم) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -6374,7 +6386,7 @@
             },
             {
               "q": "What does Bestolex's service in Qatar cover for the High Security Shallow Road Blocker?",
-              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the power supply (240/415V, 3Phase, 50Hz) and the shallow pit depth (400 mm (Just 40 cm)) before the technical proposal is issued."
+              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the shallow pit depth (400 mm (40 cm)) before the technical proposal is issued."
             }
           ]
         },
@@ -6490,8 +6502,8 @@
               "value": "2000 – 6000 مم"
             },
             {
-              "label": "مصدر الكهرباء والطاقة",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "الكهرباء",
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             },
             {
               "label": "قوة ووحدة الطاقة",
@@ -6524,8 +6536,8 @@
               "value": "2000 – 6000 mm"
             },
             {
-              "label": "Power Supply",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "Electricity",
+              "value": "240/415V, 3-Phase, 50Hz"
             },
             {
               "label": "Hydraulic Power Pack",
@@ -6620,7 +6632,7 @@
             },
             {
               "q": "ما الذي تشمله خدمة بيستوليكس في قطر لـ«مصد طريق هيدروليكي»؟",
-              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة مصدر الكهرباء والطاقة (240/415V, 3Phase, 50Hz) وارتفاع المصد عند الرفع (800 – 1100 مم) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) وارتفاع المصد عند الرفع (800 – 1100 مم) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -6642,7 +6654,7 @@
             },
             {
               "q": "What does Bestolex's service in Qatar cover for the Road Blocker?",
-              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the power supply (240/415V, 3Phase, 50Hz) and the raised height (800 – 1100 mm) before the technical proposal is issued."
+              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the raised height (800 – 1100 mm) before the technical proposal is issued."
             }
           ]
         },
@@ -6711,6 +6723,13 @@
               "ar": "لوحة التحكم الكهربائية المتقدمة",
               "en": "Electric Control Panel"
             }
+          },
+          {
+            "label": {
+              "ar": "عمود إشارة المرور",
+              "en": "Traffic Light Post"
+            },
+            "image": "https://cdn.bestolex.com/bestolex/products/surface-mount-hydraulic-road-blocker/component-traffic-light-post.png"
           }
         ],
         "specs": {
@@ -6728,8 +6747,8 @@
               "value": "2000 – 6000 مم"
             },
             {
-              "label": "مصدر الكهرباء والطاقة",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "الكهرباء",
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             },
             {
               "label": "سرعة الفتح والرفع",
@@ -6762,8 +6781,8 @@
               "value": "2000 – 6000 mm"
             },
             {
-              "label": "Power Supply",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "Electricity",
+              "value": "240/415V, 3-Phase, 50Hz"
             },
             {
               "label": "Deployment Speed",
@@ -6789,8 +6808,7 @@
           "https://cdn.bestolex.com/bestolex/products/surface-mount-hydraulic-road-blocker/2.png",
           "https://cdn.bestolex.com/bestolex/products/surface-mount-hydraulic-road-blocker/3.png",
           "https://cdn.bestolex.com/bestolex/products/surface-mount-hydraulic-road-blocker/4.png",
-          "https://cdn.bestolex.com/bestolex/products/surface-mount-hydraulic-road-blocker/5.png",
-          "https://cdn.bestolex.com/bestolex/products/surface-mount-hydraulic-road-blocker/component-traffic-light-post.png"
+          "https://cdn.bestolex.com/bestolex/products/surface-mount-hydraulic-road-blocker/5.png"
         ],
         "pdf": "",
         "image": "https://cdn.bestolex.com/bestolex/products/surface-mount-hydraulic-road-blocker/1.png",
@@ -6830,7 +6848,7 @@
             },
             {
               "q": "ما الذي تشمله خدمة بيستوليكس في قطر لـ«مصد طريق سطحي دون حفر»؟",
-              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة مصدر الكهرباء والطاقة (240/415V, 3Phase, 50Hz) وارتفاع المنحدر السطحي (100 – 150 مم فوق الأرض) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) وارتفاع المنحدر السطحي (100 – 150 مم فوق الأرض) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -6852,7 +6870,7 @@
             },
             {
               "q": "What does Bestolex's service in Qatar cover for the Surface-Mount Road Blocker?",
-              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the power supply (240/415V, 3Phase, 50Hz) and the ramp height above ground (100 – 150 mm) before the technical proposal is issued."
+              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the ramp height above ground (100 – 150 mm) before the technical proposal is issued."
             }
           ]
         },
@@ -6923,8 +6941,8 @@
               "value": "6 – 10 مم"
             },
             {
-              "label": "مصدر الكهرباء والطاقة",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "الكهرباء",
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             },
             {
               "label": "سرعة الفتح والرفع",
@@ -6957,8 +6975,8 @@
               "value": "6 – 10 mm"
             },
             {
-              "label": "Power Supply",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "Electricity",
+              "value": "240/415V, 3-Phase, 50Hz"
             },
             {
               "label": "Deployment Speed",
@@ -7029,7 +7047,7 @@
             },
             {
               "q": "ما الذي تشمله خدمة بيستوليكس في قطر لـ«مصد عمودي أوتوماتيكي (بولارد)»؟",
-              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة مصدر الكهرباء والطاقة (240/415V, 3Phase, 50Hz) وقطر العمود (220 – 275 مم) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) وقطر العمود (220 – 275 مم) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -7051,7 +7069,7 @@
             },
             {
               "q": "What does Bestolex's service in Qatar cover for the Automatic Hydraulic Bollard?",
-              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the power supply (240/415V, 3Phase, 50Hz) and the bollard diameter (220 – 275 mm) before the technical proposal is issued."
+              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the bollard diameter (220 – 275 mm) before the technical proposal is issued."
             }
           ]
         },
@@ -7100,12 +7118,12 @@
               "value": "550 – 600 مم"
             },
             {
-              "label": "مصدر الكهرباء والطاقة",
-              "value": "240V AC, 50Hz"
+              "label": "الكهرباء",
+              "value": "240 فولت، أحادي الطور، 50 هرتز"
             },
             {
-              "label": "جهد التشغيل الداخلي",
-              "value": "24V DC آمن للغاية"
+              "label": "جهد دائرة التحكم",
+              "value": "24 فولت تيار مستمر"
             },
             {
               "label": "زمن الفتح والإغلاق",
@@ -7134,12 +7152,12 @@
               "value": "550 – 600 mm"
             },
             {
-              "label": "Power Supply",
-              "value": "240V AC, 50Hz"
+              "label": "Electricity",
+              "value": "240V, Single-Phase, 50Hz"
             },
             {
-              "label": "Internal Voltage",
-              "value": "24V DC Safe Low Voltage"
+              "label": "Control Voltage",
+              "value": "24V DC"
             },
             {
               "label": "Opening/Closing Time",
@@ -7199,7 +7217,7 @@
             },
             {
               "q": "ما الذي تشمله خدمة بيستوليكس في قطر لـ«بوابات دوارة أمنية»؟",
-              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة مصدر الكهرباء والطاقة (240V AC, 50Hz) ومادة التصنيع والتغليف (فولاذ مقاوم للصدأ Stainless Steel 304/316) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240 فولت، أحادي الطور، 50 هرتز) ومادة التصنيع والتغليف (فولاذ مقاوم للصدأ Stainless Steel 304/316) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -7221,7 +7239,7 @@
             },
             {
               "q": "What does Bestolex's service in Qatar cover for the Turnstiles?",
-              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the power supply (240V AC, 50Hz) and the housing material (Stainless Steel 304 / 316 Grade) before the technical proposal is issued."
+              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240V, Single-Phase, 50Hz) and the housing material (Stainless Steel 304 / 316 Grade) before the technical proposal is issued."
             }
           ]
         },
@@ -7288,6 +7306,10 @@
             {
               "label": "درجة حرارة التشغيل",
               "value": "من -20° م إلى +65° م"
+            },
+            {
+              "label": "الكهرباء",
+              "value": "240 فولت، أحادي الطور، 50 هرتز"
             }
           ],
           "en": [
@@ -7322,6 +7344,10 @@
             {
               "label": "Operating Temp",
               "value": "-20°C to +65°C"
+            },
+            {
+              "label": "Electricity",
+              "value": "240V, Single-Phase, 50Hz"
             }
           ]
         },
@@ -7369,7 +7395,7 @@
             },
             {
               "q": "ما الذي تشمله خدمة بيستوليكس في قطر لـ«نظام كشف تحت المركبة»؟",
-              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة دقة الكاميرا والمسح (كاميرا HD Line-Scan عالية السرعة والدقة) ودقة الصورة الملتقطة (4096 بكسل صورة كاملة لأسفل المركبة) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240 فولت، أحادي الطور، 50 هرتز) ودقة الكاميرا والمسح (كاميرا HD Line-Scan عالية السرعة والدقة) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -7391,7 +7417,7 @@
             },
             {
               "q": "What does Bestolex's service in Qatar cover for the Under Vehicle Surveillance System?",
-              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the camera technology (High-speed Digital HD Line-Scan Camera) and the image resolution (4096 Pixels Full Underbody Image) before the technical proposal is issued."
+              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240V, Single-Phase, 50Hz) and the camera technology (High-speed Digital HD Line-Scan Camera) before the technical proposal is issued."
             }
           ]
         }
@@ -7475,8 +7501,8 @@
               "value": "10 – 12 مم"
             },
             {
-              "label": "مصدر الكهرباء والطاقة",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "الكهرباء",
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             },
             {
               "label": "سرعة الفتح والرفع",
@@ -7509,8 +7535,8 @@
               "value": "10 – 12 mm"
             },
             {
-              "label": "Power Supply",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "Electricity",
+              "value": "240/415V, 3-Phase, 50Hz"
             },
             {
               "label": "Operating Speed",
@@ -7595,7 +7621,7 @@
             },
             {
               "q": "ما الذي تشمله خدمة بيستوليكس في قطر لـ«مفجر إطارات»؟",
-              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة مصدر الكهرباء والطاقة (240/415V, 3Phase, 50Hz) وارتفاع الأشواك الفولاذية (150 – 250 مم) قبل إصدار العرض الفني."
+              "a": "نبدأ بمعاينة المدخل: عرض الممر، والخدمات تحت الأرض التي تحدد إمكان الحفر، والتصريف، وأنظمة التحكم في الدخول القائمة. ثم نورّد النظام ونركّبه أو نشرف فنياً على تركيبه، ونربطه بأنظمة التحكم في الدخول، ونختبره ونشغّله ونسلّمه، وندرّب المشغلين على التشغيل العادي واليدوي. وبعد التسليم تستمر الصيانة الوقائية والتصحيحية وتوفير قطع الغيار الأصلية، ويشمل المنتج ضماناً لمدة سنة. ونثبّت في المعاينة الكهرباء (240/415 فولت، 3 فاز، 50 هرتز) وارتفاع الأشواك الفولاذية (150 – 250 مم) قبل إصدار العرض الفني."
             }
           ],
           "en": [
@@ -7617,7 +7643,7 @@
             },
             {
               "q": "What does Bestolex's service in Qatar cover for the Tyre Killer?",
-              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the power supply (240/415V, 3Phase, 50Hz) and the spike height (150 – 250 mm) before the technical proposal is issued."
+              "a": "We start with a survey of the entrance: lane width, the underground services that decide whether excavation is possible, drainage, and the access control already in place. We then supply the system, install it or supervise its installation, tie it into access control, test, commission and hand it over, and train the operators on normal and manual operation. After handover we continue with preventive and corrective maintenance and genuine spare parts, and the product carries a 1-year warranty. The survey fixes the electricity (240/415V, 3-Phase, 50Hz) and the spike height (150 – 250 mm) before the technical proposal is issued."
             }
           ]
         },
@@ -7680,18 +7706,39 @@
         },
         "featureImages": [
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/devices-against-cable-v0.1.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/component-anti-drop-safety-devices.png",
             "label": {
               "ar": "أجهزة أمان عند انقطاع الكابل وكسر النابض",
               "en": "Cable-Break & Spring-Break Safety Devices"
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/safety-hook-which-locks-the-door-from-inside-v0.1.jpg",
+            "image": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/component-interior-safety-locking-hook.png",
             "label": {
               "ar": "قفل أمان يغلق الباب من الداخل",
               "en": "Safety Latch Lock from Inside"
             }
+          },
+          {
+            "label": {
+              "ar": "تجهيزات مزدوجة للأبواب الثقيلة",
+              "en": "Double Hardware for Heavy Doors"
+            },
+            "image": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/component-double-hardware-for-heavy-doors.png"
+          },
+          {
+            "label": {
+              "ar": "ألواح زجاجية وباب للمارّة",
+              "en": "Glazed Panels with Pedestrian Door"
+            },
+            "image": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/component-glassed-panels-with-pedestrian-door.png"
+          },
+          {
+            "label": {
+              "ar": "عارضة تقوية أوميغا",
+              "en": "Omega Reinforcement Beam"
+            },
+            "image": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/component-omega-reinforcement-beam.png"
           }
         ],
         "specs": {
@@ -7737,8 +7784,8 @@
               "value": "120° م"
             },
             {
-              "label": "مصدر الكهرباء والطاقة",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "الكهرباء",
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             },
             {
               "label": "درجة حرارة التشغيل",
@@ -7787,8 +7834,8 @@
               "value": "120 °C"
             },
             {
-              "label": "Power Supply",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "Electricity",
+              "value": "240/415V, 3-Phase, 50Hz"
             },
             {
               "label": "Working Temp",
@@ -7802,12 +7849,7 @@
           "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/2.png",
           "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/3.png",
           "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/4.png",
-          "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/5.png",
-          "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/component-anti-drop-safety-devices.png",
-          "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/component-double-hardware-for-heavy-doors.png",
-          "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/component-glassed-panels-with-pedestrian-door.png",
-          "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/component-interior-safety-locking-hook.png",
-          "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/component-omega-reinforcement-beam.png"
+          "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/5.png"
         ],
         "pdf": "https://drive.google.com/file/d/1sG2BiEleNtMOXTh7BhddA6kJgZUyvn1D/view?usp=drivesdk",
         "image": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/1.png",
@@ -7821,6 +7863,64 @@
             "en": "Industrial sectional doors with 40 mm insulated panels for heat and sound insulation in warehouses, factories and logistics centres in Qatar. Get a quote.",
             "ar": "أبواب صناعية مقطعية بألواح معزولة سماكة 40 مم للعزل الحراري والصوتي في المستودعات والمصانع والمراكز اللوجستية في قطر. اطلب عرض سعر من بيستوليكس."
           }
+        },
+        "summary": {
+          "ar": "باب صناعي مقطعي بألواح معزولة سماكة 40 مم للعزل الحراري والصوتي في المستودعات والمصانع والمراكز اللوجستية في قطر. يفتح بسرعة 1.1 م/ث ويغلق بسرعة 0.5 م/ث بمحرك 0.7 كيلوواط، بمقاومة رياح وعزل ماء من الفئة 3، وبأنواع رفع عمودي ومرتفع وقياسي تُختار حسب المساحة فوق الفتحة.",
+          "en": "An industrial sectional door with 40 mm insulated panels for thermal and acoustic insulation in warehouses, factories and logistics centres in Qatar. It opens at 1.1 m/s and closes at 0.5 m/s on a 0.7 kW motor, rated Class 3 for wind and water tightness, with vertical, high and standard lift types chosen to suit the headroom above the opening."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما الفرق بين الباب المقطعي والباب الرول فائق السرعة؟",
+              "a": "الباب المقطعي يُختار للعزل: ألواحه بسماكة 40 مم بعزل حراري وصوتي، وسرعته 1.1 م/ث فتحاً و0.5 م/ث إغلاقاً. والباب الرول فائق السرعة يُختار للسرعة: نحو 1.0 م/ث في الاتجاهين، ومقاومة رياح حتى الفئة 5 مقابل الفئة 3 للمقطعي. فإن كان الباب يفتح عشرات المرات في الساعة فالسرعة أهم، وإن كان يفصل مساحة مبردة أو مكيّفة فالعزل أهم."
+            },
+            {
+              "q": "هل يصلح الباب المقطعي للمستودعات المبردة؟",
+              "a": "ألواحه موفرة للطاقة بسماكة 40 مم بعزل حراري وصوتي، وإحكامه ضد الرياح والماء من الفئة 3، ونطاق تشغيله من -20° م إلى +45° م، وهذه الأرقام تناسب فصل مساحة مكيّفة أو مبردة عن الخارج. ويُحدَّد مقاس الباب ونوع الرفع بعد معاينة الفتحة."
+            },
+            {
+              "q": "ما عناصر السلامة في الباب المقطعي؟",
+              "a": "جهاز أمان يعمل عند انقطاع الكابل، ونابض أمان للإيقاف، وقفل أمان يغلق الباب من الداخل. وللمحرك حماية حرارية عند 120° م. والمسارات الجانبية بسماكة 2 مم مع زاوية عمودية."
+            },
+            {
+              "q": "ما المساحة التي يحتاجها الباب فوق الفتحة؟",
+              "a": "تتوفر ثلاثة أنواع رفع: عمودي، ومرتفع، وقياسي، ويُختار النوع حسب المساحة المتاحة فوق الفتحة وعلى جانبيها. ولهذا تبدأ المعاينة بقياس الفتحة والمساحة حولها قبل اختيار النوع."
+            },
+            {
+              "q": "هل يمكن اختيار لون الباب؟",
+              "a": "نعم، اللون يختاره العميل. والطلاء طلاء أساس وزنك على الفولاذ."
+            },
+            {
+              "q": "ما خطوات التوريد والتركيب والصيانة للباب الصناعي المقطعي في قطر؟",
+              "a": "نقيس أولاً الفتحة: العرض والارتفاع، والمساحة فوق الفتحة وعلى جانبيها، ومسار الحركة أمامها، والتغذية الكهربائية. ثم نورّد الباب ونركّبه أو نشرف فنياً على تركيبه، ونضبط عناصر السلامة ونختبرها، ونشغّله ونسلّمه، وندرّب المشغلين. وبعد التسليم تستمر خدمة ما بعد البيع من بيستوليكس وتوفير قطع الغيار. ونثبّت في المعاينة نوع الرفع (عمودي، مرتفع، قياسي) وسماكة المقطع (40 مم) قبل إصدار العرض الفني."
+            }
+          ],
+          "en": [
+            {
+              "q": "What is the difference between a sectional door and a high-speed roll-up door?",
+              "a": "The sectional door is the choice for insulation: 40 mm panels with thermal and acoustic insulation, opening at 1.1 m/s and closing at 0.5 m/s. The high-speed roll-up door is the choice for speed: about 1.0 m/s both ways, and wind resistance up to Class 5 against Class 3 for the sectional door. If the opening cycles dozens of times an hour, speed matters more; if it separates a chilled or air-conditioned space, insulation matters more."
+            },
+            {
+              "q": "Does the sectional door suit cold-storage warehouses?",
+              "a": "Its energy-efficient panels are 40 mm thick with thermal and acoustic insulation, it is rated Class 3 for wind and water tightness, and it works from -20 °C to +45 °C, which suits separating a chilled or air-conditioned space from the outside. The door size and lift type are set after the opening is surveyed."
+            },
+            {
+              "q": "What safety devices does the sectional door have?",
+              "a": "A cable-break safety device, a spring-break safety stop, and a safety latch lock that locks the door from inside. The motor has thermal protection at 120 °C, and the side tracks are 2 mm with a vertical angle."
+            },
+            {
+              "q": "How much space does the door need above the opening?",
+              "a": "Three lift types are available — vertical, high and standard — and the type is chosen from the space available above and beside the opening. That is why the survey starts by measuring the opening and the room around it."
+            },
+            {
+              "q": "Can the door colour be chosen?",
+              "a": "Yes, the colour is the customer's choice, and the finish is primer, zinc and steel."
+            },
+            {
+              "q": "What are the supply, installation and maintenance steps for the industrial sectional door in Qatar?",
+              "a": "We first measure the opening: width and height, the headroom and side room, the traffic route in front of it, and the power supply. We then supply the door, install it or supervise its installation, set and test the safety devices, commission it, hand it over and train the operators. After handover, Bestolex after-sales service and spare parts continue. The survey fixes the lift type (vertical, high or standard) and the section thickness (40 mm) before the technical proposal is issued."
+            }
+          ]
         }
       },
       {
@@ -7861,7 +7961,7 @@
             }
           },
           {
-            "image": "https://sabtech.com.sa/wp-content/uploads/2019/12/Electric-safety-band_v0.1.png",
+            "image": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/component-electric-safety-edge-band.png",
             "label": {
               "ar": "حافة أمان سفلية مرنة",
               "en": "Soft & Flexible Safety Edge"
@@ -7880,6 +7980,13 @@
               "ar": "لوحة تحكم إلكترونية أوتوماتيكية متطورة",
               "en": "Automatic Control Panel"
             }
+          },
+          {
+            "label": {
+              "ar": "محرك مسنن عالي السرعة",
+              "en": "High-Speed Geared Motor"
+            },
+            "image": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/component-superior-quality-speed-geared-motor.png"
           }
         ],
         "specs": {
@@ -7913,8 +8020,8 @@
               "value": "محرك ثلاثي الطور غير متزامن"
             },
             {
-              "label": "مصدر الكهرباء والطاقة",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "الكهرباء",
+              "value": "240/415 فولت، 3 فاز، 50 هرتز"
             },
             {
               "label": "عناصر السلامة",
@@ -7955,8 +8062,8 @@
               "value": "3-phase asynchronous motor"
             },
             {
-              "label": "Power Supply",
-              "value": "240/415V, 3Phase, 50Hz"
+              "label": "Electricity",
+              "value": "240/415V, 3-Phase, 50Hz"
             },
             {
               "label": "Safety Devices",
@@ -7987,9 +8094,7 @@
         "images": [
           "https://cdn.bestolex.com/bestolex/products/high-speed-doors/1.png",
           "https://cdn.bestolex.com/bestolex/products/high-speed-doors/2.png",
-          "https://cdn.bestolex.com/bestolex/products/high-speed-doors/3.png",
-          "https://cdn.bestolex.com/bestolex/products/high-speed-doors/component-electric-safety-edge-band.png",
-          "https://cdn.bestolex.com/bestolex/products/high-speed-doors/component-superior-quality-speed-geared-motor.png"
+          "https://cdn.bestolex.com/bestolex/products/high-speed-doors/3.png"
         ],
         "pdf": "https://drive.google.com/file/d/1l_ooCGWRafWiTRShPTbhzOws4LMnYjWh/view?usp=drivesdk",
         "image": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/1.png",
@@ -8003,6 +8108,64 @@
             "en": "High-speed PVC roll-up doors for busy forklift traffic, food plants and logistics sites, up to 4 x 4 m with photocell and safety edge. Get a quote.",
             "ar": "أبواب رول سريعة بقماش PVC لحركة الرافعات الشوكية ومصانع الأغذية والمواقع اللوجستية، بمقاس حتى 4×4 م مع خلية ضوئية وحافة أمان. اطلب عرض سعر."
           }
+        },
+        "summary": {
+          "ar": "باب رول فائق السرعة بستارة PVC عالية المتانة على هيكل ألومنيوم، يفتح ويغلق بنحو 1.0 م/ث بمقاس يصل إلى 4000 × 4000 مم ومقاومة رياح حتى الفئة 5. يناسب أبواب الحركة الكثيفة في المستودعات ومصانع الأغذية والسيارات في قطر، ومعه حافة أمان مرنة وحساس ضوئي وستارة ضوئية ونظام حماية من الاصطدام.",
+          "en": "A high-speed roll-up door with a high-strength PVC curtain on an aluminium frame, opening and closing at about 1.0 m/s, in sizes up to 4,000 × 4,000 mm and rated up to wind Class 5. It suits high-traffic openings in warehouses and food and automotive plants in Qatar, and comes with a soft safety edge, photocell, light safety curtain and anti-collision system."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما أقصى مقاس متاح للباب الرول فائق السرعة؟",
+              "a": "المقاس الأقصى 4000 × 4000 مم. ويُحدَّد المقاس الفعلي بعد قياس الفتحة والمساحة حولها في المعاينة، ومساحة التركيب التي يحتاجها صغيرة."
+            },
+            {
+              "q": "كم سرعة الفتح والإغلاق، ولماذا تهم؟",
+              "a": "نحو 1.0 متر في الثانية فتحاً وإغلاقاً. وكل ثانية يبقى فيها الباب مفتوحاً تعني هواءً مكيفاً يخرج وحرارة وغباراً يدخلان، فالسرعة تقلل الزمن المفتوح وتزيد عدد المرات التي تعبر فيها الرافعة الشوكية في الساعة."
+            },
+            {
+              "q": "ما عناصر السلامة عند مرور الرافعات الشوكية؟",
+              "a": "حافة أمان سفلية مرنة، وحساس ضوئي (فوتوسيل)، وستارة ضوئية للسلامة، ونظام حماية من الاصطدام. ويُشغَّل الباب من لوحة تحكم أو بجهاز تحكم عن بعد، فلا يحتاج المشغل إلى النزول من الرافعة."
+            },
+            {
+              "q": "هل يصلح لمصانع الأغذية؟",
+              "a": "ستارته من قماش PVC عالي المتانة وهيكله من الألومنيوم، وهو مستخدم في المتاجر والمنشآت الصناعية والمراكز اللوجستية ومصانع الأغذية والسيارات. وتُحدَّد تفاصيل الستارة واللون حسب اشتراطات المصنع."
+            },
+            {
+              "q": "ما مقاومة الرياح؟",
+              "a": "حتى الفئة 5. وهذه أعلى من الفئة 3 للباب الصناعي المقطعي، فتناسب الأبواب الخارجية المعرضة للرياح المباشرة."
+            },
+            {
+              "q": "ما خطوات التوريد والتركيب والصيانة للباب الرول فائق السرعة في قطر؟",
+              "a": "نقيس أولاً الفتحة: العرض والارتفاع، والمساحة فوق الفتحة وعلى جانبيها، ومسار الحركة أمامها، والتغذية الكهربائية. ثم نورّد الباب ونركّبه أو نشرف فنياً على تركيبه، ونضبط عناصر السلامة ونختبرها، ونشغّله ونسلّمه، وندرّب المشغلين. وبعد التسليم تستمر خدمة ما بعد البيع من بيستوليكس وتوفير قطع الغيار. ونثبّت في المعاينة المقاس الأقصى (4000 × 4000 مم) ومقاومة الرياح المطلوبة (حتى الفئة 5) قبل إصدار العرض الفني."
+            }
+          ],
+          "en": [
+            {
+              "q": "What is the largest size available for the high-speed roll-up door?",
+              "a": "The maximum size is 4,000 × 4,000 mm. The actual size is set after the opening and the room around it are measured at the survey, and the door needs only a small installation footprint."
+            },
+            {
+              "q": "How fast does it open and close, and why does that matter?",
+              "a": "About 1.0 metre per second in both directions. Every second the door stays open is conditioned air going out and heat and dust coming in, so speed cuts the open time and raises the number of forklift passes per hour."
+            },
+            {
+              "q": "What protects a forklift passing through?",
+              "a": "A soft bottom safety edge, a photocell, a light safety curtain and an anti-collision system. The door runs from a control panel or a remote controller, so the operator does not have to get off the forklift."
+            },
+            {
+              "q": "Does it suit food plants?",
+              "a": "The curtain is high-strength PVC on an aluminium frame, and the door is used in stores, industrial facilities, logistics centres, and food and automotive plants. Curtain details and colour are set to the plant’s own requirements."
+            },
+            {
+              "q": "What is its wind resistance?",
+              "a": "Up to Class 5. That is higher than the Class 3 of the industrial sectional door, which suits external openings exposed to direct wind."
+            },
+            {
+              "q": "What are the supply, installation and maintenance steps for the high-speed roll-up door in Qatar?",
+              "a": "We first measure the opening: width and height, the headroom and side room, the traffic route in front of it, and the power supply. We then supply the door, install it or supervise its installation, set and test the safety devices, commission it, hand it over and train the operators. After handover, Bestolex after-sales service and spare parts continue. The survey fixes the maximum size (4,000 × 4,000 mm) and the wind class required (up to Class 5) before the technical proposal is issued."
+            }
+          ]
         }
       }
     ],

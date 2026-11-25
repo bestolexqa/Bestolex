@@ -170,8 +170,8 @@
             </h2>
             <p class="text-gray-300 text-base md:text-lg leading-relaxed">
               {{ locale === 'ar' 
-                ? 'نحن في بيستوليكس لا نكتفي بتوريد المعدات الثقيلة، بل نوفر أقوى الحلول الهندسية في النظم الهيدروليكية وحماية المحيط المصممة خصيصاً لمنشأتكم، مع عقود صيانة دورية شاملة وقطع غيار أصلية لضمان استمرارية عمل معداتكم بأقصى طاقة دون انقطاع.' 
-                : 'At Bestolex, we go beyond supplying heavy machinery; we provide the most robust engineering solutions in hydraulic systems and perimeter security tailored to your facility, supported by comprehensive maintenance contracts and genuine spare parts to ensure continuous peak performance.' 
+                ? 'في بيستوليكس لا يتوقف العمل عند التوريد: نعاين الموقع، ونقترح الحل في أنظمة التحميل والمستودعات، والنفايات وإعادة التدوير، والحماية المحيطية، والأبواب الصناعية، ثم نركّب ونشغّل وندرّب، ونتابع بعقود صيانة دورية وقطع غيار أصلية لتبقى معداتكم تعمل دون انقطاع.' 
+                : 'At Bestolex the work does not stop at supply: we survey the site, propose the solution across loading and warehouse systems, waste and recycling, perimeter protection and industrial doors, then install, commission and train, and follow through with maintenance contracts and genuine spare parts so your equipment keeps running.' 
               }}
             </p>
             <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 pt-2">

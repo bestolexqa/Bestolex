@@ -78,8 +78,8 @@
           </h2>
           <p class="text-lg md:text-xl text-gray-600 dark:text-gray-400 leading-relaxed">
             {{ locale === 'ar' 
-              ? 'اكتشف أحدث الرؤى الفنية، وأدلة الصيانة المتكاملة، والحلول الهندسية المبتكرة في مجالات المعدات الثقيلة، النظم الهيدروليكية، والأنظمة اللوجستية الحديثة.' 
-              : 'Discover the latest technical insights, comprehensive maintenance guides, and innovative engineering solutions for heavy machinery and advanced hydraulic systems.' 
+              ? 'أدلة فنية وقوائم فحص ومقارنات في أنظمة التحميل والمستودعات، والنفايات وإعادة التدوير، والحماية المحيطية، والأبواب الصناعية — مكتوبة لمن يشتري هذه المعدات ويشغّلها في قطر.' 
+              : 'Technical guides, maintenance checklists and comparisons across loading and warehouse systems, waste and recycling, perimeter protection and industrial doors — written for the people who buy and run this equipment in Qatar.' 
             }}
           </p>
         </div>

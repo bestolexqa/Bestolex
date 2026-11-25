@@ -1,32 +1,32 @@
 [
   {
-    "id": "cat-1",
-    "name_ar": "النظم الهيدروليكية المتقدمة",
-    "name_en": "Advanced Hydraulic Systems",
-    "slug": "hydraulic-systems"
-  },
-  {
-    "id": "cat-2",
-    "name_ar": "أنظمة حماية المحيط الأمنية",
-    "name_en": "High-Security Perimeter Systems",
-    "slug": "perimeter-security"
-  },
-  {
-    "id": "cat-3",
-    "name_ar": "الصيانة الشاملة والدعم الفني",
-    "name_en": "Comprehensive Maintenance & Support",
-    "slug": "maintenance-support"
-  },
-  {
-    "id": "cat-4",
-    "name_ar": "منصات وأنظمة التحميل اللوجستية",
-    "name_en": "Logistics Loading Systems",
+    "id": "loading-systems",
+    "name_ar": "أنظمة التحميل والمستودعات",
+    "name_en": "Loading & Warehouse Systems",
     "slug": "loading-systems"
   },
   {
-    "id": "cat-5",
+    "id": "waste-recycling",
     "name_ar": "النفايات وإعادة التدوير",
     "name_en": "Waste & Recycling",
     "slug": "waste-recycling"
+  },
+  {
+    "id": "perimeter-protection",
+    "name_ar": "الحماية المحيطية",
+    "name_en": "Perimeter Protection",
+    "slug": "perimeter-protection"
+  },
+  {
+    "id": "industrial-doors",
+    "name_ar": "الأبواب الصناعية",
+    "name_en": "Industrial Doors",
+    "slug": "industrial-doors"
+  },
+  {
+    "id": "heavy-equipment",
+    "name_ar": "المعدات الثقيلة",
+    "name_en": "Heavy Equipment",
+    "slug": "heavy-equipment"
   }
 ]

@@ -309,8 +309,8 @@ const { uploadFile, isUploading, uploadProgress, error: uploadError } = useUploa
 const form = ref({
   title_ar: '',
   title_en: '',
-  category_ar: 'النظم الهيدروليكية',
-  category_en: 'Hydraulic Systems',
+  category_ar: 'أنظمة التحميل والمستودعات',
+  category_en: 'Loading & Warehouse Systems',
   read_time_ar: '5 دقائق قراءة',
   read_time_en: '5 min read',
   excerpt_ar: '',
