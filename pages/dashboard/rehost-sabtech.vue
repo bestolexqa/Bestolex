@@ -24,8 +24,12 @@
           <div class="text-2xl font-black text-green-600">{{ copied }}</div>
         </div>
         <div class="bg-white dark:bg-gray-800 p-4 rounded-2xl border border-gray-100 dark:border-gray-700">
-          <div class="text-xs font-bold text-gray-400 mb-1">{{ mode === 'verify' ? 'تعمل على الـCDN' : 'موجودة مسبقاً' }}</div>
-          <div class="text-2xl font-black" :class="mode === 'verify' ? 'text-green-600' : 'text-gray-500'">{{ mode === 'verify' ? verified : exists }}</div>
+          <div class="text-xs font-bold text-gray-400 mb-1">
+            {{ mode === 'verify' ? 'تعمل على الـCDN' : mode === 'purge' ? 'حُذفت' : 'موجودة مسبقاً' }}
+          </div>
+          <div class="text-2xl font-black" :class="mode === 'copy' ? 'text-gray-500' : 'text-green-600'">
+            {{ mode === 'verify' ? verified : mode === 'purge' ? deleted : exists }}
+          </div>
         </div>
         <div class="bg-white dark:bg-gray-800 p-4 rounded-2xl border border-gray-100 dark:border-gray-700">
           <div class="text-xs font-bold text-gray-400 mb-1">فشلت</div>
@@ -39,6 +43,13 @@
         <span>صور مكونات: <strong>{{ info.components }}</strong></span>
         <span>ملفات PDF: <strong>{{ info.pdfs }}</strong></span>
         <span>صور: <strong>{{ info.images }}</strong></span>
+        <span>كتالوجات ساب تك المسحوبة: <strong>{{ info.withdrawnCount }}</strong></span>
+      </div>
+
+      <div class="p-4 rounded-2xl bg-amber-50 dark:bg-amber-900/20 text-amber-900 dark:text-amber-200 text-sm leading-relaxed">
+        كتالوجات ساب تك وأوراق مواصفاتها لا تُستضاف عندنا ولا تُربط بأي منتج.
+        زر «احذف كتالوجات ساب تك» يحذف الـ{{ info.withdrawnCount }} ملفاً منها من الخادم،
+        وتشغيله مكرراً آمن: الملف المحذوف أصلاً يُحتسب منجزاً.
       </div>
 
       <div v-if="info && !info.keyConfigured" class="p-4 rounded-2xl bg-red-50 text-red-800 text-sm font-bold">
@@ -63,6 +74,14 @@
           {{ running && mode === 'verify' ? 'جارٍ التحقق…' : 'تحقّق من جميع الملفات' }}
         </button>
         <button
+          type="button"
+          class="px-6 h-12 rounded-xl border border-red-300 text-red-700 font-bold disabled:opacity-50"
+          :disabled="running || !info?.keyConfigured"
+          @click="run('purge')"
+        >
+          {{ running && mode === 'purge' ? 'جارٍ الحذف…' : 'احذف كتالوجات ساب تك' }}
+        </button>
+        <button
           v-if="running"
           type="button"
           class="px-6 h-12 rounded-xl border border-gray-300 font-bold"
@@ -70,10 +89,10 @@
         >
           إيقاف
         </button>
-        <span class="text-sm text-gray-500">{{ processed }} من {{ info?.total || 0 }}</span>
+        <span class="text-sm text-gray-500">{{ processed }} من {{ target }}</span>
       </div>
 
-      <div v-if="info?.total" class="h-2 rounded-full bg-gray-200 overflow-hidden">
+      <div v-if="target" class="h-2 rounded-full bg-gray-200 overflow-hidden">
         <div class="h-full bg-primary transition-all" :style="{ width: pct + '%' }"></div>
       </div>
 
@@ -85,9 +104,13 @@
       </div>
 
       <div v-if="done" class="p-4 rounded-2xl bg-green-50 text-green-800 text-sm font-bold">
-        {{ mode === 'verify' ? 'انتهى التحقق.' : 'انتهى النقل.' }}
-        الملفات الآن على <span dir="ltr" class="font-mono">{{ info?.cdnHost }}</span>.
-        الخطوة التالية: استبدال الروابط في بيانات المنتجات.
+        <template v-if="mode === 'purge'">
+          انتهى الحذف. كتالوجات ساب تك وأوراق مواصفاتها لم تبقَ على خادمنا.
+        </template>
+        <template v-else>
+          {{ mode === 'verify' ? 'انتهى التحقق.' : 'انتهى النقل.' }}
+          الملفات الآن على <span dir="ltr" class="font-mono">{{ info?.cdnHost }}</span>.
+        </template>
       </div>
     </div>
   </NuxtLayout>
@@ -99,8 +122,8 @@ useHead({ title: 'نقل ملفات ساب تك' })
 
 type Info = {
   zone: string, cdnHost: string, keyConfigured: boolean, total: number,
-  products: number, drawings: number, components: number, brochures: number,
-  datasheets: number, certificates: number, pdfs: number, images: number
+  products: number, drawings: number, components: number, withdrawnCount: number,
+  certificates: number, pdfs: number, images: number
 }
 type Failure = { path: string, detail?: string }
 
@@ -112,16 +135,19 @@ const processed = ref(0)
 const copied = ref(0)
 const exists = ref(0)
 const verified = ref(0)
-const mode = ref<'copy' | 'verify'>('copy')
+const deleted = ref(0)
+const mode = ref<'copy' | 'verify' | 'purge'>('copy')
 const failed = ref<Failure[]>([])
 
-const pct = computed(() => info.value?.total ? Math.round((processed.value / info.value.total) * 100) : 0)
+// Purge walks the withdrawn list, which is a different length from the map.
+const target = computed(() => (mode.value === 'purge' ? info.value?.withdrawnCount : info.value?.total) || 0)
+const pct = computed(() => target.value ? Math.round((processed.value / target.value) * 100) : 0)
 
 onMounted(async () => {
   info.value = await $fetch<Info>('/api/admin/rehost-sabtech')
 })
 
-async function run(which: 'copy' | 'verify' = 'copy') {
+async function run(which: 'copy' | 'verify' | 'purge' = 'copy') {
   mode.value = which
   running.value = true
   stop.value = false
@@ -130,6 +156,7 @@ async function run(which: 'copy' | 'verify' = 'copy') {
   copied.value = 0
   exists.value = 0
   verified.value = 0
+  deleted.value = 0
   failed.value = []
 
   let offset = 0
@@ -137,13 +164,14 @@ async function run(which: 'copy' | 'verify' = 'copy') {
     while (!stop.value) {
       const res = await $fetch<any>('/api/admin/rehost-sabtech', {
         method: 'POST',
-        body: { offset, limit: which === 'verify' ? 20 : 3, mode: which }
+        body: { offset, limit: which === 'copy' ? 3 : 20, mode: which }
       })
       offset = res.nextOffset
       processed.value = offset
       copied.value += res.copied
       exists.value += res.exists
       verified.value += res.verified || 0
+      deleted.value += (res.deleted || 0) + (res.absent || 0)
       if (res.failed?.length) failed.value.push(...res.failed)
       if (res.done) { done.value = true; break }
     }
