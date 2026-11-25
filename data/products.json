@@ -6109,7 +6109,72 @@
             }
           ]
         },
-        "comparisonGroup": "road-blockers"
+        "comparisonGroup": "road-blockers",
+        "certificates": {
+          "note": {
+            "ar": "التصنيف يخص الموديل بعرضه وطريقة تأسيسه كما اختُبر فعلاً، ولا ينتقل تلقائياً إلى موديل آخر أو عرض آخر أو تأسيس آخر. اذكر التصنيف الذي يشترطه الاستشاري في طلب عرض السعر لنطابقه على الموديل المناسب.",
+            "en": "A rating belongs to the model at the width and foundation actually tested; it does not carry over to another model, width or foundation. State the rating your consultant requires in the quote request so we can match it to the right model."
+          },
+          "items": [
+            {
+              "standard": "PAS 68:2013",
+              "rating": "V/7500[N3]/80/90:-1.5/4.6",
+              "model": {
+                "ar": "RB3M1000CT — عرض الاختبار 3 م",
+                "en": "RB3M1000CT — 3 m tested width"
+              },
+              "certificateNo": "TC-12055-3532-19475-EN",
+              "lab": {
+                "ar": "crashtest-service.com GmbH — مونستر، ألمانيا",
+                "en": "crashtest-service.com GmbH — Münster, Germany"
+              },
+              "date": {
+                "ar": "12 نوفمبر 2020",
+                "en": "12 November 2020"
+              },
+              "file": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/certificate-tc-12055-3532-19475-en.pdf"
+            },
+            {
+              "standard": "IWA 14-1:2013",
+              "rating": "V/7200[N3C]/80/90:-0.9",
+              "model": {
+                "ar": "RB3M1000CT — عرض الاختبار 3 م",
+                "en": "RB3M1000CT — 3 m tested width"
+              },
+              "certificateNo": "TC-12055-3532-19475-EN",
+              "lab": {
+                "ar": "crashtest-service.com GmbH — مونستر، ألمانيا",
+                "en": "crashtest-service.com GmbH — Münster, Germany"
+              },
+              "date": {
+                "ar": "12 نوفمبر 2020",
+                "en": "12 November 2020"
+              },
+              "file": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/certificate-tc-12055-3532-19475-en.pdf"
+            },
+            {
+              "standard": {
+                "ar": "تقرير اختبار التصادم",
+                "en": "Crash-test report"
+              },
+              "rating": "",
+              "model": {
+                "ar": "RB3M1000CT",
+                "en": "RB3M1000CT"
+              },
+              "certificateNo": "",
+              "lab": {
+                "ar": "crashtest-service.com GmbH — مونستر، ألمانيا",
+                "en": "crashtest-service.com GmbH — Münster, Germany"
+              },
+              "date": {
+                "ar": "",
+                "en": ""
+              },
+              "file": "https://cdn.bestolex.com/bestolex/products/high-security-road-blocker-pas68/crash-test-report.pdf"
+            }
+          ]
+        }
       },
       {
         "id": "high-security-shallow-road-blocker",
@@ -6390,7 +6455,33 @@
             }
           ]
         },
-        "comparisonGroup": "road-blockers"
+        "comparisonGroup": "road-blockers",
+        "certificates": {
+          "note": {
+            "ar": "التصنيف يخص الموديل بعرضه وطريقة تأسيسه كما اختُبر فعلاً، ولا ينتقل تلقائياً إلى موديل آخر أو عرض آخر أو تأسيس آخر. اذكر التصنيف الذي يشترطه الاستشاري في طلب عرض السعر لنطابقه على الموديل المناسب.",
+            "en": "A rating belongs to the model at the width and foundation actually tested; it does not carry over to another model, width or foundation. State the rating your consultant requires in the quote request so we can match it to the right model."
+          },
+          "items": [
+            {
+              "standard": "PAS 68:2013",
+              "rating": "V/7500[N3]/80/90:-1.4/16.2",
+              "model": {
+                "ar": "RBS3MCT — عرض الاختبار 3 م",
+                "en": "RBS3MCT — 3 m tested width"
+              },
+              "certificateNo": "TC-12055-4574-19988-2-EN",
+              "lab": {
+                "ar": "crashtest-service.com GmbH — مونستر، ألمانيا",
+                "en": "crashtest-service.com GmbH — Münster, Germany"
+              },
+              "date": {
+                "ar": "19 يوليو 2023",
+                "en": "19 July 2023"
+              },
+              "file": "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/certificate-tc-12055-4574-19988-2-en.pdf"
+            }
+          ]
+        }
       },
       {
         "id": "road-blocker",

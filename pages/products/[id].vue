@@ -159,6 +159,53 @@
               </div>
             </div>
 
+              <!-- شهادات الاختبار: تظهر فقط للموديلات المدعومة بشهادة رسمية -->
+              <div v-if="product.certificates && product.certificates.items && product.certificates.items.length" class="mt-8">
+                <h3 class="font-display text-xl md:text-2xl font-bold text-[#191919] dark:text-white mb-4">
+                  {{ locale === 'ar' ? 'شهادات اختبار التصادم' : 'Crash-test certificates' }}
+                </h3>
+                <ul class="flex flex-col gap-3">
+                  <li
+                    v-for="(cert, idx) in product.certificates.items"
+                    :key="idx"
+                    class="bp border border-[#E1E3E3] dark:border-gray-700 p-4 md:p-5"
+                  >
+                    <div class="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
+                      <span class="font-bold text-[#191919] dark:text-white">{{ localized(cert.standard) }}</span>
+                      <a
+                        :href="cert.file"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        @click="trackCertificateDownload(cert)"
+                        class="inline-flex items-center gap-2 font-bold text-[#191919] dark:text-[#E99E05] underline decoration-[#E99E05] decoration-2 underline-offset-4"
+                      >
+                        {{ locale === 'ar' ? 'تحميل الشهادة (PDF)' : 'Download the certificate (PDF)' }}
+                      </a>
+                    </div>
+                    <p v-if="cert.rating" class="bp-num mt-2 text-[#333434] dark:text-gray-200"><bdi>{{ cert.rating }}</bdi></p>
+                    <dl class="mt-3 grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-1 text-sm text-[#6F7070] dark:text-gray-400">
+                      <div v-if="localized(cert.model)" class="flex gap-2">
+                        <dt class="font-bold">{{ locale === 'ar' ? 'الموديل' : 'Model' }}</dt>
+                        <dd class="bp-num"><bdi>{{ localized(cert.model) }}</bdi></dd>
+                      </div>
+                      <div v-if="cert.certificateNo" class="flex gap-2">
+                        <dt class="font-bold">{{ locale === 'ar' ? 'رقم الشهادة' : 'Certificate no.' }}</dt>
+                        <dd class="bp-num"><bdi>{{ cert.certificateNo }}</bdi></dd>
+                      </div>
+                      <div v-if="localized(cert.lab)" class="flex gap-2">
+                        <dt class="font-bold">{{ locale === 'ar' ? 'جهة الاختبار' : 'Test lab' }}</dt>
+                        <dd><bdi>{{ localized(cert.lab) }}</bdi></dd>
+                      </div>
+                      <div v-if="localized(cert.date)" class="flex gap-2">
+                        <dt class="font-bold">{{ locale === 'ar' ? 'تاريخ الاختبار' : 'Test date' }}</dt>
+                        <dd class="bp-num"><bdi>{{ localized(cert.date) }}</bdi></dd>
+                      </div>
+                    </dl>
+                  </li>
+                </ul>
+                <p class="bp-caption mt-3 text-[#6F7070] dark:text-gray-400">{{ localized(product.certificates.note) }}</p>
+              </div>
+
             <div v-if="product.features && product.features[locale]" class="w-full" :class="(product.specs && product.specs[locale]) ? 'lg:w-1/2' : ''">
               <h2 class="font-display text-2xl md:text-3xl font-bold text-[#191919] dark:text-white mb-5">{{ locale === 'ar' ? 'أهم المميزات' : 'Key Features' }}</h2>
               <ul class="flex flex-col gap-3">
@@ -552,6 +599,21 @@ const requestDatasheet = () => {
   form.value.message = form.value.message ? `${line}\n${form.value.message}` : line
   scrollToQuote()
   trackBrochureDownload()
+}
+
+// Certificate fields carry either a plain string or an { ar, en } pair.
+const localized = (v) => (v && typeof v === 'object' ? (v[locale.value] || v.ar || '') : (v || ''))
+
+const trackCertificateDownload = (cert) => {
+  try {
+    $fetch('/api/analytics/track', {
+      method: 'POST',
+      body: {
+        event_type: 'certificate_download',
+        target_name: `شهادة ${cert?.certificateNo || localized(cert?.standard)} — ${product.value?.name?.ar || ''}`
+      }
+    })
+  } catch (e) {}
 }
 
 const trackBrochureDownload = () => {
