@@ -225,8 +225,8 @@
 
             <!-- المنصة -->
             <figure class="m-0 flex-1 flex flex-col gap-4">
-              <div class="relative border border-[#4A4B4B] bg-[#101010] overflow-hidden">
-                <span aria-hidden="true" class="bp-num font-display absolute top-2 left-5 font-extrabold text-[92px] md:text-[132px] leading-none text-white/[0.06]" dir="ltr">{{ String(activePart + 1).padStart(2, '0') }}</span>
+              <div class="relative border border-[#4A4B4B] bg-[#F4F5F5] overflow-hidden">
+                <span aria-hidden="true" class="bp-num font-display absolute top-2 left-5 font-extrabold text-[92px] md:text-[132px] leading-none text-[#191919]/[0.07]" dir="ltr">{{ String(activePart + 1).padStart(2, '0') }}</span>
                 <NuxtImg
                   :key="activePart"
                   :src="partsList[activePart].image"
