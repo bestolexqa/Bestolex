@@ -56,7 +56,7 @@
         "en": "Is the standard road blocker crash-tested?"
       },
       "a": {
-        "ar": "لا. الموديلان المختبران وفق PAS 68، بعرض 3 م، هما مصد الطريق عالي الأمان RB3M1000CT والمصد السطحي عالي الأمان RBS3MCT، وتفاصيل شهادتيهما في المقال أعلاه.",
+        "ar": "لا. الموديلان المختبران وفق PAS 68، بعرض 3 م، هما مصد الطريق عالي الأمان RB3M1000CT والمصد عالي الأمان بحفرة ضحلة RBS3MCT، وتفاصيل شهادتيهما في المقال أعلاه.",
         "en": "No. The two models tested to PAS 68, at 3 m width, are the RB3M1000CT high-security road blocker and the RBS3MCT high-security shallow road blocker; their certificates are detailed above."
       }
     },
@@ -101,7 +101,7 @@
     {
       "id": "high-security-shallow-road-blocker",
       "name": {
-        "ar": "مصد طريق سطحي عالي الأمان",
+        "ar": "مصد طريق عالي الأمان بحفرة ضحلة",
         "en": "High Security Shallow Road Blocker"
       },
       "image": "https://cdn.bestolex.com/bestolex/products/high-security-shallow-road-blocker-pas68/1.png"
