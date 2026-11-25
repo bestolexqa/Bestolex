@@ -161,7 +161,7 @@
     },
     {
       "id": "dock-leveler-selection-guide",
-      "status": "planned",
+      "status": "published",
       "category": "أنظمة التحميل والمستودعات",
       "keyword": {
         "en": "dock leveler",
@@ -182,11 +182,13 @@
       "avoidOverlapWith": [
         "كيف ترفع منصات التحميل (Dock Levelers) كفاءة المستودعات والموانئ؟",
         "أرصفة التحميل الحديثة: نقطة الانطلاق نحو عمليات لوجستية أكثر كفاءة"
-      ]
+      ],
+      "publishedAt": "2026-11-25T21:00:00+03:00",
+      "file": "server/assets/blog/dock-leveler-selection-guide.json"
     },
     {
       "id": "turnstile-gate-selection-qatar",
-      "status": "planned",
+      "status": "published",
       "category": "الحماية المحيطية",
       "keyword": {
         "en": "turnstile gate",
@@ -204,7 +206,9 @@
       ],
       "avoidOverlapWith": [
         "كيف تساعد أنظمة التحكم في الدخول على تنظيم حركة الأفراد داخل المنشآت؟"
-      ]
+      ],
+      "publishedAt": "2026-11-25T21:05:00+03:00",
+      "file": "server/assets/blog/turnstile-gate-selection-qatar.json"
     },
     {
       "id": "goods-lift-vs-scissor-lift",
