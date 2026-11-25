@@ -256,6 +256,7 @@
 import { computed } from 'vue'
 import mockProducts from '@/data/products.json'
 import { REQUEST_TYPES, whatsappLink } from '~/utils/leads'
+import { trackLead } from '~/utils/track'
 
 const { locale } = useI18n()
 const localePath = useLocalePath()
@@ -339,6 +340,7 @@ const submitForm = async () => {
       }
     })
     
+    trackLead({ formName: 'contact', requestType: form.value.requestType, productId: form.value.productId })
     statusType.value = 'success'
     statusMessage.value = locale.value === 'ar' ? 'تم إرسال رسالتك بنجاح! سنتواصل معك قريباً.' : 'Your message has been sent successfully! We will contact you soon.'
     

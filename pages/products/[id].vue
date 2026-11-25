@@ -372,6 +372,7 @@ import { useI18n } from 'vue-i18n'
 import mockProducts from '@/data/products.json'
 import comparisons from '@/data/comparisons.json'
 import { REQUEST_TYPES, whatsappLink } from '~/utils/leads'
+import { trackLead } from '~/utils/track'
 
 const { locale } = useI18n()
 const localePath = useLocalePath()
@@ -508,6 +509,7 @@ const submitQuote = async () => {
       }
     })
     
+    trackLead({ formName: 'product_quote', requestType: form.value.requestType, productId: product.value?.id })
     statusType.value = 'success'
     statusMessage.value = locale.value === 'ar' ? 'تم إرسال طلب عرض السعر بنجاح! سنتواصل معك قريباً.' : 'Your quote request has been sent successfully! We will contact you soon.'
     form.value = emptyForm()
