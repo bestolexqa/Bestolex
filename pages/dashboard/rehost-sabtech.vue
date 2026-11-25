@@ -2,13 +2,13 @@
   <NuxtLayout name="dashboard">
     <div class="space-y-6 max-w-3xl">
       <div>
-        <h1 class="text-2xl font-black text-gray-900 dark:text-white">نقل ملفات ساب تك إلى سيرفرنا</h1>
+        <h1 class="text-2xl font-black text-gray-900 dark:text-white">نقل ملفات ساب تك إلى خادم الشركة</h1>
         <p class="text-sm text-gray-500 mt-2 leading-relaxed">
-          ينقل الصور والرسوم التقنية والكتيبات التي ما زالت تُحمّل من
+          ينقل الصور والرسوم التقنية والكتيبات التي ما زالت تُجلَب من
           <span dir="ltr" class="font-mono">sabtech.com.sa</span>
-          إلى مساحة الشركة
+          إلى خادم الشركة
           <span dir="ltr" class="font-mono">{{ info?.zone }}</span>،
-          فلا تبقى صفحة منتج معلّقة على بقاء موقع المصنّع أو ثبات مسارات ملفاته.
+          فلا تبقى صفحة منتج مرتهنة ببقاء موقع المصنّع أو ثبات مسارات ملفاته.
           التشغيل آمن ويمكن تكراره: الملف الموجود مسبقاً يُتخطّى.
         </p>
       </div>
@@ -17,7 +17,7 @@
         <div class="bg-white dark:bg-gray-800 p-4 rounded-2xl border border-gray-100 dark:border-gray-700">
           <div class="text-xs font-bold text-gray-400 mb-1">إجمالي الملفات</div>
           <div class="text-2xl font-black text-gray-900 dark:text-white">{{ info.total }}</div>
-          <div class="text-[11px] text-gray-400 mt-1">{{ info.products }} منتجاً</div>
+          <div class="text-[11px] text-gray-400 mt-1">عدد المنتجات: {{ info.products }}</div>
         </div>
         <div class="bg-white dark:bg-gray-800 p-4 rounded-2xl border border-gray-100 dark:border-gray-700">
           <div class="text-xs font-bold text-gray-400 mb-1">نُقلت</div>
@@ -35,9 +35,10 @@
 
       <div v-if="info" class="text-xs text-gray-500 flex flex-wrap gap-x-5 gap-y-1">
         <span>رسوم تقنية: <strong>{{ info.drawings }}</strong></span>
+        <span>شهادات: <strong>{{ info.certificates }}</strong></span>
         <span>صور مكونات: <strong>{{ info.components }}</strong></span>
-        <span>كتيبات PDF: <strong>{{ info.brochures }}</strong></span>
-        <span>صور منتجات: <strong>{{ info.other }}</strong></span>
+        <span>ملفات PDF: <strong>{{ info.pdfs }}</strong></span>
+        <span>صور: <strong>{{ info.images }}</strong></span>
       </div>
 
       <div v-if="info && !info.keyConfigured" class="p-4 rounded-2xl bg-red-50 text-red-800 text-sm font-bold">
@@ -59,7 +60,7 @@
           :disabled="running"
           @click="run('verify')"
         >
-          {{ running && mode === 'verify' ? 'جارٍ التحقق…' : 'تحقّق من الكل' }}
+          {{ running && mode === 'verify' ? 'جارٍ التحقق…' : 'تحقّق من جميع الملفات' }}
         </button>
         <button
           v-if="running"
@@ -77,7 +78,7 @@
       </div>
 
       <div v-if="failed.length" class="space-y-2">
-        <h2 class="font-bold text-red-700">ملفات فشلت</h2>
+        <h2 class="font-bold text-red-700">الملفات التي فشلت</h2>
         <ul class="text-xs font-mono bg-red-50 rounded-xl p-4 space-y-1 max-h-72 overflow-auto" dir="ltr">
           <li v-for="f in failed" :key="f.path">{{ f.path }} — {{ f.detail }}</li>
         </ul>
@@ -85,8 +86,8 @@
 
       <div v-if="done" class="p-4 rounded-2xl bg-green-50 text-green-800 text-sm font-bold">
         {{ mode === 'verify' ? 'انتهى التحقق.' : 'انتهى النقل.' }}
-        الملفات الآن على <span dir="ltr" class="font-mono">{{ info?.cdnHost }}</span>،
-        وبعدها تُستبدل الروابط في بيانات المنتجات.
+        الملفات الآن على <span dir="ltr" class="font-mono">{{ info?.cdnHost }}</span>.
+        الخطوة التالية: استبدال الروابط في بيانات المنتجات.
       </div>
     </div>
   </NuxtLayout>
@@ -98,7 +99,8 @@ useHead({ title: 'نقل ملفات ساب تك' })
 
 type Info = {
   zone: string, cdnHost: string, keyConfigured: boolean, total: number,
-  products: number, drawings: number, components: number, brochures: number, other: number
+  products: number, drawings: number, components: number, brochures: number,
+  datasheets: number, certificates: number, pdfs: number, images: number
 }
 type Failure = { path: string, detail?: string }
 
@@ -135,7 +137,7 @@ async function run(which: 'copy' | 'verify' = 'copy') {
     while (!stop.value) {
       const res = await $fetch<any>('/api/admin/rehost-sabtech', {
         method: 'POST',
-        body: { offset, limit: which === 'verify' ? 20 : 8, mode: which }
+        body: { offset, limit: which === 'verify' ? 20 : 3, mode: which }
       })
       offset = res.nextOffset
       processed.value = offset
@@ -145,6 +147,8 @@ async function run(which: 'copy' | 'verify' = 'copy') {
       if (res.failed?.length) failed.value.push(...res.failed)
       if (res.done) { done.value = true; break }
     }
+  } catch (e: any) {
+    failed.value.push({ path: `الدفعة عند ${offset}`, detail: String(e?.data?.statusMessage || e?.message || e) })
   } finally {
     running.value = false
   }

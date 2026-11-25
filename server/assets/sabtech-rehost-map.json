@@ -60,6 +60,11 @@
     "path": "bestolex/products/cardboard-plastic-baler-100/drawing-top-view.jpg"
   },
   {
+    "product": "cardboard-plastic-baler-100",
+    "source": "https://sabtech.com.sa/wp-content/uploads/2019/05/sabtech2.png",
+    "path": "bestolex/products/cardboard-plastic-baler-100/warranty.png"
+  },
+  {
     "product": "cardboard-plastic-baler-200",
     "source": "https://sabtech.com.sa/wp-content/uploads/2019/04/image-3.png",
     "path": "bestolex/products/cardboard-plastic-baler-200/component-material-chamber.png"

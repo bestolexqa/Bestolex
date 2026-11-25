@@ -1,17 +1,26 @@
-import { assets, NEW_STORAGE_ZONE, NEW_CDN_HOST } from '~~/server/utils/sabtechRehost'
+import { isAdminRequest } from '~~/server/utils/adminAuth'
+import { assets, SABTECH_STORAGE_ZONE, SABTECH_CDN_HOST } from '~~/server/utils/sabtechRehost'
 
-export default defineEventHandler(() => {
+export default defineEventHandler((event) => {
+  // The admin guard middleware covers this; the check is repeated here so a
+  // change to that allow-list cannot open the endpoint silently.
+  if (!isAdminRequest(event)) throw createError({ statusCode: 401, statusMessage: 'Unauthorized' })
   const list = assets()
-  const byKind = (prefix: string) => list.filter(a => a.path.split('/').pop()!.startsWith(prefix)).length
+  const name = (p: string) => p.split('/').pop()!
+  const byKind = (prefix: string) => list.filter(a => name(a.path).startsWith(prefix)).length
+  const pdfs = list.filter(a => name(a.path).endsWith('.pdf')).length
   return {
     total: list.length,
-    zone: NEW_STORAGE_ZONE,
-    cdnHost: NEW_CDN_HOST,
+    zone: SABTECH_STORAGE_ZONE,
+    cdnHost: SABTECH_CDN_HOST,
     keyConfigured: Boolean(process.env.BUNNY_NEW_STORAGE_KEY),
     products: new Set(list.map(a => a.product)).size,
     drawings: byKind('drawing-'),
     components: byKind('component-'),
     brochures: byKind('brochure'),
-    other: list.length - byKind('drawing-') - byKind('component-') - byKind('brochure')
+    datasheets: byKind('datasheet'),
+    certificates: byKind('certificate') + byKind('crash'),
+    pdfs,
+    images: list.length - pdfs
   }
 })

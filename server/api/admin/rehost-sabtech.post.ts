@@ -1,4 +1,5 @@
-import { assets, copyOne, verifyOne, type RehostResult } from '~~/server/utils/sabtechRehost'
+import { isAdminRequest } from '~~/server/utils/adminAuth'
+import { assets, copySabtechOne, verifySabtechOne, type RehostResult } from '~~/server/utils/sabtechRehost'
 
 /**
  * Copies or verifies one batch of the sabtech.com.sa assets. The dashboard page
@@ -7,10 +8,13 @@ import { assets, copyOne, verifyOne, type RehostResult } from '~~/server/utils/s
  * unless force is set.
  */
 export default defineEventHandler(async (event) => {
+  if (!isAdminRequest(event)) throw createError({ statusCode: 401, statusMessage: 'Unauthorized' })
   const body = await readBody<{ offset?: number, limit?: number, force?: boolean, mode?: 'copy' | 'verify' }>(event) || {}
   const offset = Math.max(0, Number(body.offset) || 0)
   const mode = body.mode === 'verify' ? 'verify' : 'copy'
-  const limit = Math.min(25, Math.max(1, Number(body.limit) || (mode === 'verify' ? 20 : 8)))
+  // Three files a batch: a certificate is 2.2 MB and each file costs an
+  // existence check, a download and an upload in series.
+  const limit = Math.min(mode === 'verify' ? 20 : 5, Math.max(1, Number(body.limit) || (mode === 'verify' ? 20 : 3)))
   const force = body.force === true
 
   const list = assets()
@@ -18,7 +22,7 @@ export default defineEventHandler(async (event) => {
 
   const results: RehostResult[] = []
   for (const a of slice) {
-    results.push(mode === 'verify' ? await verifyOne(a) : await copyOne(a, force))
+    results.push(mode === 'verify' ? await verifySabtechOne(a) : await copySabtechOne(a, force))
   }
 
   return {

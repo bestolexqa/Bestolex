@@ -473,7 +473,8 @@ const blogCategories = computed(() => {
       found.delete(c.name_ar)
     }
   }
-  for (const hit of found.values()) ordered.push(hit)
+  // Anything outside the fixed five is a stale dashboard name; it does not
+  // belong in the site's main navigation.
   return ordered.length ? ordered : (fetchedCategories.value || [])
 })
 

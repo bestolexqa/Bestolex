@@ -140,7 +140,7 @@ const currentTitle = computed(() => {
   if (route.path.startsWith('/dashboard/blog')) return 'إدارة المدونة والمقالات'
   if (route.path.startsWith('/dashboard/quotes')) return 'طلبات عروض الأسعار والمواعيد'
   if (route.path.startsWith('/dashboard/analytics')) return 'تقارير التحميلات والتفاعل'
-  if (route.path.startsWith('/dashboard/rehost-sabtech')) return 'نقل ملفات ساب تك إلى سيرفرنا'
+  if (route.path.startsWith('/dashboard/rehost-sabtech')) return 'نقل ملفات ساب تك إلى خادم الشركة'
   return 'لوحة التحكم'
 })
 

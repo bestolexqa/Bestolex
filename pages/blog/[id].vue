@@ -176,10 +176,13 @@ const { data: dynamicArticle } = await useFetch(() => `/api/blog/${route.params.
 
 const article = computed(() => {
   if (dynamicArticle.value && (dynamicArticle.value.title || dynamicArticle.value.title_ar)) return dynamicArticle.value
-  return mockArticles.find(a => a.id === articleId.value || a.slug === articleId.value)
+  // data/articles.json carries cards without bodies, so a card alone must not
+  // stand in for an article: an empty body would render a soft 200.
+  const card = mockArticles.find(a => a.id === articleId.value || a.slug === articleId.value)
+  return (card && (card.content || card.content_ar)) ? card : undefined
 })
 
-// Unknown article slugs must return a real 404 (not a soft 200 page).
+// Unknown article slugs, and cards with no body, must return a real 404.
 if (!article.value) {
   throw createError({ statusCode: 404, statusMessage: 'Article not found', fatal: true })
 }
