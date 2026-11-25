@@ -20,6 +20,8 @@
               <li aria-hidden="true">/</li>
               <li><NuxtLink :to="localePath('/products')" class="hover:text-[#191919] dark:hover:text-white transition">{{ locale === 'ar' ? 'المنتجات' : 'Products' }}</NuxtLink></li>
               <li aria-hidden="true">/</li>
+              <li v-if="categoryInfo"><NuxtLink :to="localePath(`/products/category/${categoryInfo.id}`)" class="hover:text-[#191919] dark:hover:text-white transition">{{ categoryInfo.title }}</NuxtLink></li>
+              <li v-if="categoryInfo" aria-hidden="true">/</li>
               <li aria-current="page" class="font-bold text-[#191919] dark:text-white">{{ product.name[locale] }}</li>
             </ol>
           </nav>
@@ -34,9 +36,9 @@
             <!-- النص والأرقام -->
             <div class="w-full lg:w-1/2 flex flex-col gap-6">
               <div>
-                <span class="inline-block text-sm font-bold text-[#191919] dark:text-[#E99E05] bg-[#FFF1D4] dark:bg-transparent dark:border dark:border-[#E99E05]/60 rounded-md px-3 py-1.5">
-                  {{ product.categoryTitle?.[locale] || categoryName }}
-                </span>
+                <NuxtLink v-if="categoryInfo" :to="localePath(`/products/category/${categoryInfo.id}`)" class="inline-block text-sm font-bold text-[#191919] dark:text-[#E99E05] bg-[#FFF1D4] dark:bg-transparent dark:border dark:border-[#E99E05]/60 rounded-md px-3 py-1.5 hover:bg-[#E99E05] dark:hover:bg-[#E99E05] dark:hover:text-[#191919] transition">
+                  {{ categoryInfo.title }}
+                </NuxtLink>
               </div>
 
               <h1 class="font-display text-4xl md:text-5xl font-extrabold text-[#191919] dark:text-white leading-[1.15]">
@@ -48,8 +50,8 @@
               </p>
 
               <!-- كتل الأرقام: طبقة المخطط الفني -->
-              <div v-if="heroFigures.length" class="bp grid" :class="heroFigures.length > 2 ? 'grid-cols-3' : 'grid-cols-2'">
-                <div v-for="(fig, i) in heroFigures" :key="i" class="px-4 py-3 border-s border-s-[#191919] dark:border-s-[#6F7070] first:border-s-0">
+              <div v-if="heroFigures.length" class="bp grid grid-cols-1" :class="heroFigures.length > 2 ? 'sm:grid-cols-3' : (heroFigures.length > 1 ? 'sm:grid-cols-2' : '')">
+                <div v-for="(fig, i) in heroFigures" :key="i" class="px-4 py-3 border-t sm:border-t-0 sm:border-s border-[#191919] dark:border-[#6F7070] first:border-t-0 sm:first:border-s-0">
                   <div class="text-xs text-[#5E5F5F] dark:text-gray-400">{{ fig.label }}</div>
                   <div class="bp-num font-display text-lg md:text-xl font-bold text-[#191919] dark:text-white mt-1">{{ fig.value }}</div>
                 </div>
@@ -117,7 +119,7 @@
                   class="w-14 h-14 md:w-16 md:h-16 bg-white rounded-lg overflow-hidden border p-1 transition"
                   :class="currentImageIndex === idx ? 'border-[#191919]' : 'border-[#E1E3E3] opacity-70 hover:opacity-100'"
                 >
-                  <NuxtImg :src="img" :alt="''" class="w-full h-full object-contain" format="webp" loading="lazy" />
+                  <NuxtImg :src="img" :alt="`${product.name[locale]} — ${idx + 1}`" sizes="64px" class="w-full h-full object-contain" format="webp" loading="lazy" />
                 </button>
               </div>
             </div>
@@ -150,7 +152,7 @@
                   <tbody>
                     <tr v-for="(spec, idx) in product.specs[locale]" :key="idx">
                       <th scope="row" class="font-bold text-[#191919] dark:text-white w-1/2">{{ spec.label }}</th>
-                      <td class="bp-num text-[#333434] dark:text-gray-200">{{ spec.value }}</td>
+                      <td class="bp-num text-[#333434] dark:text-gray-200"><bdi>{{ spec.value }}</bdi></td>
                     </tr>
                   </tbody>
                 </table>
@@ -226,12 +228,15 @@
             <!-- المنصة -->
             <figure class="m-0 flex-1 flex flex-col gap-4">
               <div class="relative border border-[#4A4B4B] bg-[#F4F5F5] overflow-hidden">
-                <span aria-hidden="true" class="bp-num font-display absolute top-2 left-5 font-extrabold text-[92px] md:text-[132px] leading-none text-[#191919]/[0.07]" dir="ltr">{{ String(activePart + 1).padStart(2, '0') }}</span>
+                <span aria-hidden="true" class="bp-num font-display absolute top-2 start-5 font-extrabold text-[92px] md:text-[132px] leading-none text-[#191919]/[0.07]" dir="ltr">{{ String(activePart + 1).padStart(2, '0') }}</span>
                 <NuxtImg
-                  :key="activePart"
-                  :src="partsList[activePart].image"
-                  :alt="partsList[activePart].label[locale]"
-                  class="parts-stage relative block w-full aspect-[4/3] object-contain p-5 md:p-7"
+                  v-for="(part, idx) in partsList"
+                  v-show="activePart === idx"
+                  :key="idx"
+                  :src="part.image"
+                  :alt="part.label[locale]"
+                  :class="['relative block w-full aspect-[4/3] object-contain p-5 md:p-7', activePart === idx ? 'parts-stage' : '']"
+                  sizes="(max-width: 1024px) 100vw, 640px"
                   format="webp"
                   loading="lazy"
                 />
@@ -272,7 +277,7 @@
             <table class="min-w-[640px]">
               <thead>
                 <tr>
-                  <th></th>
+                  <th><span class="sr-only">{{ locale === 'ar' ? 'المواصفة' : 'Specification' }}</span></th>
                   <th v-for="(col, ci) in comparison.columns" :key="col" :class="col === product.id ? 'bg-[#E99E05]/15 !text-[#191919] dark:!text-white' : ''">
                     <span v-if="col === product.id">{{ comparison.columnLabels[ci][locale] }} ({{ locale === 'ar' ? 'هذا الموديل' : 'this model' }})</span>
                     <NuxtLink v-else :to="localePath(`/products/${col}`)" class="text-[#191919] dark:text-gray-200 underline decoration-[#E99E05] decoration-2 underline-offset-4">{{ comparison.columnLabels[ci][locale] }}</NuxtLink>
@@ -282,7 +287,7 @@
               <tbody>
                 <tr v-for="(row, ri) in comparison.rows" :key="ri">
                   <th scope="row" class="font-bold text-[#191919] dark:text-gray-200 whitespace-nowrap">{{ row.label[locale] }}</th>
-                  <td v-for="(val, vi) in row.values" :key="vi" class="bp-num text-[#333434] dark:text-gray-300" :class="comparison.columns[vi] === product.id ? 'bg-[#E99E05]/10 font-bold' : ''">{{ val[locale] }}</td>
+                  <td v-for="(val, vi) in row.values" :key="vi" class="bp-num text-[#333434] dark:text-gray-300" :class="comparison.columns[vi] === product.id ? 'bg-[#E99E05]/10 font-bold' : ''"><bdi>{{ val[locale] }}</bdi></td>
                 </tr>
               </tbody>
             </table>
@@ -350,7 +355,7 @@
               :to="localePath(`/blog/${art.id}`)"
               class="flex flex-col gap-3 bg-white dark:bg-gray-900 border border-[#E1E3E3] dark:border-gray-700 rounded-xl p-5 hover:border-[#191919] dark:hover:border-[#E99E05] transition"
             >
-              <span class="text-xs font-bold text-[#E99E05]">{{ art.category?.[locale] || art.category?.ar }}</span>
+              <span class="flex items-center gap-2 text-xs font-bold text-[#5E5F5F] dark:text-gray-400"><span aria-hidden="true" class="w-2 h-2 rounded-full bg-[#E99E05]"></span>{{ art.category?.[locale] || art.category?.ar }}</span>
               <span class="font-display text-lg font-bold leading-snug text-[#191919] dark:text-white">{{ art.title?.[locale] || art.title?.ar }}</span>
               <span class="text-sm text-[#5E5F5F] dark:text-gray-400 leading-relaxed">{{ art.desc?.[locale] || art.desc?.ar }}</span>
             </NuxtLink>
@@ -515,13 +520,9 @@ const setCurrentImage = (idx) => {
   resetCarousel()
 }
 
-const startCarousel = () => {
-  if (allImages.value.length > 1) {
-    carouselInterval = setInterval(() => {
-      currentImageIndex.value = (currentImageIndex.value + 1) % allImages.value.length
-    }, 3000)
-  }
-}
+// لا تبديل تلقائي: كان يسرق اختيار الزائر بعد ثلاث ثوانٍ، ويترك سطر الأبعاد
+// يصف صورة أخرى، ويجلب كل صور المنتج بعرض 1536 في أول نصف دقيقة.
+const startCarousel = () => {}
 
 const resetCarousel = () => {
   if (carouselInterval) clearInterval(carouselInterval)
@@ -669,16 +670,19 @@ const heroFigures = computed(() => {
   const stats = product.value?.stats?.[locale.value]
   if (stats && stats.length) return stats.slice(0, 3).map(s => ({ value: s.value, label: s.label }))
   const specs = product.value?.specs?.[locale.value] || []
-  // قيمة قصيرة تحمل رقماً، فتبقى الكتلة سطراً واحداً كما في النموذج
-  return specs
-    .filter(s => /\d/.test(s.value || '') && (s.value || '').length <= 14 && (s.label || '').length <= 18)
-    .slice(0, 3)
-    .map(s => ({ value: s.value, label: s.label }))
+  // مرشّح الطول كان يُسقط أهم رقم في الصفحة (ارتفاع المصد 24 حرفاً) ويعطي
+  // عدد كتل مختلفاً بين العربية والإنجليزية. الترتيب الآن بالأولوية لا بالطول.
+  const PRIORITY = /حمولة|طاقة|قوة|سعة|ارتفاع|عرض|طول|سرعة|قدرة|capacity|load|height|width|speed|power/i
+  const usable = specs.filter(s => /\d/.test(s.value || '') && (s.value || '').length <= 26)
+  const ranked = [...usable].sort((a, b) => (PRIORITY.test(b.label || '') ? 1 : 0) - (PRIORITY.test(a.label || '') ? 1 : 0))
+  return ranked.slice(0, 3).map(s => ({ value: s.value, label: s.label }))
 })
 
 const dimensionSpec = computed(() => {
   const specs = product.value?.specs?.[locale.value] || []
-  const re = locale.value === 'ar' ? /أبعاد|مقاس/ : /dimension|size/i
+  const re = locale.value === 'ar'
+    ? /أبعاد|مقاس|ارتفاع|عرض|طول|سماكة|قطر/
+    : /dimension|size|height|width|length|thickness|diameter/i
   return specs.find(s => re.test(s.label || '')) || null
 })
 
@@ -737,7 +741,7 @@ useHead(() => ({
         '@type': 'Product',
         '@id': `${pageUrl.value}#product`,
         'name': productName.value || 'Bestolex Equipment',
-        'image': [...new Set([shareImage.value, ...(product.value?.images || [])])].slice(0, 6),
+        'image': [...new Set([shareImage.value, ...(product.value?.images || []), ...((product.value?.featureImages || []).map(f => f.image))])].slice(0, 12),
         'description': pageDesc.value,
         'url': pageUrl.value,
         'category': categoryInfo.value?.title || undefined,
