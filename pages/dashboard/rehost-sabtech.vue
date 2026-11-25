@@ -46,7 +46,7 @@
         <span>كتالوجات ساب تك المسحوبة: <strong>{{ info.withdrawnCount }}</strong></span>
       </div>
 
-      <div class="p-4 rounded-2xl bg-amber-50 dark:bg-amber-900/20 text-amber-900 dark:text-amber-200 text-sm leading-relaxed">
+      <div v-if="info" class="p-4 rounded-2xl bg-amber-50 dark:bg-amber-900/20 text-amber-900 dark:text-amber-200 text-sm leading-relaxed">
         كتالوجات ساب تك وأوراق مواصفاتها لا تُستضاف عندنا ولا تُربط بأي منتج.
         زر «احذف كتالوجات ساب تك» يحذف الـ{{ info.withdrawnCount }} ملفاً منها من الخادم،
         وتشغيله مكرراً آمن: الملف المحذوف أصلاً يُحتسب منجزاً.
