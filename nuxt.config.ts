@@ -81,6 +81,14 @@ export default defineNuxtConfig({
     ]
   },
   runtimeConfig: {
+    // Lead delivery over the company's own Zoho mailbox. SMTP_PASS is a Zoho
+    // app password, set in Vercel only. The GMAIL_* pair is the old transport,
+    // kept as a fallback; it was never configured, which is why leads were lost.
+    smtpHost: process.env.SMTP_HOST || 'smtp.zoho.com',
+    smtpPort: process.env.SMTP_PORT || '465',
+    smtpUser: process.env.SMTP_USER,
+    smtpPass: process.env.SMTP_PASS,
+    leadsTo: process.env.LEADS_TO,
     gmailUser: process.env.GMAIL_USER,
     gmailPass: process.env.GMAIL_PASS,
     bunnyStorageZoneName: process.env.BUNNY_STORAGE_ZONE_NAME || 'bestolex-products',

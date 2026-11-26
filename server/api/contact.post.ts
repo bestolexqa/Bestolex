@@ -1,5 +1,5 @@
-import nodemailer from 'nodemailer'
 import { useServerSupabase } from '~~/server/utils/supabase'
+import { isMailConfigured, leadRecipients, sendLeadMail } from '~~/server/utils/leadMailer'
 import { REQUEST_TYPES, requestTypeLabel } from '~~/utils/leads'
 
 // Receives the product quote form and the contact form.
@@ -12,7 +12,7 @@ const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
 
 export default defineEventHandler(async (event) => {
   const body = (await readBody(event)) || {}
-  const config = useRuntimeConfig()
+  // config is read inside the mailer now
   const supabase = useServerSupabase()
 
   const lead = {
@@ -51,6 +51,7 @@ export default defineEventHandler(async (event) => {
   ].filter(Boolean) as string[]
   const storedMessage = [lead.message, extraLines.join('\n')].filter(Boolean).join('\n\n')
 
+  let stored = false
   if (supabase) {
     try {
       await supabase.from('quote_requests').insert([{
@@ -66,6 +67,7 @@ export default defineEventHandler(async (event) => {
         is_quote_request: isQuote,
         status: 'new'
       }])
+      stored = true
     } catch (dbErr) {
       console.warn('Supabase quote insertion error:', dbErr)
     }
@@ -131,26 +133,39 @@ export default defineEventHandler(async (event) => {
   console.log('Subject:', subject)
   console.log(plainText)
 
-  if (config.gmailUser && config.gmailPass) {
+  // A lead counts as received only once it is in the mailbox or in the
+  // database. Answering "sent" on a failure is what lost every request
+  // until 26 Nov 2026, so the handler now fails loudly instead.
+  let mailError: unknown = null
+  if (isMailConfigured()) {
     try {
-      const transporter = nodemailer.createTransport({
-        service: 'gmail',
-        auth: { user: config.gmailUser, pass: config.gmailPass }
-      })
-      const info = await transporter.sendMail({
-        from: config.gmailUser,
-        to: config.gmailUser,
-        ...(lead.email ? { replyTo: lead.email } : {}),
+      const messageId = await sendLeadMail({
         subject,
         text: plainText,
-        html: htmlContent
+        html: htmlContent,
+        replyTo: lead.email || undefined
       })
-      return { success: true, messageId: info.messageId }
+      console.log(`[lead] delivered to ${leadRecipients()} (${messageId})`)
+      return { success: true, messageId, stored }
     } catch (error) {
-      console.error('Error sending email via Nodemailer:', error)
-      return { success: true, warning: 'Logged to console fallback', error: String(error) }
+      mailError = error
+      console.error('[lead] SMTP delivery failed:', error)
     }
+  } else {
+    console.error('[lead] SMTP is not configured; no mail was sent')
   }
 
-  return { success: true, devMode: true, message: 'Request logged successfully' }
+  if (stored) {
+    // The mailbox is down but the request is safe in the database.
+    return { success: true, stored: true, mailDelivered: false }
+  }
+
+  throw createError({
+    statusCode: 502,
+    statusMessage: 'Lead could not be delivered',
+    data: {
+      reason: mailError ? 'smtp_failed' : 'smtp_not_configured',
+      detail: mailError ? String(mailError) : 'SMTP_USER / SMTP_PASS are not set'
+    }
+  })
 })
