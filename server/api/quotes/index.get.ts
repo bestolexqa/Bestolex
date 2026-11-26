@@ -1,4 +1,4 @@
-import { useSupabaseAdmin } from '~~/server/utils/supabase'
+import { useSupabaseAdmin, adminKeyProblem } from '~~/server/utils/supabase'
 
 // Admin-only: server/middleware/admin-guard.ts denies this route without a session.
 // Reads go through the service-role client because RLS hides the rows from the
@@ -10,7 +10,7 @@ export default defineEventHandler(async () => {
     throw createError({
       statusCode: 503,
       statusMessage: 'Supabase admin key is not configured',
-      data: { reason: 'missing_service_role_key', detail: 'Set SUPABASE_SERVICE_ROLE_KEY in Vercel' }
+      data: { reason: 'missing_service_role_key', problem: adminKeyProblem(), detail: 'Set SUPABASE_SERVICE_ROLE_KEY in Vercel' }
     })
   }
 
