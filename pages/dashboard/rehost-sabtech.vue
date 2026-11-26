@@ -43,13 +43,14 @@
         <span>صور مكونات: <strong>{{ info.components }}</strong></span>
         <span>ملفات PDF: <strong>{{ info.pdfs }}</strong></span>
         <span>صور: <strong>{{ info.images }}</strong></span>
-        <span>كتالوجات ساب تك المسحوبة: <strong>{{ info.withdrawnCount }}</strong></span>
+        <span>ملفات ساب تك المسحوبة: <strong>{{ info.withdrawnCount }}</strong></span>
       </div>
 
-      <div class="p-4 rounded-2xl bg-amber-50 dark:bg-amber-900/20 text-amber-900 dark:text-amber-200 text-sm leading-relaxed">
-        كتالوجات ساب تك وأوراق مواصفاتها لا تُستضاف عندنا ولا تُربط بأي منتج.
-        زر «احذف كتالوجات ساب تك» يحذف الـ{{ info.withdrawnCount }} ملفاً منها من الخادم،
+      <div v-if="info" class="p-4 rounded-2xl bg-amber-50 dark:bg-amber-900/20 text-amber-900 dark:text-amber-200 text-sm leading-relaxed">
+كتيّبات ساب تك وأوراق مواصفاتها وشهادتا اختبار التصادم لا تُستضاف عندنا ولا تُربط بأي منتج.
+        زر «احذف ملفات ساب تك» يحذف الـ{{ info.withdrawnCount }} ملفاً منها من الخادم،
         وتشغيله مكرراً آمن: الملف المحذوف أصلاً يُحتسب منجزاً.
+        التصنيف ورقم الشهادة والمختبر تبقى مكتوبة في صفحة المنتج، وتُرسل نسخة الشهادة مع العرض الفني عند الطلب.
       </div>
 
       <div v-if="info && !info.keyConfigured" class="p-4 rounded-2xl bg-red-50 text-red-800 text-sm font-bold">
@@ -79,7 +80,7 @@
           :disabled="running || !info?.keyConfigured"
           @click="run('purge')"
         >
-          {{ running && mode === 'purge' ? 'جارٍ الحذف…' : 'احذف كتالوجات ساب تك' }}
+          {{ running && mode === 'purge' ? 'جارٍ الحذف…' : 'احذف ملفات ساب تك' }}
         </button>
         <button
           v-if="running"
@@ -105,7 +106,7 @@
 
       <div v-if="done" class="p-4 rounded-2xl bg-green-50 text-green-800 text-sm font-bold">
         <template v-if="mode === 'purge'">
-          انتهى الحذف. كتالوجات ساب تك وأوراق مواصفاتها لم تبقَ على خادمنا.
+          انتهى الحذف. ملفات ساب تك المسحوبة لم تبقَ على خادمنا.
         </template>
         <template v-else>
           {{ mode === 'verify' ? 'انتهى التحقق.' : 'انتهى النقل.' }}

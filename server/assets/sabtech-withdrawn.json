@@ -153,5 +153,20 @@
     "product": "wheelchair-lift",
     "source": "https://sabtech.com.sa/wp-content/uploads/2020/07/WheelChair-Lift.pdf",
     "path": "bestolex/products/wheelchair-lift/brochure.pdf"
+  },
+  {
+    "product": "high-security-road-blocker",
+    "source": "https://sabtech.com.sa/wp-content/uploads/2020/12/Certificate_TC_12055_3532_19475-EN-signed.pdf",
+    "path": "bestolex/products/high-security-road-blocker-pas68/certificate-tc-12055-3532-19475-en.pdf"
+  },
+  {
+    "product": "high-security-road-blocker",
+    "source": "https://sabtech.com.sa/wp-content/uploads/2020/12/Crash-tested-Roadblocker14.pdf",
+    "path": "bestolex/products/high-security-road-blocker-pas68/crash-test-report.pdf"
+  },
+  {
+    "product": "high-security-shallow-road-blocker",
+    "source": "https://sabtech.com.sa/wp-content/uploads/2023/09/Certificate_TC_12055-4574-19988-2-EN-signed-Test-Report.pdf",
+    "path": "bestolex/products/high-security-shallow-road-blocker-pas68/certificate-tc-12055-4574-19988-2-en.pdf"
   }
 ]
