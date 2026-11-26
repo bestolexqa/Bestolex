@@ -129,8 +129,12 @@ export default defineNuxtConfig({
         { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
         { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' },
         { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Changa:wght@500;600;700;800&family=Tajawal:wght@300;400;500;700;800;900&display=swap' },
-        // Light icon set (item 30): ICO 16/32/48 (3 KB) instead of the 47 KB logo, plus app icons and a manifest
-        { rel: 'icon', href: '/favicon.ico', sizes: '48x48' },
+        // Icons drawn from the brand's own Logo/Icon/icon.svg (Illustrator paths, #E99E05 and #6F7070).
+        // The BX mark is 2.5:1, so at a 16 px tab it collapses to a 6 px smear: the ICO's 16 px frame
+        // carries the B alone and its 32/48 frames carry the full BX, and every larger icon is BX.
+        // Browsers that take the SVG render it at device resolution, where BX reads.
+        { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' },
+        { rel: 'icon', href: '/favicon.ico', sizes: '48x48 32x32 16x16' },
         { rel: 'icon', type: 'image/png', sizes: '192x192', href: '/icon-192.png' },
         { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' },
         { rel: 'manifest', href: '/site.webmanifest' }
