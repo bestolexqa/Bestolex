@@ -33,9 +33,13 @@ export function assets(): RehostAsset[] {
 }
 
 /**
- * SAB TECH's own brochures and datasheets. The owner's rule is that no SAB TECH
- * catalogue is hosted by us or attached to a product, so these are kept here as
- * the list to delete from the zone and never to copy again - not in assets().
+ * SAB TECH's own documents: brochures, datasheets and the crash-test
+ * certificates. The owner's rule is that no SAB TECH catalogue is hosted by us
+ * or attached to a product, and on 26 Nov he ruled the two certificates out of
+ * publication as well, so these are kept here as the list to delete from the
+ * zone and never to copy again - not in assets(). The compliance claim itself
+ * stays on the product page (rating, model, certificate number, lab); only the
+ * document is withheld, and a copy goes out with the technical proposal.
  */
 export function withdrawn(): RehostAsset[] {
   return withdrawnMap as RehostAsset[]
