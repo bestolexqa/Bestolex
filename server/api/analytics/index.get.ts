@@ -1,7 +1,7 @@
-import { useServerSupabase } from '~~/server/utils/supabase'
+import { useSupabaseAdmin } from '~~/server/utils/supabase'
 
 export default defineEventHandler(async (event) => {
-  const supabase = useServerSupabase()
+  const supabase = useSupabaseAdmin()
 
   if (supabase) {
     try {

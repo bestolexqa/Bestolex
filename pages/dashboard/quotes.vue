@@ -1,6 +1,16 @@
 <template>
   <NuxtLayout name="dashboard">
     <div class="space-y-6">
+
+      <!-- A failed read must never look like an empty table. -->
+      <div v-if="loadError" class="p-5 rounded-2xl border border-red-200 bg-red-50 text-red-800 dark:bg-red-900/20 dark:border-red-800 dark:text-red-200">
+        <div class="font-bold mb-1">تعذّرت قراءة الطلبات</div>
+        <p class="text-sm leading-relaxed">{{ loadError }}</p>
+        <button type="button" class="mt-3 px-4 h-10 rounded-xl bg-red-600 text-white font-bold text-sm" @click="loadData">
+          إعادة المحاولة
+        </button>
+      </div>
+
       
       <!-- Top Navigation Tabs (Quotes vs Appointments) -->
       <div class="flex flex-col sm:flex-row items-center justify-between gap-4 bg-white dark:bg-gray-800 p-6 rounded-3xl border border-gray-100 dark:border-gray-700 shadow-sm">
@@ -207,15 +217,23 @@ const appointments = ref([])
 const loading = ref(true)
 const selectedQuote = ref(null)
 
+const loadError = ref('')
+
 const loadData = async () => {
   loading.value = true
+  loadError.value = ''
   try {
     const res = await $fetch('/api/quotes')
-    if (res) {
-      quotes.value = res.quotes || []
-      appointments.value = res.appointments || []
-    }
+    quotes.value = res?.quotes || []
+    appointments.value = res?.appointments || []
   } catch (e) {
+    // Swallowing this is what made a blocked read look like an empty table.
+    const d = e?.data?.data || {}
+    loadError.value = d.reason === 'missing_service_role_key'
+      ? 'مفتاح الخدمة غير مضبوط في Vercel (SUPABASE_SERVICE_ROLE_KEY)، فلا يمكن قراءة الطلبات من قاعدة البيانات.'
+      : (d.detail || e?.data?.statusMessage || e?.message || 'خطأ غير معروف')
+    quotes.value = []
+    appointments.value = []
     console.error('Error fetching quotes:', e)
   } finally {
     loading.value = false
@@ -229,7 +247,9 @@ const updateStatus = async (id, status, type) => {
       body: { status, type }
     })
   } catch (err) {
+    loadError.value = 'تعذّر تحديث حالة الطلب: ' + (err?.data?.statusMessage || err?.message || '')
     console.error('Status update failed:', err)
+    throw err
   }
 }
 

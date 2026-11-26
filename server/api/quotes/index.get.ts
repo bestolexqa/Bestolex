@@ -1,32 +1,34 @@
-import { useServerSupabase } from '~~/server/utils/supabase'
+import { useSupabaseAdmin } from '~~/server/utils/supabase'
 
-export default defineEventHandler(async (event) => {
-  const supabase = useServerSupabase()
+// Admin-only: server/middleware/admin-guard.ts denies this route without a session.
+// Reads go through the service-role client because RLS hides the rows from the
+// anon key - silently, which is what made the dashboard look empty.
+export default defineEventHandler(async () => {
+  const supabase = useSupabaseAdmin()
 
-  if (supabase) {
-    try {
-      const { data: quotes } = await supabase
-        .from('quote_requests')
-        .select('*')
-        .order('created_at', { ascending: false })
-
-      const { data: appointments } = await supabase
-        .from('appointments')
-        .select('*')
-        .order('created_at', { ascending: false })
-
-      return {
-        quotes: quotes || [],
-        appointments: appointments || []
-      }
-    } catch (e) {
-      console.warn('Failed to fetch from Supabase quotes table:', e)
-    }
+  if (!supabase) {
+    throw createError({
+      statusCode: 503,
+      statusMessage: 'Supabase admin key is not configured',
+      data: { reason: 'missing_service_role_key', detail: 'Set SUPABASE_SERVICE_ROLE_KEY in Vercel' }
+    })
   }
 
-  // Real empty lists when no records exist
-  return {
-    quotes: [],
-    appointments: []
+  const [q, a] = await Promise.all([
+    supabase.from('quote_requests').select('*').order('created_at', { ascending: false }),
+    supabase.from('appointments').select('*').order('created_at', { ascending: false })
+  ])
+
+  // An empty list must mean an empty table, never a failed query.
+  const failure = q.error || a.error
+  if (failure) {
+    console.error('[quotes] read failed:', failure)
+    throw createError({
+      statusCode: 502,
+      statusMessage: 'Could not read the requests',
+      data: { detail: String(failure.message || failure) }
+    })
   }
+
+  return { quotes: q.data || [], appointments: a.data || [] }
 })
