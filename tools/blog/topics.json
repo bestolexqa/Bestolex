@@ -212,7 +212,7 @@
     },
     {
       "id": "goods-lift-vs-scissor-lift",
-      "status": "planned",
+      "status": "published",
       "category": "أنظمة التحميل والمستودعات",
       "keyword": {
         "en": "goods lift",
@@ -231,14 +231,16 @@
       "avoidOverlapWith": [
         "كيف تساهم حلول الرفع الذكية في تطوير كفاءة المستودعات والمنشآت متعددة الطوابق؟",
         "الرفع العمودي للمواد: مفتاح الكفاءة"
-      ]
+      ],
+      "publishedAt": "2026-11-26T07:00:00+03:00",
+      "file": "server/assets/blog/goods-lift-vs-scissor-lift.json"
     },
     {
       "id": "road-blocker-types-deep-shallow-surface",
-      "status": "planned",
+      "status": "published",
       "category": "الحماية المحيطية",
       "keyword": {
-        "en": "road blocker",
+        "en": "road blockers",
         "ar": "مصد طريق",
         "volume": 10,
         "kd": 0
@@ -256,7 +258,9 @@
       "avoidOverlapWith": [
         "كيف يمكن تأمين مداخل المنشآت دون الحاجة إلى أعمال حفر عميقة؟",
         "كيف تحمي المنشآت الحساسة مداخلها من دخول المركبات غير المصرح به؟"
-      ]
+      ],
+      "publishedAt": "2026-11-26T07:05:00+03:00",
+      "file": "server/assets/blog/road-blocker-types-deep-shallow-surface.json"
     },
     {
       "id": "waste-compactor-vs-baler",
