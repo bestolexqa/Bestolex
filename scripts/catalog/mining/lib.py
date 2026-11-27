@@ -28,15 +28,18 @@ def table(tid, label, key, cols, rows, intro=None, key_rows=None, code=None, uni
     A value is a str (same in both languages) or a (en, ar) tuple. unit: countUnit when the rows are
     lines, grades or groups rather than models."""
     models = []
-    for r in rows:
+    base = [r[0] or code for r in rows]
+    for r, bc in zip(rows, base):
         c, ne, na, *vals = r
         specs = {}
         for (k, _, _), v in zip(cols, vals):
             if v in (None, '', '–', '—'):
                 continue
             specs[k] = bi(*v) if isinstance(v, tuple) else bi(v)
-        # One table code for many models: add the model name so each column has its own id and v-for key.
-        mc = c or (f'{code} / {ne}' if code and len(rows) > 1 else code)
+        # Codes are verified one per product line in the supplier list; a code shared by several models
+        # gets the model name so each column has its own id and v-for key.
+        assert bc is None or re.fullmatch(r'BX-\d{4}-\d{2}-\d{3}', bc), f'not one verified code: {bc}'
+        mc = f'{bc} / {ne}' if bc and base.count(bc) > 1 else bc
         models.append({'code': mc, 'name': bi(ne, na or ne), 'specs': specs})
     # The page shows the count (countLabel); drop "N models · " from the key when N is the row count.
     ke, ka = key

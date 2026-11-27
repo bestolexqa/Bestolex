@@ -7,12 +7,12 @@ SERVICE_EN = ('We confirm the model from your site data, supply it with spare pa
 SERVICE_AR = ('نحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر '
               'والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.')
 
-FAQ_QUOTE = ('ما المطلوب لعرض السعر؟', 'What do you need for a quotation?',
-             'أرسل لنا الموديل أو كود BX من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت، ونرد بعرض مفصّل.',
-             'Send us the model or BX code from the table, the quantity, the delivery country and any site conditions, and we reply with a detailed offer.')
-FAQ_SHIP = ('هل تشحنون خارج قطر؟', 'Do you ship outside Qatar?',
-            'نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا، ونحدد طريقة الشحن والتسليم في عرض السعر.',
-            'Yes. We supply and ship to projects in the Middle East and Africa, and set the shipping and delivery terms in the quotation.')
+FAQ_QUOTE = ('ما المطلوب لعرض السعر، ومتى يصل؟', 'What do you need for a quotation, and when will it arrive?',
+             'أرسل لنا الموديل أو كود BX من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال 3 أيام عمل.',
+             'Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days.')
+FAQ_SHIP = ('هل تشحنون خارج قطر، وما شروط التصدير؟', 'Do you ship outside Qatar, and on what export terms?',
+            'نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر.',
+            'Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation.')
 
 P = []
 
