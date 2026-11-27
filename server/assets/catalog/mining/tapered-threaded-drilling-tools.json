@@ -1,0 +1,542 @@
+{
+  "id": "tapered-threaded-drilling-tools",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-03 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-03 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "taper",
+      "label": {
+        "en": "Taper / type",
+        "ar": "الميل / النوع"
+      }
+    },
+    {
+      "key": "dia",
+      "label": {
+        "en": "Diameter (mm)",
+        "ar": "القطر (مم)"
+      }
+    },
+    {
+      "key": "len",
+      "label": {
+        "en": "Length (mm)",
+        "ar": "الطول (مم)"
+      }
+    },
+    {
+      "key": "w",
+      "label": {
+        "en": "Weight (kg)",
+        "ar": "الوزن (كجم)"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    },
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    }
+  ],
+  "keyRows": [
+    "taper",
+    "dia",
+    "len"
+  ],
+  "types": [
+    {
+      "id": "tapered",
+      "label": {
+        "en": "Tapered drilling tools (H22 × 108 hex shank)",
+        "ar": "أدوات الحفر المخروطية (ساق سداسية ⁦H22 × 108⁩)"
+      },
+      "models": [
+        {
+          "code": "BX-0005-01-022 / Tapered button bits 12°",
+          "name": {
+            "en": "Tapered button bits 12°",
+            "ar": "لقم أزرار مخروطية ⁦12°⁩"
+          },
+          "specs": {
+            "taper": {
+              "en": "12°",
+              "ar": "⁦12°⁩"
+            },
+            "dia": {
+              "en": "28–41",
+              "ar": "⁦28–41⁩"
+            },
+            "w": {
+              "en": "0.21–0.45",
+              "ar": "⁦0.21–0.45⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-022 / Tapered button bits 7°",
+          "name": {
+            "en": "Tapered button bits 7°",
+            "ar": "لقم أزرار مخروطية ⁦7°⁩"
+          },
+          "specs": {
+            "taper": {
+              "en": "7°",
+              "ar": "⁦7°⁩"
+            },
+            "dia": {
+              "en": "32–40",
+              "ar": "⁦32–40⁩"
+            },
+            "w": {
+              "en": "0.32–0.46",
+              "ar": "⁦0.32–0.46⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-022 / Chisel bits",
+          "name": {
+            "en": "Chisel bits",
+            "ar": "لقم إزميلية"
+          },
+          "specs": {
+            "taper": {
+              "en": "Tapered",
+              "ar": "مخروطية"
+            },
+            "dia": {
+              "en": "20–45",
+              "ar": "⁦20–45⁩"
+            },
+            "len": {
+              "en": "60–80",
+              "ar": "⁦60–80⁩"
+            },
+            "w": {
+              "en": "0.15–0.45",
+              "ar": "⁦0.15–0.45⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-022 / Cross bits",
+          "name": {
+            "en": "Cross bits",
+            "ar": "لقم صليبية"
+          },
+          "specs": {
+            "taper": {
+              "en": "Tapered",
+              "ar": "مخروطية"
+            },
+            "dia": {
+              "en": "24–55",
+              "ar": "⁦24–55⁩"
+            },
+            "len": {
+              "en": "50–85",
+              "ar": "⁦50–85⁩"
+            },
+            "w": {
+              "en": "0.18–0.70",
+              "ar": "⁦0.18–0.70⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-022 / Tapered drill rods",
+          "name": {
+            "en": "Tapered drill rods",
+            "ar": "قضبان حفر مخروطية"
+          },
+          "specs": {
+            "taper": {
+              "en": "Hex 22 × 108 shank",
+              "ar": "ساق سداسية ⁦22 × 108⁩"
+            },
+            "len": {
+              "en": "914–6000",
+              "ar": "⁦914–6000⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Bits 20–55 mm",
+        "ar": "لقم ⁦20⁠–⁠55⁩ مم"
+      },
+      "keyRows": [
+        "dia",
+        "len",
+        "w"
+      ]
+    },
+    {
+      "id": "top-hammer",
+      "label": {
+        "en": "Threaded top-hammer tools for drill rigs",
+        "ar": "أدوات المطرقة العلوية الملولبة للحفارات"
+      },
+      "models": [
+        {
+          "code": "BX-0005-01-017",
+          "name": {
+            "en": "Threaded button bits",
+            "ar": "لقم أزرار ملولبة"
+          },
+          "specs": {
+            "data": {
+              "en": "For top-hammer drilling, flat-face and drop-centre styles",
+              "ar": "للحفر بالمطرقة العلوية، بوجه مسطّح أو منخفض المركز"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-018",
+          "name": {
+            "en": "Threaded drill rods",
+            "ar": "قضبان حفر ملولبة"
+          },
+          "specs": {
+            "data": {
+              "en": "Extension, speed and drifter rods",
+              "ar": "قضبان تمديد وسرعة وقضبان الأنفاق"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-019",
+          "name": {
+            "en": "Couplings",
+            "ar": "الجلب (الوصلات)"
+          },
+          "specs": {
+            "data": {
+              "en": "Full-bridge and half-bridge coupling sleeves",
+              "ar": "جلب بجسر كامل وبنصف جسر"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-020",
+          "name": {
+            "en": "Shank adapters",
+            "ar": "محولات الساق"
+          },
+          "specs": {
+            "data": {
+              "en": "For the main rock-drill and drifter makes",
+              "ar": "لأشهر طرازات المثاقب الصخرية ومثاقب الأنفاق"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-02-005",
+          "name": {
+            "en": "Drifting & tunnelling tools",
+            "ar": "أدوات حفر الممرات والأنفاق"
+          },
+          "specs": {
+            "data": {
+              "en": "R32, R38, T38",
+              "ar": "⁦R32, R38, T38⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-02-006",
+          "name": {
+            "en": "Bench drilling tools",
+            "ar": "أدوات الحفر المدرّج"
+          },
+          "specs": {
+            "data": {
+              "en": "T38, T45, T51",
+              "ar": "⁦T38, T45, T51⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-02-007",
+          "name": {
+            "en": "Tube drilling tools",
+            "ar": "أدوات الحفر الأنبوبي"
+          },
+          "specs": {
+            "data": {
+              "en": "Guide tubes and adapters",
+              "ar": "أنابيب توجيه ومحولات"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-023",
+          "name": {
+            "en": "Integral drill rods",
+            "ar": "قضبان حفر متكاملة"
+          },
+          "specs": {
+            "data": {
+              "en": "Chisel bit forged on rod",
+              "ar": "لقمة إزميلية مطروقة على القضيب"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-02-001",
+          "name": {
+            "en": "Integral drill steels",
+            "ar": "فولاذ الحفر المتكامل"
+          },
+          "specs": {
+            "data": {
+              "en": "For hand-held drills",
+              "ar": "للمثاقب اليدوية"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-02-002",
+          "name": {
+            "en": "Tapered drill rods",
+            "ar": "قضبان حفر مخروطية"
+          },
+          "specs": {
+            "data": {
+              "en": "For hand-held and air-leg drills",
+              "ar": "للمثاقب اليدوية وذات الساق الهوائية"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-02-003",
+          "name": {
+            "en": "Tapered button and chisel bits",
+            "ar": "لقم أزرار وإزميلية مخروطية"
+          },
+          "specs": {
+            "data": {
+              "en": "For hand-held and air-leg drills",
+              "ar": "للمثاقب اليدوية وذات الساق الهوائية"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "R32–T51",
+        "ar": "⁦R32–T51⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    },
+    {
+      "id": "additional",
+      "label": {
+        "en": "Top-hammer drilling tools – additional series",
+        "ar": "أدوات حفر المطرقة العلوية – سلاسل إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0085-01-001",
+          "name": {
+            "en": "Plug-hole and integral drill steels",
+            "ar": "فولاذ الحفر المتكامل وثقوب السدادات"
+          },
+          "specs": {
+            "models": {
+              "en": "H22 × 108 hex; series 11, 12, 13, 16, 17",
+              "ar": "سداسي ⁦H22 × 108⁩؛ السلاسل ⁦11⁩ و⁦12⁩ و⁦13⁩ و⁦16⁩ و⁦17⁩"
+            },
+            "data": {
+              "en": "22 mm hex; lengths 360–4000 mm; bit Ø 25–41 mm (chisel or button)",
+              "ar": "سداسي ⁦22⁩ مم؛ أطوال ⁦360⁠–⁠4000⁩ مم؛ قطر اللقمة ⁦25⁠–⁠41⁩ مم (إزميلية أو بأزرار)"
+            }
+          }
+        },
+        {
+          "code": "BX-0085-01-002",
+          "name": {
+            "en": "Tapered button bits 6°, 7°, 11°, 12°",
+            "ar": "لقم أزرار مخروطية ⁦6°⁩ و⁦7°⁩ و⁦11°⁩ و⁦12°⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "Hex 22",
+              "ar": "سداسي ⁦22⁩"
+            },
+            "data": {
+              "en": "From Ø 30 mm (6°); 2 front and 4–6 gauge buttons; front and side flushing",
+              "ar": "من قطر ⁦30⁩ مم (⁦6°⁩)؛ زرّان أماميان و⁦4⁠–⁠6⁩ أزرار جانبية؛ غسيل أمامي وجانبي"
+            }
+          }
+        },
+        {
+          "code": "BX-0085-01-003",
+          "name": {
+            "en": "Tapered drill rods 6°, 7°, 11°, 12°",
+            "ar": "قضبان حفر مخروطية ⁦6°⁩ و⁦7°⁩ و⁦11°⁩ و⁦12°⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "H22 × 108",
+              "ar": "⁦H22 × 108⁩"
+            },
+            "data": {
+              "en": "Lengths 800–4000 mm; 2.9–12.6 kg",
+              "ar": "أطوال ⁦800⁠–⁠4000⁩ مم؛ ⁦2.9⁠–⁠12.6⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0085-01-004",
+          "name": {
+            "en": "Threaded button bits for drifting and tunnelling",
+            "ar": "لقم أزرار ملولبة لحفر الممرات والأنفاق"
+          },
+          "specs": {
+            "models": {
+              "en": "H25, R23, R25, R28, R32, TR32, R33, TR35",
+              "ar": "⁦H25, R23, R25, R28, R32, TR32, R33, TR35⁩"
+            },
+            "data": {
+              "en": "7/8–1 3/8 in threads, including retrac bits",
+              "ar": "أسنان ⁦7/8⁠–⁠1 3/8⁩ بوصة، ومنها لقم ⁦retrac⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0085-01-006",
+          "name": {
+            "en": "Drifter rods, shank rods and MF rods",
+            "ar": "قضبان الأنفاق وقضبان الساق وقضبان ⁦MF⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "R25–TR35",
+              "ar": "⁦R25–TR35⁩"
+            },
+            "data": {
+              "en": "Hex, round and male-female (MF) rods for tunnelling",
+              "ar": "قضبان سداسية ومستديرة وذكر–أنثى (⁦MF⁩) لحفر الأنفاق"
+            }
+          }
+        },
+        {
+          "code": "BX-0085-01-007",
+          "name": {
+            "en": "Bench and long-hole button bits",
+            "ar": "لقم أزرار للحفر المدرّج والثقوب الطويلة"
+          },
+          "specs": {
+            "models": {
+              "en": "TA35, T38, T45, T51, ST58, GT60, MT60, ST68",
+              "ar": "⁦TA35, T38, T45, T51, ST58, GT60, MT60, ST68⁩"
+            },
+            "data": {
+              "en": "Standard, retrac and spiral-retrac bits and reaming bits; 1 3/8–2 11/16 in threads",
+              "ar": "لقم قياسية و⁦retrac⁩ و⁦retrac⁩ حلزونية ولقم توسيع؛ أسنان ⁦1 3/8⁠–⁠2 11/16⁩ بوصة"
+            }
+          }
+        },
+        {
+          "code": "BX-0085-01-008",
+          "name": {
+            "en": "Extension, MF and RDMF rods; guide and drill tubes",
+            "ar": "قضبان التمديد و⁦MF⁩ و⁦RDMF⁩؛ وأنابيب التوجيه والحفر"
+          },
+          "specs": {
+            "models": {
+              "en": "T38, T45, T51, ST58, GT60, MT60, ST68",
+              "ar": "⁦T38, T45, T51, ST58, GT60, MT60, ST68⁩"
+            },
+            "data": {
+              "en": "For bench and long-hole drilling",
+              "ar": "للحفر المدرّج والثقوب الطويلة"
+            }
+          }
+        },
+        {
+          "code": "BX-0085-01-009",
+          "name": {
+            "en": "Coupling sleeves",
+            "ar": "جلب الوصل"
+          },
+          "specs": {
+            "models": {
+              "en": "R25–ST68",
+              "ar": "⁦R25–ST68⁩"
+            },
+            "data": {
+              "en": "For every thread size above",
+              "ar": "لكل مقاسات الأسنان أعلاه"
+            }
+          }
+        },
+        {
+          "code": "BX-0085-01-011",
+          "name": {
+            "en": "Shank adapters",
+            "ar": "محولات الساق"
+          },
+          "specs": {
+            "models": {
+              "en": "R32–ST68 threads",
+              "ar": "أسنان ⁦R32–ST68⁩"
+            },
+            "data": {
+              "en": "For the main drifter makes, by make and model",
+              "ar": "لأشهر طرازات مثاقب الأنفاق، حسب الطراز والموديل"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "R23–ST68 · rods 360–4000 mm",
+        "ar": "⁦R23–ST68⁩ · قضبان ⁦360⁠–⁠4000⁩ مم"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

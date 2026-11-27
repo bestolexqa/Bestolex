@@ -1,0 +1,332 @@
+{
+  "id": "overburden-casing-systems",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-03 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-03 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "System",
+    "ar": "النظام"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "casing",
+      "label": {
+        "en": "Casing / model Ø (mm)",
+        "ar": "قطر التغليف / الموديل (مم)"
+      }
+    },
+    {
+      "key": "exp",
+      "label": {
+        "en": "Expanded bit Ø (mm)",
+        "ar": "قطر اللقمة المفتوحة (مم)"
+      }
+    },
+    {
+      "key": "wings",
+      "label": {
+        "en": "Wings",
+        "ar": "الأجنحة"
+      }
+    },
+    {
+      "key": "ham",
+      "label": {
+        "en": "Hammer",
+        "ar": "المطرقة"
+      }
+    }
+  ],
+  "keyRows": [
+    "casing",
+    "exp",
+    "wings"
+  ],
+  "types": [
+    {
+      "id": "systems",
+      "label": {
+        "en": "Overburden casing systems (drilling and casing in one pass)",
+        "ar": "أنظمة التغليف أثناء الحفر (حفر وتغليف في مرحلة واحدة)"
+      },
+      "models": [
+        {
+          "code": "BX-0005-01-004 / Concentric ring bit (P series)",
+          "name": {
+            "en": "Concentric ring bit (P series)",
+            "ar": "لقمة حلقية متحدة المركز (سلسلة ⁦P⁩)"
+          },
+          "specs": {
+            "casing": {
+              "en": "108–560",
+              "ar": "⁦108–560⁩"
+            },
+            "exp": {
+              "en": "118–580 (ring bit)",
+              "ar": "⁦118⁠–⁠580⁩ (لقمة حلقية)"
+            },
+            "ham": {
+              "en": "DHD3.5 to SD18 / NUMA180",
+              "ar": "⁦DHD3.5 to SD18 / NUMA180⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-004 / Eccentric, single reamer",
+          "name": {
+            "en": "Eccentric, single reamer",
+            "ar": "لامركزي، موسّع واحد"
+          },
+          "specs": {
+            "casing": {
+              "en": "89–323",
+              "ar": "⁦89–323⁩"
+            },
+            "exp": {
+              "en": "94–350",
+              "ar": "⁦94–350⁩"
+            },
+            "wings": {
+              "en": "1",
+              "ar": "1"
+            },
+            "ham": {
+              "en": "CIR76 to 8\"",
+              "ar": "من ⁦CIR76⁩ إلى ⁦8\"⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-004 / Eccentric, dual rotor",
+          "name": {
+            "en": "Eccentric, dual rotor",
+            "ar": "لامركزي، دوّاران"
+          },
+          "specs": {
+            "casing": {
+              "en": "89–323",
+              "ar": "⁦89–323⁩"
+            },
+            "exp": {
+              "en": "94–350",
+              "ar": "⁦94–350⁩"
+            },
+            "wings": {
+              "en": "2",
+              "ar": "2"
+            },
+            "ham": {
+              "en": "CIR76 to 8\"",
+              "ar": "من ⁦CIR76⁩ إلى ⁦8\"⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-004 / Eccentric, pressing five-piece",
+          "name": {
+            "en": "Eccentric, pressing five-piece",
+            "ar": "لامركزي، خماسي بالضغط"
+          },
+          "specs": {
+            "casing": {
+              "en": "108–323",
+              "ar": "⁦108–323⁩"
+            },
+            "exp": {
+              "en": "122–345",
+              "ar": "⁦122–345⁩"
+            },
+            "wings": {
+              "en": "2–3",
+              "ar": "⁦2–3⁩"
+            },
+            "ham": {
+              "en": "CIR90 to 8\"",
+              "ar": "من ⁦CIR90⁩ إلى ⁦8\"⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-004 / Eccentric, rotator five-piece",
+          "name": {
+            "en": "Eccentric, rotator five-piece",
+            "ar": "لامركزي، خماسي بالدوران"
+          },
+          "specs": {
+            "casing": {
+              "en": "108–323",
+              "ar": "⁦108–323⁩"
+            },
+            "exp": {
+              "en": "122–345",
+              "ar": "⁦122–345⁩"
+            },
+            "wings": {
+              "en": "2–3",
+              "ar": "⁦2–3⁩"
+            },
+            "ham": {
+              "en": "CIR90 to 8\"",
+              "ar": "من ⁦CIR90⁩ إلى ⁦8\"⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-004 / Eccentric, slide model",
+          "name": {
+            "en": "Eccentric, slide model",
+            "ar": "لامركزي، موديل منزلق"
+          },
+          "specs": {
+            "casing": {
+              "en": "190–1150",
+              "ar": "⁦190–1150⁩"
+            },
+            "exp": {
+              "en": "238–1245",
+              "ar": "⁦238–1245⁩"
+            },
+            "wings": {
+              "en": "2–6",
+              "ar": "⁦2–6⁩"
+            },
+            "ham": {
+              "en": "8\" to 33\"",
+              "ar": "من ⁦8\"⁩ إلى ⁦33\"⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-004 / Eccentric, ring model",
+          "name": {
+            "en": "Eccentric, ring model",
+            "ar": "لامركزي، موديل حلقي"
+          },
+          "specs": {
+            "casing": {
+              "en": "280–1150",
+              "ar": "⁦280–1150⁩"
+            },
+            "exp": {
+              "en": "345–1245",
+              "ar": "⁦345–1245⁩"
+            },
+            "wings": {
+              "en": "3–6",
+              "ar": "⁦3–6⁩"
+            },
+            "ham": {
+              "en": "10\" to 33\"",
+              "ar": "من ⁦10\"⁩ إلى ⁦33\"⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-004 / Eccentric, block model",
+          "name": {
+            "en": "Eccentric, block model",
+            "ar": "لامركزي، موديل الكتلة"
+          },
+          "specs": {
+            "casing": {
+              "en": "90–1150",
+              "ar": "⁦90–1150⁩"
+            },
+            "exp": {
+              "en": "125–1245",
+              "ar": "⁦125–1245⁩"
+            },
+            "wings": {
+              "en": "2–6",
+              "ar": "⁦2–6⁩"
+            },
+            "ham": {
+              "en": "3.5\" to 33\"",
+              "ar": "من ⁦3.5\"⁩ إلى ⁦33\"⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-004 / Thread casing (T38)",
+          "name": {
+            "en": "Thread casing (T38)",
+            "ar": "تغليف ملولب (⁦T38⁩)"
+          },
+          "specs": {
+            "casing": {
+              "en": "89–139",
+              "ar": "⁦89–139⁩"
+            },
+            "exp": {
+              "en": "101–154",
+              "ar": "⁦101–154⁩"
+            },
+            "wings": {
+              "en": "1",
+              "ar": "1"
+            },
+            "ham": {
+              "en": "T38 top hammer",
+              "ar": "مطرقة علوية ⁦T38⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-004 / Double casing (R56)",
+          "name": {
+            "en": "Double casing (R56)",
+            "ar": "تغليف مزدوج (⁦R56⁩)"
+          },
+          "specs": {
+            "casing": {
+              "en": "118–168 (casing OD)",
+              "ar": "⁦118⁠–⁠168⁩ (القطر الخارجي للتغليف)"
+            },
+            "exp": {
+              "en": "125–175 (hole)",
+              "ar": "⁦125⁠–⁠175⁩ (الثقب)"
+            },
+            "ham": {
+              "en": "R56 rods 73 mm",
+              "ar": "قضبان ⁦R56⁩ بقطر ⁦73⁩ مم"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Casing 89–1150 mm",
+        "ar": "تغليف ⁦89⁠–⁠1150⁩ مم"
+      },
+      "countUnit": {
+        "ar": [
+          "نوع واحد",
+          "نوعان",
+          "أنواع"
+        ],
+        "en": [
+          "type",
+          "types"
+        ]
+      },
+      "intro": {
+        "en": "The casing tube follows the bit down and stays in the hole, holding back loose overburden, sand and gravel.",
+        "ar": "ينزل أنبوب التغليف خلف اللقمة ويبقى في الثقب، فيمنع انهيار التربة السطحية المفككة والرمل والحصى."
+      },
+      "keyRows": [
+        "casing",
+        "exp",
+        "ham"
+      ]
+    }
+  ]
+}

@@ -32,7 +32,17 @@ const FAMILY_FILES: Record<string, string> = {
   'line-drilling-machines-compact-dth-drillers': 'catalog/mining/line-drilling-machines-compact-dth-drillers.json',
   'diamond-wire-saws': 'catalog/mining/diamond-wire-saws.json',
   'block-pushing-handling': 'catalog/mining/block-pushing-handling.json',
-  'mine-ventilation-fans-ground-support-mesh': 'catalog/mining/mine-ventilation-fans-ground-support-mesh.json'
+  'mine-ventilation-fans-ground-support-mesh': 'catalog/mining/mine-ventilation-fans-ground-support-mesh.json',
+  'dth-hammers-bits': 'catalog/mining/dth-hammers-bits.json',
+  'high-pressure-dth-bits': 'catalog/mining/high-pressure-dth-bits.json',
+  'low-medium-pressure-dth-tools': 'catalog/mining/low-medium-pressure-dth-tools.json',
+  'overburden-casing-systems': 'catalog/mining/overburden-casing-systems.json',
+  'dth-pipes-back-hammers-breakout-benches': 'catalog/mining/dth-pipes-back-hammers-breakout-benches.json',
+  'reverse-circulation-rc-tools': 'catalog/mining/reverse-circulation-rc-tools.json',
+  'tricone-pdc-core-drilling-tools': 'catalog/mining/tricone-pdc-core-drilling-tools.json',
+  'tapered-threaded-drilling-tools': 'catalog/mining/tapered-threaded-drilling-tools.json',
+  'button-bit-grinders': 'catalog/mining/button-bit-grinders.json',
+  'cutter-picks-additional-cir-hammers': 'catalog/mining/cutter-picks-additional-cir-hammers.json'
 }
 
 const cache = new Map<string, any>()

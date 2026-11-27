@@ -6,7 +6,7 @@ LRI, PDI = '⁦', '⁩'
 LATIN = re.compile(r'[A-Za-z0-9][A-Za-z0-9\s.,:;/×·+\-–≤≥<>±~°%()\'"#*]*[A-Za-z0-9°%"]|[A-Za-z0-9]')
 
 
-def iso(s):
+def _iso(s):
     """Wrap Latin/number runs in an Arabic string in isolates so they keep their order."""
     if not s:
         return s
@@ -18,6 +18,16 @@ def iso(s):
     s = s.replace(LRI, '').replace(PDI, '')
     return LATIN.sub(lambda m: f'{LRI}{m.group(0)}{PDI}', s)
 
+
+WJ = '\u2060'
+
+
+def iso(s):
+    """Isolate Latin/number runs in Arabic text; keep digit ranges (20–55) on one line."""
+    out = _iso(s)
+    if out and re.search(r'[\u0600-\u06FF]', out):
+        out = re.sub(r'(\d)–(\d)', rf'\1{WJ}–{WJ}\2', out)
+    return out
 
 def bi(en, ar=None):
     return {'en': en, 'ar': iso(ar if ar is not None else en)}

@@ -1,0 +1,385 @@
+{
+  "id": "tricone-pdc-core-drilling-tools",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-03 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-03 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "size_in",
+      "label": {
+        "en": "Bit size (in)",
+        "ar": "مقاس اللقمة (بوصة)"
+      }
+    },
+    {
+      "key": "size_mm",
+      "label": {
+        "en": "Bit size (mm)",
+        "ar": "مقاس اللقمة (مم)"
+      }
+    },
+    {
+      "key": "torque",
+      "label": {
+        "en": "Make-up torque (kN·m)",
+        "ar": "عزم الربط (كيلونيوتن·م)"
+      }
+    },
+    {
+      "key": "range",
+      "label": {
+        "en": "Range",
+        "ar": "المدى"
+      }
+    },
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "size_in",
+    "size_mm",
+    "torque"
+  ],
+  "types": [
+    {
+      "id": "tricone",
+      "label": {
+        "en": "Tricone bits – sizes and connections",
+        "ar": "اللقم ثلاثية المخاريط – المقاسات والوصلات"
+      },
+      "models": [
+        {
+          "code": "BX-0005-01-011 / API REG 2 3/8\"",
+          "name": {
+            "en": "API REG 2 3/8\"",
+            "ar": "⁦API REG 2 3/8\"⁩"
+          },
+          "specs": {
+            "size_in": {
+              "en": "3 3/4 – 4 1/2",
+              "ar": "⁦3 3/4 – 4 1/2⁩"
+            },
+            "size_mm": {
+              "en": "95.3–114.3",
+              "ar": "⁦95.3–114.3⁩"
+            },
+            "torque": {
+              "en": "4.1–4.7",
+              "ar": "⁦4.1–4.7⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-011 / API REG 2 7/8\"",
+          "name": {
+            "en": "API REG 2 7/8\"",
+            "ar": "⁦API REG 2 7/8\"⁩"
+          },
+          "specs": {
+            "size_in": {
+              "en": "4 5/8 – 4 7/8",
+              "ar": "⁦4 5/8 – 4 7/8⁩"
+            },
+            "size_mm": {
+              "en": "117.5–123.8",
+              "ar": "⁦117.5–123.8⁩"
+            },
+            "torque": {
+              "en": "6.1–7.5",
+              "ar": "⁦6.1–7.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-011 / API REG 3 1/2\"",
+          "name": {
+            "en": "API REG 3 1/2\"",
+            "ar": "⁦API REG 3 1/2\"⁩"
+          },
+          "specs": {
+            "size_in": {
+              "en": "5 1/2 – 6 3/4",
+              "ar": "⁦5 1/2 – 6 3/4⁩"
+            },
+            "size_mm": {
+              "en": "139.7–171.5",
+              "ar": "⁦139.7–171.5⁩"
+            },
+            "torque": {
+              "en": "9.5–12.2",
+              "ar": "⁦9.5–12.2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-011 / API REG 4 1/2\"",
+          "name": {
+            "en": "API REG 4 1/2\"",
+            "ar": "⁦API REG 4 1/2\"⁩"
+          },
+          "specs": {
+            "size_in": {
+              "en": "7 1/2 – 8 3/4",
+              "ar": "⁦7 1/2 – 8 3/4⁩"
+            },
+            "size_mm": {
+              "en": "190.5–222.3",
+              "ar": "⁦190.5–222.3⁩"
+            },
+            "torque": {
+              "en": "16.3–21.7",
+              "ar": "⁦16.3–21.7⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-011 / API REG 6 5/8\"",
+          "name": {
+            "en": "API REG 6 5/8\"",
+            "ar": "⁦API REG 6 5/8\"⁩"
+          },
+          "specs": {
+            "size_in": {
+              "en": "9 1/2 – 13 3/4",
+              "ar": "⁦9 1/2 – 13 3/4⁩"
+            },
+            "size_mm": {
+              "en": "241.3–349.3",
+              "ar": "⁦241.3–349.3⁩"
+            },
+            "torque": {
+              "en": "38–43.4",
+              "ar": "⁦38–43.4⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-011 / API REG 7 5/8\"",
+          "name": {
+            "en": "API REG 7 5/8\"",
+            "ar": "⁦API REG 7 5/8\"⁩"
+          },
+          "specs": {
+            "size_in": {
+              "en": "14 1/2 – 26",
+              "ar": "⁦14 1/2 – 26⁩"
+            },
+            "size_mm": {
+              "en": "368.3–660.4",
+              "ar": "⁦368.3–660.4⁩"
+            },
+            "torque": {
+              "en": "46.1–54.2",
+              "ar": "⁦46.1–54.2⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "3 3/4\"–26\"",
+        "ar": "⁦3 3/4\"–26\"⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "وصلة واحدة",
+          "وصلتان",
+          "وصلات"
+        ],
+        "en": [
+          "connection",
+          "connections"
+        ]
+      },
+      "intro": {
+        "en": "Steel-tooth and tungsten-carbide insert (TCI) bits; rubber-sealed or metal-sealed journal bearings. Mining tricone bits 6 3/4\"–12 1/4\", IADC 412–845.",
+        "ar": "لقم بأسنان فولاذية أو بإدخالات كربيد التنغستن (⁦TCI⁩)؛ ومحامل منزلقة بإحكام مطاطي أو معدني. لقم التعدين ثلاثية المخاريط ⁦6 3/4\"–12 1/4\"⁩، و⁦IADC⁩ من ⁦412⁩ إلى ⁦845⁩."
+      },
+      "keyRows": [
+        "size_in",
+        "size_mm",
+        "torque"
+      ]
+    },
+    {
+      "id": "rotary",
+      "label": {
+        "en": "PDC, roller-cone and core drilling tools",
+        "ar": "لقم ⁦PDC⁩ والمخاريط الدوّارة وأدوات الحفر اللبّي"
+      },
+      "models": [
+        {
+          "code": "BX-0005-01-012 / PDC bits",
+          "name": {
+            "en": "PDC bits",
+            "ar": "لقم ⁦PDC⁩"
+          },
+          "specs": {
+            "range": {
+              "en": "Matrix or steel body; 13, 16 and 19 mm cutters; short fishtail to long profile",
+              "ar": "جسم مصفوفي أو فولاذي؛ قواطع ⁦13⁩ و⁦16⁩ و⁦19⁩ مم؛ من مقطع ذيل السمكة القصير إلى المقطع الطويل"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-012 / Roller cones and single-roller cutters",
+          "name": {
+            "en": "Roller cones and single-roller cutters",
+            "ar": "المخاريط الدوّارة والقواطع أحادية الأسطوانة"
+          },
+          "specs": {
+            "range": {
+              "en": "7 1/2\"–12 1/4\" cones; 8.5\"–17.5\" cutters; IADC 117–737",
+              "ar": "مخاريط ⁦7 1/2\"–12 1/4\"⁩؛ وقواطع ⁦8.5\"–17.5\"⁩؛ ⁦IADC⁩ من ⁦117⁩ إلى ⁦737⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-012 / Hole openers and drag bits",
+          "name": {
+            "en": "Hole openers and drag bits",
+            "ar": "موسّعات الثقوب ولقم السحب"
+          },
+          "specs": {
+            "range": {
+              "en": "For enlarging holes and soft formations",
+              "ar": "لتوسيع الثقوب وللطبقات اللينة"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-013 / Core bits – metric series",
+          "name": {
+            "en": "Core bits – metric series",
+            "ar": "لقم اللب – السلسلة المترية"
+          },
+          "specs": {
+            "range": {
+              "en": "Single tube Ø28–200 mm; double tube P46–P157; wire-line S47–S122",
+              "ar": "أنبوب مفرد بقطر ⁦28⁠–⁠200⁩ مم؛ وأنبوب مزدوج ⁦P46–P157⁩؛ وسلكية ⁦S47–S122⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-013 / Core bits – international",
+          "name": {
+            "en": "Core bits – international",
+            "ar": "لقم اللب – المقاسات الدولية"
+          },
+          "specs": {
+            "range": {
+              "en": "AQ, BQ, NQ, HQ, PQ (and 3-series); AW, BW, NW, HW, PW; NMLC, HMLC, T2 and others",
+              "ar": "⁦AQ⁩ و⁦BQ⁩ و⁦NQ⁩ و⁦HQ⁩ و⁦PQ⁩ (والسلسلة ⁦3⁩)؛ و⁦AW⁩ و⁦BW⁩ و⁦NW⁩ و⁦HW⁩ و⁦PW⁩؛ و⁦NMLC⁩ و⁦HMLC⁩ و⁦T2⁩ وغيرها"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-013 / Core bit crowns",
+          "name": {
+            "en": "Core bit crowns",
+            "ar": "تيجان لقم اللب"
+          },
+          "specs": {
+            "range": {
+              "en": "Semi-round, ladder, serrated, ladder-serrated, gear type, bottom-jetting",
+              "ar": "نصف دائري، ومدرّج، ومسنّن، ومدرّج مسنّن، وترسي، وبفتحات سفلية"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Rotary and core",
+        "ar": "دوراني ولبّي"
+      }
+    },
+    {
+      "id": "additional",
+      "label": {
+        "en": "Tricone and PDC bits – additional series",
+        "ar": "اللقم ثلاثية المخاريط و⁦PDC⁩ – سلاسل إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0382-01-007",
+          "name": {
+            "en": "PDC bits, 3 to 7 blades",
+            "ar": "لقم ⁦PDC⁩ من ⁦3⁩ إلى ⁦7⁩ شفرات"
+          },
+          "specs": {
+            "models": {
+              "en": "88.9 mm S085; 98 mm S084, S085, S106; 114 mm S135, S136; 120 mm S135; 127 mm S133; 130 mm S165; 139 mm S135; 190 mm S133; 215.9 mm S163, S165, M166, M195; 241 mm S136, S165; 250 mm S165, S195; 295 mm S165; 311.1 mm M136, S166, S167, S195; 444.5 mm S195, S196",
+              "ar": "⁦88.9 mm S085; 98 mm S084, S085, S106; 114 mm S135, S136; 120 mm S135; 127 mm S133; 130 mm S165; 139 mm S135; 190 mm S133; 215.9 mm S163, S165, M166, M195; 241 mm S136, S165; 250 mm S165, S195; 295 mm S165; 311.1 mm M136, S166, S167, S195; 444.5 mm S195, S196⁩"
+            },
+            "data": {
+              "en": "Polycrystalline diamond cutters; 88.9–444.5 mm; 88.9–139 mm sizes suit water wells in soft to medium formations; connection on request",
+              "ar": "قواطع ماسية متعددة البلورات؛ ⁦88.9⁠–⁠444.5⁩ مم؛ ومقاسات ⁦88.9⁠–⁠139⁩ مم تناسب آبار المياه في الطبقات اللينة إلى المتوسطة؛ الوصلة حسب الطلب"
+            }
+          }
+        },
+        {
+          "code": "BX-0382-01-004",
+          "name": {
+            "en": "Air-cooled roller-bearing tricone bits for mining",
+            "ar": "لقم تعدين ثلاثية المخاريط بمحامل أسطوانية مبرّدة بالهواء"
+          },
+          "specs": {
+            "models": {
+              "en": "FEA series: IADC 412/415, 432/435, 542/545, 612/615, 632/635, 642/645, 712/715, 732/735, 742/745, 822/825, 842/845",
+              "ar": "⁦FEA series: IADC 412/415, 432/435, 542/545, 612/615, 632/635, 642/645, 712/715, 732/735, 742/745, 822/825, 842/845⁩"
+            },
+            "data": {
+              "en": "Tungsten-carbide inserts; for blast holes drilled with compressed air, very soft to hard abrasive rock; WOB 0.18–1.39 kN/mm; 60–100 r/min; diameters on request",
+              "ar": "إدخالات كربيد التنغستن؛ لثقوب التفجير المحفورة بالهواء المضغوط، من الصخر الطري جداً إلى الصلب الكاشط؛ الحمل على اللقمة ⁦0.18⁠–⁠1.39⁩ كيلونيوتن/مم؛ ⁦60⁠–⁠100⁩ دورة/دقيقة؛ الأقطار حسب الطلب"
+            }
+          }
+        },
+        {
+          "code": "BX-0382-01-005",
+          "name": {
+            "en": "Non-sealed roller-bearing tricone bits",
+            "ar": "لقم ثلاثية المخاريط بمحامل أسطوانية غير محكمة"
+          },
+          "specs": {
+            "models": {
+              "en": "FEN series: IADC 111, 121, 131, 211, 241, 321, 631",
+              "ar": "⁦FEN series: IADC 111, 121, 131, 211, 241, 321, 631⁩"
+            },
+            "data": {
+              "en": "Open bearings cooled by drilling fluid; for shallow, water and geothermal wells; WOB 0.3–0.95 kN/mm; 60–200 r/min; diameters on request",
+              "ar": "محامل مفتوحة يبرّدها سائل الحفر؛ للآبار الضحلة وآبار المياه والآبار الحرارية؛ الحمل على اللقمة ⁦0.3⁠–⁠0.95⁩ كيلونيوتن/مم؛ ⁦60⁠–⁠200⁩ دورة/دقيقة؛ الأقطار حسب الطلب"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "PDC 88.9–444.5 mm · IADC 111–845",
+        "ar": "⁦PDC 88.9⁠–⁠444.5⁩ مم · ⁦IADC 111⁠–⁠845⁩"
+      }
+    }
+  ]
+}
