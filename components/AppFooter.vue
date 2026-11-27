@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-gray-900 text-gray-300 py-12">
+  <footer class="bg-[#191919] text-gray-300 py-12">
     <div class="container mx-auto px-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
       <div>
         <div class="mb-4">
@@ -178,7 +178,8 @@
       </div>
     </div>
     <div class="text-center mt-12 pt-8 border-t border-gray-800 text-gray-500">
-      &copy; {{ new Date().getFullYear() }} Bestolex. All rights reserved.
+      <span v-if="locale === 'ar'">© {{ new Date().getFullYear() }} بيستوليكس. جميع الحقوق محفوظة.</span>
+      <span v-else dir="ltr">© {{ new Date().getFullYear() }} Bestolex. All rights reserved.</span>
     </div>
   </footer>
 </template>
