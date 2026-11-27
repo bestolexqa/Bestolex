@@ -58,8 +58,8 @@
                  'Bestolex Trading of Heavy Equipment and Machinery W.L.L. is a Qatari company serving industrial, logistics, commercial and government facilities. We are the exclusive agent in Qatar for SAB TECH, our strategic partner and manufacturer, across its four lines: loading and warehouse systems, waste and recycling, perimeter protection and industrial doors.') }}
           </p>
           <p>
-            {{ t('وإلى جانب الوكالة، نقدّم حلول الطاقة الشمسية ومجموعات التوليد، ونورّد المعدات الثقيلة عند الطلب. وما لا يتوفر في السوق المحلي نبحث عنه في مصانع حول العالم: يصف العميل العمل الذي يريد إنجازه، ويقارن مهندسونا الخيارات ويرشّحون الأنسب، ثم نتولى الشراء والشحن والتركيب والتدريب والصيانة.',
-                 'Beyond the agency, we provide solar energy systems and generating sets, and supply heavy equipment on request. What is not available locally we find in factories around the world: the customer describes the job, our engineers compare the options and recommend the best fit, then we handle purchasing, shipping, installation, training and maintenance.') }}
+            {{ t('وإلى جانب الوكالة، نقدّم حلول الطاقة الشمسية ومجموعات التوليد، ونورّد المعدات الثقيلة عند الطلب. وما لا يدخل في أقسامنا نورّده حسب الطلب لأي نشاط، من المقاولات والمصانع والورش إلى المستشفيات والمطاعم والمزارع: يصف العميل ما يحتاجه، ويقارن مهندسونا الخيارات ويرشّحون الأنسب، ثم نتولى الشراء والشحن والتركيب والتدريب والصيانة.',
+                 'Beyond the agency, we provide solar energy systems and generating sets, and supply heavy equipment on request. Anything outside our sections we source on request for any activity, from contracting, factories and workshops to hospitals, restaurants and farms: the customer describes what they need, our engineers compare the options and recommend the best fit, then we handle purchasing, shipping, installation, training and maintenance.') }}
           </p>
           <p>
             {{ t('وخارج قطر، نورّد معدات تعدين الذهب والطاقة إلى مشاريع الشرق الأوسط وأفريقيا، فنحن وكلاء وموزّعون لكثير من المصانع العالمية في المنطقة.',
@@ -156,7 +156,10 @@
         </h3>
         <div class="grid md:grid-cols-3 gap-5 mb-14">
           <NuxtLink v-for="a in otherLines" :key="a.ar" :to="localePath(a.link) + (a.hash || '')" class="group border border-line dark:border-gray-700 rounded-2xl overflow-hidden bg-white dark:bg-gray-800 hover:border-primary transition flex flex-col">
-            <NuxtImg :src="a.img" :alt="t(a.ar, a.en)" class="w-full aspect-[16/9] object-cover" width="800" height="450" format="webp" loading="lazy" />
+            <div v-if="a.icons" class="w-full aspect-[16/9] bg-[#191919] grid grid-cols-4 place-items-center p-5 gap-3" aria-hidden="true">
+              <span v-for="ic in a.icons" :key="ic" class="w-11 h-11 rounded-xl bg-primary/15 text-primary flex items-center justify-center"><SourcingIcon :name="ic" class="w-6 h-6" /></span>
+            </div>
+            <NuxtImg v-else :src="a.img" :alt="t(a.ar, a.en)" class="w-full aspect-[16/9] object-cover" width="800" height="450" format="webp" loading="lazy" />
             <div class="p-5 flex-1 flex flex-col">
               <h4 class="font-display text-lg font-bold mb-2 group-hover:text-primary transition">{{ t(a.ar, a.en) }}</h4>
               <p class="text-sm text-slate dark:text-gray-400 leading-relaxed flex-1">{{ t(a.dar, a.den) }}</p>
@@ -311,6 +314,7 @@ import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
 import mockProducts from '@/data/products.json'
 import { whatsappLink } from '~/utils/leads'
+import { SOURCING_SECTORS } from '~/utils/sourcing'
 
 const { locale } = useI18n()
 const localePath = useLocalePath()
@@ -336,8 +340,8 @@ const agencyLines = [
 
 const otherLines = [
   { link: '/products/category/energy-solutions', img: catImage('energy-solutions'), ar: 'حلول الطاقة', en: 'Energy solutions', dar: 'الألواح الشمسية والانفرترات وبطاريات التخزين والإنارة الشمسية والأنظمة التجارية والصناعية، ومجموعات التوليد.', den: 'Solar panels, inverters, storage batteries, solar lighting, commercial and industrial systems, and generating sets.', car: 'منتجات الطاقة', cen: 'Energy products' },
-  { link: '/sourcing', hash: '#request', img: '/sourcing/heavy-equipment.webp', ar: 'المعدات الثقيلة عند الطلب', en: 'Heavy equipment on request', dar: 'الحفارات واللوادر وشاحنات القلاب والرافعات ومعدات الأنفاق والمناجم، نورّدها حسب المواصفة المطلوبة.', den: 'Excavators, loaders, dump trucks, cranes and tunnelling and mining equipment, supplied to the required specification.', car: 'اطلب معدة', cen: 'Request equipment' },
-  { link: '/sourcing', img: '/sourcing/pumps.webp', ar: 'التوريد حسب الطلب', en: 'Sourcing on request', dar: 'آلة واحدة أو خط إنتاج أو مصنع كامل أو أجهزة مختبر أو قطع غيار، نبحث عنها في مصانع حول العالم ونورّدها ونركّبها.', den: 'A single machine, a production line, a complete plant, lab instruments or spare parts, found in factories worldwide, supplied and installed.', car: 'صف احتياجك', cen: 'Describe your need' }
+  { link: '/contact', img: '/about/heavy-equipment.webp', ar: 'المعدات الثقيلة عند الطلب', en: 'Heavy equipment on request', dar: 'الحفارات واللوادر وشاحنات القلاب والرافعات ومعدات الأنفاق والمناجم، نورّدها حسب المواصفة المطلوبة.', den: 'Excavators, loaders, dump trucks, cranes and tunnelling and mining equipment, supplied to the required specification.', car: 'اطلب معدة', cen: 'Request equipment' },
+  { link: '/sourcing', icons: SOURCING_SECTORS.slice(0, 8).map(x => x.icon), ar: 'التوريد حسب الطلب', en: 'Sourcing on request', dar: 'أي آلة أو معدة ليست في أقسامنا، لأي نشاط: معدات البناء والسقالات، وقطع الغيار، والمضخات والضواغط، ومكائن الورش، ومعدات المطاعم والمستشفيات والمزارع، من مصانع حول العالم.', den: 'Any machine or equipment outside our sections, for any activity: construction equipment and scaffolding, spare parts, pumps and compressors, workshop machines, and equipment for restaurants, hospitals and farms, from factories worldwide.', car: 'التوريد حسب الطلب', cen: 'Sourcing on request' },
 ]
 
 const miningAreas = [

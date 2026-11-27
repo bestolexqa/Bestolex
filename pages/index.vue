@@ -74,33 +74,33 @@
     <!-- Sourcing on request -->
     <section class="py-20 bg-[#191919] text-white">
       <div class="container mx-auto px-4 md:px-8 grid lg:grid-cols-12 gap-10 items-center">
-        <div class="lg:col-span-6" data-aos="fade-up">
+        <div class="lg:col-span-5" data-aos="fade-up">
           <p class="text-primary font-bold mb-3">{{ locale === 'ar' ? 'التوريد حسب الطلب' : 'Sourcing on request' }}</p>
           <h2 class="text-3xl md:text-4xl font-black leading-tight mb-5">
-            {{ locale === 'ar' ? 'تحتاج آلة لا تجدها في السوق المحلي؟' : "Need a machine you can't find locally?" }}
+            {{ locale === 'ar' ? 'أي آلة لأي نشاط، حتى لو لم تكن في أقسامنا' : "Any machine for any activity, even if it isn't in our sections" }}
           </h2>
-          <p class="text-gray-300 text-lg leading-relaxed mb-6">
+          <p class="text-gray-300 text-lg leading-relaxed mb-8">
             {{ locale === 'ar'
-              ? 'صف لنا العمل الذي تريد إنجازه. نقارن الخيارات في مصانع حول العالم ونرشّح الأنسب لتشغيلك، ثم نتولى الشراء والشحن والتركيب والتدريب والصيانة.'
-              : 'Describe the job you need done. We compare options from factories worldwide, recommend the best fit, then handle purchasing, shipping, installation, training and maintenance.' }}
+              ? 'مقاول، مصنع، مستشفى، ورشة، مطعم أو مزرعة: صف لنا ما تحتاجه، ونبحث عنه في مصانع حول العالم ونشتريه نيابة عنك، ثم نشحنه ونركّبه في موقعك.'
+              : 'Contractor, factory, hospital, workshop, restaurant or farm: tell us what you need, we find it in factories worldwide and buy it on your behalf, then ship and install it on your site.' }}
           </p>
-          <ul class="flex flex-wrap gap-2 mb-8">
-            <li v-for="k in sourcingKinds" :key="k.en" class="border border-white/20 rounded-full px-4 py-1.5 text-sm text-gray-200">{{ k[locale] }}</li>
-          </ul>
           <div class="flex flex-wrap gap-3">
             <NuxtLink :to="localePath('/sourcing')" class="bg-primary text-[#191919] font-bold px-7 py-3.5 rounded-lg hover:bg-[#f2b02a] transition">
-              {{ locale === 'ar' ? 'صف احتياجك' : 'Describe your need' }}
+              {{ locale === 'ar' ? 'التوريد حسب الطلب' : 'Sourcing on request' }}
             </NuxtLink>
             <a :href="whatsappLink(locale === 'ar' ? 'مرحباً بيستوليكس، أحتاج توريد: ' : 'Hello Bestolex, I need to source: ')" target="_blank" rel="noopener" class="border border-gray-500 text-white font-bold px-7 py-3.5 rounded-lg hover:border-primary hover:text-primary transition">
               {{ locale === 'ar' ? 'واتساب' : 'WhatsApp' }} <span dir="ltr" class="font-normal">+974 5150 5014</span>
             </a>
           </div>
         </div>
-        <div class="lg:col-span-6 grid grid-cols-2 gap-4" data-aos="fade-up" data-aos-delay="100">
-          <NuxtImg src="/sourcing/heavy-equipment.webp" :alt="locale === 'ar' ? 'شاحنة تعدين ورافعة على شاحنة' : 'Mining truck and truck-mounted crane'" class="col-span-2 w-full rounded-xl aspect-[900/510] object-cover" width="900" height="510" format="webp" loading="lazy" />
-          <NuxtImg src="/sourcing/generators.webp" :alt="locale === 'ar' ? 'مجموعة توليد صامتة على مقطورة' : 'Silent generating set on a trailer'" class="w-full rounded-xl aspect-[900/510] object-cover" width="900" height="510" format="webp" loading="lazy" />
-          <NuxtImg src="/sourcing/laboratory.webp" :alt="locale === 'ar' ? 'أجهزة تحضير العينات وموازين المختبر' : 'Sample preparation equipment and laboratory balances'" class="w-full rounded-xl aspect-[900/510] object-cover" width="900" height="510" format="webp" loading="lazy" />
-        </div>
+        <ul class="lg:col-span-7 grid grid-cols-2 sm:grid-cols-4 gap-3" data-aos="fade-up" data-aos-delay="100">
+          <li v-for="s in homeSectors" :key="s.id">
+            <NuxtLink :to="localePath('/sourcing') + '#' + s.id" class="h-full flex flex-col gap-3 bg-white/[0.04] border border-white/10 rounded-xl p-4 hover:border-primary transition">
+              <span class="w-10 h-10 rounded-lg bg-primary/15 text-primary flex items-center justify-center"><SourcingIcon :name="s.icon" class="w-5 h-5" /></span>
+              <span class="text-sm font-bold leading-snug">{{ locale === 'ar' ? s.ar : s.en }}</span>
+            </NuxtLink>
+          </li>
+        </ul>
       </div>
     </section>
 
@@ -253,6 +253,7 @@
 <script setup>
 import { ref, computed } from 'vue'
 import { whatsappLink } from '~/utils/leads'
+import { SOURCING_SECTORS } from '~/utils/sourcing'
 import mockProducts from '@/data/products.json'
 import mockArticles from '@/data/articles.json'
 
@@ -333,12 +334,6 @@ const homeServices = [
   { title: { ar: 'قطع الغيار وخدمة ما بعد البيع', en: 'Spare Parts & After-Sales Service' }, desc: { ar: 'نوفّر قطع الغيار ونتابع المعدات بعد التسليم.', en: 'We supply spare parts and support the equipment after handover.' } }
 ]
 
-// Request kinds shown on the sourcing band (full list on /sourcing)
-const sourcingKinds = [
-  { ar: 'آلية أو معدة واحدة', en: 'A single machine' },
-  { ar: 'خط إنتاج', en: 'A production line' },
-  { ar: 'مصنع كامل', en: 'A complete plant' },
-  { ar: 'أجهزة ومختبرات', en: 'Instruments and laboratories' },
-  { ar: 'قطع غيار ومستهلكات', en: 'Spare parts and consumables' }
-]
+// Top sectors by search demand, shown on the sourcing band (full list on /sourcing)
+const homeSectors = SOURCING_SECTORS.slice(0, 8)
 </script>

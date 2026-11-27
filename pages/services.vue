@@ -318,8 +318,8 @@ const heroSlides = [
     title: { ar: 'حلول الطاقة', en: 'Energy Solutions' }
   },
   {
-    image: '/sourcing/heavy-equipment.webp',
-    title: { ar: 'التوريد حسب الطلب', en: 'Sourcing on Request' }
+    image: '/about/heavy-equipment.webp',
+    title: { ar: 'المعدات الثقيلة عند الطلب', en: 'Heavy Equipment on Request' }
   }
 ]
 
