@@ -254,7 +254,6 @@
 
 <script setup>
 import { computed } from 'vue'
-import mockProducts from '@/data/products.json'
 import { REQUEST_TYPES, whatsappLink } from '~/utils/leads'
 import { trackLead } from '~/utils/track'
 
@@ -310,7 +309,9 @@ const form = ref(emptyForm())
 // ?product=<id> preselects a product (links from product pages and articles)
 // Products of a category, its subcategories included (Energy Solutions → Solar Energy).
 const catProducts = (c) => [...(c.products || []), ...((c.subcategories || []).flatMap(sub => sub.products || []))]
-const allProducts = mockProducts.flatMap(c => catProducts(c).map(p => ({ ...p, catTitle: c.title })))
+const { data: navData } = await useCatalogNav()
+const navList = () => navData.value || []
+const allProducts = navList().flatMap(c => catProducts(c).map(p => ({ ...p, catTitle: c.title })))
 if (typeof route.query.product === 'string' && allProducts.some(p => p.id === route.query.product)) {
   form.value.productId = route.query.product
 }
@@ -319,7 +320,7 @@ if (typeof route.query.type === 'string' && REQUEST_TYPES.some(r => r.id === rou
   form.value.requestType = route.query.type
 }
 
-const productGroups = computed(() => mockProducts.map(c => ({
+const productGroups = computed(() => navList().map(c => ({
   id: c.id,
   title: c.title?.[locale.value] || c.title?.ar,
   products: catProducts(c).map(p => ({ id: p.id, name: p.name?.[locale.value] || p.name?.ar }))

@@ -168,24 +168,15 @@
 import { ref, onMounted, watch } from 'vue'
 import { useRoute } from 'vue-router'
 import { useI18n } from 'vue-i18n'
-import mockProducts from '@/data/products.json'
 
 const { locale } = useI18n()
 const localePath = useLocalePath()
 const route = useRoute()
-const category = ref(null)
-
-const loadCategory = () => {
-  const idStr = route.params.id
-  category.value = mockProducts.find(c => c.id === idStr) || null
-}
-
-loadCategory()
+const catId = String(route.params.id || '')
+const { data: category } = await useFetch(`/api/catalog/category/${catId}`, { key: `catalog-category-${catId}`, default: () => null })
 if (!category.value) {
   throw createError({ statusCode: 404, statusMessage: 'Category not found', fatal: true })
 }
-onMounted(loadCategory)
-watch(() => route.params.id, loadCategory)
 
 const isAr = computed(() => locale.value === 'ar')
 

@@ -185,12 +185,12 @@
 </template>
 
 <script setup>
-import mockProducts from '@/data/products.json'
 
 const { locale } = useI18n()
 const localePath = useLocalePath()
 
-const categories = mockProducts.slice(0, 5)
+const { data: navData } = useCatalogNav()
+const categories = computed(() => (navData.value || []).slice(0, 5))
 
 const openCookieSettings = () => {
   if (typeof window !== 'undefined') {

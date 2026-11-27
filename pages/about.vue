@@ -269,7 +269,6 @@
 <script setup>
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
-import mockProducts from '@/data/products.json'
 import { whatsappLink } from '~/utils/leads'
 import { SOURCING_SECTORS } from '~/utils/sourcing'
 
@@ -279,7 +278,8 @@ const isAr = computed(() => locale.value === 'ar')
 const t = (ar, en) => (isAr.value ? ar : en)
 
 const waLink = computed(() => whatsappLink(t('مرحباً بيستوليكس، ', 'Hello Bestolex, ')))
-const catImage = id => (mockProducts.find(c => c.id === id) || {}).image
+const { data: navData } = await useCatalogNav()
+const catImage = id => ((navData.value || []).find(c => c.id === id) || {}).image
 
 const heroFacts = [
   { lar: 'الوكالة', len: 'Agency', ar: 'الوكيل الحصري لساب تك في قطر', en: 'Exclusive SAB TECH agent in Qatar' },

@@ -39,7 +39,6 @@
 </template>
 
 <script setup>
-import productCategories from '@/data/products.json'
 
 const props = defineProps({ error: { type: Object, default: null } })
 
@@ -47,7 +46,8 @@ const { locale } = useI18n()
 const localePath = useLocalePath()
 const isAr = computed(() => locale.value !== 'en')
 const is404 = computed(() => props.error?.statusCode === 404)
-const categories = productCategories.map(c => ({ id: c.id, title: c.title }))
+const { data: navData } = useCatalogNav()
+const categories = computed(() => (navData.value || []).map(c => ({ id: c.id, title: c.title })))
 
 useHead(() => ({
   htmlAttrs: { lang: isAr.value ? 'ar-QA' : 'en', dir: isAr.value ? 'rtl' : 'ltr' },
