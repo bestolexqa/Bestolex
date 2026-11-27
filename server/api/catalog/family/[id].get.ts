@@ -1,4 +1,4 @@
-// Model tables for product families (doors, then the solar pages). The data lives in
+// Model tables for product families (doors, the solar pages, then the generator pages). The data lives in
 // server/assets/catalog/<group>/<id>.json so it never ships in the client
 // bundle: a page fetches only the family it shows.
 const FAMILY_FILES: Record<string, string> = {
@@ -12,7 +12,13 @@ const FAMILY_FILES: Record<string, string> = {
   'solar-home-systems-portable': 'catalog/solar/solar-home-systems-portable.json',
   'solar-mounting-cables-protection': 'catalog/solar/solar-mounting-cables-protection.json',
   'solar-commercial-industrial': 'catalog/solar/solar-commercial-industrial.json',
-  'solar-appliances': 'catalog/solar/solar-appliances.json'
+  'solar-appliances': 'catalog/solar/solar-appliances.json',
+  'diesel-generator-sets': 'catalog/generators/diesel-generator-sets.json',
+  'generator-sets-by-engine': 'catalog/generators/generator-sets-by-engine.json',
+  'gas-generators-alternators': 'catalog/generators/gas-generators-alternators.json',
+  'portable-generators': 'catalog/generators/portable-generators.json',
+  'diesel-petrol-engines': 'catalog/generators/diesel-petrol-engines.json',
+  'generator-controls-load-banks': 'catalog/generators/generator-controls-load-banks.json'
 }
 
 const cache = new Map<string, any>()

@@ -1,0 +1,1034 @@
+{
+ "id": "diesel-petrol-engines",
+ "updated": "2026-11-27",
+ "title": {
+  "ar": "المنتجات والمواصفات",
+  "en": "Products and specifications"
+ },
+ "source": {
+  "ar": "المصدر: كتالوج بيستوليكس BXE-01، الإصدار الثاني 2026 · * حسب بيانات المصنّع · المواصفات من المصنّعين وقد تتغير دون إشعار",
+  "en": "Source: Bestolex catalogue BXE-01, Edition 2 (2026) · * manufacturer-stated · specifications come from the manufacturers and may change without notice"
+ },
+ "typeLabel": {
+  "ar": "نوع المحرك",
+  "en": "Engine type"
+ },
+ "missing": {
+  "ar": "—",
+  "en": "—"
+ },
+ "rows": [
+  {
+   "key": "power",
+   "label": {
+    "ar": "القدرة",
+    "en": "Power"
+   }
+  },
+  {
+   "key": "displacement",
+   "label": {
+    "ar": "السعة",
+    "en": "Displacement"
+   }
+  },
+  {
+   "key": "build",
+   "label": {
+    "ar": "البناء والتبريد",
+    "en": "Build and cooling"
+   }
+  },
+  {
+   "key": "speed",
+   "label": {
+    "ar": "السرعة",
+    "en": "Speed"
+   }
+  },
+  {
+   "key": "fuel",
+   "label": {
+    "ar": "استهلاك الوقود",
+    "en": "Fuel use"
+   }
+  },
+  {
+   "key": "weight",
+   "label": {
+    "ar": "الوزن",
+    "en": "Weight"
+   }
+  },
+  {
+   "key": "models",
+   "label": {
+    "ar": "الموديلات",
+    "en": "Models"
+   }
+  },
+  {
+   "key": "notes",
+   "label": {
+    "ar": "ملاحظات",
+    "en": "Notes"
+   }
+  }
+ ],
+ "keyRows": [
+  "power",
+  "displacement",
+  "speed"
+ ],
+ "types": [
+  {
+   "id": "small-air-cooled",
+   "label": {
+    "ar": "محركات ديزل صغيرة مبردة بالهواء",
+    "en": "Small air-cooled diesel engines"
+   },
+   "key": {
+    "ar": "حتى ⁦1,247⁩ مل",
+    "en": "Up to 1,247 ml"
+   },
+   "intro": {
+    "ar": "محركات بأسطوانة أو أسطوانتين للمضخات الصغيرة والمولدات والطواحين.",
+    "en": "Single- and two-cylinder engines for small pumps, generators and mills."
+   },
+   "models": [
+    {
+     "code": "BX-0214-01-001",
+     "name": {
+      "ar": "محركات ديزل صغيرة مبردة بالهواء",
+      "en": "Air-cooled small diesel engines"
+     },
+     "specs": {
+      "displacement": {
+       "ar": "⁦211–1,247⁩ مل",
+       "en": "211–1,247 ml"
+      },
+      "build": {
+       "ar": "أسطوانة أو أسطوانتان · رباعي الأشواط · حقن مباشر",
+       "en": "Single- and two-cylinder · 4-stroke · direct injection"
+      },
+      "models": {
+       "ar": "⁦173, 178F, 186FA, 188F, 192F, 195F, 1100F, 2V88F, 2V92F, 2V95F⁩",
+       "en": "173, 178F, 186FA, 188F, 192F, 195F, 1100F, 2V88F, 2V92F, 2V95F"
+      }
+     }
+    },
+    {
+     "code": "BX-0481-01-012",
+     "name": {
+      "ar": "محركات ديزل بأسطوانة واحدة مبردة بالهواء",
+      "en": "Single-cylinder air-cooled diesel engines"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦2.5–6.9⁩ كيلوواط",
+       "en": "2.5–6.9 kW"
+      },
+      "displacement": {
+       "ar": "⁦211 / 296 / 456⁩ سم³",
+       "en": "211 / 296 / 456 cm³"
+      },
+      "speed": {
+       "ar": "⁦3000 / 3600⁩ دورة/دقيقة",
+       "en": "3000 / 3600 r/min"
+      },
+      "weight": {
+       "ar": "⁦27–53⁩ كجم",
+       "en": "27–53 kg"
+      },
+      "models": {
+       "ar": "⁦KD170F/FE, KD178F/FE, KD188FA/FAE⁩",
+       "en": "KD170F/FE, KD178F/FE, KD188FA/FAE"
+      },
+      "notes": {
+       "ar": "تشغيل يدوي أو كهربائي",
+       "en": "Hand or electric start"
+      }
+     }
+    },
+    {
+     "code": "BX-0529-01-005",
+     "name": {
+      "ar": "محرك ديزل بأسطوانة واحدة مبرد بالهواء ⁦YL186FA⁩",
+      "en": "Single-cylinder air-cooled diesel engine YL186FA"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦10⁩ أحصنة (⁦5.8 / 6.4⁩ كيلوواط)",
+       "en": "10 hp (5.8 / 6.4 kW)"
+      },
+      "displacement": {
+       "ar": "⁦418⁩ سم³",
+       "en": "418 cm³"
+      },
+      "build": {
+       "ar": "حقن مباشر",
+       "en": "Direct injection"
+      },
+      "speed": {
+       "ar": "⁦3000 / 3600⁩ دورة/دقيقة",
+       "en": "3000 / 3600 r/min"
+      },
+      "weight": {
+       "ar": "⁦48 / 50⁩ كجم",
+       "en": "48 / 50 kg"
+      },
+      "models": {
+       "ar": "⁦YL186FA⁩",
+       "en": "YL186FA"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "s-series",
+   "label": {
+    "ar": "محركات ⁦S⁩ بأسطوانة واحدة مبردة بالماء",
+    "en": "S-series water-cooled single-cylinder engines"
+   },
+   "key": {
+    "ar": "⁦8.82–18.4⁩ كيلوواط",
+    "en": "8.82–18.4 kW"
+   },
+   "intro": {
+    "ar": "محركات ديزل بأسطوانة واحدة تشغّل طواحين الطاحونة الرطبة والمضخات والضواغط الصغيرة.",
+    "en": "Single-cylinder diesel engines that drive pan mills, pumps and small compressors."
+   },
+   "models": [
+    {
+     "code": "BX-0005-01-028 / S1125",
+     "name": {
+      "ar": "⁦S1125 · 18.4⁩ كيلوواط",
+      "en": "S1125 · 18.4 kW"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦18.4⁩ كيلوواط مقنن · ⁦20.24⁩ أقصى",
+       "en": "18.4 kW rated · 20.24 max."
+      },
+      "displacement": {
+       "ar": "⁦1.296⁩ لتر · ⁦125 × 120⁩ مم",
+       "en": "1.296 L · 125 × 120 mm"
+      },
+      "build": {
+       "ar": "أسطوانة واحدة أفقي، رباعي الأشواط، مبرد بالماء، حقن مباشر",
+       "en": "Single cylinder, horizontal, 4-stroke, water-cooled, direct injection"
+      },
+      "speed": {
+       "ar": "⁦2200⁩ دورة/دقيقة",
+       "en": "2200 r/min"
+      },
+      "fuel": {
+       "ar": "≤ ⁦244.8⁩ جم/كيلوواط·ساعة",
+       "en": "≤ 244.8 g/kWh"
+      },
+      "weight": {
+       "ar": "⁦200⁩ كجم",
+       "en": "200 kg"
+      },
+      "notes": {
+       "ar": "تشغيل يدوي أو كهربائي",
+       "en": "Hand or electric start"
+      }
+     }
+    },
+    {
+     "code": "BX-0005-01-028 / S1115",
+     "name": {
+      "ar": "⁦S1115 · 14.7⁩ كيلوواط",
+      "en": "S1115 · 14.7 kW"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦14.7⁩ كيلوواط مقنن · ⁦16.17⁩ أقصى",
+       "en": "14.7 kW rated · 16.17 max."
+      },
+      "displacement": {
+       "ar": "⁦1.194⁩ لتر · ⁦115 × 115⁩ مم",
+       "en": "1.194 L · 115 × 115 mm"
+      },
+      "build": {
+       "ar": "أسطوانة واحدة أفقي، رباعي الأشواط، مبرد بالماء، حقن مباشر",
+       "en": "Single cylinder, horizontal, 4-stroke, water-cooled, direct injection"
+      },
+      "speed": {
+       "ar": "⁦2200⁩ دورة/دقيقة",
+       "en": "2200 r/min"
+      },
+      "fuel": {
+       "ar": "≤ ⁦244.8⁩ جم/كيلوواط·ساعة",
+       "en": "≤ 244.8 g/kWh"
+      },
+      "weight": {
+       "ar": "⁦180⁩ كجم",
+       "en": "180 kg"
+      },
+      "notes": {
+       "ar": "تشغيل يدوي أو كهربائي",
+       "en": "Hand or electric start"
+      }
+     }
+    },
+    {
+     "code": "BX-0005-01-028 / S1110",
+     "name": {
+      "ar": "⁦S1110 · 13.24⁩ كيلوواط",
+      "en": "S1110 · 13.24 kW"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦13.24⁩ كيلوواط مقنن · ⁦14.56⁩ أقصى",
+       "en": "13.24 kW rated · 14.56 max."
+      },
+      "displacement": {
+       "ar": "⁦1.093⁩ لتر · ⁦110 × 115⁩ مم",
+       "en": "1.093 L · 110 × 115 mm"
+      },
+      "build": {
+       "ar": "أسطوانة واحدة أفقي، رباعي الأشواط، مبرد بالماء، حقن مباشر",
+       "en": "Single cylinder, horizontal, 4-stroke, water-cooled, direct injection"
+      },
+      "speed": {
+       "ar": "⁦2200⁩ دورة/دقيقة",
+       "en": "2200 r/min"
+      },
+      "fuel": {
+       "ar": "≤ ⁦244.8⁩ جم/كيلوواط·ساعة",
+       "en": "≤ 244.8 g/kWh"
+      },
+      "weight": {
+       "ar": "⁦180⁩ كجم",
+       "en": "180 kg"
+      },
+      "notes": {
+       "ar": "تشغيل يدوي أو كهربائي",
+       "en": "Hand or electric start"
+      }
+     }
+    },
+    {
+     "code": "BX-0005-01-028 / S1105",
+     "name": {
+      "ar": "⁦S1105 · 12.1⁩ كيلوواط",
+      "en": "S1105 · 12.1 kW"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦12.1⁩ كيلوواط مقنن · ⁦13.31⁩ أقصى",
+       "en": "12.1 kW rated · 13.31 max."
+      },
+      "displacement": {
+       "ar": "⁦0.996⁩ لتر · ⁦105 × 115⁩ مم",
+       "en": "0.996 L · 105 × 115 mm"
+      },
+      "build": {
+       "ar": "أسطوانة واحدة أفقي، رباعي الأشواط، مبرد بالماء، حقن مباشر",
+       "en": "Single cylinder, horizontal, 4-stroke, water-cooled, direct injection"
+      },
+      "speed": {
+       "ar": "⁦2200⁩ دورة/دقيقة",
+       "en": "2200 r/min"
+      },
+      "fuel": {
+       "ar": "≤ ⁦246.2⁩ جم/كيلوواط·ساعة",
+       "en": "≤ 246.2 g/kWh"
+      },
+      "weight": {
+       "ar": "⁦160⁩ كجم",
+       "en": "160 kg"
+      },
+      "notes": {
+       "ar": "تشغيل يدوي أو كهربائي",
+       "en": "Hand or electric start"
+      }
+     }
+    },
+    {
+     "code": "BX-0005-01-028 / S1100",
+     "name": {
+      "ar": "⁦S1100 · 11.03⁩ كيلوواط",
+      "en": "S1100 · 11.03 kW"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦11.03⁩ كيلوواط مقنن · ⁦12.13⁩ أقصى",
+       "en": "11.03 kW rated · 12.13 max."
+      },
+      "displacement": {
+       "ar": "⁦0.903⁩ لتر · ⁦100 × 115⁩ مم",
+       "en": "0.903 L · 100 × 115 mm"
+      },
+      "build": {
+       "ar": "أسطوانة واحدة أفقي، رباعي الأشواط، مبرد بالماء، حقن مباشر",
+       "en": "Single cylinder, horizontal, 4-stroke, water-cooled, direct injection"
+      },
+      "speed": {
+       "ar": "⁦2200⁩ دورة/دقيقة",
+       "en": "2200 r/min"
+      },
+      "fuel": {
+       "ar": "≤ ⁦246.2⁩ جم/كيلوواط·ساعة",
+       "en": "≤ 246.2 g/kWh"
+      },
+      "weight": {
+       "ar": "⁦155⁩ كجم",
+       "en": "155 kg"
+      },
+      "notes": {
+       "ar": "تشغيل يدوي أو كهربائي",
+       "en": "Hand or electric start"
+      }
+     }
+    },
+    {
+     "code": "BX-0005-01-028 / S195",
+     "name": {
+      "ar": "⁦S195 · 8.82⁩ كيلوواط",
+      "en": "S195 · 8.82 kW"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦8.82⁩ كيلوواط مقنن · ⁦9.7⁩ أقصى",
+       "en": "8.82 kW rated · 9.7 max."
+      },
+      "displacement": {
+       "ar": "⁦0.815⁩ لتر · ⁦95 × 115⁩ مم",
+       "en": "0.815 L · 95 × 115 mm"
+      },
+      "build": {
+       "ar": "أسطوانة واحدة أفقي، رباعي الأشواط، مبرد بالماء، حقن مباشر",
+       "en": "Single cylinder, horizontal, 4-stroke, water-cooled, direct injection"
+      },
+      "speed": {
+       "ar": "⁦2000⁩ دورة/دقيقة",
+       "en": "2000 r/min"
+      },
+      "fuel": {
+       "ar": "≤ ⁦244.8⁩ جم/كيلوواط·ساعة",
+       "en": "≤ 244.8 g/kWh"
+      },
+      "weight": {
+       "ar": "⁦150⁩ كجم",
+       "en": "150 kg"
+      },
+      "notes": {
+       "ar": "تشغيل يدوي أو كهربائي",
+       "en": "Hand or electric start"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "petrol",
+   "label": {
+    "ar": "محركات بنزين صغيرة",
+    "en": "Small petrol engines"
+   },
+   "key": {
+    "ar": "⁦3.5–15⁩ حصاناً",
+    "en": "3.5–15 hp"
+   },
+   "intro": {
+    "ar": "محركات بنزين بأسطوانة واحدة للمضخات والطواحين ووحدات الغسيل الصغيرة.",
+    "en": "Single-cylinder petrol engines for pumps, mills and small washing units."
+   },
+   "models": [
+    {
+     "code": "BX-0481-01-011",
+     "name": {
+      "ar": "محركات بنزين بأسطوانة واحدة مبردة بالهواء",
+      "en": "Single-cylinder air-cooled petrol engines"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦3.5–15⁩ حصاناً",
+       "en": "3.5–15 hp"
+      },
+      "displacement": {
+       "ar": "⁦183–420⁩ سم³",
+       "en": "183–420 cm³"
+      },
+      "weight": {
+       "ar": "⁦16–31⁩ كجم",
+       "en": "16–31 kg"
+      },
+      "models": {
+       "ar": "⁦EY-20, EY-28, PW-168, PW-170, PW-188, PW-190⁩",
+       "en": "EY-20, EY-28, PW-168, PW-170, PW-188, PW-190"
+      },
+      "notes": {
+       "ar": "إشعال ⁦TCI⁩ · تشغيل بالسحب",
+       "en": "TCI ignition · recoil start"
+      }
+     }
+    },
+    {
+     "code": "BX-0529-01-001",
+     "name": {
+      "ar": "محركات بنزين ⁦OHV⁩ بأسطوانة واحدة",
+      "en": "Single-cylinder OHV petrol engines"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦5.5–15⁩ حصاناً",
+       "en": "5.5–15 hp"
+      },
+      "displacement": {
+       "ar": "⁦163–439⁩ سم³",
+       "en": "163–439 cm³"
+      },
+      "weight": {
+       "ar": "⁦12–30⁩ كجم",
+       "en": "12–30 kg"
+      },
+      "models": {
+       "ar": "⁦YL160, YL200, YL210, YL270, YL390, YL420⁩",
+       "en": "YL160, YL200, YL210, YL270, YL390, YL420"
+      },
+      "notes": {
+       "ar": "تشغيل بالسحب أو كهربائي",
+       "en": "Recoil or electric start"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "deutz",
+   "label": {
+    "ar": "محركات ⁦Deutz⁩",
+    "en": "Deutz engines"
+   },
+   "key": {
+    "ar": "⁦6.8–520⁩ كيلوواط",
+    "en": "6.8–520 kW"
+   },
+   "intro": {
+    "ar": "سلاسل Deutz المبردة بالهواء والماء والمدمجة للمولدات والمعدات.",
+    "en": "Deutz air-cooled, water-cooled and compact series for generators and machines."
+   },
+   "models": [
+    {
+     "code": "BX-0498-01-001",
+     "name": {
+      "ar": "محركات ⁦Deutz⁩ مبردة بالهواء",
+      "en": "Deutz air-cooled engines"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦6.8–141⁩ كيلوواط",
+       "en": "6.8–141 kW"
+      },
+      "build": {
+       "ar": "مبرد بالهواء",
+       "en": "Air-cooled"
+      },
+      "models": {
+       "ar": "⁦B/F/L511, 912, 913, 914⁩",
+       "en": "B/F/L511, 912, 913, 914"
+      }
+     }
+    },
+    {
+     "code": "BX-0498-01-002",
+     "name": {
+      "ar": "محركات ⁦Deutz⁩ مبردة بالهواء، القدرات الأعلى",
+      "en": "Deutz air-cooled engines, higher ratings"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦103–410⁩ كيلوواط",
+       "en": "103–410 kW"
+      },
+      "build": {
+       "ar": "مبرد بالهواء",
+       "en": "Air-cooled"
+      },
+      "models": {
+       "ar": "⁦B/F/L413, 513F, F/L912W, 413FW⁩",
+       "en": "B/F/L413, 513F, F/L912W, 413FW"
+      }
+     }
+    },
+    {
+     "code": "BX-0498-01-003",
+     "name": {
+      "ar": "محركات ⁦Deutz⁩ مبردة بالماء",
+      "en": "Deutz water-cooled engines"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦75–440⁩ كيلوواط",
+       "en": "75–440 kW"
+      },
+      "build": {
+       "ar": "مبرد بالماء",
+       "en": "Water-cooled"
+      },
+      "models": {
+       "ar": "⁦B/F/M1013, 1015, 2012⁩",
+       "en": "B/F/M1013, 1015, 2012"
+      }
+     }
+    },
+    {
+     "code": "BX-0498-01-004",
+     "name": {
+      "ar": "محركات ⁦Deutz⁩ مبردة بالماء ⁦TCD⁩",
+      "en": "Deutz water-cooled engines, TCD"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦66–520⁩ كيلوواط",
+       "en": "66–520 kW"
+      },
+      "build": {
+       "ar": "مبرد بالماء",
+       "en": "Water-cooled"
+      },
+      "models": {
+       "ar": "⁦TCD2012, 2013, 2015⁩",
+       "en": "TCD2012, 2013, 2015"
+      }
+     }
+    },
+    {
+     "code": "BX-0498-01-005",
+     "name": {
+      "ar": "محركات ⁦Deutz⁩ المدمجة",
+      "en": "Deutz compact engines"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦55–180⁩ كيلوواط",
+       "en": "55–180 kW"
+      },
+      "models": {
+       "ar": "⁦TCD2.9, 3.6, 4.1, 6.1⁩; ⁦D/BF2011⁩",
+       "en": "TCD2.9, 3.6, 4.1, 6.1; D/BF2011"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "series-1013",
+   "label": {
+    "ar": "محركات ⁦1013⁩ بترخيص ⁦Deutz⁩",
+    "en": "1013-series engines (Deutz licence)"
+   },
+   "key": {
+    "ar": "⁦4.8–7.8⁩ لتر",
+    "en": "4.8–7.8 L"
+   },
+   "intro": {
+    "ar": "محركات ديزل صناعية من سلسلة 1013 بمعيار Tier 2 وTier 3، من 70 إلى 235 كيلوواط.",
+    "en": "Industrial 1013-series diesel engines to Tier 2 and Tier 3, from 70 to 235 kW."
+   },
+   "models": [
+    {
+     "code": "BX-0475-01-001",
+     "name": {
+      "ar": "⁦BF6M1013 Tier 2⁩",
+      "en": "BF6M1013 Tier 2"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦174 / 195 / 206⁩ كيلوواط عند ⁦2300⁩ دورة/دقيقة",
+       "en": "174 / 195 / 206 kW at 2300 r/min"
+      },
+      "displacement": {
+       "ar": "⁦6⁩ أسطوانات · ⁦7.2⁩ لتر",
+       "en": "6 cyl., 7.2 L"
+      },
+      "models": {
+       "ar": "⁦BF6M1013 Tier 2⁩",
+       "en": "BF6M1013 Tier 2"
+      },
+      "notes": {
+       "ar": "⁦EC / ECP / FC⁩ · بترخيص ⁦Deutz⁩",
+       "en": "EC / ECP / FC · Deutz licence"
+      }
+     }
+    },
+    {
+     "code": "BX-0475-01-002",
+     "name": {
+      "ar": "⁦BF6M1013-T3 / BF6M-7.8 4V Tier 3⁩",
+      "en": "BF6M1013-T3 / BF6M-7.8 4V Tier 3"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦7.2⁩ لتر: ⁦150–200⁩ كيلوواط عند ⁦1800–2300 · 7.8⁩ لتر: ⁦160–235⁩ كيلوواط عند ⁦1800–2200⁩ دورة/دقيقة",
+       "en": "7.2 L: 150–200 kW at 1800–2300 · 7.8 L: 160–235 kW at 1800–2200 r/min"
+      },
+      "displacement": {
+       "ar": "⁦7.2⁩ لتر و⁦7.8⁩ لتر",
+       "en": "7.2 L and 7.8 L"
+      },
+      "models": {
+       "ar": "⁦BF6M1013-T3 / BF6M-7.8 4V Tier 3⁩",
+       "en": "BF6M1013-T3 / BF6M-7.8 4V Tier 3"
+      },
+      "notes": {
+       "ar": "إعادة تدوير غاز العادم داخلياً (⁦EGR)⁩",
+       "en": "Internal EGR"
+      }
+     }
+    },
+    {
+     "code": "BX-0475-01-003",
+     "name": {
+      "ar": "⁦TCD2013 L6 2V Tier 3⁩",
+      "en": "TCD2013 L6 2V Tier 3"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦130–200⁩ كيلوواط عند ⁦1800–2300⁩ دورة/دقيقة",
+       "en": "130–200 kW at 1800–2300 r/min"
+      },
+      "displacement": {
+       "ar": "⁦6⁩ أسطوانات · ⁦7.2⁩ لتر",
+       "en": "6 cyl., 7.2 L"
+      },
+      "models": {
+       "ar": "⁦TCD2013 L6 2V Tier 3⁩",
+       "en": "TCD2013 L6 2V Tier 3"
+      },
+      "notes": {
+       "ar": "حقن إلكتروني بالسكة المشتركة",
+       "en": "Electronic common rail"
+      }
+     }
+    },
+    {
+     "code": "BX-0475-01-004",
+     "name": {
+      "ar": "⁦BF4M1013 Tier 2⁩",
+      "en": "BF4M1013 Tier 2"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦118 / 129⁩ كيلوواط عند ⁦2300⁩ دورة/دقيقة",
+       "en": "118 / 129 kW at 2300 r/min"
+      },
+      "displacement": {
+       "ar": "⁦4⁩ أسطوانات · ⁦4.8⁩ لتر",
+       "en": "4 cyl., 4.8 L"
+      },
+      "models": {
+       "ar": "⁦BF4M1013 Tier 2⁩",
+       "en": "BF4M1013 Tier 2"
+      },
+      "notes": {
+       "ar": "⁦EC / FC⁩",
+       "en": "EC / FC"
+      }
+     }
+    },
+    {
+     "code": "BX-0475-01-005",
+     "name": {
+      "ar": "⁦BF4M1013-T3 Tier 3⁩",
+      "en": "BF4M1013-T3 Tier 3"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦110–129⁩ كيلوواط عند ⁦2000–2300⁩ دورة/دقيقة",
+       "en": "110–129 kW at 2000–2300 r/min"
+      },
+      "displacement": {
+       "ar": "⁦4.8⁩ لتر",
+       "en": "4.8 L"
+      },
+      "models": {
+       "ar": "⁦BF4M1013-T3 Tier 3⁩",
+       "en": "BF4M1013-T3 Tier 3"
+      }
+     }
+    },
+    {
+     "code": "BX-0475-01-006",
+     "name": {
+      "ar": "⁦TCD2013 L4 2V Tier 3⁩",
+      "en": "TCD2013 L4 2V Tier 3"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦70–129⁩ كيلوواط عند ⁦2000–2300⁩ دورة/دقيقة",
+       "en": "70–129 kW at 2000–2300 r/min"
+      },
+      "displacement": {
+       "ar": "⁦4.8⁩ لتر",
+       "en": "4.8 L"
+      },
+      "models": {
+       "ar": "⁦TCD2013 L4 2V Tier 3⁩",
+       "en": "TCD2013 L4 2V Tier 3"
+      },
+      "notes": {
+       "ar": "سكة مشتركة",
+       "en": "Common rail"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "series-2012",
+   "label": {
+    "ar": "محركات ⁦2012⁩ بترخيص ⁦Deutz⁩",
+    "en": "2012-series engines (Deutz licence)"
+   },
+   "key": {
+    "ar": "⁦4.0–6.0⁩ لتر",
+    "en": "4.0–6.0 L"
+   },
+   "intro": {
+    "ar": "محركات ديزل صناعية من سلسلة 2012 بمعيار Tier 2 وTier 3، من 66 إلى 155 كيلوواط.",
+    "en": "Industrial 2012-series diesel engines to Tier 2 and Tier 3, from 66 to 155 kW."
+   },
+   "models": [
+    {
+     "code": "BX-0475-01-007",
+     "name": {
+      "ar": "⁦BF6M2012 Tier 2⁩",
+      "en": "BF6M2012 Tier 2"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦155⁩ كيلوواط عند ⁦2500⁩ دورة/دقيقة",
+       "en": "155 kW at 2500 r/min"
+      },
+      "displacement": {
+       "ar": "⁦6⁩ أسطوانات · ⁦6.0⁩ لتر",
+       "en": "6 cyl., 6.0 L"
+      },
+      "models": {
+       "ar": "⁦BF6M2012 Tier 2⁩",
+       "en": "BF6M2012 Tier 2"
+      },
+      "notes": {
+       "ar": "⁦BF6M2012 C⁩",
+       "en": "BF6M2012 C"
+      }
+     }
+    },
+    {
+     "code": "BX-0475-01-008",
+     "name": {
+      "ar": "⁦BF6M2012-T3 Tier 3⁩",
+      "en": "BF6M2012-T3 Tier 3"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦117–155⁩ كيلوواط عند ⁦1800–2400⁩ دورة/دقيقة",
+       "en": "117–155 kW at 1800–2400 r/min"
+      },
+      "displacement": {
+       "ar": "⁦6.0⁩ لتر",
+       "en": "6.0 L"
+      },
+      "models": {
+       "ar": "⁦BF6M2012-T3 Tier 3⁩",
+       "en": "BF6M2012-T3 Tier 3"
+      }
+     }
+    },
+    {
+     "code": "BX-0475-01-009",
+     "name": {
+      "ar": "⁦TCD2012 L6 2V Tier 3⁩",
+      "en": "TCD2012 L6 2V Tier 3"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦100–155⁩ كيلوواط عند ⁦2000–2400⁩ دورة/دقيقة",
+       "en": "100–155 kW at 2000–2400 r/min"
+      },
+      "displacement": {
+       "ar": "⁦6.0⁩ لتر",
+       "en": "6.0 L"
+      },
+      "models": {
+       "ar": "⁦TCD2012 L6 2V Tier 3⁩",
+       "en": "TCD2012 L6 2V Tier 3"
+      },
+      "notes": {
+       "ar": "سكة مشتركة",
+       "en": "Common rail"
+      }
+     }
+    },
+    {
+     "code": "BX-0475-01-010",
+     "name": {
+      "ar": "⁦BF4M2012 Tier 2⁩",
+      "en": "BF4M2012 Tier 2"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦75 / 103⁩ كيلوواط عند ⁦2500⁩ دورة/دقيقة",
+       "en": "75 / 103 kW at 2500 r/min"
+      },
+      "displacement": {
+       "ar": "⁦4⁩ أسطوانات · ⁦4.0⁩ لتر",
+       "en": "4 cyl., 4.0 L"
+      },
+      "models": {
+       "ar": "⁦BF4M2012 Tier 2⁩",
+       "en": "BF4M2012 Tier 2"
+      },
+      "notes": {
+       "ar": "⁦BF4M2012 / BF4M2012C⁩",
+       "en": "BF4M2012 / BF4M2012C"
+      }
+     }
+    },
+    {
+     "code": "BX-0475-01-011",
+     "name": {
+      "ar": "⁦BF4M2012-T3 Tier 3⁩",
+      "en": "BF4M2012-T3 Tier 3"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦78–103⁩ كيلوواط عند ⁦1900–2400⁩ دورة/دقيقة",
+       "en": "78–103 kW at 1900–2400 r/min"
+      },
+      "displacement": {
+       "ar": "⁦4.0⁩ لتر",
+       "en": "4.0 L"
+      },
+      "models": {
+       "ar": "⁦BF4M2012-T3 Tier 3⁩",
+       "en": "BF4M2012-T3 Tier 3"
+      }
+     }
+    },
+    {
+     "code": "BX-0475-01-012",
+     "name": {
+      "ar": "⁦TCD2012 L4 2V Tier 3⁩",
+      "en": "TCD2012 L4 2V Tier 3"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦66–103⁩ كيلوواط عند ⁦2000–2400⁩ دورة/دقيقة",
+       "en": "66–103 kW at 2000–2400 r/min"
+      },
+      "displacement": {
+       "ar": "⁦4.0⁩ لتر",
+       "en": "4.0 L"
+      },
+      "models": {
+       "ar": "⁦TCD2012 L4 2V Tier 3⁩",
+       "en": "TCD2012 L4 2V Tier 3"
+      },
+      "notes": {
+       "ar": "سكة مشتركة",
+       "en": "Common rail"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "large",
+   "label": {
+    "ar": "محركات المولدات الكبيرة",
+    "en": "Large generator engines"
+   },
+   "key": {
+    "ar": "حتى ⁦2,032⁩ كيلوواط",
+    "en": "Up to 2,032 kW"
+   },
+   "intro": {
+    "ar": "محركات Deutz-MWM الكبيرة للمولدات، وسلاسل Cummins المبردة بالماء.",
+    "en": "Large Deutz-MWM generator engines and Cummins water-cooled series."
+   },
+   "models": [
+    {
+     "code": "BX-0498-01-006",
+     "name": {
+      "ar": "محركات ⁦Deutz-MWM⁩ الكبيرة للمولدات",
+      "en": "Deutz-MWM large generator engines"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦186–2,032⁩ كيلوواط",
+       "en": "186–2,032 kW"
+      },
+      "build": {
+       "ar": "مبرد بالماء",
+       "en": "Water-cooled"
+      },
+      "models": {
+       "ar": "⁦TBD234 V6/V8/V12, TD234 V6/V8, TBD604BL6, TBD620 L6/V8/V12/V16⁩",
+       "en": "TBD234 V6/V8/V12, TD234 V6/V8, TBD604BL6, TBD620 L6/V8/V12/V16"
+      }
+     }
+    },
+    {
+     "code": "BX-0498-01-007",
+     "name": {
+      "ar": "محركات ⁦Cummins⁩ مبردة بالماء، ⁦B⁩ و⁦C⁩ و⁦L⁩",
+      "en": "Cummins water-cooled engines, B, C, L"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦60–264⁩ كيلوواط",
+       "en": "60–264 kW"
+      },
+      "build": {
+       "ar": "مبرد بالماء",
+       "en": "Water-cooled"
+      },
+      "models": {
+       "ar": "⁦B, C, L⁩",
+       "en": "B, C, L"
+      }
+     }
+    },
+    {
+     "code": "BX-0498-01-008",
+     "name": {
+      "ar": "محركات ⁦Cummins⁩ مبردة بالماء، ⁦N⁩ و⁦K⁩ و⁦M⁩",
+      "en": "Cummins water-cooled engines, N, K, M"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦175–1,864⁩ كيلوواط",
+       "en": "175–1,864 kW"
+      },
+      "build": {
+       "ar": "مبرد بالماء",
+       "en": "Water-cooled"
+      },
+      "models": {
+       "ar": "⁦N, K, M⁩",
+       "en": "N, K, M"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "countUnit": {
+  "ar": [
+   "بند واحد",
+   "بندان",
+   "بنود"
+  ],
+  "en": [
+   "item",
+   "items"
+  ]
+ }
+}

@@ -128,8 +128,14 @@ const rowsFor = (tp) => (props.family.rows || []).filter(r => tp.models.some(m =
 const keyRows = computed(() => (current.value?.keyRows || props.family.keyRows || []).map(k => (props.family.rows || []).find(r => r.key === k)).filter(Boolean))
 // An empty cell reads "on request" for doors (set in the proposal) and a dash where the catalogue states nothing.
 const missingLabel = computed(() => props.family.missing ? t(props.family.missing) : (isAr.value ? 'عند الطلب' : 'On request'))
-const anchor = (m) => `model-${String(m.code).toLowerCase()}`
-const countLabel = (n) => isAr.value
-  ? (n === 1 ? 'موديل واحد' : n === 2 ? 'موديلان' : `${n} موديلات`)
-  : (n === 1 ? '1 model' : `${n} models`)
+// Codes such as "BX-0005-01-042 / PA-25kw" (one table code, many models) become valid ids.
+const anchor = (m) => `model-${String(m.code).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`
+// A family may count series or product lines instead of models (the generator pages: countUnit).
+const countLabel = (n) => {
+  const u = props.family.countUnit
+  if (u) return isAr.value ? (n === 1 ? u.ar[0] : n === 2 ? u.ar[1] : `${n} ${u.ar[2]}`) : `${n} ${n === 1 ? u.en[0] : u.en[1]}`
+  return isAr.value
+    ? (n === 1 ? 'موديل واحد' : n === 2 ? 'موديلان' : `${n} موديلات`)
+    : (n === 1 ? '1 model' : `${n} models`)
+}
 </script>

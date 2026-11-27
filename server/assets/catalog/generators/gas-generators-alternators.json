@@ -1,0 +1,351 @@
+{
+ "id": "gas-generators-alternators",
+ "updated": "2026-11-27",
+ "title": {
+  "ar": "المنتجات والمواصفات",
+  "en": "Products and specifications"
+ },
+ "source": {
+  "ar": "المصدر: كتالوج بيستوليكس BXE-01، الإصدار الثاني 2026 · * حسب بيانات المصنّع · المواصفات من المصنّعين وقد تتغير دون إشعار",
+  "en": "Source: Bestolex catalogue BXE-01, Edition 2 (2026) · * manufacturer-stated · specifications come from the manufacturers and may change without notice"
+ },
+ "typeLabel": {
+  "ar": "نوع المنتج",
+  "en": "Product type"
+ },
+ "missing": {
+  "ar": "—",
+  "en": "—"
+ },
+ "rows": [
+  {
+   "key": "power",
+   "label": {
+    "ar": "القدرة",
+    "en": "Power"
+   }
+  },
+  {
+   "key": "frames",
+   "label": {
+    "ar": "المحركات / الإطارات",
+    "en": "Engines / frames"
+   }
+  },
+  {
+   "key": "speed",
+   "label": {
+    "ar": "السرعة والتردد",
+    "en": "Speed and frequency"
+   }
+  },
+  {
+   "key": "voltage",
+   "label": {
+    "ar": "الجهد",
+    "en": "Voltage"
+   }
+  },
+  {
+   "key": "models",
+   "label": {
+    "ar": "الموديلات",
+    "en": "Models"
+   }
+  },
+  {
+   "key": "notes",
+   "label": {
+    "ar": "ملاحظات",
+    "en": "Notes"
+   }
+  }
+ ],
+ "keyRows": [
+  "power",
+  "speed",
+  "models"
+ ],
+ "types": [
+  {
+   "id": "gas",
+   "label": {
+    "ar": "مولدات الغاز",
+    "en": "Gas generator sets"
+   },
+   "key": {
+    "ar": "⁦8–1,200⁩ كيلوواط",
+    "en": "8–1,200 kW"
+   },
+   "intro": {
+    "ar": "مولدات تعمل بالغاز للمواقع التي يتوفر فيها الغاز الطبيعي أو الحيوي.",
+    "en": "Gas-fuelled generator sets for sites with natural gas or biogas."
+   },
+   "models": [
+    {
+     "code": "BX-0530-01-007",
+     "name": {
+      "ar": "مولدات غاز بمحركات سلسلة ⁦190⁩",
+      "en": "Gas generator sets, 190-series engines"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦300–1,200⁩ كيلوواط",
+       "en": "300–1,200 kW"
+      },
+      "frames": {
+       "ar": "محركات ⁦12V⁩ و⁦H16V⁩",
+       "en": "12V and H16V engines"
+      },
+      "speed": {
+       "ar": "⁦1,000 / 1,500⁩ دورة/دقيقة",
+       "en": "1,000 / 1,500 rpm"
+      },
+      "voltage": {
+       "ar": "⁦400 / 230⁩ فولت",
+       "en": "400 / 230 V"
+      },
+      "models": {
+       "ar": "⁦7⁩ موديلات",
+       "en": "7 models"
+      }
+     }
+    },
+    {
+     "code": "BX-0530-01-008",
+     "name": {
+      "ar": "مولدات غاز بمحركات ⁦Weichai⁩",
+      "en": "Gas generator sets, Weichai engines"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦30–550⁩ كيلوواط تشغيل مستمر",
+       "en": "30–550 kW continuous"
+      },
+      "speed": {
+       "ar": "⁦1,500 / 1,800⁩ دورة/دقيقة",
+       "en": "1,500 / 1,800 rpm"
+      },
+      "models": {
+       "ar": "نحو ⁦21⁩ موديلاً",
+       "en": "About 21 models"
+      },
+      "notes": {
+       "ar": "تنفس طبيعي أو شاحن توربيني",
+       "en": "Naturally aspirated or turbocharged"
+      }
+     }
+    },
+    {
+     "code": "BX-0530-01-009",
+     "name": {
+      "ar": "مولدات غاز بمحركات ⁦Ricardo / Steyr⁩",
+      "en": "Gas generator sets, Ricardo / Steyr engines"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦8–250⁩ كيلوواط",
+       "en": "8–250 kW"
+      },
+      "speed": {
+       "ar": "⁦50⁩ هرتز",
+       "en": "50 Hz"
+      },
+      "voltage": {
+       "ar": "⁦400 / 230⁩ فولت",
+       "en": "400 / 230 V"
+      },
+      "models": {
+       "ar": "⁦15⁩ موديلاً",
+       "en": "15 models"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "alternators-silent",
+   "label": {
+    "ar": "الألترنيتر والكبائن الصامتة",
+    "en": "Alternators & silent sets"
+   },
+   "key": {
+    "ar": "⁦8–2,500⁩ ك.ف.أ",
+    "en": "8–2,500 kVA"
+   },
+   "intro": {
+    "ar": "مولدات تيار متناوب بلا فرش (ألترنيتر) من 8 إلى 2,500 ك.ف.أ، ونسخ صامتة بكابينة من سلاسل الديزل.",
+    "en": "Brushless AC alternators from 8 to 2,500 kVA, and silent canopy versions of the diesel series."
+   },
+   "models": [
+    {
+     "code": "BX-0524-02-010",
+     "name": {
+      "ar": "ألترنيتر تيار متناوب بلا فرش",
+      "en": "Brushless AC alternators"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦8–2,500⁩ ك.ف.أ",
+       "en": "8–2,500 kVA"
+      },
+      "frames": {
+       "ar": "الإطارات ⁦164⁩، ⁦184⁩، ⁦224⁩، ⁦274⁩، ⁦434 / 444⁩، ⁦534⁩، ⁦634⁩",
+       "en": "Frames 164, 184, 224, 274, 434 / 444, 534, 634"
+      },
+      "speed": {
+       "ar": "⁦50⁩ هرتز ⁦1,500⁩ دورة/دقيقة · ⁦60⁩ هرتز ⁦1,800⁩ دورة/دقيقة",
+       "en": "50 Hz 1,500 rpm · 60 Hz 1,800 rpm"
+      },
+      "voltage": {
+       "ar": "⁦380 / 400 / 415 / 440⁩ فولت",
+       "en": "380 / 400 / 415 / 440 V"
+      },
+      "notes": {
+       "ar": "عزل من الفئة ⁦H⁩",
+       "en": "Class H insulation"
+      }
+     }
+    },
+    {
+     "code": "BX-0540-01-011",
+     "name": {
+      "ar": "ألترنيتر بلا فرش",
+      "en": "Brushless alternators"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦8–2,500⁩ ك.ف.أ",
+       "en": "8–2,500 kVA"
+      },
+      "speed": {
+       "ar": "⁦50 / 60⁩ هرتز · ⁦1500 / 1800⁩ دورة/دقيقة",
+       "en": "50 / 60 Hz · 1500 / 1800 r/min"
+      }
+     }
+    },
+    {
+     "code": "BX-0524-02-009",
+     "name": {
+      "ar": "مولدات بكابينة صامتة",
+      "en": "Silent canopy generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦20–80⁩، و⁦100–400⁩، و⁦500–1,000⁩ ك.ف.أ",
+       "en": "20–80, 100–400, 500–1,000 kVA"
+      },
+      "notes": {
+       "ar": "نسخ صامتة من سلاسل الديزل",
+       "en": "Silent versions of the diesel series"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "special",
+   "label": {
+    "ar": "المولدات الخاصة",
+    "en": "Special generators"
+   },
+   "key": {
+    "ar": "شاحنات وحاويات ولحام",
+    "en": "Trucks, reefers, welding"
+   },
+   "intro": {
+    "ar": "مولدات ديزل صغيرة بإطار مفتوح، ووحدات خاصة للشاحنات وحاويات التبريد واللحام.",
+    "en": "Small open-frame diesel generators, and special units for trucks, refrigerated containers and welding."
+   },
+   "models": [
+    {
+     "code": "BX-0214-01-002",
+     "name": {
+      "ar": "مولدات ديزل صغيرة بإطار مفتوح",
+      "en": "Small open-frame diesel generators"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦1.8–15⁩ كيلوواط",
+       "en": "1.8–15 kW"
+      },
+      "speed": {
+       "ar": "⁦50 / 60⁩ هرتز",
+       "en": "50 / 60 Hz"
+      },
+      "voltage": {
+       "ar": "أحادي أو ثلاثي الطور · منظم جهد ⁦AVR⁩",
+       "en": "Single or three phase · AVR"
+      },
+      "models": {
+       "ar": "⁦2500L(E), 3500L(E), 6500L(E), 7500L(E), 10000L(E), 12000L(E), 15000L(E), S12000E, S15000E, S18000E⁩",
+       "en": "2500L(E), 3500L(E), 6500L(E), 7500L(E), 10000L(E), 12000L(E), 15000L(E), S12000E, S15000E, S18000E"
+      }
+     }
+    },
+    {
+     "code": "BX-0530-01-015",
+     "name": {
+      "ar": "مولدات على شاحنة",
+      "en": "Truck-mounted generator sets"
+     },
+     "specs": {
+      "models": {
+       "ar": "عند الطلب",
+       "en": "On request"
+      },
+      "notes": {
+       "ar": "على شاسيه شاحنة قياسية مرخّصة للطرق",
+       "en": "Built on a standard road-licensed truck chassis"
+      }
+     }
+    },
+    {
+     "code": "BX-0576-02-001",
+     "name": {
+      "ar": "مولدات حاويات التبريد",
+      "en": "Reefer container generator sets"
+     },
+     "specs": {
+      "models": {
+       "ar": "تثبيت جانبي (⁦Clip-on)⁩ أو سفلي (⁦Under-mount)⁩",
+       "en": "Clip-on, under-mount"
+      },
+      "notes": {
+       "ar": "لحاويات التبريد",
+       "en": "For refrigerated containers"
+      }
+     }
+    },
+    {
+     "code": "BX-0584-02-004",
+     "name": {
+      "ar": "مولدات لحام",
+      "en": "Welding generators"
+     },
+     "specs": {
+      "models": {
+       "ar": "بنزين وديزل · وحدات ⁦3⁩ في ⁦1⁩ و⁦4⁩ في ⁦1⁩",
+       "en": "Gasoline, diesel · 3-in-1 and 4-in-1 units"
+      },
+      "notes": {
+       "ar": "مولد وماكينة لحام في وحدة واحدة",
+       "en": "Generator and welder in one unit"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "countUnit": {
+  "ar": [
+   "خط واحد",
+   "خطان",
+   "خطوط"
+  ],
+  "en": [
+   "line",
+   "lines"
+  ]
+ }
+}

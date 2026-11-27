@@ -1,0 +1,595 @@
+{
+ "id": "portable-generators",
+ "updated": "2026-11-27",
+ "title": {
+  "ar": "المنتجات والمواصفات",
+  "en": "Products and specifications"
+ },
+ "source": {
+  "ar": "المصدر: كتالوج بيستوليكس BXE-01، الإصدار الثاني 2026 · * حسب بيانات المصنّع · المواصفات من المصنّعين وقد تتغير دون إشعار",
+  "en": "Source: Bestolex catalogue BXE-01, Edition 2 (2026) · * manufacturer-stated · specifications come from the manufacturers and may change without notice"
+ },
+ "typeLabel": {
+  "ar": "نوع المنتج",
+  "en": "Product type"
+ },
+ "missing": {
+  "ar": "—",
+  "en": "—"
+ },
+ "rows": [
+  {
+   "key": "power",
+   "label": {
+    "ar": "القدرة",
+    "en": "Power"
+   }
+  },
+  {
+   "key": "voltage",
+   "label": {
+    "ar": "الجهد والتردد",
+    "en": "Voltage and frequency"
+   }
+  },
+  {
+   "key": "runtime",
+   "label": {
+    "ar": "مدة التشغيل",
+    "en": "Run time"
+   }
+  },
+  {
+   "key": "tank",
+   "label": {
+    "ar": "خزان الوقود",
+    "en": "Fuel tank"
+   }
+  },
+  {
+   "key": "weight",
+   "label": {
+    "ar": "الوزن",
+    "en": "Weight"
+   }
+  },
+  {
+   "key": "models",
+   "label": {
+    "ar": "الموديلات",
+    "en": "Models"
+   }
+  },
+  {
+   "key": "notes",
+   "label": {
+    "ar": "ملاحظات",
+    "en": "Notes"
+   }
+  }
+ ],
+ "keyRows": [
+  "power",
+  "voltage",
+  "weight"
+ ],
+ "types": [
+  {
+   "id": "inverter",
+   "label": {
+    "ar": "مولدات بنزين بالإنفرتر",
+    "en": "Petrol inverter generators"
+   },
+   "key": {
+    "ar": "⁦1–7.5⁩ كيلوواط",
+    "en": "1–7.5 kW"
+   },
+   "intro": {
+    "ar": "مولدات إنفرتر رقمية خفيفة وهادئة للأجهزة الحساسة والمخيمات والفعاليات.",
+    "en": "Light, quiet digital inverter generators for sensitive devices, camps and events."
+   },
+   "models": [
+    {
+     "code": "BX-0481-01-001",
+     "name": {
+      "ar": "مولدات إنفرتر رقمية، بنزين",
+      "en": "Digital inverter generators, petrol"
+     },
+     "specs": {
+      "power": {
+       "ar": "أقصى ⁦1.05 / 2 / 4⁩ كيلوواط (مقنن ⁦1 / 1.8 / 3.2)⁩",
+       "en": "Max. 1.05 / 2 / 4 kW (rated 1 / 1.8 / 3.2)"
+      },
+      "voltage": {
+       "ar": "⁦230⁩ فولت · ⁦50⁩ هرتز",
+       "en": "230 V · 50 Hz"
+      },
+      "runtime": {
+       "ar": "⁦4–5⁩ ساعات",
+       "en": "4–5 h"
+      },
+      "weight": {
+       "ar": "⁦12.5–25⁩ كجم",
+       "en": "12.5–25 kg"
+      },
+      "models": {
+       "ar": "⁦PG1000iN, PG2000iN, PG4000iN⁩",
+       "en": "PG1000iN, PG2000iN, PG4000iN"
+      }
+     }
+    },
+    {
+     "code": "BX-0481-01-002",
+     "name": {
+      "ar": "مولدات إنفرتر، بنزين",
+      "en": "Inverter generators, petrol"
+     },
+     "specs": {
+      "power": {
+       "ar": "أقصى ⁦1 / 2 / 4 / 7.5⁩ كيلوواط (مقنن ⁦0.9 / 1.8 / 3.5 / 5.5)⁩",
+       "en": "Max. 1 / 2 / 4 / 7.5 kW (rated 0.9 / 1.8 / 3.5 / 5.5)"
+      },
+      "voltage": {
+       "ar": "⁦230⁩ فولت · ⁦50⁩ هرتز",
+       "en": "230 V · 50 Hz"
+      },
+      "runtime": {
+       "ar": "⁦6–8⁩ ساعات",
+       "en": "6–8 h"
+      },
+      "weight": {
+       "ar": "⁦15–32⁩ كجم",
+       "en": "15–32 kg"
+      },
+      "models": {
+       "ar": "⁦PG1000i, PG2000i, PG4000i, PG7500i⁩",
+       "en": "PG1000i, PG2000i, PG4000i, PG7500i"
+      }
+     }
+    },
+    {
+     "code": "BX-0529-01-002",
+     "name": {
+      "ar": "مولدات إنفرتر رقمية، بنزين (⁦YL)⁩",
+      "en": "Digital inverter generators, petrol (YL)"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦2.5–5.5⁩ كيلوواط",
+       "en": "2.5–5.5 kW"
+      },
+      "voltage": {
+       "ar": "⁦220⁩ فولت · ⁦50⁩ هرتز",
+       "en": "220 V · 50 Hz"
+      },
+      "models": {
+       "ar": "⁦YL4500-W, YL2000IS, YL2500S, YL5500S⁩",
+       "en": "YL4500-W, YL2000IS, YL2500S, YL5500S"
+      },
+      "notes": {
+       "ar": "⁦YL4500-W⁩ يعطي أيضاً خرج لحام ⁦130 / 160⁩ أمبير",
+       "en": "YL4500-W also gives 130 / 160 A welding output"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "petrol-open",
+   "label": {
+    "ar": "مولدات بنزين بإطار مفتوح",
+    "en": "Open-frame petrol generators"
+   },
+   "key": {
+    "ar": "حتى ⁦10⁩ كيلوواط",
+    "en": "Up to 10 kW"
+   },
+   "intro": {
+    "ar": "مولدات بنزين بإطار مفتوح للعدد والمضخات والإنارة في المواقع.",
+    "en": "Open-frame petrol generators for tools, pumps and lighting on site."
+   },
+   "models": [
+    {
+     "code": "BX-0481-01-005",
+     "name": {
+      "ar": "مولدات بنزين بإطار مفتوح، ⁦1–2.8⁩ كيلوواط",
+      "en": "Open-frame petrol generators, 1–2.8 kW"
+     },
+     "specs": {
+      "power": {
+       "ar": "مقنن ⁦0.9–2.6⁩ كيلوواط",
+       "en": "Rated 0.9–2.6 kW"
+      },
+      "voltage": {
+       "ar": "⁦230⁩ فولت · ⁦50⁩ هرتز",
+       "en": "230 V · 50 Hz"
+      },
+      "runtime": {
+       "ar": "⁦6.8–11⁩ ساعة",
+       "en": "6.8–11 h"
+      },
+      "tank": {
+       "ar": "⁦8–15⁩ لتر",
+       "en": "8–15 L"
+      },
+      "weight": {
+       "ar": "⁦24–40⁩ كجم",
+       "en": "24–40 kg"
+      },
+      "models": {
+       "ar": "⁦PG1000, PG1500, PG2500A, PG3000A, PG3000B, PG3500B, PG2500D, PG3500D⁩",
+       "en": "PG1000, PG1500, PG2500A, PG3000A, PG3000B, PG3500B, PG2500D, PG3500D"
+      }
+     }
+    },
+    {
+     "code": "BX-0481-01-006",
+     "name": {
+      "ar": "مولدات بنزين بإطار مفتوح، ⁦2.2–6.5⁩ كيلوواط",
+      "en": "Open-frame petrol generators, 2.2–6.5 kW"
+     },
+     "specs": {
+      "power": {
+       "ar": "مقنن ⁦2–6⁩ كيلوواط",
+       "en": "Rated 2–6 kW"
+      },
+      "voltage": {
+       "ar": "⁦230⁩ فولت · ⁦50⁩ هرتز",
+       "en": "230 V · 50 Hz"
+      },
+      "runtime": {
+       "ar": "⁦8–10.6⁩ ساعة",
+       "en": "8–10.6 h"
+      },
+      "tank": {
+       "ar": "⁦15–25⁩ لتر",
+       "en": "15–25 L"
+      },
+      "weight": {
+       "ar": "⁦38–79⁩ كجم",
+       "en": "38–79 kg"
+      },
+      "models": {
+       "ar": "⁦PG2500C, PG3500C, PG2500D, PG3000D, PG2600, PG3500, PG6500, PG7500⁩",
+       "en": "PG2500C, PG3500C, PG2500D, PG3000D, PG2600, PG3500, PG6500, PG7500"
+      }
+     }
+    },
+    {
+     "code": "BX-0529-01-003",
+     "name": {
+      "ar": "مولدات بنزين ⁦YL4500⁩ و⁦YL7500⁩",
+      "en": "Petrol generators YL4500, YL7500"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦3 / 3.3⁩ و⁦5 / 5.5⁩ ك.ف.أ",
+       "en": "3 / 3.3 and 5 / 5.5 kVA"
+      },
+      "voltage": {
+       "ar": "⁦220 / 380⁩ فولت · أحادي أو ثلاثي الطور",
+       "en": "220 / 380 V · single or three phase"
+      },
+      "tank": {
+       "ar": "⁦25⁩ لتر",
+       "en": "25 L"
+      },
+      "models": {
+       "ar": "⁦YL4500, YL7500⁩",
+       "en": "YL4500, YL7500"
+      },
+      "notes": {
+       "ar": "محرك ⁦7.5⁩ أو ⁦13⁩ حصاناً",
+       "en": "7.5 or 13 hp engine"
+      }
+     }
+    },
+    {
+     "code": "BX-0492-01-001",
+     "name": {
+      "ar": "مولدات بنزين بمحركات ⁦Honda⁩",
+      "en": "Petrol generators, Honda engines"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦2–10⁩ كيلوواط",
+       "en": "2–10 kW"
+      },
+      "models": {
+       "ar": "⁦LF8500SE, LF6500S, LF8000S, LF5000-C, R5500⁩",
+       "en": "LF8500SE, LF6500S, LF8000S, LF5000-C, R5500"
+      },
+      "notes": {
+       "ar": "محركات ⁦Honda GX390 / GX630⁩",
+       "en": "Honda GX390 / GX630 engines"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "diesel-air-cooled",
+   "label": {
+    "ar": "مولدات ديزل مبردة بالهواء",
+    "en": "Air-cooled diesel generators"
+   },
+   "key": {
+    "ar": "حتى ⁦20⁩ ك.ف.أ",
+    "en": "Up to 20 kVA"
+   },
+   "intro": {
+    "ar": "مولدات ديزل صغيرة مبردة بالهواء بإطار مفتوح أو صامتة، ومنها ما يقبل مفتاح تحويل تلقائي.",
+    "en": "Small air-cooled diesel generators, open frame or silent, some with an optional automatic transfer switch."
+   },
+   "models": [
+    {
+     "code": "BX-0481-01-007",
+     "name": {
+      "ar": "مولدات ديزل مبردة بالهواء، إطار مفتوح",
+      "en": "Air-cooled diesel generators, open frame"
+     },
+     "specs": {
+      "power": {
+       "ar": "أقصى ⁦3 / 5⁩ كيلوواط (مقنن ⁦2.8 / 4.5)⁩",
+       "en": "Max. 3 / 5 kW (rated 2.8 / 4.5)"
+      },
+      "voltage": {
+       "ar": "⁦230⁩ فولت · ⁦50⁩ هرتز",
+       "en": "230 V · 50 Hz"
+      },
+      "tank": {
+       "ar": "⁦15⁩ لتر",
+       "en": "15 L"
+      },
+      "weight": {
+       "ar": "⁦80–108⁩ كجم",
+       "en": "80–108 kg"
+      },
+      "models": {
+       "ar": "⁦DG3500, DG5500⁩",
+       "en": "DG3500, DG5500"
+      },
+      "notes": {
+       "ar": "مفتاح تحويل تلقائي ⁦ATS⁩ اختياري",
+       "en": "ATS optional"
+      }
+     }
+    },
+    {
+     "code": "BX-0481-01-008",
+     "name": {
+      "ar": "مولدات ديزل مبردة بالهواء ⁦DG5500T⁩ و⁦DG6500T⁩",
+      "en": "Air-cooled diesel generators DG5500T, DG6500T"
+     },
+     "specs": {
+      "power": {
+       "ar": "أقصى ⁦5.5 / 6.5⁩ كيلوواط (مقنن ⁦5 / 6)⁩",
+       "en": "Max. 5.5 / 6.5 kW (rated 5 / 6)"
+      },
+      "voltage": {
+       "ar": "⁦230⁩ فولت · ⁦50⁩ هرتز",
+       "en": "230 V · 50 Hz"
+      },
+      "weight": {
+       "ar": "⁦156–157⁩ كجم",
+       "en": "156–157 kg"
+      },
+      "models": {
+       "ar": "⁦DG5500T, DG6500T⁩",
+       "en": "DG5500T, DG6500T"
+      },
+      "notes": {
+       "ar": "مفتاح تحويل تلقائي ⁦ATS⁩ اختياري",
+       "en": "ATS optional"
+      }
+     }
+    },
+    {
+     "code": "BX-0493-01-001",
+     "name": {
+      "ar": "مولدات ديزل مبردة بالهواء، صامتة وبإطار مفتوح",
+      "en": "Air-cooled diesel generators, silent and open frame"
+     },
+     "specs": {
+      "power": {
+       "ar": "الصامتة ⁦3–20⁩ ك.ف.أ",
+       "en": "Silent units 3–20 kVA"
+      }
+     }
+    },
+    {
+     "code": "BX-0526-01-019",
+     "name": {
+      "ar": "مولد ديزل محمول مبرد بالهواء ⁦EPS-6700C⁩",
+      "en": "Portable air-cooled diesel generator EPS-6700C"
+     },
+     "specs": {
+      "models": {
+       "ar": "⁦EPS-6700C⁩",
+       "en": "EPS-6700C"
+      },
+      "notes": {
+       "ar": "وحدة صغيرة محمولة للتعدين الأهلي",
+       "en": "Small portable set for artisanal mining"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "diesel-silent",
+   "label": {
+    "ar": "مولدات ديزل صامتة",
+    "en": "Silent diesel generators"
+   },
+   "key": {
+    "ar": "حتى ⁦10⁩ كيلوواط",
+    "en": "Up to 10 kW"
+   },
+   "intro": {
+    "ar": "مولدات ديزل صامتة على عجلات أو مدمجة، للمنازل والمكاتب والمواقع القريبة من السكن.",
+    "en": "Silent diesel generators on wheels or compact, for homes, offices and sites near people."
+   },
+   "models": [
+    {
+     "code": "BX-0481-01-009",
+     "name": {
+      "ar": "مولدات ديزل صامتة على عجلات، ⁦10⁩ كيلوواط",
+      "en": "Silent diesel generators on wheels, 10 kW"
+     },
+     "specs": {
+      "power": {
+       "ar": "أقصى ⁦10⁩ كيلوواط، مقنن ⁦8⁩ كيلوواط",
+       "en": "Max. 10 kW, rated 8 kW"
+      },
+      "voltage": {
+       "ar": "⁦220⁩ فولت (⁦DG-12000SS)⁩ أو ⁦400⁩ فولت (⁦DG-12000SS3)⁩",
+       "en": "220 V (DG-12000SS) or 400 V (DG-12000SS3)"
+      },
+      "weight": {
+       "ar": "⁦170⁩ كجم",
+       "en": "170 kg"
+      },
+      "models": {
+       "ar": "⁦DG-12000SS, DG-12000SS3⁩",
+       "en": "DG-12000SS, DG-12000SS3"
+      },
+      "notes": {
+       "ar": "تشغيل كهربائي ⁦12⁩ فولت · مفتاح تحويل تلقائي ⁦ATS⁩",
+       "en": "12 V electric start · ATS"
+      }
+     }
+    },
+    {
+     "code": "BX-0529-01-007",
+     "name": {
+      "ar": "مولدات ديزل صامتة مبردة بالهواء",
+      "en": "Silent air-cooled diesel generators"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦2.5–6⁩ كيلوواط عند ⁦50⁩ هرتز",
+       "en": "2.5–6 kW at 50 Hz"
+      },
+      "voltage": {
+       "ar": "⁦220 / 380⁩ فولت",
+       "en": "220 / 380 V"
+      },
+      "runtime": {
+       "ar": "⁦7–11⁩ ساعة",
+       "en": "7–11 h"
+      },
+      "tank": {
+       "ar": "⁦15⁩ لتر",
+       "en": "15 L"
+      },
+      "models": {
+       "ar": "⁦YL3500S, YL6500S, YL7500S, YL8500S, YL9500S⁩",
+       "en": "YL3500S, YL6500S, YL7500S, YL8500S, YL9500S"
+      },
+      "notes": {
+       "ar": "⁦72⁩ ديسيبل على بعد ⁦7⁩ م",
+       "en": "72 dB at 7 m"
+      }
+     }
+    },
+    {
+     "code": "BX-0492-01-002",
+     "name": {
+      "ar": "مولدات ديزل صامتة صغيرة",
+      "en": "Small silent diesel generators"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦5.5–7.5⁩ ك.ف.أ",
+       "en": "5.5–7.5 kVA"
+      },
+      "models": {
+       "ar": "⁦KDE (5.5–7.5⁩ ك.ف.أ)، ⁦LF7800 / 9000DST-C (6.5⁩ ك.ف.أ)",
+       "en": "KDE (5.5–7.5 kVA), LF7800 / 9000DST-C (6.5 kVA)"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "small-sets",
+   "label": {
+    "ar": "مجموعات ديزل صغيرة",
+    "en": "Small diesel sets"
+   },
+   "key": {
+    "ar": "⁦6–25⁩ ك.ف.أ",
+    "en": "6–25 kVA"
+   },
+   "intro": {
+    "ar": "مجموعات ديزل مدمجة من 6 إلى 25 ك.ف.أ، مفتوحة وصامتة وعلى مقطورة.",
+    "en": "Compact diesel sets from 6 to 25 kVA, open, silent and trailer-mounted."
+   },
+   "models": [
+    {
+     "code": "BX-0525-01-003",
+     "name": {
+      "ar": "مجموعات ديزل صغيرة",
+      "en": "Small diesel generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦6–25⁩ ك.ف.أ",
+       "en": "6–25 kVA"
+      },
+      "notes": {
+       "ar": "مجموعات مدمجة",
+       "en": "Compact sets"
+      }
+     }
+    },
+    {
+     "code": "BX-0485-01-001",
+     "name": {
+      "ar": "مولدات ديزل صغيرة، ⁦14⁩ ك.ف.أ",
+      "en": "Small diesel generators, 14 kVA"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦14⁩ ك.ف.أ مفتوح · ⁦11⁩ كيلوواط / ⁦14⁩ ك.ف.أ صامت",
+       "en": "14 kVA open · 11 kW / 14 kVA silent"
+      },
+      "voltage": {
+       "ar": "أحادي أو ثلاثي الطور",
+       "en": "Single or three phase"
+      },
+      "notes": {
+       "ar": "نسخ مفتوحة وصامتة",
+       "en": "Open and silent versions"
+      }
+     }
+    },
+    {
+     "code": "BX-0522-01-006",
+     "name": {
+      "ar": "مجموعات على مقطورة وصغيرة",
+      "en": "Trailer and small diesel sets"
+     },
+     "specs": {
+      "models": {
+       "ar": "⁦Perkins 13⁩ ك.ف.أ على مقطورة · ⁦Yangdong MKW485D (8.5⁩ كيلوواط)",
+       "en": "Perkins 13 kVA trailer set · Yangdong MKW485D (8.5 kW)"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "countUnit": {
+  "ar": [
+   "سلسلة واحدة",
+   "سلسلتان",
+   "سلاسل"
+  ],
+  "en": [
+   "series",
+   "series"
+  ]
+ }
+}
