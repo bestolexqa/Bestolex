@@ -1,6 +1,6 @@
 <template>
   <header class="bg-white dark:bg-secondary text-gray-900 dark:text-white shadow-md sticky top-0 z-50 transition-colors duration-300">
-    <div class="container mx-auto px-4 py-4 flex justify-between items-center">
+    <div class="relative container mx-auto px-4 py-4 flex justify-between items-center">
       <!-- Logo -->
       <NuxtLink :to="localePath('/')" class="flex items-center gap-2 z-50 relative">
         <NuxtImg src="/logo.png" alt="Bestolex Logo" class="h-10 md:h-12 object-contain dark:hidden" format="webp" loading="eager" />
@@ -8,9 +8,8 @@
       </NuxtLink>
 
       <!-- Desktop Navigation -->
-      <nav class="hidden md:flex items-center gap-6">
+      <nav class="hidden lg:flex items-center gap-5">
         <NuxtLink :to="localePath('/')" class="hover:text-primary dark:hover:text-primary transition font-medium" active-class="text-primary">{{ t('home') }}</NuxtLink>
-        <NuxtLink :to="localePath('/about')" class="hover:text-primary dark:hover:text-primary transition font-medium" active-class="text-primary">{{ t('about') }}</NuxtLink>
         
         <!-- Products Mega Menu Dropdown (Desktop) -->
         <div class="relative group">
@@ -66,6 +65,8 @@
           </div>
         </div>
 
+        <NuxtLink :to="localePath('/sourcing')" class="hover:text-primary dark:hover:text-primary transition font-medium whitespace-nowrap" active-class="text-primary">{{ locale === 'ar' ? 'التوريد حسب الطلب' : 'Sourcing' }}</NuxtLink>
+
         <!-- Services Dropdown (Desktop) -->
         <div class="relative group">
           <NuxtLink :to="localePath('/services')" class="hover:text-primary dark:hover:text-primary transition font-medium flex items-center gap-1" active-class="text-primary">
@@ -118,8 +119,10 @@
           </div>
         </div>
 
+        <NuxtLink :to="localePath('/about')" class="hover:text-primary dark:hover:text-primary transition font-medium whitespace-nowrap" active-class="text-primary">{{ t('about') }}</NuxtLink>
+
         <!-- Blog Multi-Level Dropdown (Desktop) -->
-        <div class="relative group">
+        <div class="group">
           <NuxtLink :to="localePath('/blog')" class="hover:text-primary dark:hover:text-primary transition font-medium flex items-center gap-1" active-class="text-primary">
             {{ locale === 'ar' ? 'المدونة' : 'Blog' }}
             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 transition-transform group-hover:rotate-180 duration-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -128,7 +131,7 @@
           </NuxtLink>
 
           <!-- Blog Multi-Level Flyout / Mega Dropdown -->
-          <div class="absolute top-full rtl:right-0 ltr:left-0 mt-2 w-[760px] bg-white dark:bg-gray-800 rounded-2xl shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 flex overflow-hidden border border-gray-100 dark:border-gray-700 z-50">
+          <div class="absolute top-full rtl:left-4 ltr:right-4 mt-2 w-[760px] max-w-[calc(100%-2rem)] bg-white dark:bg-gray-800 rounded-2xl shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 flex overflow-hidden border border-gray-100 dark:border-gray-700 z-50">
             <!-- Left Side: Categories List -->
             <div class="w-2/5 bg-white dark:bg-gray-800 py-3 border-l rtl:border-l rtl:border-r-0 ltr:border-r border-gray-100 dark:border-gray-700 flex flex-col justify-between">
               <div>
@@ -214,7 +217,7 @@
       </nav>
 
       <!-- Desktop Actions (Language & Theme) -->
-      <div class="hidden md:flex items-center gap-4">
+      <div class="hidden lg:flex items-center gap-4">
         <button @click="isBookingModalOpen = true" class="group flex items-center gap-2 bg-gradient-to-r from-primary to-orange-500 hover:from-orange-500 hover:to-orange-600 text-white font-bold py-2 px-5 rounded-xl transition-all duration-300 shadow-lg shadow-primary/30 hover:shadow-primary/50 hover:-translate-y-0.5">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 group-hover:scale-110 transition-transform duration-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
@@ -240,7 +243,7 @@
       </div>
 
       <!-- Mobile Hamburger Button -->
-      <button @click="isMobileMenuOpen = !isMobileMenuOpen" class="md:hidden p-2 text-gray-600 dark:text-gray-300 hover:text-primary transition z-50 relative">
+      <button @click="isMobileMenuOpen = !isMobileMenuOpen" class="lg:hidden p-2 text-gray-600 dark:text-gray-300 hover:text-primary transition z-50 relative">
         <svg v-if="!isMobileMenuOpen" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
         </svg>
@@ -252,13 +255,12 @@
 
     <!-- Mobile Menu Overlay -->
     <div 
-      class="fixed inset-0 bg-white dark:bg-gray-900 z-40 transition-transform duration-300 ease-in-out md:hidden flex flex-col pt-24 pb-6 px-6 overflow-y-auto"
+      class="fixed inset-0 bg-white dark:bg-gray-900 z-40 transition-transform duration-300 ease-in-out lg:hidden flex flex-col pt-24 pb-6 px-6 overflow-y-auto"
       :class="isMobileMenuOpen ? 'translate-x-0' : (locale === 'ar' ? 'translate-x-full' : '-translate-x-full')"
     >
       <!-- Navigation Links -->
       <nav class="flex flex-col gap-5 text-base font-bold mb-8 flex-grow">
         <NuxtLink @click="isMobileMenuOpen = false" :to="localePath('/')" class="hover:text-primary transition" active-class="text-primary">{{ t('home') }}</NuxtLink>
-        <NuxtLink @click="isMobileMenuOpen = false" :to="localePath('/about')" class="hover:text-primary transition" active-class="text-primary">{{ t('about') }}</NuxtLink>
         
         <!-- Mobile Products Accordion -->
         <div class="border-y border-gray-100 dark:border-gray-800 py-3">
@@ -306,6 +308,8 @@
           </div>
         </div>
 
+        <NuxtLink @click="isMobileMenuOpen = false" :to="localePath('/sourcing')" class="hover:text-primary transition" active-class="text-primary">{{ locale === 'ar' ? 'التوريد حسب الطلب' : 'Sourcing on request' }}</NuxtLink>
+
         <!-- Mobile Services Accordion -->
         <div class="border-b border-gray-100 dark:border-gray-800 pb-3">
           <div class="flex items-center justify-between cursor-pointer" @click="isMobileServicesOpen = !isMobileServicesOpen">
@@ -330,6 +334,8 @@
             </NuxtLink>
           </div>
         </div>
+
+        <NuxtLink @click="isMobileMenuOpen = false" :to="localePath('/about')" class="hover:text-primary transition" active-class="text-primary">{{ t('about') }}</NuxtLink>
 
         <!-- Mobile Blog Multi-Level Accordion -->
         <div class="border-b border-gray-100 dark:border-gray-800 pb-3">

@@ -28,9 +28,14 @@
         <p class="text-base md:text-xl mb-8 text-gray-200 drop-shadow-md">
           {{ locale === 'ar' ? 'بيستوليكس – الوكيل الحصري لمنتجات ساب تك في قطر' : 'Bestolex – the exclusive SABTECH agent in Qatar' }}
         </p>
-        <NuxtLink :to="localePath('/products')" class="inline-block bg-primary text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-orange-600 transition shadow-lg shadow-primary/30 hover:scale-105">
-          {{ locale === 'ar' ? 'اكتشف منتجاتنا' : 'Explore Our Products' }}
-        </NuxtLink>
+        <div class="flex flex-wrap justify-center gap-3">
+          <NuxtLink :to="localePath('/products')" class="inline-block bg-primary text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-orange-600 transition shadow-lg shadow-primary/30 hover:scale-105">
+            {{ locale === 'ar' ? 'اكتشف منتجاتنا' : 'Explore Our Products' }}
+          </NuxtLink>
+          <NuxtLink :to="localePath('/sourcing')" class="inline-block border-2 border-white/80 text-white px-8 py-4 rounded-lg font-bold text-lg hover:border-primary hover:text-primary transition">
+            {{ locale === 'ar' ? 'التوريد حسب الطلب' : 'Sourcing on Request' }}
+          </NuxtLink>
+        </div>
       </div>
     </section>
 
@@ -66,94 +71,35 @@
       </div>
     </section>
 
-    <!-- Articles / Blog Section -->
-    <section class="py-24 bg-gray-50 dark:bg-gray-900">
-      <div class="container mx-auto px-4 md:px-8">
-        <div class="text-center max-w-3xl mx-auto mb-16" data-aos="fade-up">
-          <div class="inline-block bg-primary/10 text-primary font-extrabold px-4 py-1.5 rounded-lg text-sm mb-4">
-            {{ locale === 'ar' ? 'المدونة الهندسية المتخصصة في المعدات الثقيلة' : 'Heavy Machinery Engineering Blog' }}
-          </div>
-          <h2 class="text-3xl md:text-5xl font-black text-gray-900 dark:text-white mb-6">
-            {{ locale === 'ar' ? 'المقالات' : 'Articles' }}
+    <!-- Sourcing on request -->
+    <section class="py-20 bg-[#191919] text-white">
+      <div class="container mx-auto px-4 md:px-8 grid lg:grid-cols-12 gap-10 items-center">
+        <div class="lg:col-span-6" data-aos="fade-up">
+          <p class="text-primary font-bold mb-3">{{ locale === 'ar' ? 'التوريد حسب الطلب' : 'Sourcing on request' }}</p>
+          <h2 class="text-3xl md:text-4xl font-black leading-tight mb-5">
+            {{ locale === 'ar' ? 'تحتاج آلة لا تجدها في السوق المحلي؟' : "Need a machine you can't find locally?" }}
           </h2>
-          <p class="text-lg md:text-xl text-gray-600 dark:text-gray-400 leading-relaxed">
-            {{ locale === 'ar' 
-              ? 'أدلة فنية وقوائم فحص ومقارنات في أنظمة التحميل والمستودعات، والنفايات وإعادة التدوير، والحماية المحيطية، والأبواب الصناعية: مكتوبة لمن يشتري معدات هذه الأقسام ويشغّلها في قطر.' 
-              : 'Technical guides, maintenance checklists and comparisons across loading and warehouse systems, waste and recycling, perimeter protection and industrial doors — written for the people who buy and run this equipment in Qatar.' 
-            }}
+          <p class="text-gray-300 text-lg leading-relaxed mb-6">
+            {{ locale === 'ar'
+              ? 'صف لنا العمل الذي تريد إنجازه. نقارن الخيارات في مصانع حول العالم ونرشّح الأنسب لتشغيلك، ثم نتولى الشراء والشحن والتركيب والتدريب والصيانة.'
+              : 'Describe the job you need done. We compare options from factories worldwide, recommend the best fit, then handle purchasing, shipping, installation, training and maintenance.' }}
           </p>
+          <ul class="flex flex-wrap gap-2 mb-8">
+            <li v-for="k in sourcingKinds" :key="k.en" class="border border-white/20 rounded-full px-4 py-1.5 text-sm text-gray-200">{{ k[locale] }}</li>
+          </ul>
+          <div class="flex flex-wrap gap-3">
+            <NuxtLink :to="localePath('/sourcing')" class="bg-primary text-[#191919] font-bold px-7 py-3.5 rounded-lg hover:bg-[#f2b02a] transition">
+              {{ locale === 'ar' ? 'صف احتياجك' : 'Describe your need' }}
+            </NuxtLink>
+            <a :href="whatsappLink(locale === 'ar' ? 'مرحباً بيستوليكس، أحتاج توريد: ' : 'Hello Bestolex, I need to source: ')" target="_blank" rel="noopener" class="border border-gray-500 text-white font-bold px-7 py-3.5 rounded-lg hover:border-primary hover:text-primary transition">
+              {{ locale === 'ar' ? 'واتساب' : 'WhatsApp' }} <span dir="ltr" class="font-normal">+974 5150 5014</span>
+            </a>
+          </div>
         </div>
-
-        <!-- 6 Articles Grid (2 Rows of 3) -->
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
-          <article 
-            v-for="(article, idx) in articles" 
-            :key="article.id" 
-            class="bg-white dark:bg-gray-800 rounded-3xl overflow-hidden shadow-lg border border-gray-100 dark:border-gray-700 hover:-translate-y-2 hover:shadow-2xl transition-all duration-300 flex flex-col group"
-            data-aos="fade-up"
-            :data-aos-delay="(idx % 3) * 100"
-          >
-            <!-- Article Image -->
-            <div class="relative h-52 overflow-hidden bg-gray-100 dark:bg-gray-700">
-              <NuxtImg 
-                :src="article.image" 
-                :alt="article.title[locale]" 
-                class="w-full h-full object-cover group-hover:scale-110 transition duration-700" 
-                format="webp" 
-                loading="lazy" 
-              />
-              <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
-              
-              <!-- Category Tag -->
-              <span class="absolute top-4 rtl:right-4 ltr:left-4 bg-[#191919]/90 backdrop-blur-md text-[#E99E05] font-black text-xs px-3.5 py-1.5 rounded-full border border-[#E99E05]/30">
-                {{ article.category[locale] }}
-              </span>
-            </div>
-
-            <!-- Article Content -->
-            <div class="p-6 flex-1 flex flex-col justify-between">
-              <div>
-                <!-- Date & Read Time -->
-                <div class="flex items-center gap-3 text-xs font-bold text-gray-400 mb-3">
-                  <span>📅 {{ article.date }}</span>
-                  <span>•</span>
-                  <span>⏱️ {{ article.readTime[locale] }}</span>
-                </div>
-
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-3 group-hover:text-primary transition-colors leading-tight line-clamp-2">
-                  <NuxtLink :to="localePath(`/blog/${article.id}`)">
-                    {{ article.title[locale] }}
-                  </NuxtLink>
-                </h3>
-
-                <p class="text-gray-600 dark:text-gray-400 text-sm leading-relaxed mb-6 line-clamp-3">
-                  {{ article.desc[locale] }}
-                </p>
-              </div>
-
-              <!-- Read Article Link -->
-              <div class="pt-4 border-t border-gray-100 dark:border-gray-700/60 mt-auto">
-                <NuxtLink 
-                  :to="localePath(`/blog/${article.id}`)" 
-                  class="inline-flex items-center gap-2 text-primary hover:text-orange-600 font-black text-sm group-hover:underline transition"
-                >
-                  <span>{{ locale === 'ar' ? 'قراءة المقال' : 'Read Article' }}</span>
-                  <span class="rtl:rotate-180 text-base">&rarr;</span>
-                </NuxtLink>
-              </div>
-            </div>
-          </article>
-        </div>
-
-        <!-- View More Button -->
-        <div class="text-center" data-aos="fade-up">
-          <NuxtLink 
-            :to="localePath('/blog')" 
-            class="inline-flex items-center gap-3 bg-gradient-to-r from-primary to-orange-500 hover:from-orange-500 hover:to-orange-600 text-white font-bold px-8 py-4 rounded-xl transition shadow-lg shadow-primary/30 hover:shadow-primary/50 hover:-translate-y-1 text-lg"
-          >
-            <span>{{ locale === 'ar' ? 'عرض المزيد من المقالات' : 'Explore All Articles' }}</span>
-            <span class="rtl:rotate-180 text-xl">&rarr;</span>
-          </NuxtLink>
+        <div class="lg:col-span-6 grid grid-cols-2 gap-4" data-aos="fade-up" data-aos-delay="100">
+          <NuxtImg src="/sourcing/heavy-equipment.webp" :alt="locale === 'ar' ? 'شاحنة تعدين ورافعة على شاحنة' : 'Mining truck and truck-mounted crane'" class="col-span-2 w-full rounded-xl aspect-[900/510] object-cover" width="900" height="510" format="webp" loading="lazy" />
+          <NuxtImg src="/sourcing/generators.webp" :alt="locale === 'ar' ? 'مجموعة توليد صامتة على مقطورة' : 'Silent generating set on a trailer'" class="w-full rounded-xl aspect-[900/510] object-cover" width="900" height="510" format="webp" loading="lazy" />
+          <NuxtImg src="/sourcing/laboratory.webp" :alt="locale === 'ar' ? 'أجهزة تحضير العينات وموازين المختبر' : 'Sample preparation equipment and laboratory balances'" class="w-full rounded-xl aspect-[900/510] object-cover" width="900" height="510" format="webp" loading="lazy" />
         </div>
       </div>
     </section>
@@ -305,7 +251,8 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted, onUnmounted } from 'vue'
+import { ref, computed } from 'vue'
+import { whatsappLink } from '~/utils/leads'
 import mockProducts from '@/data/products.json'
 import mockArticles from '@/data/articles.json'
 
@@ -386,55 +333,12 @@ const homeServices = [
   { title: { ar: 'قطع الغيار وخدمة ما بعد البيع', en: 'Spare Parts & After-Sales Service' }, desc: { ar: 'نوفّر قطع الغيار ونتابع المعدات بعد التسليم.', en: 'We supply spare parts and support the equipment after handover.' } }
 ]
 
-const features = [
-  { icon: '🔬', title: 'البحث والتطوير' },
-  { icon: '⚙️', title: 'التصنيع والصيانة' },
-  { icon: '👷', title: 'مهندسين' },
-  { icon: '🤝', title: 'خدمات مابعد البيع' },
-  { icon: '🛠️', title: 'التركيب' },
-  { icon: '📦', title: 'منتجات حسب الطلب' }
+// Request kinds shown on the sourcing band (full list on /sourcing)
+const sourcingKinds = [
+  { ar: 'آلية أو معدة واحدة', en: 'A single machine' },
+  { ar: 'خط إنتاج', en: 'A production line' },
+  { ar: 'مصنع كامل', en: 'A complete plant' },
+  { ar: 'أجهزة ومختبرات', en: 'Instruments and laboratories' },
+  { ar: 'قطع غيار ومستهلكات', en: 'Spare parts and consumables' }
 ]
-
-const testimonials = [
-  { id: 1, name: 'أحمد محمود', company: 'مدير المشتريات', text: 'معدات ذات كفاءة عالية وخدمة ما بعد البيع ممتازة. أنصح بالتعامل معهم. سرعة في التوريد واحترافية في التركيب فاق توقعاتنا.' },
-  { id: 2, name: 'مؤسسة السيف للمقاولات', company: 'إدارة المشاريع', text: 'سرعة في التوريد واحترافية في التركيب. أداء المكابس فاق توقعاتنا بكثير وتتحمل العمل الشاق بشكل ممتاز.' },
-  { id: 3, name: 'خالد عبد الرحمن', company: 'مصنع البلاستيك الوطني', text: 'أبواب الرول الصناعية لديهم تتحمل ضغط العمل الشاق ومصممة بعناية فائقة. فريق الصيانة متجاوب دائماً.' }
-]
-
-const activeTestimonial = ref(0)
-let testimonialInterval = null
-
-onMounted(() => {
-  testimonialInterval = setInterval(() => {
-    activeTestimonial.value = (activeTestimonial.value + 1) % testimonials.length
-  }, 4000)
-})
-
-onUnmounted(() => {
-  if (testimonialInterval) clearInterval(testimonialInterval)
-})
 </script>
-
-<style scoped>
-.fade-slide-enter-active,
-.fade-slide-leave-active {
-  transition: all 0.5s ease;
-}
-.fade-slide-enter-from {
-  opacity: 0;
-  transform: translateY(20px) scale(0.95);
-}
-.fade-slide-leave-to {
-  opacity: 0;
-  transform: translateY(-20px) scale(0.95);
-}
-
-.animate-marquee {
-  animation: marquee 20s linear infinite;
-}
-
-@keyframes marquee {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
-}
-</style>

@@ -5,7 +5,7 @@ import { withRepoArticles } from '~~/server/utils/repoArticles'
 const BASE = 'https://www.bestolex.com'
 
 // Pages that exist in both languages. Arabic is the default (no prefix), English uses /en.
-const STATIC_PATHS = ['/', '/about', '/services', '/products', '/blog', '/contact', '/training', '/privacy', '/terms']
+const STATIC_PATHS = ['/', '/about', '/sourcing', '/services', '/products', '/blog', '/contact', '/training', '/privacy', '/terms']
 
 const xmlEscape = (s: string) => s
   .replace(/&/g, '&amp;')
