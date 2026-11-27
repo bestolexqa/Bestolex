@@ -441,8 +441,12 @@ const toggleTheme = useToggle(isDark)
 
 // Products Data
 const { data: productsData } = useCatalogNav()
-const activeProductCategory = ref(null)
-watch(productsData, (v) => { if (!activeProductCategory.value && v?.length) activeProductCategory.value = v[0] }, { immediate: true })
+// The first category is open until the visitor hovers another; a computed keeps server and client in step.
+const hoveredCategory = ref(null)
+const activeProductCategory = computed({
+  get: () => hoveredCategory.value || productsData.value?.[0] || null,
+  set: (v) => { hoveredCategory.value = v }
+})
 
 // Blog Data & Multi-Level Dropdown
 const blogArticles = ref(mockArticles)
