@@ -1,0 +1,991 @@
+{
+ "id": "high-speed-doors",
+ "updated": "2026-11-27",
+ "title": {
+  "ar": "الموديلات والمواصفات",
+  "en": "Models and specifications"
+ },
+ "source": {
+  "ar": "المصدر: مواقع المصنّعين ونشراتهم الفنية · المواصفات حسب المصنّع، وما لم يُنشر يُحدَّد في العرض الفني",
+  "en": "Source: the manufacturers' websites and data sheets · specs per manufacturer; anything unpublished is set in the technical proposal"
+ },
+ "rows": [
+  {
+   "key": "use",
+   "label": {
+    "ar": "الاستخدام",
+    "en": "Application"
+   }
+  },
+  {
+   "key": "size",
+   "label": {
+    "ar": "أقصى مقاس (عرض × ارتفاع)",
+    "en": "Maximum size (W × H)"
+   }
+  },
+  {
+   "key": "speed",
+   "label": {
+    "ar": "سرعة الفتح / الإغلاق",
+    "en": "Opening / closing speed"
+   }
+  },
+  {
+   "key": "wind",
+   "label": {
+    "ar": "مقاومة الرياح",
+    "en": "Wind resistance"
+   }
+  },
+  {
+   "key": "curtain",
+   "label": {
+    "ar": "الستارة",
+    "en": "Curtain"
+   }
+  },
+  {
+   "key": "frame",
+   "label": {
+    "ar": "الهيكل",
+    "en": "Frame"
+   }
+  },
+  {
+   "key": "temp",
+   "label": {
+    "ar": "حرارة التشغيل",
+    "en": "Operating temperature"
+   }
+  },
+  {
+   "key": "cycles",
+   "label": {
+    "ar": "العمر التشغيلي",
+    "en": "Service life"
+   }
+  },
+  {
+   "key": "safety",
+   "label": {
+    "ar": "الأمان",
+    "en": "Safety"
+   }
+  },
+  {
+   "key": "manual",
+   "label": {
+    "ar": "عند انقطاع الكهرباء",
+    "en": "In a power cut"
+   }
+  },
+  {
+   "key": "drive",
+   "label": {
+    "ar": "المحرك والتحكم",
+    "en": "Motor and control"
+   }
+  },
+  {
+   "key": "power",
+   "label": {
+    "ar": "التغذية الكهربائية",
+    "en": "Power supply"
+   }
+  },
+  {
+   "key": "std",
+   "label": {
+    "ar": "المطابقة (حسب المصنّع)",
+    "en": "Compliance (per manufacturer)"
+   }
+  }
+ ],
+ "keyRows": [
+  "size",
+  "speed",
+  "wind"
+ ],
+ "types": [
+  {
+   "id": "roll",
+   "label": {
+    "ar": "رول قياسي",
+    "en": "Standard roll-up"
+   },
+   "key": {
+    "ar": "نحو 1.0 م/ث · للاستخدام الداخلي",
+    "en": "~1.0 m/s · indoor"
+   },
+   "intro": {
+    "ar": "للفتحات الداخلية كثيرة الاستخدام بين صالات الإنتاج والمستودع وحول مناطق التحميل. يُفتح ويُغلق بنحو متر في الثانية، وتوقف ستارته الضوئية الإغلاق عند وجود عائق.",
+    "en": "For busy indoor openings between production halls, stores and loading areas. It opens and closes at about one metre per second, and its light curtain stops the door closing when something is in the way."
+   },
+   "models": [
+    {
+     "code": "BX-DR-HS-01",
+     "name": {
+      "ar": "باب سريع رول بإطار ألمنيوم",
+      "en": "High-speed roll-up door, aluminium frame"
+     },
+     "origin": {
+      "ar": "صناعة إسبانية",
+      "en": "Made in Spain"
+     },
+     "specs": {
+      "use": {
+       "ar": "داخلي، ويناسب الأماكن الرطبة والمعرّضة للتآكل",
+       "en": "Indoor; suits humid, corrosion-prone areas"
+      },
+      "size": {
+       "ar": "3400 × 3400 مم",
+       "en": "3400 × 3400 mm"
+      },
+      "speed": {
+       "ar": "نحو 1.0 / 1.0 م/ث",
+       "en": "~1.0 / 1.0 m/s"
+      },
+      "wind": {
+       "ar": "الفئة 1 (EN 12424)",
+       "en": "Class 1 (EN 12424)"
+      },
+      "curtain": {
+       "ar": "PVC مقوّى بالبوليستر، 900 غ/م²، 10 ألوان",
+       "en": "Polyester-reinforced PVC, 900 g/m², 10 colours"
+      },
+      "frame": {
+       "ar": "ألمنيوم مؤكسد مبثوق، وتجهيزات ستانلس 304",
+       "en": "Extruded anodised aluminium, AISI 304 stainless fittings"
+      },
+      "cycles": {
+       "ar": "750,000 دورة",
+       "en": "750,000 cycles"
+      },
+      "safety": {
+       "ar": "ستارة ضوئية بمرشّح استقطاب، وإنكودر لنهاية الحركة. اختياري: توقف طارئ، وUPS، وخلية ضوئية إضافية",
+       "en": "Light curtain with polarised filter; end-of-travel encoder. Optional: emergency stop, UPS, extra photocell"
+      },
+      "manual": {
+       "ar": "فتح يدوي للطوارئ والصيانة",
+       "en": "Manual emergency and maintenance opening"
+      },
+      "drive": {
+       "ar": "محوّل التردد والمحرك الأمامي ضمن الخيارات",
+       "en": "Frequency inverter and front motor among the options"
+      },
+      "power": {
+       "ar": "230/400 فولت ثلاثي الطور مع محايد، أو 230 فولت أحادي (اختياري)",
+       "en": "230/400 V three-phase + N, or 230 V single-phase (optional)"
+      },
+      "std": {
+       "ar": "EN 13241 وEN 12453",
+       "en": "EN 13241 and EN 12453"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cold",
+   "label": {
+    "ar": "للتبريد والتجميد",
+    "en": "Cold and freezer rooms"
+   },
+   "key": {
+    "ar": "من التبريد فوق الصفر حتى −35° م",
+    "en": "From chilled rooms down to −35 °C"
+   },
+   "intro": {
+    "ar": "اختر حسب حرارة الغرفة: حتى −20° م بستارة معزولة، أو حتى −35° م بستارة مزدوجة، أو غرف التبريد فوق الصفر. وفي موديلات التجميد تسخين في المجاري أو الهيكل يمنع تكوّن الجليد.",
+    "en": "Choose by room temperature: down to −20 °C with an insulated curtain, down to −35 °C with a double curtain, or chilled rooms above zero. The freezer models heat their guides or frame to stop ice forming."
+   },
+   "models": [
+    {
+     "code": "BX-DR-HS-02",
+     "name": {
+      "ar": "باب سريع للتجميد بستارة معزولة",
+      "en": "High-speed freezer door, insulated curtain"
+     },
+     "origin": {
+      "ar": "صناعة إسبانية",
+      "en": "Made in Spain"
+     },
+     "specs": {
+      "use": {
+       "ar": "غرف التجميد حتى −20° م، مع منطقة خارجية مبرّدة 7–8° م",
+       "en": "Freezer rooms to −20 °C with a 7–8 °C chilled outer zone"
+      },
+      "size": {
+       "ar": "2500 × 3500 أو 3000 × 3000 مم",
+       "en": "2500 × 3500 or 3000 × 3000 mm"
+      },
+      "speed": {
+       "ar": "حتى 1.2 / 0.6 م/ث",
+       "en": "Up to 1.2 / 0.6 m/s"
+      },
+      "curtain": {
+       "ar": "PVC معزول، 1,300 غ/م²، أزرق",
+       "en": "Insulated PVC, 1,300 g/m², blue"
+      },
+      "frame": {
+       "ar": "ذاتي الحمل، ومجارٍ ألمنيوم بمقاومات تسخين، وعتبة ستانلس 304",
+       "en": "Self-supporting; aluminium guides with heating resistors; AISI 304 stainless lintel"
+      },
+      "temp": {
+       "ar": "حتى −20° م من الداخل",
+       "en": "Down to −20 °C inside"
+      },
+      "cycles": {
+       "ar": "750,000 دورة",
+       "en": "750,000 cycles"
+      },
+      "safety": {
+       "ar": "خلية ضوئية في المجاري ومستشعر IP67 في العتبة، ولوحة أزرار بزر توقف طارئ، وإنكودر",
+       "en": "Photocell in the guides and IP67 sensor in the lintel; push-button panel with emergency stop; encoder"
+      },
+      "drive": {
+       "ar": "محرك IP65 بمقاومة تسخين، ولوحة تحكم IP65، ومحوّل تردد",
+       "en": "IP65 motor with heating resistance; IP65 control panel; frequency converter"
+      },
+      "power": {
+       "ar": "أحادي الطور 230 فولت، 50/60 هرتز",
+       "en": "Single-phase 230 V, 50/60 Hz"
+      },
+      "std": {
+       "ar": "EN 13241 وEN 12453",
+       "en": "EN 13241 and EN 12453"
+      }
+     }
+    },
+    {
+     "code": "BX-DR-HS-03",
+     "name": {
+      "ar": "باب سريع للتجميد العميق بستارة مزدوجة",
+      "en": "High-speed deep-freeze door, double curtain"
+     },
+     "origin": {
+      "ar": "صناعة إسبانية",
+      "en": "Made in Spain"
+     },
+     "specs": {
+      "use": {
+       "ar": "غرف التجميد حتى −35° م",
+       "en": "Freezer rooms to −35 °C"
+      },
+      "size": {
+       "ar": "6000 × 6000 مم",
+       "en": "6000 × 6000 mm"
+      },
+      "speed": {
+       "ar": "نحو 1.8 / 0.8 م/ث",
+       "en": "~1.8 / 0.8 m/s"
+      },
+      "wind": {
+       "ar": "الفئة 2",
+       "en": "Class 2"
+      },
+      "curtain": {
+       "ar": "ستارتا PVC منسوجتان بالنايلون، بينهما حجرة هواء عازلة",
+       "en": "Two PVC curtains with nylon interlining and an insulating air chamber between them"
+      },
+      "frame": {
+       "ar": "فولاذ مجلفن أو مطلي، أو ستانلس 304",
+       "en": "Galvanised or lacquered steel, or AISI 304 stainless"
+      },
+      "temp": {
+       "ar": "حتى −35° م",
+       "en": "Down to −35 °C"
+      },
+      "cycles": {
+       "ar": "250,000 دورة للباب",
+       "en": "250,000 cycles (door)"
+      },
+      "safety": {
+       "ar": "حاجز خلايا ضوئية مزدوج IP67، وقواطع حماية لنظام التسخين",
+       "en": "Double IP67 photocell barrier; breakers and RCDs for the heating"
+      },
+      "manual": {
+       "ar": "فتح طارئ بسلسلة على المحرك",
+       "en": "Emergency opening by chain on the motor"
+      },
+      "drive": {
+       "ar": "محرك تروس بفرامل كهربائية، ولوحة تحكم بالفتح والإغلاق والتوقف الطارئ",
+       "en": "Gear motor with electric brake; panel with open, close and emergency stop"
+      },
+      "std": {
+       "ar": "EN 13241",
+       "en": "EN 13241"
+      }
+     }
+    },
+    {
+     "code": "BX-DR-HS-04",
+     "name": {
+      "ar": "باب سريع لغرف التبريد",
+      "en": "High-speed cold-room door"
+     },
+     "origin": {
+      "ar": "صناعة إسبانية",
+      "en": "Made in Spain"
+     },
+     "specs": {
+      "use": {
+       "ar": "غرف التبريد بلا غرفة انتقالية، ويقلل التكثف",
+       "en": "Cold rooms without an antechamber; reduces condensation"
+      },
+      "size": {
+       "ar": "3000 × 3000 مم",
+       "en": "3000 × 3000 mm"
+      },
+      "speed": {
+       "ar": "نحو 1.6 / 0.6 م/ث",
+       "en": "~1.6 / 0.6 m/s"
+      },
+      "curtain": {
+       "ar": "ستارة PVC معزولة، 900 غ/م²",
+       "en": "Insulated PVC curtain, 900 g/m²"
+      },
+      "frame": {
+       "ar": "ألمنيوم مؤكسد مطلي بالأبيض",
+       "en": "White-lacquered anodised aluminium"
+      },
+      "cycles": {
+       "ar": "250,000 دورة",
+       "en": "250,000 cycles"
+      },
+      "safety": {
+       "ar": "ستارة ضوئية LED مدمجة في المجاري، وإنكودر. اختياري: توقف طارئ",
+       "en": "LED light curtain built into the guides; encoder. Optional: emergency stop"
+      },
+      "manual": {
+       "ar": "محرك بقابض لفك التعشيق",
+       "en": "Clutch-release motor for manual operation"
+      },
+      "drive": {
+       "ar": "محرك بقابض، ومحوّل تردد وUPS متاحان",
+       "en": "Clutch motor; frequency inverter and UPS available"
+      },
+      "power": {
+       "ar": "أحادي الطور 230 فولت",
+       "en": "Single-phase 230 V"
+      },
+      "std": {
+       "ar": "EN 13241",
+       "en": "EN 13241"
+      }
+     }
+    },
+    {
+     "code": "BX-DR-HS-05",
+     "name": {
+      "ar": "باب سريع رول للتجميد",
+      "en": "High-speed roll-up freezer door"
+     },
+     "origin": {
+      "ar": "صناعة إيطالية",
+      "en": "Made in Italy"
+     },
+     "specs": {
+      "use": {
+       "ar": "غرف التبريد والتجميد وصناعة الأغذية",
+       "en": "Cold rooms, freezers and the food industry"
+      },
+      "curtain": {
+       "ar": "بوليستر مغلّف بـPVC بقضبان تقوية أفقية، ومجموعة ألوان معزولة",
+       "en": "PVC-coated polyester with horizontal reinforcement bars; insulated colour range"
+      },
+      "frame": {
+       "ar": "هيكل علوي ستانلس بتسخين داخلي وثرموستات رقمي، ومجارٍ مسخّنة ضد الجليد",
+       "en": "Stainless upper frame with internal heating and digital thermostat; heated side runners"
+      },
+      "temp": {
+       "ar": "حتى −25°",
+       "en": "Down to −25°"
+      },
+      "safety": {
+       "ar": "حافة مطاطية موصلة، وخلايا ضوئية تعمل في ظروف الجليد",
+       "en": "Conductive rubber edge; infrared photocells for icy conditions"
+      },
+      "manual": {
+       "ar": "تشغيل يدوي عند انقطاع الكهرباء",
+       "en": "Manual override in a power cut"
+      },
+      "drive": {
+       "ar": "محرك تروس ثلاثي الطور ذاتي الكبح بسلك تسخين، ولوحة تحكم مسخّنة",
+       "en": "Three-phase self-braking gear motor with winding heater; heated control panel"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "self",
+   "label": {
+    "ar": "ذاتي الإصلاح",
+    "en": "Self-repairing"
+   },
+   "key": {
+    "ar": "يعود إلى مجراه بعد الصدم",
+    "en": "Returns to its guides after an impact"
+   },
+   "intro": {
+    "ar": "إذا اصطدمت به رافعة شوكية تخرج الستارة من مجراها ثم تعود إليه وحدها، فيعمل الباب من جديد دون استبدال الستارة. أربعة موديلات للداخل والخارج وغرف التبريد.",
+    "en": "If a forklift hits it, the curtain leaves its guides and goes back on its own, so the door keeps working without a new curtain. Four models for indoor, outdoor and chilled rooms."
+   },
+   "models": [
+    {
+     "code": "BX-DR-HS-06",
+     "name": {
+      "ar": "باب ذاتي الإصلاح للداخل والخارج",
+      "en": "Self-repairing door, indoor and outdoor"
+     },
+     "origin": {
+      "ar": "صناعة إسبانية",
+      "en": "Made in Spain"
+     },
+     "specs": {
+      "use": {
+       "ar": "داخلي وخارجي، للحركة الكثيفة للبضائع",
+       "en": "Indoor and outdoor; heavy goods traffic"
+      },
+      "size": {
+       "ar": "6000 × 6000 مم",
+       "en": "6000 × 6000 mm"
+      },
+      "speed": {
+       "ar": "نحو 1.6 / 1.0 م/ث",
+       "en": "~1.6 / 1.0 m/s"
+      },
+      "wind": {
+       "ar": "الفئة 3 حتى 4000 × 4500 مم، والفئة 2 فوقها (EN 12424)",
+       "en": "Class 3 up to 4000 × 4500 mm, Class 2 above (EN 12424)"
+      },
+      "curtain": {
+       "ar": "PVC، 1,300 غ/م²، تخرج من مجراها عند الصدم وتعود تلقائياً",
+       "en": "PVC, 1,300 g/m²; leaves its guides on impact and re-inserts automatically"
+      },
+      "frame": {
+       "ar": "فولاذ مطلي، ومجلفن أو ستانلس 304 اختياري",
+       "en": "Lacquered steel; galvanised or AISI 304 stainless optional"
+      },
+      "cycles": {
+       "ar": "250,000 دورة",
+       "en": "250,000 cycles"
+      },
+      "safety": {
+       "ar": "ستارة ضوئية توقف الباب وتعيده، وخلايا ضوئية، وإنكودر. اختياري: توقف طارئ وUPS",
+       "en": "Light curtain that stops and reverses the door; photocells; encoder. Optional: emergency stop, UPS"
+      },
+      "manual": {
+       "ar": "محرك بقابض للتشغيل اليدوي",
+       "en": "Clutch motor for manual operation"
+      },
+      "drive": {
+       "ar": "محوّل تردد، ومحرك أمامي اختياري",
+       "en": "Frequency inverter; front motor optional"
+      },
+      "power": {
+       "ar": "أحادي الطور 230 فولت",
+       "en": "Single-phase 230 V"
+      },
+      "std": {
+       "ar": "EN 13241-1",
+       "en": "EN 13241-1"
+      }
+     }
+    },
+    {
+     "code": "BX-DR-HS-07",
+     "name": {
+      "ar": "باب ذاتي الإصلاح للاستخدام الداخلي",
+      "en": "Self-repairing door, indoor"
+     },
+     "origin": {
+      "ar": "صناعة إسبانية",
+      "en": "Made in Spain"
+     },
+     "specs": {
+      "use": {
+       "ar": "داخلي، مثل فصل المخزن عن صالة البيع",
+       "en": "Indoor, e.g. stockroom to sales floor"
+      },
+      "size": {
+       "ar": "4000 × 4000 مم",
+       "en": "4000 × 4000 mm"
+      },
+      "speed": {
+       "ar": "حتى 1.6 م/ث",
+       "en": "Up to 1.6 m/s"
+      },
+      "wind": {
+       "ar": "الفئة 3",
+       "en": "Class 3"
+      },
+      "curtain": {
+       "ar": "PVC مقوّى بالبوليستر، 900 غ/م²، بنظام كيس مرن يعيد الستارة بعد الصدم",
+       "en": "Polyester-reinforced PVC, 900 g/m²; flexible-bag system recovers the curtain after impact"
+      },
+      "frame": {
+       "ar": "فولاذ مطلي، ومجلفن أو ستانلس اختياري",
+       "en": "Lacquered steel; galvanised or stainless optional"
+      },
+      "cycles": {
+       "ar": "250,000 دورة",
+       "en": "250,000 cycles"
+      },
+      "safety": {
+       "ar": "ستارة ضوئية بمرشّح استقطاب، وإنكودر. اختياري: توقف طارئ",
+       "en": "Light curtain with polarised filter; encoder. Optional: emergency stop"
+      },
+      "manual": {
+       "ar": "محرك بقابض للتشغيل اليدوي",
+       "en": "Clutch motor for manual operation"
+      },
+      "drive": {
+       "ar": "محرك بمحوّل تردد",
+       "en": "Motor with frequency inverter"
+      },
+      "power": {
+       "ar": "أحادي الطور 230 فولت",
+       "en": "Single-phase 230 V"
+      },
+      "std": {
+       "ar": "EN 13241-1 وEN 12453",
+       "en": "EN 13241-1 and EN 12453"
+      }
+     }
+    },
+    {
+     "code": "BX-DR-HS-08",
+     "name": {
+      "ar": "باب ذاتي الإصلاح معزول لغرف التبريد",
+      "en": "Insulated self-repairing door for chilled rooms"
+     },
+     "origin": {
+      "ar": "صناعة إسبانية",
+      "en": "Made in Spain"
+     },
+     "specs": {
+      "use": {
+       "ar": "غرف التبريد فوق الصفر وسلاسل التبريد",
+       "en": "Chilled rooms above 0 °C and cold-chain logistics"
+      },
+      "size": {
+       "ar": "4000 × 3200 مم",
+       "en": "4000 × 3200 mm"
+      },
+      "speed": {
+       "ar": "حتى 1.8 م/ث",
+       "en": "Up to 1.8 m/s"
+      },
+      "wind": {
+       "ar": "الفئة 2 (EN 12424)",
+       "en": "Class 2 (EN 12424)"
+      },
+      "curtain": {
+       "ar": "PVC ثلاثي الطبقات معزول: 900 + 1,300 + 900 غ/م²، بإصلاح ذاتي بعد الصدم",
+       "en": "Insulated 3-layer PVC: 900 + 1,300 + 900 g/m²; self-repairing after impact"
+      },
+      "frame": {
+       "ar": "ألمنيوم مؤكسد فضي أو مطلي بالأبيض",
+       "en": "Silver anodised or white-lacquered aluminium"
+      },
+      "temp": {
+       "ar": "فوق الصفر فقط",
+       "en": "Above 0 °C only"
+      },
+      "cycles": {
+       "ar": "750,000 دورة",
+       "en": "750,000 cycles"
+      },
+      "safety": {
+       "ar": "ستارة ضوئية أو خلية أمان حسب التركيب، وإنكودر. اختياري: توقف طارئ وUPS",
+       "en": "Light curtain or safety photocell depending on installation; encoder. Optional: emergency stop, UPS"
+      },
+      "manual": {
+       "ar": "محرك بقابض للتشغيل اليدوي",
+       "en": "Clutch motor for manual operation"
+      },
+      "drive": {
+       "ar": "محرك ولوحة تحكم IP65، ومحوّل تردد",
+       "en": "IP65 motor and control panel; frequency inverter"
+      },
+      "power": {
+       "ar": "أحادي الطور 230 فولت",
+       "en": "Single-phase 230 V"
+      },
+      "std": {
+       "ar": "EN 13241-1",
+       "en": "EN 13241-1"
+      }
+     }
+    },
+    {
+     "code": "BX-DR-HS-09",
+     "name": {
+      "ar": "باب ذاتي الإصلاح ممتص للصدمات",
+      "en": "Impact-absorbing self-repairing door"
+     },
+     "origin": {
+      "ar": "صناعة إيطالية",
+      "en": "Made in Italy"
+     },
+     "specs": {
+      "use": {
+       "ar": "الحركة الكثيفة في المصانع والمستودعات والسوبرماركت، وهيكل ستانلس للأدوية",
+       "en": "Busy traffic in plants, warehouses and supermarkets; stainless version for pharma"
+      },
+      "speed": {
+       "ar": "حتى 2 م/ث حسب المقاس",
+       "en": "Up to 2 m/s depending on size"
+      },
+      "curtain": {
+       "ar": "بوليستر 1100 دتكس مغلّف بـPVC من الوجهين، 900 غ/م² على الأقل، 0.6 مم",
+       "en": "1100 dtex polyester, PVC-coated both sides, min. 900 g/m², 0.6 mm"
+      },
+      "frame": {
+       "ar": "صاج فولاذي مجلفن أو مطلي، وستانلس اختياري",
+       "en": "Galvanised or painted steel sheet; stainless optional"
+      },
+      "safety": {
+       "ar": "حافة أمان موصلة بوصلة لاسلكية، وخلايا ضوئية، وحسّاس حضور",
+       "en": "Conductive safety edge with radio link; photocells; presence sensor"
+      },
+      "manual": {
+       "ar": "مفتاح سداسي على المحرك، وذراع تدوير أرضي اختياري",
+       "en": "Hex wrench on the motor; optional ground crank"
+      },
+      "drive": {
+       "ar": "محرك تروس ثلاثي الطور ذاتي الكبح، ومحوّل تردد صناعي",
+       "en": "Three-phase self-braking gear motor; industrial inverter"
+      },
+      "power": {
+       "ar": "230 فولت أحادي الطور",
+       "en": "230 V single-phase"
+      },
+      "std": {
+       "ar": "EN 13241-1 وعلامة CE",
+       "en": "EN 13241-1, CE marking"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "zip",
+   "label": {
+    "ar": "سحّاب (Zip)",
+    "en": "Zip door"
+   },
+   "key": {
+    "ar": "بلا قضبان معدنية · فئة رياح 2",
+    "en": "No metal bars · wind class 2"
+   },
+   "intro": {
+    "ar": "ستارة تمسكها مجارٍ جانبية بنظام السحّاب، بلا قضبان معدنية عرضية. بعد الصدم تنزلق إلى وضعها على أدلة البولي إيثيلين، وتحميها ستارة ضوئية بارتفاع 2.5 م.",
+    "en": "A curtain held in its side guides by a zip, with no metal crossbars. After an impact it slides back into place on polyethylene guides, and a 2.5 m light curtain protects it."
+   },
+   "models": [
+    {
+     "code": "BX-DR-HS-10",
+     "name": {
+      "ar": "باب سريع بنظام السحّاب",
+      "en": "High-speed zip door"
+     },
+     "origin": {
+      "ar": "صناعة إيطالية",
+      "en": "Made in Italy"
+     },
+     "specs": {
+      "use": {
+       "ar": "الحركة الكثيفة، وخاصة المداخل الخارجية، والصناعات الغذائية والدوائية والغرف النظيفة",
+       "en": "Busy traffic, especially outdoor openings; food, pharma and clean rooms"
+      },
+      "wind": {
+       "ar": "الفئة 2",
+       "en": "Class 2"
+      },
+      "curtain": {
+       "ar": "بوليستر مغلّف بـPVC، مناسب لملامسة الغذاء وقابل للغسل",
+       "en": "PVC-coated polyester; food-contact suitable and washable"
+      },
+      "frame": {
+       "ar": "هيكل علوي فولاذي، ومجارٍ بأدلة بولي إيثيلين، ونسخة ستانلس مسخّنة للحرارة المنخفضة",
+       "en": "Steel upper frame; polyethylene guides; heated stainless version for low temperatures"
+      },
+      "safety": {
+       "ar": "ستارة ضوئية بارتفاع 2.5 م، ومفتاح يكشف وجود جسم",
+       "en": "2.5 m safety light curtain; limit switch that detects an object"
+      },
+      "drive": {
+       "ar": "محرك تروس ثلاثي الطور ذاتي الكبح، ومحوّل تردد قابل لضبط السرعة",
+       "en": "Three-phase self-braking gear motor; adjustable-speed inverter"
+      },
+      "std": {
+       "ar": "EN 13241-1",
+       "en": "EN 13241-1"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "fold",
+   "label": {
+    "ar": "قابل للطي",
+    "en": "Fold-up"
+   },
+   "key": {
+    "ar": "حتى 15 × 10 م · رياح حتى الفئة 5",
+    "en": "Up to 15 × 10 m · wind up to class 5"
+   },
+   "intro": {
+    "ar": "للفتحات الكبيرة والخارجية: ستارة تنطوي إلى أعلى بتقوية أفقية. أربعة موديلات من 6 إلى 15 م عرضاً، ومقاومة رياح من الفئة 2 حتى الفئة 5 حسب الموديل والمقاس.",
+    "en": "For large and outdoor openings: a curtain that folds upwards with horizontal stiffeners. Four models from 6 to 15 m wide, with wind resistance from class 2 to class 5 by model and size."
+   },
+   "models": [
+    {
+     "code": "BX-DR-HS-11",
+     "name": {
+      "ar": "باب سريع قابل للطي مقاوم للرياح",
+      "en": "Wind-resistant high-speed fold-up door"
+     },
+     "origin": {
+      "ar": "صناعة إسبانية",
+      "en": "Made in Spain"
+     },
+     "specs": {
+      "use": {
+       "ar": "داخلي وخارجي، للمداخل المعرّضة لرياح عالية",
+       "en": "Indoor and outdoor; openings exposed to high wind"
+      },
+      "size": {
+       "ar": "6000 × 6000 مم",
+       "en": "6000 × 6000 mm"
+      },
+      "speed": {
+       "ar": "نحو 0.6 / 0.6 م/ث",
+       "en": "~0.6 / 0.6 m/s"
+      },
+      "wind": {
+       "ar": "الفئة 4",
+       "en": "Class 4"
+      },
+      "curtain": {
+       "ar": "PVC، 900 غ/م²، بعوارض تقوية، 6 ألوان وأخرى عند الطلب",
+       "en": "PVC 900 g/m² with reinforcing crossbars; 6 colours, others on request"
+      },
+      "frame": {
+       "ar": "فولاذ مطلي",
+       "en": "Lacquered steel"
+      },
+      "cycles": {
+       "ar": "750,000 دورة",
+       "en": "750,000 cycles"
+      },
+      "safety": {
+       "ar": "خلية أمان للصعود، وستارة ضوئية للنزول. اختياري: توقف طارئ",
+       "en": "Upward safety photocell; downward light curtain. Optional: emergency stop"
+      },
+      "manual": {
+       "ar": "محرك بقابض للتشغيل اليدوي (اختياري)",
+       "en": "Clutch motor for manual operation (optional)"
+      },
+      "drive": {
+       "ar": "محرك ولوحة تحكم IP65، وإنكودر",
+       "en": "IP65 motor and control panel; encoder"
+      },
+      "power": {
+       "ar": "400 فولت قياسي، و230 فولت اختياري",
+       "en": "400 V standard, 230 V optional"
+      },
+      "std": {
+       "ar": "EN 13241-1",
+       "en": "EN 13241-1"
+      }
+     }
+    },
+    {
+     "code": "BX-DR-HS-12",
+     "name": {
+      "ar": "باب سريع قابل للطي للفتحات الكبيرة",
+      "en": "High-speed fold-up door for large openings"
+     },
+     "origin": {
+      "ar": "صناعة إسبانية",
+      "en": "Made in Spain"
+     },
+     "specs": {
+      "use": {
+       "ar": "داخلي وخارجي، للتطبيقات الخارجية",
+       "en": "Indoor and outdoor; external openings"
+      },
+      "size": {
+       "ar": "8000 × 6000 مم",
+       "en": "8000 × 6000 mm"
+      },
+      "speed": {
+       "ar": "نحو 0.8 / 0.6 م/ث",
+       "en": "~0.8 / 0.6 m/s"
+      },
+      "wind": {
+       "ar": "الفئة 3 حتى 5500 × 6000 مم، والفئة 2 حتى 8000 × 6000 مم",
+       "en": "Class 3 up to 5500 × 6000 mm, Class 2 up to 8000 × 6000 mm"
+      },
+      "curtain": {
+       "ar": "PVC، 900 غ/م²، بمقاطع تقوية أفقية",
+       "en": "PVC 900 g/m² with horizontal stiffeners"
+      },
+      "frame": {
+       "ar": "فولاذ مطلي أو مجلفن، وستانلس اختياري",
+       "en": "Painted or galvanised steel; stainless optional"
+      },
+      "cycles": {
+       "ar": "750,000 دورة",
+       "en": "750,000 cycles"
+      },
+      "safety": {
+       "ar": "ستارة ضوئية ومستشعر بصري يمنع السحب، وزر توقف طارئ",
+       "en": "Light curtain plus optical sensor against dragging; emergency stop"
+      },
+      "drive": {
+       "ar": "محرك ثلاثي الطور أمامي، وصندوق تحكم IP65، ومحوّل تردد",
+       "en": "Front-mounted three-phase motor; IP65 control box; inverter"
+      },
+      "power": {
+       "ar": "230/400 فولت ثلاثي الطور مع محايد، أو 230 فولت أحادي (اختياري)",
+       "en": "230/400 V three-phase + N, or 230 V single-phase (optional)"
+      },
+      "std": {
+       "ar": "EN 13241-1",
+       "en": "EN 13241-1"
+      }
+     }
+    },
+    {
+     "code": "BX-DR-HS-13",
+     "name": {
+      "ar": "باب سريع قابل للطي للحظائر والمباني الكبيرة",
+      "en": "High-speed fold-up door for hangars and large buildings"
+     },
+     "origin": {
+      "ar": "صناعة إسبانية",
+      "en": "Made in Spain"
+     },
+     "specs": {
+      "use": {
+       "ar": "داخلي وخارجي، للمباني الصناعية الكبيرة وحظائر الطائرات",
+       "en": "Indoor and outdoor; large industrial buildings and hangars"
+      },
+      "size": {
+       "ar": "12000 × 6000 مم",
+       "en": "12000 × 6000 mm"
+      },
+      "speed": {
+       "ar": "نحو 0.6 / 0.6 م/ث",
+       "en": "~0.6 / 0.6 m/s"
+      },
+      "wind": {
+       "ar": "الفئة 2",
+       "en": "Class 2"
+      },
+      "curtain": {
+       "ar": "PVC، 900 غ/م²، بقضبان أفقية",
+       "en": "PVC 900 g/m² with horizontal bars"
+      },
+      "frame": {
+       "ar": "فولاذ مطلي",
+       "en": "Lacquered steel"
+      },
+      "cycles": {
+       "ar": "100,000 دورة",
+       "en": "100,000 cycles"
+      },
+      "safety": {
+       "ar": "خلية أمان للصعود، وستارة ضوئية للنزول",
+       "en": "Upward safety photocell; downward light curtain"
+      },
+      "manual": {
+       "ar": "فتح بسلاسل الرفع",
+       "en": "Opening by lifting chains"
+      },
+      "drive": {
+       "ar": "محرك ثلاثي الطور IP54، وصندوق تحكم IP65",
+       "en": "Three-phase IP54 motor; IP65 control box"
+      },
+      "power": {
+       "ar": "230/400 فولت ثلاثي الطور",
+       "en": "230/400 V three-phase"
+      },
+      "std": {
+       "ar": "EN 13241-1",
+       "en": "EN 13241-1"
+      }
+     }
+    },
+    {
+     "code": "BX-DR-HS-14",
+     "name": {
+      "ar": "باب سريع قابل للطي للفتحات الكبيرة جداً",
+      "en": "High-speed fold-up door for very large openings"
+     },
+     "origin": {
+      "ar": "صناعة إيطالية",
+      "en": "Made in Italy"
+     },
+     "specs": {
+      "use": {
+       "ar": "الفتحات المتوسطة والكبيرة: الصناعة وغرف التبريد واللوجستيات وأحواض السفن",
+       "en": "Mid and large openings: industry, cold rooms, logistics, shipyards"
+      },
+      "size": {
+       "ar": "حتى 15 م عرضاً و10 م ارتفاعاً، وبمساحة 100 م² كحد أقصى",
+       "en": "Up to 15 m wide and 10 m high; max. area 100 m²"
+      },
+      "speed": {
+       "ar": "حتى 0.8 م/ث أو أكثر",
+       "en": "Up to 0.8 m/s or more"
+      },
+      "wind": {
+       "ar": "حتى الفئة 5",
+       "en": "Up to class 5"
+      },
+      "curtain": {
+       "ar": "بوليستر مغلّف بـPVC، 900 غ/م²، أو 1,300 غ/م² للستارة المعزولة",
+       "en": "PVC-coated polyester, 900 g/m² (1,300 g/m² insulated)"
+      },
+      "frame": {
+       "ar": "هيكل علوي فولاذي، ومجارٍ فولاذية بفُرش نايلون",
+       "en": "Steel upper frame; steel side runners with nylon brushes"
+      },
+      "cycles": {
+       "ar": "1,000,000 دورة (عدا الستارة والقطع المستهلكة)",
+       "en": "1,000,000 cycles (curtain and wear parts excluded)"
+      },
+      "safety": {
+       "ar": "خلايا ضوئية، وحافة أمان موصلة بوصلة لاسلكية",
+       "en": "Photocells; conductive safety edge with wireless link"
+      },
+      "manual": {
+       "ar": "تشغيل يدوي عند انقطاع الكهرباء",
+       "en": "Manual override in a power cut"
+      },
+      "drive": {
+       "ar": "محرك غير متزامن ثلاثي الطور S1، IP54 (IP55 اختياري)، بمكبح",
+       "en": "Three-phase asynchronous motor, S1, IP54 (IP55 optional), with brake"
+      },
+      "power": {
+       "ar": "400 فولت ثلاثي الطور، 50 هرتز؛ و230 فولت عند الطلب",
+       "en": "400 V three-phase, 50 Hz; 230 V on request"
+      },
+      "std": {
+       "ar": "EN 13241-1 وعلامة CE",
+       "en": "EN 13241-1, CE marking"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

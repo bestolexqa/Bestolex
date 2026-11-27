@@ -7710,8 +7710,8 @@
     },
     "image": "https://cdn.bestolex.com/bestolex/categories/v2/industrial-doors.jpg",
     "description": {
-      "en": "High-speed roll-up doors and insulated sectional doors for factories, warehouses and logistics centres.",
-      "ar": "أبواب رول سريعة وأبواب مقطعية معزولة للمصانع والمستودعات والمراكز اللوجستية."
+      "ar": "أبواب سريعة بخمسة أنواع وأبواب مقطعية معزولة للمصانع والمستودعات وغرف التبريد والمراكز اللوجستية.",
+      "en": "High-speed doors in five types and insulated sectional doors for factories, warehouses, cold rooms and logistics centres."
     },
     "products": [
       {
@@ -7722,26 +7722,26 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/1.png",
         "description": {
-          "ar": "توفر الأبواب الصناعية المقطعية من بيستوليكس عزلاً حرارياً وصوتياً، وهي مصممة للمستودعات والمراكز اللوجستية وفصل المساحات وأي نوع من المنشآت.\nألواحها موفرة للطاقة بسماكة 40 مم، بطلاء أساس على فولاذ مجلفن وإحكام ضد الرياح والماء، وتتوفر بأنواع رفع عمودي ومرتفع وقياسي وبلون يختاره العميل.\nتفتح بسرعة 1.1 م/ث وتغلق بسرعة 0.5 م/ث بمحرك قدرته 0.7 كيلوواط، ومزودة بجهاز أمان عند انقطاع الكابل وجهاز أمان عند انكسار النابض وقفل أمان يغلق الباب من الداخل.",
-          "en": "Bestolex industrial sectional doors provide thermal and acoustic insulation and are designed for warehouses, logistics centres, space separation and any type of installation.\nThey use energy-efficient 40 mm panels with a primer, zinc and steel finish and wind- and waterproof seals, come in vertical, high and standard lift types, and are finished in the customer's choice of colour.\nThey open at 1.1 m/s and close at 0.5 m/s with a 0.7 kW motor, and include a cable-break safety device, a spring-break safety device and a safety latch lock that locks the door from inside."
+          "ar": "أبواب مقطعية بألواح فولاذية معزولة بالبولي يوريثان ترتفع على مسارات فوق الفتحة، فتحفظ حرارة المستودع والمصنع المكيّف في قطر.\nثلاثة موديلات من مصنّع إسباني: قياسي للمستودعات والمصانع حتى 8000 × 5000 مم، ومخصص لأرصفة التحميل بمسارات رأسية، ومقطعي سريع يُفتح حتى 1.0 م/ث.\nألواحها 40 مم (80 مم اختياري) بمعامل انتقال حراري 0.561 W/m²K، وتعمل من −5 إلى +50° م، ومساراتها قياسية أو منخفضة أو مرتفعة أو رأسية حسب المساحة فوق الفتحة. ونورّدها ونركّبها ونصونها في قطر.",
+          "en": "Sectional doors with polyurethane-insulated steel panels that rise on tracks above the opening, keeping warehouses and air-conditioned plants in Qatar at temperature.\nThree models from a Spanish manufacturer: a standard door for warehouses and factories up to 8000 × 5000 mm, a loading-bay door with vertical tracks, and a fast sectional door that opens at up to 1.0 m/s.\nPanels are 40 mm (80 mm optional) with a thermal transmittance of 0.561 W/m²K, the doors work from −5 to +50 °C, and the tracks are standard, low-lift, high-lift or vertical-lift to suit the headroom. We supply, install and maintain them in Qatar."
         },
         "features": {
           "ar": [
-            "ألواح موفرة للطاقة بسماكة 40 مم بعزل حراري وصوتي",
-            "مقاومة رياح وعزل ماء من الفئة 3",
-            "مسارات جانبية متينة بسماكة 2 مم وزاوية عمودية",
-            "جهاز أمان عند انقطاع الكابل وجهاز أمان عند انكسار النابض",
-            "قفل أمان يغلق الباب من الداخل",
-            "ألوان يختارها العميل",
+            "ثلاثة موديلات: قياسي، ولأرصفة التحميل، وسريع",
+            "ألواح 40 مم (80 مم اختياري) بمعامل انتقال 0.561 W/m²K",
+            "حتى 8000 × 5000 مم، ومقاسات أخرى عند الطلب",
+            "مسارات قياسية أو منخفضة أو مرتفعة أو رأسية حسب المساحة فوق الفتحة",
+            "قفل أمان داخلي وجهاز أمان عند كسر النابض",
+            "تشغيل يدوي أو بمحرك، والمقطعي السريع حتى 1.0 م/ث",
             "خدمة ما بعد البيع من بيستوليكس مع توفر قطع الغيار"
           ],
           "en": [
-            "Energy-efficient 40 mm panels with thermal and acoustic insulation",
-            "Wind resistance and water tightness Class 3",
-            "Sturdy 2 mm side tracks and vertical angle",
-            "Cable-break and spring-break safety devices",
-            "Safety latch lock that locks the door from inside",
-            "Colour of the customer's choice",
+            "Three models: standard, loading bay and fast",
+            "40 mm panels (80 mm optional), U = 0.561 W/m²K",
+            "Up to 8000 × 5000 mm; other sizes on request",
+            "Standard, low-lift, high-lift or vertical-lift tracks to suit headroom",
+            "Internal safety lock and spring-break safety device",
+            "Manual or motorised; the fast model opens at up to 1.0 m/s",
             "After-sales service and spare parts from Bestolex"
           ]
         },
@@ -7749,138 +7749,108 @@
           {
             "image": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/component-anti-drop-safety-devices.png",
             "label": {
-              "ar": "أجهزة أمان عند انقطاع الكابل وكسر النابض",
-              "en": "Cable-Break & Spring-Break Safety Devices"
+              "ar": "جهاز أمان عند كسر النابض",
+              "en": "Spring-Break Safety Device"
             }
           },
           {
             "image": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/component-interior-safety-locking-hook.png",
             "label": {
-              "ar": "قفل أمان يغلق الباب من الداخل",
-              "en": "Safety Latch Lock from Inside"
+              "ar": "قفل أمان داخلي",
+              "en": "Internal Safety Lock"
             }
           },
           {
             "label": {
-              "ar": "تجهيزات مزدوجة للأبواب الثقيلة",
-              "en": "Double Hardware for Heavy Doors"
+              "ar": "تجهيزات مقوّاة",
+              "en": "Reinforced Hardware"
             },
             "image": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/component-double-hardware-for-heavy-doors.png"
-          },
-          {
-            "label": {
-              "ar": "ألواح زجاجية وباب للمارّة",
-              "en": "Glazed Panels with Pedestrian Door"
-            },
-            "image": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/component-glassed-panels-with-pedestrian-door.png"
-          },
-          {
-            "label": {
-              "ar": "عارضة تقوية أوميغا",
-              "en": "Omega Reinforcement Beam"
-            },
-            "image": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/component-omega-reinforcement-beam.png"
           }
         ],
         "specs": {
           "ar": [
             {
-              "label": "سماكة المقطع",
-              "value": "40 مم"
+              "label": "الموديلات",
+              "value": "3"
             },
             {
-              "label": "الطلاء",
-              "value": "طلاء أساس على فولاذ مجلفن"
+              "label": "أقصى مقاس",
+              "value": "حتى 8000 × 5000 مم"
             },
             {
-              "label": "أنواع الرفع",
-              "value": "عمودي، مرتفع، قياسي"
+              "label": "الألواح",
+              "value": "40 مم، و80 مم اختياري"
             },
             {
-              "label": "الإحكام",
-              "value": "ضد الرياح والماء"
+              "label": "العزل",
+              "value": "U = 0.561 W/m²K"
             },
             {
-              "label": "سرعة الفتح",
-              "value": "1.1 م / ثانية"
+              "label": "السرعة",
+              "value": "0.2–0.3 م/ث، والسريع حتى 1.0 م/ث"
             },
             {
-              "label": "سرعة الإغلاق",
-              "value": "0.5 م / ثانية"
+              "label": "حرارة التشغيل",
+              "value": "من −5 إلى +50° م"
             },
             {
-              "label": "مقاومة الرياح",
-              "value": "الفئة 3"
+              "label": "المسارات",
+              "value": "قياسية، منخفضة، مرتفعة، رأسية"
             },
             {
-              "label": "عزل الماء",
-              "value": "الفئة 3"
+              "label": "العمر التشغيلي",
+              "value": "15,000 دورة، والسريع 50,000"
             },
             {
-              "label": "قدرة المحرك",
-              "value": "0.7 كيلوواط"
+              "label": "المنشأ",
+              "value": "صناعة إسبانية"
             },
             {
-              "label": "الحماية الحرارية للمحرك",
-              "value": "120° م"
-            },
-            {
-              "label": "التغذية الكهربائية",
-              "value": "240/415 فولت، ثلاثي الطور، 50 هرتز"
-            },
-            {
-              "label": "درجة حرارة التشغيل",
-              "value": "من -20° م إلى +45° م"
+              "label": "المطابقة",
+              "value": "EN 13241 حسب المصنّع"
             }
           ],
           "en": [
             {
-              "label": "Section Thickness",
-              "value": "40 mm"
+              "label": "Models",
+              "value": "3"
             },
             {
-              "label": "Finish",
-              "value": "Primer, Zinc & Steel"
+              "label": "Maximum size",
+              "value": "Up to 8000 × 5000 mm"
             },
             {
-              "label": "Lift Types",
-              "value": "Vertical, High & Standard"
+              "label": "Panels",
+              "value": "40 mm; 80 mm optional"
             },
             {
-              "label": "Seals",
-              "value": "Wind & waterproof"
+              "label": "Insulation",
+              "value": "U = 0.561 W/m²K"
             },
             {
-              "label": "Opening Speed",
-              "value": "1.1 m/s"
+              "label": "Speed",
+              "value": "0.2–0.3 m/s; fast model up to 1.0 m/s"
             },
             {
-              "label": "Closing Speed",
-              "value": "0.5 m/s"
+              "label": "Operating temperature",
+              "value": "−5 to +50 °C"
             },
             {
-              "label": "Wind Resistance",
-              "value": "Class 3"
+              "label": "Tracks",
+              "value": "Standard, low-lift, high-lift, vertical-lift"
             },
             {
-              "label": "Water Tightness",
-              "value": "Class 3"
+              "label": "Service life",
+              "value": "15,000 cycles; fast model 50,000"
             },
             {
-              "label": "Motor Power",
-              "value": "0.7 kW"
+              "label": "Origin",
+              "value": "Made in Spain"
             },
             {
-              "label": "Motor Thermal Protection",
-              "value": "120 °C"
-            },
-            {
-              "label": "Electrical Supply",
-              "value": "240/415V, 3-Phase, 50Hz"
-            },
-            {
-              "label": "Working Temp",
-              "value": "-20 °C to +45 °C"
+              "label": "Compliance",
+              "value": "EN 13241 per manufacturer"
             }
           ]
         },
@@ -7896,69 +7866,99 @@
         "cardImage": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/1.png",
         "seo": {
           "title": {
-            "en": "Insulated Industrial Sectional Doors in Qatar",
-            "ar": "أبواب صناعية مقطعية معزولة في قطر"
+            "ar": "أبواب صناعية مقطعية معزولة في قطر",
+            "en": "Insulated Industrial Sectional Doors in Qatar"
           },
           "description": {
-            "en": "Industrial sectional doors with 40 mm insulated panels for heat and sound insulation in warehouses, factories and logistics centres in Qatar. Get a quote.",
-            "ar": "أبواب صناعية مقطعية بألواح معزولة سماكة 40 مم للعزل الحراري والصوتي في المستودعات والمصانع والمراكز اللوجستية في قطر. اطلب عرض سعر من بيستوليكس."
+            "ar": "أبواب مقطعية بألواح معزولة 40 مم (U = 0.561 W/m²K) حتى 8000 × 5000 مم: قياسي، ولأرصفة التحميل، وسريع حتى 1.0 م/ث. توريد وتركيب في قطر.",
+            "en": "Sectional doors with 40 mm insulated panels (U = 0.561 W/m²K) up to 8000 × 5000 mm: standard, loading bay and fast up to 1.0 m/s. Supply and installation in Qatar."
           }
         },
         "summary": {
-          "ar": "باب صناعي مقطعي بألواح معزولة سماكة 40 مم للعزل الحراري والصوتي في المستودعات والمصانع والمراكز اللوجستية في قطر. يفتح بسرعة 1.1 م/ث ويغلق بسرعة 0.5 م/ث بمحرك 0.7 كيلوواط، بمقاومة رياح وعزل ماء من الفئة 3، وبأنواع رفع عمودي ومرتفع وقياسي تُختار حسب المساحة فوق الفتحة.",
-          "en": "An industrial sectional door with 40 mm insulated panels for thermal and acoustic insulation in warehouses, factories and logistics centres in Qatar. It opens at 1.1 m/s and closes at 0.5 m/s on a 0.7 kW motor, rated Class 3 for wind and water tightness, with vertical, high and standard lift types chosen to suit the headroom above the opening."
+          "ar": "أبواب مقطعية بثلاثة موديلات من إسبانيا: قياسي حتى 8000 × 5000 مم، ولأرصفة التحميل بمسارات رأسية، وسريع حتى 1.0 م/ث. ألواحها 40 مم بمعامل انتقال حراري 0.561 W/m²K، وتعمل من −5 إلى +50° م، وتُختار مساراتها حسب المساحة فوق الفتحة.",
+          "en": "Sectional doors in three models from Spain: standard up to 8000 × 5000 mm, a loading-bay model with vertical tracks, and a fast model at up to 1.0 m/s. Panels are 40 mm with a thermal transmittance of 0.561 W/m²K, they work from −5 to +50 °C, and the tracks are chosen to suit the headroom."
         },
         "faq": {
           "ar": [
             {
-              "q": "ما الفرق بين الباب المقطعي والباب الرول فائق السرعة؟",
-              "a": "الباب المقطعي يُختار للعزل: ألواحه بسماكة 40 مم بعزل حراري وصوتي، وسرعته 1.1 م/ث فتحاً و0.5 م/ث إغلاقاً. والباب الرول فائق السرعة يُختار للسرعة: نحو 1.0 م/ث في الاتجاهين، ومقاومة رياح حتى الفئة 5 مقابل الفئة 3 للمقطعي. فإن كان الباب يفتح عشرات المرات في الساعة فالسرعة أهم، وإن كان يفصل مساحة مبردة أو مكيّفة فالعزل أهم."
+              "q": "ما الفرق بين الباب المقطعي والباب السريع؟",
+              "a": "الباب المقطعي يُختار للعزل: ألواح 40 مم بمعامل انتقال حراري 0.561 W/m²K حسب المصنّع، وسرعته 0.2–0.3 م/ث، والمقطعي السريع حتى 1.0 م/ث. والباب السريع بستارة مرنة يُفتح بين نحو 0.6 و2 م/ث للفتحات التي تُستخدم عشرات المرات في الساعة."
             },
             {
-              "q": "هل يصلح الباب المقطعي لفصل مساحة مكيّفة أو مبردة؟",
-              "a": "ألواحه موفرة للطاقة بسماكة 40 مم بعزل حراري وصوتي، وإحكامه ضد الرياح والماء من الفئة 3، ونطاق تشغيله من -20° م إلى +45° م، وهذه الأرقام تناسب فصل مساحة مكيّفة أو مبردة عن الخارج. ويُحدَّد مقاس الباب ونوع الرفع بعد معاينة الفتحة."
+              "q": "ما حرارة التشغيل؟",
+              "a": "من −5 إلى +50° م للموديلين القياسي ولأرصفة التحميل، حسب المصنّع."
             },
             {
-              "q": "ما عناصر السلامة في الباب المقطعي؟",
-              "a": "جهاز أمان يعمل عند انقطاع الكابل، وجهاز أمان عند انكسار النابض، وقفل أمان يغلق الباب من الداخل. وللمحرك حماية حرارية عند 120° م. والمسارات الجانبية بسماكة 2 مم بزاوية تثبيت عمودية."
+              "q": "ما المساحة التي يحتاجها فوق الفتحة؟",
+              "a": "المسارات أربعة أنواع: قياسية، ومنخفضة، ومرتفعة، ورأسية، ويُختار النوع حسب المسافة بين أعلى الفتحة والسقف."
             },
             {
-              "q": "ما المساحة التي يحتاجها الباب فوق الفتحة؟",
-              "a": "تتوفر ثلاثة أنواع رفع: عمودي، ومرتفع، وقياسي، ويُختار النوع حسب المساحة المتاحة فوق الفتحة وعلى جانبيها. ولهذا تبدأ المعاينة بقياس الفتحة والمساحة حولها قبل اختيار النوع."
+              "q": "ما عناصر السلامة؟",
+              "a": "قفل أمان داخلي، وجهاز أمان عند كسر النابض، ومصدّ نهاية الحركة. ويضيف موديل أرصفة التحميل قفلاً ميكانيكياً مانعاً للاقتحام، وفي المقطعي السريع مستشعرات أمان وخلايا ضوئية مدمجة."
             },
             {
-              "q": "هل يمكن اختيار لون الباب؟",
-              "a": "نعم، اللون يختاره العميل. والطلاء طلاء أساس على فولاذ مجلفن."
+              "q": "ما الألوان المتاحة؟",
+              "a": "الوجه الخارجي بألوان RAL 5010 أو 7016 أو 9002 أو 9006 أو 9007 أو 9010، والداخلي RAL 9002. والمقطعي السريع RAL 9002 وألوان أخرى عند الطلب."
             },
             {
-              "q": "ما خطوات التوريد والتركيب والصيانة للباب الصناعي المقطعي في قطر؟",
-              "a": "نعم. سماكة المقطع (40 مم) وسرعة الفتح (1.1 م / ثانية) — هذه هي الأرقام التي نثبّتها في المعاينة قبل إصدار العرض الفني. ونقيس الفتحة أولاً: العرض والارتفاع، والمساحة فوقها وعلى جانبيها، ومسار الحركة أمامها، والتغذية الكهربائية. ثم نورّد الباب ونركّبه أو نشرف فنياً على تركيبه، ونضبط عناصر السلامة ونختبرها، ونشغّله ونسلّمه، وندرّب المشغلين. وتستمر بعد التسليم خدمة ما بعد البيع من بيستوليكس وتوفير قطع الغيار."
+              "q": "ما خطوات التوريد والتركيب والصيانة في قطر؟",
+              "a": "نقيس الفتحة أولاً: العرض والارتفاع، والمساحة فوقها وعلى جانبيها، ومسار الحركة أمامها، والتغذية الكهربائية المتاحة. ثم نحدد الموديل ونورّد الباب ونركّبه، ونضبط عناصر السلامة ونختبرها، ونشغّله ونسلّمه، وندرّب المشغلين. وتستمر بعد التسليم الصيانة الدورية وتوفير قطع الغيار من بيستوليكس."
             }
           ],
           "en": [
             {
-              "q": "What is the difference between a sectional door and a high-speed roll-up door?",
-              "a": "The sectional door is the choice for insulation: 40 mm panels with thermal and acoustic insulation, opening at 1.1 m/s and closing at 0.5 m/s. The high-speed roll-up door is the choice for speed: about 1.0 m/s both ways, and wind resistance up to Class 5 against Class 3 for the sectional door. If the opening cycles dozens of times an hour, speed matters more; if it separates a chilled or air-conditioned space, insulation matters more."
+              "q": "What is the difference between a sectional door and a high-speed door?",
+              "a": "A sectional door is chosen for insulation: 40 mm panels with a thermal transmittance of 0.561 W/m²K per the manufacturer, at 0.2–0.3 m/s, or up to 1.0 m/s on the fast model. A high-speed door with a flexible curtain opens at about 0.6 to 2 m/s for openings used dozens of times an hour."
             },
             {
-              "q": "Does the sectional door suit separating a conditioned or chilled space?",
-              "a": "Its energy-efficient panels are 40 mm thick with thermal and acoustic insulation, it is rated Class 3 for wind and water tightness, and it works from -20 °C to +45 °C, which suits separating a chilled or air-conditioned space from the outside. The door size and lift type are set after the opening is surveyed."
+              "q": "What is the operating temperature?",
+              "a": "−5 to +50 °C for the standard and loading-bay models, per the manufacturer."
             },
             {
-              "q": "What safety devices does the sectional door have?",
-              "a": "A cable-break safety device, a spring-break safety stop, and a safety latch lock that locks the door from inside. The motor has thermal protection at 120 °C, and the side tracks are 2 mm with a vertical angle."
+              "q": "How much room does it need above the opening?",
+              "a": "There are four track types — standard, low-lift, high-lift and vertical-lift — chosen from the distance between the top of the opening and the ceiling."
             },
             {
-              "q": "How much space does the door need above the opening?",
-              "a": "Three lift types are available — vertical, high and standard — and the type is chosen from the space available above and beside the opening. That is why the survey starts by measuring the opening and the room around it."
+              "q": "What safety devices does it have?",
+              "a": "An internal safety lock, a spring-break safety device and an end-of-travel buffer. The loading-bay model adds a mechanical anti-intrusion lock, and the fast model has integrated safety sensors and photocells."
             },
             {
-              "q": "Can the door colour be chosen?",
-              "a": "Yes, the colour is the customer's choice, and the finish is primer, zinc and steel."
+              "q": "Which colours are available?",
+              "a": "Outside faces in RAL 5010, 7016, 9002, 9006, 9007 or 9010, inside RAL 9002. The fast model is RAL 9002, with other colours on request."
             },
             {
-              "q": "What are the supply, installation and maintenance steps for the industrial sectional door in Qatar?",
-              "a": "Yes. The section thickness (40 mm) and the opening speed (1.1 m/s) are the figures the survey fixes before the technical proposal is issued. We measure the opening first: width and height, the headroom and side room, the traffic route in front of it, and the power supply. We then supply the door, install it or supervise its installation, set and test the safety devices, commission it and hand it over, and train the operators. Bestolex after-sales service and spare parts continue after handover."
+              "q": "What are the supply, installation and maintenance steps in Qatar?",
+              "a": "We measure the opening first: width and height, the room above and beside it, the traffic path in front of it and the power available. Then we choose the model, supply and install the door, set and test its safety devices, commission and hand it over, and train the operators. After handover, Bestolex keeps up planned maintenance and spare parts."
+            }
+          ]
+        },
+        "stats": {
+          "ar": [
+            {
+              "value": "3",
+              "label": "موديلات"
+            },
+            {
+              "value": "0.561 W/m²K",
+              "label": "عزل الألواح"
+            },
+            {
+              "value": "8000 × 5000 مم",
+              "label": "أقصى مقاس"
+            }
+          ],
+          "en": [
+            {
+              "value": "3",
+              "label": "models"
+            },
+            {
+              "value": "0.561 W/m²K",
+              "label": "Panel insulation"
+            },
+            {
+              "value": "8000 × 5000 mm",
+              "label": "Maximum size"
             }
           ]
         }
@@ -7966,29 +7966,31 @@
       {
         "id": "high-speed-doors",
         "name": {
-          "ar": "أبواب الرول فائقة السرعة",
-          "en": "High-Speed Roll-Up Doors"
+          "ar": "الأبواب الصناعية السريعة",
+          "en": "High-Speed Industrial Doors"
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/1.png",
         "description": {
-          "ar": "أبواب الرول فائقة السرعة من بيستوليكس مناسبة لمناطق الحركة الكثيفة التي تحتاج فتحاً وإغلاقاً سريعين، بسرعة فتح وإغلاق تقارب 1.0 متر في الثانية ومقاس يصل إلى 4000 × 4000 مم.\nهيكلها من الألومنيوم وستارتها من قماش PVC عالي المتانة بألوان حسب الطلب، وتُركَّب في المتاجر والمنشآت الصناعية والمراكز اللوجستية ومصانع الأغذية والسيارات، وتتحمل نطاقاً واسعاً من درجات حرارة التشغيل وتحتاج مساحة تركيب صغيرة.\nمزودة بحافة أمان سفلية مرنة وحساس ضوئي (فوتوسيل) وستارة ضوئية للسلامة ونظام حماية من الاصطدام، وتعمل بمحرك ثلاثي الطور غير متزامن مع لوحة تحكم وجهاز تحكم عن بعد.",
-          "en": "Bestolex high-speed roll-up doors suit high-traffic areas that need fast opening and closing, at about 1.0 m/s in both directions and in sizes up to 4,000 × 4,000 mm.\nThey have an aluminium frame and a high-strength PVC curtain in customizable colours, fit stores and installations in any industrial sector, including logistics, foodstuff and automotive, withstand a wide range of operating temperatures and need minimal installation space.\nSafety comes from a soft, flexible bottom safety edge, a photocell, a light safety curtain and an anti-collision system, and the door is driven by an efficient 3-phase asynchronous motor with a control panel and remote controller."
+          "ar": "أبواب سريعة بستارة مرنة تُفتح وتُغلق في ثوانٍ، فتقلل دخول الحرارة والغبار وتسرّع حركة الرافعات والأشخاص في المستودعات والمصانع وغرف التبريد في قطر.\nتتوفر بخمسة أنواع و14 موديلاً من مصنّعين في إسبانيا وإيطاليا: رول قياسي للفتحات الداخلية، وأبواب للتبريد والتجميد حتى −35° م، وأبواب ذاتية الإصلاح تعود إلى مجراها بعد الصدم، وباب السحّاب، وأبواب قابلة للطي للفتحات الكبيرة حتى 15 × 10 م.\nسرعتها من نحو 0.6 إلى 2 م/ث حسب الموديل، ولكل موديل عناصر أمان توقف الإغلاق عند وجود عائق. ونورّدها ونركّبها ونصونها في قطر.",
+          "en": "High-speed doors with a flexible curtain that open and close in seconds, cutting heat and dust ingress and speeding up forklift and foot traffic in warehouses, factories and cold rooms in Qatar.\nThey come in five types and 14 models from manufacturers in Spain and Italy: standard roll-up doors for indoor openings, cold and freezer doors down to −35 °C, self-repairing doors that return to their guides after an impact, a zip door, and fold-up doors for large openings up to 15 × 10 m.\nSpeeds run from about 0.6 to 2 m/s depending on the model, and every model has safety devices that stop the door closing on an obstacle. We supply, install and maintain them in Qatar."
         },
         "features": {
           "ar": [
-            "سرعة فتح وإغلاق تقارب 1.0 متر في الثانية",
-            "مقاس يصل إلى 4000 × 4000 مم ومقاومة رياح حتى الفئة 5",
-            "ستارة PVC عالية المتانة بألوان حسب الطلب وهيكل من الألومنيوم",
-            "حافة أمان مرنة وحساس ضوئي وستارة ضوئية للسلامة ونظام حماية من الاصطدام",
-            "محرك ثلاثي الطور غير متزامن مع لوحة تحكم وجهاز تحكم عن بعد",
+            "خمسة أنواع و14 موديلاً من إسبانيا وإيطاليا",
+            "سرعة من نحو 0.6 حتى 2 م/ث حسب الموديل",
+            "أبواب للتجميد حتى −35° م بستارة معزولة أو مزدوجة",
+            "أبواب ذاتية الإصلاح تعود إلى مجراها بعد اصطدام الرافعات",
+            "أبواب قابلة للطي حتى 15 × 10 م ومقاومة رياح حتى الفئة 5",
+            "ستارة ضوئية أو خلايا أو حافة أمان في كل موديل",
             "خدمة ما بعد البيع من بيستوليكس مع توفر قطع الغيار"
           ],
           "en": [
-            "Opening and closing at about 1.0 m/s",
-            "Sizes up to 4,000 × 4,000 mm, wind resistance up to Class 5",
-            "High-strength PVC curtain in custom colours on an aluminium frame",
-            "Soft safety edge, photocell, light safety curtain and anti-collision system",
-            "Efficient 3-phase asynchronous motor with control panel and remote controller",
+            "Five types and 14 models from Spain and Italy",
+            "Speeds from about 0.6 up to 2 m/s by model",
+            "Freezer doors down to −35 °C with insulated or double curtains",
+            "Self-repairing doors that return to their guides after a forklift impact",
+            "Fold-up doors up to 15 × 10 m with wind resistance up to class 5",
+            "Light curtain, photocells or safety edge on every model",
             "After-sales service and spare parts from Bestolex"
           ]
         },
@@ -7996,15 +7998,15 @@
           {
             "image": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/component-customized-superior-quality-speed-pvc-canvases.png",
             "label": {
-              "ar": "ستائر PVC بألوان حسب الطلب",
-              "en": "Customized PVC Canvases"
+              "ar": "ستائر PVC بعشرة ألوان",
+              "en": "PVC Curtains in Ten Colours"
             }
           },
           {
             "image": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/component-electric-safety-edge-band.png",
             "label": {
-              "ar": "حافة أمان سفلية مرنة",
-              "en": "Soft & Flexible Safety Edge"
+              "ar": "حافة أمان موصلة",
+              "en": "Conductive Safety Edge"
             }
           },
           {
@@ -8017,14 +8019,14 @@
           {
             "image": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/component-automatic-control-panel.png",
             "label": {
-              "ar": "لوحة تحكم إلكترونية أوتوماتيكية متطورة",
-              "en": "Automatic Control Panel"
+              "ar": "لوحة التحكم",
+              "en": "Control Panel"
             }
           },
           {
             "label": {
-              "ar": "محرك مسنن عالي السرعة",
-              "en": "High-Speed Geared Motor"
+              "ar": "محرك تروس ذاتي الكبح",
+              "en": "Self-Braking Gear Motor"
             },
             "image": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/component-superior-quality-speed-geared-motor.png"
           }
@@ -8032,105 +8034,74 @@
         "specs": {
           "ar": [
             {
-              "label": "المقاس الأقصى",
-              "value": "4000 × 4000 مم"
+              "label": "الأنواع",
+              "value": "رول قياسي، تبريد وتجميد، ذاتي الإصلاح، سحّاب، قابل للطي"
             },
             {
-              "label": "سرعة الفتح",
-              "value": "نحو 1.0 م / ثانية"
+              "label": "الموديلات",
+              "value": "14"
             },
             {
-              "label": "سرعة الإغلاق",
-              "value": "نحو 1.0 م / ثانية"
+              "label": "السرعة",
+              "value": "من نحو 0.6 حتى 2 م/ث"
+            },
+            {
+              "label": "أقصى مقاس",
+              "value": "حتى 15 × 10 م"
+            },
+            {
+              "label": "أدنى حرارة",
+              "value": "حتى −35° م"
             },
             {
               "label": "مقاومة الرياح",
-              "value": "حتى الفئة 5"
+              "value": "من الفئة 1 حتى الفئة 5 حسب الموديل"
             },
             {
-              "label": "الستارة",
-              "value": "قماش PVC عالي المتانة، ألوان حسب الطلب"
+              "label": "المنشأ",
+              "value": "صناعة إسبانية وإيطالية"
             },
             {
-              "label": "الهيكل",
-              "value": "ألومنيوم"
-            },
-            {
-              "label": "المحرك",
-              "value": "محرك ثلاثي الطور غير متزامن"
-            },
-            {
-              "label": "التغذية الكهربائية",
-              "value": "240/415 فولت، ثلاثي الطور، 50 هرتز"
-            },
-            {
-              "label": "عناصر السلامة",
-              "value": "حافة أمان مرنة، حساس ضوئي، ستارة ضوئية، نظام حماية من الاصطدام"
-            },
-            {
-              "label": "التحكم",
-              "value": "لوحة تحكم وجهاز تحكم عن بعد"
+              "label": "المطابقة",
+              "value": "EN 13241 حسب المصنّع"
             }
           ],
           "en": [
             {
-              "label": "Maximum Size",
-              "value": "4000 × 4000 mm"
+              "label": "Types",
+              "value": "Standard roll-up, cold and freezer, self-repairing, zip, fold-up"
             },
             {
-              "label": "Opening Speed",
-              "value": "~1.0 m/s"
+              "label": "Models",
+              "value": "14"
             },
             {
-              "label": "Closing Speed",
-              "value": "~1.0 m/s"
+              "label": "Speed",
+              "value": "From about 0.6 up to 2 m/s"
             },
             {
-              "label": "Wind Class",
-              "value": "Up to Class 5"
+              "label": "Largest size",
+              "value": "Up to 15 × 10 m"
             },
             {
-              "label": "Curtain",
-              "value": "High-strength PVC, customizable colours"
+              "label": "Lowest temperature",
+              "value": "Down to −35 °C"
             },
             {
-              "label": "Frame",
-              "value": "Aluminium"
+              "label": "Wind resistance",
+              "value": "Class 1 to class 5 by model"
             },
             {
-              "label": "Motor",
-              "value": "3-phase asynchronous motor"
+              "label": "Origin",
+              "value": "Made in Spain and Italy"
             },
             {
-              "label": "Electrical Supply",
-              "value": "240/415V, 3-Phase, 50Hz"
-            },
-            {
-              "label": "Safety Devices",
-              "value": "Soft safety edge, photocell, light safety curtain, anti-collision system"
-            },
-            {
-              "label": "Control",
-              "value": "Control panel & remote controller"
+              "label": "Compliance",
+              "value": "EN 13241 per manufacturer"
             }
           ]
         },
-        "specDrawings": [
-          {
-            "image": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/drawing-dimensions-clearances-drawing.jpg",
-            "label": {
-              "ar": "مخطط الأبعاد والمقاسات للأبواب عالية السرعة",
-              "en": "Dimensions & Clearances Drawing"
-            }
-          },
-          {
-            "image": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/drawing-high-speed-roll-door-technical-drawing.jpg",
-            "label": {
-              "ar": "رسم هندسي - باب رول أوتوماتيكي سريع",
-              "en": "High Speed Roll Door Technical Drawing"
-            }
-          }
-        ],
+        "specDrawings": [],
         "images": [
           "https://cdn.bestolex.com/bestolex/products/high-speed-doors/1.png",
           "https://cdn.bestolex.com/bestolex/products/high-speed-doors/2.png",
@@ -8140,69 +8111,99 @@
         "cardImage": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/1.png",
         "seo": {
           "title": {
-            "en": "High-Speed Roll-Up Doors for Warehouses in Qatar",
-            "ar": "أبواب رول سريعة (شتر سريع) للمستودعات في قطر"
+            "ar": "الأبواب السريعة للمستودعات وغرف التبريد في قطر",
+            "en": "High-Speed Doors for Warehouses and Cold Rooms in Qatar"
           },
           "description": {
-            "en": "High-speed PVC roll-up doors for busy forklift traffic, food plants and logistics sites, up to 4 x 4 m with photocell and safety edge. Get a quote.",
-            "ar": "أبواب رول سريعة بقماش PVC لحركة الرافعات الشوكية ومصانع الأغذية والمواقع اللوجستية، بمقاس حتى 4×4 م مع خلية ضوئية وحافة أمان. اطلب عرض سعر."
+            "ar": "أبواب سريعة بخمسة أنواع و14 موديلاً: رول، وتجميد حتى −35° م، وذاتية الإصلاح، وقابلة للطي حتى 15 × 10 م. توريد وتركيب وصيانة في قطر.",
+            "en": "High-speed doors in five types and 14 models: roll-up, freezer to −35 °C, self-repairing and fold-up up to 15 × 10 m. Supply, installation and service in Qatar."
           }
         },
         "summary": {
-          "ar": "باب رول فائق السرعة بستارة PVC عالية المتانة على هيكل ألومنيوم، يفتح ويغلق بنحو 1.0 م/ث بمقاس يصل إلى 4000 × 4000 مم ومقاومة رياح حتى الفئة 5. يناسب الفتحات والمداخل ذات الحركة الكثيفة في المستودعات ومصانع الأغذية والسيارات في قطر، ومعه حافة أمان مرنة وحساس ضوئي وستارة ضوئية ونظام حماية من الاصطدام.",
-          "en": "A high-speed roll-up door with a high-strength PVC curtain on an aluminium frame, opening and closing at about 1.0 m/s, in sizes up to 4,000 × 4,000 mm and rated up to wind Class 5. It suits high-traffic openings in warehouses and food and automotive plants in Qatar, and comes with a soft safety edge, photocell, light safety curtain and anti-collision system."
+          "ar": "أبواب سريعة بخمسة أنواع و14 موديلاً من إسبانيا وإيطاليا، تُفتح بين نحو 0.6 و2 م/ث: رول قياسي، وللتبريد والتجميد حتى −35° م، وذاتية الإصلاح بعد الصدم، والسحّاب، وقابلة للطي حتى 15 × 10 م برياح حتى الفئة 5. اختر النوع من الجدول أدناه، ونحدد الموديل بعد قياس الفتحة.",
+          "en": "High-speed doors in five types and 14 models from Spain and Italy, opening at about 0.6 to 2 m/s: standard roll-up, cold and freezer down to −35 °C, self-repairing after impacts, zip, and fold-up up to 15 × 10 m with wind resistance up to class 5. Pick a type in the table below; we confirm the model after measuring the opening."
         },
         "faq": {
           "ar": [
             {
-              "q": "ما أقصى مقاس متاح للباب الرول فائق السرعة؟",
-              "a": "المقاس الأقصى 4000 × 4000 مم. ويُحدَّد المقاس الفعلي بعد قياس الفتحة والمساحة حولها في المعاينة، ومساحة التركيب التي يحتاجها صغيرة."
+              "q": "ما سرعة الباب السريع؟",
+              "a": "من نحو 0.6 م/ث في الأبواب القابلة للطي إلى 1.8 م/ث في باب التجميد العميق، وحتى 2 م/ث في أحد الأبواب ذاتية الإصلاح حسب المقاس. الأرقام من النشرات الفنية للمصنّع."
             },
             {
-              "q": "كم سرعة الفتح والإغلاق، ولماذا تهم؟",
-              "a": "نحو 1.0 متر في الثانية فتحاً وإغلاقاً. وكل ثانية يبقى فيها الباب مفتوحاً تعني خروج هواء مكيّف ودخول حرارة وغبار، فالسرعة تقلل زمن بقاء الباب مفتوحاً وتزيد عدد المرات التي تعبر فيها الرافعة الشوكية في الساعة."
+              "q": "هل يصلح لفتحة خارجية معرّضة للرياح؟",
+              "a": "الرول القياسي للاستخدام الداخلي (الفئة 1). للفتحات الخارجية اختر القابل للطي: الفئة 4 حتى 6000 × 6000 مم، وحتى الفئة 5 للباب الأكبر، أو ذاتي الإصلاح للداخل والخارج (الفئة 3 حتى 4000 × 4500 مم)."
             },
             {
-              "q": "ما عناصر السلامة عند مرور الرافعات الشوكية؟",
-              "a": "حافة أمان سفلية مرنة، وحساس ضوئي (فوتوسيل)، وستارة ضوئية للسلامة، ونظام حماية من الاصطدام. ويُشغَّل الباب من لوحة تحكم أو بجهاز تحكم عن بعد، فلا يحتاج المشغل إلى النزول من الرافعة."
+              "q": "أي باب يناسب غرفة التبريد أو التجميد؟",
+              "a": "حتى −20° م باب التجميد بستارة معزولة 1,300 غ/م²، وحتى −35° م الباب بستارتين حتى 6000 × 6000 مم، وللغرف فوق الصفر باب غرف التبريد أو الباب ذاتي الإصلاح المعزول."
             },
             {
-              "q": "هل يصلح لمصانع الأغذية؟",
-              "a": "نعم. ستارته من قماش PVC عالي المتانة وهيكله من الألومنيوم، وهو مستخدم في المتاجر والمنشآت الصناعية والمراكز اللوجستية ومصانع الأغذية والسيارات. وتُحدَّد تفاصيل الستارة واللون حسب اشتراطات المصنع."
+              "q": "ماذا يحدث إذا اصطدمت به رافعة شوكية؟",
+              "a": "في الأبواب ذاتية الإصلاح تخرج الستارة من مجراها ثم تعود إليه وحدها. وفي باب السحّاب تنزلق الستارة إلى وضعها على أدلتها. وفي الحالتين يعمل الباب من جديد دون استبدال الستارة."
             },
             {
-              "q": "ما مقاومة الرياح؟",
-              "a": "حتى الفئة 5. وهذه أعلى من الفئة 3 للباب الصناعي المقطعي، فتناسب الأبواب الخارجية المعرضة للرياح المباشرة."
+              "q": "هل يعمل عند انقطاع الكهرباء؟",
+              "a": "أغلب الموديلات تُفتح يدوياً عند انقطاع الكهرباء: بمحرك بقابض، أو بسلسلة، أو بمفتاح على المحرك. ووحدة UPS خيار في عدة موديلات."
             },
             {
-              "q": "ما خطوات التوريد والتركيب والصيانة للباب الرول فائق السرعة في قطر؟",
-              "a": "نعم. المقاس الأقصى (4000 × 4000 مم) وسرعة الفتح (نحو 1.0 م / ثانية) — هذه هي الأرقام التي نثبّتها في المعاينة قبل إصدار العرض الفني. ونقيس الفتحة أولاً: العرض والارتفاع، والمساحة فوقها وعلى جانبيها، ومسار الحركة أمامها، والتغذية الكهربائية. ثم نورّد الباب ونركّبه أو نشرف فنياً على تركيبه، ونضبط عناصر السلامة ونختبرها، ونشغّله ونسلّمه، وندرّب المشغلين. وتستمر بعد التسليم خدمة ما بعد البيع من بيستوليكس وتوفير قطع الغيار."
+              "q": "ما خطوات التوريد والتركيب والصيانة في قطر؟",
+              "a": "نقيس الفتحة أولاً: العرض والارتفاع، والمساحة فوقها وعلى جانبيها، ومسار الحركة أمامها، والتغذية الكهربائية المتاحة. ثم نحدد الموديل ونورّد الباب ونركّبه، ونضبط عناصر السلامة ونختبرها، ونشغّله ونسلّمه، وندرّب المشغلين. وتستمر بعد التسليم الصيانة الدورية وتوفير قطع الغيار من بيستوليكس."
             }
           ],
           "en": [
             {
-              "q": "What is the largest size available for the high-speed roll-up door?",
-              "a": "The maximum size is 4,000 × 4,000 mm. The actual size is set after the opening and the room around it are measured at the survey, and the door needs only a small installation footprint."
+              "q": "How fast is a high-speed door?",
+              "a": "From about 0.6 m/s on the fold-up doors to 1.8 m/s on the deep-freeze door, and up to 2 m/s on one self-repairing door depending on size. The figures come from the manufacturers' data sheets."
             },
             {
-              "q": "How fast does it open and close, and why does that matter?",
-              "a": "About 1.0 metre per second in both directions. Every second the door stays open is conditioned air going out and heat and dust coming in, so speed cuts the open time and raises the number of forklift passes per hour."
+              "q": "Does it suit an outdoor opening exposed to wind?",
+              "a": "The standard roll-up door is for indoor use (class 1). For outdoor openings choose a fold-up door: class 4 up to 6000 × 6000 mm and up to class 5 on the largest door, or the self-repairing door for indoor and outdoor use (class 3 up to 4000 × 4500 mm)."
             },
             {
-              "q": "What protects a forklift passing through?",
-              "a": "A soft bottom safety edge, a photocell, a light safety curtain and an anti-collision system. The door runs from a control panel or a remote controller, so the operator does not have to get off the forklift."
+              "q": "Which door suits a cold room or freezer?",
+              "a": "Down to −20 °C the freezer door with a 1,300 g/m² insulated curtain; down to −35 °C the double-curtain door up to 6000 × 6000 mm; and for rooms above zero the cold-room door or the insulated self-repairing door."
             },
             {
-              "q": "Does it suit food plants?",
-              "a": "The curtain is high-strength PVC on an aluminium frame, and the door is used in stores, industrial facilities, logistics centres, and food and automotive plants. Curtain details and colour are set to the plant’s own requirements."
+              "q": "What happens if a forklift hits it?",
+              "a": "On the self-repairing doors the curtain leaves its guides and goes back on its own. On the zip door the curtain slides back into place on its guides. Either way the door keeps working without a new curtain."
             },
             {
-              "q": "What is its wind resistance?",
-              "a": "Up to Class 5. That is higher than the Class 3 of the industrial sectional door, which suits external openings exposed to direct wind."
+              "q": "Does it work in a power cut?",
+              "a": "Most models open by hand in a power cut, through a clutch-release motor, a chain or a wrench on the motor. A UPS is an option on several models."
             },
             {
-              "q": "What are the supply, installation and maintenance steps for the high-speed roll-up door in Qatar?",
-              "a": "Yes. The maximum size (4000 × 4000 mm) and the opening speed (~1.0 m/s) are the figures the survey fixes before the technical proposal is issued. We measure the opening first: width and height, the headroom and side room, the traffic route in front of it, and the power supply. We then supply the door, install it or supervise its installation, set and test the safety devices, commission it and hand it over, and train the operators. Bestolex after-sales service and spare parts continue after handover."
+              "q": "What are the supply, installation and maintenance steps in Qatar?",
+              "a": "We measure the opening first: width and height, the room above and beside it, the traffic path in front of it and the power available. Then we choose the model, supply and install the door, set and test its safety devices, commission and hand it over, and train the operators. After handover, Bestolex keeps up planned maintenance and spare parts."
+            }
+          ]
+        },
+        "stats": {
+          "ar": [
+            {
+              "value": "14",
+              "label": "موديلاً في 5 أنواع"
+            },
+            {
+              "value": "حتى 2 م/ث",
+              "label": "السرعة"
+            },
+            {
+              "value": "15 × 10 م",
+              "label": "أقصى مقاس"
+            }
+          ],
+          "en": [
+            {
+              "value": "14",
+              "label": "models in 5 types"
+            },
+            {
+              "value": "Up to 2 m/s",
+              "label": "Speed"
+            },
+            {
+              "value": "15 × 10 m",
+              "label": "Largest size"
             }
           ]
         }
@@ -8214,8 +8215,8 @@
         "ar": "الأبواب الصناعية السريعة والمقطعية في قطر"
       },
       "description": {
-        "en": "High-speed roll-up doors and insulated sectional doors for warehouses, factories, cold stores and logistics centres in Qatar. Get a quote from Bestolex.",
-        "ar": "أبواب رول سريعة وأبواب مقطعية معزولة للمستودعات والمصانع والمخازن المبردة والمراكز اللوجستية في قطر. اطلب عرض سعر من بيستوليكس."
+        "ar": "أبواب سريعة بخمسة أنواع و14 موديلاً وأبواب مقطعية معزولة للمستودعات والمصانع وغرف التبريد في قطر. اطلب عرض سعر من بيستوليكس.",
+        "en": "High-speed doors in five types and 14 models, and insulated sectional doors, for warehouses, factories and cold rooms in Qatar. Get a quote from Bestolex."
       }
     }
   },

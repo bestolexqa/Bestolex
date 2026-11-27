@@ -1,0 +1,293 @@
+{
+ "id": "industrial-sectional-doors",
+ "updated": "2026-11-27",
+ "title": {
+  "ar": "الموديلات والمواصفات",
+  "en": "Models and specifications"
+ },
+ "source": {
+  "ar": "المصدر: مواقع المصنّعين ونشراتهم الفنية · المواصفات حسب المصنّع، وما لم يُنشر يُحدَّد في العرض الفني",
+  "en": "Source: the manufacturers' websites and data sheets · specs per manufacturer; anything unpublished is set in the technical proposal"
+ },
+ "rows": [
+  {
+   "key": "use",
+   "label": {
+    "ar": "الاستخدام",
+    "en": "Application"
+   }
+  },
+  {
+   "key": "size",
+   "label": {
+    "ar": "أقصى مقاس (عرض × ارتفاع)",
+    "en": "Maximum size (W × H)"
+   }
+  },
+  {
+   "key": "panel",
+   "label": {
+    "ar": "الألواح",
+    "en": "Panels"
+   }
+  },
+  {
+   "key": "ins",
+   "label": {
+    "ar": "العزل الحراري",
+    "en": "Thermal insulation"
+   }
+  },
+  {
+   "key": "speed",
+   "label": {
+    "ar": "السرعة",
+    "en": "Speed"
+   }
+  },
+  {
+   "key": "drive",
+   "label": {
+    "ar": "التشغيل",
+    "en": "Operation"
+   }
+  },
+  {
+   "key": "tracks",
+   "label": {
+    "ar": "المسارات",
+    "en": "Tracks"
+   }
+  },
+  {
+   "key": "temp",
+   "label": {
+    "ar": "حرارة التشغيل",
+    "en": "Operating temperature"
+   }
+  },
+  {
+   "key": "cycles",
+   "label": {
+    "ar": "العمر التشغيلي",
+    "en": "Service life"
+   }
+  },
+  {
+   "key": "safety",
+   "label": {
+    "ar": "الأمان",
+    "en": "Safety"
+   }
+  },
+  {
+   "key": "finish",
+   "label": {
+    "ar": "الألوان",
+    "en": "Colours"
+   }
+  },
+  {
+   "key": "std",
+   "label": {
+    "ar": "المطابقة (حسب المصنّع)",
+    "en": "Compliance (per manufacturer)"
+   }
+  }
+ ],
+ "keyRows": [
+  "size",
+  "ins",
+  "speed"
+ ],
+ "types": [
+  {
+   "id": "all",
+   "label": {
+    "ar": "الأبواب المقطعية",
+    "en": "Sectional doors"
+   },
+   "intro": {
+    "ar": "الموديلان القياسي ولأرصفة التحميل بالأرقام نفسها، والفرق في الغرض والمسارات. والمقطعي السريع ألواحه 40 مم بمقاطع 366 مم.",
+    "en": "The standard and loading-bay models share the same figures; they differ in purpose and tracks. The fast sectional door uses 40 mm panels in 366 mm sections."
+   },
+   "models": [
+    {
+     "code": "BX-DR-SC-01",
+     "name": {
+      "ar": "باب مقطعي صناعي معزول",
+      "en": "Insulated industrial sectional door"
+     },
+     "origin": {
+      "ar": "صناعة إسبانية",
+      "en": "Made in Spain"
+     },
+     "specs": {
+      "use": {
+       "ar": "المستودعات والمصانع ومراكز التوزيع",
+       "en": "Warehouses, factories and distribution centres"
+      },
+      "drive": {
+       "ar": "يدوي (رافعة سلسلة اختيارية) أو بمحرك: ضغط مستمر أو نصف آلي أو آلي، IP40",
+       "en": "Manual (chain hoist optional) or motorised: hold-to-run, semi-automatic or automatic, IP40"
+      },
+      "tracks": {
+       "ar": "قياسية، أو منخفضة، أو مرتفعة، أو رأسية حسب المساحة فوق الفتحة",
+       "en": "Standard, low-lift, high-lift or vertical-lift, to suit headroom"
+      },
+      "safety": {
+       "ar": "قفل أمان داخلي، وجهاز أمان عند كسر النابض، ومصدّ نهاية الحركة",
+       "en": "Internal safety lock; spring-break device; end-of-travel buffer"
+      },
+      "std": {
+       "ar": "EN 13241، والتوجيه 2006/42/EC، واللائحة 305/2011",
+       "en": "EN 13241, Directive 2006/42/EC, Regulation 305/2011"
+      },
+      "size": {
+       "ar": "حتى 8000 × 5000 مم، ومقاسات أخرى عند الطلب",
+       "en": "Up to 8000 × 5000 mm; other sizes on request"
+      },
+      "panel": {
+       "ar": "ساندويتش فولاذ مجلفن 40 مم (80 مم اختياري)، ومقاطع 500 أو 610 مم",
+       "en": "40 mm galvanised-steel sandwich (80 mm optional); 500 or 610 mm sections"
+      },
+      "ins": {
+       "ar": "بولي يوريثان، U = 0.561 W/m²K",
+       "en": "Polyurethane, U = 0.561 W/m²K"
+      },
+      "speed": {
+       "ar": "0.2–0.3 م/ث بالمحرك",
+       "en": "0.2–0.3 m/s motorised"
+      },
+      "temp": {
+       "ar": "من −5 إلى +50° م",
+       "en": "−5 to +50 °C"
+      },
+      "cycles": {
+       "ar": "15,000 دورة، ونوابض 10,000 أو 25,000 أو 50,000 اختيارية",
+       "en": "15,000 cycles; 10,000 / 25,000 / 50,000-cycle springs optional"
+      },
+      "finish": {
+       "ar": "خارجي RAL 5010 أو 7016 أو 9002 أو 9006 أو 9007 أو 9010، وداخلي RAL 9002",
+       "en": "Outside RAL 5010, 7016, 9002, 9006, 9007 or 9010; inside RAL 9002"
+      }
+     }
+    },
+    {
+     "code": "BX-DR-SC-02",
+     "name": {
+      "ar": "باب مقطعي لأرصفة التحميل",
+      "en": "Sectional door for loading bays"
+     },
+     "origin": {
+      "ar": "صناعة إسبانية",
+      "en": "Made in Spain"
+     },
+     "specs": {
+      "use": {
+       "ar": "أرصفة التحميل، ويتوافق مع أغطية البوابات ورصيف التحميل",
+       "en": "Loading bays; matches dock shelters and dock levellers"
+      },
+      "drive": {
+       "ar": "يدوي (مقبض بقفل خارجي أو رافعة سلسلة اختياريان) أو بمحرك، IP40",
+       "en": "Manual (handle with external lock or chain hoist optional) or motorised, IP40"
+      },
+      "tracks": {
+       "ar": "مسارات رأسية مصممة لأرصفة التحميل",
+       "en": "Vertical tracks designed for loading bays"
+      },
+      "safety": {
+       "ar": "قفل أمان داخلي، وجهاز أمان عند كسر النابض، ومصدّ نهاية الحركة، وقفل ميكانيكي مانع للاقتحام",
+       "en": "Internal safety lock; spring-break device; end-of-travel buffer; anti-intrusion lock"
+      },
+      "std": {
+       "ar": "EN 13241، والتوجيه 2006/42/EC، وعلامة CE",
+       "en": "EN 13241, Directive 2006/42/EC, CE marked"
+      },
+      "size": {
+       "ar": "حتى 8000 × 5000 مم، ومقاسات أخرى عند الطلب",
+       "en": "Up to 8000 × 5000 mm; other sizes on request"
+      },
+      "panel": {
+       "ar": "ساندويتش فولاذ مجلفن 40 مم (80 مم اختياري)، ومقاطع 500 أو 610 مم",
+       "en": "40 mm galvanised-steel sandwich (80 mm optional); 500 or 610 mm sections"
+      },
+      "ins": {
+       "ar": "بولي يوريثان، U = 0.561 W/m²K",
+       "en": "Polyurethane, U = 0.561 W/m²K"
+      },
+      "speed": {
+       "ar": "0.2–0.3 م/ث بالمحرك",
+       "en": "0.2–0.3 m/s motorised"
+      },
+      "temp": {
+       "ar": "من −5 إلى +50° م",
+       "en": "−5 to +50 °C"
+      },
+      "cycles": {
+       "ar": "15,000 دورة، ونوابض 10,000 أو 25,000 أو 50,000 اختيارية",
+       "en": "15,000 cycles; 10,000 / 25,000 / 50,000-cycle springs optional"
+      },
+      "finish": {
+       "ar": "خارجي RAL 5010 أو 7016 أو 9002 أو 9006 أو 9007 أو 9010، وداخلي RAL 9002",
+       "en": "Outside RAL 5010, 7016, 9002, 9006, 9007 or 9010; inside RAL 9002"
+      }
+     }
+    },
+    {
+     "code": "BX-DR-SC-03",
+     "name": {
+      "ar": "باب مقطعي سريع",
+      "en": "Fast sectional door"
+     },
+     "origin": {
+      "ar": "صناعة إسبانية",
+      "en": "Made in Spain"
+     },
+     "specs": {
+      "use": {
+       "ar": "داخلي وخارجي، للمواقع ذات الحركة المستمرة",
+       "en": "Indoor and outdoor; sites with constant traffic"
+      },
+      "panel": {
+       "ar": "مقاطع 366 مم بسماكة 40 مم من فولاذ محشو بالبولي يوريثان، ومقاطع مزججة بالأكريليك",
+       "en": "366 mm sections, 40 mm PU-filled steel; acrylic-glazed sections"
+      },
+      "ins": {
+       "ar": "ألواح معزولة بالبولي يوريثان",
+       "en": "Polyurethane-insulated panels"
+      },
+      "speed": {
+       "ar": "حتى 1.0 م/ث فتحاً و0.5 م/ث إغلاقاً",
+       "en": "Up to 1.0 m/s opening, 0.5 m/s closing"
+      },
+      "drive": {
+       "ar": "محرك سريع بتحكم إلكتروني في البدء والتوقف التدريجي",
+       "en": "High-speed motor with electronic soft start and stop"
+      },
+      "tracks": {
+       "ar": "بكرات مزدوجة ومسارات جانبية مقوّاة بنظام موازنة",
+       "en": "Double rollers; reinforced side tracks with counterbalance"
+      },
+      "cycles": {
+       "ar": "50,000 دورة",
+       "en": "50,000 cycles"
+      },
+      "safety": {
+       "ar": "مستشعرات أمان وخلايا ضوئية مدمجة",
+       "en": "Integrated safety sensors and photocells"
+      },
+      "finish": {
+       "ar": "RAL 9002، وألوان RAL أخرى عند الطلب",
+       "en": "RAL 9002; other RAL colours on request"
+      },
+      "std": {
+       "ar": "EN 13241-1، والتوجيه 2006/42/EC، وعلامة CE",
+       "en": "EN 13241-1, Directive 2006/42/EC, CE marked"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

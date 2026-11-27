@@ -2,11 +2,12 @@ import { isAdminRequest } from '~~/server/utils/adminAuth'
 
 /**
  * Server-side protection for every admin API.
- * Public endpoints: reading the blog, submitting the contact / quote / appointment forms,
+ * Public endpoints: reading the blog and the product-family model tables, submitting the contact / quote / appointment forms,
  * analytics event tracking, and the login/session endpoints themselves.
  */
 const PUBLIC_RULES: Array<{ method: string, test: (path: string) => boolean }> = [
   { method: 'GET', test: p => p === '/api/blog' || p.startsWith('/api/blog/') },
+  { method: 'GET', test: p => p.startsWith('/api/catalog/family/') },
   { method: 'POST', test: p => p === '/api/contact' },
   { method: 'POST', test: p => p === '/api/book-appointment' },
   { method: 'POST', test: p => p === '/api/analytics/track' },
