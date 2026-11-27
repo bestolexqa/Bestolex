@@ -45,10 +45,24 @@ export const useServerSupabase = () => {
  * Returns null when the key is absent, so callers can say so plainly
  * instead of reporting an empty list.
  */
+/**
+ * A key must be usable as an HTTP header value. A value pasted from a masked
+ * field (the bullets "\u2022\u2022\u2022" a dashboard shows instead of the secret) looks
+ * present but makes fetch throw while building the header, which reads as an
+ * unrelated TypeError far from its cause. Reject it here instead.
+ */
+export const adminKeyProblem = (): string => {
+  const key = clean(process.env.SUPABASE_SERVICE_ROLE_KEY || process.env.SUPABASE_SERVICE_KEY)
+  if (!key) return 'missing'
+  if (/[^\x20-\x7e]/.test(key)) return 'not_ascii'
+  if (key.length < 20) return 'too_short'
+  return ''
+}
+
 export const useSupabaseAdmin = () => {
   const u = url()
   const key = clean(process.env.SUPABASE_SERVICE_ROLE_KEY || process.env.SUPABASE_SERVICE_KEY)
-  if (!u || !key) return null
+  if (!u || !key || adminKeyProblem()) return null
   if (!adminClient) {
     adminClient = createClient(u, key, { auth: { persistSession: false, autoRefreshToken: false } })
   }

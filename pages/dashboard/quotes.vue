@@ -229,8 +229,13 @@ const loadData = async () => {
   } catch (e) {
     // Swallowing this is what made a blocked read look like an empty table.
     const d = e?.data?.data || {}
+    const byProblem = {
+      missing: 'مفتاح الخدمة غير مضبوط في Vercel (SUPABASE_SERVICE_ROLE_KEY).',
+      not_ascii: 'قيمة SUPABASE_SERVICE_ROLE_KEY في Vercel ليست مفتاحاً — تبدو نسخة من نقاط التمويه. انسخ المفتاح من Supabase ← Secret keys والصقه كاملاً.',
+      too_short: 'قيمة SUPABASE_SERVICE_ROLE_KEY في Vercel أقصر من أن تكون مفتاحاً صحيحاً.'
+    }
     loadError.value = d.reason === 'missing_service_role_key'
-      ? 'مفتاح الخدمة غير مضبوط في Vercel (SUPABASE_SERVICE_ROLE_KEY)، فلا يمكن قراءة الطلبات من قاعدة البيانات.'
+      ? (byProblem[d.problem] || byProblem.missing) + ' ولا يمكن قراءة الطلبات قبل إصلاحها.'
       : (d.detail || e?.data?.statusMessage || e?.message || 'خطأ غير معروف')
     quotes.value = []
     appointments.value = []
