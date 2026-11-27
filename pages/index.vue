@@ -26,7 +26,7 @@
           {{ locale === 'ar' ? 'معدات التحميل والنفايات والحماية المحيطية والأبواب الصناعية في قطر' : 'Loading, Waste, Perimeter Security and Industrial Door Solutions in Qatar' }}
         </h1>
         <p class="text-base md:text-xl mb-8 text-gray-200 drop-shadow-md">
-          {{ locale === 'ar' ? 'بيستوليكس – الوكيل الحصري لمنتجات ساب تك في قطر' : 'Bestolex – the exclusive SABTECH agent in Qatar' }}
+          {{ locale === 'ar' ? 'بيستوليكس – الوكيل الحصري لمنتجات ساب تك في قطر' : 'Bestolex – the exclusive SAB TECH agent in Qatar' }}
         </p>
         <div class="flex flex-wrap justify-center gap-3">
           <NuxtLink :to="localePath('/products')" class="inline-block bg-primary text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-orange-600 transition shadow-lg shadow-primary/30 hover:scale-105">
@@ -81,8 +81,8 @@
           </h2>
           <p class="text-gray-300 text-lg leading-relaxed mb-8">
             {{ locale === 'ar'
-              ? 'مقاول، مصنع، مستشفى، ورشة، مطعم أو مزرعة: صف لنا ما تحتاجه، ونبحث عنه في مصانع حول العالم ونشتريه نيابة عنك، ثم نشحنه ونركّبه في موقعك.'
-              : 'Contractor, factory, hospital, workshop, restaurant or farm: tell us what you need, we find it in factories worldwide and buy it on your behalf, then ship and install it on your site.' }}
+              ? 'مقاول، مصنع، ورشة، مطعم، فندق أو مزرعة: صف لنا ما تحتاجه، ونبحث عنه في مصانع حول العالم ونشتريه نيابة عنك، ثم نشحنه ونركّبه في موقعك.'
+              : 'Contractor, factory, workshop, restaurant, hotel or farm: tell us what you need, we find it in factories worldwide and buy it on your behalf, then ship and install it on your site.' }}
           </p>
           <div class="flex flex-wrap gap-3">
             <NuxtLink :to="localePath('/sourcing')" class="bg-primary text-[#191919] font-bold px-7 py-3.5 rounded-lg hover:bg-[#f2b02a] transition">
@@ -269,11 +269,11 @@ useSeoMeta({
     : 'Loading, Waste & Security Equipment in Qatar | Bestolex',
   description: () => isAr.value
     ? 'بيستوليكس تورّد أرصفة التحميل والرافعات المقصية ومكابس النفايات ومصدات الطرق ومفجرات الإطارات والأبواب الصناعية في قطر. الوكيل الحصري لساب تك. اطلب عرض سعر.'
-    : 'Bestolex supplies dock levelers, scissor lifts, balers, road blockers, bollards and industrial doors in Qatar. Exclusive SABTECH agent. Request a quote.',
+    : 'Bestolex supplies dock levelers, scissor lifts, balers, road blockers, bollards and industrial doors in Qatar. Exclusive SAB TECH agent. Request a quote.',
   ogTitle: () => isAr.value ? 'بيستوليكس | معدات التحميل والنفايات والحماية والأبواب الصناعية في قطر' : 'Bestolex | Loading, Waste, Security and Industrial Door Solutions in Qatar',
   ogDescription: () => isAr.value
     ? 'الوكيل الحصري لمنتجات ساب تك في قطر: توريد وتركيب وصيانة معدات المنشآت.'
-    : 'Exclusive SABTECH agent in Qatar: supply, installation and maintenance of facility equipment.',
+    : 'Exclusive SAB TECH agent in Qatar: supply, installation and maintenance of facility equipment.',
   ogImage: BUSINESS.image
 })
 

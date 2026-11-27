@@ -496,7 +496,7 @@ const servicesList = [
   { icon: '📋', title: { ar: 'دراسة المتطلبات والمعاينة الميدانية', en: 'Requirements study and site survey' }, desc: { ar: 'نعاين الموقع ونحدد المتطلبات الفنية', en: 'Site survey and technical requirements' } },
   { icon: '💡', title: { ar: 'اختيار الحل والعرض الفني والتجاري', en: 'Solution selection and proposal' }, desc: { ar: 'الحل المناسب وعرض واضح', en: 'The right solution and a clear offer' } },
   { icon: '📦', title: { ar: 'التوريد والخدمات اللوجستية', en: 'Supply and logistics' }, desc: { ar: 'الشحن والتخليص حتى الموقع', en: 'Shipping and clearance to site' } },
-  { icon: '🛠️', title: { ar: 'التركيب أو الإشراف الفني', en: 'Installation or technical supervision' }, desc: { ar: 'وفق إجراءات السلامة', en: 'Following safety procedures' } },
+  { icon: '🛠️', title: { ar: 'التركيب أو الإشراف الفني', en: 'Installation or technical supervision' }, desc: { ar: 'بفريقنا الفني وفق إجراءات السلامة', en: 'By our technical team, safely' } },
   { icon: '✅', title: { ar: 'الاختبار والتشغيل والتسليم', en: 'Testing, commissioning and handover' }, desc: { ar: 'تسليم النظام جاهزاً للعمل', en: 'A working system at handover' } },
   { icon: '🎓', title: { ar: 'تدريب المشغلين', en: 'Operator training' }, desc: { ar: 'التشغيل الصحيح والآمن', en: 'Correct and safe operation' } },
   { icon: '⚙️', title: { ar: 'الصيانة الوقائية والتصحيحية', en: 'Preventive and corrective maintenance' }, desc: { ar: 'صيانة دورية واستجابة للأعطال', en: 'Scheduled maintenance and fault response' } },
