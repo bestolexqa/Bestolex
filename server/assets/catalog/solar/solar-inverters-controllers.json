@@ -1,0 +1,932 @@
+{
+ "id": "solar-inverters-controllers",
+ "updated": "2026-11-27",
+ "title": {
+  "ar": "المنتجات والمواصفات",
+  "en": "Products and specifications"
+ },
+ "source": {
+  "ar": "المصدر: كتالوج بيستوليكس BXSC-03، إصدار 27 نوفمبر 2026 · * حسب بيانات المصنّع · قد تتغير المواصفات دون إشعار",
+  "en": "Source: Bestolex catalogue BXSC-03, edition 27 November 2026 · * manufacturer-stated · specifications may change without notice"
+ },
+ "typeLabel": {
+  "ar": "نوع المنتج",
+  "en": "Product type"
+ },
+ "missing": {
+  "ar": "—",
+  "en": "—"
+ },
+ "rows": [
+  {
+   "key": "use",
+   "label": {
+    "ar": "الأنسب لـ",
+    "en": "Best for"
+   }
+  },
+  {
+   "key": "rated-ac-output",
+   "label": {
+    "ar": "القدرة المقننة",
+    "en": "Rated AC output"
+   }
+  },
+  {
+   "key": "max-ac-output",
+   "label": {
+    "ar": "أقصى قدرة خرج",
+    "en": "Max. AC output"
+   }
+  },
+  {
+   "key": "peak-power-off-grid",
+   "label": {
+    "ar": "قدرة الذروة",
+    "en": "Peak power (off-grid)"
+   }
+  },
+  {
+   "key": "output",
+   "label": {
+    "ar": "الخرج",
+    "en": "Output"
+   }
+  },
+  {
+   "key": "battery",
+   "label": {
+    "ar": "البطارية",
+    "en": "Battery"
+   }
+  },
+  {
+   "key": "max-charge-discharge",
+   "label": {
+    "ar": "أقصى تيار شحن / تفريغ",
+    "en": "Max. charge / discharge"
+   }
+  },
+  {
+   "key": "max-pv-input-power",
+   "label": {
+    "ar": "أقصى قدرة ألواح",
+    "en": "Max. PV input power"
+   }
+  },
+  {
+   "key": "pv-input-voltage",
+   "label": {
+    "ar": "جهد دخل الألواح",
+    "en": "PV input voltage"
+   }
+  },
+  {
+   "key": "mppt-range-trackers",
+   "label": {
+    "ar": "نطاق ⁦MPPT⁩ · المتتبعات",
+    "en": "MPPT range · trackers"
+   }
+  },
+  {
+   "key": "efficiency",
+   "label": {
+    "ar": "الكفاءة",
+    "en": "Efficiency"
+   }
+  },
+  {
+   "key": "parallel-units",
+   "label": {
+    "ar": "وحدات بالتوازي",
+    "en": "Parallel units"
+   }
+  },
+  {
+   "key": "battery-comms-monitoring",
+   "label": {
+    "ar": "الاتصال · المراقبة",
+    "en": "Battery comms · monitoring"
+   }
+  },
+  {
+   "key": "weight-protection",
+   "label": {
+    "ar": "الوزن · الحماية",
+    "en": "Weight · protection"
+   }
+  },
+  {
+   "key": "warranty",
+   "label": {
+    "ar": "الضمان",
+    "en": "Warranty"
+   }
+  },
+  {
+   "key": "unbalanced-output",
+   "label": {
+    "ar": "الحمل غير المتوازن",
+    "en": "Unbalanced output"
+   }
+  },
+  {
+   "key": "pv-voltage-mppt-range",
+   "label": {
+    "ar": "جهد الألواح · نطاق ⁦MPPT⁩",
+    "en": "PV voltage · MPPT range"
+   }
+  },
+  {
+   "key": "capacity",
+   "label": {
+    "ar": "السعة",
+    "en": "Capacity"
+   }
+  },
+  {
+   "key": "battery-voltage",
+   "label": {
+    "ar": "جهد البطارية",
+    "en": "Battery voltage"
+   }
+  },
+  {
+   "key": "solar-charger",
+   "label": {
+    "ar": "منظم الشحن الشمسي",
+    "en": "Solar charger"
+   }
+  },
+  {
+   "key": "max-pv-array-power",
+   "label": {
+    "ar": "أقصى قدرة ألواح",
+    "en": "Max. PV array power"
+   }
+  },
+  {
+   "key": "mppt-operating-range",
+   "label": {
+    "ar": "نطاق تشغيل ⁦MPPT⁩",
+    "en": "MPPT operating range"
+   }
+  },
+  {
+   "key": "max-solar-charge-current",
+   "label": {
+    "ar": "أقصى تيار شحن شمسي",
+    "en": "Max. solar charge current"
+   }
+  },
+  {
+   "key": "max-ac-charge-current",
+   "label": {
+    "ar": "أقصى تيار شحن ⁦AC⁩",
+    "en": "Max. AC charge current"
+   }
+  },
+  {
+   "key": "ac-input-range",
+   "label": {
+    "ar": "نطاق دخل ⁦AC⁩",
+    "en": "AC input range"
+   }
+  },
+  {
+   "key": "max-efficiency",
+   "label": {
+    "ar": "أقصى كفاءة",
+    "en": "Max. efficiency"
+   }
+  },
+  {
+   "key": "communication",
+   "label": {
+    "ar": "الاتصال",
+    "en": "Communication"
+   }
+  },
+  {
+   "key": "battery-free-parallel",
+   "label": {
+    "ar": "بدون بطارية · توازي",
+    "en": "Battery-free · parallel"
+   }
+  },
+  {
+   "key": "net-weight",
+   "label": {
+    "ar": "الوزن الصافي",
+    "en": "Net weight"
+   }
+  },
+  {
+   "key": "rated-power",
+   "label": {
+    "ar": "القدرة المقننة",
+    "en": "Rated power"
+   }
+  },
+  {
+   "key": "surge-power",
+   "label": {
+    "ar": "قدرة الذروة",
+    "en": "Surge power"
+   }
+  },
+  {
+   "key": "ac-voltage",
+   "label": {
+    "ar": "جهد الخرج",
+    "en": "AC voltage"
+   }
+  },
+  {
+   "key": "waveform-frequency",
+   "label": {
+    "ar": "الموجة · التردد",
+    "en": "Waveform · frequency"
+   }
+  },
+  {
+   "key": "dc-input",
+   "label": {
+    "ar": "دخل البطارية",
+    "en": "DC input"
+   }
+  },
+  {
+   "key": "efficiency-typ",
+   "label": {
+    "ar": "الكفاءة النموذجية",
+    "en": "Efficiency (typ.)"
+   }
+  },
+  {
+   "key": "usb",
+   "label": {
+    "ar": "منافذ ⁦USB⁩",
+    "en": "USB"
+   }
+  },
+  {
+   "key": "charger-charger-models",
+   "label": {
+    "ar": "الشاحن (نسخ الشاحن)",
+    "en": "Charger (charger models)"
+   }
+  },
+  {
+   "key": "charging",
+   "label": {
+    "ar": "مراحل الشحن",
+    "en": "Charging"
+   }
+  },
+  {
+   "key": "bypass-transfer",
+   "label": {
+    "ar": "زمن التحويل",
+    "en": "Bypass transfer"
+   }
+  },
+  {
+   "key": "protection",
+   "label": {
+    "ar": "الحماية",
+    "en": "Protection"
+   }
+  },
+  {
+   "key": "options",
+   "label": {
+    "ar": "خيارات",
+    "en": "Options"
+   }
+  },
+  {
+   "key": "12-24-v-models",
+   "label": {
+    "ar": "طرازات ⁦12/24⁩ فولت",
+    "en": "12/24 V models"
+   }
+  },
+  {
+   "key": "24-v-models",
+   "label": {
+    "ar": "طرازات ⁦24⁩ فولت",
+    "en": "24 V models"
+   }
+  },
+  {
+   "key": "high-voltage-models",
+   "label": {
+    "ar": "الطرازات عالية الجهد",
+    "en": "High-voltage models"
+   }
+  },
+  {
+   "key": "mppt-efficiency",
+   "label": {
+    "ar": "كفاءة ⁦MPPT⁩",
+    "en": "MPPT efficiency"
+   }
+  },
+  {
+   "key": "battery-types",
+   "label": {
+    "ar": "أنواع البطاريات",
+    "en": "Battery types"
+   }
+  },
+  {
+   "key": "temp-compensation",
+   "label": {
+    "ar": "تعويض الحرارة",
+    "en": "Temp. compensation"
+   }
+  },
+  {
+   "key": "ambient-temperature",
+   "label": {
+    "ar": "حرارة التشغيل",
+    "en": "Ambient temperature"
+   }
+  },
+  {
+   "key": "protection-class",
+   "label": {
+    "ar": "درجة الحماية",
+    "en": "Protection class"
+   }
+  },
+  {
+   "key": "max-cable-size",
+   "label": {
+    "ar": "أقصى مقطع كابل",
+    "en": "Max. cable size"
+   }
+  },
+  {
+   "key": "protections",
+   "label": {
+    "ar": "الحمايات",
+    "en": "Protections"
+   }
+  },
+  {
+   "key": "unit-weight",
+   "label": {
+    "ar": "الوزن",
+    "en": "Unit weight"
+   }
+  },
+  {
+   "key": "charge-current",
+   "label": {
+    "ar": "تيار الشحن",
+    "en": "Charge current"
+   }
+  },
+  {
+   "key": "max-pv-input",
+   "label": {
+    "ar": "أقصى قدرة ألواح",
+    "en": "Max. PV input"
+   }
+  },
+  {
+   "key": "conversion-efficiency",
+   "label": {
+    "ar": "كفاءة التحويل",
+    "en": "Conversion efficiency"
+   }
+  },
+  {
+   "key": "standby-consumption",
+   "label": {
+    "ar": "الاستهلاك الذاتي",
+    "en": "Standby consumption"
+   }
+  },
+  {
+   "key": "boost-float-charge",
+   "label": {
+    "ar": "شحن الامتصاص / التعويم",
+    "en": "Boost / float charge"
+   }
+  },
+  {
+   "key": "low-voltage-cut-off",
+   "label": {
+    "ar": "فصل الجهد المنخفض",
+    "en": "Low-voltage cut-off"
+   }
+  },
+  {
+   "key": "usb-output",
+   "label": {
+    "ar": "مخرج ⁦USB⁩",
+    "en": "USB output"
+   }
+  },
+  {
+   "key": "case-protection",
+   "label": {
+    "ar": "حماية الهيكل",
+    "en": "Case protection"
+   }
+  },
+  {
+   "key": "grounding",
+   "label": {
+    "ar": "التأريض",
+    "en": "Grounding"
+   }
+  }
+ ],
+ "keyRows": [
+  "parallel-units",
+  "weight-protection",
+  "warranty"
+ ],
+ "types": [
+  {
+   "id": "hybrid",
+   "label": {
+    "ar": "انفرترات هجينة",
+    "en": "Hybrid inverters"
+   },
+   "key": {
+    "ar": "5–12 ك.و · بطارية 48 فولت",
+    "en": "5–12 kW · 48 V battery"
+   },
+   "intro": {
+    "ar": "تعمل مع الشبكة وبدونها، وتخزّن الطاقة الشمسية، وتقبل الشحن من مولد ديزل.",
+    "en": "Work on and off grid, store solar energy and accept charging from a diesel generator."
+   },
+   "keyRows": [
+    "parallel-units",
+    "weight-protection",
+    "warranty"
+   ],
+   "models": [
+    {
+     "code": "BXS-0118-01-001",
+     "name": {
+      "ar": "⁦5 / 6 / 8⁩ ك.و · بطارية ⁦48⁩ فولت",
+      "en": "5 / 6 / 8 kW · 48 V battery"
+     },
+     "specs": {
+      "use": {
+       "ar": "البيوت والعيادات والمحلات",
+       "en": "Homes, clinics, shops"
+      },
+      "rated-ac-output": {
+       "ar": "⁦5,000 / 6,000 / 8,000⁩ واط",
+       "en": "5,000 / 6,000 / 8,000 W"
+      },
+      "max-ac-output": {
+       "ar": "⁦5,500 / 6,600 / 8,800⁩ واط",
+       "en": "5,500 / 6,600 / 8,800 W"
+      },
+      "peak-power-off-grid": {
+       "ar": "ضعف القدرة المقننة لمدة ⁦10⁩ ث",
+       "en": "2 × rated, 10 s"
+      },
+      "output": {
+       "ar": "⁦220/230⁩ فولت ⁦AC⁩ · ⁦50/60⁩ هرتز",
+       "en": "220/230 V AC · 50/60 Hz"
+      },
+      "battery": {
+       "ar": "رصاص حمضي أو ليثيوم أيون · ⁦40–60⁩ فولت",
+       "en": "Lead-acid or Li-ion · 40–60 V"
+      },
+      "max-charge-discharge": {
+       "ar": "⁦120 / 135 / 190⁩ أمبير",
+       "en": "120 / 135 / 190 A"
+      },
+      "max-pv-input-power": {
+       "ar": "⁦6,500 / 7,800 / 10,400⁩ واط",
+       "en": "6,500 / 7,800 / 10,400 W"
+      },
+      "pv-input-voltage": {
+       "ar": "⁦370⁩ فولت (⁦125–500⁩ فولت)",
+       "en": "370 V (125–500 V)"
+      },
+      "mppt-range-trackers": {
+       "ar": "⁦150–425⁩ فولت · ⁦2⁩",
+       "en": "150–425 V · 2"
+      },
+      "efficiency": {
+       "ar": "أقصى ⁦97.6 %⁩ · الأوروبية ⁦96.5 %⁩",
+       "en": "Max. 97.6 % · Euro 96.5 %"
+      },
+      "parallel-units": {
+       "ar": "حتى ⁦16⁩",
+       "en": "Up to 16"
+      },
+      "battery-comms-monitoring": {
+       "ar": "⁦RS485 / CAN⁩ · ⁦Wi-Fi⁩ + تطبيق",
+       "en": "RS485 / CAN · Wi-Fi + app"
+      },
+      "weight-protection": {
+       "ar": "⁦19 / 24⁩ كغ · ⁦IP65⁩",
+       "en": "19 / 24 kg · IP65"
+      },
+      "warranty": {
+       "ar": "⁦5⁩ سنوات",
+       "en": "5 years"
+      }
+     }
+    },
+    {
+     "code": "BXS-0118-01-009",
+     "name": {
+      "ar": "⁦6–12⁩ ك.و · بطارية ⁦48⁩ فولت",
+      "en": "6–12 kW · 48 V battery"
+     },
+     "specs": {
+      "use": {
+       "ar": "الورش والمزارع والفلل",
+       "en": "Workshops, farms, villas"
+      },
+      "rated-ac-output": {
+       "ar": "⁦6,000 / 8,000 / 10,000 / 12,000⁩ واط",
+       "en": "6,000 / 8,000 / 10,000 / 12,000 W"
+      },
+      "max-ac-output": {
+       "ar": "⁦6,600–13,200⁩ واط",
+       "en": "6,600–13,200 W"
+      },
+      "output": {
+       "ar": "⁦3⁩ لتر/⁦N/PE 220/380⁩ · ⁦230/400⁩ فولت",
+       "en": "3L/N/PE 220/380 · 230/400 V"
+      },
+      "unbalanced-output": {
+       "ar": "⁦100 %⁩ · حتى ⁦50 %⁩ لكل طور",
+       "en": "100 % · up to 50 % per phase"
+      },
+      "peak-power-off-grid": {
+       "ar": "ضعف القدرة المقننة لمدة ⁦10⁩ ث",
+       "en": "2 × rated, 10 s"
+      },
+      "battery": {
+       "ar": "رصاص حمضي أو ليثيوم أيون · ⁦40–60⁩ فولت",
+       "en": "Lead-acid or Li-ion · 40–60 V"
+      },
+      "max-charge-discharge": {
+       "ar": "⁦120 / 160 / 200 / 240⁩ أمبير",
+       "en": "120 / 160 / 200 / 240 A"
+      },
+      "max-pv-input-power": {
+       "ar": "⁦7,800–15,600⁩ واط",
+       "en": "7,800–15,600 W"
+      },
+      "pv-voltage-mppt-range": {
+       "ar": "⁦550⁩ فولت (⁦160–800⁩ فولت) · ⁦200–650⁩ فولت",
+       "en": "550 V (160–800 V) · 200–650 V"
+      },
+      "efficiency": {
+       "ar": "أقصى ⁦97.6 %⁩ · الأوروبية ⁦97.0 %⁩",
+       "en": "Max. 97.6 % · Euro 97.0 %"
+      },
+      "parallel-units": {
+       "ar": "حتى ⁦10⁩",
+       "en": "Up to 10"
+      },
+      "battery-comms-monitoring": {
+       "ar": "⁦RS485 / CAN⁩ · ⁦Wi-Fi⁩ + تطبيق",
+       "en": "RS485 / CAN · Wi-Fi + app"
+      },
+      "weight-protection": {
+       "ar": "⁦34⁩ كغ · ⁦IP65⁩",
+       "en": "34 kg · IP65"
+      },
+      "warranty": {
+       "ar": "⁦5⁩ سنوات (⁦10⁩ اختيارياً)",
+       "en": "5 years (10 optional)"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "offgrid",
+   "label": {
+    "ar": "انفرتر منفصل مع MPPT",
+    "en": "Off-grid inverter with MPPT"
+   },
+   "key": {
+    "ar": "1.8–6.2 ك.و · 12 / 24 / 48 فولت",
+    "en": "1.8–6.2 kW · 12 / 24 / 48 V"
+   },
+   "keyRows": [
+    "battery-voltage",
+    "solar-charger",
+    "max-pv-array-power"
+   ],
+   "models": [
+    {
+     "code": "BXS-0161-01-013",
+     "name": {
+      "ar": "⁦1.8–6.2⁩ ك.و · ⁦12 / 24 / 48⁩ فولت",
+      "en": "1.8–6.2 kW · 12 / 24 / 48 V"
+     },
+     "specs": {
+      "use": {
+       "ar": "البيوت والمزارع خارج الشبكة",
+       "en": "Off-grid homes, farms"
+      },
+      "capacity": {
+       "ar": "⁦2,200⁩ فولت أمبير / ⁦1,800⁩ واط – ⁦7,200⁩ فولت أمبير / ⁦6,200⁩ واط",
+       "en": "2,200 VA / 1,800 W – 7,200 VA / 6,200 W"
+      },
+      "battery-voltage": {
+       "ar": "⁦12 / 24 / 48⁩ فولت ⁦DC⁩",
+       "en": "12 / 24 / 48 V DC"
+      },
+      "solar-charger": {
+       "ar": "⁦MPPT⁩",
+       "en": "MPPT"
+      },
+      "max-pv-array-power": {
+       "ar": "⁦2,000–6,500⁩ واط",
+       "en": "2,000–6,500 W"
+      },
+      "mppt-operating-range": {
+       "ar": "⁦55–450⁩ فولت ⁦DC⁩",
+       "en": "55–450 V DC"
+      },
+      "max-solar-charge-current": {
+       "ar": "⁦80–120⁩ أمبير",
+       "en": "80–120 A"
+      },
+      "max-ac-charge-current": {
+       "ar": "⁦60–80⁩ أمبير",
+       "en": "60–80 A"
+      },
+      "ac-input-range": {
+       "ar": "⁦170–280⁩ فولت ⁦AC / 90–280⁩ فولت ⁦AC⁩",
+       "en": "170–280 V AC / 90–280 V AC"
+      },
+      "max-efficiency": {
+       "ar": "⁦94–98 %⁩ (حسب الموديل)",
+       "en": "94–98 % (by model)"
+      },
+      "communication": {
+       "ar": "⁦RS232 / RS485⁩ · ⁦Wi-Fi⁩ اختياري",
+       "en": "RS232 / RS485 · Wi-Fi optional"
+      },
+      "battery-free-parallel": {
+       "ar": "موديلات مختارة",
+       "en": "Selected models"
+      },
+      "net-weight": {
+       "ar": "⁦4.5–12⁩ كغ",
+       "en": "4.5–12 kg"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "sine",
+   "label": {
+    "ar": "انفرتر موجة جيبية / شاحن",
+    "en": "Pure sine inverter / charger"
+   },
+   "key": {
+    "ar": "400–4,000 واط · 12 / 24 / 48 فولت",
+    "en": "400–4,000 W · 12 / 24 / 48 V"
+   },
+   "keyRows": [
+    "surge-power",
+    "efficiency-typ",
+    "rated-power"
+   ],
+   "models": [
+    {
+     "code": "BXS-0161-01-001",
+     "name": {
+      "ar": "⁦400–4,000⁩ واط · ⁦12 / 24 / 48⁩ فولت",
+      "en": "400–4,000 W · 12 / 24 / 48 V"
+     },
+     "specs": {
+      "use": {
+       "ar": "السيارات والأكشاك والاحتياط",
+       "en": "Vehicles, kiosks, backup"
+      },
+      "rated-power": {
+       "ar": "⁦400 / 600 / 1,000 / 1,500 / 2,000 / 3,000 / 4,000⁩ واط",
+       "en": "400 / 600 / 1,000 / 1,500 / 2,000 / 3,000 / 4,000 W"
+      },
+      "surge-power": {
+       "ar": "⁦800–8,000⁩ واط",
+       "en": "800–8,000 W"
+      },
+      "ac-voltage": {
+       "ar": "⁦110 / 127 / 220 / 230 / 240⁩ فولت",
+       "en": "110 / 127 / 220 / 230 / 240 V"
+      },
+      "waveform-frequency": {
+       "ar": "جيبية نقية (⁦THD⁩ < ⁦3 %⁩) · ⁦50/60⁩ هرتز",
+       "en": "Pure sine (THD < 3 %) · 50/60 Hz"
+      },
+      "dc-input": {
+       "ar": "⁦12⁩ فولت (⁦10.5–15⁩) · ⁦24⁩ فولت (⁦21–30⁩) · ⁦48⁩ فولت (⁦42–60⁩)",
+       "en": "12 V (10.5–15) · 24 V (21–30) · 48 V (42–60)"
+      },
+      "efficiency-typ": {
+       "ar": "⁦> 90 %⁩",
+       "en": "> 90 %"
+      },
+      "usb": {
+       "ar": "⁦5⁩ فولت ⁦2.4⁩ أمبير ⁦Type-A + Type-C⁩؛ وخيار ⁦PD 65⁩ واط",
+       "en": "5 V 2.4 A Type-A + Type-C; PD 65 W option"
+      },
+      "charger-charger-models": {
+       "ar": "⁦12⁩ فولت ⁦20–30⁩ أمبير · ⁦24⁩ فولت ⁦10–15⁩ أمبير",
+       "en": "12 V 20–30 A · 24 V 10–15 A"
+      },
+      "charging": {
+       "ar": "على ⁦3⁩ مراحل لبطاريات ⁦GEL⁩ و⁦AGM⁩ والسائلة · وعلى مرحلتين لليثيوم",
+       "en": "3-stage GEL/AGM/Wet · 2-stage lithium"
+      },
+      "bypass-transfer": {
+       "ar": "⁦15⁩ ملي ثانية كحد أقصى (نسخ الشاحن)",
+       "en": "15 ms max. (charger models)"
+      },
+      "protection": {
+       "ar": "الحمل الزائد والقصر والحرارة الزائدة وانخفاض البطارية",
+       "en": "Overload, short, over-temp., low battery"
+      },
+      "options": {
+       "ar": "تطبيق بلوتوث، شاشة ⁦LCD⁩ عن بُعد، ⁦RCBO/RCD⁩",
+       "en": "Bluetooth app, LCD remote, RCBO/RCD"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "mppt",
+   "label": {
+    "ar": "منظم شحن MPPT",
+    "en": "MPPT charge controller"
+   },
+   "key": {
+    "ar": "10–80 أمبير · 12 / 24 / 48 فولت",
+    "en": "10–80 A · 12 / 24 / 48 V"
+   },
+   "keyRows": [
+    "max-pv-input-power",
+    "12-24-v-models",
+    "mppt-efficiency"
+   ],
+   "models": [
+    {
+     "code": "BXS-0161-01-018",
+     "name": {
+      "ar": "⁦10–80⁩ أمبير · ⁦12 / 24 / 48⁩ فولت",
+      "en": "10–80 A · 12 / 24 / 48 V"
+     },
+     "specs": {
+      "use": {
+       "ar": "الأنظمة المستمرة والاتصالات",
+       "en": "DC systems, telecom, pumps"
+      },
+      "12-24-v-models": {
+       "ar": "⁦10 / 15 / 20 / 30⁩ أمبير",
+       "en": "10 / 15 / 20 / 30 A"
+      },
+      "24-v-models": {
+       "ar": "⁦40 / 50 / 60 / 70 / 80⁩ أمبير",
+       "en": "40 / 50 / 60 / 70 / 80 A"
+      },
+      "high-voltage-models": {
+       "ar": "⁦24⁩ فولت ⁦20–40⁩ أمبير · ⁦48⁩ فولت ⁦30–60⁩ أمبير",
+       "en": "24 V 20–40 A · 48 V 30–60 A"
+      },
+      "max-pv-input-power": {
+       "ar": "⁦260–3,200⁩ واط",
+       "en": "260–3,200 W"
+      },
+      "mppt-efficiency": {
+       "ar": "⁦99 %⁩ أو أعلى",
+       "en": "99 % or higher"
+      },
+      "battery-types": {
+       "ar": "⁦AGM⁩ و⁦GEL⁩ والسائلة و⁦LiFePO4⁩",
+       "en": "AGM, GEL, flooded, LiFePO4"
+      },
+      "temp-compensation": {
+       "ar": "⁦-3⁩ ملي فولت/°م/خلية",
+       "en": "-3 mV/°C/cell"
+      },
+      "ambient-temperature": {
+       "ar": "من ⁦-25⁩ إلى ⁦+55⁩ °م",
+       "en": "-25 to +55 °C"
+      },
+      "protection-class": {
+       "ar": "⁦IP20⁩ (داخلي)",
+       "en": "IP20 (indoor)"
+      },
+      "max-cable-size": {
+       "ar": "⁦16⁩ مم²",
+       "en": "16 mm²"
+      },
+      "protections": {
+       "ar": "الحرارة الزائدة والحمل الزائد والقصر والقطبية العكسية",
+       "en": "Over-heat, overload, short, reverse"
+      },
+      "unit-weight": {
+       "ar": "⁦0.9–3.6⁩ كغ",
+       "en": "0.9–3.6 kg"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "pwm",
+   "label": {
+    "ar": "منظم شحن PWM",
+    "en": "PWM charge controller"
+   },
+   "key": {
+    "ar": "10–60 أمبير · 12 / 24 فولت",
+    "en": "10–60 A · 12 / 24 V"
+   },
+   "keyRows": [
+    "ambient-temperature",
+    "conversion-efficiency",
+    "usb-output"
+   ],
+   "models": [
+    {
+     "code": "BXS-0161-01-015",
+     "name": {
+      "ar": "⁦10–60⁩ أمبير · ⁦12 / 24⁩ فولت تلقائي",
+      "en": "10–60 A · 12 / 24 V auto"
+     },
+     "specs": {
+      "use": {
+       "ar": "الأنظمة المنزلية الصغيرة",
+       "en": "Small home systems, lights"
+      },
+      "charge-current": {
+       "ar": "⁦10 / 15 / 20 / 30 / 40 / 50 / 60⁩ أمبير",
+       "en": "10 / 15 / 20 / 30 / 40 / 50 / 60 A"
+      },
+      "max-pv-input": {
+       "ar": "⁦150–900⁩ واط @ ⁦12⁩ فولت · ⁦300–1,800⁩ واط @ ⁦24⁩ فولت",
+       "en": "150–900 W @ 12 V · 300–1,800 W @ 24 V"
+      },
+      "pv-input-voltage": {
+       "ar": "⁦15–40⁩ فولت (⁦12⁩ فولت) · ⁦30–55⁩ فولت (⁦24⁩ فولت)",
+       "en": "15–40 V (12 V) · 30–55 V (24 V)"
+      },
+      "conversion-efficiency": {
+       "ar": "أقصى ⁦90 %⁩",
+       "en": "Max. 90 %"
+      },
+      "standby-consumption": {
+       "ar": "< ⁦20⁩ ملي أمبير (⁦12⁩ فولت) / < ⁦30⁩ ملي أمبير (⁦24⁩ فولت)",
+       "en": "< 20 mA (12 V) / < 30 mA (24 V)"
+      },
+      "boost-float-charge": {
+       "ar": "⁦14.4 / 13.8⁩ فولت (⁦12⁩ فولت)",
+       "en": "14.4 / 13.8 V (12 V)"
+      },
+      "low-voltage-cut-off": {
+       "ar": "⁦11⁩ فولت، قابل للضبط ⁦10.4–11.4⁩ فولت",
+       "en": "11 V, settable 10.4–11.4 V"
+      },
+      "usb-output": {
+       "ar": "⁦5⁩ فولت ⁦2.1⁩ أمبير",
+       "en": "5 V 2.1 A"
+      },
+      "battery-types": {
+       "ar": "⁦GEL⁩ و⁦AGM⁩ والرصاص الحمضي",
+       "en": "GEL, AGM, lead-acid"
+      },
+      "ambient-temperature": {
+       "ar": "من ⁦-40⁩ إلى ⁦+50⁩ °م",
+       "en": "-40 to +50 °C"
+      },
+      "case-protection": {
+       "ar": "⁦IP22⁩",
+       "en": "IP22"
+      },
+      "grounding": {
+       "ar": "تأريض موجب",
+       "en": "Positive grounding"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

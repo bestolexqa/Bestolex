@@ -2,5 +2,13 @@
 export const FAMILY_IDS = new Set([
   'high-speed-doors',
   'industrial-sectional-doors',
-  'industrial-shutters'
+  'industrial-shutters',
+  'solar-panels',
+  'solar-lighting',
+  'solar-inverters-controllers',
+  'solar-batteries-storage',
+  'solar-home-systems-portable',
+  'solar-mounting-cables-protection',
+  'solar-commercial-industrial',
+  'solar-appliances'
 ])

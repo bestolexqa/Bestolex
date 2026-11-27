@@ -742,9 +742,12 @@ const pageUrl = computed(() => {
 
 const faqItems = computed(() => product.value?.faq?.[locale.value] || [])
 
+// منتجات القسم كلها، ومنها منتجات أقسامه الفرعية (حلول الطاقة ← الطاقة الشمسية)
+const catProducts = (c) => [...(c.products || []), ...((c.subcategories || []).flatMap(sub => sub.products || []))]
+
 // اسم القسم الذي ينتمي إليه المنتج، من بيانات المنتجات لا من نص ثابت
 const categoryName = computed(() => {
-  const cat = mockProducts.find(c => (c.products || []).some(pr => pr.id === product.value?.id))
+  const cat = mockProducts.find(c => catProducts(c).some(pr => pr.id === product.value?.id))
   return cat?.title?.[locale.value] || ''
 })
 
@@ -780,9 +783,9 @@ const relatedArticles = computed(() => {
 
 // منتجات أخرى من القسم نفسه
 const relatedProducts = computed(() => {
-  const cat = mockProducts.find(c => (c.products || []).some(pr => pr.id === route.params.id))
+  const cat = mockProducts.find(c => catProducts(c).some(pr => pr.id === route.params.id))
   if (!cat) return []
-  return (cat.products || []).filter(pr => pr.id !== route.params.id).slice(0, 4)
+  return catProducts(cat).filter(pr => pr.id !== route.params.id).slice(0, 4)
 })
 
 // فهرس القطع: القطعة المعروضة على المنصة
@@ -830,7 +833,7 @@ const trackWhatsapp = () => {
 }
 
 const categoryInfo = computed(() => {
-  const cat = mockProducts.find(c => (c.products || []).some(p => p.id === route.params.id))
+  const cat = mockProducts.find(c => catProducts(c).some(p => p.id === route.params.id))
   return cat ? { id: cat.id, title: cat.title?.[locale.value] || cat.title?.ar } : null
 })
 

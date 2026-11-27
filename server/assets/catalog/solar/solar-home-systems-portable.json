@@ -1,0 +1,704 @@
+{
+ "id": "solar-home-systems-portable",
+ "updated": "2026-11-27",
+ "title": {
+  "ar": "المنتجات والمواصفات",
+  "en": "Products and specifications"
+ },
+ "source": {
+  "ar": "المصدر: كتالوج بيستوليكس BXSC-05، إصدار 27 نوفمبر 2026 · * حسب بيانات المصنّع · قد تتغير المواصفات دون إشعار",
+  "en": "Source: Bestolex catalogue BXSC-05, edition 27 November 2026 · * manufacturer-stated · specifications may change without notice"
+ },
+ "typeLabel": {
+  "ar": "نوع المنتج",
+  "en": "Product type"
+ },
+ "missing": {
+  "ar": "—",
+  "en": "—"
+ },
+ "rows": [
+  {
+   "key": "use",
+   "label": {
+    "ar": "الأنسب لـ",
+    "en": "Best for"
+   }
+  },
+  {
+   "key": "nominal-energy",
+   "label": {
+    "ar": "الطاقة الاسمية",
+    "en": "Nominal energy"
+   }
+  },
+  {
+   "key": "rated-output",
+   "label": {
+    "ar": "القدرة المقننة",
+    "en": "Rated output"
+   }
+  },
+  {
+   "key": "output",
+   "label": {
+    "ar": "الخرج",
+    "en": "Output"
+   }
+  },
+  {
+   "key": "overload",
+   "label": {
+    "ar": "تحمّل الحمل الزائد",
+    "en": "Overload"
+   }
+  },
+  {
+   "key": "ac-input",
+   "label": {
+    "ar": "دخل ⁦AC⁩",
+    "en": "AC input"
+   }
+  },
+  {
+   "key": "pv-input",
+   "label": {
+    "ar": "دخل الألواح",
+    "en": "PV input"
+   }
+  },
+  {
+   "key": "mppt-range-max-voc",
+   "label": {
+    "ar": "نطاق ⁦MPPT⁩ · أقصى جهد",
+    "en": "MPPT range · max. Voc"
+   }
+  },
+  {
+   "key": "max-charge-current",
+   "label": {
+    "ar": "أقصى تيار شحن",
+    "en": "Max. charge current"
+   }
+  },
+  {
+   "key": "cycle-life",
+   "label": {
+    "ar": "عمر الدورات",
+    "en": "Cycle life"
+   }
+  },
+  {
+   "key": "temperature",
+   "label": {
+    "ar": "الحرارة",
+    "en": "Temperature"
+   }
+  },
+  {
+   "key": "communication",
+   "label": {
+    "ar": "الاتصال",
+    "en": "Communication"
+   }
+  },
+  {
+   "key": "enclosure-size",
+   "label": {
+    "ar": "الهيكل · المقاس",
+    "en": "Enclosure · size"
+   }
+  },
+  {
+   "key": "net-weight",
+   "label": {
+    "ar": "الوزن الصافي",
+    "en": "Net weight"
+   }
+  },
+  {
+   "key": "inverter",
+   "label": {
+    "ar": "الانفرتر",
+    "en": "Inverter"
+   }
+  },
+  {
+   "key": "battery-pack",
+   "label": {
+    "ar": "حزمة البطارية",
+    "en": "Battery pack"
+   }
+  },
+  {
+   "key": "stacking",
+   "label": {
+    "ar": "التكديس",
+    "en": "Stacking"
+   }
+  },
+  {
+   "key": "storage-range",
+   "label": {
+    "ar": "نطاق التخزين",
+    "en": "Storage range"
+   }
+  },
+  {
+   "key": "configuration",
+   "label": {
+    "ar": "التكوين",
+    "en": "Configuration"
+   }
+  },
+  {
+   "key": "base",
+   "label": {
+    "ar": "القاعدة",
+    "en": "Base"
+   }
+  },
+  {
+   "key": "dimensions",
+   "label": {
+    "ar": "الأبعاد",
+    "en": "Dimensions"
+   }
+  },
+  {
+   "key": "battery",
+   "label": {
+    "ar": "البطارية",
+    "en": "Battery"
+   }
+  },
+  {
+   "key": "ac-output",
+   "label": {
+    "ar": "خرج ⁦AC⁩",
+    "en": "AC output"
+   }
+  },
+  {
+   "key": "solar-dc-input",
+   "label": {
+    "ar": "دخل الألواح / ⁦DC⁩",
+    "en": "Solar / DC input"
+   }
+  },
+  {
+   "key": "usb-c",
+   "label": {
+    "ar": "USB-C",
+    "en": "USB-C"
+   }
+  },
+  {
+   "key": "usb-a",
+   "label": {
+    "ar": "USB-A",
+    "en": "USB-A"
+   }
+  },
+  {
+   "key": "12-v-outputs",
+   "label": {
+    "ar": "مخارج ⁦12⁩ فولت",
+    "en": "12 V outputs"
+   }
+  },
+  {
+   "key": "weight",
+   "label": {
+    "ar": "الوزن",
+    "en": "Weight"
+   }
+  },
+  {
+   "key": "usb-c-usb-a",
+   "label": {
+    "ar": "منافذ ⁦USB⁩",
+    "en": "USB-C · USB-A"
+   }
+  },
+  {
+   "key": "extras",
+   "label": {
+    "ar": "إضافات",
+    "en": "Extras"
+   }
+  },
+  {
+   "key": "ac-output-36-a",
+   "label": {
+    "ar": "خرج ⁦36⁩ أمبير",
+    "en": "AC output 36 A"
+   }
+  },
+  {
+   "key": "ac-output-16-a",
+   "label": {
+    "ar": "خرج ⁦16⁩ أمبير",
+    "en": "AC output 16 A"
+   }
+  },
+  {
+   "key": "usb",
+   "label": {
+    "ar": "منافذ ⁦USB⁩",
+    "en": "USB"
+   }
+  },
+  {
+   "key": "12-v-output",
+   "label": {
+    "ar": "مخرج ⁦12⁩ فولت",
+    "en": "12 V output"
+   }
+  },
+  {
+   "key": "cells",
+   "label": {
+    "ar": "الخلايا",
+    "en": "Cells"
+   }
+  },
+  {
+   "key": "open-circuit-voltage",
+   "label": {
+    "ar": "جهد الدائرة المفتوحة",
+    "en": "Open-circuit voltage"
+   }
+  },
+  {
+   "key": "max-power-voltage",
+   "label": {
+    "ar": "جهد القدرة القصوى",
+    "en": "Max. power voltage"
+   }
+  },
+  {
+   "key": "max-power-current",
+   "label": {
+    "ar": "تيار القدرة القصوى",
+    "en": "Max. power current"
+   }
+  },
+  {
+   "key": "sealing",
+   "label": {
+    "ar": "العزل",
+    "en": "Sealing"
+   }
+  },
+  {
+   "key": "folded-size",
+   "label": {
+    "ar": "المقاس مطوياً",
+    "en": "Folded size"
+   }
+  },
+  {
+   "key": "unfolded-size",
+   "label": {
+    "ar": "المقاس مفتوحاً",
+    "en": "Unfolded size"
+   }
+  }
+ ],
+ "keyRows": [
+  "mppt-range-max-voc",
+  "net-weight",
+  "nominal-energy"
+ ],
+ "types": [
+  {
+   "id": "aio",
+   "label": {
+    "ar": "نظام هجين متكامل",
+    "en": "All-in-one hybrid system"
+   },
+   "key": {
+    "ar": "12 ك.و · 16.08 ك.و.س",
+    "en": "12 kW · 16.08 kWh"
+   },
+   "keyRows": [
+    "mppt-range-max-voc",
+    "net-weight",
+    "nominal-energy"
+   ],
+   "models": [
+    {
+     "code": "BXS-0139-01-026",
+     "name": {
+      "ar": "⁦12⁩ ك.و · ⁦16.08⁩ ك.و.س ⁦LiFePO4⁩",
+      "en": "12 kW · 16.08 kWh LiFePO4"
+     },
+     "specs": {
+      "use": {
+       "ar": "الفلل والعيادات والمزارع",
+       "en": "Villas, clinics, farms"
+      },
+      "nominal-energy": {
+       "ar": "⁦16,076.8⁩ واط ساعة (⁦51.2⁩ فولت × ⁦314⁩ أمبير ساعة)",
+       "en": "16,076.8 Wh (51.2 V × 314 Ah)"
+      },
+      "rated-output": {
+       "ar": "⁦12,000⁩ واط (⁦AC + PV⁩) · ⁦10⁩ ك.و من البطارية وحدها",
+       "en": "12,000 W (AC + PV) · 10 kW battery-only"
+      },
+      "output": {
+       "ar": "⁦L + N + PE⁩ · موجة جيبية نقية · ⁦50/60⁩ هرتز",
+       "en": "L + N + PE · pure sine · 50/60 Hz"
+      },
+      "overload": {
+       "ar": "⁦102–125 % 1⁩ دقيقة · ⁦125–200 % 10⁩ ث",
+       "en": "102–125 % 1 min · 125–200 % 10 s"
+      },
+      "ac-input": {
+       "ar": "⁦230⁩ فولت (⁦220/230/240⁩) · ⁦160⁩ أمبير كحد أقصى",
+       "en": "230 V (220/230/240) · 160 A max."
+      },
+      "pv-input": {
+       "ar": "⁦2 × 9,000⁩ واط ⁦MPPT⁩ · ⁦15⁩ ك.و مجتمعة",
+       "en": "2 × 9,000 W MPPT · 15 kW combined"
+      },
+      "mppt-range-max-voc": {
+       "ar": "⁦90–450⁩ فولت · ⁦500⁩ فولت",
+       "en": "90–450 V · 500 V"
+      },
+      "max-charge-current": {
+       "ar": "⁦160⁩ أمبير (⁦AC + PV⁩) · ⁦10–120⁩ أمبير قابل للضبط",
+       "en": "160 A (AC + PV) · 10–120 A settable"
+      },
+      "cycle-life": {
+       "ar": "⁦3,000+⁩ @ ⁦80 % DoD, 25⁩ °م",
+       "en": "3,000+ @ 80 % DoD, 25 °C"
+      },
+      "temperature": {
+       "ar": "الشحن ⁦0–45⁩ °م · التفريغ من ⁦-20⁩ إلى ⁦+50⁩ °م",
+       "en": "Charge 0–45 °C · discharge -20 to +50 °C"
+      },
+      "communication": {
+       "ar": "⁦Wi-Fi⁩ + تطبيق بلوتوث · ⁦RS485 / CAN⁩",
+       "en": "Wi-Fi + Bluetooth app · RS485 / CAN"
+      },
+      "enclosure-size": {
+       "ar": "⁦IP20⁩ داخلي · ⁦680 × 270 × 965⁩ مم",
+       "en": "IP20 indoor · 680 × 270 × 965 mm"
+      },
+      "net-weight": {
+       "ar": "⁦146⁩ كغ",
+       "en": "146 kg"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "stack",
+   "label": {
+    "ar": "نظام قابل للتكديس",
+    "en": "Stackable all-in-one"
+   },
+   "key": {
+    "ar": "6 ك.و · 5.12–25.6 ك.و.س",
+    "en": "6 kW · 5.12–25.6 kWh"
+   },
+   "keyRows": [
+    "inverter",
+    "stacking",
+    "storage-range"
+   ],
+   "models": [
+    {
+     "code": "BXS-0139-01-025",
+     "name": {
+      "ar": "⁦6⁩ ك.و · ⁦5.12–25.6⁩ ك.و.س",
+      "en": "6 kW · 5.12–25.6 kWh"
+     },
+     "specs": {
+      "use": {
+       "ar": "البيوت والمحلات والمكاتب",
+       "en": "Homes, shops, offices"
+      },
+      "inverter": {
+       "ar": "⁦6⁩ ك.و",
+       "en": "6 kW"
+      },
+      "battery-pack": {
+       "ar": "⁦51.2⁩ فولت / ⁦100⁩ أمبير ساعة · ⁦5,120⁩ واط ساعة",
+       "en": "51.2 V / 100 Ah · 5,120 Wh"
+      },
+      "stacking": {
+       "ar": "حتى ⁦5⁩ حزم لكل برج",
+       "en": "Up to 5 packs per tower"
+      },
+      "storage-range": {
+       "ar": "⁦5.12–25.6⁩ ك.و.س",
+       "en": "5.12–25.6 kWh"
+      },
+      "configuration": {
+       "ar": "انفرتر + بطارية + قاعدة",
+       "en": "Inverter + battery + base"
+      },
+      "base": {
+       "ar": "قاعدة واحدة لكل جهاز",
+       "en": "One base per device"
+      },
+      "dimensions": {
+       "ar": "⁦500 × 230 × 780⁩ مم",
+       "en": "500 × 230 × 780 mm"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "portable",
+   "label": {
+    "ar": "محطات طاقة محمولة",
+    "en": "Portable power stations"
+   },
+   "key": {
+    "ar": "1,024–3,072 واط ساعة",
+    "en": "1,024–3,072 Wh"
+   },
+   "keyRows": [
+    "dimensions",
+    "weight",
+    "ac-input"
+   ],
+   "models": [
+    {
+     "code": "BXS-0139-01-004",
+     "name": {
+      "ar": "⁦1,024⁩ واط ساعة · ⁦1,200⁩ واط",
+      "en": "1,024 Wh · 1,200 W"
+     },
+     "specs": {
+      "use": {
+       "ar": "البيوت والتخييم والفرق الميدانية",
+       "en": "Homes, camping, field teams"
+      },
+      "battery": {
+       "ar": "⁦1,024⁩ واط ساعة ⁦LiFePO4⁩ (⁦25.6⁩ فولت / ⁦40⁩ أمبير ساعة)",
+       "en": "1,024 Wh LiFePO4 (25.6 V / 40 Ah)"
+      },
+      "ac-output": {
+       "ar": "مقننة ⁦1,200⁩ واط · ذروة ⁦2,400⁩ واط",
+       "en": "Rated 1,200 W · peak 2,400 W"
+      },
+      "ac-input": {
+       "ar": "⁦180–264⁩ فولت / ⁦50⁩ هرتز أو ⁦85–135⁩ فولت / ⁦60⁩ هرتز · ⁦1,000⁩ واط",
+       "en": "180–264 V / 50 Hz or 85–135 V / 60 Hz · 1,000 W"
+      },
+      "solar-dc-input": {
+       "ar": "⁦12–60⁩ فولت · حتى ⁦400⁩ واط",
+       "en": "12–60 V · up to 400 W"
+      },
+      "usb-c": {
+       "ar": "⁦2 × PD 100⁩ واط",
+       "en": "2 × PD 100 W"
+      },
+      "usb-a": {
+       "ar": "⁦4 × QC3.0 18⁩ واط",
+       "en": "4 × QC3.0 18 W"
+      },
+      "12-v-outputs": {
+       "ar": "مقبس سيارة + ⁦2 × DC⁩، ⁦13.6⁩ فولت / ⁦8⁩ أمبير",
+       "en": "Car socket + 2 × DC, 13.6 V / 8 A"
+      },
+      "dimensions": {
+       "ar": "⁦350 × 220 × 275⁩ مم",
+       "en": "350 × 220 × 275 mm"
+      },
+      "weight": {
+       "ar": "⁦13.8⁩ كغ",
+       "en": "13.8 kg"
+      }
+     }
+    },
+    {
+     "code": "BXS-0139-01-014",
+     "name": {
+      "ar": "⁦3,072⁩ واط ساعة · ⁦4,000⁩ واط",
+      "en": "3,072 Wh · 4,000 W"
+     },
+     "specs": {
+      "use": {
+       "ar": "المواقع والفعاليات والاحتياط",
+       "en": "Sites, events, backup"
+      },
+      "battery": {
+       "ar": "⁦3,072⁩ واط ساعة ⁦LiFePO4⁩ (⁦51.2⁩ فولت / ⁦60⁩ أمبير ساعة)",
+       "en": "3,072 Wh LiFePO4 (51.2 V / 60 Ah)"
+      },
+      "ac-output": {
+       "ar": "مقننة ⁦4,000⁩ واط · ذروة ⁦8,000⁩ واط",
+       "en": "Rated 4,000 W · peak 8,000 W"
+      },
+      "ac-input": {
+       "ar": "⁦180–264⁩ فولت / ⁦50⁩ هرتز · ⁦2,000⁩ واط كحد أقصى",
+       "en": "180–264 V / 50 Hz · 2,000 W max."
+      },
+      "solar-dc-input": {
+       "ar": "⁦12–150⁩ فولت · حتى ⁦1,600⁩ واط",
+       "en": "12–150 V · up to 1,600 W"
+      },
+      "usb-c-usb-a": {
+       "ar": "⁦2 × PD 100⁩ واط · ⁦2 × QC3.0 22.5⁩ واط",
+       "en": "2 × PD 100 W · 2 × QC3.0 22.5 W"
+      },
+      "12-v-outputs": {
+       "ar": "مقبس سيارة + ⁦XT60⁩، ⁦12⁩ فولت / ⁦10⁩ أمبير",
+       "en": "Car socket + XT60, 12 V / 10 A"
+      },
+      "extras": {
+       "ar": "إضاءة ⁦LED 10⁩ واط · خيار شحن لاسلكي",
+       "en": "10 W LED light · wireless charging option"
+      },
+      "dimensions": {
+       "ar": "⁦672 × 472 × 525⁩ مم",
+       "en": "672 × 472 × 525 mm"
+      },
+      "weight": {
+       "ar": "⁦34.5⁩ كغ",
+       "en": "34.5 kg"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "wheeled",
+   "label": {
+    "ar": "محطة بعجلات",
+    "en": "Wheeled power station"
+   },
+   "key": {
+    "ar": "5,017 واط ساعة · 6,000 واط",
+    "en": "5,017 Wh · 6,000 W"
+   },
+   "keyRows": [
+    "dimensions",
+    "weight",
+    "ac-input"
+   ],
+   "models": [
+    {
+     "code": "BXS-0139-01-019",
+     "name": {
+      "ar": "⁦5,017⁩ واط ساعة · ⁦6,000⁩ واط",
+      "en": "5,017 Wh · 6,000 W"
+     },
+     "specs": {
+      "use": {
+       "ar": "الورش وبديل المولد",
+       "en": "Workshops, generator swap"
+      },
+      "battery": {
+       "ar": "⁦5,017⁩ واط ساعة ⁦LiFePO4⁩ (⁦51.2⁩ فولت / ⁦98⁩ أمبير ساعة)",
+       "en": "5,017 Wh LiFePO4 (51.2 V / 98 Ah)"
+      },
+      "ac-output-36-a": {
+       "ar": "مقبس واحد · مقننة ⁦6,000⁩ واط · ذروة ⁦12,000⁩ واط",
+       "en": "1 outlet · rated 6,000 W · peak 12,000 W"
+      },
+      "ac-output-16-a": {
+       "ar": "مقبسان · مقننة ⁦3,680⁩ واط · ذروة ⁦7,360⁩ واط",
+       "en": "2 outlets · rated 3,680 W · peak 7,360 W"
+      },
+      "ac-input": {
+       "ar": "⁦180–264⁩ فولت / ⁦50⁩ هرتز · ⁦2,500⁩ واط كحد أقصى",
+       "en": "180–264 V / 50 Hz · 2,500 W max."
+      },
+      "solar-dc-input": {
+       "ar": "⁦12–60⁩ فولت · حتى ⁦1,200⁩ واط",
+       "en": "12–60 V · up to 1,200 W"
+      },
+      "usb": {
+       "ar": "⁦1 × USB-C PD 100⁩ واط · ⁦1 × USB-A 18⁩ واط",
+       "en": "1 × USB-C PD 100 W · 1 × USB-A 18 W"
+      },
+      "12-v-output": {
+       "ar": "مقبس سيارة ⁦12⁩ فولت / ⁦10⁩ أمبير",
+       "en": "Car socket 12 V / 10 A"
+      },
+      "dimensions": {
+       "ar": "⁦622 × 422 × 520⁩ مم",
+       "en": "622 × 422 × 520 mm"
+      },
+      "weight": {
+       "ar": "⁦65⁩ كغ",
+       "en": "65 kg"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "folding",
+   "label": {
+    "ar": "لوح قابل للطي",
+    "en": "Folding solar panel"
+   },
+   "key": {
+    "ar": "200 واط · أربع طيات",
+    "en": "200 W · four folds"
+   },
+   "keyRows": [
+    "cells",
+    "open-circuit-voltage",
+    "max-power-voltage"
+   ],
+   "models": [
+    {
+     "code": "BXS-0139-01-029",
+     "name": {
+      "ar": "⁦200⁩ واط · ⁦18⁩ فولت · أربع طيات",
+      "en": "200 W · 18 V · 4-fold"
+     },
+     "specs": {
+      "use": {
+       "ar": "شحن المحطات في الخارج",
+       "en": "Charging stations outdoors"
+      },
+      "cells": {
+       "ar": "سيليكون أحادي البلورة",
+       "en": "Monocrystalline silicon"
+      },
+      "output": {
+       "ar": "⁦18⁩ فولت / ⁦11.1⁩ أمبير · ⁦200⁩ واط مقننة",
+       "en": "18 V / 11.1 A · 200 W rated"
+      },
+      "open-circuit-voltage": {
+       "ar": "⁦21.6⁩ فولت ± ⁦5 %⁩",
+       "en": "21.6 V ± 5 %"
+      },
+      "max-power-voltage": {
+       "ar": "⁦18⁩ فولت ± ⁦5 %⁩",
+       "en": "18 V ± 5 %"
+      },
+      "max-power-current": {
+       "ar": "⁦11.1⁩ أمبير ± ⁦5 %⁩",
+       "en": "11.1 A ± 5 %"
+      },
+      "sealing": {
+       "ar": "تصفيح متكامل",
+       "en": "Integral lamination"
+      },
+      "folded-size": {
+       "ar": "⁦591 × 585⁩ مم",
+       "en": "591 × 585 mm"
+      },
+      "unfolded-size": {
+       "ar": "⁦2,180 × 591⁩ مم",
+       "en": "2,180 × 591 mm"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

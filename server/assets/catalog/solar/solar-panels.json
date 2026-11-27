@@ -1,0 +1,871 @@
+{
+ "id": "solar-panels",
+ "updated": "2026-11-27",
+ "title": {
+  "ar": "المنتجات والمواصفات",
+  "en": "Products and specifications"
+ },
+ "source": {
+  "ar": "المصدر: كتالوج بيستوليكس BXSC-01، إصدار 27 نوفمبر 2026 · * حسب بيانات المصنّع · قد تتغير المواصفات دون إشعار",
+  "en": "Source: Bestolex catalogue BXSC-01, edition 27 November 2026 · * manufacturer-stated · specifications may change without notice"
+ },
+ "typeLabel": {
+  "ar": "نوع المنتج",
+  "en": "Product type"
+ },
+ "missing": {
+  "ar": "—",
+  "en": "—"
+ },
+ "rows": [
+  {
+   "key": "use",
+   "label": {
+    "ar": "الأنسب لـ",
+    "en": "Best for"
+   }
+  },
+  {
+   "key": "power-range",
+   "label": {
+    "ar": "نطاق القدرة",
+    "en": "Power range"
+   }
+  },
+  {
+   "key": "module-efficiency",
+   "label": {
+    "ar": "كفاءة اللوح",
+    "en": "Module efficiency"
+   }
+  },
+  {
+   "key": "cells",
+   "label": {
+    "ar": "الخلايا",
+    "en": "Cells"
+   }
+  },
+  {
+   "key": "dimensions",
+   "label": {
+    "ar": "الأبعاد",
+    "en": "Dimensions"
+   }
+  },
+  {
+   "key": "weight",
+   "label": {
+    "ar": "الوزن",
+    "en": "Weight"
+   }
+  },
+  {
+   "key": "front-glass",
+   "label": {
+    "ar": "الزجاج الأمامي",
+    "en": "Front glass"
+   }
+  },
+  {
+   "key": "junction-box",
+   "label": {
+    "ar": "صندوق التوصيل",
+    "en": "Junction box"
+   }
+  },
+  {
+   "key": "max-system-voltage",
+   "label": {
+    "ar": "أقصى جهد للنظام",
+    "en": "Max. system voltage"
+   }
+  },
+  {
+   "key": "mechanical-load",
+   "label": {
+    "ar": "الحمل الميكانيكي",
+    "en": "Mechanical load"
+   }
+  },
+  {
+   "key": "pmax-temp-coefficient",
+   "label": {
+    "ar": "معامل الحرارة للقدرة",
+    "en": "Pmax temp. coefficient"
+   }
+  },
+  {
+   "key": "operating-temperature",
+   "label": {
+    "ar": "حرارة التشغيل",
+    "en": "Operating temperature"
+   }
+  },
+  {
+   "key": "packing",
+   "label": {
+    "ar": "التعبئة",
+    "en": "Packing"
+   }
+  },
+  {
+   "key": "certifications",
+   "label": {
+    "ar": "الشهادات*",
+    "en": "Certifications*"
+   }
+  },
+  {
+   "key": "glass",
+   "label": {
+    "ar": "الزجاج",
+    "en": "Glass"
+   }
+  },
+  {
+   "key": "connector",
+   "label": {
+    "ar": "الموصل",
+    "en": "Connector"
+   }
+  },
+  {
+   "key": "snow-wind-load",
+   "label": {
+    "ar": "حمل الثلج / الرياح",
+    "en": "Snow / wind load"
+   }
+  },
+  {
+   "key": "max-series-fuse",
+   "label": {
+    "ar": "أقصى فيوز تسلسلي",
+    "en": "Max. series fuse"
+   }
+  },
+  {
+   "key": "front-back-glass",
+   "label": {
+    "ar": "الزجاج الأمامي / الخلفي",
+    "en": "Front / back glass"
+   }
+  },
+  {
+   "key": "junction-box-connector",
+   "label": {
+    "ar": "صندوق التوصيل / الموصل",
+    "en": "Junction box / connector"
+   }
+  },
+  {
+   "key": "static-load",
+   "label": {
+    "ar": "الحمل الثابت",
+    "en": "Static load"
+   }
+  },
+  {
+   "key": "warranty",
+   "label": {
+    "ar": "الضمان*",
+    "en": "Warranty*"
+   }
+  },
+  {
+   "key": "bifacial-output-10-rear",
+   "label": {
+    "ar": "القدرة مع الكسب الخلفي (⁦10 %⁩)",
+    "en": "Bifacial output (10 % rear)"
+   }
+  },
+  {
+   "key": "rated-power",
+   "label": {
+    "ar": "القدرة المقننة",
+    "en": "Rated power"
+   }
+  },
+  {
+   "key": "max-power-voltage",
+   "label": {
+    "ar": "جهد القدرة القصوى",
+    "en": "Max. power voltage"
+   }
+  },
+  {
+   "key": "max-power-current",
+   "label": {
+    "ar": "تيار القدرة القصوى",
+    "en": "Max. power current"
+   }
+  },
+  {
+   "key": "open-circuit-voltage",
+   "label": {
+    "ar": "جهد الدائرة المفتوحة",
+    "en": "Open-circuit voltage"
+   }
+  },
+  {
+   "key": "short-circuit-current",
+   "label": {
+    "ar": "تيار القصر",
+    "en": "Short-circuit current"
+   }
+  },
+  {
+   "key": "bending",
+   "label": {
+    "ar": "الانحناء",
+    "en": "Bending"
+   }
+  },
+  {
+   "key": "system-voltage",
+   "label": {
+    "ar": "جهد النظام",
+    "en": "System voltage"
+   }
+  },
+  {
+   "key": "size",
+   "label": {
+    "ar": "المقاس",
+    "en": "Size"
+   }
+  },
+  {
+   "key": "voltage",
+   "label": {
+    "ar": "الجهد",
+    "en": "Voltage"
+   }
+  },
+  {
+   "key": "applications",
+   "label": {
+    "ar": "التطبيقات",
+    "en": "Applications"
+   }
+  }
+ ],
+ "keyRows": [
+  "module-efficiency",
+  "dimensions",
+  "max-system-voltage"
+ ],
+ "types": [
+  {
+   "id": "perc",
+   "label": {
+    "ar": "ألواح PERC أحادية",
+    "en": "Mono PERC panels"
+   },
+   "key": {
+    "ar": "400–550 واط · الأقل تكلفة للواط",
+    "en": "400–550 W · lowest cost per watt"
+   },
+   "intro": {
+    "ar": "تقنية مجربة بأقل تكلفة للواط في الأنظمة السكنية والتجارية اليومية.",
+    "en": "Proven technology with the lowest cost per watt for everyday residential and commercial systems."
+   },
+   "keyRows": [
+    "module-efficiency",
+    "dimensions",
+    "max-system-voltage"
+   ],
+   "models": [
+    {
+     "code": "BXS-0114-02-003",
+     "name": {
+      "ar": "⁦400–420⁩ واط · ⁦108⁩ خلايا",
+      "en": "400–420 W · 108 Cells"
+     },
+     "specs": {
+      "use": {
+       "ar": "البيوت والمحلات",
+       "en": "Homes, shops"
+      },
+      "power-range": {
+       "ar": "⁦400–420⁩ واط (تفاوت ⁦0⁩ إلى ⁦+3⁩ واط)",
+       "en": "400–420 W (0 to +3 W)"
+      },
+      "module-efficiency": {
+       "ar": "⁦20.46–21.48 %⁩",
+       "en": "20.46–21.48 %"
+      },
+      "cells": {
+       "ar": "⁦108⁩ خلايا (⁦6×18⁩)، أحادية ⁦182⁩ مم",
+       "en": "108 (6×18), mono 182 mm"
+      },
+      "dimensions": {
+       "ar": "⁦1724×1134×30⁩ مم",
+       "en": "1724×1134×30 mm"
+      },
+      "weight": {
+       "ar": "⁦21.5⁩ كغ",
+       "en": "21.5 kg"
+      },
+      "front-glass": {
+       "ar": "مقسّى ⁦3.2⁩ مم بطلاء مضاد للانعكاس",
+       "en": "3.2 mm AR-coated tempered"
+      },
+      "junction-box": {
+       "ar": "⁦IP68⁩",
+       "en": "IP68"
+      },
+      "max-system-voltage": {
+       "ar": "⁦1500⁩ فولت ⁦DC⁩",
+       "en": "1500 V DC"
+      },
+      "mechanical-load": {
+       "ar": "⁦5400⁩ باسكال أمامي / ⁦2400⁩ باسكال خلفي",
+       "en": "5400 Pa front / 2400 Pa rear"
+      },
+      "pmax-temp-coefficient": {
+       "ar": "⁦-0.34 %/°C⁩",
+       "en": "-0.34 %/°C"
+      },
+      "operating-temperature": {
+       "ar": "من ⁦-40⁩ إلى ⁦+85⁩ °م",
+       "en": "-40 to +85 °C"
+      },
+      "packing": {
+       "ar": "⁦36⁩ لوحاً للمنصة · ⁦936⁩ لوحاً لحاوية ⁦40HQ⁩",
+       "en": "36 pcs/pallet · 936 pcs/40HQ"
+      },
+      "certifications": {
+       "ar": "⁦IEC 61215 · IEC 61730⁩",
+       "en": "IEC 61215 · IEC 61730"
+      }
+     }
+    },
+    {
+     "code": "BXS-0114-02-006",
+     "name": {
+      "ar": "⁦525–550⁩ واط · ⁦144⁩ نصف خلية",
+      "en": "525–550 W · 144 Half-Cells"
+     },
+     "specs": {
+      "use": {
+       "ar": "الأسطح التجارية والمزارع",
+       "en": "Commercial roofs, farms"
+      },
+      "power-range": {
+       "ar": "⁦525–550⁩ واط",
+       "en": "525–550 W"
+      },
+      "module-efficiency": {
+       "ar": "⁦20.3–21.3 %⁩",
+       "en": "20.3–21.3 %"
+      },
+      "cells": {
+       "ar": "⁦144⁩ نصف خلية، أحادية ⁦182⁩ مم",
+       "en": "144 half-cells, mono 182 mm"
+      },
+      "dimensions": {
+       "ar": "⁦2279×1134×35⁩ مم",
+       "en": "2279×1134×35 mm"
+      },
+      "front-glass": {
+       "ar": "مقسّى ⁦3.2⁩ مم بطلاء مضاد للانعكاس",
+       "en": "3.2 mm AR-coated tempered"
+      },
+      "max-system-voltage": {
+       "ar": "⁦1000 / 1500⁩ فولت ⁦DC⁩",
+       "en": "1000 / 1500 V DC"
+      },
+      "mechanical-load": {
+       "ar": "⁦5400⁩ باسكال أمامي / ⁦2400⁩ باسكال خلفي",
+       "en": "5400 Pa front / 2400 Pa rear"
+      },
+      "pmax-temp-coefficient": {
+       "ar": "⁦-0.34 %/°C⁩",
+       "en": "-0.34 %/°C"
+      },
+      "operating-temperature": {
+       "ar": "من ⁦-40⁩ إلى ⁦+85⁩ °م",
+       "en": "-40 to +85 °C"
+      },
+      "packing": {
+       "ar": "⁦31⁩ لوحاً للمنصة · ⁦620⁩ لوحاً لحاوية ⁦40HQ⁩",
+       "en": "31 pcs/pallet · 620 pcs/40HQ"
+      },
+      "certifications": {
+       "ar": "⁦IEC 61215 · IEC 61730⁩",
+       "en": "IEC 61215 · IEC 61730"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "topcon",
+   "label": {
+    "ar": "ألواح N-Type TOPCon",
+    "en": "N-Type TOPCon panels"
+   },
+   "key": {
+    "ar": "440–605 واط · كفاءة حتى 24.27 %",
+    "en": "440–605 W · up to 24.27 % efficiency"
+   },
+   "intro": {
+    "ar": "كفاءة أعلى من مساحة السطح نفسها، ومنها لوح أسود كامل بزجاج مزدوج لأسطح الفلل.",
+    "en": "Higher efficiency from the same roof area, including a full-black dual-glass panel for villa roofs."
+   },
+   "keyRows": [
+    "module-efficiency",
+    "dimensions",
+    "weight"
+   ],
+   "models": [
+    {
+     "code": "BXS-0063-01-003",
+     "name": {
+      "ar": "⁦440–460⁩ واط · ⁦108⁩ نصف خلية",
+      "en": "440–460 W · 108 Half-Cells"
+     },
+     "specs": {
+      "use": {
+       "ar": "البيوت والمناخ الحار",
+       "en": "Homes, hot climates"
+      },
+      "power-range": {
+       "ar": "⁦440–460⁩ واط (تفاوت ⁦0⁩ إلى ⁦+5⁩ واط)",
+       "en": "440–460 W (0 to +5 W)"
+      },
+      "module-efficiency": {
+       "ar": "⁦22.53–23.56 %⁩",
+       "en": "22.53–23.56 %"
+      },
+      "cells": {
+       "ar": "⁦108⁩ خلايا (⁦6×18⁩)، ⁦N-type⁩ مقاس ⁦182×91⁩ مم",
+       "en": "108 (6×18), N-type 182×91 mm"
+      },
+      "dimensions": {
+       "ar": "⁦1722×1134×30⁩ مم",
+       "en": "1722×1134×30 mm"
+      },
+      "weight": {
+       "ar": "⁦21.5⁩ كغ",
+       "en": "21.5 kg"
+      },
+      "glass": {
+       "ar": "مقسّى ⁦3.2⁩ مم منخفض الحديد",
+       "en": "3.2 mm low-iron tempered"
+      },
+      "junction-box": {
+       "ar": "⁦IP68⁩، ⁦3⁩ دايودات",
+       "en": "IP68, 3 diodes"
+      },
+      "connector": {
+       "ar": "متوافق مع ⁦MC4⁩",
+       "en": "MC4 compatible"
+      },
+      "snow-wind-load": {
+       "ar": "⁦5400⁩ باسكال / ⁦2400⁩ باسكال",
+       "en": "5400 Pa / 2400 Pa"
+      },
+      "pmax-temp-coefficient": {
+       "ar": "⁦-0.36 %/°C⁩",
+       "en": "-0.36 %/°C"
+      },
+      "operating-temperature": {
+       "ar": "من ⁦-40⁩ إلى ⁦+85⁩ °م",
+       "en": "-40 to +85 °C"
+      },
+      "certifications": {
+       "ar": "⁦IEC 61215 · IEC 61730 · CE⁩",
+       "en": "IEC 61215 · IEC 61730 · CE"
+      }
+     }
+    },
+    {
+     "code": "BXS-0063-01-009",
+     "name": {
+      "ar": "⁦585–605⁩ واط · ⁦144⁩ نصف خلية",
+      "en": "585–605 W · 144 Half-Cells"
+     },
+     "specs": {
+      "use": {
+       "ar": "المزارع والمصانع والمحطات",
+       "en": "Farms, factories, plants"
+      },
+      "power-range": {
+       "ar": "⁦585–605⁩ واط (تفاوت ⁦0⁩ إلى ⁦+5⁩ واط)",
+       "en": "585–605 W (0 to +5 W)"
+      },
+      "module-efficiency": {
+       "ar": "⁦22.64–23.42 %⁩",
+       "en": "22.64–23.42 %"
+      },
+      "cells": {
+       "ar": "⁦144⁩ خلية (⁦6×24⁩)، ⁦N-type⁩ مقاس ⁦182×91⁩ مم",
+       "en": "144 (6×24), N-type 182×91 mm"
+      },
+      "dimensions": {
+       "ar": "⁦2279×1134×30⁩ مم",
+       "en": "2279×1134×30 mm"
+      },
+      "weight": {
+       "ar": "⁦29⁩ كغ",
+       "en": "29 kg"
+      },
+      "glass": {
+       "ar": "مقسّى ⁦3.2⁩ مم منخفض الحديد",
+       "en": "3.2 mm low-iron tempered"
+      },
+      "junction-box": {
+       "ar": "⁦IP68⁩، ⁦3⁩ دايودات",
+       "en": "IP68, 3 diodes"
+      },
+      "max-system-voltage": {
+       "ar": "⁦1500⁩ فولت ⁦DC⁩",
+       "en": "1500 V DC"
+      },
+      "snow-wind-load": {
+       "ar": "⁦5400⁩ باسكال / ⁦2400⁩ باسكال",
+       "en": "5400 Pa / 2400 Pa"
+      },
+      "pmax-temp-coefficient": {
+       "ar": "⁦-0.36 %/°C⁩",
+       "en": "-0.36 %/°C"
+      },
+      "max-series-fuse": {
+       "ar": "⁦25⁩ أمبير",
+       "en": "25 A"
+      },
+      "packing": {
+       "ar": "⁦36⁩ لوحاً للمنصة · ⁦720⁩ لوحاً لحاوية ⁦40HQ⁩",
+       "en": "36 pcs/pallet · 720 pcs/40HQ"
+      }
+     }
+    },
+    {
+     "code": "BXS-0063-01-002",
+     "name": {
+      "ar": "⁦460–485⁩ واط · أسود كامل",
+      "en": "460–485 W · Full Black"
+     },
+     "specs": {
+      "use": {
+       "ar": "الفلل والأسطح الراقية",
+       "en": "Villas, premium roofs"
+      },
+      "power-range": {
+       "ar": "⁦460–485⁩ واط (تفاوت ⁦0⁩ إلى ⁦+3 %⁩)",
+       "en": "460–485 W (0 to +3 %)"
+      },
+      "module-efficiency": {
+       "ar": "⁦23.02–24.27 %⁩",
+       "en": "23.02–24.27 %"
+      },
+      "cells": {
+       "ar": "⁦N-type⁩ أحادية، ⁦192⁩ خلية (⁦4×48⁩)",
+       "en": "N-type mono, 192 (4×48)"
+      },
+      "dimensions": {
+       "ar": "⁦1762×1134×30⁩ مم",
+       "en": "1762×1134×30 mm"
+      },
+      "weight": {
+       "ar": "⁦24.4⁩ كغ",
+       "en": "24.4 kg"
+      },
+      "front-back-glass": {
+       "ar": "⁦2.0⁩ مم بطلاء مضاد للانعكاس، مقوّى حرارياً",
+       "en": "2.0 mm AR-coated, heat-strengthened"
+      },
+      "junction-box": {
+       "ar": "⁦IP68⁩، ⁦3⁩ دايودات",
+       "en": "IP68, 3 diodes"
+      },
+      "max-system-voltage": {
+       "ar": "⁦1500⁩ فولت ⁦DC⁩",
+       "en": "1500 V DC"
+      },
+      "snow-wind-load": {
+       "ar": "⁦5400⁩ باسكال / ⁦2400⁩ باسكال",
+       "en": "5400 Pa / 2400 Pa"
+      },
+      "operating-temperature": {
+       "ar": "من ⁦-40⁩ إلى ⁦+70⁩ °م",
+       "en": "-40 to +70 °C"
+      },
+      "max-series-fuse": {
+       "ar": "⁦30⁩ أمبير",
+       "en": "30 A"
+      },
+      "packing": {
+       "ar": "⁦37⁩ لوحاً للمنصة · ⁦962⁩ لوحاً لحاوية ⁦40HQ⁩",
+       "en": "37 pcs/pallet · 962 pcs/40HQ"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "bifacial",
+   "label": {
+    "ar": "ألواح ثنائية الوجه",
+    "en": "Bifacial panels"
+   },
+   "key": {
+    "ar": "620–740 واط · زجاج مزدوج",
+    "en": "620–740 W · dual glass"
+   },
+   "intro": {
+    "ar": "تلتقط الضوء المنعكس من الخلف وتتحمل الحرارة والرمل والرطوبة، وتناسب المحطات الأرضية.",
+    "en": "Collect reflected light from the rear and stand up to heat, sand and humidity; made for ground-mounted plants."
+   },
+   "keyRows": [
+    "module-efficiency",
+    "dimensions",
+    "weight"
+   ],
+   "models": [
+    {
+     "code": "BXS-0087-01-001",
+     "name": {
+      "ar": "⁦620–630⁩ واط · زجاج/زجاج",
+      "en": "620–630 W · Glass/Glass"
+     },
+     "specs": {
+      "use": {
+       "ar": "المحطات الأرضية والمظلات",
+       "en": "Ground plants, carports"
+      },
+      "power-range": {
+       "ar": "⁦620–630⁩ واط (تفاوت ⁦0⁩ إلى ⁦+5⁩ واط)",
+       "en": "620–630 W (0 to +5 W)"
+      },
+      "module-efficiency": {
+       "ar": "⁦22.95–23.32 %⁩",
+       "en": "22.95–23.32 %"
+      },
+      "cells": {
+       "ar": "⁦132⁩ خلية (⁦6×22⁩)، ⁦N-type⁩ مقاس ⁦182×105⁩ مم",
+       "en": "132 (6×22), N-type 182×105 mm"
+      },
+      "dimensions": {
+       "ar": "⁦2382×1134×30⁩ مم",
+       "en": "2382×1134×30 mm"
+      },
+      "weight": {
+       "ar": "⁦32.5⁩ كغ",
+       "en": "32.5 kg"
+      },
+      "glass": {
+       "ar": "زجاج/زجاج، ⁦2.0⁩ مم",
+       "en": "Glass/glass, 2.0 mm"
+      },
+      "junction-box-connector": {
+       "ar": "⁦IP68⁩ · متوافق مع ⁦MC4⁩",
+       "en": "IP68 · MC4 compatible"
+      },
+      "max-system-voltage": {
+       "ar": "⁦1500⁩ فولت ⁦DC⁩",
+       "en": "1500 V DC"
+      },
+      "static-load": {
+       "ar": "⁦5400⁩ باسكال أمامي / ⁦2400⁩ باسكال خلفي",
+       "en": "5400 Pa front / 2400 Pa back"
+      },
+      "pmax-temp-coefficient": {
+       "ar": "⁦-0.30 %/°C⁩",
+       "en": "-0.30 %/°C"
+      },
+      "warranty": {
+       "ar": "⁦12⁩ سنة عند ⁦90 %⁩ · ⁦30⁩ سنة عند ⁦80 %⁩",
+       "en": "12 yrs at 90 % · 30 yrs at 80 %"
+      },
+      "packing": {
+       "ar": "⁦36⁩ لوحاً للمنصة · ⁦720⁩ لوحاً لحاوية ⁦40HQ⁩",
+       "en": "36 pcs/pallet · 720 pcs/40HQ"
+      }
+     }
+    },
+    {
+     "code": "BXS-0063-01-012",
+     "name": {
+      "ar": "⁦715–740⁩ واط · زجاج مزدوج",
+      "en": "715–740 W · Dual Glass"
+     },
+     "specs": {
+      "use": {
+       "ar": "المحطات الكبيرة",
+       "en": "Utility-scale plants"
+      },
+      "power-range": {
+       "ar": "⁦715–740⁩ واط (تفاوت ⁦0⁩ إلى ⁦+5⁩ واط)",
+       "en": "715–740 W (0 to +5 W)"
+      },
+      "module-efficiency": {
+       "ar": "⁦23.0–23.8 %⁩",
+       "en": "23.0–23.8 %"
+      },
+      "bifacial-output-10-rear": {
+       "ar": "⁦787–814⁩ واط",
+       "en": "787–814 W"
+      },
+      "cells": {
+       "ar": "⁦132⁩ خلية (⁦6×22⁩)، ⁦N-type⁩ أحادية ⁦TOPCon⁩",
+       "en": "132 (6×22), N-type mono TOPCon"
+      },
+      "dimensions": {
+       "ar": "⁦2384×1303×33⁩ مم",
+       "en": "2384×1303×33 mm"
+      },
+      "weight": {
+       "ar": "⁦38.3⁩ كغ",
+       "en": "38.3 kg"
+      },
+      "glass": {
+       "ar": "زجاج مزدوج ⁦2.0⁩ مم مقسّى ومطلي",
+       "en": "Dual glass, 2.0 mm coated tempered"
+      },
+      "junction-box": {
+       "ar": "⁦IP68⁩، ⁦3⁩ دايودات",
+       "en": "IP68, 3 diodes"
+      },
+      "max-system-voltage": {
+       "ar": "⁦1500⁩ فولت ⁦DC⁩",
+       "en": "1500 V DC"
+      },
+      "pmax-temp-coefficient": {
+       "ar": "⁦-0.36 %/°C⁩",
+       "en": "-0.36 %/°C"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "flexible",
+   "label": {
+    "ar": "ألواح مرنة",
+    "en": "Flexible panels"
+   },
+   "key": {
+    "ar": "120 و160 واط · تنحني حتى 90°",
+    "en": "120 & 160 W · bend up to 90°"
+   },
+   "keyRows": [
+    "cells",
+    "weight",
+    "warranty"
+   ],
+   "models": [
+    {
+     "code": "BXS-0075-01-004",
+     "name": {
+      "ar": "ألواح مرنة ⁦120⁩ و⁦160⁩ واط",
+      "en": "120 W & 160 W Flexible Panels"
+     },
+     "specs": {
+      "use": {
+       "ar": "القوارب والكرفانات والأسطح المنحنية",
+       "en": "Boats, caravans, curved roofs"
+      },
+      "rated-power": {
+       "ar": "⁦120 / 160⁩ واط",
+       "en": "120 / 160 W"
+      },
+      "cells": {
+       "ar": "⁦N-type⁩ بكفاءة ⁦25.8 %⁩",
+       "en": "N-type, 25.8 % efficient"
+      },
+      "max-power-voltage": {
+       "ar": "⁦19.8 / 18⁩ فولت",
+       "en": "19.8 / 18 V"
+      },
+      "max-power-current": {
+       "ar": "⁦6.06 / 8.89⁩ أمبير",
+       "en": "6.06 / 8.89 A"
+      },
+      "open-circuit-voltage": {
+       "ar": "⁦23.1 / 21⁩ فولت",
+       "en": "23.1 / 21 V"
+      },
+      "short-circuit-current": {
+       "ar": "⁦6.36 / 9.33⁩ أمبير",
+       "en": "6.36 / 9.33 A"
+      },
+      "dimensions": {
+       "ar": "⁦1065×550×2.5 / 1125×670×3⁩ مم",
+       "en": "1065×550×2.5 / 1125×670×3 mm"
+      },
+      "weight": {
+       "ar": "⁦2.3 / 3⁩ كغ",
+       "en": "2.3 / 3 kg"
+      },
+      "bending": {
+       "ar": "حتى ⁦90°⁩",
+       "en": "Up to 90°"
+      },
+      "warranty": {
+       "ar": "⁦3⁩ سنوات",
+       "en": "3 years"
+      },
+      "certifications": {
+       "ar": "⁦CE · IEC · TÜV · FCC · RoHS · CQC · ISO 9001 · ISO 14001⁩",
+       "en": "CE · IEC · TÜV · FCC · RoHS · CQC · ISO 9001 · ISO 14001"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "small",
+   "label": {
+    "ar": "ألواح صغيرة 12 فولت",
+    "en": "Small 12 V panels"
+   },
+   "key": {
+    "ar": "5–350 واط · مقاس حسب الطلب",
+    "en": "5–350 W · custom sizes"
+   },
+   "keyRows": [
+    "power-range",
+    "system-voltage",
+    "size"
+   ],
+   "models": [
+    {
+     "code": "BXS-0066-01-015",
+     "name": {
+      "ar": "ألواح شمسية صغيرة ⁦5–350⁩ واط",
+      "en": "5–350 W Small Solar Panels"
+     },
+     "specs": {
+      "use": {
+       "ar": "الإنارة والمضخات والكاميرات",
+       "en": "Lighting, pumps, cameras"
+      },
+      "power-range": {
+       "ar": "⁦5–350⁩ واط",
+       "en": "5–350 W"
+      },
+      "system-voltage": {
+       "ar": "⁦12⁩ فولت",
+       "en": "12 V"
+      },
+      "size": {
+       "ar": "مقاس حسب الطلب",
+       "en": "Custom size on request"
+      },
+      "voltage": {
+       "ar": "جهد حسب الطلب",
+       "en": "Custom voltage on request"
+      },
+      "applications": {
+       "ar": "إنارة الشوارع والحدائق · مضخات المياه ⁦DC⁩ · الكاميرات والأمن · الاتصالات والحساسات البعيدة · البوابات واللوحات · شحن البطاريات",
+       "en": "Solar street & garden lights · DC water pumps · CCTV & security · Telecom & remote sensors · Gates & signage · Battery charging"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

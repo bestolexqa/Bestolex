@@ -308,7 +308,9 @@ const emptyForm = () => ({ name: '', company: '', email: '', phone: '', requestT
 const form = ref(emptyForm())
 
 // ?product=<id> preselects a product (links from product pages and articles)
-const allProducts = mockProducts.flatMap(c => (c.products || []).map(p => ({ ...p, catTitle: c.title })))
+// Products of a category, its subcategories included (Energy Solutions → Solar Energy).
+const catProducts = (c) => [...(c.products || []), ...((c.subcategories || []).flatMap(sub => sub.products || []))]
+const allProducts = mockProducts.flatMap(c => catProducts(c).map(p => ({ ...p, catTitle: c.title })))
 if (typeof route.query.product === 'string' && allProducts.some(p => p.id === route.query.product)) {
   form.value.productId = route.query.product
 }
@@ -316,7 +318,7 @@ if (typeof route.query.product === 'string' && allProducts.some(p => p.id === ro
 const productGroups = computed(() => mockProducts.map(c => ({
   id: c.id,
   title: c.title?.[locale.value] || c.title?.ar,
-  products: (c.products || []).map(p => ({ id: p.id, name: p.name?.[locale.value] || p.name?.ar }))
+  products: catProducts(c).map(p => ({ id: p.id, name: p.name?.[locale.value] || p.name?.ar }))
 })))
 
 const loading = ref(false)

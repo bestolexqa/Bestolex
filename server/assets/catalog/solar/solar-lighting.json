@@ -1,0 +1,1169 @@
+{
+ "id": "solar-lighting",
+ "updated": "2026-11-27",
+ "title": {
+  "ar": "المنتجات والمواصفات",
+  "en": "Products and specifications"
+ },
+ "source": {
+  "ar": "المصدر: كتالوج بيستوليكس BXSC-02، إصدار 27 نوفمبر 2026 · * حسب بيانات المصنّع · قد تتغير المواصفات دون إشعار",
+  "en": "Source: Bestolex catalogue BXSC-02, edition 27 November 2026 · * manufacturer-stated · specifications may change without notice"
+ },
+ "typeLabel": {
+  "ar": "نوع المنتج",
+  "en": "Product type"
+ },
+ "missing": {
+  "ar": "—",
+  "en": "—"
+ },
+ "rows": [
+  {
+   "key": "use",
+   "label": {
+    "ar": "الأنسب لـ",
+    "en": "Best for"
+   }
+  },
+  {
+   "key": "rated-power",
+   "label": {
+    "ar": "القدرة المقننة",
+    "en": "Rated power"
+   }
+  },
+  {
+   "key": "luminous-flux",
+   "label": {
+    "ar": "التدفق الضوئي",
+    "en": "Luminous flux"
+   }
+  },
+  {
+   "key": "mono-solar-panel",
+   "label": {
+    "ar": "اللوح الأحادي",
+    "en": "Mono solar panel"
+   }
+  },
+  {
+   "key": "battery-60-100-w",
+   "label": {
+    "ar": "البطارية ⁦60–100⁩ واط",
+    "en": "Battery 60–100 W"
+   }
+  },
+  {
+   "key": "battery-120-140-w",
+   "label": {
+    "ar": "البطارية ⁦120–140⁩ واط",
+    "en": "Battery 120–140 W"
+   }
+  },
+  {
+   "key": "led",
+   "label": {
+    "ar": "الليدات",
+    "en": "LED"
+   }
+  },
+  {
+   "key": "controller",
+   "label": {
+    "ar": "منظم الشحن",
+    "en": "Controller"
+   }
+  },
+  {
+   "key": "mounting-height",
+   "label": {
+    "ar": "ارتفاع التركيب",
+    "en": "Mounting height"
+   }
+  },
+  {
+   "key": "pole-spacing",
+   "label": {
+    "ar": "المسافة بين الأعمدة",
+    "en": "Pole spacing"
+   }
+  },
+  {
+   "key": "colour-temp",
+   "label": {
+    "ar": "حرارة اللون",
+    "en": "Colour temp."
+   }
+  },
+  {
+   "key": "housing",
+   "label": {
+    "ar": "الهيكل",
+    "en": "Housing"
+   }
+  },
+  {
+   "key": "charge-time",
+   "label": {
+    "ar": "زمن الشحن",
+    "en": "Charge time"
+   }
+  },
+  {
+   "key": "operating-temp",
+   "label": {
+    "ar": "حرارة التشغيل",
+    "en": "Operating temp."
+   }
+  },
+  {
+   "key": "pole-diameter",
+   "label": {
+    "ar": "قطر العمود",
+    "en": "Pole diameter"
+   }
+  },
+  {
+   "key": "large-range",
+   "label": {
+    "ar": "الطرازات الكبيرة",
+    "en": "Large range"
+   }
+  },
+  {
+   "key": "large-panel",
+   "label": {
+    "ar": "الكبيرة: اللوح",
+    "en": "Large: panel"
+   }
+  },
+  {
+   "key": "large-battery",
+   "label": {
+    "ar": "الكبيرة: البطارية",
+    "en": "Large: battery"
+   }
+  },
+  {
+   "key": "compact-range",
+   "label": {
+    "ar": "الطرازات الصغيرة",
+    "en": "Compact range"
+   }
+  },
+  {
+   "key": "compact-panel",
+   "label": {
+    "ar": "الصغيرة: اللوح",
+    "en": "Compact: panel"
+   }
+  },
+  {
+   "key": "compact-battery",
+   "label": {
+    "ar": "الصغيرة: البطارية",
+    "en": "Compact: battery"
+   }
+  },
+  {
+   "key": "led-chips",
+   "label": {
+    "ar": "شرائح ⁦LED⁩",
+    "en": "LED chips"
+   }
+  },
+  {
+   "key": "head-adjustment",
+   "label": {
+    "ar": "ضبط الرأس",
+    "en": "Head adjustment"
+   }
+  },
+  {
+   "key": "working-modes",
+   "label": {
+    "ar": "أوضاع التشغيل",
+    "en": "Working modes"
+   }
+  },
+  {
+   "key": "protection",
+   "label": {
+    "ar": "الحماية",
+    "en": "Protection"
+   }
+  },
+  {
+   "key": "system-life",
+   "label": {
+    "ar": "العمر التشغيلي*",
+    "en": "System life*"
+   }
+  },
+  {
+   "key": "large-model",
+   "label": {
+    "ar": "الطراز الكبير",
+    "en": "Large model"
+   }
+  },
+  {
+   "key": "medium-model",
+   "label": {
+    "ar": "الطراز المتوسط",
+    "en": "Medium model"
+   }
+  },
+  {
+   "key": "compact-model",
+   "label": {
+    "ar": "الطراز الصغير",
+    "en": "Compact model"
+   }
+  },
+  {
+   "key": "lamp-efficacy",
+   "label": {
+    "ar": "كفاءة الكشاف",
+    "en": "Lamp efficacy"
+   }
+  },
+  {
+   "key": "battery-max",
+   "label": {
+    "ar": "البطارية (الأقصى)",
+    "en": "Battery (max.)"
+   }
+  },
+  {
+   "key": "options",
+   "label": {
+    "ar": "خيارات",
+    "en": "Options"
+   }
+  },
+  {
+   "key": "lamp-power",
+   "label": {
+    "ar": "قدرة الكشاف",
+    "en": "Lamp power"
+   }
+  },
+  {
+   "key": "solar-panel",
+   "label": {
+    "ar": "اللوح الشمسي",
+    "en": "Solar panel"
+   }
+  },
+  {
+   "key": "battery",
+   "label": {
+    "ar": "البطارية",
+    "en": "Battery"
+   }
+  },
+  {
+   "key": "pole-height",
+   "label": {
+    "ar": "ارتفاع العمود",
+    "en": "Pole height"
+   }
+  },
+  {
+   "key": "panel-standards",
+   "label": {
+    "ar": "معايير اللوح*",
+    "en": "Panel standards*"
+   }
+  },
+  {
+   "key": "standard-version",
+   "label": {
+    "ar": "الإصدار القياسي",
+    "en": "Standard version"
+   }
+  },
+  {
+   "key": "large-version",
+   "label": {
+    "ar": "الإصدار الكبير",
+    "en": "Large version"
+   }
+  },
+  {
+   "key": "solar-panels",
+   "label": {
+    "ar": "الألواح الشمسية",
+    "en": "Solar panels"
+   }
+  },
+  {
+   "key": "operation",
+   "label": {
+    "ar": "التشغيل",
+    "en": "Operation"
+   }
+  },
+  {
+   "key": "mast",
+   "label": {
+    "ar": "الصاري",
+    "en": "Mast"
+   }
+  },
+  {
+   "key": "servicing",
+   "label": {
+    "ar": "الصيانة",
+    "en": "Servicing"
+   }
+  },
+  {
+   "key": "real-power",
+   "label": {
+    "ar": "القدرة الفعلية",
+    "en": "Real power"
+   }
+  },
+  {
+   "key": "panels-25-50-w-sizes",
+   "label": {
+    "ar": "ألواح الأحجام ⁦25–50⁩ واط",
+    "en": "Panels, 25–50 W sizes"
+   }
+  },
+  {
+   "key": "lifepo4-battery",
+   "label": {
+    "ar": "بطارية ⁦LiFePO4⁩",
+    "en": "LiFePO4 battery"
+   }
+  },
+  {
+   "key": "lamp-size",
+   "label": {
+    "ar": "مقاس الكشاف",
+    "en": "Lamp size"
+   }
+  },
+  {
+   "key": "working-mode",
+   "label": {
+    "ar": "وضع التشغيل",
+    "en": "Working mode"
+   }
+  },
+  {
+   "key": "lighting-mode",
+   "label": {
+    "ar": "وضع الإضاءة",
+    "en": "Lighting mode"
+   }
+  },
+  {
+   "key": "size",
+   "label": {
+    "ar": "المقاس",
+    "en": "Size"
+   }
+  },
+  {
+   "key": "lithium-battery",
+   "label": {
+    "ar": "بطارية الليثيوم",
+    "en": "Lithium battery"
+   }
+  },
+  {
+   "key": "sensor",
+   "label": {
+    "ar": "الحساس",
+    "en": "Sensor"
+   }
+  },
+  {
+   "key": "mode-1-2",
+   "label": {
+    "ar": "الوضع ⁦1 / 2⁩",
+    "en": "Mode 1 / 2"
+   }
+  },
+  {
+   "key": "mode-3-4",
+   "label": {
+    "ar": "الوضع ⁦3 / 4⁩",
+    "en": "Mode 3 / 4"
+   }
+  },
+  {
+   "key": "lifepo4",
+   "label": {
+    "ar": "البطارية",
+    "en": "LiFePO4"
+   }
+  },
+  {
+   "key": "light",
+   "label": {
+    "ar": "الإضاءة",
+    "en": "Light"
+   }
+  },
+  {
+   "key": "runtime",
+   "label": {
+    "ar": "التشغيل",
+    "en": "Runtime"
+   }
+  },
+  {
+   "key": "phone",
+   "label": {
+    "ar": "الهاتف",
+    "en": "Phone"
+   }
+  },
+  {
+   "key": "warranty",
+   "label": {
+    "ar": "الضمان*",
+    "en": "Warranty*"
+   }
+  }
+ ],
+ "keyRows": [
+  "luminous-flux",
+  "mono-solar-panel",
+  "led"
+ ],
+ "types": [
+  {
+   "id": "aio",
+   "label": {
+    "ar": "كشاف شارع متكامل",
+    "en": "All-in-one street light"
+   },
+   "key": {
+    "ar": "60–140 واط · حتى 30,800 لومن",
+    "en": "60–140 W · up to 30,800 lm"
+   },
+   "keyRows": [
+    "luminous-flux",
+    "mono-solar-panel",
+    "led"
+   ],
+   "models": [
+    {
+     "code": "BXS-0031-01-002",
+     "name": {
+      "ar": "⁦60–140⁩ واط · حتى ⁦30,800⁩ لومن",
+      "en": "60–140 W · up to 30,800 lm"
+     },
+     "specs": {
+      "use": {
+       "ar": "الطرق والمناطق الصناعية",
+       "en": "Roads, industrial parks"
+      },
+      "rated-power": {
+       "ar": "⁦60 / 80 / 100 / 120 / 140⁩ واط",
+       "en": "60 / 80 / 100 / 120 / 140 W"
+      },
+      "luminous-flux": {
+       "ar": "⁦13,200–30,800⁩ لومن",
+       "en": "13,200–30,800 lm"
+      },
+      "mono-solar-panel": {
+       "ar": "⁦93.5–175⁩ واط",
+       "en": "93.5–175 W"
+      },
+      "battery-60-100-w": {
+       "ar": "⁦LiFePO4 12.8⁩ فولت, ⁦45–75⁩ أمبير ساعة",
+       "en": "LiFePO4 12.8 V, 45–75 Ah"
+      },
+      "battery-120-140-w": {
+       "ar": "⁦LiFePO4 25.6⁩ فولت, ⁦45–60⁩ أمبير ساعة",
+       "en": "LiFePO4 25.6 V, 45–60 Ah"
+      },
+      "led": {
+       "ar": "⁦SMD5050, 56–140⁩ قطعة",
+       "en": "SMD5050, 56–140 pcs"
+      },
+      "controller": {
+       "ar": "⁦MPPT⁩",
+       "en": "MPPT"
+      },
+      "mounting-height": {
+       "ar": "⁦6–13⁩ م",
+       "en": "6–13 m"
+      },
+      "pole-spacing": {
+       "ar": "⁦18–39⁩ م",
+       "en": "18–39 m"
+      },
+      "colour-temp": {
+       "ar": "⁦3000 / 4000 / 6500⁩ كلفن",
+       "en": "3000 / 4000 / 6500 K"
+      },
+      "housing": {
+       "ar": "ألومنيوم مصبوب، عدسة ⁦PC⁩",
+       "en": "Die-cast aluminium, PC lens"
+      },
+      "charge-time": {
+       "ar": "⁦4–6⁩ ساعات شمس",
+       "en": "4–6 h of sun"
+      },
+      "operating-temp": {
+       "ar": "من ⁦-20⁩ إلى ⁦+60⁩ °م",
+       "en": "-20 to +60 °C"
+      },
+      "pole-diameter": {
+       "ar": "⁦60–80⁩ مم",
+       "en": "60–80 mm"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "sun-facing",
+   "label": {
+    "ar": "متكامل بلوح نحو الشمس",
+    "en": "Sun-facing all-in-one"
+   },
+   "key": {
+    "ar": "15–120 واط · حتى 21,600 لومن",
+    "en": "15–120 W · up to 21,600 lm"
+   },
+   "keyRows": [
+    "controller",
+    "large-panel",
+    "compact-panel"
+   ],
+   "models": [
+    {
+     "code": "BXS-0052-01-002",
+     "name": {
+      "ar": "⁦15–120⁩ واط · حتى ⁦21,600⁩ لومن",
+      "en": "15–120 W · up to 21,600 lm"
+     },
+     "specs": {
+      "use": {
+       "ar": "الشوارع بأي اتجاه",
+       "en": "Streets in any orientation"
+      },
+      "large-range": {
+       "ar": "⁦55–120⁩ واط · ⁦9,900–21,600⁩ لومن",
+       "en": "55–120 W · 9,900–21,600 lm"
+      },
+      "large-panel": {
+       "ar": "⁦140–360⁩ واط",
+       "en": "140–360 W"
+      },
+      "large-battery": {
+       "ar": "⁦LiFePO4 640–1,280⁩ واط ساعة",
+       "en": "LiFePO4 640–1,280 Wh"
+      },
+      "compact-range": {
+       "ar": "⁦15–50⁩ واط · ⁦2,700–9,000⁩ لومن",
+       "en": "15–50 W · 2,700–9,000 lm"
+      },
+      "compact-panel": {
+       "ar": "⁦50–120⁩ واط",
+       "en": "50–120 W"
+      },
+      "compact-battery": {
+       "ar": "⁦LiFePO4 128–512⁩ واط ساعة",
+       "en": "LiFePO4 128–512 Wh"
+      },
+      "led-chips": {
+       "ar": "⁦SMD 5050 / 7070⁩",
+       "en": "SMD 5050 / 7070"
+      },
+      "head-adjustment": {
+       "ar": "⁦±360°⁩ أفقياً · ⁦±45°⁩ رأسياً",
+       "en": "±360° horiz. · ±45° vert."
+      },
+      "controller": {
+       "ar": "⁦MPPT⁩",
+       "en": "MPPT"
+      },
+      "working-modes": {
+       "ar": "مؤقت · حساس حركة* · ⁦IoT⁩*",
+       "en": "Timer · motion* · IoT*"
+      },
+      "protection": {
+       "ar": "⁦IP66 / IK09⁩",
+       "en": "IP66 / IK09"
+      },
+      "system-life": {
+       "ar": "> ⁦10⁩ سنوات",
+       "en": "> 10 years"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "aio2",
+   "label": {
+    "ar": "كشاف ثنائي الأجزاء",
+    "en": "All-in-two street light"
+   },
+   "key": {
+    "ar": "10–150 واط · ثلاثة أحجام",
+    "en": "10–150 W · three sizes"
+   },
+   "keyRows": [
+    "colour-temp",
+    "operating-temp",
+    "led-chips"
+   ],
+   "models": [
+    {
+     "code": "BXS-0052-01-001",
+     "name": {
+      "ar": "⁦10–150⁩ واط · ثلاثة أحجام",
+      "en": "10–150 W · three sizes"
+     },
+     "specs": {
+      "use": {
+       "ar": "الشوارع والمجمعات",
+       "en": "Streets, compounds"
+      },
+      "large-model": {
+       "ar": "⁦30–150⁩ واط · ⁦6–12⁩ م",
+       "en": "30–150 W · 6–12 m"
+      },
+      "medium-model": {
+       "ar": "⁦20–80⁩ واط · ⁦5–8⁩ م",
+       "en": "20–80 W · 5–8 m"
+      },
+      "compact-model": {
+       "ar": "⁦10–60⁩ واط · ⁦3–7⁩ م",
+       "en": "10–60 W · 3–7 m"
+      },
+      "lamp-efficacy": {
+       "ar": "> ⁦175–180⁩ لومن/واط",
+       "en": "> 175–180 lm/W"
+      },
+      "battery-max": {
+       "ar": "⁦1,920 / 680 / 410⁩ واط ساعة",
+       "en": "1,920 / 680 / 410 Wh"
+      },
+      "led-chips": {
+       "ar": "⁦SMD 5050⁩",
+       "en": "SMD 5050"
+      },
+      "colour-temp": {
+       "ar": "⁦3000–6000⁩ كلفن",
+       "en": "3000–6000 K"
+      },
+      "working-modes": {
+       "ar": "مؤقت · حساس حركة* · ⁦IoT⁩*",
+       "en": "Timer · motion* · IoT*"
+      },
+      "protection": {
+       "ar": "⁦IP66 / IK09⁩",
+       "en": "IP66 / IK09"
+      },
+      "operating-temp": {
+       "ar": "من ⁦-20⁩ إلى ⁦+65⁩ °م",
+       "en": "-20 to +65 °C"
+      },
+      "system-life": {
+       "ar": "> ⁦10⁩ سنوات",
+       "en": "> 10 years"
+      },
+      "options": {
+       "ar": "كاميرا · أشواك طاردة للطيور",
+       "en": "Camera · anti-bird spikes"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "split",
+   "label": {
+    "ar": "كشاف شارع منفصل",
+    "en": "Split street light"
+   },
+   "key": {
+    "ar": "20–200 واط · للطرق الرئيسية",
+    "en": "20–200 W · for main roads"
+   },
+   "keyRows": [
+    "colour-temp",
+    "operating-temp",
+    "working-modes"
+   ],
+   "models": [
+    {
+     "code": "BXS-0052-01-006",
+     "name": {
+      "ar": "⁦20–200⁩ واط · بطارية ليثيوم",
+      "en": "20–200 W · lithium battery"
+     },
+     "specs": {
+      "use": {
+       "ar": "الطرق الرئيسية",
+       "en": "Main roads, highways"
+      },
+      "lamp-power": {
+       "ar": "⁦20–200⁩ واط",
+       "en": "20–200 W"
+      },
+      "lamp-efficacy": {
+       "ar": "> ⁦180⁩ لومن/واط",
+       "en": "> 180 lm/W"
+      },
+      "solar-panel": {
+       "ar": "⁦60–720⁩ واط حسب الطلب",
+       "en": "60–720 W, to order"
+      },
+      "battery": {
+       "ar": "⁦LiFePO4⁩ بسعة حسب المشروع",
+       "en": "LiFePO4, sized to project"
+      },
+      "colour-temp": {
+       "ar": "⁦3000–6000⁩ كلفن",
+       "en": "3000–6000 K"
+      },
+      "pole-height": {
+       "ar": "⁦3–15⁩ م",
+       "en": "3–15 m"
+      },
+      "working-modes": {
+       "ar": "مؤقت · حساس حركة* · ⁦IoT⁩*",
+       "en": "Timer · motion* · IoT*"
+      },
+      "protection": {
+       "ar": "⁦IP65–IP66 / IK09⁩",
+       "en": "IP65–IP66 / IK09"
+      },
+      "operating-temp": {
+       "ar": "من ⁦-20⁩ إلى ⁦+65⁩ °م",
+       "en": "-20 to +65 °C"
+      },
+      "system-life": {
+       "ar": "> ⁦10⁩ سنوات",
+       "en": "> 10 years"
+      },
+      "panel-standards": {
+       "ar": "⁦IEC 61215 / 61730⁩",
+       "en": "IEC 61215 / 61730"
+      },
+      "options": {
+       "ar": "كاميرا · أشواك طاردة للطيور",
+       "en": "Camera · anti-bird spikes"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "mast",
+   "label": {
+    "ar": "برج إنارة شمسي",
+    "en": "Solar high mast"
+   },
+   "key": {
+    "ar": "صارٍ 6–30 م · 50–400 واط",
+    "en": "6–30 m mast · 50–400 W"
+   },
+   "keyRows": [
+    "colour-temp",
+    "operating-temp",
+    "protection"
+   ],
+   "models": [
+    {
+     "code": "BXS-0052-01-003",
+     "name": {
+      "ar": "أبراج ⁦6–30⁩ م · ⁦50–400⁩ واط",
+      "en": "6–30 m masts · 50–400 W"
+     },
+     "specs": {
+      "use": {
+       "ar": "الساحات والموانئ",
+       "en": "Squares, ports, yards"
+      },
+      "standard-version": {
+       "ar": "⁦50–200⁩ واط · صارٍ ⁦6–15⁩ م",
+       "en": "50–200 W · 6–15 m mast"
+      },
+      "large-version": {
+       "ar": "⁦250–400⁩ واط · صارٍ ⁦15–30⁩ م",
+       "en": "250–400 W · 15–30 m mast"
+      },
+      "lamp-efficacy": {
+       "ar": "> ⁦190⁩ لومن/واط",
+       "en": "> 190 lm/W"
+      },
+      "battery-max": {
+       "ar": "⁦LiFePO4 1,920 / 3,840⁩ واط ساعة",
+       "en": "LiFePO4 1,920 / 3,840 Wh"
+      },
+      "solar-panels": {
+       "ar": "⁦280–720⁩ واط حسب الطلب",
+       "en": "280–720 W, to order"
+      },
+      "colour-temp": {
+       "ar": "⁦3000–6000⁩ كلفن",
+       "en": "3000–6000 K"
+      },
+      "operation": {
+       "ar": "من الغروب إلى الشروق · مؤقت · ⁦IoT⁩*",
+       "en": "Dusk to dawn · timer · IoT*"
+      },
+      "protection": {
+       "ar": "⁦IP66 / IK09⁩",
+       "en": "IP66 / IK09"
+      },
+      "mast": {
+       "ar": "فولاذ مجلفن بالغمس الساخن",
+       "en": "Hot-dip galvanized steel"
+      },
+      "servicing": {
+       "ar": "عربة رفع وإنزال",
+       "en": "Raising & lowering carriage"
+      },
+      "operating-temp": {
+       "ar": "من ⁦-20⁩ إلى ⁦+65⁩ °م",
+       "en": "-20 to +65 °C"
+      },
+      "system-life": {
+       "ar": "> ⁦10⁩ سنوات",
+       "en": "> 10 years"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "flood",
+   "label": {
+    "ar": "كشاف فيضي شمسي",
+    "en": "Solar floodlight"
+   },
+   "key": {
+    "ar": "4–50 واط · حتى 8,000 لومن",
+    "en": "4–50 W · up to 8,000 lm"
+   },
+   "keyRows": [
+    "luminous-flux",
+    "mono-solar-panel",
+    "led"
+   ],
+   "models": [
+    {
+     "code": "BXS-0031-04-001",
+     "name": {
+      "ar": "⁦4–50⁩ واط فعلية · حتى ⁦8,000⁩ لومن",
+      "en": "4–50 W real power · up to 8,000 lm"
+     },
+     "specs": {
+      "use": {
+       "ar": "الساحات والبوابات والمزارع",
+       "en": "Yards, gates, farms"
+      },
+      "real-power": {
+       "ar": "⁦4–50⁩ واط (⁦8⁩ أحجام)",
+       "en": "4–50 W (8 sizes)"
+      },
+      "luminous-flux": {
+       "ar": "⁦640–8,000⁩ لومن",
+       "en": "640–8,000 lm"
+      },
+      "mono-solar-panel": {
+       "ar": "⁦6–120⁩ واط",
+       "en": "6–120 W"
+      },
+      "panels-25-50-w-sizes": {
+       "ar": "لوحان لكل كشاف",
+       "en": "Two panels per light"
+      },
+      "lifepo4-battery": {
+       "ar": "⁦3.2⁩ فولت, ⁦6–90⁩ أمبير ساعة",
+       "en": "3.2 V, 6–90 Ah"
+      },
+      "led": {
+       "ar": "⁦SMD5054, 30–169⁩ قطعة",
+       "en": "SMD5054, 30–169 pcs"
+      },
+      "lamp-size": {
+       "ar": "من ⁦210×170⁩ إلى ⁦348×322⁩ مم",
+       "en": "210×170 to 348×322 mm"
+      },
+      "housing": {
+       "ar": "ألومنيوم مصبوب + ⁦PC⁩",
+       "en": "Die-cast aluminium + PC"
+      },
+      "colour-temp": {
+       "ar": "⁦6500⁩ كلفن",
+       "en": "6500 K"
+      },
+      "working-mode": {
+       "ar": "إضاءة ثابتة",
+       "en": "Constant lighting"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "garden",
+   "label": {
+    "ar": "الحدائق والجدران",
+    "en": "Garden and wall lights"
+   },
+   "key": {
+    "ar": "500–1,000 لومن · بلا كابلات",
+    "en": "500–1,000 lm · no cabling"
+   },
+   "keyRows": [
+    "colour-temp",
+    "housing",
+    "charge-time"
+   ],
+   "models": [
+    {
+     "code": "BXS-0031-03-001",
+     "name": {
+      "ar": "⁦5⁩ واط · ⁦500⁩ لومن · ثلاثة ارتفاعات",
+      "en": "5 W · 500 lm · three heights"
+     },
+     "specs": {
+      "use": {
+       "ar": "الممرات والحدائق",
+       "en": "Paths, gardens, resorts"
+      },
+      "solar-panel": {
+       "ar": "⁦4.5⁩ واط / ⁦5⁩ فولت أحادي",
+       "en": "4.5 W / 5 V mono"
+      },
+      "lifepo4-battery": {
+       "ar": "⁦6⁩ أمبير ساعة / ⁦3.2⁩ فولت",
+       "en": "6 Ah / 3.2 V"
+      },
+      "led": {
+       "ar": "⁦5⁩ واط ⁦SMD2835, 500⁩ لومن",
+       "en": "5 W SMD2835, 500 lm"
+      },
+      "colour-temp": {
+       "ar": "⁦3000 / 4000 / 6000⁩ كلفن",
+       "en": "3000 / 4000 / 6000 K"
+      },
+      "charge-time": {
+       "ar": "⁦5–8⁩ ساعة",
+       "en": "5–8 h"
+      },
+      "lighting-mode": {
+       "ar": "ثابتة",
+       "en": "Constant"
+      },
+      "protection": {
+       "ar": "⁦IP65⁩",
+       "en": "IP65"
+      },
+      "housing": {
+       "ar": "ألومنيوم مصبوب + ⁦PC⁩",
+       "en": "Die-cast aluminium + PC"
+      },
+      "size": {
+       "ar": "⁦Ø230 × H300 / 600 / 800⁩ مم",
+       "en": "Ø230 × H300 / 600 / 800 mm"
+      }
+     }
+    },
+    {
+     "code": "BXS-0031-03-005",
+     "name": {
+      "ar": "⁦6.8⁩ واط · ⁦1,000⁩ لومن · رادار أو ⁦PIR⁩",
+      "en": "6.8 W · 1,000 lm · radar or PIR"
+     },
+     "specs": {
+      "use": {
+       "ar": "البوابات والأسوار",
+       "en": "Gates, fences, stores"
+      },
+      "solar-panel": {
+       "ar": "⁦3.2⁩ واط / ⁦5⁩ فولت أحادي",
+       "en": "3.2 W / 5 V mono"
+      },
+      "lithium-battery": {
+       "ar": "⁦4.5⁩ أمبير ساعة / ⁦3.2⁩ فولت",
+       "en": "4.5 Ah / 3.2 V"
+      },
+      "led": {
+       "ar": "⁦6.8⁩ واط, ⁦1,000⁩ لومن",
+       "en": "6.8 W, 1,000 lm"
+      },
+      "sensor": {
+       "ar": "رادار أو ⁦PIR⁩ (نسختان)",
+       "en": "Radar or PIR (2 versions)"
+      },
+      "mode-1-2": {
+       "ar": "حساس + خفوت / حساس + إطفاء",
+       "en": "Sensor + dim / sensor + off"
+      },
+      "mode-3-4": {
+       "ar": "ثابت / ⁦30⁩ دقيقة بقوة كاملة",
+       "en": "Constant / 30-min high"
+      },
+      "colour-temp": {
+       "ar": "⁦4000⁩ أو ⁦6500⁩ كلفن",
+       "en": "4000 or 6500 K"
+      },
+      "charge-time": {
+       "ar": "⁦6–8⁩ ساعة",
+       "en": "6–8 h"
+      },
+      "protection": {
+       "ar": "⁦IP65⁩",
+       "en": "IP65"
+      },
+      "housing": {
+       "ar": "سبيكة ألومنيوم",
+       "en": "Aluminium alloy"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "portable",
+   "label": {
+    "ar": "إنارة محمولة",
+    "en": "Portable lights"
+   },
+   "key": {
+    "ar": "مصباح وفانوسان · تشحن الهاتف",
+    "en": "A lamp and two lanterns · charge phones"
+   },
+   "intro": {
+    "ar": "مصابيح ببطاريات LiFePO4 قابلة للشحن تغني عن الشموع والكيروسين، والفانوسان يشحنان الهاتف المحمول أيضاً.",
+    "en": "Rechargeable LiFePO4 lights that replace candles and kerosene; the two lanterns also charge a mobile phone."
+   },
+   "keyRows": [
+    "solar-panel",
+    "light",
+    "phone"
+   ],
+   "models": [
+    {
+     "code": "BXS-0024-01-001",
+     "name": {
+      "ar": "مصباح شمسي مكتبي",
+      "en": "Solar desk lamp"
+     },
+     "specs": {
+      "use": {
+       "ar": "البيوت خارج الشبكة",
+       "en": "Off-grid homes"
+      },
+      "solar-panel": {
+       "ar": "⁦0.4⁩ واط",
+       "en": "0.4 W"
+      },
+      "lifepo4": {
+       "ar": "⁦3.2⁩ فولت · ⁦500⁩ ملي أمبير ساعة",
+       "en": "3.2 V · 500 mAh"
+      },
+      "light": {
+       "ar": "⁦0.5⁩ واط · مستويان",
+       "en": "0.5 W · 2 levels"
+      },
+      "runtime": {
+       "ar": "⁦4⁩ ساعات بقوة عالية · ⁦8⁩ ساعات منخفضة",
+       "en": "4 h high · 8 h low"
+      },
+      "phone": {
+       "ar": "⁦—⁩",
+       "en": "—"
+      },
+      "warranty": {
+       "ar": "⁦2⁩ سنوات",
+       "en": "2 years"
+      }
+     }
+    },
+    {
+     "code": "BXS-0024-01-007",
+     "name": {
+      "ar": "فانوس ⁦400⁩ لومن بحامل طويل",
+      "en": "400 lm lantern, tall stand"
+     },
+     "specs": {
+      "use": {
+       "ar": "البيوت خارج الشبكة",
+       "en": "Off-grid homes"
+      },
+      "solar-panel": {
+       "ar": "⁦5.5⁩ واط",
+       "en": "5.5 W"
+      },
+      "lifepo4": {
+       "ar": "⁦3.2⁩ فولت · ⁦6000⁩ ملي أمبير ساعة",
+       "en": "3.2 V · 6000 mAh"
+      },
+      "light": {
+       "ar": "⁦25 / 200 / 400⁩ لومن",
+       "en": "25 / 200 / 400 lm"
+      },
+      "runtime": {
+       "ar": "⁦105 / 13 / 6⁩ ساعة",
+       "en": "105 / 13 / 6 h"
+      },
+      "phone": {
+       "ar": "يشحن الهاتف",
+       "en": "Charges phone"
+      },
+      "warranty": {
+       "ar": "⁦2⁩ سنوات",
+       "en": "2 years"
+      }
+     }
+    },
+    {
+     "code": "BXS-0024-01-008",
+     "name": {
+      "ar": "فانوس °⁦360⁩ مع كشاف وإشارة ⁦SOS⁩",
+      "en": "360° lantern, torch & SOS"
+     },
+     "specs": {
+      "use": {
+       "ar": "البيوت خارج الشبكة",
+       "en": "Off-grid homes"
+      },
+      "solar-panel": {
+       "ar": "⁦2⁩ واط",
+       "en": "2 W"
+      },
+      "lifepo4": {
+       "ar": "⁦3.2⁩ فولت · ⁦6000⁩ ملي أمبير ساعة",
+       "en": "3.2 V · 6000 mAh"
+      },
+      "light": {
+       "ar": "⁦40–200⁩ لومن + كشاف يدوي",
+       "en": "40–200 lm + torch"
+      },
+      "runtime": {
+       "ar": "⁦63⁩ ساعة منخفضة · ⁦14⁩ ساعة بأقصى قوة",
+       "en": "63 h low · 14 h max."
+      },
+      "phone": {
+       "ar": "يشحن الهاتف",
+       "en": "Charges phone"
+      },
+      "warranty": {
+       "ar": "⁦1⁩ سنة",
+       "en": "1 year"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

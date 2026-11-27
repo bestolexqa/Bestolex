@@ -10236,5 +10236,2144 @@
         "ar": "آلات ومعدات ثقيلة ومتخصصة تُورَّد عند الطلب في قطر، ومنها شاحنات تزويد الطائرات بالوقود المستعملة. تواصل مع بيستوليكس لمعرفة التوفر."
       }
     }
+  },
+  {
+    "id": "energy-solutions",
+    "title": {
+      "ar": "حلول الطاقة",
+      "en": "Energy Solutions"
+    },
+    "image": "/categories/energy-solutions.webp",
+    "description": {
+      "ar": "الطاقة الشمسية للبيوت والأعمال والمشاريع: ألواح وإنارة وانفرترات وبطاريات وأنظمة متكاملة وهياكل، مع تحديد حجم النظام وتوريده بأطقم كاملة.",
+      "en": "Solar energy for homes, businesses and projects: panels, lighting, inverters, batteries, all-in-one systems and mounting, sized and supplied as complete kits."
+    },
+    "seo": {
+      "title": {
+        "ar": "حلول الطاقة الشمسية: ألواح وبطاريات وانفرترات",
+        "en": "Solar Energy Solutions: Panels, Batteries and Inverters"
+      },
+      "description": {
+        "ar": "حلول الطاقة من بيستوليكس: ألواح شمسية وإنارة وانفرترات وبطاريات LiFePO4 وأنظمة منزلية وتجارية وهياكل وسخانات شمسية. اطلب عرض سعر.",
+        "en": "Energy solutions from Bestolex: solar panels, lighting, inverters, LiFePO4 batteries, home and commercial systems, mounting and solar water heaters. Get a quote."
+      }
+    },
+    "subcategories": [
+      {
+        "id": "solar-energy",
+        "title": {
+          "ar": "الطاقة الشمسية",
+          "en": "Solar Energy"
+        },
+        "products": [
+          {
+            "id": "solar-panels",
+            "name": {
+              "ar": "الألواح الشمسية",
+              "en": "Solar Panels"
+            },
+            "coverImage": "/products/solar-panels/bxs-0063-01-009.webp",
+            "description": {
+              "ar": "ألواح شمسية من 5 إلى 740 واط للبيوت والمزارع والأعمال ومحطات الطاقة، بتقنيات PERC أحادية وN-Type TOPCon وثنائية الوجه، ومعها ألواح مرنة وصغيرة لأنظمة 12 فولت.\nلوح PERC هو الأقل تكلفة للواط في الأنظمة اليومية، وألواح N-Type أعلى كفاءة (حتى 24.27 %) من مساحة السطح نفسها، والألواح ثنائية الوجه بزجاج مزدوج تلتقط الضوء المنعكس من الخلف وتناسب المحطات الأرضية ومظلات السيارات والمواقع الصحراوية.\nنحدد حجم النظام مجاناً من أحمالكم، ونورّد أطقماً كاملة (ألواح وانفرتر وبطاريات وهياكل) بحاويات كاملة أو مختلطة مع الشحن إلى ميناء الوصول، ونرسل النشرات الفنية والشهادات عند الطلب، ونتابع الضمان مع المصنّع.",
+              "en": "Solar panels from 5 to 740 W for homes, farms, businesses and solar plants, in mono PERC, N-Type TOPCon and bifacial technology, plus flexible and small panels for 12 V systems.\nPERC gives the lowest cost per watt for everyday systems; N-Type panels get more out of the same roof area (up to 24.27 % efficiency); bifacial dual-glass panels also collect reflected light from the rear and suit ground plants, carports and desert sites.\nWe size the system free from your loads, supply complete kits (panels, inverter, batteries and mounting) in full or mixed containers with shipping to the destination port, send datasheets and certificates on request, and follow up warranty with the manufacturer."
+            },
+            "features": {
+              "ar": [
+                "من 5 إلى 740 واط في 9 منتجات",
+                "كفاءة حتى 24.27 % في لوح N-Type الأسود الكامل",
+                "ألواح ثنائية الوجه بزجاج مزدوج للمحطات الأرضية ومظلات السيارات",
+                "أنظمة حتى 1500 فولت DC",
+                "شهادات IEC 61215 وIEC 61730 حسب المصنّع",
+                "لوح مرن ينحني حتى 90° بسماكة 3 مم للقوارب والأسطح المنحنية",
+                "تعبئة جاهزة للحاويات: 620–962 لوحاً لحاوية 40HQ",
+                "أطقم كاملة مع الانفرترات والبطاريات والهياكل"
+              ],
+              "en": [
+                "5 to 740 W across 9 products",
+                "Up to 24.27 % efficiency on the full-black N-Type panel",
+                "Bifacial dual-glass panels for ground plants and carports",
+                "Systems up to 1500 V DC",
+                "IEC 61215 and IEC 61730 certification, manufacturer-stated",
+                "Flexible panel that bends up to 90°, 3 mm thin, for boats and curved roofs",
+                "Container-ready packing: 620–962 panels per 40HQ",
+                "Complete kits with inverters, batteries and mounting"
+              ]
+            },
+            "featureImages": [
+              {
+                "image": "/products/solar-panels/bxs-0114-02-003.webp",
+                "label": {
+                  "ar": "لوح أحادي ⁦PERC⁩ نصف خلية · ⁦400–420⁩ واط",
+                  "en": "Mono PERC panel · 400–420 W"
+                }
+              },
+              {
+                "image": "/products/solar-panels/bxs-0114-02-006.webp",
+                "label": {
+                  "ar": "لوح أحادي ⁦PERC⁩ نصف خلية · ⁦525–550⁩ واط",
+                  "en": "Mono PERC panel · 525–550 W"
+                }
+              },
+              {
+                "image": "/products/solar-panels/bxs-0063-01-003.webp",
+                "label": {
+                  "ar": "لوح ⁦N-Type TOPCon⁩ · ⁦440–460⁩ واط",
+                  "en": "N-Type TOPCon panel · 440–460 W"
+                }
+              },
+              {
+                "image": "/products/solar-panels/bxs-0063-01-009.webp",
+                "label": {
+                  "ar": "لوح ⁦N-Type TOPCon⁩ · ⁦585–605⁩ واط",
+                  "en": "N-Type TOPCon panel · 585–605 W"
+                }
+              },
+              {
+                "image": "/products/solar-panels/bxs-0063-01-002.webp",
+                "label": {
+                  "ar": "⁦N-Type⁩ أسود كامل · زجاج مزدوج",
+                  "en": "N-Type full-black panel"
+                }
+              },
+              {
+                "image": "/products/solar-panels/bxs-0087-01-001.webp",
+                "label": {
+                  "ar": "لوح ⁦N-Type TOPCon⁩ ثنائي الوجه",
+                  "en": "Bifacial TOPCon panel"
+                }
+              },
+              {
+                "image": "/products/solar-panels/bxs-0063-01-012.webp",
+                "label": {
+                  "ar": "لوح ⁦N-Type TOPCon⁩ ثنائي الوجه · ⁦210⁩ مم",
+                  "en": "Bifacial TOPCon panel, 210 mm"
+                }
+              },
+              {
+                "image": "/products/solar-panels/bxs-0075-01-004.webp",
+                "label": {
+                  "ar": "لوح مرن ⁦N-Type⁩",
+                  "en": "N-Type flexible panel"
+                }
+              },
+              {
+                "image": "/products/solar-panels/bxs-0066-01-015.webp",
+                "label": {
+                  "ar": "ألواح صغيرة ⁦12⁩ فولت",
+                  "en": "Small 12 V panels"
+                }
+              }
+            ],
+            "partsHeading": {
+              "kicker": {
+                "ar": "المنتجات",
+                "en": "Products"
+              },
+              "title": {
+                "ar": "9 منتجات في الكتالوج",
+                "en": "9 products in the catalogue"
+              },
+              "note": {
+                "ar": "اختر منتجاً لترى صورته. المواصفات الكاملة في الجدول أدناه.",
+                "en": "Pick a product to see it. Full specifications are in the table below."
+              }
+            },
+            "specs": {
+              "ar": [
+                {
+                  "label": "التقنيات",
+                  "value": "⁦PERC⁩ أحادية، و⁦N-Type TOPCon⁩، وثنائية الوجه، ومرنة، وصغيرة ⁦12⁩ فولت"
+                },
+                {
+                  "label": "نطاق القدرة",
+                  "value": "⁦5–740⁩ واط"
+                },
+                {
+                  "label": "أعلى كفاءة",
+                  "value": "⁦24.27 %⁩"
+                },
+                {
+                  "label": "أقصى جهد للنظام",
+                  "value": "⁦1500⁩ فولت ⁦DC⁩"
+                },
+                {
+                  "label": "الشهادات",
+                  "value": "⁦IEC 61215⁩ · ⁦IEC 61730⁩، حسب المصنّع"
+                },
+                {
+                  "label": "الضمان",
+                  "value": "حتى ⁦12⁩ سنة للمنتج و⁦30⁩ سنة للقدرة، حسب المصنّع"
+                },
+                {
+                  "label": "التعبئة",
+                  "value": "⁦620–962⁩ لوحاً لحاوية ⁦40HQ⁩"
+                },
+                {
+                  "label": "الكتالوج",
+                  "value": "⁦BXSC-01⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Technologies",
+                  "value": "Mono PERC, N-Type TOPCon, bifacial, flexible and small 12 V"
+                },
+                {
+                  "label": "Power range",
+                  "value": "5–740 W"
+                },
+                {
+                  "label": "Max. efficiency",
+                  "value": "24.27 %"
+                },
+                {
+                  "label": "Max. system voltage",
+                  "value": "1500 V DC"
+                },
+                {
+                  "label": "Certifications",
+                  "value": "IEC 61215 · IEC 61730, manufacturer-stated"
+                },
+                {
+                  "label": "Warranty",
+                  "value": "Up to 12 years product and 30 years power, manufacturer-stated"
+                },
+                {
+                  "label": "Packing",
+                  "value": "620–962 panels per 40HQ"
+                },
+                {
+                  "label": "Catalogue",
+                  "value": "BXSC-01"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/solar-panels/bxs-0063-01-009.webp",
+              "/products/solar-panels/bxs-0114-02-003.webp",
+              "/products/solar-panels/bxs-0114-02-006.webp",
+              "/products/solar-panels/bxs-0063-01-003.webp",
+              "/products/solar-panels/bxs-0063-01-002.webp",
+              "/products/solar-panels/bxs-0087-01-001.webp"
+            ],
+            "image": "/products/solar-panels/bxs-0063-01-009.webp",
+            "cardImage": "/products/solar-panels/bxs-0063-01-009.webp",
+            "seo": {
+              "title": {
+                "ar": "الألواح الشمسية: PERC وN-Type وثنائية الوجه",
+                "en": "Solar Panels: PERC, N-Type and Bifacial Modules"
+              },
+              "description": {
+                "ar": "ألواح شمسية من 5 إلى 740 واط بكفاءة حتى 24.27 %: PERC وN-Type TOPCon وثنائية الوجه ومرنة. توريد بأطقم كاملة. اطلب عرض سعر من بيستوليكس.",
+                "en": "Solar panels from 5 to 740 W with up to 24.27 % efficiency: PERC, N-Type TOPCon, bifacial and flexible. Supplied as complete kits. Get a quote from Bestolex."
+              }
+            },
+            "summary": {
+              "ar": "تسع منتجات في كتالوج الألواح: لوحا PERC للأسعار الاقتصادية، وثلاثة ألواح N-Type TOPCon منها لوح أسود كامل للفلل، ولوحان ثنائيا الوجه حتى 740 واط للمحطات، ولوح مرن ينحني حتى 90°، وألواح صغيرة 12 فولت بمقاس وجهد حسب الطلب. اختر من الجدول أدناه، وأرسل لنا أحمالك ومساحة السطح لنحدد عدد الألواح.",
+              "en": "Nine products in the panel catalogue: two PERC panels for the lowest cost, three N-Type TOPCon panels including a full-black panel for villas, two bifacial panels up to 740 W for solar plants, a flexible panel that bends up to 90°, and small 12 V panels in custom sizes and voltages. Pick from the table below, and send us your loads and roof area so we can size the array."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي لوح أختار للبيت أو الفيلا؟",
+                  "a": "لوح PERC بقدرة 400–420 واط هو الأقل تكلفة للبيوت والمحلات، ولوح N-Type بقدرة 440–460 واط بالمقاس المدمج نفسه وكفاءة أعلى. وللفلل التي يهمها المظهر لوح N-Type الأسود الكامل بقدرة 460–485 واط."
+                },
+                {
+                  "q": "متى أختار اللوح ثنائي الوجه؟",
+                  "a": "في المحطات الأرضية ومظلات السيارات والمواقع ذات الأرض الفاتحة، لأنه يلتقط الضوء المنعكس من الخلف. اللوح 715–740 واط يعطي 787–814 واط مع كسب خلفي 10 %، حسب بيانات المصنّع."
+                },
+                {
+                  "q": "كم لوحاً تتسع حاوية 40 قدماً؟",
+                  "a": "من 620 إلى 962 لوحاً حسب الموديل، والعدد مذكور لكل لوح في الجدول. ونورّد حاويات كاملة أو مختلطة مع الانفرترات والبطاريات والهياكل."
+                },
+                {
+                  "q": "ما الذي تحتاجونه لتحديد عدد الألواح؟",
+                  "a": "الأجهزة وقدرتها وساعات تشغيلها، وصور السطح أو مساحته، ووضع الشبكة في الموقع (متصل أم منفصل). ونحدد حجم النظام مجاناً."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which panel should I choose for a home or villa?",
+                  "a": "The 400–420 W PERC panel is the lowest-cost choice for homes and shops; the 440–460 W N-Type panel has the same compact size with higher efficiency. For villas where looks matter, the full-black 460–485 W N-Type panel."
+                },
+                {
+                  "q": "When should I choose a bifacial panel?",
+                  "a": "On ground plants, carports and light-coloured ground, because it collects reflected light from the rear. The 715–740 W panel gives 787–814 W with a 10 % rear gain, manufacturer-stated."
+                },
+                {
+                  "q": "How many panels fit in a 40-foot container?",
+                  "a": "620 to 962 depending on the model; the figure for each panel is in the table. We supply full or mixed containers with inverters, batteries and mounting."
+                },
+                {
+                  "q": "What do you need to size the array?",
+                  "a": "Your appliances, their power and running hours, roof photos or area, and the grid situation on site (on-grid or off-grid). We size the system free of charge."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦740⁩ واط",
+                  "label": "أعلى قدرة للوح"
+                },
+                {
+                  "value": "⁦24.27 %⁩",
+                  "label": "أعلى كفاءة"
+                },
+                {
+                  "value": "⁦9⁩",
+                  "label": "منتجات"
+                }
+              ],
+              "en": [
+                {
+                  "value": "740 W",
+                  "label": "Max. panel power"
+                },
+                {
+                  "value": "24.27 %",
+                  "label": "Max. efficiency"
+                },
+                {
+                  "value": "9",
+                  "label": "Products"
+                }
+              ]
+            },
+            "brochure": {
+              "url": "/brochures/Bestolex_BXSC-01_Solar-Panels.pdf",
+              "pages": 8
+            }
+          },
+          {
+            "id": "solar-lighting",
+            "name": {
+              "ar": "الإنارة الشمسية",
+              "en": "Solar Lighting"
+            },
+            "coverImage": "/products/solar-lighting/bxs-0052-01-006.webp",
+            "description": {
+              "ar": "إنارة شمسية للطرق والمجمعات والمزارع والمدارس والعيادات: كشافات شوارع متكاملة ومنفصلة، وأبراج إنارة حتى 30 م، وكشافات فيضية، وإنارة للحدائق والجدران، ومصابيح محمولة للبيوت خارج الشبكة.\nكل الكشافات تعمل ببطاريات LiFePO4 وتضيء تلقائياً عند الغروب. أرسل لنا عرض الطريق والمسافة بين الأعمدة وساعات الإضاءة المطلوبة، ونحدد الكشاف واللوح والبطارية لموقعك.\nنحدد حجم النظام مجاناً من أحمالكم، ونورّد أطقماً كاملة (ألواح وانفرتر وبطاريات وهياكل) بحاويات كاملة أو مختلطة مع الشحن إلى ميناء الوصول، ونرسل النشرات الفنية والشهادات عند الطلب، ونتابع الضمان مع المصنّع.",
+              "en": "Solar lighting for roads, compounds, farms, schools and clinics: all-in-one and split street lights, high masts up to 30 m, floodlights, garden and wall lights, and portable lamps for off-grid homes.\nEvery light runs on LiFePO4 batteries and switches on automatically at dusk. Send us the road width, pole spacing and lighting hours, and we size the lamp, panel and battery for your site.\nWe size the system free from your loads, supply complete kits (panels, inverter, batteries and mounting) in full or mixed containers with shipping to the destination port, send datasheets and certificates on request, and follow up warranty with the manufacturer."
+            },
+            "features": {
+              "ar": [
+                "من مصابيح 0.5 واط إلى أبراج 400 واط",
+                "كشاف شارع حتى 30,800 لومن",
+                "بطاريات LiFePO4 في كل الكشافات",
+                "تشغيل تلقائي من الغروب إلى الشروق، ومؤقت وحساس حركة",
+                "حماية IP65 إلى IP66 في كشافات الشوارع والحدائق",
+                "أبراج إنارة بصارٍ مجلفن حتى 30 م ونظام رفع وإنزال للصيانة من الأرض",
+                "تحديد الكشاف والبطارية حسب عرض الطريق والمسافة بين الأعمدة"
+              ],
+              "en": [
+                "From 0.5 W lamps to 400 W high masts",
+                "Street lights up to 30,800 lm",
+                "LiFePO4 batteries in every light",
+                "Automatic dusk-to-dawn operation, with timer and motion sensor",
+                "IP65 to IP66 protection on street and garden lights",
+                "Galvanised high masts up to 30 m with a raising and lowering system for servicing from the ground",
+                "Lamp and battery sized to your road width and pole spacing"
+              ]
+            },
+            "featureImages": [
+              {
+                "image": "/products/solar-lighting/bxs-0031-01-002.webp",
+                "label": {
+                  "ar": "كشاف شارع شمسي متكامل",
+                  "en": "All-in-one street light"
+                }
+              },
+              {
+                "image": "/products/solar-lighting/bxs-0052-01-002.webp",
+                "label": {
+                  "ar": "كشاف متكامل بلوح يتجه نحو الشمس",
+                  "en": "Sun-facing all-in-one light"
+                }
+              },
+              {
+                "image": "/products/solar-lighting/bxs-0052-01-001.webp",
+                "label": {
+                  "ar": "كشاف شارع شمسي ثنائي الأجزاء",
+                  "en": "All-in-two street light"
+                }
+              },
+              {
+                "image": "/products/solar-lighting/bxs-0052-01-006.webp",
+                "label": {
+                  "ar": "كشاف شارع شمسي منفصل",
+                  "en": "Split street light"
+                }
+              },
+              {
+                "image": "/products/solar-lighting/bxs-0052-01-003.webp",
+                "label": {
+                  "ar": "برج إنارة شمسي عالٍ",
+                  "en": "Solar high mast"
+                }
+              },
+              {
+                "image": "/products/solar-lighting/bxs-0031-04-001.webp",
+                "label": {
+                  "ar": "كشاف فيضي شمسي",
+                  "en": "Solar floodlight"
+                }
+              },
+              {
+                "image": "/products/solar-lighting/bxs-0031-03-001.webp",
+                "label": {
+                  "ar": "إنارة شمسية للممرات والحدائق",
+                  "en": "Lawn and bollard light"
+                }
+              },
+              {
+                "image": "/products/solar-lighting/bxs-0031-03-005.webp",
+                "label": {
+                  "ar": "إنارة جدارية شمسية بحساس حركة",
+                  "en": "Wall light with motion sensor"
+                }
+              },
+              {
+                "image": "/products/solar-lighting/bxs-0024-01-001.webp",
+                "label": {
+                  "ar": "مصباح شمسي مكتبي",
+                  "en": "Solar desk lamp"
+                }
+              },
+              {
+                "image": "/products/solar-lighting/bxs-0024-01-007.webp",
+                "label": {
+                  "ar": "فانوس ⁦400⁩ لومن بحامل طويل",
+                  "en": "400 lm lantern, tall stand"
+                }
+              },
+              {
+                "image": "/products/solar-lighting/bxs-0024-01-008.webp",
+                "label": {
+                  "ar": "فانوس °⁦360⁩ مع كشاف وإشارة ⁦SOS⁩",
+                  "en": "360° lantern, torch & SOS"
+                }
+              }
+            ],
+            "partsHeading": {
+              "kicker": {
+                "ar": "المنتجات",
+                "en": "Products"
+              },
+              "title": {
+                "ar": "11 منتجاً في الكتالوج",
+                "en": "11 products in the catalogue"
+              },
+              "note": {
+                "ar": "اختر منتجاً لترى صورته. المواصفات الكاملة في الجدول أدناه.",
+                "en": "Pick a product to see it. Full specifications are in the table below."
+              }
+            },
+            "specs": {
+              "ar": [
+                {
+                  "label": "الأنواع",
+                  "value": "كشافات شوارع متكاملة وثنائية الأجزاء ومنفصلة، وأبراج، وفيضية، وحدائق، وجدارية، ومحمولة"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦0.5–400⁩ واط"
+                },
+                {
+                  "label": "أعلى تدفق ضوئي",
+                  "value": "⁦30,800⁩ لومن"
+                },
+                {
+                  "label": "البطارية",
+                  "value": "⁦LiFePO4⁩"
+                },
+                {
+                  "label": "التشغيل",
+                  "value": "من الغروب إلى الشروق · مؤقت · حساس حركة"
+                },
+                {
+                  "label": "أقصى ارتفاع للبرج",
+                  "value": "⁦30⁩ م"
+                },
+                {
+                  "label": "الحماية",
+                  "value": "حتى ⁦IP66 / IK09⁩"
+                },
+                {
+                  "label": "الكتالوج",
+                  "value": "⁦BXSC-02⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Types",
+                  "value": "All-in-one, all-in-two and split street lights, high masts, floodlights, garden, wall and portable lights"
+                },
+                {
+                  "label": "Power",
+                  "value": "0.5–400 W"
+                },
+                {
+                  "label": "Max. luminous flux",
+                  "value": "30,800 lm"
+                },
+                {
+                  "label": "Battery",
+                  "value": "LiFePO4"
+                },
+                {
+                  "label": "Operation",
+                  "value": "Dusk to dawn · timer · motion sensor"
+                },
+                {
+                  "label": "Max. mast height",
+                  "value": "30 m"
+                },
+                {
+                  "label": "Protection",
+                  "value": "Up to IP66 / IK09"
+                },
+                {
+                  "label": "Catalogue",
+                  "value": "BXSC-02"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/solar-lighting/bxs-0052-01-006.webp",
+              "/products/solar-lighting/bxs-0031-01-002.webp",
+              "/products/solar-lighting/bxs-0052-01-002.webp",
+              "/products/solar-lighting/bxs-0052-01-001.webp",
+              "/products/solar-lighting/bxs-0052-01-003.webp",
+              "/products/solar-lighting/bxs-0031-04-001.webp"
+            ],
+            "image": "/products/solar-lighting/bxs-0052-01-006.webp",
+            "cardImage": "/products/solar-lighting/bxs-0052-01-006.webp",
+            "seo": {
+              "title": {
+                "ar": "الإنارة الشمسية: كشافات الشوارع وأبراج الإنارة",
+                "en": "Solar Lighting: Street Lights and High Masts"
+              },
+              "description": {
+                "ar": "إنارة شمسية ببطاريات LiFePO4: كشافات شوارع حتى 30,800 لومن، وأبراج حتى 30 م، وكشافات فيضية وحدائق ومحمولة. اطلب عرض سعر من بيستوليكس.",
+                "en": "Solar lighting on LiFePO4 batteries: street lights up to 30,800 lm, high masts up to 30 m, floodlights, garden and portable lights. Get a quote from Bestolex."
+              }
+            },
+            "summary": {
+              "ar": "أحد عشر منتجاً: كشاف شارع متكامل حتى 30,800 لومن، وكشاف متكامل بلوح يتجه نحو الشمس، وكشاف ثنائي الأجزاء، وكشاف منفصل حتى 200 واط للطرق الرئيسية، وبرج إنارة بصارٍ حتى 30 م، وكشاف فيضي، وإنارة للممرات والحدائق، وإنارة جدارية بحساس حركة، وثلاثة مصابيح محمولة. اختر من الجدول أدناه.",
+              "en": "Eleven products: an all-in-one street light up to 30,800 lm, an all-in-one light with a sun-facing panel, an all-in-two light, a split light up to 200 W for main roads, a high mast up to 30 m, a floodlight, path and garden lights, a wall light with a motion sensor, and three portable lamps. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين الكشاف المتكامل والمنفصل؟",
+                  "a": "المتكامل يجمع اللوح والبطارية والكشاف في وحدة واحدة، فهو الأسرع تركيباً للشوارع والمجمعات. والمنفصل بلوح وبطارية أكبر خارج الكشاف، للطرق الرئيسية والليالي الطويلة والمواسم الغائمة."
+                },
+                {
+                  "q": "كم ليلة يعمل الكشاف دون شمس؟",
+                  "a": "الكشاف المتكامل BXS-0031-01-002 مصمم لإضاءة 12 ساعة في الليلة، واحتياط 3–5 أيام ممطرة حسب بيانات المصنّع. وفي الكشافات الأخرى تُحدَّد البطارية حسب المشروع."
+                },
+                {
+                  "q": "كيف تُصان أبراج الإنارة العالية؟",
+                  "a": "البرج بنظام رفع وإنزال، فتُنزَّل الكشافات وتُصان من مستوى الأرض دون رافعة."
+                },
+                {
+                  "q": "ما الذي تحتاجونه لتحديد الكشاف؟",
+                  "a": "عرض الطريق، والمسافة بين الأعمدة وارتفاعها، وساعات الإضاءة في الليلة، وهل تريد حساس حركة أو تحكماً عن بعد."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the difference between an all-in-one and a split light?",
+                  "a": "The all-in-one light holds the panel, battery and lamp in one unit, so it is the fastest to install on streets and compounds. The split light has a larger panel and battery outside the lamp, for main roads, long nights and cloudy seasons."
+                },
+                {
+                  "q": "How many nights does a light run without sun?",
+                  "a": "The all-in-one light BXS-0031-01-002 is designed for 12 hours of lighting a night and 3–5 rainy days of backup, manufacturer-stated. For the other lights the battery is sized to the project."
+                },
+                {
+                  "q": "How are high masts serviced?",
+                  "a": "The mast has a raising and lowering carriage, so the lamps come down and are serviced from the ground without a crane."
+                },
+                {
+                  "q": "What do you need to size the light?",
+                  "a": "The road width, pole spacing and height, the lighting hours per night, and whether you want a motion sensor or remote control."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦30,800⁩ لومن",
+                  "label": "أعلى تدفق لكشاف الشارع"
+                },
+                {
+                  "value": "⁦30⁩ م",
+                  "label": "أقصى ارتفاع للبرج"
+                },
+                {
+                  "value": "⁦11⁩",
+                  "label": "منتجاً"
+                }
+              ],
+              "en": [
+                {
+                  "value": "30,800 lm",
+                  "label": "Max. street-light output"
+                },
+                {
+                  "value": "30 m",
+                  "label": "Max. mast height"
+                },
+                {
+                  "value": "11",
+                  "label": "Products"
+                }
+              ]
+            },
+            "brochure": {
+              "url": "/brochures/Bestolex_BXSC-02_Solar-Lighting.pdf",
+              "pages": 8
+            }
+          },
+          {
+            "id": "solar-inverters-controllers",
+            "name": {
+              "ar": "الانفرترات ومنظمات الشحن",
+              "en": "Inverters & Charge Controllers"
+            },
+            "coverImage": "/products/solar-inverters-controllers/bxs-0118-01-001.webp",
+            "description": {
+              "ar": "انفرترات هجينة ومنفصلة عن الشبكة وبموجة جيبية نقية، ومنظمات شحن MPPT وPWM، للبيوت والمزارع والمحلات والعيادات والمواقع.\nيحوّل الانفرتر تيار الألواح والبطاريات المستمر إلى التيار المتردد الذي تحتاجه أحمالكم: الهجين يعمل مع الشبكة والبطاريات معاً، والمنفصل يشغّل المواقع بلا شبكة، ومنظمات الشحن تحمي البطاريات في أنظمة التيار المستمر. أرسل لنا الأحمال وساعات التشغيل ووضع الشبكة، ونحدد الانفرتر والبطارية والألواح.\nنحدد حجم النظام مجاناً من أحمالكم، ونورّد أطقماً كاملة (ألواح وانفرتر وبطاريات وهياكل) بحاويات كاملة أو مختلطة مع الشحن إلى ميناء الوصول، ونرسل النشرات الفنية والشهادات عند الطلب، ونتابع الضمان مع المصنّع.",
+              "en": "Hybrid, off-grid and pure sine wave inverters with MPPT and PWM charge controllers for homes, farms, shops, clinics and sites.\nAn inverter turns battery and solar DC into the AC power your loads need: hybrid inverters work with the grid and batteries together, off-grid inverters run sites with no grid, and charge controllers protect batteries in DC systems. Send us your loads, running hours and grid situation, and we size the inverter, battery and panels.\nWe size the system free from your loads, supply complete kits (panels, inverter, batteries and mounting) in full or mixed containers with shipping to the destination port, send datasheets and certificates on request, and follow up warranty with the manufacturer."
+            },
+            "features": {
+              "ar": [
+                "انفرترات هجينة حتى 12 ك.و بكفاءة حتى 97.6 %",
+                "تشغيل متوازٍ حتى 16 وحدة في الانفرتر الهجين أحادي الطور",
+                "تعمل مع بطاريات الرصاص والليثيوم",
+                "قبول الشحن من مولد ديزل في الانفرترات الهجينة",
+                "شاشة لمس وتطبيق عبر Wi-Fi وهيكل IP65 في الطرازات الهجينة",
+                "منظمات MPPT حتى 80 أمبير وPWM حتى 60 أمبير",
+                "موجة جيبية نقية بتشوه أقل من 3 %"
+              ],
+              "en": [
+                "Hybrid inverters up to 12 kW with up to 97.6 % efficiency",
+                "Up to 16 units in parallel on the single-phase hybrid",
+                "Work with lead-acid and lithium batteries",
+                "Generator charging on the hybrid inverters",
+                "Touch screen, Wi-Fi app and IP65 enclosure on the hybrid models",
+                "MPPT controllers up to 80 A and PWM up to 60 A",
+                "Pure sine wave with under 3 % distortion"
+              ]
+            },
+            "featureImages": [
+              {
+                "image": "/products/solar-inverters-controllers/bxs-0118-01-001.webp",
+                "label": {
+                  "ar": "انفرتر هجين أحادي الطور",
+                  "en": "Single-phase hybrid inverter"
+                }
+              },
+              {
+                "image": "/products/solar-inverters-controllers/bxs-0118-01-009.webp",
+                "label": {
+                  "ar": "انفرتر هجين ثلاثي الطور",
+                  "en": "Three-phase hybrid inverter"
+                }
+              },
+              {
+                "image": "/products/solar-inverters-controllers/bxs-0161-01-013.webp",
+                "label": {
+                  "ar": "انفرتر شمسي منفصل مع منظم ⁦MPPT⁩",
+                  "en": "Off-grid inverter with MPPT"
+                }
+              },
+              {
+                "image": "/products/solar-inverters-controllers/bxs-0161-01-001.webp",
+                "label": {
+                  "ar": "انفرتر موجة جيبية نقية / شاحن",
+                  "en": "Pure sine inverter / charger"
+                }
+              },
+              {
+                "image": "/products/solar-inverters-controllers/bxs-0161-01-018.webp",
+                "label": {
+                  "ar": "منظم شحن شمسي ⁦MPPT⁩",
+                  "en": "MPPT charge controller"
+                }
+              },
+              {
+                "image": "/products/solar-inverters-controllers/bxs-0161-01-015.webp",
+                "label": {
+                  "ar": "منظم شحن ⁦PWM⁩ بشاشة ⁦LCD⁩",
+                  "en": "PWM charge controller"
+                }
+              }
+            ],
+            "partsHeading": {
+              "kicker": {
+                "ar": "المنتجات",
+                "en": "Products"
+              },
+              "title": {
+                "ar": "6 منتجات في الكتالوج",
+                "en": "6 products in the catalogue"
+              },
+              "note": {
+                "ar": "اختر منتجاً لترى صورته. المواصفات الكاملة في الجدول أدناه.",
+                "en": "Pick a product to see it. Full specifications are in the table below."
+              }
+            },
+            "specs": {
+              "ar": [
+                {
+                  "label": "الأنواع",
+                  "value": "هجين أحادي وثلاثي الطور، ومنفصل مع ⁦MPPT⁩، وموجة جيبية / شاحن، ومنظمات ⁦MPPT⁩ و⁦PWM⁩"
+                },
+                {
+                  "label": "قدرة الانفرترات",
+                  "value": "⁦0.4–12⁩ ك.و"
+                },
+                {
+                  "label": "أعلى كفاءة",
+                  "value": "⁦97.6 %⁩"
+                },
+                {
+                  "label": "جهد البطارية",
+                  "value": "⁦12 / 24 / 48⁩ فولت"
+                },
+                {
+                  "label": "التشغيل المتوازي",
+                  "value": "حتى ⁦16⁩ وحدة"
+                },
+                {
+                  "label": "تيار شحن المنظمات",
+                  "value": "⁦MPPT⁩ حتى ⁦80⁩ أمبير · ⁦PWM⁩ حتى ⁦60⁩ أمبير"
+                },
+                {
+                  "label": "الحماية",
+                  "value": "⁦IP65⁩ في الطرازات الهجينة"
+                },
+                {
+                  "label": "الكتالوج",
+                  "value": "⁦BXSC-03⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Types",
+                  "value": "Single- and three-phase hybrid, off-grid with MPPT, pure sine / charger, MPPT and PWM controllers"
+                },
+                {
+                  "label": "Inverter power",
+                  "value": "0.4–12 kW"
+                },
+                {
+                  "label": "Max. efficiency",
+                  "value": "97.6 %"
+                },
+                {
+                  "label": "Battery voltage",
+                  "value": "12 / 24 / 48 V"
+                },
+                {
+                  "label": "Parallel operation",
+                  "value": "Up to 16 units"
+                },
+                {
+                  "label": "Controller charge current",
+                  "value": "MPPT up to 80 A · PWM up to 60 A"
+                },
+                {
+                  "label": "Protection",
+                  "value": "IP65 on the hybrid models"
+                },
+                {
+                  "label": "Catalogue",
+                  "value": "BXSC-03"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/solar-inverters-controllers/bxs-0118-01-001.webp",
+              "/products/solar-inverters-controllers/bxs-0118-01-009.webp",
+              "/products/solar-inverters-controllers/bxs-0161-01-013.webp",
+              "/products/solar-inverters-controllers/bxs-0161-01-001.webp",
+              "/products/solar-inverters-controllers/bxs-0161-01-018.webp",
+              "/products/solar-inverters-controllers/bxs-0161-01-015.webp"
+            ],
+            "image": "/products/solar-inverters-controllers/bxs-0118-01-001.webp",
+            "cardImage": "/products/solar-inverters-controllers/bxs-0118-01-001.webp",
+            "seo": {
+              "title": {
+                "ar": "الانفرترات الشمسية ومنظمات الشحن MPPT",
+                "en": "Solar Inverters and MPPT Charge Controllers"
+              },
+              "description": {
+                "ar": "انفرترات هجينة حتى 12 ك.و بكفاءة 97.6 %، وانفرترات منفصلة وبموجة جيبية نقية، ومنظمات شحن MPPT وPWM. اطلب عرض سعر من بيستوليكس.",
+                "en": "Hybrid inverters up to 12 kW at 97.6 % efficiency, off-grid and pure sine inverters, and MPPT and PWM charge controllers. Get a quote from Bestolex."
+              }
+            },
+            "summary": {
+              "ar": "ستة منتجات: انفرتر هجين أحادي الطور 5–8 ك.و، وانفرتر هجين ثلاثي الطور 6–12 ك.و، وكلاهما ببطارية 48 فولت وتشغيل متوازٍ، وانفرتر منفصل بمنظم MPPT مدمج 1.8–6.2 ك.و، وانفرتر موجة جيبية نقية / شاحن 0.4–4 ك.و، ومنظم شحن MPPT حتى 80 أمبير، ومنظم PWM حتى 60 أمبير. اختر من الجدول أدناه.",
+              "en": "Six products: a 5–8 kW single-phase hybrid inverter and a 6–12 kW three-phase hybrid inverter, both on a 48 V battery with parallel operation; a 1.8–6.2 kW off-grid inverter with a built-in MPPT charger; a 0.4–4 kW pure sine inverter / charger; an MPPT controller up to 80 A; and a PWM controller up to 60 A. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين الانفرتر الهجين والمنفصل؟",
+                  "a": "الهجين يعمل مع الشبكة والبطاريات معاً ويخزّن الطاقة الشمسية ويقبل الشحن من المولد. والمنفصل يشغّل الموقع من الألواح والبطاريات دون شبكة، مع احتياط من الشبكة أو المولد إن توفر."
+                },
+                {
+                  "q": "أحادي الطور أم ثلاثي الطور؟",
+                  "a": "الأحادي (5–8 ك.و) للبيوت والعيادات والمحلات، والثلاثي (6–12 ك.و) للورش والمزارع والبيوت الكبيرة ذات الأحمال ثلاثية الطور، ويحمل كل طور حتى 50 % من القدرة المقننة."
+                },
+                {
+                  "q": "منظم MPPT أم PWM؟",
+                  "a": "منظم MPPT يتتبع نقطة القدرة القصوى للألواح فيشحن البطارية بطاقة أكبر، ويناسب أنظمة الإنارة والاتصالات والمضخات. ومنظم PWM اقتصادي للأنظمة المنزلية الصغيرة والإنارة."
+                },
+                {
+                  "q": "هل تعمل الانفرترات مع بطاريات الليثيوم؟",
+                  "a": "نعم، الانفرترات الهجينة والمنفصلة تعمل مع بطاريات الرصاص والليثيوم، ونطابقها مع بطاريات LiFePO4 من كتالوج البطاريات."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the difference between a hybrid and an off-grid inverter?",
+                  "a": "A hybrid inverter works with the grid and batteries together, stores solar energy and accepts generator charging. An off-grid inverter runs the site from panels and batteries with no grid, with grid or generator backup where available."
+                },
+                {
+                  "q": "Single-phase or three-phase?",
+                  "a": "Single-phase (5–8 kW) for homes, clinics and shops; three-phase (6–12 kW) for workshops, farms and large homes with three-phase loads, with up to 50 % of rated power on each phase."
+                },
+                {
+                  "q": "MPPT or PWM controller?",
+                  "a": "An MPPT controller tracks the panels' maximum power point and charges the battery with more solar energy; it suits lighting, telecom and pumping systems. A PWM controller is the economical choice for small home systems and lighting."
+                },
+                {
+                  "q": "Do the inverters work with lithium batteries?",
+                  "a": "Yes. The hybrid and off-grid inverters work with lead-acid and lithium batteries, and we match them with LiFePO4 batteries from our battery catalogue."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦12⁩ ك.و",
+                  "label": "أعلى قدرة للانفرتر الهجين"
+                },
+                {
+                  "value": "⁦97.6 %⁩",
+                  "label": "أعلى كفاءة"
+                },
+                {
+                  "value": "⁦16⁩ وحدة",
+                  "label": "تشغيل متوازٍ حتى"
+                }
+              ],
+              "en": [
+                {
+                  "value": "12 kW",
+                  "label": "Max. hybrid output"
+                },
+                {
+                  "value": "97.6 %",
+                  "label": "Max. efficiency"
+                },
+                {
+                  "value": "16 units",
+                  "label": "In parallel"
+                }
+              ]
+            },
+            "brochure": {
+              "url": "/brochures/Bestolex_BXSC-03_Inverters-Controllers.pdf",
+              "pages": 6
+            }
+          },
+          {
+            "id": "solar-batteries-storage",
+            "name": {
+              "ar": "البطاريات وتخزين الطاقة",
+              "en": "Batteries & Energy Storage"
+            },
+            "coverImage": "/products/solar-batteries-storage/bxs-0177-01-007.webp",
+            "description": {
+              "ar": "بطاريات ليثيوم LiFePO4 جدارية وأرضية وعالية الجهد، وبطاريات 12 و24 فولت بديلة للرصاص، للبيوت والمحلات والمزارع والعيادات والاتصالات والطاقة الاحتياطية.\nكل البطاريات بخلايا LiFePO4، أكثر كيمياء ليثيوم أماناً، مع نظام إدارة مدمج. اختر بطاريات 51.2 فولت الجدارية أو الأرضية لانفرترات 48 فولت، أو برجاً عالي الجهد للانفرترات الهجينة عالية الجهد، أو بطاريات 12 و24 فولت مكان بطاريات الرصاص. أخبرنا بالاستهلاك اليومي وساعات الاحتياط، ونحدد سعة البنك.\nنحدد حجم النظام مجاناً من أحمالكم، ونورّد أطقماً كاملة (ألواح وانفرتر وبطاريات وهياكل) بحاويات كاملة أو مختلطة مع الشحن إلى ميناء الوصول، ونرسل النشرات الفنية والشهادات عند الطلب، ونتابع الضمان مع المصنّع.",
+              "en": "LiFePO4 wall, floor-standing and high-voltage batteries, plus 12 and 24 V lead-acid replacements, for homes, shops, farms, clinics, telecom and backup power.\nEvery battery uses LiFePO4 cells, the safest lithium chemistry, with a built-in battery management system. Choose 51.2 V wall or floor batteries for 48 V inverters, a high-voltage stack for high-voltage hybrid inverters, or 12 and 24 V batteries in place of lead-acid. Tell us your daily consumption and backup hours, and we size the bank.\nWe size the system free from your loads, supply complete kits (panels, inverter, batteries and mounting) in full or mixed containers with shipping to the destination port, send datasheets and certificates on request, and follow up warranty with the manufacturer."
+            },
+            "features": {
+              "ar": [
+                "خلايا LiFePO4 مع نظام إدارة بطارية مدمج",
+                "من 1.28 إلى 61.44 ك.و.س",
+                "6,500 دورة للبطاريات الجدارية، حسب المصنّع",
+                "ضمان 10 سنوات للجدارية وعالية الجهد، حسب المصنّع",
+                "حتى 18 بطارية 51.2 فولت بالتوازي",
+                "نسخ داخلية IP20 وخارجية IP65",
+                "بديل مباشر لبطاريات الرصاص 12 و24 فولت"
+              ],
+              "en": [
+                "LiFePO4 cells with a built-in BMS",
+                "From 1.28 to 61.44 kWh",
+                "6,500 cycles on the wall batteries, manufacturer-stated",
+                "10-year warranty on the wall and high-voltage batteries, manufacturer-stated",
+                "Up to 18 batteries of 51.2 V in parallel",
+                "IP20 indoor and IP65 outdoor versions",
+                "Direct replacement for 12 and 24 V lead-acid batteries"
+              ]
+            },
+            "featureImages": [
+              {
+                "image": "/products/solar-batteries-storage/bxs-0177-01-001.webp",
+                "label": {
+                  "ar": "بطارية ليثيوم جدارية / قابلة للتكديس",
+                  "en": "Wall / stackable battery"
+                }
+              },
+              {
+                "image": "/products/solar-batteries-storage/bxs-0177-01-002.webp",
+                "label": {
+                  "ar": "بطارية جدارية خارجية · ⁦IP65⁩",
+                  "en": "Outdoor IP65 wall battery"
+                }
+              },
+              {
+                "image": "/products/solar-batteries-storage/bxs-0177-01-007.webp",
+                "label": {
+                  "ar": "بطارية أرضية بعجلات",
+                  "en": "Floor-standing battery"
+                }
+              },
+              {
+                "image": "/products/solar-batteries-storage/bxs-0177-01-010.webp",
+                "label": {
+                  "ar": "بطارية عالية الجهد قابلة للتكديس",
+                  "en": "High-voltage battery stack"
+                }
+              },
+              {
+                "image": "/products/solar-batteries-storage/bxs-0139-01-021.webp",
+                "label": {
+                  "ar": "بطارية ⁦LiFePO4 12⁩ فولت · بديل الرصاص",
+                  "en": "12 V LiFePO4 battery"
+                }
+              },
+              {
+                "image": "/products/solar-batteries-storage/bxs-0139-01-024.webp",
+                "label": {
+                  "ar": "بطارية ⁦LiFePO4 24⁩ فولت",
+                  "en": "24 V LiFePO4 battery"
+                }
+              }
+            ],
+            "partsHeading": {
+              "kicker": {
+                "ar": "المنتجات",
+                "en": "Products"
+              },
+              "title": {
+                "ar": "6 منتجات في الكتالوج",
+                "en": "6 products in the catalogue"
+              },
+              "note": {
+                "ar": "اختر منتجاً لترى صورته. المواصفات الكاملة في الجدول أدناه.",
+                "en": "Pick a product to see it. Full specifications are in the table below."
+              }
+            },
+            "specs": {
+              "ar": [
+                {
+                  "label": "الكيمياء",
+                  "value": "⁦LiFePO4⁩"
+                },
+                {
+                  "label": "السعة",
+                  "value": "⁦1.28–61.44⁩ ك.و.س"
+                },
+                {
+                  "label": "الجهد",
+                  "value": "⁦12.8 / 25.6 / 51.2⁩ فولت، و⁦102–614⁩ فولت للبرج عالي الجهد"
+                },
+                {
+                  "label": "عمر الدورات",
+                  "value": "حتى ⁦6,500⁩ دورة، حسب المصنّع"
+                },
+                {
+                  "label": "التوازي",
+                  "value": "حتى ⁦18⁩ وحدة ⁦51.2⁩ فولت"
+                },
+                {
+                  "label": "الحماية",
+                  "value": "⁦IP20⁩ أو ⁦IP65⁩"
+                },
+                {
+                  "label": "الضمان",
+                  "value": "⁦10⁩ سنوات للجدارية وعالية الجهد، حسب المصنّع"
+                },
+                {
+                  "label": "الكتالوج",
+                  "value": "⁦BXSC-04⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Chemistry",
+                  "value": "LiFePO4"
+                },
+                {
+                  "label": "Energy",
+                  "value": "1.28–61.44 kWh"
+                },
+                {
+                  "label": "Voltage",
+                  "value": "12.8 / 25.6 / 51.2 V, and 102–614 V for the high-voltage stack"
+                },
+                {
+                  "label": "Cycle life",
+                  "value": "Up to 6,500 cycles, manufacturer-stated"
+                },
+                {
+                  "label": "Parallel",
+                  "value": "Up to 18 units of 51.2 V"
+                },
+                {
+                  "label": "Protection",
+                  "value": "IP20 or IP65"
+                },
+                {
+                  "label": "Warranty",
+                  "value": "10 years on wall and high-voltage batteries, manufacturer-stated"
+                },
+                {
+                  "label": "Catalogue",
+                  "value": "BXSC-04"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/solar-batteries-storage/bxs-0177-01-007.webp",
+              "/products/solar-batteries-storage/bxs-0177-01-001.webp",
+              "/products/solar-batteries-storage/bxs-0177-01-002.webp",
+              "/products/solar-batteries-storage/bxs-0177-01-010.webp",
+              "/products/solar-batteries-storage/bxs-0139-01-021.webp",
+              "/products/solar-batteries-storage/bxs-0139-01-024.webp"
+            ],
+            "image": "/products/solar-batteries-storage/bxs-0177-01-007.webp",
+            "cardImage": "/products/solar-batteries-storage/bxs-0177-01-007.webp",
+            "seo": {
+              "title": {
+                "ar": "بطاريات الليثيوم LiFePO4 لتخزين الطاقة الشمسية",
+                "en": "LiFePO4 Lithium Batteries for Solar Storage"
+              },
+              "description": {
+                "ar": "بطاريات LiFePO4 جدارية وأرضية وعالية الجهد حتى 61.44 ك.و.س، وبطاريات 12 و24 فولت بديلة للرصاص. اطلب عرض سعر من بيستوليكس.",
+                "en": "LiFePO4 wall, floor-standing and high-voltage batteries up to 61.44 kWh, and 12 and 24 V lead-acid replacements. Get a quote from Bestolex."
+              }
+            },
+            "summary": {
+              "ar": "ستة منتجات: بطارية جدارية 5.12 ك.و.س قابلة للتكديس، وبطارية جدارية خارجية IP65 بسعة 6.24 ك.و.س، وبطارية أرضية بعجلات 16.08 ك.و.س، وبرج عالي الجهد 10.24–61.44 ك.و.س، وبطاريتا 12.8 و25.6 فولت. اختر من الجدول أدناه.",
+              "en": "Six products: a 5.12 kWh stackable wall battery, a 6.24 kWh IP65 outdoor wall battery, a 16.08 kWh floor-standing battery on wheels, a 10.24–61.44 kWh high-voltage stack, and 12.8 V and 25.6 V batteries. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا LiFePO4؟",
+                  "a": "لأنها أكثر كيمياء ليثيوم أماناً، وعمرها أطول بكثير من الرصاص: 6,500 دورة للبطاريات الجدارية حسب المصنّع، مع عمق تفريغ 95 % ونظام إدارة مدمج."
+                },
+                {
+                  "q": "أي بطارية تناسب انفرتر 48 فولت؟",
+                  "a": "البطاريات الجدارية (5.12 و6.24 ك.و.س) أو الأرضية (16.08 ك.و.س) بجهد 51.2 فولت، وتُضاف بالتوازي حتى 18 وحدة مع نمو الاستهلاك. أما الانفرترات الهجينة عالية الجهد فتحتاج البرج عالي الجهد."
+                },
+                {
+                  "q": "هل يمكن تركيب البطارية في الخارج؟",
+                  "a": "نعم، البطارية الجدارية BXS-0177-01-002 بهيكل IP65 للتركيب في الخارج وعلى الأسطح وجدران المواقع، والأرضية تتوفر بنسخة خارجية IP65."
+                },
+                {
+                  "q": "كيف تحددون سعة البطاريات؟",
+                  "a": "من استهلاككم اليومي بالكيلوواط ساعة وساعات الاحتياط المطلوبة ونوع الانفرتر. أرسل لنا فاتورة الكهرباء أو قائمة الأجهزة."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why LiFePO4?",
+                  "a": "It is the safest lithium chemistry and lasts far longer than lead-acid: 6,500 cycles on the wall batteries, manufacturer-stated, with 95 % depth of discharge and a built-in BMS."
+                },
+                {
+                  "q": "Which battery suits a 48 V inverter?",
+                  "a": "The 51.2 V wall batteries (5.12 and 6.24 kWh) or the floor-standing battery (16.08 kWh), added in parallel up to 18 units as consumption grows. High-voltage hybrid inverters need the high-voltage stack."
+                },
+                {
+                  "q": "Can the battery be installed outdoors?",
+                  "a": "Yes. The BXS-0177-01-002 wall battery has an IP65 enclosure for outdoor, rooftop and site walls, and the floor-standing battery comes in an IP65 outdoor version."
+                },
+                {
+                  "q": "How do you size the battery bank?",
+                  "a": "From your daily consumption in kWh, the backup hours you need and the inverter type. Send us your electricity bill or a list of appliances."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦61.44⁩ ك.و.س",
+                  "label": "أعلى سعة للبرج عالي الجهد"
+                },
+                {
+                  "value": "⁦6,500⁩ دورة",
+                  "label": "عمر البطارية الجدارية*"
+                },
+                {
+                  "value": "⁦18⁩ وحدة",
+                  "label": "بالتوازي (51.2 فولت)"
+                }
+              ],
+              "en": [
+                {
+                  "value": "61.44 kWh",
+                  "label": "Max. high-voltage stack"
+                },
+                {
+                  "value": "6,500 cycles",
+                  "label": "Wall battery cycle life*"
+                },
+                {
+                  "value": "18 units",
+                  "label": "In parallel (51.2 V)"
+                }
+              ]
+            },
+            "brochure": {
+              "url": "/brochures/Bestolex_BXSC-04_Batteries-Storage.pdf",
+              "pages": 6
+            }
+          },
+          {
+            "id": "solar-home-systems-portable",
+            "name": {
+              "ar": "الأنظمة المنزلية والمحمولة",
+              "en": "Home Systems & Portable Power"
+            },
+            "coverImage": "/products/solar-home-systems-portable/bxs-0139-01-014.webp",
+            "description": {
+              "ar": "أنظمة طاقة منزلية متكاملة، ومحطات طاقة محمولة، وألواح شمسية قابلة للطي، للبيوت والمحلات والعيادات والمواقع والمخيمات والفعاليات.\nالنظام المتكامل يجمع الانفرتر ومنظم الشحن الشمسي والبطارية في وحدة واحدة للبيوت والفلل والمحلات والعيادات. والمحطات المحمولة تحل محل المولدات الصغيرة في المواقع والفعاليات والمخيمات، وتُشحن من الكهرباء أو السيارة أو الألواح القابلة للطي. أخبرنا بما تريد تشغيله ولكم ساعة، ونقترح الحجم المناسب.\nنحدد حجم النظام مجاناً من أحمالكم، ونورّد أطقماً كاملة (ألواح وانفرتر وبطاريات وهياكل) بحاويات كاملة أو مختلطة مع الشحن إلى ميناء الوصول، ونرسل النشرات الفنية والشهادات عند الطلب، ونتابع الضمان مع المصنّع.",
+              "en": "All-in-one home energy systems, portable power stations and folding solar panels for homes, shops, clinics, sites, camps and events.\nAll-in-one systems combine inverter, solar charger and battery in one unit for homes, villas, shops and clinics. Portable power stations replace small generators at sites, events and camps, and charge from the grid, a car or folding panels. Tell us what you need to run and for how long, and we recommend the right size.\nWe size the system free from your loads, supply complete kits (panels, inverter, batteries and mounting) in full or mixed containers with shipping to the destination port, send datasheets and certificates on request, and follow up warranty with the manufacturer."
+            },
+            "features": {
+              "ar": [
+                "انفرتر ومنظم شحن وبطارية في وحدة واحدة",
+                "حتى 12 ك.و و16.08 ك.و.س في النظام المتكامل",
+                "نظام قابل للتكديس حتى 5 حزم بطاريات",
+                "محطات محمولة من 1,024 إلى 5,017 واط ساعة",
+                "قدرة خرج حتى 6,000 واط وذروة 12,000 واط في المحطة ذات العجلات",
+                "شحن من الكهرباء أو السيارة أو الألواح الشمسية",
+                "بطاريات LiFePO4 في كل الأنظمة"
+              ],
+              "en": [
+                "Inverter, charger and battery in one unit",
+                "Up to 12 kW and 16.08 kWh in the all-in-one system",
+                "Stackable system with up to 5 battery packs",
+                "Portable stations from 1,024 to 5,017 Wh",
+                "Up to 6,000 W output and 12,000 W peak on the wheeled station",
+                "Charge from the grid, a car or solar panels",
+                "LiFePO4 batteries throughout"
+              ]
+            },
+            "featureImages": [
+              {
+                "image": "/products/solar-home-systems-portable/bxs-0139-01-026.webp",
+                "label": {
+                  "ar": "نظام منزلي هجين متكامل",
+                  "en": "All-in-one hybrid system"
+                }
+              },
+              {
+                "image": "/products/solar-home-systems-portable/bxs-0139-01-025.webp",
+                "label": {
+                  "ar": "نظام منزلي متكامل قابل للتكديس",
+                  "en": "Stackable all-in-one system"
+                }
+              },
+              {
+                "image": "/products/solar-home-systems-portable/bxs-0139-01-004.webp",
+                "label": {
+                  "ar": "محطة طاقة محمولة",
+                  "en": "Portable power station"
+                }
+              },
+              {
+                "image": "/products/solar-home-systems-portable/bxs-0139-01-014.webp",
+                "label": {
+                  "ar": "محطة محمولة عالية القدرة",
+                  "en": "High-power portable station"
+                }
+              },
+              {
+                "image": "/products/solar-home-systems-portable/bxs-0139-01-019.webp",
+                "label": {
+                  "ar": "محطة طاقة بعجلات · هيكل معدني",
+                  "en": "Wheeled power station"
+                }
+              },
+              {
+                "image": "/products/solar-home-systems-portable/bxs-0139-01-029.webp",
+                "label": {
+                  "ar": "لوح شمسي قابل للطي",
+                  "en": "Folding solar panel"
+                }
+              }
+            ],
+            "partsHeading": {
+              "kicker": {
+                "ar": "المنتجات",
+                "en": "Products"
+              },
+              "title": {
+                "ar": "6 منتجات في الكتالوج",
+                "en": "6 products in the catalogue"
+              },
+              "note": {
+                "ar": "اختر منتجاً لترى صورته. المواصفات الكاملة في الجدول أدناه.",
+                "en": "Pick a product to see it. Full specifications are in the table below."
+              }
+            },
+            "specs": {
+              "ar": [
+                {
+                  "label": "الأنواع",
+                  "value": "نظام هجين متكامل، ونظام قابل للتكديس، ومحطات محمولة، ولوح قابل للطي"
+                },
+                {
+                  "label": "قدرة الأنظمة المنزلية",
+                  "value": "⁦6–12⁩ ك.و"
+                },
+                {
+                  "label": "سعة الأنظمة المنزلية",
+                  "value": "⁦5.12–25.6⁩ ك.و.س"
+                },
+                {
+                  "label": "سعة المحطات المحمولة",
+                  "value": "⁦1,024–5,017⁩ واط ساعة"
+                },
+                {
+                  "label": "خرج المحطات المحمولة",
+                  "value": "⁦1,200–6,000⁩ واط"
+                },
+                {
+                  "label": "البطارية",
+                  "value": "⁦LiFePO4⁩"
+                },
+                {
+                  "label": "الكتالوج",
+                  "value": "⁦BXSC-05⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Types",
+                  "value": "All-in-one hybrid, stackable all-in-one, portable stations and a folding panel"
+                },
+                {
+                  "label": "Home system power",
+                  "value": "6–12 kW"
+                },
+                {
+                  "label": "Home system storage",
+                  "value": "5.12–25.6 kWh"
+                },
+                {
+                  "label": "Portable capacity",
+                  "value": "1,024–5,017 Wh"
+                },
+                {
+                  "label": "Portable output",
+                  "value": "1,200–6,000 W"
+                },
+                {
+                  "label": "Battery",
+                  "value": "LiFePO4"
+                },
+                {
+                  "label": "Catalogue",
+                  "value": "BXSC-05"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/solar-home-systems-portable/bxs-0139-01-014.webp",
+              "/products/solar-home-systems-portable/bxs-0139-01-026.webp",
+              "/products/solar-home-systems-portable/bxs-0139-01-025.webp",
+              "/products/solar-home-systems-portable/bxs-0139-01-004.webp",
+              "/products/solar-home-systems-portable/bxs-0139-01-019.webp",
+              "/products/solar-home-systems-portable/bxs-0139-01-029.webp"
+            ],
+            "image": "/products/solar-home-systems-portable/bxs-0139-01-014.webp",
+            "cardImage": "/products/solar-home-systems-portable/bxs-0139-01-014.webp",
+            "seo": {
+              "title": {
+                "ar": "أنظمة الطاقة الشمسية المنزلية ومحطات الطاقة المحمولة",
+                "en": "Solar Home Systems and Portable Power Stations"
+              },
+              "description": {
+                "ar": "أنظمة طاقة منزلية متكاملة حتى 12 ك.و و16.08 ك.و.س، ومحطات طاقة محمولة حتى 5,017 واط ساعة، وألواح قابلة للطي. اطلب عرض سعر من بيستوليكس.",
+                "en": "All-in-one home energy systems up to 12 kW and 16.08 kWh, portable power stations up to 5,017 Wh and folding panels. Get a quote from Bestolex."
+              }
+            },
+            "summary": {
+              "ar": "ستة منتجات: نظام هجين متكامل 12 ك.و بسعة 16.08 ك.و.س، ونظام قابل للتكديس 6 ك.و يبدأ بحزمة 5.12 ك.و.س ويصل إلى 25.6 ك.و.س، وثلاث محطات محمولة من 1,024 إلى 5,017 واط ساعة، ولوح شمسي قابل للطي 200 واط. اختر من الجدول أدناه.",
+              "en": "Six products: a 12 kW all-in-one hybrid system with 16.08 kWh, a 6 kW stackable system that starts at one 5.12 kWh pack and grows to 25.6 kWh, three portable power stations from 1,024 to 5,017 Wh, and a 200 W folding solar panel. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين النظام المتكامل والقابل للتكديس؟",
+                  "a": "المتكامل (12 ك.و) يجمع الانفرتر ومنظمي MPPT وبطارية 16.08 ك.و.س في خزانة واحدة بعجلات. والقابل للتكديس (6 ك.و) يبدأ بحزمة بطارية واحدة 5.12 ك.و.س وتضيف حتى خمس حزم مع نمو الاستهلاك."
+                },
+                {
+                  "q": "هل تغني المحطة المحمولة عن المولد؟",
+                  "a": "في الأحمال الصغيرة والمتوسطة نعم: المحطة ذات العجلات تعطي 6,000 واط وذروة 12,000 واط من بطارية 5,017 واط ساعة، بلا ضجيج ولا عوادم، وتُشحن من الكهرباء أو الألواح."
+                },
+                {
+                  "q": "كيف تُشحن المحطات المحمولة؟",
+                  "a": "من الكهرباء، ومن مقبس السيارة، ومن الألواح الشمسية حتى 400 واط في المحطة الصغيرة و1,600 واط في المحطة عالية القدرة. واللوح القابل للطي 200 واط يشحنها في الميدان."
+                },
+                {
+                  "q": "ما الذي تحتاجونه لاقتراح الحجم؟",
+                  "a": "قائمة الأجهزة التي تريد تشغيلها وقدرتها، وعدد ساعات التشغيل، وهل الشبكة متوفرة في الموقع."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the difference between the all-in-one and the stackable system?",
+                  "a": "The all-in-one (12 kW) puts the inverter, two MPPT chargers and a 16.08 kWh battery in one wheeled cabinet. The stackable system (6 kW) starts with one 5.12 kWh battery pack and grows to five packs as consumption rises."
+                },
+                {
+                  "q": "Can a portable station replace a generator?",
+                  "a": "For small and medium loads, yes: the wheeled station gives 6,000 W and 12,000 W peak from a 5,017 Wh battery, with no noise or fumes, and charges from the grid or panels."
+                },
+                {
+                  "q": "How are the portable stations charged?",
+                  "a": "From the grid, a car socket, and solar panels up to 400 W on the small station and 1,600 W on the high-power station. The 200 W folding panel charges them in the field."
+                },
+                {
+                  "q": "What do you need to recommend a size?",
+                  "a": "The appliances you want to run and their power, the running hours, and whether the grid is available on site."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦16.08⁩ ك.و.س",
+                  "label": "أعلى سعة للنظام المتكامل"
+                },
+                {
+                  "value": "⁦12⁩ ك.و",
+                  "label": "أعلى قدرة هجينة"
+                },
+                {
+                  "value": "⁦5,017⁩ واط ساعة",
+                  "label": "أعلى سعة محمولة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "16.08 kWh",
+                  "label": "Max. all-in-one storage"
+                },
+                {
+                  "value": "12 kW",
+                  "label": "Max. hybrid output"
+                },
+                {
+                  "value": "5,017 Wh",
+                  "label": "Max. portable capacity"
+                }
+              ]
+            },
+            "brochure": {
+              "url": "/brochures/Bestolex_BXSC-05_Home-Systems-Portable.pdf",
+              "pages": 6
+            }
+          },
+          {
+            "id": "solar-mounting-cables-protection",
+            "name": {
+              "ar": "هياكل التثبيت والكابلات والحماية",
+              "en": "Mounting, Cables & Protection"
+            },
+            "coverImage": "/products/solar-mounting-cables-protection/bxs-0020-01-008.webp",
+            "description": {
+              "ar": "هياكل تثبيت للأسطح المعدنية والخرسانية والأرض ومظلات السيارات، مع كابلات الألواح وقواطع العزل والموصلات والفيوزات: كل ما يكمل النظام الشمسي بعد الألواح والانفرتر.\nالهيكل يحمل الألواح 25 سنة من الشمس والرياح والغبار، والكابلات والحماية تحفظ سلامة النظام. نورّد أطقماً متطابقة للأسطح المعدنية والخرسانية والأرض المفتوحة والمواقف، مع كابل DC والموصلات والقواطع والفيوزات. أرسل لنا صور السطح أو مخطط الموقع، ونجهز التوزيع وقائمة المواد.\nنحدد حجم النظام مجاناً من أحمالكم، ونورّد أطقماً كاملة (ألواح وانفرتر وبطاريات وهياكل) بحاويات كاملة أو مختلطة مع الشحن إلى ميناء الوصول، ونرسل النشرات الفنية والشهادات عند الطلب، ونتابع الضمان مع المصنّع.",
+              "en": "Mounting structures for metal roofs, concrete roofs, open ground and carports, with PV cable, DC isolators, connectors and fuses: the balance of system that completes every solar project.\nThe structure holds the panels through 25 years of sun, wind and dust, and the cables and protection keep the system safe. We supply matched kits for metal roofs, concrete roofs, open ground and car parks, with the DC cable, connectors, isolators and fuses. Send us roof photos or a site plan, and we prepare the layout and bill of materials.\nWe size the system free from your loads, supply complete kits (panels, inverter, batteries and mounting) in full or mixed containers with shipping to the destination port, send datasheets and certificates on request, and follow up warranty with the manufacturer."
+            },
+            "features": {
+              "ar": [
+                "هياكل للأسطح المعدنية والخرسانية والأرض والمواقف",
+                "ألومنيوم 6005-T5 ومثبتات ستانلس SUS304",
+                "سرعة رياح تصميمية حتى 60 م/ث للأسطح، حسب المصنّع",
+                "مظلة سيارات بقضبان مانعة للماء ومزاريب",
+                "كابل H1Z2Z2-K بجهد 1.5 ك.ف DC من النحاس المقصدر",
+                "قاطع عزل DC حتى 1,200 فولت يقفل في وضع الإيقاف",
+                "موصلات MC4 بحماية IP67 وفيوزات gPV حتى 1,500 فولت",
+                "قائمة مواد وتوزيع من صور السطح أو مخطط الموقع"
+              ],
+              "en": [
+                "Structures for metal roofs, concrete roofs, open ground and car parks",
+                "6005-T5 aluminium with SUS304 stainless fasteners",
+                "Design wind speed up to 60 m/s on roofs, manufacturer-stated",
+                "Carport with waterproof rails and gutters",
+                "1.5 kV DC H1Z2Z2-K cable in tinned copper",
+                "DC isolator up to 1,200 V, lockable in the OFF position",
+                "IP67 MC4 connectors and gPV fuses up to 1,500 V",
+                "Layout and bill of materials from roof photos or a site plan"
+              ]
+            },
+            "featureImages": [
+              {
+                "image": "/products/solar-mounting-cables-protection/bxs-0020-01-010.webp",
+                "label": {
+                  "ar": "نظام تثبيت للأسطح المعدنية",
+                  "en": "Metal-roof mounting"
+                }
+              },
+              {
+                "image": "/products/solar-mounting-cables-protection/bxs-0020-01-016.webp",
+                "label": {
+                  "ar": "نظام تثبيت للأسطح المستوية",
+                  "en": "Flat-roof mounting"
+                }
+              },
+              {
+                "image": "/products/solar-mounting-cables-protection/bxs-0020-01-003.webp",
+                "label": {
+                  "ar": "نظام تثبيت أرضي من الألومنيوم",
+                  "en": "Aluminium ground mounting"
+                }
+              },
+              {
+                "image": "/products/solar-mounting-cables-protection/bxs-0020-01-008.webp",
+                "label": {
+                  "ar": "مظلة سيارات شمسية مانعة للماء",
+                  "en": "Waterproof solar carport"
+                }
+              },
+              {
+                "image": "/products/solar-mounting-cables-protection/bxs-0018-01-001.webp",
+                "label": {
+                  "ar": "كابل ألواح شمسية ⁦H1Z2Z2-K⁩",
+                  "en": "PV cable H1Z2Z2-K"
+                }
+              },
+              {
+                "image": "/products/solar-mounting-cables-protection/bxs-0074-03-001.webp",
+                "label": {
+                  "ar": "قاطع عزل تيار مستمر",
+                  "en": "DC isolator switch"
+                }
+              },
+              {
+                "image": "/products/solar-mounting-cables-protection/bxs-0074-04-001.webp",
+                "label": {
+                  "ar": "موصل تيار مستمر من نوع ⁦MC4⁩",
+                  "en": "MC4-type solar DC connector"
+                }
+              },
+              {
+                "image": "/products/solar-mounting-cables-protection/bxs-0074-02-001.webp",
+                "label": {
+                  "ar": "فيوز ألواح شمسية ⁦gPV⁩",
+                  "en": "gPV photovoltaic fuse link"
+                }
+              }
+            ],
+            "partsHeading": {
+              "kicker": {
+                "ar": "المنتجات",
+                "en": "Products"
+              },
+              "title": {
+                "ar": "8 منتجات في الكتالوج",
+                "en": "8 products in the catalogue"
+              },
+              "note": {
+                "ar": "اختر منتجاً لترى صورته. المواصفات الكاملة في الجدول أدناه.",
+                "en": "Pick a product to see it. Full specifications are in the table below."
+              }
+            },
+            "specs": {
+              "ar": [
+                {
+                  "label": "الهياكل",
+                  "value": "أسطح معدنية، وأسطح مستوية، وتثبيت أرضي، ومظلات سيارات"
+                },
+                {
+                  "label": "المادة",
+                  "value": "ألومنيوم ⁦6005-T5⁩ · ستانلس ⁦SUS304⁩"
+                },
+                {
+                  "label": "سرعة الرياح التصميمية",
+                  "value": "حتى ⁦60⁩ م/ث للأسطح، حسب المصنّع"
+                },
+                {
+                  "label": "كابل الألواح",
+                  "value": "⁦H1Z2Z2-K⁩ · ⁦1.5⁩ ك.ف ⁦DC⁩ · ⁦2.5–35⁩ مم²"
+                },
+                {
+                  "label": "قاطع العزل",
+                  "value": "⁦32⁩ أمبير · ⁦1,000 / 1,200⁩ فولت ⁦DC⁩"
+                },
+                {
+                  "label": "الموصلات والفيوزات",
+                  "value": "⁦MC4⁩ بحماية ⁦IP67⁩ · فيوزات ⁦gPV⁩ حتى ⁦1,500⁩ فولت ⁦DC⁩"
+                },
+                {
+                  "label": "الكتالوج",
+                  "value": "⁦BXSC-06⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Structures",
+                  "value": "Metal roofs, flat roofs, ground mounting and carports"
+                },
+                {
+                  "label": "Material",
+                  "value": "6005-T5 aluminium · SUS304 stainless"
+                },
+                {
+                  "label": "Design wind speed",
+                  "value": "Up to 60 m/s on roofs, manufacturer-stated"
+                },
+                {
+                  "label": "PV cable",
+                  "value": "H1Z2Z2-K · 1.5 kV DC · 2.5–35 mm²"
+                },
+                {
+                  "label": "DC isolator",
+                  "value": "32 A · 1,000 / 1,200 V DC"
+                },
+                {
+                  "label": "Connectors and fuses",
+                  "value": "IP67 MC4 · gPV fuses up to 1,500 V DC"
+                },
+                {
+                  "label": "Catalogue",
+                  "value": "BXSC-06"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/solar-mounting-cables-protection/bxs-0020-01-008.webp",
+              "/products/solar-mounting-cables-protection/bxs-0020-01-010.webp",
+              "/products/solar-mounting-cables-protection/bxs-0020-01-016.webp",
+              "/products/solar-mounting-cables-protection/bxs-0020-01-003.webp",
+              "/products/solar-mounting-cables-protection/bxs-0018-01-001.webp",
+              "/products/solar-mounting-cables-protection/bxs-0074-03-001.webp"
+            ],
+            "image": "/products/solar-mounting-cables-protection/bxs-0020-01-008.webp",
+            "cardImage": "/products/solar-mounting-cables-protection/bxs-0020-01-008.webp",
+            "seo": {
+              "title": {
+                "ar": "هياكل تثبيت الألواح الشمسية والكابلات والحماية",
+                "en": "Solar Mounting Structures, PV Cables and Protection"
+              },
+              "description": {
+                "ar": "هياكل ألومنيوم للأسطح والأرض ومظلات السيارات الشمسية، وكابلات H1Z2Z2-K وقواطع عزل DC وموصلات MC4 وفيوزات gPV. اطلب عرض سعر من بيستوليكس.",
+                "en": "Aluminium structures for roofs, ground and solar carports, with H1Z2Z2-K cable, DC isolators, MC4 connectors and gPV fuses. Get a quote from Bestolex."
+              }
+            },
+            "summary": {
+              "ar": "ثمانية منتجات: نظام تثبيت للأسطح المعدنية، ونظام للأسطح المستوية بحوامل مثلثة أو بالأثقال بلا ثقب، ونظام أرضي من الألومنيوم يورَّد مجمّعاً مسبقاً، ومظلة سيارات شمسية مانعة للماء، وكابل ألواح H1Z2Z2-K بجهد 1.5 ك.ف، وقاطع عزل DC حتى 1,200 فولت، وموصلات MC4، وفيوزات gPV. اختر من الجدول أدناه.",
+              "en": "Eight products: a metal-roof mounting system, a flat-roof system with triangle brackets or no-drill ballast, a pre-assembled aluminium ground system, a waterproof solar carport, 1.5 kV H1Z2Z2-K PV cable, a DC isolator up to 1,200 V, MC4 connectors and gPV fuses. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي هيكل يناسب سطحي؟",
+                  "a": "السطح المعدني (صاج مموج أو شبه منحرف) يحتاج قضباناً ومشابك سقف، والسطح الخرساني يحتاج حوامل مثلثة ثابتة أو نسخة بالأثقال بلا ثقب تحافظ على عزل السطح. وللأرض المفتوحة النظام الأرضي على براغي أو أوتاد خرسانية."
+                },
+                {
+                  "q": "هل تصلح مظلة السيارات الشمسية للمواقف المكشوفة؟",
+                  "a": "نعم، المظلة بقضبان مانعة للماء ومزاريب تحمي السيارات من الشمس والمطر بينما يولّد السقف الكهرباء، للمكاتب والمراكز التجارية والمستشفيات والفلل."
+                },
+                {
+                  "q": "لماذا كابل الألواح الخاص بدل الكابل العادي؟",
+                  "a": "كابل H1Z2Z2-K مصنوع للتيار المستمر بين الألواح والانفرتر: نحاس مقصدر، ومقاوم للأشعة فوق البنفسجية والأوزون، وخالٍ من الهالوجين، بعمر متوقع 25 سنة حسب المصنّع."
+                },
+                {
+                  "q": "ما الذي تحتاجونه لتجهيز قائمة المواد؟",
+                  "a": "صور السطح أو مخطط الموقع، ونوع السطح، وعدد الألواح ومقاسها أو القدرة المطلوبة، ومكان الانفرتر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which structure suits my roof?",
+                  "a": "A metal roof (corrugated or trapezoidal sheet) needs rails and roof clamps; a concrete roof needs fixed triangle brackets or the no-drill ballast version that keeps the roof waterproofing intact. Open ground takes the ground system on screws or concrete piles."
+                },
+                {
+                  "q": "Does the solar carport suit open car parks?",
+                  "a": "Yes. Its waterproof rails and gutters shelter cars from sun and rain while the roof generates power, for offices, malls, hospitals and villas."
+                },
+                {
+                  "q": "Why a dedicated PV cable instead of ordinary cable?",
+                  "a": "H1Z2Z2-K cable is made for DC between panels and inverter: tinned copper, UV- and ozone-resistant, halogen-free, with a 25-year expected life, manufacturer-stated."
+                },
+                {
+                  "q": "What do you need for the bill of materials?",
+                  "a": "Roof photos or a site plan, the roof type, the number and size of panels or the target power, and where the inverter will go."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦6005-T5⁩",
+                  "label": "سبيكة الألومنيوم"
+                },
+                {
+                  "value": "⁦1.5⁩ ك.ف",
+                  "label": "جهد كابل الألواح"
+                },
+                {
+                  "value": "⁦1,200⁩ فولت",
+                  "label": "جهد قاطع العزل"
+                }
+              ],
+              "en": [
+                {
+                  "value": "6005-T5",
+                  "label": "Aluminium alloy"
+                },
+                {
+                  "value": "1.5 kV",
+                  "label": "PV cable rating"
+                },
+                {
+                  "value": "1,200 V",
+                  "label": "Isolator rating"
+                }
+              ]
+            },
+            "brochure": {
+              "url": "/brochures/Bestolex_BXSC-06_Mounting-Cables-Protection.pdf",
+              "pages": 7
+            }
+          },
+          {
+            "id": "solar-commercial-industrial",
+            "name": {
+              "ar": "الطاقة الشمسية للمنشآت التجارية والصناعية",
+              "en": "Commercial & Industrial Solar Storage"
+            },
+            "coverImage": "/products/solar-commercial-industrial/bxs-0177-01-015.webp",
+            "description": {
+              "ar": "انفرترات هجينة عالية الجهد، وخزائن تخزين طاقة متكاملة، وتخزين بطاريات في حاويات، للمصانع والمزارع والفنادق والمستشفيات والمراكز التجارية والمناجم.\nالمنشآت التجارية تدفع ثمن ذروة الطلب، وتخسر عند انقطاع الكهرباء، وكثير منها يشغّل مولدات ديزل. الانفرتر الهجين مع التخزين عالي الجهد يخفض الذروة، ويبقي الأحمال الحرجة تعمل، ويقلل استهلاك الوقود، ويخزّن طاقة النهار للمساء. نحدد النظام من فواتير الكهرباء أو ملف الأحمال.\nنحدد حجم النظام مجاناً من أحمالكم، ونورّد أطقماً كاملة (ألواح وانفرتر وبطاريات وهياكل) بحاويات كاملة أو مختلطة مع الشحن إلى ميناء الوصول، ونرسل النشرات الفنية والشهادات عند الطلب، ونتابع الضمان مع المصنّع.",
+              "en": "High-voltage hybrid inverters, all-in-one storage cabinets and containerised battery storage for factories, farms, hotels, hospitals, malls and mines.\nCommercial sites pay for peak demand, lose money in outages and often run diesel generators. A hybrid inverter with high-voltage storage cuts the peaks, keeps critical loads running, lowers fuel use and stores daytime solar for the evening. We size the system from your electricity bills or load profile.\nWe size the system free from your loads, supply complete kits (panels, inverter, batteries and mounting) in full or mixed containers with shipping to the destination port, send datasheets and certificates on request, and follow up warranty with the manufacturer."
+            },
+            "features": {
+              "ar": [
+                "خفض الذروة والاحتياط والاستهلاك الذاتي للطاقة الشمسية",
+                "انفرترات هجينة حتى 50 ك.و وتشغيل متوازٍ حتى 10 وحدات",
+                "خزائن متكاملة حتى 241 ك.و.س بانفرتر وبطاريات LiFePO4 وتكييف",
+                "تبريد بالسائل لعمر أطول في المناخ الحار",
+                "حاويات تخزين حتى 5 ميغاواط ساعة",
+                "حتى 10,000 دورة في تخزين الحاويات، حسب المصنّع",
+                "تربط الألواح والشبكة والمولد في نظام واحد"
+              ],
+              "en": [
+                "Peak shaving, backup and solar self-use",
+                "Hybrid inverters up to 50 kW with up to 10 units in parallel",
+                "All-in-one cabinets up to 241 kWh with inverter, LiFePO4 batteries and air conditioning",
+                "Liquid cooling for longer life in hot climates",
+                "Container storage up to 5 MWh",
+                "Up to 10,000 cycles on container storage, manufacturer-stated",
+                "Ties panels, grid and generator into one system"
+              ]
+            },
+            "featureImages": [
+              {
+                "image": "/products/solar-commercial-industrial/bxs-0118-01-011.webp",
+                "label": {
+                  "ar": "انفرتر هجين ثلاثي · بطارية عالية الجهد",
+                  "en": "Three-phase hybrid inverter, HV battery"
+                }
+              },
+              {
+                "image": "/products/solar-commercial-industrial/bxs-0118-01-012.webp",
+                "label": {
+                  "ar": "انفرتر هجين ثلاثي · تجاري",
+                  "en": "Commercial hybrid inverter"
+                }
+              },
+              {
+                "image": "/products/solar-commercial-industrial/bxs-0177-01-014.webp",
+                "label": {
+                  "ar": "خزانة تخزين طاقة متكاملة · ⁦50⁩ ك.و",
+                  "en": "All-in-one storage cabinet · 50 kW"
+                }
+              },
+              {
+                "image": "/products/solar-commercial-industrial/bxs-0177-01-015.webp",
+                "label": {
+                  "ar": "خزانة تخزين طاقة متكاملة · ⁦125⁩ ك.و",
+                  "en": "All-in-one storage cabinet · 125 kW"
+                }
+              },
+              {
+                "image": "/products/solar-commercial-industrial/bxs-0177-01-019.webp",
+                "label": {
+                  "ar": "خزانة تخزين تجارية مبردة بالسائل",
+                  "en": "Liquid-cooled storage cabinet"
+                }
+              },
+              {
+                "image": "/products/solar-commercial-industrial/bxs-0177-01-020.webp",
+                "label": {
+                  "ar": "تخزين بطاريات في حاويات",
+                  "en": "Containerised battery storage"
+                }
+              }
+            ],
+            "partsHeading": {
+              "kicker": {
+                "ar": "المنتجات",
+                "en": "Products"
+              },
+              "title": {
+                "ar": "6 منتجات في الكتالوج",
+                "en": "6 products in the catalogue"
+              },
+              "note": {
+                "ar": "اختر منتجاً لترى صورته. المواصفات الكاملة في الجدول أدناه.",
+                "en": "Pick a product to see it. Full specifications are in the table below."
+              }
+            },
+            "specs": {
+              "ar": [
+                {
+                  "label": "الأنواع",
+                  "value": "انفرترات هجينة عالية الجهد، وخزائن متكاملة، وخزانة مبردة بالسائل، وحاويات"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦8–215⁩ ك.و"
+                },
+                {
+                  "label": "السعة",
+                  "value": "حتى ⁦5⁩ ميغاواط ساعة"
+                },
+                {
+                  "label": "البطاريات",
+                  "value": "⁦LiFePO4⁩ عالية الجهد"
+                },
+                {
+                  "label": "عمر الدورات",
+                  "value": "حتى ⁦10,000⁩ دورة، حسب المصنّع"
+                },
+                {
+                  "label": "الحماية",
+                  "value": "⁦IP55⁩ للخزائن والحاويات · ⁦IP65⁩ للانفرترات"
+                },
+                {
+                  "label": "الكتالوج",
+                  "value": "⁦BXSC-07⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Types",
+                  "value": "High-voltage hybrid inverters, all-in-one cabinets, a liquid-cooled cabinet and containers"
+                },
+                {
+                  "label": "Power",
+                  "value": "8–215 kW"
+                },
+                {
+                  "label": "Storage",
+                  "value": "Up to 5 MWh"
+                },
+                {
+                  "label": "Batteries",
+                  "value": "High-voltage LiFePO4"
+                },
+                {
+                  "label": "Cycle life",
+                  "value": "Up to 10,000 cycles, manufacturer-stated"
+                },
+                {
+                  "label": "Protection",
+                  "value": "IP55 cabinets and containers · IP65 inverters"
+                },
+                {
+                  "label": "Catalogue",
+                  "value": "BXSC-07"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/solar-commercial-industrial/bxs-0177-01-015.webp",
+              "/products/solar-commercial-industrial/bxs-0118-01-011.webp",
+              "/products/solar-commercial-industrial/bxs-0118-01-012.webp",
+              "/products/solar-commercial-industrial/bxs-0177-01-014.webp",
+              "/products/solar-commercial-industrial/bxs-0177-01-019.webp",
+              "/products/solar-commercial-industrial/bxs-0177-01-020.webp"
+            ],
+            "image": "/products/solar-commercial-industrial/bxs-0177-01-015.webp",
+            "cardImage": "/products/solar-commercial-industrial/bxs-0177-01-015.webp",
+            "seo": {
+              "title": {
+                "ar": "تخزين الطاقة الشمسية للمصانع والمنشآت التجارية",
+                "en": "Commercial and Industrial Solar Battery Storage"
+              },
+              "description": {
+                "ar": "انفرترات هجينة حتى 50 ك.و، وخزائن تخزين متكاملة حتى 241 ك.و.س، وخزانة مبردة بالسائل، وحاويات حتى 5 ميغاواط ساعة. اطلب عرضاً من بيستوليكس.",
+                "en": "Hybrid inverters up to 50 kW, all-in-one storage cabinets up to 241 kWh, a liquid-cooled cabinet and containers up to 5 MWh. Get a quote from Bestolex."
+              }
+            },
+            "summary": {
+              "ar": "ستة منتجات: انفرتر هجين ثلاثي الطور 8–25 ك.و ببطارية عالية الجهد، وانفرتر هجين تجاري 30–50 ك.و، وخزانتا تخزين متكاملتان 50 ك.و (حتى 112 ك.و.س) و125 ك.و (حتى 241 ك.و.س)، وخزانة مبردة بالسائل 215 ك.و / 418 ك.و.س، وتخزين في حاويات 3.3–5.0 ميغاواط ساعة. اختر من الجدول أدناه.",
+              "en": "Six products: an 8–25 kW three-phase hybrid inverter for high-voltage batteries, a 30–50 kW commercial hybrid inverter, two all-in-one cabinets of 50 kW (up to 112 kWh) and 125 kW (up to 241 kWh), a 215 kW / 418 kWh liquid-cooled cabinet, and 3.3–5.0 MWh container storage. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كيف يخفض التخزين فاتورة الكهرباء؟",
+                  "a": "تزوّد البطاريات الأحمال في ساعات الذروة فتنخفض رسوم الذروة، وتخزّن طاقة النهار الشمسية لاستخدامها مساءً، وتقلل ساعات تشغيل المولد والوقود."
+                },
+                {
+                  "q": "متى أحتاج التبريد بالسائل؟",
+                  "a": "في المناخ الحار والأحمال الكبيرة: التبريد بالسائل يحافظ على حرارة متساوية لكل خلية فيطول عمر البطاريات، والخزانة 215 ك.و / 418 ك.و.س تتوسع خزانة بعد خزانة."
+                },
+                {
+                  "q": "هل يعمل النظام مع المولد القائم؟",
+                  "a": "نعم، الانفرترات الهجينة والخزائن المتكاملة تربط الألواح والشبكة والمولد، وتعمل مع الشبكة وبدونها."
+                },
+                {
+                  "q": "ما الذي تحتاجونه لتصميم النظام؟",
+                  "a": "فواتير الكهرباء لسنة أو ملف الأحمال، وقدرة المولد إن وُجد، والأحمال الحرجة التي يجب ألا تنقطع، والمساحة المتاحة للألواح والخزائن."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How does storage cut the electricity bill?",
+                  "a": "Batteries supply the loads at peak times so the demand charge drops, store daytime solar for the evening, and cut generator running hours and fuel."
+                },
+                {
+                  "q": "When do I need liquid cooling?",
+                  "a": "In hot climates and for large loads: liquid cooling keeps every cell at an even temperature for longer battery life, and the 215 kW / 418 kWh cabinet scales cabinet by cabinet."
+                },
+                {
+                  "q": "Does the system work with my existing generator?",
+                  "a": "Yes. The hybrid inverters and all-in-one cabinets tie together panels, grid and generator, and work on and off grid."
+                },
+                {
+                  "q": "What do you need to design the system?",
+                  "a": "A year of electricity bills or the load profile, the generator rating if any, the critical loads that must not go down, and the space available for panels and cabinets."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦5⁩ ميغاواط ساعة",
+                  "label": "أعلى سعة للحاوية"
+                },
+                {
+                  "value": "⁦215⁩ ك.و",
+                  "label": "الخزانة المبردة بالسائل"
+                },
+                {
+                  "value": "⁦50⁩ ك.و",
+                  "label": "أعلى قدرة للانفرتر الهجين"
+                }
+              ],
+              "en": [
+                {
+                  "value": "5 MWh",
+                  "label": "Max. container storage"
+                },
+                {
+                  "value": "215 kW",
+                  "label": "Liquid-cooled cabinet"
+                },
+                {
+                  "value": "50 kW",
+                  "label": "Max. hybrid inverter"
+                }
+              ]
+            },
+            "brochure": {
+              "url": "/brochures/Bestolex_BXSC-07_Commercial-Industrial.pdf",
+              "pages": 6
+            }
+          },
+          {
+            "id": "solar-appliances",
+            "name": {
+              "ar": "سخانات المياه والأجهزة الشمسية",
+              "en": "Solar Water Heaters & Appliances"
+            },
+            "coverImage": "/products/solar-appliances/bxs-0080-01-002.webp",
+            "description": {
+              "ar": "سخانات مياه شمسية، ومجمدات شمسية بالتيار المستمر، ومراوح شمسية قابلة للشحن، للبيوت والمساجد والفنادق والعيادات والمدارس والمزارع والمحلات خارج الشبكة.\nسخان المياه الشمسي يخفض أكبر بند في فاتورة كهرباء البيت أو الفندق، والمجمد والمروحة الشمسيان يوفران التبريد حيث لا شبكة أصلاً. نساعدك في اختيار سعة الخزان من عدد المستخدمين، وطقم المجمد أو المروحة من احتياجك اليومي.\nنحدد حجم النظام مجاناً من أحمالكم، ونورّد أطقماً كاملة (ألواح وانفرتر وبطاريات وهياكل) بحاويات كاملة أو مختلطة مع الشحن إلى ميناء الوصول، ونرسل النشرات الفنية والشهادات عند الطلب، ونتابع الضمان مع المصنّع.",
+              "en": "Solar water heaters, DC solar freezers and rechargeable solar fans for homes, mosques, hotels, clinics, schools, farms and off-grid shops.\nA solar water heater cuts the largest item on a home or hotel electricity bill, while the DC freezer and solar fan bring cooling where there is no grid at all. We help you choose the tank size from the number of users, and the freezer or fan kit from your daily needs.\nWe size the system free from your loads, supply complete kits (panels, inverter, batteries and mounting) in full or mixed containers with shipping to the destination port, send datasheets and certificates on request, and follow up warranty with the manufacturer."
+            },
+            "features": {
+              "ar": [
+                "سخانات بسعات 85–300 لتر",
+                "توفير 55–85 % من طاقة تسخين المياه، حسب المصنّع",
+                "خزانات ستانلس SUS304 معزولة تحفظ الحرارة حتى 72 ساعة",
+                "نسخ مضغوطة بضغط الشبكة للدوش والمطبخ",
+                "مجمد DC يعمل من الألواح والبطارية مباشرة حتى -18 °م",
+                "مروحة 16 بوصة بمحرك بلا فرش وبطارية ليثيوم",
+                "اختيار سعة الخزان حسب عدد المستخدمين"
+              ],
+              "en": [
+                "Water heaters from 85 to 300 L",
+                "55–85 % of water-heating energy saved, manufacturer-stated",
+                "Insulated SUS304 stainless tanks that keep water hot up to 72 hours",
+                "Pressurised versions at mains pressure for showers and kitchens",
+                "DC freezer that runs straight from panels and battery down to -18 °C",
+                "16-inch fan with a brushless motor and lithium battery",
+                "Tank size chosen from the number of users"
+              ]
+            },
+            "featureImages": [
+              {
+                "image": "/products/solar-appliances/bxs-0080-01-001.webp",
+                "label": {
+                  "ar": "سخان مياه شمسي مدمج غير مضغوط",
+                  "en": "Non-pressurised water heater"
+                }
+              },
+              {
+                "image": "/products/solar-appliances/bxs-0080-01-002.webp",
+                "label": {
+                  "ar": "سخان شمسي مضغوط · ملف نحاسي",
+                  "en": "Copper-coil water heater"
+                }
+              },
+              {
+                "image": "/products/solar-appliances/bxs-0080-01-003.webp",
+                "label": {
+                  "ar": "سخان شمسي مضغوط بالأنابيب الحرارية",
+                  "en": "Heat-pipe water heater"
+                }
+              },
+              {
+                "image": "/products/solar-appliances/bxs-0080-01-004.webp",
+                "label": {
+                  "ar": "سخان مياه شمسي بلوح مسطح",
+                  "en": "Flat-plate water heater"
+                }
+              },
+              {
+                "image": "/products/solar-appliances/bxs-0028-01-008.webp",
+                "label": {
+                  "ar": "مجمد أفقي شمسي بالتيار المستمر",
+                  "en": "DC solar chest freezer"
+                }
+              },
+              {
+                "image": "/products/solar-appliances/bxs-0031-06-001.webp",
+                "label": {
+                  "ar": "مروحة أرضية شمسية قابلة للشحن",
+                  "en": "Solar floor fan"
+                }
+              }
+            ],
+            "partsHeading": {
+              "kicker": {
+                "ar": "المنتجات",
+                "en": "Products"
+              },
+              "title": {
+                "ar": "6 منتجات في الكتالوج",
+                "en": "6 products in the catalogue"
+              },
+              "note": {
+                "ar": "اختر منتجاً لترى صورته. المواصفات الكاملة في الجدول أدناه.",
+                "en": "Pick a product to see it. Full specifications are in the table below."
+              }
+            },
+            "specs": {
+              "ar": [
+                {
+                  "label": "الأنواع",
+                  "value": "سخانات بأنابيب مفرغة وملف نحاسي وأنابيب حرارية ولوح مسطح، ومجمد ⁦DC⁩، ومروحة"
+                },
+                {
+                  "label": "سعة السخانات",
+                  "value": "⁦85–300⁩ لتر"
+                },
+                {
+                  "label": "توفير الطاقة",
+                  "value": "⁦55–85 %⁩ من طاقة تسخين المياه، حسب المصنّع"
+                },
+                {
+                  "label": "الخزان الداخلي",
+                  "value": "ستانلس ⁦SUS304 / 316L⁩"
+                },
+                {
+                  "label": "ضغط التشغيل",
+                  "value": "حتى ⁦6⁩ بار في السخانات المضغوطة"
+                },
+                {
+                  "label": "المجمد",
+                  "value": "⁦104–238⁩ لتر · ⁦-18⁩ °م أو أبرد · ⁦12 / 24⁩ فولت ⁦DC⁩"
+                },
+                {
+                  "label": "المروحة",
+                  "value": "⁦16⁩ بوصة · ⁦25⁩ واط · حتى ⁦50⁩ ساعة"
+                },
+                {
+                  "label": "الكتالوج",
+                  "value": "⁦BXSC-08⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Types",
+                  "value": "Evacuated-tube, copper-coil, heat-pipe and flat-plate heaters, a DC freezer and a fan"
+                },
+                {
+                  "label": "Heater capacity",
+                  "value": "85–300 L"
+                },
+                {
+                  "label": "Energy saving",
+                  "value": "55–85 % of water-heating energy, manufacturer-stated"
+                },
+                {
+                  "label": "Inner tank",
+                  "value": "SUS304 / 316L stainless"
+                },
+                {
+                  "label": "Working pressure",
+                  "value": "Up to 6 bar on pressurised heaters"
+                },
+                {
+                  "label": "Freezer",
+                  "value": "104–238 L · -18 °C or colder · 12 / 24 V DC"
+                },
+                {
+                  "label": "Fan",
+                  "value": "16-inch · 25 W · up to 50 h"
+                },
+                {
+                  "label": "Catalogue",
+                  "value": "BXSC-08"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/solar-appliances/bxs-0080-01-002.webp",
+              "/products/solar-appliances/bxs-0080-01-001.webp",
+              "/products/solar-appliances/bxs-0080-01-003.webp",
+              "/products/solar-appliances/bxs-0080-01-004.webp",
+              "/products/solar-appliances/bxs-0028-01-008.webp",
+              "/products/solar-appliances/bxs-0031-06-001.webp"
+            ],
+            "image": "/products/solar-appliances/bxs-0080-01-002.webp",
+            "cardImage": "/products/solar-appliances/bxs-0080-01-002.webp",
+            "seo": {
+              "title": {
+                "ar": "سخانات المياه الشمسية والأجهزة الشمسية",
+                "en": "Solar Water Heaters and Solar Appliances"
+              },
+              "description": {
+                "ar": "سخانات مياه شمسية 85–300 لتر توفر 55–85 % من طاقة التسخين، ومجمدات شمسية DC ومراوح شمسية قابلة للشحن. اطلب عرض سعر من بيستوليكس.",
+                "en": "Solar water heaters from 85 to 300 L saving 55–85 % of heating energy, DC solar freezers and rechargeable solar fans. Get a quote from Bestolex."
+              }
+            },
+            "summary": {
+              "ar": "ستة منتجات: أربعة سخانات مياه شمسية (غير مضغوط بأنابيب مفرغة، ومضغوط بملف نحاسي، ومضغوط بالأنابيب الحرارية، وبلوح مسطح) بسعات 85–300 لتر، ومجمد أفقي شمسي DC يصل إلى -18 °م، ومروحة أرضية شمسية تعمل حتى 50 ساعة بالشحنة. اختر من الجدول أدناه.",
+              "en": "Six products: four solar water heaters (non-pressurised evacuated tube, copper-coil pressurised, heat-pipe pressurised and flat-plate) from 85 to 300 L, a DC solar chest freezer down to -18 °C, and a solar floor fan that runs up to 50 hours per charge. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي سخان شمسي أختار؟",
+                  "a": "غير المضغوط هو الأقل تكلفة ويتغذى بالجاذبية من خزان السطح. وذو الملف النحاسي يعطي ماءً نظيفاً بضغط الشبكة دون خزان مضغوط. وذو الأنابيب الحرارية مضغوط بالكامل ومقاوم للتجمد. وذو اللوح المسطح بمظهر أنيق للفلل والفنادق."
+                },
+                {
+                  "q": "ما السعة المناسبة لعدد المستخدمين؟",
+                  "a": "تُحدَّد من عدد المستخدمين واستهلاكهم اليومي للماء الساخن، والسعات من 85 إلى 300 لتر. أخبرنا بعدد الأفراد ونقترح السعة."
+                },
+                {
+                  "q": "هل يعمل المجمد الشمسي بلا كهرباء؟",
+                  "a": "نعم، يعمل مباشرة من الألواح الشمسية والبطارية بجهد 12 أو 24 فولت DC، وعزله السميك (87 مم) يحافظ على -18 °م أو أبرد."
+                },
+                {
+                  "q": "كم تعمل المروحة الشمسية بالشحنة؟",
+                  "a": "من 7 إلى 50 ساعة حسب السرعة، وتُشحن من لوحها الشمسي 22 واط في 4–6 ساعات شمس."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which solar water heater should I choose?",
+                  "a": "The non-pressurised heater is the lowest cost and is gravity-fed from a roof tank. The copper-coil heater gives fresh water at mains pressure without a pressurised tank. The heat-pipe heater is fully pressurised and freeze-resistant. The flat-plate heater has a slim, neat look for villas and hotels."
+                },
+                {
+                  "q": "What tank size suits the number of users?",
+                  "a": "It depends on the number of users and their daily hot-water use; tanks range from 85 to 300 L. Tell us how many people and we suggest the size."
+                },
+                {
+                  "q": "Does the solar freezer run without the grid?",
+                  "a": "Yes. It runs straight from solar panels and a battery at 12 or 24 V DC, and its thick 87 mm insulation holds -18 °C or colder."
+                },
+                {
+                  "q": "How long does the solar fan run per charge?",
+                  "a": "7 to 50 hours depending on the speed, and its 22 W panel charges it in 4–6 hours of sun."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦300⁩ لتر",
+                  "label": "أكبر خزان للسخان"
+                },
+                {
+                  "value": "⁦-18⁩ °م",
+                  "label": "حرارة المجمد أو أبرد"
+                },
+                {
+                  "value": "⁦50⁩ ساعة",
+                  "label": "تشغيل المروحة بالشحنة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "300 L",
+                  "label": "Max. heater tank"
+                },
+                {
+                  "value": "-18 °C",
+                  "label": "Freezer, or colder"
+                },
+                {
+                  "value": "50 h",
+                  "label": "Fan runtime per charge"
+                }
+              ]
+            },
+            "brochure": {
+              "url": "/brochures/Bestolex_BXSC-08_Solar-Appliances.pdf",
+              "pages": 6
+            }
+          }
+        ]
+      }
+    ]
   }
 ]

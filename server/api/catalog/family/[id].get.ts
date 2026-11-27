@@ -1,10 +1,18 @@
-// Model tables for product families (doors first). The data lives in
+// Model tables for product families (doors, then the solar pages). The data lives in
 // server/assets/catalog/<group>/<id>.json so it never ships in the client
 // bundle: a page fetches only the family it shows.
 const FAMILY_FILES: Record<string, string> = {
   'high-speed-doors': 'catalog/doors/high-speed-doors.json',
   'industrial-sectional-doors': 'catalog/doors/industrial-sectional-doors.json',
-  'industrial-shutters': 'catalog/doors/industrial-shutters.json'
+  'industrial-shutters': 'catalog/doors/industrial-shutters.json',
+  'solar-panels': 'catalog/solar/solar-panels.json',
+  'solar-lighting': 'catalog/solar/solar-lighting.json',
+  'solar-inverters-controllers': 'catalog/solar/solar-inverters-controllers.json',
+  'solar-batteries-storage': 'catalog/solar/solar-batteries-storage.json',
+  'solar-home-systems-portable': 'catalog/solar/solar-home-systems-portable.json',
+  'solar-mounting-cables-protection': 'catalog/solar/solar-mounting-cables-protection.json',
+  'solar-commercial-industrial': 'catalog/solar/solar-commercial-industrial.json',
+  'solar-appliances': 'catalog/solar/solar-appliances.json'
 }
 
 const cache = new Map<string, any>()
