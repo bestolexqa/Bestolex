@@ -6,6 +6,7 @@ export const REQUEST_TYPES = [
   { id: 'site-survey', ar: 'معاينة موقع', en: 'Site survey' },
   { id: 'maintenance', ar: 'صيانة أو قطع غيار', en: 'Maintenance or spare parts' },
   { id: 'technical', ar: 'استفسار فني', en: 'Technical question' },
+  { id: 'sourcing', ar: 'توريد حسب الطلب', en: 'Sourcing on request' },
   { id: 'other', ar: 'أخرى', en: 'Other' }
 ] as const
 

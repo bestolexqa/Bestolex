@@ -10,7 +10,7 @@ export default defineEventHandler(async (event) => {
   let paths: string[] = Array.isArray(body.paths) ? body.paths.filter((p: any) => typeof p === 'string') : []
 
   if (body.all === true) {
-    paths = ['/', '/about', '/services', '/products', '/blog', '/contact', '/training']
+    paths = ['/', '/about', '/sourcing', '/services', '/products', '/blog', '/contact', '/training']
     for (const category of productCategories as any[]) {
       paths.push(`/products/category/${category.id}`)
       const products = [...(category.products || []), ...((category.subcategories || []).flatMap((s: any) => s.products || []))]

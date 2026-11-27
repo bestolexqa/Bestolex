@@ -54,7 +54,7 @@ export default defineEventHandler(async (event) => {
   let stored = false
   if (supabase) {
     try {
-      await supabase.from('quote_requests').insert([{
+      const { error: dbError } = await supabase.from('quote_requests').insert([{
         company_name: lead.company || lead.name,
         job_title: lead.jobTitle || na,
         email: lead.email || na,
@@ -67,7 +67,8 @@ export default defineEventHandler(async (event) => {
         is_quote_request: isQuote,
         status: 'new'
       }])
-      stored = true
+      if (dbError) console.warn('Supabase quote insertion error:', dbError)
+      else stored = true
     } catch (dbErr) {
       console.warn('Supabase quote insertion error:', dbErr)
     }

@@ -298,10 +298,6 @@ useHead({
 // Hero Carousel Slides
 const heroSlides = [
   {
-    image: 'https://sabtech.com.sa/wp-content/uploads/2020/12/neuer-slider-HighTech2.jpg',
-    title: { ar: 'تصنيع وهندسة متقدمة', en: 'Advanced Manufacturing & Engineering' }
-  },
-  {
     image: 'https://cdn.bestolex.com/bestolex/categories/docking-systems.jpg',
     title: { ar: 'أنظمة التحميل والمستودعات', en: 'Loading & Warehouse Systems' }
   },
@@ -316,6 +312,14 @@ const heroSlides = [
   {
     image: 'https://cdn.bestolex.com/bestolex/categories/industrial-doors.jpg',
     title: { ar: 'الأبواب الصناعية والحلول اللوجستية', en: 'Industrial Doors & Logistics' }
+  },
+  {
+    image: '/categories/energy-solutions.webp',
+    title: { ar: 'حلول الطاقة', en: 'Energy Solutions' }
+  },
+  {
+    image: '/about/heavy-equipment.webp',
+    title: { ar: 'المعدات الثقيلة عند الطلب', en: 'Heavy Equipment on Request' }
   }
 ]
 
