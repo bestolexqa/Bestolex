@@ -226,6 +226,9 @@
         </div>
       </section>
 
+      <!-- جدول موديلات العائلة (الأبواب): من server/assets/catalog عبر الخادم -->
+      <FamilyModels v-if="family" :family="family" :locale="locale" @request-model="requestModel" />
+
       <!-- الرسومات التقنية -->
       <section v-if="product.specDrawings && product.specDrawings.length" class="bg-[#F4F5F5] dark:bg-gray-800 border-y border-[#E1E3E3] dark:border-gray-700">
         <div class="container mx-auto px-4 md:px-8 lg:px-12 py-12 md:py-16">
@@ -495,6 +498,7 @@ import mockProducts from '@/data/products.json'
 import comparisons from '@/data/comparisons.json'
 import { REQUEST_TYPES, whatsappLink } from '~/utils/leads'
 import { trackLead } from '~/utils/track'
+import { FAMILY_IDS } from '~/utils/catalogFamilies'
 
 const { locale } = useI18n()
 const localePath = useLocalePath()
@@ -533,6 +537,15 @@ initProduct()
 if (!product.value) {
   throw createError({ statusCode: 404, statusMessage: 'Product not found', fatal: true })
 }
+
+// Families with a model table load it from the server, so its data stays out of the bundle.
+const familyId = String(route.params.id || '')
+const { data: family } = FAMILY_IDS.has(familyId)
+  ? await useFetch(`/api/catalog/family/${familyId}`, { key: `family-${familyId}`, default: () => null })
+  : { data: ref(null) }
+
+// Images kept in /public (e.g. /products/industrial-shutters/1.webp) need the site origin in structured data.
+const absoluteUrl = (u) => (/^https?:\/\//.test(u) ? u : `https://www.bestolex.com${u.startsWith('/') ? '' : '/'}${u}`)
 
 const shareImage = computed(() => {
   if (!product.value) return 'https://www.bestolex.com/logo.png'
@@ -605,6 +618,22 @@ const requestDatasheet = () => {
   }
   scrollToQuote()
   trackBrochureDownload()
+}
+
+// A model's "request a quote" button writes the model into the form, then scrolls to it.
+const requestModel = (m) => {
+  const name = m?.name?.[locale.value] || m?.name?.ar || ''
+  const line = locale.value === 'ar'
+    ? `أرجو عرض سعر لـ«${name}» (${m.code}).`
+    : `Please send a quote for the ${name} (${m.code}).`
+  form.value.requestType = 'quote'
+  if (!form.value.message.includes(line)) {
+    form.value.message = form.value.message ? `${line}\n${form.value.message}` : line
+  }
+  scrollToQuote()
+  try {
+    $fetch('/api/analytics/track', { method: 'POST', body: { event_type: 'model_quote_click', target_name: `${m.code} — ${m?.name?.ar || ''}` } })
+  } catch (e) {}
 }
 
 // Certificate fields carry either a plain string or an { ar, en } pair.
@@ -825,7 +854,7 @@ useHead(() => ({
         'image': [...new Set([shareImage.value, ...(product.value?.images || []),
           ...((product.value?.featureImages || []).map(f => f.image)),
           // The technical drawings were absent from the schema entirely.
-          ...((product.value?.specDrawings || []).map(dw => dw.image))])].filter(Boolean).slice(0, 16),
+          ...((product.value?.specDrawings || []).map(dw => dw.image))].filter(Boolean).map(absoluteUrl))].slice(0, 16),
         'description': pageDesc.value,
         'url': pageUrl.value,
         'category': categoryInfo.value?.title || undefined,
@@ -835,6 +864,22 @@ useHead(() => ({
         }))
       })
     },
+    ...(family.value ? [{
+      type: 'application/ld+json',
+      key: 'ld-models',
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'ItemList',
+        '@id': `${pageUrl.value}#models`,
+        'name': family.value.title?.[locale.value] || productName.value,
+        'itemListElement': (family.value.types || []).flatMap(tp => tp.models || []).map((m, i) => ({
+          '@type': 'ListItem',
+          'position': i + 1,
+          // A plain list: Product items would need offers, and the site shows no prices.
+          'name': `${m.name?.[locale.value] || m.name?.ar} (${m.code})`
+        }))
+      })
+    }] : []),
     ...(faqItems.value.length ? [{
       type: 'application/ld+json',
       key: 'ld-faq',

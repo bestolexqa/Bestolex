@@ -1,0 +1,330 @@
+{
+ "id": "industrial-shutters",
+ "updated": "2026-11-27",
+ "title": {
+  "ar": "الموديلات والمواصفات",
+  "en": "Models and specifications"
+ },
+ "source": {
+  "ar": "المصدر: مواقع المصنّعين ونشراتهم الفنية · المواصفات حسب المصنّع، وما لم يُنشر يُحدَّد في العرض الفني",
+  "en": "Source: the manufacturers' websites and data sheets · specs per manufacturer; anything unpublished is set in the technical proposal"
+ },
+ "rows": [
+  {
+   "key": "use",
+   "label": {
+    "ar": "الأنسب لـ",
+    "en": "Best for"
+   }
+  },
+  {
+   "key": "size",
+   "label": {
+    "ar": "مقاس الفتحة",
+    "en": "Opening size"
+   }
+  },
+  {
+   "key": "lintel",
+   "label": {
+    "ar": "المساحة فوق الفتحة",
+    "en": "Headroom"
+   }
+  },
+  {
+   "key": "slat",
+   "label": {
+    "ar": "الشريحة",
+    "en": "Slat"
+   }
+  },
+  {
+   "key": "ins",
+   "label": {
+    "ar": "العزل الحراري",
+    "en": "Thermal insulation"
+   }
+  },
+  {
+   "key": "speed",
+   "label": {
+    "ar": "سرعة الفتح / الإغلاق",
+    "en": "Opening / closing speed"
+   }
+  },
+  {
+   "key": "drive",
+   "label": {
+    "ar": "المحرك والتحكم",
+    "en": "Motor and control"
+   }
+  },
+  {
+   "key": "safety",
+   "label": {
+    "ar": "الأمان والحماية",
+    "en": "Safety and security"
+   }
+  },
+  {
+   "key": "manual",
+   "label": {
+    "ar": "عند انقطاع الكهرباء",
+    "en": "In a power cut"
+   }
+  },
+  {
+   "key": "finish",
+   "label": {
+    "ar": "الإطار والتشطيب",
+    "en": "Frame and finish"
+   }
+  },
+  {
+   "key": "options",
+   "label": {
+    "ar": "خيارات",
+    "en": "Options"
+   }
+  },
+  {
+   "key": "std",
+   "label": {
+    "ar": "المطابقة (حسب المصنّع)",
+    "en": "Compliance (per manufacturer)"
+   }
+  }
+ ],
+ "keyRows": [
+  "speed",
+  "ins",
+  "size"
+ ],
+ "types": [
+  {
+   "id": "all",
+   "label": {
+    "ar": "الشتر الصناعي",
+    "en": "Industrial roller shutters"
+   },
+   "intro": {
+    "ar": "الطرازان الإيطاليان بالشريحة المعزولة نفسها (10 مم)، والفرق بينهما السرعة. والطرازان الإسبانيان للإغلاق الآمن في المستودعات والواجهات، بفتحات حتى 7000 × 5000 مم.",
+    "en": "The two Italian models share the same 10 mm insulated slat and differ in speed. The two Spanish models close warehouses and façades securely, for openings up to 7000 × 5000 mm."
+   },
+   "models": [
+    {
+     "code": "BX-DR-SH-01",
+     "name": {
+      "ar": "شتر سريع معزول",
+      "en": "Insulated high-speed roller shutter"
+     },
+     "origin": {
+      "ar": "صناعة إيطالية",
+      "en": "Made in Italy"
+     },
+     "specs": {
+      "use": {
+       "ar": "الاستخدام اليومي المكثف: مصانع الأغذية والمستودعات اللوجستية ومراكز التوزيع والمرائب",
+       "en": "Intensive daily use: food plants, logistics warehouses, distribution centres, garages"
+      },
+      "speed": {
+       "ar": "حتى 0.5 / 0.5 م/ث",
+       "en": "Up to 0.5 / 0.5 m/s"
+      },
+      "drive": {
+       "ar": "محرك تروس ثلاثي الطور ذاتي الكبح أعلى الباب، ولوحة تحكم بمحوّل تردد",
+       "en": "Three-phase self-braking gear motor on top; control panel with inverter"
+      },
+      "slat": {
+       "ar": "شرائح ألمنيوم مزدوجة 10 مم محشوة برغوة البولي يوريثان",
+       "en": "10 mm double aluminium slats with PU foam"
+      },
+      "ins": {
+       "ar": "4.0 W/m²K",
+       "en": "4.0 W/m²K"
+      },
+      "safety": {
+       "ar": "حافة مطاطية موصلة، وخلايا ضوئية، وستارة ضوئية بأشعة متقاطعة",
+       "en": "Conductive rubber edge; photocells; criss-cross light curtain"
+      },
+      "manual": {
+       "ar": "رفع يدوي بمقبض أسفل المحرك",
+       "en": "Hand-raising with a handle under the motor"
+      },
+      "finish": {
+       "ar": "إطار مجلفن، وقطاع سفلي ألمنيوم بجوان EPDM؛ الشرائح فضي RAL 9006 خارجاً وأبيض RAL 9010 داخلاً",
+       "en": "Zinc-plated frame; aluminium bottom profile with EPDM seal; slats RAL 9006 outside, RAL 9010 inside"
+      },
+      "options": {
+       "ar": "جهاز تحكم لاسلكي، وكاشف حركة، وكاشف أرضي، وإشارة ضوئية، ونوافذ رؤية",
+       "en": "Radio remote, motion detector, floor loop, traffic light, vision panels"
+      },
+      "std": {
+       "ar": "EN 13241-1",
+       "en": "EN 13241-1"
+      }
+     }
+    },
+    {
+     "code": "BX-DR-SH-02",
+     "name": {
+      "ar": "شتر ألمنيوم معزول",
+      "en": "Insulated aluminium roller shutter"
+     },
+     "origin": {
+      "ar": "صناعة إيطالية",
+      "en": "Made in Italy"
+     },
+     "specs": {
+      "use": {
+       "ar": "الإغلاق اليومي للمستودعات والمرائب والمباني الزراعية",
+       "en": "Daily closing of warehouses, garages and farm buildings"
+      },
+      "speed": {
+       "ar": "حتى 0.2 / 0.1 م/ث",
+       "en": "Up to 0.2 / 0.1 m/s"
+      },
+      "drive": {
+       "ar": "محرك تروس ثلاثي الطور ذاتي الكبح، ولوحة تحكم بمحوّل تردد لفتح وإغلاق هادئ",
+       "en": "Three-phase self-braking gear motor; inverter panel for gentle opening and closing"
+      },
+      "slat": {
+       "ar": "شرائح ألمنيوم مزدوجة 10 مم محشوة برغوة البولي يوريثان",
+       "en": "10 mm double aluminium slats with PU foam"
+      },
+      "ins": {
+       "ar": "4.0 W/m²K",
+       "en": "4.0 W/m²K"
+      },
+      "safety": {
+       "ar": "حافة مطاطية موصلة، وخلايا ضوئية، وستارة ضوئية بأشعة متقاطعة",
+       "en": "Conductive rubber edge; photocells; criss-cross light curtain"
+      },
+      "manual": {
+       "ar": "رفع يدوي بمقبض أسفل المحرك",
+       "en": "Hand-raising with a handle under the motor"
+      },
+      "finish": {
+       "ar": "إطار مجلفن، وقطاع سفلي ألمنيوم بجوان EPDM؛ الشرائح فضي RAL 9006 خارجاً وأبيض RAL 9010 داخلاً",
+       "en": "Zinc-plated frame; aluminium bottom profile with EPDM seal; slats RAL 9006 outside, RAL 9010 inside"
+      },
+      "options": {
+       "ar": "جهاز تحكم لاسلكي، وكاشف حركة، وكاشف أرضي، وإشارة ضوئية، ونوافذ رؤية",
+       "en": "Radio remote, motion detector, floor loop, traffic light, vision panels"
+      },
+      "std": {
+       "ar": "EN 13241-1",
+       "en": "EN 13241-1"
+      }
+     }
+    },
+    {
+     "code": "BX-DR-SH-03",
+     "name": {
+      "ar": "شتر حديد",
+      "en": "Steel roller shutter"
+     },
+     "origin": {
+      "ar": "صناعة إسبانية",
+      "en": "Made in Spain"
+     },
+     "specs": {
+      "use": {
+       "ar": "مناطق التحميل والمستودعات والمحال التجارية",
+       "en": "Loading areas, warehouses and shops"
+      },
+      "slat": {
+       "ar": "شرائح فولاذية متداخلة مجلفنة أو مطلية بالبودرة، بنهايات نايلون تقلل الضجيج",
+       "en": "Interlocking galvanised or powder-coated steel slats; nylon end caps cut noise"
+      },
+      "drive": {
+       "ar": "يدوي بمحور موازنة، أو بمحرك بالضغط المستمر في منتصف المحور؛ والأتمتة والتحكم عن بعد متاحان",
+       "en": "Manual with counterbalanced shaft, or hold-to-run motor at the shaft centre; automation and remote control available"
+      },
+      "safety": {
+       "ar": "أقفال آلية مقوّاة مانعة للاقتحام",
+       "en": "Reinforced automatic anti-intrusion locking"
+      },
+      "manual": {
+       "ar": "تشغيل يدوي متاح",
+       "en": "Manual operation available"
+      },
+      "finish": {
+       "ar": "مجلفن أو مطلي بلون أو أبيض مطلي مسبقاً؛ مجارٍ فولاذية بموانع تسرب",
+       "en": "Galvanised, colour-lacquered or white pre-lacquered; steel guides with weather seals"
+      },
+      "options": {
+       "ar": "نافذة رؤية، ومفتاح مقاوم للتخريب، وجهاز تحكم عن بعد، وباب مشاة مدمج",
+       "en": "Vision panel, anti-vandal key switch, remote control, wicket door"
+      },
+      "size": {
+       "ar": "عرض 2000–7000 مم، وارتفاع 1500–5000 مم",
+       "en": "W 2,000–7,000 mm, H 1,500–5,000 mm"
+      },
+      "lintel": {
+       "ar": "350–400 مم",
+       "en": "350–400 mm"
+      },
+      "std": {
+       "ar": "التوجيه ⁦2006/42/EC⁩ وعلامة CE",
+       "en": "Directive 2006/42/EC, CE marked"
+      }
+     }
+    },
+    {
+     "code": "BX-DR-SH-04",
+     "name": {
+      "ar": "شتر ألمنيوم",
+      "en": "Aluminium roller shutter"
+     },
+     "origin": {
+      "ar": "صناعة إسبانية",
+      "en": "Made in Spain"
+     },
+     "specs": {
+      "use": {
+       "ar": "المستودعات والمحال والواجهات، ومتين في البيئات الساحلية والرطبة",
+       "en": "Warehouses, shops and façades; durable in coastal and humid sites"
+      },
+      "slat": {
+       "ar": "شرائح ألمنيوم مبثوقة مفردة أو مزدوجة: مصمتة أو للرؤية أو دقيقة الثقوب",
+       "en": "Single or double extruded aluminium slats: solid, vision or micro-perforated"
+      },
+      "ins": {
+       "ar": "شرائح معزولة بالبولي يوريثان اختيارية",
+       "en": "Optional PU-insulated slats"
+      },
+      "drive": {
+       "ar": "محرك اختياري بجهاز تحكم عن بعد أو بأزرار",
+       "en": "Optional motor with remote or push-button control"
+      },
+      "safety": {
+       "ar": "أقفال آلية مانعة للاقتحام، ويتوافق مع أنظمة التحكم في الدخول",
+       "en": "Automatic anti-intrusion locking; access-control compatible"
+      },
+      "finish": {
+       "ar": "أي لون RAL، أو مظهر الخشب، أو مؤكسد؛ مجارٍ ألمنيوم بموانع تسرب",
+       "en": "Any RAL colour, wood effect or anodised; aluminium guides with weather seals"
+      },
+      "options": {
+       "ar": "شرائح للتهوية وللرؤية، وبولي كربونات",
+       "en": "Ventilation and vision slats, polycarbonate"
+      },
+      "size": {
+       "ar": "عرض 2000–7000 مم، وارتفاع 1500–5000 مم",
+       "en": "W 2,000–7,000 mm, H 1,500–5,000 mm"
+      },
+      "lintel": {
+       "ar": "350–400 مم",
+       "en": "350–400 mm"
+      },
+      "std": {
+       "ar": "التوجيه ⁦2006/42/EC⁩ وعلامة CE",
+       "en": "Directive 2006/42/EC, CE marked"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}
