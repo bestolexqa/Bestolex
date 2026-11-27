@@ -1,0 +1,285 @@
+{
+  "id": "geophysical-survey-instruments",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-02 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-02 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "fn",
+      "label": {
+        "en": "Function",
+        "ar": "الوظيفة"
+      }
+    },
+    {
+      "key": "sys",
+      "label": {
+        "en": "System",
+        "ar": "النظام"
+      }
+    },
+    {
+      "key": "host",
+      "label": {
+        "en": "Host unit",
+        "ar": "الوحدة"
+      }
+    },
+    {
+      "key": "conv",
+      "label": {
+        "en": "Converter",
+        "ar": "المحوّل"
+      }
+    },
+    {
+      "key": "cable",
+      "label": {
+        "en": "Cable & electrodes",
+        "ar": "الكابل والأقطاب"
+      }
+    },
+    {
+      "key": "range",
+      "label": {
+        "en": "Measuring range",
+        "ar": "مدى القياس"
+      }
+    },
+    {
+      "key": "acc",
+      "label": {
+        "en": "Accuracy",
+        "ar": "الدقة"
+      }
+    },
+    {
+      "key": "res",
+      "label": {
+        "en": "Resolution",
+        "ar": "الدقة التمييزية"
+      }
+    },
+    {
+      "key": "grad",
+      "label": {
+        "en": "Gradient tolerance",
+        "ar": "تحمّل التدرج"
+      }
+    },
+    {
+      "key": "mem",
+      "label": {
+        "en": "Memory",
+        "ar": "الذاكرة"
+      }
+    },
+    {
+      "key": "gps",
+      "label": {
+        "en": "GPS",
+        "ar": "GPS"
+      }
+    },
+    {
+      "key": "if",
+      "label": {
+        "en": "Interface",
+        "ar": "الواجهة"
+      }
+    },
+    {
+      "key": "size",
+      "label": {
+        "en": "Size / weight",
+        "ar": "المقاس / الوزن"
+      }
+    }
+  ],
+  "keyRows": [
+    "fn",
+    "sys",
+    "host"
+  ],
+  "types": [
+    {
+      "id": "resistivity-ip",
+      "label": {
+        "en": "Resistivity / IP system",
+        "ar": "نظام المقاومية والاستقطاب"
+      },
+      "models": [
+        {
+          "code": "BX-0001-01-001 / WGMD-9",
+          "name": {
+            "en": "WGMD-9",
+            "ar": "⁦WGMD-9⁩"
+          },
+          "specs": {
+            "fn": {
+              "en": "Centralised 2D resistivity survey",
+              "ar": "مسح مقاومية ثنائي الأبعاد مركزي"
+            },
+            "sys": {
+              "en": "WGMD-9",
+              "ar": "⁦WGMD-9⁩"
+            },
+            "host": {
+              "en": "WDA-1",
+              "ar": "⁦WDA-1⁩"
+            },
+            "conv": {
+              "en": "60 / 120 channel",
+              "ar": "⁦60 / 120⁩ قناة"
+            },
+            "cable": {
+              "en": "Centralised cable",
+              "ar": "كابل مركزي"
+            }
+          }
+        },
+        {
+          "code": "BX-0001-01-001 / WGMD-9A",
+          "name": {
+            "en": "WGMD-9A",
+            "ar": "⁦WGMD-9A⁩"
+          },
+          "specs": {
+            "fn": {
+              "en": "Distributed 2D / 3D resistivity survey",
+              "ar": "مسح مقاومية موزّع ثنائي وثلاثي الأبعاد"
+            },
+            "sys": {
+              "en": "WGMD-9A",
+              "ar": "⁦WGMD-9A⁩"
+            },
+            "host": {
+              "en": "WDA-1",
+              "ar": "⁦WDA-1⁩"
+            },
+            "cable": {
+              "en": "Distributed cable",
+              "ar": "كابل موزّع"
+            }
+          }
+        },
+        {
+          "code": "BX-0001-01-001 / WGMD-9B",
+          "name": {
+            "en": "WGMD-9B",
+            "ar": "⁦WGMD-9B⁩"
+          },
+          "specs": {
+            "fn": {
+              "en": "Distributed 2D resistivity and IP survey",
+              "ar": "مسح مقاومية واستقطاب موزّع ثنائي الأبعاد"
+            },
+            "sys": {
+              "en": "WGMD-9B",
+              "ar": "⁦WGMD-9B⁩"
+            },
+            "host": {
+              "en": "WDA-1",
+              "ar": "⁦WDA-1⁩"
+            },
+            "cable": {
+              "en": "Distributed Res & IP cable",
+              "ar": "كابل موزّع للمقاومية والاستقطاب"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "WGMD-9 · 60 / 120 channels",
+        "ar": "⁦WGMD-9 · 60 / 120⁩ قناة"
+      },
+      "countUnit": {
+        "ar": [
+          "تهيئة واحدة",
+          "تهيئتان",
+          "تهيئات"
+        ],
+        "en": [
+          "configuration",
+          "configurations"
+        ]
+      },
+      "intro": {
+        "en": "External DC high-voltage power source. Electrode spacing 5 m (10 m optional). Survey depth depends on spread length and electrode spacing.",
+        "ar": "مصدر طاقة خارجي بجهد عالٍ مستمر. المسافة بين الأقطاب ⁦5⁩ م (⁦10⁩ م اختياري). عمق المسح يتبع طول الامتداد والمسافة بين الأقطاب."
+      }
+    },
+    {
+      "id": "magnetometer",
+      "label": {
+        "en": "Proton magnetometer",
+        "ar": "مقياس المغناطيسية البروتوني"
+      },
+      "models": [
+        {
+          "code": "BX-0001-01-002",
+          "name": {
+            "en": "WCZ-3",
+            "ar": "⁦WCZ-3⁩"
+          },
+          "specs": {
+            "range": {
+              "en": "20 000–100 000 nT",
+              "ar": "⁦20 000–100 000 nT⁩"
+            },
+            "acc": {
+              "en": "0.5 nT",
+              "ar": "⁦0.5 nT⁩"
+            },
+            "res": {
+              "en": "0.05 nT",
+              "ar": "⁦0.05 nT⁩"
+            },
+            "grad": {
+              "en": "8000 nT/m",
+              "ar": "⁦8000 nT/m⁩"
+            },
+            "mem": {
+              "en": "2 000 000 readings",
+              "ar": "⁦2,000,000⁩ قراءة"
+            },
+            "gps": {
+              "en": "Built-in",
+              "ar": "مدمج"
+            },
+            "if": {
+              "en": "USB",
+              "ar": "USB"
+            },
+            "size": {
+              "en": "206 × 85 × 155 mm, 1.5 kg",
+              "ar": "⁦206 × 85 × 155⁩ مم، ⁦1.5⁩ كجم"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "WCZ-3 · 0.05 nT resolution",
+        "ar": "⁦WCZ-3⁩ · دقة تمييز ⁦0.05 nT⁩"
+      },
+      "intro": {
+        "en": "Mineral prospecting, ore-body depth and shape, geological mapping, fault orientation, base station for magnetic surveys.",
+        "ar": "التنقيب عن المعادن، وعمق جسم الخام وشكله، والخرائط الجيولوجية، واتجاه الصدوع، ومحطة أساس للمسوح المغناطيسية."
+      }
+    }
+  ]
+}

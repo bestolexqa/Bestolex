@@ -1,0 +1,130 @@
+{
+  "id": "mine-ventilation-fans-ground-support-mesh",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-02 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-02 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "lines",
+      "label": {
+        "en": "Ventilation fans and support mesh",
+        "ar": "مراوح التهوية وشبك التدعيم"
+      },
+      "models": [
+        {
+          "code": "BX-0099-01-016",
+          "name": {
+            "en": "Counter-rotating axial local fans, press-in type",
+            "ar": "مراوح محورية موضعية متعاكسة الدوران، دافعة"
+          },
+          "specs": {
+            "models": {
+              "en": "FBDY series",
+              "ar": "سلسلة ⁦FBDY⁩"
+            },
+            "data": {
+              "en": "76–1250 m³/min; 1.1–75 kW; ventilation distance up to 10 km; for headings and tunnels",
+              "ar": "⁦76–1250⁩ م³/دقيقة؛ ⁦1.1–75⁩ كيلوواط؛ مسافة تهوية حتى ⁦10⁩ كم؛ لواجهات الحفر والأنفاق"
+            }
+          }
+        },
+        {
+          "code": "BX-0099-01-017",
+          "name": {
+            "en": "Counter-rotating axial main ventilators, extraction type",
+            "ar": "مراوح محورية رئيسية متعاكسة الدوران، شافطة"
+          },
+          "specs": {
+            "models": {
+              "en": "FBCDZ series",
+              "ar": "سلسلة ⁦FBCDZ⁩"
+            },
+            "data": {
+              "en": "18–399 m³/s; motor power to order; for medium and large mines",
+              "ar": "⁦18–399⁩ م³/ث؛ قدرة المحرك حسب الطلب؛ للمناجم المتوسطة والكبيرة"
+            }
+          }
+        },
+        {
+          "code": "BX-0099-01-018",
+          "name": {
+            "en": "Surface axial main ventilators, extraction type",
+            "ar": "مراوح محورية رئيسية سطحية، شافطة"
+          },
+          "specs": {
+            "models": {
+              "en": "FBCZ series",
+              "ar": "سلسلة ⁦FBCZ⁩"
+            },
+            "data": {
+              "en": "3.6–80 m³/s; 5.5–132 kW",
+              "ar": "⁦3.6–80⁩ م³/ث؛ ⁦5.5–132⁩ كيلوواط"
+            }
+          }
+        },
+        {
+          "code": "BX-0309-01-009",
+          "name": {
+            "en": "Underground support mesh",
+            "ar": "شبك تدعيم الأنفاق"
+          },
+          "specs": {
+            "models": {
+              "en": "Wire 6, 8, 10 mm; panels 1500×2800 mm",
+              "ar": "سلك ⁦6⁩ و⁦8⁩ و⁦10⁩ مم؛ ألواح ⁦1500×2800⁩ مم"
+            },
+            "data": {
+              "en": "Theoretical load 60 t/m² with 10 mm wire; tensile > 1000 MPa, yield > 800 MPa; welded or C-bent ends for overlap",
+              "ar": "حمل نظري ⁦60⁩ طن/م² بسلك ⁦10⁩ مم؛ مقاومة شد > ⁦1000⁩ ميغاباسكال وخضوع > ⁦800⁩ ميغاباسكال؛ نهايات ملحومة أو منحنية ⁦C⁩ للتراكب"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

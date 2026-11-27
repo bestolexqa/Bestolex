@@ -21,7 +21,7 @@
         >
           <span class="font-display font-bold text-base md:text-lg text-[#191919] dark:text-white">{{ t(tp.label) }}</span>
           <span v-if="tp.key" class="text-sm text-[#444545] dark:text-gray-300 leading-snug">{{ t(tp.key) }}</span>
-          <span v-if="tp.models.length > 1 || !family.missing" class="text-xs text-[#5E5F5F] dark:text-gray-400">{{ countLabel(tp.models.length) }}</span>
+          <span v-if="tp.models.length > 1 || !family.missing" class="text-xs text-[#5E5F5F] dark:text-gray-400">{{ countLabel(tp.models.length, tp) }}</span>
         </button>
       </div>
 
@@ -130,9 +130,9 @@ const keyRows = computed(() => (current.value?.keyRows || props.family.keyRows |
 const missingLabel = computed(() => props.family.missing ? t(props.family.missing) : (isAr.value ? 'عند الطلب' : 'On request'))
 // Codes such as "BX-0005-01-042 / PA-25kw" (one table code, many models) become valid ids.
 const anchor = (m) => `model-${String(m.code).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`
-// A family may count series or product lines instead of models (the generator pages: countUnit).
-const countLabel = (n) => {
-  const u = props.family.countUnit
+// A family or one of its types may count series, lines or grades instead of models (countUnit).
+const countLabel = (n, tp) => {
+  const u = tp?.countUnit || props.family.countUnit
   if (u) return isAr.value ? (n === 1 ? u.ar[0] : n === 2 ? u.ar[1] : `${n} ${u.ar[2]}`) : `${n} ${n === 1 ? u.en[0] : u.en[1]}`
   return isAr.value
     ? (n === 1 ? 'موديل واحد' : n === 2 ? 'موديلان' : `${n} موديلات`)

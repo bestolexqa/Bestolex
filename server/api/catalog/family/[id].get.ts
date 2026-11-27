@@ -18,7 +18,21 @@ const FAMILY_FILES: Record<string, string> = {
   'gas-generators-alternators': 'catalog/generators/gas-generators-alternators.json',
   'portable-generators': 'catalog/generators/portable-generators.json',
   'diesel-petrol-engines': 'catalog/generators/diesel-petrol-engines.json',
-  'generator-controls-load-banks': 'catalog/generators/generator-controls-load-banks.json'
+  'generator-controls-load-banks': 'catalog/generators/generator-controls-load-banks.json',
+  'geophysical-survey-instruments': 'catalog/mining/geophysical-survey-instruments.json',
+  'metal-detectors-water-well-drill-rigs': 'catalog/mining/metal-detectors-water-well-drill-rigs.json',
+  'core-rc-exploration-drill-rigs': 'catalog/mining/core-rc-exploration-drill-rigs.json',
+  'air-leg-rock-drills': 'catalog/mining/air-leg-rock-drills.json',
+  'hand-held-gasoline-rock-drills': 'catalog/mining/hand-held-gasoline-rock-drills.json',
+  'dth-water-well-drill-rigs': 'catalog/mining/dth-water-well-drill-rigs.json',
+  'diesel-air-compressors': 'catalog/mining/diesel-air-compressors.json',
+  'pneumatic-picks-wedges-cracking-mortar': 'catalog/mining/pneumatic-picks-wedges-cracking-mortar.json',
+  'paving-breakers-electric-hammers-hydraulic-power-packs': 'catalog/mining/paving-breakers-electric-hammers-hydraulic-power-packs.json',
+  'hydraulic-rock-splitters': 'catalog/mining/hydraulic-rock-splitters.json',
+  'line-drilling-machines-compact-dth-drillers': 'catalog/mining/line-drilling-machines-compact-dth-drillers.json',
+  'diamond-wire-saws': 'catalog/mining/diamond-wire-saws.json',
+  'block-pushing-handling': 'catalog/mining/block-pushing-handling.json',
+  'mine-ventilation-fans-ground-support-mesh': 'catalog/mining/mine-ventilation-fans-ground-support-mesh.json'
 }
 
 const cache = new Map<string, any>()

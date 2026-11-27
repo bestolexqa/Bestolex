@@ -13554,5 +13554,1973 @@
         ]
       }
     ]
+  },
+  {
+    "id": "gold-mining",
+    "title": {
+      "ar": "تعدين الذهب",
+      "en": "Gold Mining"
+    },
+    "image": "/categories/gold-mining.webp",
+    "description": {
+      "ar": "معدات تعدين الذهب على مراحل خط الإنتاج: التنقيب والحفر واستخراج الخام، ثم التكسير والطحن والغسيل والتركيز والمعالجة والصهر، مع المختبر ودعم الموقع. نورّد للمشاريع في الشرق الأوسط وأفريقيا بأكواد BX وجداول موديلات من كتالوجاتنا.",
+      "en": "Gold-mining equipment along the production line: exploration, drilling and ore extraction, then crushing, grinding, washing, concentration, processing and smelting, with laboratory and site support. We supply projects in the Middle East and Africa with BX codes and model tables from our catalogues."
+    },
+    "seo": {
+      "title": {
+        "ar": "معدات تعدين الذهب: التنقيب والحفر واستخراج الخام",
+        "en": "Gold Mining Equipment: Exploration, Drilling and Ore Extraction"
+      },
+      "description": {
+        "ar": "معدات تعدين الذهب من بيستوليكس: أجهزة المسح والكشف، وحفارات الاستكشاف وDTH، والمثاقب الصخرية، والضواغط، وأدوات التكسير والفلق. التوريد للشرق الأوسط وأفريقيا.",
+        "en": "Gold-mining equipment from Bestolex: survey instruments and detectors, exploration and DTH rigs, rock drills, compressors, and breaking and splitting tools. Supply to the Middle East and Africa."
+      }
+    },
+    "subcategories": [
+      {
+        "id": "exploration-drilling",
+        "title": {
+          "ar": "التنقيب والحفر واستخراج الخام",
+          "en": "Exploration, Drilling & Ore Extraction"
+        },
+        "products": [
+          {
+            "id": "geophysical-survey-instruments",
+            "name": {
+              "ar": "أجهزة المسح الجيوفيزيائي",
+              "en": "Geophysical Survey Instruments"
+            },
+            "coverImage": "/products/geophysical-survey-instruments/geophysical-survey-instruments.webp",
+            "description": {
+              "ar": "أجهزة تصوير المقاومية والاستقطاب المستحث (⁦IP⁩) لتتبّع عروق المرو (الكوارتز) ونطاقات الكبريتيد تحت السطح، ومقياس مغناطيسية بروتوني لرسم الخرائط المغناطيسية قبل الحفر.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Resistivity and induced-polarisation (IP) imaging to trace quartz veins and sulphide zones below the surface, and a proton magnetometer for magnetic mapping before drilling.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "نظام مقاومية متعدد الأقطاب ⁦WGMD-9⁩ بثلاث تهيئات: مركزي ثنائي الأبعاد، وموزّع ثنائي وثلاثي الأبعاد، وموزّع للمقاومية والاستقطاب",
+                "المسافة بين الأقطاب ⁦5⁩ م (⁦10⁩ م اختياري)، والعمق يتبع طول الامتداد",
+                "مقياس مغناطيسية بروتوني ⁦WCZ-3⁩: مدى ⁦20,000–100,000 nT⁩ ودقة ⁦0.5 nT⁩",
+                "⁦GPS⁩ مدمج وذاكرة ⁦2,000,000⁩ قراءة وواجهة ⁦USB⁩"
+              ],
+              "en": [
+                "WGMD-9 multi-electrode resistivity system in three configurations: centralised 2D, distributed 2D / 3D, and distributed resistivity and IP",
+                "Electrode spacing 5 m (10 m optional); depth follows spread length",
+                "WCZ-3 proton magnetometer: 20,000–100,000 nT range, 0.5 nT accuracy",
+                "Built-in GPS, 2,000,000-reading memory and USB interface"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "النظام",
+                  "value": "⁦WGMD-9 · WDA-1⁩"
+                },
+                {
+                  "label": "القنوات",
+                  "value": "⁦60 / 120⁩"
+                },
+                {
+                  "label": "مقياس المغناطيسية",
+                  "value": "⁦WCZ-3 · 0.05 nT⁩"
+                },
+                {
+                  "label": "وزن المقياس",
+                  "value": "⁦1.5⁩ كجم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "System",
+                  "value": "WGMD-9 · WDA-1"
+                },
+                {
+                  "label": "Channels",
+                  "value": "60 / 120"
+                },
+                {
+                  "label": "Magnetometer",
+                  "value": "WCZ-3 · 0.05 nT"
+                },
+                {
+                  "label": "Magnetometer weight",
+                  "value": "1.5 kg"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/geophysical-survey-instruments/geophysical-survey-instruments.webp"
+            ],
+            "image": "/products/geophysical-survey-instruments/geophysical-survey-instruments.webp",
+            "cardImage": "/products/geophysical-survey-instruments/geophysical-survey-instruments.webp",
+            "seo": {
+              "title": {
+                "ar": "أجهزة المسح الجيوفيزيائي للتنقيب عن الذهب",
+                "en": "Geophysical Survey Instruments for Gold Exploration"
+              },
+              "description": {
+                "ar": "نظام مقاومية واستقطاب ⁦WGMD-9⁩ بـ ⁦60⁩ أو ⁦120⁩ قناة ومقياس مغناطيسية بروتوني ⁦WCZ-3⁩ للتنقيب عن الذهب قبل الحفر. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "WGMD-9 resistivity and IP system (60 or 120 channels) and WCZ-3 proton magnetometer for gold exploration before drilling. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "جهازان للمسح قبل الحفر: نظام المقاومية والاستقطاب ⁦WGMD-9⁩ لتصوير ما تحت السطح، ومقياس المغناطيسية ⁦WCZ-3⁩ لرسم الخرائط. اختر من الجدول أدناه.",
+              "en": "Two instruments for surveying before drilling: the WGMD-9 resistivity and IP system for subsurface imaging, and the WCZ-3 magnetometer for magnetic mapping. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين مسح المقاومية والمسح المغناطيسي؟",
+                  "a": "مسح المقاومية والاستقطاب يرسم مقطعاً لما تحت السطح يُظهر عروق المرو ونطاقات الكبريتيد، والمسح المغناطيسي يرسم خريطة للتغيرات المغناطيسية لتحديد الصدوع وأجسام الخام قبل الحفر."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت، ونرد بعرض مفصّل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا، ونحدد طريقة الشحن والتسليم في عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the difference between resistivity and magnetic surveys?",
+                  "a": "Resistivity and IP draw a section of the subsurface that shows quartz veins and sulphide zones; a magnetic survey maps magnetic variations to locate faults and ore bodies before drilling."
+                },
+                {
+                  "q": "What do you need for a quotation?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions, and we reply with a detailed offer."
+                },
+                {
+                  "q": "Do you ship outside Qatar?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa, and set the shipping and delivery terms in the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "2",
+                  "label": "خطا منتجات"
+                },
+                {
+                  "value": "⁦60 / 120⁩",
+                  "label": "قناة"
+                },
+                {
+                  "value": "⁦0.5 nT⁩",
+                  "label": "دقة المقياس"
+                }
+              ],
+              "en": [
+                {
+                  "value": "2",
+                  "label": "Product lines"
+                },
+                {
+                  "value": "60 / 120",
+                  "label": "Channels"
+                },
+                {
+                  "value": "0.5 nT",
+                  "label": "Magnetometer accuracy"
+                }
+              ]
+            }
+          },
+          {
+            "id": "metal-detectors-water-well-drill-rigs",
+            "name": {
+              "ar": "أجهزة كشف المعادن وحفارات آبار المياه",
+              "en": "Metal Detectors & Water-Well Drill Rigs"
+            },
+            "coverImage": "/products/metal-detectors-water-well-drill-rigs/metal-detectors-water-well-drill-rigs.webp",
+            "description": {
+              "ar": "أدوات تنقيب لحقول الذهب: أجهزة كشف معادن يدوية بتقنية ⁦VLF⁩ ومؤشرات تحديد الموقع للقطع القريبة من السطح والآثار والعملات، ومغارف من الفولاذ المقاوم للصدأ لاستخراج الأهداف، وحفارات آبار مياه واستكشاف مصنّفة حسب عمق الحفر للآبار وتزويد المخيمات بالماء وأخذ عينات اللب.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Prospecting tools for gold fields: hand-held VLF metal detectors and pinpointers for shallow nuggets, relics and coins, stainless-steel scoops for recovering targets, and water-well and exploration drill rigs grouped by drilling depth for boreholes, camp water supply and core sampling.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "أجهزة ⁦VLF⁩ بموازنة أرضية وملفات مقاومة للماء حتى ⁦2–3⁩ م (⁦N60⁩ و⁦T90⁩ و⁦B75⁩)، وفي ⁦T90⁩ وضع للتنقيب",
+                "مؤشرات كشف يدوية ⁦360°⁩ مقاومة للماء حتى ⁦3⁩ م، ببطارية ليثيوم وشحن ⁦USB⁩ في ⁦TMR⁩",
+                "مجرفة ومغارف رمل من الفولاذ ⁦304⁩",
+                "حفارات بعمق ⁦50–1500⁩ م: بطاولة دوّارة، وبرأس دوّار، وهيدروليكية للّب، وطرقية بالكابل"
+              ],
+              "en": [
+                "VLF detectors with ground balance and coils waterproof to 2–3 m (N60, T90, B75); T90 has a prospecting mode",
+                "Hand-held 360° pinpointers waterproof to 3 m; TMR with lithium battery and USB charging",
+                "Edge shovel and sand scoops in stainless steel 304",
+                "Rigs from 50 to 1500 m: rotary-table, power-head, fully hydraulic core and cable-tool percussion"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "تقنية الكشف",
+                  "value": "VLF"
+                },
+                {
+                  "label": "موديلات الكشف",
+                  "value": "⁦F19 · F39 · N60 · T90 · B75⁩"
+                },
+                {
+                  "label": "عمق الحفارات",
+                  "value": "⁦50–1500⁩ م"
+                },
+                {
+                  "label": "قطر البئر",
+                  "value": "⁦110–1000⁩ مم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Detector technology",
+                  "value": "VLF"
+                },
+                {
+                  "label": "Detector models",
+                  "value": "F19 · F39 · N60 · T90 · B75"
+                },
+                {
+                  "label": "Rig drilling depth",
+                  "value": "50–1500 m"
+                },
+                {
+                  "label": "Borehole Ø",
+                  "value": "110–1000 mm"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/metal-detectors-water-well-drill-rigs/metal-detectors-water-well-drill-rigs.webp",
+              "/products/metal-detectors-water-well-drill-rigs/metal-detectors-water-well-drill-rigs-2.webp"
+            ],
+            "image": "/products/metal-detectors-water-well-drill-rigs/metal-detectors-water-well-drill-rigs.webp",
+            "cardImage": "/products/metal-detectors-water-well-drill-rigs/metal-detectors-water-well-drill-rigs.webp",
+            "seo": {
+              "title": {
+                "ar": "أجهزة كشف الذهب والمعادن VLF وحفارات آبار المياه",
+                "en": "VLF Gold & Metal Detectors and Water-Well Drill Rigs"
+              },
+              "description": {
+                "ar": "أجهزة كشف معادن ⁦VLF⁩ ومؤشرات ومغارف للتنقيب عن الذهب، وحفارات آبار مياه واستكشاف بعمق ⁦50–1500⁩ م. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "VLF metal detectors, pinpointers and scoops for gold prospecting, and water-well and exploration rigs from 50 to 1500 m. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أجهزة كشف المعادن والمؤشرات والمغارف للتنقيب السطحي، وأربع فئات من حفارات الآبار والاستكشاف حسب العمق. اختر من الجدول أدناه.",
+              "en": "Metal detectors, pinpointers and scoops for surface prospecting, and four classes of water-well and exploration rigs by depth. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي جهاز كشف يناسب التنقيب عن الذهب؟",
+                  "a": "جهاز ⁦T90⁩ فيه وضع مخصص للتنقيب وتردد ⁦18.75⁩ كيلوهرتز أو متعدد الترددات، وهو الأنسب للقطع الصغيرة. أرسل لنا نوع التربة وعمق البحث لنقترح الملف المناسب."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت، ونرد بعرض مفصّل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا، ونحدد طريقة الشحن والتسليم في عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which detector suits gold prospecting?",
+                  "a": "The T90 has a dedicated prospecting mode and 18.75 kHz or multi-frequency operation, which suits small nuggets. Send us the ground type and search depth and we suggest the right coil."
+                },
+                {
+                  "q": "What do you need for a quotation?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions, and we reply with a detailed offer."
+                },
+                {
+                  "q": "Do you ship outside Qatar?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa, and set the shipping and delivery terms in the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "16",
+                  "label": "موديلاً ونوعاً"
+                },
+                {
+                  "value": "VLF",
+                  "label": "تقنية الكشف"
+                },
+                {
+                  "value": "⁦50–1500⁩ م",
+                  "label": "عمق الحفر"
+                }
+              ],
+              "en": [
+                {
+                  "value": "16",
+                  "label": "Models & types"
+                },
+                {
+                  "value": "VLF",
+                  "label": "Detector technology"
+                },
+                {
+                  "value": "50–1500 m",
+                  "label": "Drilling depth"
+                }
+              ]
+            }
+          },
+          {
+            "id": "core-rc-exploration-drill-rigs",
+            "name": {
+              "ar": "حفارات الاستكشاف اللبّية والدوران العكسي (RC)",
+              "en": "Core & RC Exploration Drill Rigs"
+            },
+            "coverImage": "/products/core-rc-exploration-drill-rigs/core-rc-exploration-drill-rigs.webp",
+            "description": {
+              "ar": "حفارات لبّية ماسية من حفارة ظهرية بعمق ⁦30⁩ م لأخذ العينات الضحلة إلى حفارات جنزيرية تصل إلى ⁦1,500⁩ م للاستكشاف العميق، وحفارات الدوران العكسي (⁦RC⁩) لأخذ العينات السريع والحفر لضبط الرتبة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Diamond-core drill rigs from a 30 m backpack drill for shallow sampling to crawler-mounted rigs reaching 1,500 m for deep exploration, plus reverse-circulation (RC) rigs for fast sampling and grade-control drilling.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "حفارة ⁦HW-B30⁩ تُحمل على الظهر إلى المواقع التي لا تصلها المركبات",
+                "ثمانية موديلات لبّية من ⁦30⁩ إلى ⁦1,500⁩ م، منها جنزيرية ⁦GL⁩ للاستكشاف العميق",
+                "⁦HW-1500GL⁩ بقدرة ⁦132⁩ كيلوواط ولب ⁦50–114⁩ مم",
+                "ستة موديلات ⁦RC⁩ تعيد عينات الفتات باستمرار لتحليل سريع"
+              ],
+              "en": [
+                "HW-B30 backpack drill carried to sites vehicles cannot reach",
+                "Eight core models from 30 to 1,500 m, including crawler GL rigs for deep exploration",
+                "HW-1500GL with 132 kW and 50–114 mm core",
+                "Six RC models returning chip samples continuously for fast assaying"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "عمق الحفر",
+                  "value": "⁦30–1,500⁩ م"
+                },
+                {
+                  "label": "حفارات اللب",
+                  "value": "⁦8⁩ موديلات"
+                },
+                {
+                  "label": "حفارات RC",
+                  "value": "⁦6⁩ موديلات"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Drilling depth",
+                  "value": "30–1,500 m"
+                },
+                {
+                  "label": "Core rigs",
+                  "value": "8 models"
+                },
+                {
+                  "label": "RC rigs",
+                  "value": "6 models"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/core-rc-exploration-drill-rigs/core-rc-exploration-drill-rigs.webp"
+            ],
+            "image": "/products/core-rc-exploration-drill-rigs/core-rc-exploration-drill-rigs.webp",
+            "cardImage": "/products/core-rc-exploration-drill-rigs/core-rc-exploration-drill-rigs.webp",
+            "seo": {
+              "title": {
+                "ar": "حفارات الاستكشاف اللبّية والدوران العكسي RC حتى 1,500 م",
+                "en": "Core & RC Exploration Drill Rigs to 1,500 m"
+              },
+              "description": {
+                "ar": "حفارات لبّية ماسية من ⁦30⁩ إلى ⁦1,500⁩ م وحفارات دوران عكسي ⁦RC⁩ لاستكشاف الذهب وضبط الرتبة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Diamond-core rigs from 30 to 1,500 m and reverse-circulation (RC) rigs for gold exploration and grade control. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "ثماني حفارات لبّية وست حفارات دوران عكسي، من حفارة ظهرية للعينات الضحلة إلى حفارات جنزيرية للاستكشاف العميق. اختر من الجدول أدناه.",
+              "en": "Eight core rigs and six RC rigs, from a backpack drill for shallow samples to crawler rigs for deep exploration. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "متى أختار الحفر اللبّي ومتى الدوران العكسي؟",
+                  "a": "الحفر اللبّي يعطي لباً صخرياً كاملاً لدراسة البنية والرتبة بدقة، والدوران العكسي أسرع وأقل كلفة ويعطي فتاتاً للتحليل وضبط الرتبة. والعمق الفعلي يتبع قطر الثقب والصخر."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت، ونرد بعرض مفصّل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا، ونحدد طريقة الشحن والتسليم في عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "When do I choose core drilling or RC?",
+                  "a": "Core drilling gives a full rock core for structure and grade studies; RC is faster and cheaper and returns chips for assaying and grade control. Actual depth depends on hole diameter and rock."
+                },
+                {
+                  "q": "What do you need for a quotation?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions, and we reply with a detailed offer."
+                },
+                {
+                  "q": "Do you ship outside Qatar?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa, and set the shipping and delivery terms in the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦30–1,500⁩ م",
+                  "label": "عمق الحفر"
+                },
+                {
+                  "value": "8",
+                  "label": "حفارات لبّية"
+                },
+                {
+                  "value": "6",
+                  "label": "حفارات RC"
+                }
+              ],
+              "en": [
+                {
+                  "value": "30–1,500 m",
+                  "label": "Drilling depth"
+                },
+                {
+                  "value": "8",
+                  "label": "Core-rig models"
+                },
+                {
+                  "value": "6",
+                  "label": "RC-rig models"
+                }
+              ]
+            }
+          },
+          {
+            "id": "air-leg-rock-drills",
+            "name": {
+              "ar": "حفارات الصخور بالساق الهوائية",
+              "en": "Air-Leg Rock Drills"
+            },
+            "coverImage": "/products/air-leg-rock-drills/air-leg-rock-drills.webp",
+            "description": {
+              "ar": "مثاقب صخرية هوائية على سيقان هوائية تلسكوبية لحفر ثقوب التفجير في الأنفاق والآبار والحفر المفتوحة الصغيرة، ولكل مثقاب ساق هوائية مطابقة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Pneumatic rock drills on telescopic air legs for drilling blast holes in underground drives, shafts and small open pits. Matched air legs cover every drill in the range.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "أربعة مثاقب ⁦YT⁩ بوزن ⁦24–27⁩ كجم وساق ⁦H22 × 108⁩",
+                "قطر الثقب ⁦34–45⁩ مم وعمق الحفر ⁦5⁩ م",
+                "ضغط الهواء ⁦0.63⁩ ميغاباسكال وضغط الماء ⁦0.3⁩ ميغاباسكال",
+                "سبع سيقان ⁦FT⁩ بشوط دفع ⁦810–1365⁩ مم"
+              ],
+              "en": [
+                "Four YT drills, 24–27 kg, H22 × 108 shank",
+                "Hole Ø 34–45 mm, drilling depth 5 m",
+                "Air pressure 0.63 MPa, water pressure 0.3 MPa",
+                "Seven FT air legs with 810–1365 mm push stroke"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المثاقب",
+                  "value": "⁦YT29A · YT27 · YT28 · YT24⁩"
+                },
+                {
+                  "label": "قطر الثقب",
+                  "value": "⁦34–45⁩ مم"
+                },
+                {
+                  "label": "ضغط الهواء",
+                  "value": "⁦0.63⁩ ميغاباسكال"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Drills",
+                  "value": "YT29A · YT27 · YT28 · YT24"
+                },
+                {
+                  "label": "Hole Ø",
+                  "value": "34–45 mm"
+                },
+                {
+                  "label": "Air pressure",
+                  "value": "0.63 MPa"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/air-leg-rock-drills/air-leg-rock-drills.webp"
+            ],
+            "image": "/products/air-leg-rock-drills/air-leg-rock-drills.webp",
+            "cardImage": "/products/air-leg-rock-drills/air-leg-rock-drills.webp",
+            "seo": {
+              "title": {
+                "ar": "حفارات الصخور بالساق الهوائية YT وسيقان FT",
+                "en": "YT Air-Leg Rock Drills and FT Air Legs"
+              },
+              "description": {
+                "ar": "مثاقب صخرية هوائية ⁦YT⁩ بوزن ⁦24–27⁩ كجم وقطر ثقب ⁦34–45⁩ مم مع سيقان ⁦FT⁩ مطابقة، للأنفاق والحفر المفتوحة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "YT pneumatic rock drills (24–27 kg, 34–45 mm holes) with matching FT air legs for underground drives and open pits. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أربعة مثاقب صخرية بساق هوائية وسبع سيقان مطابقة لحفر ثقوب التفجير تحت الأرض وفي الحفر المفتوحة. اختر من الجدول أدناه.",
+              "en": "Four air-leg rock drills and seven matching air legs for blast-hole drilling underground and in open pits. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي ساق هوائية تناسب المثقاب؟",
+                  "a": "عمود «للمثقاب» في جدول السيقان يحدد ذلك: ⁦FT160⁩ لمثاقب ⁦YT23⁩ و⁦YT27⁩ و⁦YT29A⁩، و⁦FT160B⁩ و⁦FT160BD⁩ و⁦FT160BC⁩ لمثقاب ⁦YT28⁩، و⁦FT140B⁩ و⁦FT140BD⁩ لمثقاب ⁦YT24⁩."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت، ونرد بعرض مفصّل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا، ونحدد طريقة الشحن والتسليم في عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which air leg fits which drill?",
+                  "a": "The \"For rock drill\" column of the air-leg table gives it: FT160 for YT23, YT27 and YT29A; FT160B, FT160BD and FT160BC for YT28; FT140B and FT140BD for YT24."
+                },
+                {
+                  "q": "What do you need for a quotation?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions, and we reply with a detailed offer."
+                },
+                {
+                  "q": "Do you ship outside Qatar?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa, and set the shipping and delivery terms in the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "11",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦24–27⁩ كجم",
+                  "label": "وزن المثقاب"
+                },
+                {
+                  "value": "⁦5⁩ م",
+                  "label": "عمق الحفر"
+                }
+              ],
+              "en": [
+                {
+                  "value": "11",
+                  "label": "Models"
+                },
+                {
+                  "value": "24–27 kg",
+                  "label": "Drill weight"
+                },
+                {
+                  "value": "5 m",
+                  "label": "Drilling depth"
+                }
+              ]
+            }
+          },
+          {
+            "id": "hand-held-gasoline-rock-drills",
+            "name": {
+              "ar": "حفارات الصخور اليدوية والعاملة بالبنزين",
+              "en": "Hand-Held & Gasoline Rock Drills"
+            },
+            "coverImage": "/products/hand-held-gasoline-rock-drills/hand-held-gasoline-rock-drills.webp",
+            "description": {
+              "ar": "مثاقب يدوية خفيفة للثقوب الرأسية والتكسير الثانوي، ومثاقب بالبنزين مكتفية ذاتياً لا تحتاج إلى ضاغط، وتناسب المواقع النائية.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Light hand-held drills for vertical holes and secondary breaking, plus self-contained gasoline drills that need no compressor, well suited to remote artisanal sites.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "مثاقب يدوية من ⁦6⁩ إلى ⁦26⁩ كجم، وعمق حفر حتى ⁦5⁩ م",
+                "مثاقب بالبنزين ⁦YN27C⁩ بسعة ⁦185⁩ سم³ للحفر والتكسير بلا ضاغط",
+                "سرعة حفر ⁦YN27C⁩+ ‏⁦350–500⁩ مم/دقيقة",
+                "ملحقات: مزلّقات، ومزيّت خط هواء، وخراطيم هواء ⁦3/8\"–2\"⁩ بضغط ⁦20⁩ بار"
+              ],
+              "en": [
+                "Hand-held drills from 6 to 26 kg, drilling depth up to 5 m",
+                "YN27C gasoline drills (185 cm³) for drilling and breaking without a compressor",
+                "YN27C+ drilling speed 350–500 mm/min",
+                "Accessories: lubricators, air-line oiler and 3/8\"–2\" air hoses rated 20 bar"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الوزن",
+                  "value": "⁦6–28⁩ كجم"
+                },
+                {
+                  "label": "قطر الثقب",
+                  "value": "⁦20–70⁩ مم"
+                },
+                {
+                  "label": "عمق الحفر",
+                  "value": "حتى ⁦5⁩ م"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Weight",
+                  "value": "6–28 kg"
+                },
+                {
+                  "label": "Hole Ø",
+                  "value": "20–70 mm"
+                },
+                {
+                  "label": "Drilling depth",
+                  "value": "Up to 5 m"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/hand-held-gasoline-rock-drills/hand-held-gasoline-rock-drills.webp"
+            ],
+            "image": "/products/hand-held-gasoline-rock-drills/hand-held-gasoline-rock-drills.webp",
+            "cardImage": "/products/hand-held-gasoline-rock-drills/hand-held-gasoline-rock-drills.webp",
+            "seo": {
+              "title": {
+                "ar": "حفارات الصخور اليدوية والعاملة بالبنزين",
+                "en": "Hand-Held and Gasoline Rock Drills"
+              },
+              "description": {
+                "ar": "مثاقب صخرية يدوية هوائية من ⁦6⁩ إلى ⁦26⁩ كجم ومثاقب بالبنزين ⁦YN27C⁩ بلا ضاغط للمواقع النائية. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Pneumatic hand-held rock drills from 6 to 26 kg and YN27C gasoline drills that need no compressor, for remote sites. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مثاقب يدوية هوائية في مجموعتين، ومثقابان بالبنزين لا يحتاجان إلى ضاغط. اختر من الجدول أدناه.",
+              "en": "Pneumatic hand-held drills in two ranges and two gasoline drills that need no compressor. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "متى أختار مثقاب البنزين؟",
+                  "a": "حين لا يتوفر ضاغط هواء في الموقع أو يصعب نقله، فمثقاب البنزين ⁦YN27C⁩ يحفر ويكسّر بمحركه الخاص بوزن ⁦28⁩ كجم."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت، ونرد بعرض مفصّل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا، ونحدد طريقة الشحن والتسليم في عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "When should I choose a gasoline drill?",
+                  "a": "When there is no air compressor on site or it is hard to move one: the YN27C drills and breaks on its own engine and weighs 28 kg."
+                },
+                {
+                  "q": "What do you need for a quotation?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions, and we reply with a detailed offer."
+                },
+                {
+                  "q": "Do you ship outside Qatar?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa, and set the shipping and delivery terms in the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "13",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦185⁩ سم³",
+                  "label": "محرك البنزين"
+                },
+                {
+                  "value": "⁦5⁩ م",
+                  "label": "عمق الحفر"
+                }
+              ],
+              "en": [
+                {
+                  "value": "13",
+                  "label": "Models"
+                },
+                {
+                  "value": "185 cm³",
+                  "label": "Gasoline engine"
+                },
+                {
+                  "value": "5 m",
+                  "label": "Drilling depth"
+                }
+              ]
+            }
+          },
+          {
+            "id": "dth-water-well-drill-rigs",
+            "name": {
+              "ar": "حفارات DTH وحفارات آبار المياه",
+              "en": "DTH & Water-Well Drill Rigs"
+            },
+            "coverImage": "/products/dth-water-well-drill-rigs/dth-water-well-drill-rigs.webp",
+            "description": {
+              "ar": "حفارات ⁦DTH⁩ جنزيرية لثقوب التفجير والاستكشاف وآبار المياه من ⁦130⁩ إلى ⁦600⁩ م، وحفارات محمولة مدمجة لتزويد المخيمات بالماء، وحفارات ⁦DTH⁩ منفصلة من ⁦50⁩ إلى ⁦78⁩ كيلوواط تعمل بضاغط منفصل، ومتكاملة من ⁦162⁩ إلى ⁦264⁩ كيلوواط بهواء مدمج لثقوب التفجير بقطر ⁦65–165⁩ مم في المناجم المفتوحة والمحاجر.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Crawler DTH rigs for blast holes, exploration and water wells from 130 m to 600 m, compact portable rigs for camp water supply, and separated (50–78 kW, separate compressor) and integrated (162–264 kW, on-board air) DTH rigs for 65–165 mm blast holes in open-pit mines and quarries.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦13⁩ حفارة جنزيرية بعمق ⁦130–600⁩ م وقطر ثقب ⁦100–350⁩ مم",
+                "سير ⁦2.5–3⁩ كم/س وصعود منحدر ⁦30°⁩، ومواسير حفر ⁦1.5–6.0⁩ م",
+                "حفارات آبار محمولة بعمق ⁦100–350⁩ م يشغّلها شخص واحد، تُورَّد بمضخة و⁦20⁩ م من المواسير",
+                "حفارات ⁦DTH⁩ منفصلة ومتكاملة لثقوب ⁦65–165⁩ مم"
+              ],
+              "en": [
+                "13 crawler rigs, 130–600 m deep, 100–350 mm holes",
+                "Travel 2.5–3 km/h, 30° gradeability, drill pipes 1.5–6.0 m",
+                "Portable well rigs 100–350 m, one-person operation, supplied with pump and 20 m of pipe",
+                "Separated and integrated DTH rigs for 65–165 mm holes"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "العمق",
+                  "value": "⁦100–600⁩ م"
+                },
+                {
+                  "label": "قطر الثقب",
+                  "value": "⁦65–420⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦23–264⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Depth",
+                  "value": "100–600 m"
+                },
+                {
+                  "label": "Hole Ø",
+                  "value": "65–420 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "23–264 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/dth-water-well-drill-rigs/dth-water-well-drill-rigs.webp"
+            ],
+            "image": "/products/dth-water-well-drill-rigs/dth-water-well-drill-rigs.webp",
+            "cardImage": "/products/dth-water-well-drill-rigs/dth-water-well-drill-rigs.webp",
+            "seo": {
+              "title": {
+                "ar": "حفارات DTH الجنزيرية وحفارات آبار المياه حتى 600 م",
+                "en": "Crawler DTH and Water-Well Drill Rigs to 600 m"
+              },
+              "description": {
+                "ar": "حفارات ⁦DTH⁩ جنزيرية بعمق ⁦130–600⁩ م، وحفارات آبار محمولة، وحفارات ⁦DTH⁩ منفصلة ومتكاملة للمناجم والمحاجر. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Crawler DTH rigs from 130 to 600 m, portable water-well rigs, and separated and integrated DTH rigs for mines and quarries. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "حفارات ⁦DTH⁩ جنزيرية، وحفارات آبار محمولة، وحفارات ⁦DTH⁩ منفصلة ومتكاملة للمناجم المفتوحة. اختر من الجدول أدناه.",
+              "en": "Crawler DTH rigs, portable water-well rigs, and separated and integrated DTH rigs for open-pit mines. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين حفارة DTH المنفصلة والمتكاملة؟",
+                  "a": "المنفصلة تعمل بضاغط هواء منفصل (⁦50–78⁩ كيلوواط) وتكلفتها أقل، والمتكاملة فيها ضاغط مدمج (⁦162–264⁩ كيلوواط) فتتحرك وتحفر وحدها أسرع في المحاجر والمناجم."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت، ونرد بعرض مفصّل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا، ونحدد طريقة الشحن والتسليم في عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the difference between separated and integrated DTH rigs?",
+                  "a": "A separated rig runs on a separate compressor (50–78 kW) and costs less; an integrated rig carries its own compressor (162–264 kW), so it moves and drills on its own, faster, in quarries and mines."
+                },
+                {
+                  "q": "What do you need for a quotation?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions, and we reply with a detailed offer."
+                },
+                {
+                  "q": "Do you ship outside Qatar?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa, and set the shipping and delivery terms in the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "27",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦600⁩ م",
+                  "label": "أقصى عمق"
+                },
+                {
+                  "value": "⁦264⁩ كيلوواط",
+                  "label": "أعلى قدرة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "27",
+                  "label": "Models"
+                },
+                {
+                  "value": "600 m",
+                  "label": "Max. depth"
+                },
+                {
+                  "value": "264 kW",
+                  "label": "Max. power"
+                }
+              ]
+            }
+          },
+          {
+            "id": "diesel-air-compressors",
+            "name": {
+              "ar": "ضواغط الهواء الديزل",
+              "en": "Diesel Air Compressors"
+            },
+            "coverImage": "/products/diesel-air-compressors/diesel-air-compressors.webp",
+            "description": {
+              "ar": "ضواغط لولبية بالديزل على مقطورة لحفر ⁦DTH⁩، وضواغط مكبسية مدمجة بالديزل للمثاقب الصخرية والمعاول الهوائية.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Trailer-mounted diesel screw compressors for DTH drilling, and compact diesel piston compressors for rock drills and air picks.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦18⁩ ضاغطاً لولبياً بتدفق ⁦13–32⁩ م³/دقيقة (⁦455–1120 CFM⁩) وضغط ⁦7–18⁩ بار",
+                "محركات ديزل مثل ⁦6BTA5.9⁩ و⁦6CTA8.3⁩ و⁦YC6⁩ كما في الكتالوج",
+                "مقطورة بأربع عجلات",
+                "⁦8⁩ ضواغط مكبسية ⁦1.8–4.0⁩ م³/دقيقة بمحركات ⁦S1100–S1125⁩"
+              ],
+              "en": [
+                "18 screw compressors, 13–32 m³/min (455–1120 CFM), 7–18 bar",
+                "Diesel engines such as 6BTA5.9, 6CTA8.3 and YC6 models, as listed in the catalogue",
+                "4-wheel trailer",
+                "8 piston compressors, 1.8–4.0 m³/min, S1100–S1125 engines"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "التدفق اللولبي",
+                  "value": "⁦13–32⁩ م³/دقيقة"
+                },
+                {
+                  "label": "الضغط",
+                  "value": "⁦7–18⁩ بار"
+                },
+                {
+                  "label": "التدفق المكبسي",
+                  "value": "⁦1.8–4.0⁩ م³/دقيقة"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Screw air delivery",
+                  "value": "13–32 m³/min"
+                },
+                {
+                  "label": "Pressure",
+                  "value": "7–18 bar"
+                },
+                {
+                  "label": "Piston air delivery",
+                  "value": "1.8–4.0 m³/min"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/diesel-air-compressors/diesel-air-compressors.webp"
+            ],
+            "image": "/products/diesel-air-compressors/diesel-air-compressors.webp",
+            "cardImage": "/products/diesel-air-compressors/diesel-air-compressors.webp",
+            "seo": {
+              "title": {
+                "ar": "ضواغط الهواء الديزل اللولبية والمكبسية للحفر",
+                "en": "Diesel Screw and Piston Air Compressors for Drilling"
+              },
+              "description": {
+                "ar": "ضواغط لولبية بالديزل ⁦13–32⁩ م³/دقيقة حتى ⁦18⁩ بار على مقطورة لحفر ⁦DTH⁩، وضواغط مكبسية للمثاقب. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Diesel screw compressors, 13–32 m³/min up to 18 bar on a trailer for DTH drilling, and piston compressors for rock drills. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "ضواغط لولبية على مقطورة لحفر ⁦DTH⁩ وضواغط مكبسية للمثاقب والمعاول. اختر الضاغط من التدفق والضغط اللذين تحتاجهما الحفارة.",
+              "en": "Trailer screw compressors for DTH drilling and piston compressors for rock drills and picks. Pick the compressor from the air delivery and pressure your rig needs."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كيف أختار الضاغط لحفارة DTH؟",
+                  "a": "طابق التدفق والضغط مع استهلاك الحفارة في جدولها: حفارات ⁦DTH⁩ الجنزيرية تستهلك ⁦15–42⁩ م³/دقيقة عند ⁦1.45–3.5⁩ ميغاباسكال (⁦14.5–35⁩ بار)، فاختر ضاغطاً لا يقل عنها."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت، ونرد بعرض مفصّل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا، ونحدد طريقة الشحن والتسليم في عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How do I choose a compressor for a DTH rig?",
+                  "a": "Match delivery and pressure to the rig's use in its table: the crawler DTH rigs use 15–42 m³/min at 1.45–3.5 MPa (14.5–35 bar), so choose a compressor that meets them."
+                },
+                {
+                  "q": "What do you need for a quotation?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions, and we reply with a detailed offer."
+                },
+                {
+                  "q": "Do you ship outside Qatar?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa, and set the shipping and delivery terms in the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "26",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦32⁩ م³/دقيقة",
+                  "label": "أعلى تدفق"
+                },
+                {
+                  "value": "⁦18⁩ بار",
+                  "label": "أعلى ضغط"
+                }
+              ],
+              "en": [
+                {
+                  "value": "26",
+                  "label": "Models"
+                },
+                {
+                  "value": "32 m³/min",
+                  "label": "Max. air delivery"
+                },
+                {
+                  "value": "18 bar",
+                  "label": "Max. pressure"
+                }
+              ]
+            }
+          },
+          {
+            "id": "pneumatic-picks-wedges-cracking-mortar",
+            "name": {
+              "ar": "المعاول الهوائية والأسافين وملاط التكسير",
+              "en": "Pneumatic Picks, Wedges & Cracking Mortar"
+            },
+            "coverImage": "/products/pneumatic-picks-wedges-cracking-mortar/pneumatic-picks-wedges-cracking-mortar.webp",
+            "description": {
+              "ar": "معاول هوائية لتكسير الصخر الطري وعروق المرو، وأطقم أسافين لفلق الحجر، وملاط تكسير بلا صوت لفلق الصخر دون متفجرات.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Air picks for breaking soft rock and quartz veins, plug-and-feather wedge sets, and soundless cracking mortar for splitting rock without explosives.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "خمسة معاول ⁦G⁩ بوزن ⁦7.2–20⁩ كجم وطاقة صدمة ≥ ⁦43–55⁩ جول",
+                "⁦35⁩ مقاساً من الأسافين للمعاول الهوائية والاستخدام اليدوي",
+                "ملاط تكسير بأربع درجات حسب حرارة الثقب (⁦0–50 °⁩م)",
+                "بلا تفجير ولا تطاير حجارة ولا اهتزاز"
+              ],
+              "en": [
+                "Five G picks, 7.2–20 kg, impact energy ≥ 43–55 J",
+                "35 wedge sizes for air picks and hand use",
+                "Cracking mortar in four grades by hole temperature (0–50 °C)",
+                "No blast, no fly-rock and no vibration"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المعاول",
+                  "value": "⁦G7 · G10 · G11 · G15 · G20⁩"
+                },
+                {
+                  "label": "الأسافين",
+                  "value": "⁦35⁩ مقاساً"
+                },
+                {
+                  "label": "الملاط",
+                  "value": "⁦SCA-1 … SCA-4⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Picks",
+                  "value": "G7 · G10 · G11 · G15 · G20"
+                },
+                {
+                  "label": "Wedges",
+                  "value": "35 sizes"
+                },
+                {
+                  "label": "Mortar",
+                  "value": "SCA-1 … SCA-4"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/pneumatic-picks-wedges-cracking-mortar/pneumatic-picks-wedges-cracking-mortar.webp"
+            ],
+            "image": "/products/pneumatic-picks-wedges-cracking-mortar/pneumatic-picks-wedges-cracking-mortar.webp",
+            "cardImage": "/products/pneumatic-picks-wedges-cracking-mortar/pneumatic-picks-wedges-cracking-mortar.webp",
+            "seo": {
+              "title": {
+                "ar": "المعاول الهوائية والأسافين وملاط التكسير بلا تفجير",
+                "en": "Pneumatic Picks, Wedges and Soundless Cracking Mortar"
+              },
+              "description": {
+                "ar": "معاول هوائية ⁦G⁩ من ⁦7.2⁩ إلى ⁦20⁩ كجم، و⁦35⁩ مقاساً من الأسافين، وملاط تكسير بلا صوت لفلق الصخر دون متفجرات. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "G air picks from 7.2 to 20 kg, 35 wedge sizes and soundless cracking mortar for splitting rock without explosives. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "معاول هوائية وأسافين وملاط تكسير لفلق الصخر حيث يُمنع التفجير. اختر من الجدول أدناه.",
+              "en": "Air picks, wedges and cracking mortar for splitting rock where blasting is not allowed. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كيف أختار درجة ملاط التكسير؟",
+                  "a": "حسب حرارة الثقب: ⁦SCA-3⁩ من ⁦0⁩ إلى ⁦15 °⁩م، و⁦SCA-2⁩ من ⁦15⁩ إلى ⁦25 °⁩م، و⁦SCA-1⁩ من ⁦25⁩ إلى ⁦35 °⁩م، و⁦SCA-4⁩ من ⁦35⁩ إلى ⁦50 °⁩م. يُخلط كل كيس ⁦5⁩ كجم بنحو ⁦1.2⁩ كجم من الماء."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت، ونرد بعرض مفصّل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا، ونحدد طريقة الشحن والتسليم في عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How do I choose the cracking mortar grade?",
+                  "a": "By hole temperature: SCA-3 for 0–15 °C, SCA-2 for 15–25 °C, SCA-1 for 25–35 °C and SCA-4 for 35–50 °C. Mix each 5 kg bag with about 1.2 kg of water."
+                },
+                {
+                  "q": "What do you need for a quotation?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions, and we reply with a detailed offer."
+                },
+                {
+                  "q": "Do you ship outside Qatar?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa, and set the shipping and delivery terms in the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "11",
+                  "label": "موديلاً ودرجة"
+                },
+                {
+                  "value": "⁦7.2–20⁩ كجم",
+                  "label": "وزن المعول"
+                },
+                {
+                  "value": "⁦0–50 °⁩م",
+                  "label": "حرارة الثقب"
+                }
+              ],
+              "en": [
+                {
+                  "value": "11",
+                  "label": "Models & grades"
+                },
+                {
+                  "value": "7.2–20 kg",
+                  "label": "Pick weight"
+                },
+                {
+                  "value": "0–50 °C",
+                  "label": "Hole temperature"
+                }
+              ]
+            }
+          },
+          {
+            "id": "paving-breakers-electric-hammers-hydraulic-power-packs",
+            "name": {
+              "ar": "كسارات الرصف والمطارق الكهربائية ووحدات القدرة الهيدروليكية",
+              "en": "Paving Breakers, Electric Hammers & Hydraulic Power Packs"
+            },
+            "coverImage": "/products/paving-breakers-electric-hammers-hydraulic-power-packs/paving-breakers-electric-hammers-hydraulic-power-packs.webp",
+            "description": {
+              "ar": "كسارات هوائية يدوية من ⁦7⁩ إلى ⁦42⁩ كجم لتكسير الصخر والخرسانة والكتل الكبيرة، ومطارق هدم كهربائية ⁦220⁩ فولت، ووحدة قدرة هيدروليكية بالبنزين مع كسارة يدوية حيث لا يتوفر ضاغط.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Hand-held pneumatic breakers from 7 to 42 kg for breaking rock, concrete and oversize, 220 V electric demolition hammers, and a gasoline hydraulic power pack with hand-held breaker where no compressor is available.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "ثماني كسارات هوائية بوزن ⁦7.2–42⁩ كجم وحتى ⁦1400⁩ ضربة/دقيقة",
+                "ضغط الهواء ⁦0.63⁩ ميغاباسكال وخرطوم ⁦19⁩ مم",
+                "ثلاث مطارق كهربائية ⁦1800–3500⁩ واط بجهد ⁦220⁩ فولت",
+                "محطة هيدروليكية بالبنزين بمحرك ⁦Honda GX390⁩ ‏⁦13⁩ حصاناً وضغط ⁦155⁩ بار"
+              ],
+              "en": [
+                "Eight pneumatic breakers, 7.2–42 kg, up to 1400 blows/min",
+                "Air pressure 0.63 MPa, 19 mm hose",
+                "Three electric hammers, 1800–3500 W, 220 V",
+                "Gasoline hydraulic station with Honda GX390 13 hp engine, 155 bar"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "وزن الكسارة",
+                  "value": "⁦7.2–42⁩ كجم"
+                },
+                {
+                  "label": "المطارق الكهربائية",
+                  "value": "⁦1800–3500⁩ واط"
+                },
+                {
+                  "label": "المحطة الهيدروليكية",
+                  "value": "⁦155⁩ بار · ⁦20–30⁩ لتر/دقيقة"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Breaker weight",
+                  "value": "7.2–42 kg"
+                },
+                {
+                  "label": "Electric hammers",
+                  "value": "1800–3500 W"
+                },
+                {
+                  "label": "Hydraulic station",
+                  "value": "155 bar · 20–30 L/min"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/paving-breakers-electric-hammers-hydraulic-power-packs/paving-breakers-electric-hammers-hydraulic-power-packs.webp"
+            ],
+            "image": "/products/paving-breakers-electric-hammers-hydraulic-power-packs/paving-breakers-electric-hammers-hydraulic-power-packs.webp",
+            "cardImage": "/products/paving-breakers-electric-hammers-hydraulic-power-packs/paving-breakers-electric-hammers-hydraulic-power-packs.webp",
+            "seo": {
+              "title": {
+                "ar": "كسارات الرصف الهوائية والمطارق الكهربائية والمحطات الهيدروليكية",
+                "en": "Pneumatic Paving Breakers, Electric Hammers and Hydraulic Power Packs"
+              },
+              "description": {
+                "ar": "كسارات هوائية من ⁦7.2⁩ إلى ⁦42⁩ كجم، ومطارق هدم كهربائية ⁦220⁩ فولت، ومحطة هيدروليكية بالبنزين مع كسارة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Pneumatic breakers from 7.2 to 42 kg, 220 V electric demolition hammers and a gasoline hydraulic station with breaker. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كسارات هوائية ومطارق كهربائية ومحطة هيدروليكية بالبنزين لتكسير الصخر والخرسانة. اختر حسب مصدر الطاقة في موقعك.",
+              "en": "Pneumatic breakers, electric hammers and a gasoline hydraulic station for breaking rock and concrete. Choose by the power source on your site."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي كسارة أختار إن لم يتوفر ضاغط؟",
+                  "a": "المطارق الكهربائية ⁦PA65⁩ و⁦PA95⁩ و⁦PA115⁩ تعمل على ⁦220⁩ فولت، ومحطة ⁦STP13-30⁩ الهيدروليكية بالبنزين تشغّل كسارة يدوية دون كهرباء ولا ضاغط."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت، ونرد بعرض مفصّل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا، ونحدد طريقة الشحن والتسليم في عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which breaker if there is no compressor?",
+                  "a": "The PA65, PA95 and PA115 electric hammers run on 220 V, and the STP13-30 gasoline hydraulic station drives a hand-held breaker with neither power nor compressor."
+                },
+                {
+                  "q": "What do you need for a quotation?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions, and we reply with a detailed offer."
+                },
+                {
+                  "q": "Do you ship outside Qatar?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa, and set the shipping and delivery terms in the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "12",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦42⁩ كجم",
+                  "label": "أثقل كسارة"
+                },
+                {
+                  "value": "⁦220⁩ فولت",
+                  "label": "المطارق الكهربائية"
+                }
+              ],
+              "en": [
+                {
+                  "value": "12",
+                  "label": "Models"
+                },
+                {
+                  "value": "42 kg",
+                  "label": "Heaviest breaker"
+                },
+                {
+                  "value": "220 V",
+                  "label": "Electric hammers"
+                }
+              ]
+            }
+          },
+          {
+            "id": "hydraulic-rock-splitters",
+            "name": {
+              "ar": "فالقات الصخور الهيدروليكية",
+              "en": "Hydraulic Rock Splitters"
+            },
+            "coverImage": "/products/hydraulic-rock-splitters/hydraulic-rock-splitters.webp",
+            "description": {
+              "ar": "فالقات هيدروليكية يدوية تفلق الصخر والخرسانة دون تفجير، حيث تُقيَّد المتفجرات أو يجب تجنّب الاهتزاز.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Hand-held hydraulic splitters break rock and concrete without blasting, where explosives are restricted or vibration must be avoided.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "سبع أسطوانات ⁦BL⁩ بقوة فعلية ⁦260–700⁩ طن وزمن فلق ⁦5–12⁩ ثانية",
+                "قطر الثقب ⁦38–50⁩ مم وعرض الشق حتى ⁦40⁩ مم",
+                "وحدات قدرة كهربائية أو ديزل أو بنزين تشغّل حتى ⁦10⁩ أسطوانات",
+                "فالقة هوائية ⁦HG15⁩ وفالقات مكبسية ⁦PA90–PA200⁩ لثقوب حتى ⁦200⁩ مم"
+              ],
+              "en": [
+                "Seven BL cylinders, 260–700 t actual force, 5–12 s splitting time",
+                "Hole Ø 38–50 mm, crack width up to 40 mm",
+                "Electric, diesel or gasoline power packs driving up to 10 cylinders",
+                "HG15 pneumatic splitter and PA90–PA200 piston splitters for holes up to 200 mm"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "القوة الفعلية",
+                  "value": "⁦260–700⁩ طن"
+                },
+                {
+                  "label": "قطر الثقب",
+                  "value": "⁦38–50⁩ مم"
+                },
+                {
+                  "label": "ضغط الوحدة",
+                  "value": "⁦55–64⁩ ميغاباسكال"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Actual force",
+                  "value": "260–700 t"
+                },
+                {
+                  "label": "Hole Ø",
+                  "value": "38–50 mm"
+                },
+                {
+                  "label": "Pack pressure",
+                  "value": "55–64 MPa"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/hydraulic-rock-splitters/hydraulic-rock-splitters.webp"
+            ],
+            "image": "/products/hydraulic-rock-splitters/hydraulic-rock-splitters.webp",
+            "cardImage": "/products/hydraulic-rock-splitters/hydraulic-rock-splitters.webp",
+            "seo": {
+              "title": {
+                "ar": "فالقات الصخور الهيدروليكية حتى 700 طن",
+                "en": "Hydraulic Rock Splitters up to 700 t"
+              },
+              "description": {
+                "ar": "أسطوانات فلق هيدروليكية بقوة ⁦260–700⁩ طن ووحدات قدرة كهربائية وديزل وبنزين لفلق الصخر دون تفجير. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Hydraulic splitter cylinders of 260–700 t with electric, diesel and gasoline power packs for splitting rock without blasting. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أسطوانات فلق هيدروليكية ووحدات قدرة وفالقات هوائية ومكبسية لفلق الصخر بلا تفجير. اختر من الجدول أدناه.",
+              "en": "Hydraulic splitter cylinders, power packs and pneumatic and piston splitters for splitting rock without blasting. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كم أسطوانة تشغّل وحدة القدرة؟",
+                  "a": "وحدة ⁦1.5⁩ كيلوواط الكهربائية تشغّل ⁦1–3⁩ أسطوانات، والوحدات الأخرى (⁦4⁩ و⁦7.5⁩ كيلوواط كهرباء، و⁦4⁩ كيلوواط ديزل، و⁦9⁩ كيلوواط بنزين) تشغّل ⁦1–10⁩ أسطوانات."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت، ونرد بعرض مفصّل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا، ونحدد طريقة الشحن والتسليم في عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How many cylinders does a power pack drive?",
+                  "a": "The 1.5 kW electric pack drives 1–3 cylinders; the others (4 and 7.5 kW electric, 4 kW diesel, 9 kW gasoline) drive 1–10 cylinders."
+                },
+                {
+                  "q": "What do you need for a quotation?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions, and we reply with a detailed offer."
+                },
+                {
+                  "q": "Do you ship outside Qatar?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa, and set the shipping and delivery terms in the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "14",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦700⁩ طن",
+                  "label": "أعلى قوة فعلية"
+                },
+                {
+                  "value": "⁦5–12⁩ ث",
+                  "label": "زمن الفلق"
+                }
+              ],
+              "en": [
+                {
+                  "value": "14",
+                  "label": "Models"
+                },
+                {
+                  "value": "700 t",
+                  "label": "Max. actual force"
+                },
+                {
+                  "value": "5–12 s",
+                  "label": "Splitting time"
+                }
+              ]
+            }
+          },
+          {
+            "id": "line-drilling-machines-compact-dth-drillers",
+            "name": {
+              "ar": "ماكينات الحفر الخطي وحفارات DTH المدمجة",
+              "en": "Line Drilling Machines & Compact DTH Drillers"
+            },
+            "coverImage": "/products/line-drilling-machines-compact-dth-drillers/line-drilling-machines-compact-dth-drillers.webp",
+            "description": {
+              "ar": "وحدات حفر متعددة المثاقب على قضبان لحفر ثقوب على خط مستقيم، وحفارات ⁦DTH⁩ مدمجة لثقوب رأسية أو أفقية أو مائلة حتى ⁦40⁩ م.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Rail-mounted multi-drill units for drilling holes on a straight line, and compact DTH drillers for vertical, horizontal or inclined holes up to 40 m.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "خمس ماكينات بمثقاب إلى أربعة مثاقب ⁦YT24⁩ أو ⁦YT28⁩",
+                "مسار ⁦4.0–5.8⁩ م ووزن ⁦230–1300⁩ كجم دون المثاقب",
+                "حفارات ⁦BQ90⁩ بقطر ⁦65–90⁩ مم وعمق ⁦35–40⁩ م وسرعة ⁦6–8⁩ م/س",
+                "تشغيل هوائي أو هوائي وكهربائي أو هوائي وهيدروليكي"
+              ],
+              "en": [
+                "Five machines with one to four YT24 or YT28 drills",
+                "Track 4.0–5.8 m, 230–1300 kg without drills",
+                "BQ90 drillers, 65–90 mm holes, 35–40 m deep, 6–8 m/h",
+                "Pneumatic, pneumatic-electric or pneumatic-hydraulic drive"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المثاقب لكل ماكينة",
+                  "value": "⁦1–4⁩"
+                },
+                {
+                  "label": "حفارات BQ90",
+                  "value": "⁦65–90⁩ مم · حتى ⁦40⁩ م"
+                },
+                {
+                  "label": "ضغط الهواء",
+                  "value": "⁦0.5–0.7⁩ ميغاباسكال"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Drills per machine",
+                  "value": "1–4"
+                },
+                {
+                  "label": "BQ90 drillers",
+                  "value": "65–90 mm · up to 40 m"
+                },
+                {
+                  "label": "Air pressure",
+                  "value": "0.5–0.7 MPa"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/line-drilling-machines-compact-dth-drillers/line-drilling-machines-compact-dth-drillers.webp"
+            ],
+            "image": "/products/line-drilling-machines-compact-dth-drillers/line-drilling-machines-compact-dth-drillers.webp",
+            "cardImage": "/products/line-drilling-machines-compact-dth-drillers/line-drilling-machines-compact-dth-drillers.webp",
+            "seo": {
+              "title": {
+                "ar": "ماكينات الحفر الخطي وحفارات DTH المدمجة للمحاجر",
+                "en": "Line Drilling Machines and Compact DTH Drillers for Quarries"
+              },
+              "description": {
+                "ar": "ماكينات حفر خطي على قضبان بمثقاب إلى أربعة، وحفارات ⁦DTH⁩ مدمجة ⁦BQ90⁩ حتى ⁦40⁩ م بأي اتجاه. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Rail line-drilling machines with one to four drills and BQ90 compact DTH drillers to 40 m in any direction. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "ماكينات حفر خطي على قضبان لفلق الكتل بهدر أقل، وحفارات ⁦DTH⁩ مدمجة تحفر بأي اتجاه. اختر من الجدول أدناه.",
+              "en": "Rail line-drilling machines for splitting blocks with less waste, and compact DTH drillers that drill in any direction. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما فائدة الحفر الخطي؟",
+                  "a": "ثقوب متتالية على خط مستقيم تفلق الكتلة الصخرية في المكان المطلوب بهدر أقل، وهي شائعة في محاجر الرخام والجرانيت قبل الفلق أو النشر."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت، ونرد بعرض مفصّل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا، ونحدد طريقة الشحن والتسليم في عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is line drilling for?",
+                  "a": "A row of holes on a straight line splits the block exactly where needed with less waste; it is common in marble and granite quarries before splitting or sawing."
+                },
+                {
+                  "q": "What do you need for a quotation?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions, and we reply with a detailed offer."
+                },
+                {
+                  "q": "Do you ship outside Qatar?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa, and set the shipping and delivery terms in the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "8",
+                  "label": "موديلات"
+                },
+                {
+                  "value": "⁦40⁩ م",
+                  "label": "أقصى عمق"
+                },
+                {
+                  "value": "4",
+                  "label": "مثاقب في الماكينة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "8",
+                  "label": "Models"
+                },
+                {
+                  "value": "40 m",
+                  "label": "Max. depth"
+                },
+                {
+                  "value": "4",
+                  "label": "Drills per machine"
+                }
+              ]
+            }
+          },
+          {
+            "id": "diamond-wire-saws",
+            "name": {
+              "ar": "مناشير السلك الماسي",
+              "en": "Diamond Wire Saws"
+            },
+            "coverImage": "/products/diamond-wire-saws/diamond-wire-saws.webp",
+            "description": {
+              "ar": "ماكينات منشار سلكي بعاكس من ⁦15⁩ إلى ⁦90⁩ كيلوواط مع سلك ماسي لاستخراج الجرانيت والرخام وتربيع الكتل وقص المقاطع.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Inverter-driven wire saw machines from 15 to 90 kW with diamond wire for granite and marble quarrying, block squaring and profiling.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "تسع ماكينات ⁦15–90⁩ كيلوواط بطول سلك حتى ⁦150⁩ م",
+                "شدّ ثابت للسلك بالعاكس ودوران الرأس ⁦360°⁩",
+                "خمسة أنواع من السلك الماسي للجرانيت والرخام وتربيع الكتل والمقاطع والألواح",
+                "حرارة التشغيل من −⁦15⁩ إلى +⁦40 °⁩م"
+              ],
+              "en": [
+                "Nine machines, 15–90 kW, wire length up to 150 m",
+                "Inverter-controlled constant wire tension and 360° head rotation",
+                "Five diamond wire types for granite, marble, block squaring, profiles and slabs",
+                "Working temperature −15 to +40 °C"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "قدرة المحرك",
+                  "value": "⁦15–90⁩ كيلوواط"
+                },
+                {
+                  "label": "سرعة السلك",
+                  "value": "⁦0–40⁩ م/ث"
+                },
+                {
+                  "label": "قطر الخرزة",
+                  "value": "⁦7.2–11.4⁩ مم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Motor power",
+                  "value": "15–90 kW"
+                },
+                {
+                  "label": "Wire speed",
+                  "value": "0–40 m/s"
+                },
+                {
+                  "label": "Bead Ø",
+                  "value": "7.2–11.4 mm"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/diamond-wire-saws/diamond-wire-saws.webp"
+            ],
+            "image": "/products/diamond-wire-saws/diamond-wire-saws.webp",
+            "cardImage": "/products/diamond-wire-saws/diamond-wire-saws.webp",
+            "seo": {
+              "title": {
+                "ar": "مناشير السلك الماسي للجرانيت والرخام 15–90 كيلوواط",
+                "en": "Diamond Wire Saws for Granite and Marble, 15–90 kW"
+              },
+              "description": {
+                "ar": "ماكينات منشار سلكي بعاكس ⁦15–90⁩ كيلوواط وخمسة أنواع من السلك الماسي للجرانيت والرخام. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Inverter wire saw machines, 15–90 kW, and five diamond wire types for granite and marble. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "ماكينات منشار السلك الماسي وأنواع السلك المناسبة لكل حجر واستخدام. اختر من الجدول أدناه.",
+              "en": "Diamond wire saw machines and the wire types for each stone and use. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي سلك ماسي للرخام وأيه للجرانيت؟",
+                  "a": "⁦GQR11.4⁩ المطاطي لمحاجر الجرانيت، و⁦MQS11B⁩ بالنوابض لمحاجر الرخام، و⁦GCP10.5⁩ لتربيع الكتل، و⁦GPP8.8⁩ لقص المقاطع، و⁦GMP7.2⁩ لقص الألواح متعدد الأسلاك."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت، ونرد بعرض مفصّل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا، ونحدد طريقة الشحن والتسليم في عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which diamond wire for marble and which for granite?",
+                  "a": "GQR11.4 (rubber) for granite quarries, MQS11B (spring) for marble quarries, GCP10.5 for block squaring, GPP8.8 for profile cutting and GMP7.2 for multi-wire slab cutting."
+                },
+                {
+                  "q": "What do you need for a quotation?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions, and we reply with a detailed offer."
+                },
+                {
+                  "q": "Do you ship outside Qatar?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa, and set the shipping and delivery terms in the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "14",
+                  "label": "موديلاً ونوعاً"
+                },
+                {
+                  "value": "⁦90⁩ كيلوواط",
+                  "label": "أعلى قدرة"
+                },
+                {
+                  "value": "⁦150⁩ م",
+                  "label": "أطول سلك"
+                }
+              ],
+              "en": [
+                {
+                  "value": "14",
+                  "label": "Models & types"
+                },
+                {
+                  "value": "90 kW",
+                  "label": "Max. power"
+                },
+                {
+                  "value": "150 m",
+                  "label": "Max. wire length"
+                }
+              ]
+            }
+          },
+          {
+            "id": "block-pushing-handling",
+            "name": {
+              "ar": "دفع الكتل الصخرية ومناولتها",
+              "en": "Block Pushing & Handling"
+            },
+            "coverImage": "/products/block-pushing-handling/block-pushing-handling.webp",
+            "description": {
+              "ar": "أكياس مائية فولاذية وأكياس هوائية قابلة لإعادة الاستخدام ورافعات هيدروليكية لدفع الكتل الكبيرة وقلبها بعد القطع.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Steel hydro-bags, reusable air bags and hydraulic jacks for pushing and turning large blocks after cutting.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "أكياس مائية فولاذية بسماكة ⁦2⁩ مم تدخل في قطع المنشار، بقدرة دفع ⁦75–600⁩ طن",
+                "أكياس هوائية من البوليستر ⁦50–450⁩ طناً تعمل عند ⁦0–6⁩ بار",
+                "رافعات هيدروليكية ⁦100–300⁩ طن بشوط ⁦200⁩ مم",
+                "ماكينة قطع باللهب ⁦1–2⁩ م²/س بعمق حتى ⁦10⁩ م"
+              ],
+              "en": [
+                "Steel hydro-bags, 2 mm thick, slip into the saw cut; 75–600 t",
+                "Polyester air bags, 50–450 t, working at 0–6 bar",
+                "Hydraulic jacks, 100–300 t, 200 mm stroke",
+                "Flame-jet cutter, 1–2 m²/h, up to 10 m deep"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الأكياس المائية",
+                  "value": "⁦75–600⁩ طن"
+                },
+                {
+                  "label": "الأكياس الهوائية",
+                  "value": "⁦50–450⁩ طن"
+                },
+                {
+                  "label": "الرافعات",
+                  "value": "⁦100–300⁩ طن"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Hydro-bags",
+                  "value": "75–600 t"
+                },
+                {
+                  "label": "Air bags",
+                  "value": "50–450 t"
+                },
+                {
+                  "label": "Jacks",
+                  "value": "100–300 t"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/block-pushing-handling/block-pushing-handling.webp"
+            ],
+            "image": "/products/block-pushing-handling/block-pushing-handling.webp",
+            "cardImage": "/products/block-pushing-handling/block-pushing-handling.webp",
+            "seo": {
+              "title": {
+                "ar": "أكياس دفع الكتل الصخرية والرافعات الهيدروليكية للمحاجر",
+                "en": "Block-Pushing Bags and Hydraulic Jacks for Quarries"
+              },
+              "description": {
+                "ar": "أكياس مائية فولاذية حتى ⁦600⁩ طن وأكياس هوائية حتى ⁦450⁩ طناً ورافعات هيدروليكية ⁦100–300⁩ طن لدفع الكتل. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Steel hydro-bags up to 600 t, air bags up to 450 t and 100–300 t hydraulic jacks for pushing blocks. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أكياس مائية وهوائية ورافعات هيدروليكية لدفع الكتل وقلبها في المحاجر. اختر من الجدول أدناه.",
+              "en": "Hydro-bags, air bags and hydraulic jacks for pushing and turning blocks in quarries. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين الكيس المائي والكيس الهوائي؟",
+                  "a": "الكيس المائي الفولاذي رقيق (⁦2⁩ مم) فيدخل في قطع المنشار السلكي ويدفع حتى ⁦600⁩ طن بالماء، والكيس الهوائي من البوليستر قابل لإعادة الاستخدام ويدفع حتى ⁦450⁩ طناً بالهواء عند ⁦0–6⁩ بار."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت، ونرد بعرض مفصّل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا، ونحدد طريقة الشحن والتسليم في عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the difference between a hydro-bag and an air bag?",
+                  "a": "The steel hydro-bag is thin (2 mm), slips into the wire-saw cut and pushes up to 600 t with water; the polyester air bag is reusable and pushes up to 450 t with air at 0–6 bar."
+                },
+                {
+                  "q": "What do you need for a quotation?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions, and we reply with a detailed offer."
+                },
+                {
+                  "q": "Do you ship outside Qatar?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa, and set the shipping and delivery terms in the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "15",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦600⁩ طن",
+                  "label": "أعلى قدرة دفع"
+                },
+                {
+                  "value": "⁦0–6⁩ بار",
+                  "label": "الأكياس الهوائية"
+                }
+              ],
+              "en": [
+                {
+                  "value": "15",
+                  "label": "Models"
+                },
+                {
+                  "value": "600 t",
+                  "label": "Max. push"
+                },
+                {
+                  "value": "0–6 bar",
+                  "label": "Air bags"
+                }
+              ]
+            }
+          },
+          {
+            "id": "mine-ventilation-fans-ground-support-mesh",
+            "name": {
+              "ar": "مراوح تهوية المناجم وشبك تدعيم الأنفاق",
+              "en": "Mine Ventilation Fans & Ground Support Mesh"
+            },
+            "coverImage": "/products/mine-ventilation-fans-ground-support-mesh/mine-ventilation-fans-ground-support-mesh.webp",
+            "description": {
+              "ar": "مراوح محورية متعاكسة الدوران لواجهات الحفر والأنفاق، ومراوح رئيسية شافطة للمناجم المتوسطة والكبيرة، وألواح شبك ملحوم عالي الشد لتدعيم الأسقف والجدران تحت الأرض.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Counter-rotating axial fans for headings and tunnels, main extraction ventilators for medium and large mines, and high-tensile welded mesh panels for supporting roofs and walls underground.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "مراوح موضعية ⁦FBDY⁩ بتدفق ⁦76–1250⁩ م³/دقيقة وقدرة ⁦1.1–75⁩ كيلوواط ومسافة تهوية حتى ⁦10⁩ كم",
+                "مراوح رئيسية ⁦FBCDZ⁩ بتدفق ⁦18–399⁩ م³/ث",
+                "مراوح سطحية ⁦FBCZ⁩ بتدفق ⁦3.6–80⁩ م³/ث وقدرة ⁦5.5–132⁩ كيلوواط",
+                "شبك تدعيم بحمل نظري ⁦60⁩ طن/م² ومقاومة شد > ⁦1000⁩ ميغاباسكال"
+              ],
+              "en": [
+                "FBDY local fans, 76–1250 m³/min, 1.1–75 kW, ventilation distance up to 10 km",
+                "FBCDZ main ventilators, 18–399 m³/s",
+                "FBCZ surface ventilators, 3.6–80 m³/s, 5.5–132 kW",
+                "Support mesh, 60 t/m² theoretical load, tensile > 1000 MPa"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المراوح الموضعية",
+                  "value": "⁦76–1250⁩ م³/دقيقة"
+                },
+                {
+                  "label": "المراوح الرئيسية",
+                  "value": "⁦3.6–399⁩ م³/ث"
+                },
+                {
+                  "label": "ألواح الشبك",
+                  "value": "⁦1500×2800⁩ مم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Local fans",
+                  "value": "76–1250 m³/min"
+                },
+                {
+                  "label": "Main ventilators",
+                  "value": "3.6–399 m³/s"
+                },
+                {
+                  "label": "Mesh panels",
+                  "value": "1500×2800 mm"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/mine-ventilation-fans-ground-support-mesh/mine-ventilation-fans-ground-support-mesh.webp"
+            ],
+            "image": "/products/mine-ventilation-fans-ground-support-mesh/mine-ventilation-fans-ground-support-mesh.webp",
+            "cardImage": "/products/mine-ventilation-fans-ground-support-mesh/mine-ventilation-fans-ground-support-mesh.webp",
+            "seo": {
+              "title": {
+                "ar": "مراوح تهوية المناجم وشبك تدعيم الأنفاق",
+                "en": "Mine Ventilation Fans and Ground Support Mesh"
+              },
+              "description": {
+                "ar": "مراوح محورية موضعية ورئيسية للمناجم والأنفاق حتى ⁦399⁩ م³/ث، وشبك تدعيم ملحوم بحمل ⁦60⁩ طن/م². التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Local and main axial fans for mines and tunnels up to 399 m³/s, and welded support mesh rated 60 t/m². Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مراوح تهوية موضعية ورئيسية للمناجم والأنفاق، وشبك ملحوم لتدعيم الأسقف والجدران. اختر من الجدول أدناه.",
+              "en": "Local and main ventilation fans for mines and tunnels, and welded mesh for supporting roofs and walls. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لاختيار مروحة التهوية؟",
+                  "a": "طول النفق أو المنجم ومقطعه، والتدفق المطلوب، وعدد العاملين والمعدات تحت الأرض، ومصدر الكهرباء. ونحدد بها الموديل والقدرة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت، ونرد بعرض مفصّل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا، ونحدد طريقة الشحن والتسليم في عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to choose a ventilation fan?",
+                  "a": "The tunnel or mine length and cross-section, the airflow needed, the number of people and machines underground, and the power supply; from these we set the model and power."
+                },
+                {
+                  "q": "What do you need for a quotation?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions, and we reply with a detailed offer."
+                },
+                {
+                  "q": "Do you ship outside Qatar?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa, and set the shipping and delivery terms in the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "4",
+                  "label": "خطوط منتجات"
+                },
+                {
+                  "value": "⁦10⁩ كم",
+                  "label": "مسافة التهوية"
+                },
+                {
+                  "value": "⁦60⁩ طن/م²",
+                  "label": "حمل الشبك"
+                }
+              ],
+              "en": [
+                {
+                  "value": "4",
+                  "label": "Product lines"
+                },
+                {
+                  "value": "10 km",
+                  "label": "Ventilation distance"
+                },
+                {
+                  "value": "60 t/m²",
+                  "label": "Mesh load"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
   }
 ]

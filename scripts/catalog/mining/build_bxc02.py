@@ -1,0 +1,110 @@
+"""Build the gold-mining BXC-02 pages: family JSON files, product entries in data/products.json,
+images in public/products/<id>/, and the family registrations. Run from this folder:
+    python3 build_bxc02.py <dir with the catalogue images (pdfimages -png -p)>"""
+import json, os, re, sys
+from lib import iso, write
+from bxc02_tables import F
+from bxc02_products import P, SERVICE_AR, SERVICE_EN
+
+REPO = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../..'))
+IMGDIR = sys.argv[1] if len(sys.argv) > 1 else None
+
+CATEGORY = {
+    'id': 'gold-mining',
+    'title': {'ar': 'تعدين الذهب', 'en': 'Gold Mining'},
+    'image': '/categories/gold-mining.webp',
+    'description': {
+        'ar': 'معدات تعدين الذهب على مراحل خط الإنتاج: التنقيب والحفر واستخراج الخام، ثم التكسير والطحن والغسيل والتركيز والمعالجة والصهر، مع المختبر ودعم الموقع. نورّد للمشاريع في الشرق الأوسط وأفريقيا بأكواد BX وجداول موديلات من كتالوجاتنا.',
+        'en': 'Gold-mining equipment along the production line: exploration, drilling and ore extraction, then crushing, grinding, washing, concentration, processing and smelting, with laboratory and site support. We supply projects in the Middle East and Africa with BX codes and model tables from our catalogues.'},
+    'seo': {'title': {'ar': 'معدات تعدين الذهب: التنقيب والحفر واستخراج الخام', 'en': 'Gold Mining Equipment: Exploration, Drilling and Ore Extraction'},
+            'description': {'ar': 'معدات تعدين الذهب من بيستوليكس: أجهزة المسح والكشف، وحفارات الاستكشاف وDTH، والمثاقب الصخرية، والضواغط، وأدوات التكسير والفلق. التوريد للشرق الأوسط وأفريقيا.',
+                            'en': 'Gold-mining equipment from Bestolex: survey instruments and detectors, exploration and DTH rigs, rock drills, compressors, and breaking and splitting tools. Supply to the Middle East and Africa.'}},
+    'subcategories': [],
+}
+SUB = {'id': 'exploration-drilling', 'title': {'ar': 'التنقيب والحفر واستخراج الخام', 'en': 'Exploration, Drilling & Ore Extraction'}, 'products': []}
+
+
+def specs(rows):
+    return {'ar': [{'label': a, 'value': iso(v)} for a, v, _, _ in rows], 'en': [{'label': b, 'value': w} for _, _, b, w in rows]}
+
+
+def stats(rows):
+    return {'ar': [{'value': iso(v), 'label': a} for v, a, _, _ in rows], 'en': [{'value': w, 'label': b} for _, _, w, b in rows]}
+
+
+def faq(rows):
+    return {'ar': [{'q': q, 'a': iso(a)} for q, _, a, _ in rows], 'en': [{'q': q, 'a': a} for _, q, _, a in rows]}
+
+
+EXTRA = {'metal-detectors-water-well-drill-rigs': ['i-004-010']}
+PLACEHOLDER = {'core-rc-exploration-drill-rigs'}   # no product photo in BXC-02 Ed4: card made by make_placeholder.py
+
+
+def image_for(pid, src, n=0):
+    """Cut-out (prep_bxc02.py) → 1200×1200 WebP on white, product at 86% of the canvas."""
+    from PIL import Image
+    out_dir = f'{REPO}/public/products/{pid}'
+    os.makedirs(out_dir, exist_ok=True)
+    name = pid if n == 0 else f'{pid}-{n + 1}'
+    dst = f'{out_dir}/{name}.webp'
+    if IMGDIR and pid not in PLACEHOLDER:
+        im = Image.open(f'{IMGDIR}/{src}.png').convert('RGB')
+        s = min(1200 * 0.86 / im.width, 1200 * 0.86 / im.height, 2.2)
+        im = im.resize((round(im.width * s), round(im.height * s)), Image.LANCZOS)
+        c = Image.new('RGB', (1200, 1200), (255, 255, 255))
+        c.paste(im, ((1200 - im.width) // 2, (1200 - im.height) // 2))
+        c.save(dst, 'WEBP', quality=84, method=6)
+    return f'/products/{pid}/{name}.webp'
+
+
+for p in P:
+    pid = p['id']
+    img = image_for(pid, p['img'])
+    imgs = [img] + [image_for(pid, e, k + 1) for k, e in enumerate(EXTRA.get(pid, []))]
+    SUB['products'].append({
+        'id': pid,
+        'name': {'ar': p['ar'], 'en': p['en']},
+        'coverImage': img,
+        'description': {'ar': iso(p['desc'][0]) + '\n' + SERVICE_AR, 'en': p['desc'][1] + '\n' + SERVICE_EN},
+        'features': {'ar': [iso(a) for a, _ in p['features']], 'en': [b for _, b in p['features']]},
+        'featureImages': [],
+        'specs': specs(p['specs']),
+        'specDrawings': [],
+        'images': imgs,
+        'image': img,
+        'cardImage': img,
+        'seo': {'title': {'ar': p['seo'][0], 'en': p['seo'][1]}, 'description': {'ar': iso(p['seo'][2]), 'en': p['seo'][3]}},
+        'summary': {'ar': iso(p['summary'][0]), 'en': p['summary'][1]},
+        'faq': faq(p['faq']),
+        'stats': stats(p['stats']),
+    })
+CATEGORY['subcategories'] = [SUB]
+
+# family tables
+os.makedirs(f'{REPO}/server/assets/catalog/mining', exist_ok=True)
+for fid, fam in F.items():
+    write(f'{REPO}/server/assets/catalog/mining/{fid}.json', fam)
+
+# products.json: add or replace the gold-mining category (kept last)
+pj = f'{REPO}/data/products.json'
+data = json.load(open(pj))
+data = [c for c in data if c['id'] != 'gold-mining'] + [CATEGORY]
+with open(pj, 'w') as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+    f.write('\n')
+
+# registrations: family files map and the ids list
+api = f'{REPO}/server/api/catalog/family/[id].get.ts'
+s = open(api).read()
+for fid in F:
+    line = f"  '{fid}': 'catalog/mining/{fid}.json'"
+    if line not in s:
+        s = re.sub(r"(\n)(}\n\nconst cache)", lambda m: f",\n{line}\n" + m.group(2), s, count=1)
+open(api, 'w').write(s.replace("json'\n,\n", "json',\n"))
+ids = f'{REPO}/utils/catalogFamilies.ts'
+t = open(ids).read()
+for fid in F:
+    if f"'{fid}'" not in t:
+        t = re.sub(r"(\n\])", f",\n  '{fid}'\\1", t, count=1)
+open(ids, 'w').write(t)
+print('families', len(F), 'products', len(P))
