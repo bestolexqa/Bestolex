@@ -8435,14 +8435,14 @@
         },
         "coverImage": "/products/industrial-special-doors/cover.webp",
         "description": {
-          "ar": "أبواب تُصمَّم على مقاس كل مشروع، صناعة فرنسية: أبواب حظائر الطائرات والفتحات الضخمة، والأبواب الأكورديونية للحركة الكثيفة، والأبواب المقاومة للانفجار والحريق، والعازلة للصوت، والمانعة للماء.\nنفّذ المصنّع أبواباً على عجلات بعرض 110 م، وبوابات منزلقة حتى 80 م، وأبواباً بارتفاع 38 م بإحكام هوائي، وأبواباً عازلة للصوت بتخفيض 45 ديسيبل. وتصنيف مقاومة الحريق EI2 120 بشهادة Efectis حسب المصنّع.\nونورّدها ونركّبها ونصونها في قطر: صيانة دورية ووقائية، وإصلاح وتحسين، وتركيب محركات وأتمتة.",
-          "en": "Doors engineered to each project's opening, made in France: aircraft hangar and very large openings, accordion doors for heavy traffic, blast- and fire-resistant doors, acoustic doors and watertight doors.\nThe manufacturer has delivered rolling doors 110 m wide, sliding gates up to 80 m, airtight doors 38 m high and acoustic doors with 45 dB sound reduction. Fire resistance is EI2 120, certified by Efectis per the manufacturer.\nWe supply, install and maintain them in Qatar: scheduled and preventive maintenance, repairs and upgrades, and motorisation and automation."
+          "ar": "أبواب تُصمَّم على مقاس كل مشروع، صناعة فرنسية: أبواب حظائر الطائرات والفتحات الضخمة، والأبواب الأكورديونية للحركة الكثيفة، والأبواب المقاومة للانفجار والحريق، والعازلة للصوت، والمانعة للماء.\nنفّذ المصنّع أبواباً على عجلات بعرض 110 م، وبوابات منزلقة حتى 80 م، وأبواباً بارتفاع 37 م بإحكام هوائي، وأبواباً عازلة للصوت بتخفيض 45 ديسيبل. وتصنيف مقاومة الحريق EI2 120 بشهادة Efectis حسب المصنّع.\nونورّدها ونركّبها ونصونها في قطر: صيانة دورية ووقائية، وإصلاح وتحسين، وتركيب محركات وأتمتة.",
+          "en": "Doors engineered to each project's opening, made in France: aircraft hangar and very large openings, accordion doors for heavy traffic, blast- and fire-resistant doors, acoustic doors and watertight doors.\nThe manufacturer has delivered rolling doors 110 m wide, sliding gates up to 80 m, airtight doors 37 m high and acoustic doors with 45 dB sound reduction. Fire resistance is EI2 120, certified by Efectis per the manufacturer.\nWe supply, install and maintain them in Qatar: scheduled and preventive maintenance, repairs and upgrades, and motorisation and automation."
         },
         "features": {
           "ar": [
             "12 عائلة: صناعية (أكورديونية، ومتعددة الألواح، ومنزلقة، وحظائر، ومقصلة، وعلوية) وخاصة (إحكام، وانفجار وحريق، وأمنية، وصوت، وماء، وأنظمة)",
             "يُصمَّم كل باب على مقاس الفتحة ومتطلبات المشروع",
-            "أبواب منفّذة حتى 110 م عرضاً و38 م ارتفاعاً",
+            "أبواب منفّذة حتى 110 م عرضاً و37 م ارتفاعاً",
             "مقاومة حريق EI2 120 بشهادة Efectis، ومقاومة انفجار وحريق ساعتين (حسب المصنّع)",
             "أبواب أكورديونية لأكثر من 500,000 دورة، تُفتح في 10–13 ثانية",
             "تصميم ومحاكاة رقمية للصدم، وتجميع الأبواب الحرجة وفحصها في المصنع قبل الشحن",
@@ -8451,7 +8451,7 @@
           "en": [
             "12 families: industrial (accordion, multi-panel, sliding, hangar, guillotine, overhead) and special (airtight, blast and fire, security, acoustic, watertight, systems)",
             "Every door is engineered to the opening and the project's requirements",
-            "Delivered doors up to 110 m wide and 38 m high",
+            "Delivered doors up to 110 m wide and 37 m high",
             "EI2 120 fire resistance certified by Efectis, and 2-hour blast and fire resistance (per manufacturer)",
             "Accordion doors rated for over 500,000 cycles, opening in 10–13 seconds",
             "Structural design and numerical impact simulation; critical doors assembled and tested at the factory before shipping",
@@ -8582,7 +8582,7 @@
             },
             {
               "label": "بحشوات إحكام قابلة للنفخ",
-              "value": "بابان على عجلات 7 × 38 م؛ باب آلي عالي الإحكام 8 × 28 م؛ 8 × 26 م"
+              "value": "بابان على عجلات 7 × 37.2 م؛ باب آلي عالي الإحكام 8 × 28 م؛ 8 × 26 م"
             },
             {
               "label": "مقاومة للانفجار والحريق",
@@ -8628,7 +8628,7 @@
             },
             {
               "label": "Inflatable-seal",
-              "value": "Two rolling doors 7 × 38 m; automatic high-tightness door 8 × 28 m; 8 × 26 m"
+              "value": "Two rolling doors 7 × 37.2 m; automatic high-tightness door 8 × 28 m; 8 × 26 m"
             },
             {
               "label": "Blast and fire",
@@ -8684,7 +8684,7 @@
             },
             {
               "q": "ما أكبر مقاس ممكن؟",
-              "a": "نفّذ المصنّع أبواباً على عجلات بعرض 110 م، وبوابات منزلقة حتى 80 م، وأبواباً بارتفاع 38 م. والمقاس النهائي يُحدَّد في العرض الفني لمشروعك."
+              "a": "نفّذ المصنّع أبواباً على عجلات بعرض 110 م، وبوابات منزلقة حتى 80 م، وأبواباً بارتفاع 37 م. والمقاس النهائي يُحدَّد في العرض الفني لمشروعك."
             },
             {
               "q": "لأي قطاعات تناسب؟",
@@ -8706,7 +8706,7 @@
             },
             {
               "q": "What is the largest size possible?",
-              "a": "The manufacturer has delivered rolling doors 110 m wide, sliding gates up to 80 m and doors 38 m high. The final size is set in the technical proposal for your project."
+              "a": "The manufacturer has delivered rolling doors 110 m wide, sliding gates up to 80 m and doors 37 m high. The final size is set in the technical proposal for your project."
             },
             {
               "q": "Which sectors are they for?",
@@ -8733,7 +8733,7 @@
               "label": "بوابات منزلقة"
             },
             {
-              "value": "38 م",
+              "value": "37 م",
               "label": "ارتفاع باب"
             }
           ],
@@ -8747,10 +8747,14 @@
               "label": "Sliding gates"
             },
             {
-              "value": "38 m",
+              "value": "37 m",
               "label": "Door height"
             }
           ]
+        },
+        "brochure": {
+          "url": "/brochures/Bestolex_Industrial-Special-Doors_Brochure_AR-EN.pdf",
+          "pages": 21
         }
       }
     ],
