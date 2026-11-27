@@ -60,7 +60,7 @@
               </span>
               <span class="text-xs font-bold text-white flex items-center gap-1.5 mt-1">
                 <span class="w-2 h-2 rounded-full bg-primary animate-pulse flex-shrink-0"></span>
-                <span class="truncate">{{ locale === 'ar' ? 'شركة ساب تك' : 'SABTECH' }}</span>
+                <span class="truncate">{{ locale === 'ar' ? 'شركة ساب تك' : 'SAB TECH' }}</span>
               </span>
             </div>
             <div class="w-24 h-11 bg-white rounded-lg p-1 flex items-center justify-center flex-shrink-0 shadow-inner">
@@ -68,7 +68,7 @@
                 src="/partners/sabtech-logo.png"
                 width="500"
                 height="139" 
-                alt="SABTECH Logo" 
+                alt="SAB TECH logo" 
                 class="max-h-full max-w-full object-contain"
                 loading="lazy"
               />

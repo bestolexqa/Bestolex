@@ -524,7 +524,7 @@
               </p>
               
               <div class="bg-primary/10 text-primary border border-primary/20 px-3 py-2 rounded-xl text-xs font-bold mb-4 leading-relaxed">
-                {{ locale === 'ar' ? 'مدير العمليات التشغيلية – شركة ساب تك المحدودة (SABTECH Co. Ltd.)' : 'Chief Operation Manager – SABTECH Co. Ltd.' }}
+                {{ locale === 'ar' ? 'مدير العمليات التشغيلية – شركة ساب تك المحدودة (SAB TECH Co. Ltd.)' : 'Chief Operation Manager – SAB TECH Co. Ltd.' }}
               </div>
 
               <div class="space-y-2.5 text-xs text-gray-700 dark:text-gray-300 text-start border-t border-gray-200 dark:border-gray-800 pt-4">

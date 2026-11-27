@@ -198,10 +198,10 @@ const Building2Icon = () => h('svg', {
 const cards = [
   {
     iconComponent: BadgeCheckIcon,
-    titleAr: '1. وكيل حصري لـ SABTECH في قطر',
-    titleEn: '1. Exclusive SABTECH Agent in Qatar',
-    descAr: 'نوفر منتجات وحلول SABTECH الأصلية من المصنّع مباشرة، مع الدعم الفني وضمان لمدة سنة ضد عيوب التصنيع وفق شروط الضمان المعتمدة.',
-    descEn: 'We supply genuine SABTECH products and solutions directly from the manufacturer, with technical support and a one-year warranty against manufacturing defects, subject to the approved warranty terms.'
+    titleAr: '1. وكيل حصري لـ SAB TECH في قطر',
+    titleEn: '1. Exclusive SAB TECH Agent in Qatar',
+    descAr: 'نوفر منتجات وحلول SAB TECH الأصلية من المصنّع مباشرة، مع الدعم الفني وضمان لمدة سنة ضد عيوب التصنيع وفق شروط الضمان المعتمدة.',
+    descEn: 'We supply genuine SAB TECH products and solutions directly from the manufacturer, with technical support and a one-year warranty against manufacturing defects, subject to the approved warranty terms.'
   },
   {
     iconComponent: ClipboardCheckIcon,

@@ -16,8 +16,8 @@
               {{ t('توريد المعدات والآلات حسب الطلب، لأي نشاط في قطر', 'Equipment and machinery sourcing for any industry in Qatar') }}
             </h1>
             <p class="text-lg text-gray-300 leading-relaxed max-w-[62ch] mb-8">
-              {{ t('مقاول يحتاج سقالات وخلاطات خرسانة، أو مصنع يريد خط إنتاج، أو مستشفى يحتاج أجهزة طبية، أو ورشة حدادة أو نجارة تحتاج مكائن جديدة؟ صف لنا ما تحتاجه، ونحن نبحث عنه في مصانع حول العالم ونقارن العروض ونشتريه نيابة عنك، ثم نشحنه ونخلّصه جمركياً ونركّبه في موقعك.',
-                   'A contractor who needs scaffolding and concrete mixers, a factory that wants a production line, a hospital that needs medical equipment, or a metal or carpentry workshop that needs new machines? Tell us what you need. We look for it in factories around the world, compare the offers and buy it on your behalf, then ship it, clear customs and install it on your site.') }}
+              {{ t('مقاول يحتاج سقالات وخلاطات خرسانة، أو مصنع يريد خط إنتاج، أو مطعم يجهّز مطبخه، أو ورشة حدادة أو نجارة تحتاج مكائن جديدة؟ صف لنا ما تحتاجه، ونحن نبحث عنه في مصانع حول العالم ونقارن العروض ونشتريه نيابة عنك، ثم نشحنه ونخلّصه جمركياً ونركّبه في موقعك.',
+                   'A contractor who needs scaffolding and concrete mixers, a factory that wants a production line, a restaurant fitting out its kitchen, or a metal or carpentry workshop that needs new machines? Tell us what you need. We look for it in factories around the world, compare the offers and buy it on your behalf, then ship it, clear customs and install it on your site.') }}
             </p>
             <div class="flex flex-wrap gap-3">
               <a href="#request" class="inline-flex items-center gap-2 bg-primary text-[#191919] font-bold px-7 py-3.5 rounded-lg hover:bg-[#f2b02a] transition">
@@ -55,8 +55,8 @@
         <div class="lg:col-span-7 border-s-4 border-primary ps-6">
           <h2 class="font-display text-2xl md:text-3xl font-bold mb-4">{{ t('باختصار: ما هو التوريد حسب الطلب؟', 'In short: what is sourcing on request?') }}</h2>
           <p class="text-lg leading-relaxed text-slate dark:text-gray-300">
-            {{ t('التوريد حسب الطلب خدمة شراء وتوريد للغير تقدّمها بيستوليكس لتجارة الآلات والمعدات الثقيلة، الشركة القطرية في الدوحة. نشتري للعميل أي آلة أو معدة أو جهاز أو خط إنتاج أو قطع غيار غير موجودة في أقسام منتجاتنا، من مصانع حول العالم، ونتولى المقارنة والفحص والشحن والتخليص الجمركي والتركيب والتدريب والصيانة. نخدم المقاولين والمصانع والورش والمطاعم والمقاهي والفنادق والمستشفيات والمزارع والمختبرات والجهات الحكومية في قطر.',
-                 'Sourcing on request is a procurement service from Bestolex Trading of Heavy Equipment and Machinery, a Qatari company based in Doha. We buy, on the customer\'s behalf, any machine, equipment, device, production line or spare part that is not in our own product sections, from factories around the world, and handle the comparison, inspection, shipping, customs clearance, installation, training and maintenance. We serve contractors, factories, workshops, restaurants, cafés and hotels, hospitals, farms, laboratories and government entities in Qatar.') }}
+            {{ t('التوريد حسب الطلب خدمة شراء وتوريد للغير تقدّمها بيستوليكس لتجارة الآلات والمعدات الثقيلة، الشركة القطرية في الدوحة. نشتري للعميل أي آلة أو معدة أو جهاز أو خط إنتاج أو قطع غيار غير موجودة في أقسام منتجاتنا، من مصانع حول العالم، ونتولى المقارنة والفحص والشحن والتخليص الجمركي والتركيب والتدريب والصيانة. نخدم المقاولين والمصانع والورش والمطاعم والمقاهي والفنادق والمزارع والمختبرات والجهات الحكومية في قطر.',
+                 'Sourcing on request is a procurement service from Bestolex Trading of Heavy Equipment and Machinery, a Qatari company based in Doha. We buy, on the customer\'s behalf, any machine, equipment, device, production line or spare part that is not in our own product sections, from factories around the world, and handle the comparison, inspection, shipping, customs clearance, installation, training and maintenance. We serve contractors, factories, workshops, restaurants, cafés and hotels, farms, laboratories and government entities in Qatar.') }}
           </p>
         </div>
         <dl class="lg:col-span-5 grid grid-cols-2 gap-px bg-line dark:bg-gray-700 border border-line dark:border-gray-700 rounded-2xl overflow-hidden text-sm">
@@ -264,7 +264,7 @@
           </label>
           <label class="block sm:col-span-2">
             <span class="text-sm font-bold">{{ t('ما الذي تحتاجه؟', 'What do you need?') }} <span class="text-slate font-normal">{{ t('(مطلوب)', '(required)') }}</span></span>
-            <textarea v-model="form.message" required rows="6" :placeholder="t('مثال: ماكينة CNC للخشب بطاولة 1300×2500 مم لورشة نجارة في الصناعية، أو: جهاز تعقيم لعيادة أسنان. اذكر الكمية والمكان إن أمكن.', 'Example: a wood CNC router with a 1300×2500 mm table for a carpentry workshop, or: a steriliser for a dental clinic. Mention quantity and location if you can.')" class="mt-1 w-full rounded-lg border border-line dark:border-gray-600 bg-white dark:bg-gray-900 px-4 py-3"></textarea>
+            <textarea v-model="form.message" required rows="6" :placeholder="t('مثال: ماكينة CNC للخشب بطاولة 1300×2500 مم لورشة نجارة في الصناعية، أو: ماكينة قهوة وعصير لمقهى جديد. اذكر الكمية والمكان إن أمكن.', 'Example: a wood CNC router with a 1300×2500 mm table for a carpentry workshop, or: coffee and juice machines for a new café. Mention quantity and location if you can.')" class="mt-1 w-full rounded-lg border border-line dark:border-gray-600 bg-white dark:bg-gray-900 px-4 py-3"></textarea>
           </label>
           <p class="sm:col-span-2 text-sm text-slate dark:text-gray-400">
             {{ t('عندك كراسة شروط، أو مواصفة استشاري، أو صورة الآلة الحالية ولوحة بياناتها؟ أرسلها على واتساب أو إلى info@bestolex.com بعد إرسال الطلب.', 'Have tender documents, a consultant specification, or a photo of the current machine and its nameplate? Send them on WhatsApp or to info@bestolex.com after submitting.') }}
@@ -303,11 +303,11 @@ const heroExamples = [
   { icon: 'gauge', ar: 'مضخات غاطسة وضاغط هواء صناعي', en: 'Submersible pumps and an industrial air compressor' },
   { icon: 'metal', ar: 'ماكينة لحام ومخرطة لورشة حدادة', en: 'A welding machine and lathe for a metal workshop' },
   { icon: 'kitchen', ar: 'مكائن قهوة وعصير لمقهى جديد', en: 'Coffee and juice machines for a new café' },
-  { icon: 'medical', ar: 'جهاز تعقيم لعيادة أسنان', en: 'A steriliser for a dental clinic' }
+  { icon: 'sewing', ar: 'مكائن خياطة وتطريز لمشغل جديد', en: 'Sewing and embroidery machines for a new workshop' }
 ]
 
 const chips = [
-  { a: 'أي نشاط، أي آلة', ae: 'Any activity, any machine', b: 'بناء، صناعة، ورش، ضيافة، طب، زراعة', be: 'construction, industry, workshops, hospitality, medical, farming' },
+  { a: 'أي نشاط، أي آلة', ae: 'Any activity, any machine', b: 'بناء، صناعة، ورش، ضيافة، زراعة، مختبرات', be: 'construction, industry, workshops, hospitality, farming, labs' },
   { a: 'من مصانع حول العالم', ae: 'From factories worldwide', b: 'أو من مصنع تحدده أنت', be: 'or from a factory you name' },
   { a: 'من الطلب إلى التشغيل', ae: 'From request to start-up', b: 'شحن وتخليص وتركيب وتدريب وصيانة', be: 'shipping, clearance, installation, training, maintenance' }
 ]
@@ -330,9 +330,9 @@ const ownSections = [
 ]
 
 const kinds = [
-  { id: 'single', ar: 'آلة أو جهاز واحد', en: 'A single machine or device', dar: 'ماكينة لحام، ضاغط هواء، مضخة، جهاز تعقيم، ماكينة CNC… وحدة واحدة بمواصفة محددة، أو عدة وحدات من الموديل نفسه.', den: 'A welding machine, air compressor, steriliser, CNC machine… one unit to a set specification, or several of the same model.' },
+  { id: 'single', ar: 'آلة أو جهاز واحد', en: 'A single machine or device', dar: 'ماكينة لحام، ضاغط هواء، مضخة، ماكينة CNC، ماكينة تطريز… وحدة واحدة بمواصفة محددة، أو عدة وحدات من الموديل نفسه.', den: 'A welding machine, air compressor, pump, CNC machine, embroidery machine… one unit to a set specification, or several of the same model.' },
   { id: 'line', ar: 'خط إنتاج متكامل', en: 'A complete production line', dar: 'عدة آلات تعمل معاً: تعبئة وتغليف، تصنيع أغذية، حقن بلاستيك، بلوك وخرسانة. نوفّرها متوافقة مع بعضها لا كقطع متفرقة.', den: 'Several machines working together: filling and packing, food processing, plastic injection, blocks and concrete. Supplied to work together, not as separate pieces.' },
-  { id: 'setup', ar: 'تجهيز منشأة من الصفر', en: 'Equipping a facility from scratch', dar: 'مصنع أو ورشة أو مطبخ مركزي أو مختبر أو عيادة: قائمة المعدات كاملة، والمخطط، والتركيب، وتدريب الفريق.', den: 'A factory, workshop, central kitchen, lab or clinic: the full equipment list, layout, installation and team training.' },
+  { id: 'setup', ar: 'تجهيز منشأة من الصفر', en: 'Equipping a facility from scratch', dar: 'مصنع أو ورشة أو مطبخ مركزي أو مختبر أو مشغل: قائمة المعدات كاملة، والمخطط، والتركيب، وتدريب الفريق.', den: 'A factory, workshop, central kitchen, lab or tailoring shop: the full equipment list, layout, installation and team training.' },
   { id: 'tender', ar: 'معدات لمناقصة أو مشروع', en: 'Equipment for a tender or project', dar: 'وفق كراسة الشروط ومواصفة الاستشاري، مع العرض الفني والتجاري ووثائق المطابقة.', den: 'To the tender documents and consultant specification, with the technical and commercial offer and compliance documents.' },
   { id: 'parts', ar: 'قطع غيار ومستهلكات', en: 'Spare parts and consumables', dar: 'قطع تآكل وفلاتر وسيور ومحامل ومحركات لآلات قائمة عندك، حتى لو لم تشترها منا.', den: "Wear parts, filters, belts, bearings and motors for machines you already run, even if you didn't buy them from us." }
 ]
@@ -372,7 +372,6 @@ const faq = [
   { q: { ar: 'ما الفرق بينها وبين منتجات بيستوليكس؟', en: "How is it different from Bestolex's own products?" }, a: { ar: 'منتجاتنا في الأقسام الخمسة (أنظمة التحميل، والنفايات وإعادة التدوير، والحماية المحيطية، والأبواب الصناعية، وحلول الطاقة) نوردها بصفتنا وكلاء وموزّعين. والتوريد حسب الطلب لكل ما عدا ذلك، في أي نشاط.', en: 'Our products in the five sections (loading systems, waste and recycling, perimeter protection, industrial doors and energy solutions) we supply as agents and distributors. Sourcing on request covers everything else, for any activity.' } },
   { q: { ar: 'هل تورّدون السقالات وخلاطات الخرسانة ومعدات المقاولين؟', en: 'Do you supply scaffolding, concrete mixers and contractor equipment?' }, a: { ar: 'نعم: السقالات، وخلاطات الخرسانة وهزازاتها، ومحطات الخلط، ومكائن البلوك، وروافع المواد، ومعدات الطرق، والمعدات الثقيلة عند الطلب.', en: 'Yes: scaffolding, concrete mixers and vibrators, batching plants, block making machines, material hoists, road equipment, and heavy equipment on request.' } },
   { q: { ar: 'هل توفّرون قطع غيار لآلات لم نشترها منكم؟', en: "Do you supply parts for machines we didn't buy from you?" }, a: { ar: 'نعم. أرسل لوحة بيانات الآلة ورقم الموديل وصورة القطعة، ونبحث عن القطعة الأصلية أو البديل المتوافق.', en: 'Yes. Send the nameplate, model number and a photo of the part, and we find the original part or a compatible alternative.' } },
-  { q: { ar: 'هل تورّدون معدات طبية للمستشفيات والعيادات؟', en: 'Do you supply medical equipment to hospitals and clinics?' }, a: { ar: 'نعم: أجهزة ومعدات طبية، وأسرّة، وأجهزة تعقيم، ومعدات عيادات الأسنان والعلاج الطبيعي، وأثاث طبي. ونتحقق قبل الشراء من متطلبات استيراد كل جهاز لدى وزارة الصحة العامة. الأدوية خارج نطاق الخدمة.', en: 'Yes: medical devices and equipment, beds, sterilisers, dental and physiotherapy equipment, and medical furniture. Before buying, we check each device\'s import requirements with the Ministry of Public Health. Medicines are outside the scope.' } },
   { q: { ar: 'هل تورّدون خطوط إنتاج كاملة لمصنع جديد؟', en: 'Do you supply complete production lines for a new factory?' }, a: { ar: 'نعم. نحدد معك الطاقة الإنتاجية والمساحة والكهرباء، ونورّد آلات الخط متوافقة مع بعضها، ثم نركّبها ونشغّلها وندرّب الفريق.', en: 'Yes. We agree the capacity, space and power with you, supply the line\'s machines to work together, then install, commission and train the team.' } },
   { q: { ar: 'هل تورّدون مكائن للورش: الحدادة واللحام والنجارة والخياطة؟', en: 'Do you supply machines for workshops: metalwork, welding, carpentry and tailoring?' }, a: { ar: 'نعم، آلة واحدة أو تجهيز الورشة كاملة: مكائن لحام ومخارط ومكابس ثني ومقصات وقطع بالليزر والبلازما، ومناشير ومكائن CNC للخشب، ومكائن خياطة وتطريز صناعية، وضواغط هواء.', en: 'Yes, a single machine or a full workshop: welding machines, lathes, press brakes, shears, laser and plasma cutting, saws and CNC routers for wood, industrial sewing and embroidery machines, and air compressors.' } },
   { q: { ar: 'هل تورّدون قطعة واحدة، أم كميات فقط؟', en: 'Do you supply single units, or only quantities?' }, a: { ar: 'قطعة واحدة أو كمية. لا حد أدنى للطلب.', en: 'Either. There is no minimum order.' } },
@@ -432,8 +431,8 @@ const submit = async () => {
 
 const pageTitle = computed(() => t('توريد المعدات والآلات حسب الطلب في قطر لأي نشاط | بيستوليكس', 'Equipment Suppliers in Qatar for Any Industry | Bestolex'))
 const pageDesc = computed(() => t(
-  'نورّد أي آلة غير متوفرة محلياً لأي نشاط: سقالات ومعدات بناء، قطع غيار، مضخات وضواغط، مكائن لحام، معدات مطابخ وطبية، من مصانع حول العالم إلى قطر.',
-  "Any machine you can't find locally, for any industry: scaffolding, spare parts, pumps, compressors, welding, kitchen and medical equipment, in Qatar."
+  'نورّد أي آلة غير متوفرة محلياً لأي نشاط: سقالات ومعدات بناء، قطع غيار، مضخات وضواغط، مكائن لحام، معدات مطابخ ومطابع، من مصانع حول العالم إلى قطر.',
+  "Any machine you can't find locally, for any industry: scaffolding, spare parts, pumps, compressors, welding, kitchen and printing equipment, in Qatar."
 ))
 
 useSeoMeta({
@@ -462,7 +461,7 @@ useHead(() => ({
             url: `${SITE_URL}${localePath('/sourcing')}`,
             provider: { '@id': ORG_ID },
             areaServed: [{ '@type': 'Country', name: 'Qatar' }, { '@type': 'Place', name: 'Middle East' }, { '@type': 'Place', name: 'Africa' }],
-            audience: { '@type': 'BusinessAudience', audienceType: t('المقاولون والمصانع والورش والمطاعم والمقاهي والفنادق والمستشفيات والمزارع والمختبرات والجهات الحكومية', 'Contractors, factories, workshops, restaurants, cafés and hotels, hospitals, farms, laboratories and government entities') },
+            audience: { '@type': 'BusinessAudience', audienceType: t('المقاولون والمصانع والورش والمطاعم والمقاهي والفنادق والمزارع والمختبرات والجهات الحكومية', 'Contractors, factories, workshops, restaurants, cafés and hotels, farms, laboratories and government entities') },
             hasOfferCatalog: {
               '@type': 'OfferCatalog',
               name: t('القطاعات التي نورّد لها', 'Sectors we supply'),

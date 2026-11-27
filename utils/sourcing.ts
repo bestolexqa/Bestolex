@@ -4,8 +4,9 @@
 // Order = Qatar search demand per sector, highest first (Semrush, Qatar database, 27 Nov 2026,
 // summed over each sector's AR/EN terms): construction ~2,160/month, spare parts ~1,890,
 // pumps/compressors/water ~1,870, metalwork ~1,150, hospitality ~1,060, printing ~1,060,
-// agriculture ~700, sewing ~690, medical ~480, woodworking ~300, production lines ~220,
+// agriculture ~700, sewing ~690, woodworking ~300, production lines ~220,
 // cleaning ~150, garages ~80, laboratories ~60.
+// Medical equipment (~480) is left out until the commercial registration covers it (owner, 27 Nov 2026).
 
 export interface SourcingSector {
   id: string
@@ -82,16 +83,6 @@ export const SOURCING_SECTORS: SourcingSector[] = [
     en: 'Tailoring, embroidery and textiles',
     itemsAr: ['مكائن الخياطة الصناعية', 'مكائن التطريز', 'مكائن القص والكي', 'معدات مصانع الملابس والمفروشات'],
     itemsEn: ['Industrial sewing machines', 'Embroidery machines', 'Cutting and pressing machines', 'Garment and soft-furnishing factory equipment']
-  },
-  {
-    id: 'medical',
-    icon: 'medical',
-    ar: 'المستشفيات والعيادات والمراكز الطبية',
-    en: 'Hospitals, clinics and medical centres',
-    itemsAr: ['أجهزة ومعدات طبية', 'أسرّة وعربات المرضى', 'الكراسي المتحركة ومعدات التأهيل', 'أجهزة التعقيم', 'معدات عيادات الأسنان', 'أثاث العيادات والمختبرات الطبية'],
-    itemsEn: ['Medical devices and equipment', 'Patient beds and trolleys', 'Wheelchairs and rehabilitation equipment', 'Sterilisers', 'Dental clinic equipment', 'Clinic and medical lab furniture'],
-    noteAr: 'نتحقق قبل الشراء من متطلبات استيراد كل جهاز لدى وزارة الصحة العامة. الأدوية خارج نطاق الخدمة.',
-    noteEn: 'Before buying, we check each device\'s import requirements with the Ministry of Public Health. Medicines are outside the scope of the service.'
   },
   {
     id: 'woodworking',
