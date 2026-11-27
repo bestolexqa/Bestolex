@@ -1,0 +1,738 @@
+{
+ "id": "solar-appliances",
+ "updated": "2026-11-27",
+ "title": {
+  "ar": "المنتجات والمواصفات",
+  "en": "Products and specifications"
+ },
+ "source": {
+  "ar": "المصدر: كتالوج بيستوليكس BXSC-08، إصدار 27 نوفمبر 2026 · * حسب بيانات المصنّع · قد تتغير المواصفات دون إشعار",
+  "en": "Source: Bestolex catalogue BXSC-08, edition 27 November 2026 · * manufacturer-stated · specifications may change without notice"
+ },
+ "typeLabel": {
+  "ar": "نوع المنتج",
+  "en": "Product type"
+ },
+ "missing": {
+  "ar": "—",
+  "en": "—"
+ },
+ "rows": [
+  {
+   "key": "use",
+   "label": {
+    "ar": "الأنسب لـ",
+    "en": "Best for"
+   }
+  },
+  {
+   "key": "tank-net-capacity",
+   "label": {
+    "ar": "السعة الصافية للخزان",
+    "en": "Tank net capacity"
+   }
+  },
+  {
+   "key": "vacuum-tubes",
+   "label": {
+    "ar": "الأنابيب المفرغة",
+    "en": "Vacuum tubes"
+   }
+  },
+  {
+   "key": "number-of-tubes",
+   "label": {
+    "ar": "عدد الأنابيب",
+    "en": "Number of tubes"
+   }
+  },
+  {
+   "key": "collector-area",
+   "label": {
+    "ar": "مساحة التجميع",
+    "en": "Collector area"
+   }
+  },
+  {
+   "key": "inner-tank",
+   "label": {
+    "ar": "الخزان الداخلي",
+    "en": "Inner tank"
+   }
+  },
+  {
+   "key": "outer-tank",
+   "label": {
+    "ar": "الخزان الخارجي",
+    "en": "Outer tank"
+   }
+  },
+  {
+   "key": "insulation",
+   "label": {
+    "ar": "العزل",
+    "en": "Insulation"
+   }
+  },
+  {
+   "key": "frame",
+   "label": {
+    "ar": "الإطار",
+    "en": "Frame"
+   }
+  },
+  {
+   "key": "hail-resistance",
+   "label": {
+    "ar": "مقاومة البَرَد",
+    "en": "Hail resistance"
+   }
+  },
+  {
+   "key": "accessories",
+   "label": {
+    "ar": "الملحقات",
+    "en": "Accessories"
+   }
+  },
+  {
+   "key": "copper-coil",
+   "label": {
+    "ar": "الملف النحاسي",
+    "en": "Copper coil"
+   }
+  },
+  {
+   "key": "auxiliary-feed-tank",
+   "label": {
+    "ar": "خزان التغذية المساعد",
+    "en": "Auxiliary feed tank"
+   }
+  },
+  {
+   "key": "water",
+   "label": {
+    "ar": "المياه",
+    "en": "Water"
+   }
+  },
+  {
+   "key": "heat-pipe",
+   "label": {
+    "ar": "الأنبوب الحراري",
+    "en": "Heat pipe"
+   }
+  },
+  {
+   "key": "working-test-pressure",
+   "label": {
+    "ar": "ضغط التشغيل / الاختبار",
+    "en": "Working / test pressure"
+   }
+  },
+  {
+   "key": "safety",
+   "label": {
+    "ar": "الأمان",
+    "en": "Safety"
+   }
+  },
+  {
+   "key": "tank-capacity",
+   "label": {
+    "ar": "سعة الخزان",
+    "en": "Tank capacity"
+   }
+  },
+  {
+   "key": "collectors",
+   "label": {
+    "ar": "المجمعات",
+    "en": "Collectors"
+   }
+  },
+  {
+   "key": "collector-size",
+   "label": {
+    "ar": "مقاس المجمع",
+    "en": "Collector size"
+   }
+  },
+  {
+   "key": "absorber",
+   "label": {
+    "ar": "الماص",
+    "en": "Absorber"
+   }
+  },
+  {
+   "key": "collector-insulation",
+   "label": {
+    "ar": "عزل المجمع",
+    "en": "Collector insulation"
+   }
+  },
+  {
+   "key": "tank-diameter",
+   "label": {
+    "ar": "قطر الخزان",
+    "en": "Tank diameter"
+   }
+  },
+  {
+   "key": "operating-pressure",
+   "label": {
+    "ar": "ضغط التشغيل",
+    "en": "Operating pressure"
+   }
+  },
+  {
+   "key": "tank-insulation",
+   "label": {
+    "ar": "عزل الخزان",
+    "en": "Tank insulation"
+   }
+  },
+  {
+   "key": "support",
+   "label": {
+    "ar": "الحامل",
+    "en": "Support"
+   }
+  },
+  {
+   "key": "energy-saving",
+   "label": {
+    "ar": "توفير الطاقة*",
+    "en": "Energy saving*"
+   }
+  },
+  {
+   "key": "net-capacity",
+   "label": {
+    "ar": "السعة الصافية",
+    "en": "Net capacity"
+   }
+  },
+  {
+   "key": "voltage",
+   "label": {
+    "ar": "الجهد",
+    "en": "Voltage"
+   }
+  },
+  {
+   "key": "temperature",
+   "label": {
+    "ar": "الحرارة",
+    "en": "Temperature"
+   }
+  },
+  {
+   "key": "climate-class",
+   "label": {
+    "ar": "الفئة المناخية",
+    "en": "Climate class"
+   }
+  },
+  {
+   "key": "refrigerant",
+   "label": {
+    "ar": "غاز التبريد",
+    "en": "Refrigerant"
+   }
+  },
+  {
+   "key": "battery",
+   "label": {
+    "ar": "البطارية",
+    "en": "Battery"
+   }
+  },
+  {
+   "key": "solar-panel",
+   "label": {
+    "ar": "اللوح الشمسي",
+    "en": "Solar panel"
+   }
+  },
+  {
+   "key": "inner-walls",
+   "label": {
+    "ar": "الجدران الداخلية",
+    "en": "Inner walls"
+   }
+  },
+  {
+   "key": "wall-thickness",
+   "label": {
+    "ar": "سماكة الجدار",
+    "en": "Wall thickness"
+   }
+  },
+  {
+   "key": "container-load-40-hq",
+   "label": {
+    "ar": "حمولة الحاوية ⁦40⁩ قدم",
+    "en": "Container load 40'HQ"
+   }
+  },
+  {
+   "key": "fan-size",
+   "label": {
+    "ar": "مقاس المروحة",
+    "en": "Fan size"
+   }
+  },
+  {
+   "key": "rated-power",
+   "label": {
+    "ar": "القدرة المقننة",
+    "en": "Rated power"
+   }
+  },
+  {
+   "key": "motor",
+   "label": {
+    "ar": "المحرك",
+    "en": "Motor"
+   }
+  },
+  {
+   "key": "speeds",
+   "label": {
+    "ar": "السرعات",
+    "en": "Speeds"
+   }
+  },
+  {
+   "key": "runtime",
+   "label": {
+    "ar": "مدة التشغيل",
+    "en": "Runtime"
+   }
+  },
+  {
+   "key": "charge-time",
+   "label": {
+    "ar": "زمن الشحن",
+    "en": "Charge time"
+   }
+  },
+  {
+   "key": "functions",
+   "label": {
+    "ar": "الوظائف",
+    "en": "Functions"
+   }
+  },
+  {
+   "key": "also-available",
+   "label": {
+    "ar": "متوفر أيضاً",
+    "en": "Also available"
+   }
+  }
+ ],
+ "keyRows": [
+  "collector-area",
+  "hail-resistance",
+  "tank-net-capacity"
+ ],
+ "types": [
+  {
+   "id": "tube",
+   "label": {
+    "ar": "سخانات بأنابيب مفرغة",
+    "en": "Evacuated-tube heaters"
+   },
+   "key": {
+    "ar": "85–300 لتر · غير مضغوط ومضغوط",
+    "en": "85–300 L · non-pressurised and pressurised"
+   },
+   "keyRows": [
+    "collector-area",
+    "hail-resistance",
+    "tank-net-capacity"
+   ],
+   "models": [
+    {
+     "code": "BXS-0080-01-001",
+     "name": {
+      "ar": "⁦85–300⁩ لتر · أنابيب مفرغة",
+      "en": "85–300 L · vacuum tubes"
+     },
+     "specs": {
+      "use": {
+       "ar": "البيوت والمساجد والمزارع",
+       "en": "Homes, mosques, farms"
+      },
+      "tank-net-capacity": {
+       "ar": "⁦85–300⁩ لتر (⁦Ø58⁩ أنبوب) · ⁦110–260⁩ لتر (⁦Ø47⁩)",
+       "en": "85–300 L (Ø58 tubes) · 110–260 L (Ø47)"
+      },
+      "vacuum-tubes": {
+       "ar": "⁦Ø58 × 1,800⁩ أو ⁦Ø47 × 1,500⁩ مم",
+       "en": "Ø58 × 1,800 or Ø47 × 1,500 mm"
+      },
+      "number-of-tubes": {
+       "ar": "⁦10–36⁩",
+       "en": "10–36"
+      },
+      "collector-area": {
+       "ar": "⁦1.35–5.04⁩ م²",
+       "en": "1.35–5.04 m²"
+      },
+      "inner-tank": {
+       "ar": "⁦SUS304-2B⁩ أو ⁦316L⁩، ملحوم بالليزر",
+       "en": "SUS304-2B or 316L, laser welded"
+      },
+      "outer-tank": {
+       "ar": "مطلي، أو مغلّف بالألومنيوم والزنك، أو ⁦SUS304⁩",
+       "en": "Painted, Al-Zn coated or SUS304"
+      },
+      "insulation": {
+       "ar": "بولي يوريثان عالي الكثافة، ⁦72⁩ ساعة",
+       "en": "High-density PU, 72 h"
+      },
+      "frame": {
+       "ar": "ستانلس أو ألومنيوم أو فولاذ مجلفن",
+       "en": "Stainless, aluminium or galvanised steel"
+      },
+      "hail-resistance": {
+       "ar": "⁦25–40⁩ مم",
+       "en": "25–40 mm"
+      },
+      "accessories": {
+       "ar": "عاكس، وسخان كهربائي، وأنود، وخزان تغذية",
+       "en": "Reflector, electric heater, anode, feed tank"
+      }
+     }
+    },
+    {
+     "code": "BXS-0080-01-002",
+     "name": {
+      "ar": "⁦165–300⁩ لتر · بضغط الشبكة",
+      "en": "165–300 L · mains pressure"
+     },
+     "specs": {
+      "use": {
+       "ar": "البيوت ذات الدوش",
+       "en": "Homes with showers"
+      },
+      "tank-net-capacity": {
+       "ar": "⁦165 / 200 / 208 / 250 / 300⁩ لتر",
+       "en": "165 / 200 / 208 / 250 / 300 L"
+      },
+      "vacuum-tubes": {
+       "ar": "⁦Ø58 × 1.8 / 2.0 / 2.1⁩ م · ⁦20–36⁩ أنبوب",
+       "en": "Ø58 × 1.8 / 2.0 / 2.1 m · 20–36 tubes"
+      },
+      "copper-coil": {
+       "ar": "⁦Ø12⁩ أو ⁦16⁩ مم · ⁦20–50⁩ م",
+       "en": "Ø12 or 16 mm · 20–50 m"
+      },
+      "auxiliary-feed-tank": {
+       "ar": "⁦5–70⁩ لتر",
+       "en": "5–70 L"
+      },
+      "collector-area": {
+       "ar": "⁦2.8–5.04⁩ م²",
+       "en": "2.8–5.04 m²"
+      },
+      "inner-tank": {
+       "ar": "⁦SUS304-2B⁩ أو ⁦316L⁩، ملحوم بالليزر",
+       "en": "SUS304-2B or 316L, laser welded"
+      },
+      "insulation": {
+       "ar": "بولي يوريثان عالي الكثافة، ⁦72⁩ ساعة",
+       "en": "High-density PU, 72 h"
+      },
+      "water": {
+       "ar": "ماء نظيف · الساخن والبارد منفصلان",
+       "en": "Fresh water · hot and cold kept separate"
+      },
+      "hail-resistance": {
+       "ar": "⁦25–40⁩ مم",
+       "en": "25–40 mm"
+      },
+      "accessories": {
+       "ar": "عاكس، وسخان كهربائي، وأنود، ووحدة تحكم",
+       "en": "Reflector, electric heater, anode, controller"
+      }
+     }
+    },
+    {
+     "code": "BXS-0080-01-003",
+     "name": {
+      "ar": "⁦95–260⁩ لتر · ضغط تشغيل ⁦6⁩ بار",
+      "en": "95–260 L · 6 bar working pressure"
+     },
+     "specs": {
+      "use": {
+       "ar": "الفلل والعيادات",
+       "en": "Villas, clinics"
+      },
+      "tank-net-capacity": {
+       "ar": "⁦95 / 110 / 135 / 145 / 160 / 175 / 210 / 260⁩ لتر",
+       "en": "95 / 110 / 135 / 145 / 160 / 175 / 210 / 260 L"
+      },
+      "vacuum-tubes": {
+       "ar": "⁦Ø58 × 1,800⁩ مم · ⁦10–30⁩ أنبوب",
+       "en": "Ø58 × 1,800 mm · 10–30 tubes"
+      },
+      "heat-pipe": {
+       "ar": "نحاس خالٍ من الأكسجين، مقاوم للتجمد",
+       "en": "Oxygen-free copper, antifreeze"
+      },
+      "working-test-pressure": {
+       "ar": "⁦600⁩ ك.باسكال / ⁦1,000⁩ ك.باسكال",
+       "en": "600 kPa / 1,000 kPa"
+      },
+      "safety": {
+       "ar": "صمام ضغط وحرارة، وصمام عدم رجوع لتخفيض الضغط",
+       "en": "P/T valve, pressure-reducing check valve"
+      },
+      "collector-area": {
+       "ar": "⁦1.4–4.2⁩ م²",
+       "en": "1.4–4.2 m²"
+      },
+      "inner-tank": {
+       "ar": "⁦SUS304-2B / 316L⁩ أو فولاذ مطلي بالمينا",
+       "en": "SUS304-2B / 316L or enamelled steel"
+      },
+      "insulation": {
+       "ar": "بولي يوريثان عالي الكثافة، ⁦72⁩ ساعة",
+       "en": "High-density PU, 72 h"
+      },
+      "hail-resistance": {
+       "ar": "⁦25–40⁩ مم",
+       "en": "25–40 mm"
+      },
+      "accessories": {
+       "ar": "عاكس، وسخان كهربائي، وأنود، ووحدة تحكم",
+       "en": "Reflector, electric heater, anode, controller"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "flat",
+   "label": {
+    "ar": "سخان بلوح مسطح",
+    "en": "Flat-plate heater"
+   },
+   "key": {
+    "ar": "100–300 لتر · 6 بار",
+    "en": "100–300 L · 6 bar"
+   },
+   "keyRows": [
+    "inner-tank",
+    "collector-size",
+    "collector-insulation"
+   ],
+   "models": [
+    {
+     "code": "BXS-0080-01-004",
+     "name": {
+      "ar": "⁦100 / 150 / 200 / 300⁩ لتر · ⁦6⁩ بار",
+      "en": "100 / 150 / 200 / 300 L · 6 bar"
+     },
+     "specs": {
+      "use": {
+       "ar": "الفلل والفنادق",
+       "en": "Villas, hotels"
+      },
+      "tank-capacity": {
+       "ar": "⁦100 / 150 / 200 / 300⁩ لتر",
+       "en": "100 / 150 / 200 / 300 L"
+      },
+      "collectors": {
+       "ar": "⁦1 / 1 / 1–2 / 2–3 × 2.00⁩ م²",
+       "en": "1 / 1 / 1–2 / 2–3 × 2.00 m²"
+      },
+      "collector-size": {
+       "ar": "⁦1,030 × 2,030⁩ مم",
+       "en": "1,030 × 2,030 mm"
+      },
+      "absorber": {
+       "ar": "طلاء انتقائي · مجمّع نحاسي ⁦22⁩ مم",
+       "en": "Selective coating · Cu 22 mm header"
+      },
+      "collector-insulation": {
+       "ar": "صوف زجاجي",
+       "en": "Glass wool"
+      },
+      "tank-diameter": {
+       "ar": "⁦540 / 580⁩ مم",
+       "en": "540 / 580 mm"
+      },
+      "operating-pressure": {
+       "ar": "⁦6⁩ بار",
+       "en": "6 bar"
+      },
+      "tank-insulation": {
+       "ar": "بولي يوريثان ⁦50⁩ مم",
+       "en": "Polyurethane 50 mm"
+      },
+      "inner-tank": {
+       "ar": "⁦SUS304 / SUS316⁩ لتر",
+       "en": "SUS304 / SUS316L"
+      },
+      "support": {
+       "ar": "فولاذ مجلفن على الساخن بطلاء بودرة",
+       "en": "Hot-galvanised steel, powder coated"
+      },
+      "energy-saving": {
+       "ar": "⁦55–85 %⁩ من طاقة تسخين المياه",
+       "en": "55–85 % of water-heating energy"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "freezer",
+   "label": {
+    "ar": "مجمد شمسي DC",
+    "en": "DC solar freezer"
+   },
+   "key": {
+    "ar": "104–238 لتر · -18 °م",
+    "en": "104–238 L · -18 °C"
+   },
+   "keyRows": [
+    "net-capacity",
+    "temperature",
+    "climate-class"
+   ],
+   "models": [
+    {
+     "code": "BXS-0028-01-008",
+     "name": {
+      "ar": "⁦104 / 154 / 238⁩ لتر · ⁦12 / 24⁩ فولت مستمر",
+      "en": "104 / 154 / 238 L · 12 / 24 V DC"
+     },
+     "specs": {
+      "use": {
+       "ar": "بائعو السمك واللحوم والمحلات",
+       "en": "Fish & meat sellers, shops"
+      },
+      "net-capacity": {
+       "ar": "⁦104 / 154 / 238⁩ لتر",
+       "en": "104 / 154 / 238 L"
+      },
+      "voltage": {
+       "ar": "⁦DC 12⁩ فولت / ⁦12⁩ فولت / ⁦24⁩ فولت",
+       "en": "DC 12 V / 12 V / 24 V"
+      },
+      "temperature": {
+       "ar": "⁦-18⁩ °م أو أبرد",
+       "en": "-18 °C or colder"
+      },
+      "climate-class": {
+       "ar": "⁦ST⁩",
+       "en": "ST"
+      },
+      "refrigerant": {
+       "ar": "⁦R600a⁩",
+       "en": "R600a"
+      },
+      "battery": {
+       "ar": "⁦12.8⁩ فولت ⁦45⁩ أمبير ساعة / ⁦12.8⁩ فولت ⁦45⁩ أمبير ساعة / ⁦25.6⁩ فولت ⁦30⁩ أمبير ساعة",
+       "en": "12.8 V 45 Ah / 12.8 V 45 Ah / 25.6 V 30 Ah"
+      },
+      "solar-panel": {
+       "ar": "⁦2 × 160⁩ واط ⁦19⁩ فولت / ⁦2 × 160⁩ واط ⁦19⁩ فولت / ⁦500⁩ واط ⁦38⁩ فولت",
+       "en": "2 × 160 W 19 V / 2 × 160 W 19 V / 500 W 38 V"
+      },
+      "inner-walls": {
+       "ar": "ألومنيوم",
+       "en": "Aluminium"
+      },
+      "wall-thickness": {
+       "ar": "⁦87⁩ مم",
+       "en": "87 mm"
+      },
+      "container-load-40-hq": {
+       "ar": "⁦170 / 131 / 98⁩ وحدات",
+       "en": "170 / 131 / 98 units"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "fan",
+   "label": {
+    "ar": "مروحة شمسية",
+    "en": "Solar fan"
+   },
+   "key": {
+    "ar": "16 بوصة · حتى 50 ساعة",
+    "en": "16-inch · up to 50 h"
+   },
+   "keyRows": [
+    "fan-size",
+    "rated-power",
+    "motor"
+   ],
+   "models": [
+    {
+     "code": "BXS-0031-06-001",
+     "name": {
+      "ar": "⁦16⁩ بوصة · ⁦25⁩ واط · لوح ⁦22⁩ واط",
+      "en": "16-inch · 25 W · 22 W panel"
+     },
+     "specs": {
+      "use": {
+       "ar": "البيوت والفصول والمخيمات",
+       "en": "Homes, classrooms, camps"
+      },
+      "fan-size": {
+       "ar": "⁦16⁩ بوصة",
+       "en": "16 inches"
+      },
+      "rated-power": {
+       "ar": "⁦25⁩ واط",
+       "en": "25 W"
+      },
+      "motor": {
+       "ar": "نحاسي بلا فرش",
+       "en": "Copper brushless"
+      },
+      "solar-panel": {
+       "ar": "أحادي ⁦22⁩ واط / ⁦9⁩ فولت، ⁦400 × 350⁩ مم، كابل ⁦4.2⁩ م",
+       "en": "Mono 22 W / 9 V, 400 × 350 mm, 4.2 m cable"
+      },
+      "battery": {
+       "ar": "ليثيوم ⁦18650⁩ · ⁦7.4⁩ فولت ⁦7.8⁩ أمبير ساعة · ⁦57.72⁩ واط ساعة",
+       "en": "Lithium 18650 · 7.4 V 7.8 Ah · 57.72 Wh"
+      },
+      "speeds": {
+       "ar": "⁦12⁩",
+       "en": "12"
+      },
+      "runtime": {
+       "ar": "⁦7–50⁩ ساعة",
+       "en": "7–50 h"
+      },
+      "charge-time": {
+       "ar": "⁦4–6⁩ ساعة",
+       "en": "4–6 h"
+      },
+      "functions": {
+       "ar": "مخرج ⁦USB/DC⁩، وإضاءة ليلية ⁦LED⁩، وجهاز تحكم، وشاشة",
+       "en": "USB/DC output, LED night light, remote, display"
+      },
+      "also-available": {
+       "ar": "مروحة تدوير هواء ⁦14⁩ بوصة، ⁦30⁩ واط",
+       "en": "14-inch air-circulation fan, 30 W"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

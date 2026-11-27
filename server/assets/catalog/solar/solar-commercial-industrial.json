@@ -1,0 +1,851 @@
+{
+ "id": "solar-commercial-industrial",
+ "updated": "2026-11-27",
+ "title": {
+  "ar": "المنتجات والمواصفات",
+  "en": "Products and specifications"
+ },
+ "source": {
+  "ar": "المصدر: كتالوج بيستوليكس BXSC-07، إصدار 27 نوفمبر 2026 · * حسب بيانات المصنّع · قد تتغير المواصفات دون إشعار",
+  "en": "Source: Bestolex catalogue BXSC-07, edition 27 November 2026 · * manufacturer-stated · specifications may change without notice"
+ },
+ "typeLabel": {
+  "ar": "نوع المنتج",
+  "en": "Product type"
+ },
+ "missing": {
+  "ar": "—",
+  "en": "—"
+ },
+ "rows": [
+  {
+   "key": "use",
+   "label": {
+    "ar": "الأنسب لـ",
+    "en": "Best for"
+   }
+  },
+  {
+   "key": "rated-ac-output",
+   "label": {
+    "ar": "القدرة المقننة",
+    "en": "Rated AC output"
+   }
+  },
+  {
+   "key": "max-ac-output",
+   "label": {
+    "ar": "أقصى قدرة خرج",
+    "en": "Max. AC output"
+   }
+  },
+  {
+   "key": "peak-power-off-grid",
+   "label": {
+    "ar": "قدرة الذروة",
+    "en": "Peak power (off-grid)"
+   }
+  },
+  {
+   "key": "output",
+   "label": {
+    "ar": "الخرج",
+    "en": "Output"
+   }
+  },
+  {
+   "key": "unbalanced-output",
+   "label": {
+    "ar": "الحمل غير المتوازن",
+    "en": "Unbalanced output"
+   }
+  },
+  {
+   "key": "battery",
+   "label": {
+    "ar": "البطارية",
+    "en": "Battery"
+   }
+  },
+  {
+   "key": "max-charge-discharge",
+   "label": {
+    "ar": "أقصى تيار شحن / تفريغ",
+    "en": "Max. charge / discharge"
+   }
+  },
+  {
+   "key": "max-pv-input-power",
+   "label": {
+    "ar": "أقصى قدرة ألواح",
+    "en": "Max. PV input power"
+   }
+  },
+  {
+   "key": "pv-voltage-mppt-range",
+   "label": {
+    "ar": "جهد الألواح · نطاق ⁦MPPT⁩",
+    "en": "PV voltage · MPPT range"
+   }
+  },
+  {
+   "key": "mppt-trackers",
+   "label": {
+    "ar": "متتبعات ⁦MPPT⁩",
+    "en": "MPPT trackers"
+   }
+  },
+  {
+   "key": "parallel-units",
+   "label": {
+    "ar": "وحدات بالتوازي",
+    "en": "Parallel units"
+   }
+  },
+  {
+   "key": "operating-temp",
+   "label": {
+    "ar": "حرارة التشغيل",
+    "en": "Operating temp."
+   }
+  },
+  {
+   "key": "weight-size",
+   "label": {
+    "ar": "الوزن · المقاس",
+    "en": "Weight · size"
+   }
+  },
+  {
+   "key": "warranty",
+   "label": {
+    "ar": "الضمان",
+    "en": "Warranty"
+   }
+  },
+  {
+   "key": "battery-voltage",
+   "label": {
+    "ar": "جهد البطارية",
+    "en": "Battery voltage"
+   }
+  },
+  {
+   "key": "full-load-mppt-range",
+   "label": {
+    "ar": "نطاق ⁦MPPT⁩ بالحمل الكامل",
+    "en": "Full-load MPPT range"
+   }
+  },
+  {
+   "key": "mppt-efficiency",
+   "label": {
+    "ar": "كفاءة ⁦MPPT⁩",
+    "en": "MPPT efficiency"
+   }
+  },
+  {
+   "key": "bms-monitoring",
+   "label": {
+    "ar": "نظام الإدارة · المراقبة",
+    "en": "BMS · monitoring"
+   }
+  },
+  {
+   "key": "rated-output-ups",
+   "label": {
+    "ar": "القدرة المقننة / ⁦UPS⁩",
+    "en": "Rated output / UPS"
+   }
+  },
+  {
+   "key": "battery-energy",
+   "label": {
+    "ar": "طاقة البطارية",
+    "en": "Battery energy"
+   }
+  },
+  {
+   "key": "pv-input",
+   "label": {
+    "ar": "دخل الألواح",
+    "en": "PV input"
+   }
+  },
+  {
+   "key": "mppt-range",
+   "label": {
+    "ar": "نطاق ⁦MPPT⁩",
+    "en": "MPPT range"
+   }
+  },
+  {
+   "key": "grid",
+   "label": {
+    "ar": "الشبكة",
+    "en": "Grid"
+   }
+  },
+  {
+   "key": "grid-to-load-passthrough",
+   "label": {
+    "ar": "التمرير من الشبكة",
+    "en": "Grid-to-load passthrough"
+   }
+  },
+  {
+   "key": "bms-communication",
+   "label": {
+    "ar": "اتصال نظام الإدارة",
+    "en": "BMS communication"
+   }
+  },
+  {
+   "key": "protection",
+   "label": {
+    "ar": "الحماية",
+    "en": "Protection"
+   }
+  },
+  {
+   "key": "cabinet",
+   "label": {
+    "ar": "الخزانة",
+    "en": "Cabinet"
+   }
+  },
+  {
+   "key": "size-weight",
+   "label": {
+    "ar": "المقاس · الوزن*",
+    "en": "Size · weight*"
+   }
+  },
+  {
+   "key": "battery-operating-voltage",
+   "label": {
+    "ar": "جهد تشغيل البطارية",
+    "en": "Battery operating voltage"
+   }
+  },
+  {
+   "key": "cells",
+   "label": {
+    "ar": "الخلايا",
+    "en": "Cells"
+   }
+  },
+  {
+   "key": "dc-voltage",
+   "label": {
+    "ar": "جهد التيار المستمر",
+    "en": "DC voltage"
+   }
+  },
+  {
+   "key": "rated-energy",
+   "label": {
+    "ar": "الطاقة المقننة",
+    "en": "Rated energy"
+   }
+  },
+  {
+   "key": "rated-max-ac-power",
+   "label": {
+    "ar": "قدرة ⁦AC⁩ المقننة / القصوى",
+    "en": "Rated / max. AC power"
+   }
+  },
+  {
+   "key": "ac-voltage-frequency",
+   "label": {
+    "ar": "جهد ⁦AC⁩ · التردد",
+    "en": "AC voltage · frequency"
+   }
+  },
+  {
+   "key": "power-factor",
+   "label": {
+    "ar": "معامل القدرة",
+    "en": "Power factor"
+   }
+  },
+  {
+   "key": "charge-discharge-rate",
+   "label": {
+    "ar": "معدل الشحن / التفريغ",
+    "en": "Charge / discharge rate"
+   }
+  },
+  {
+   "key": "configuration",
+   "label": {
+    "ar": "التكوين",
+    "en": "Configuration"
+   }
+  },
+  {
+   "key": "isolation",
+   "label": {
+    "ar": "العزل",
+    "en": "Isolation"
+   }
+  },
+  {
+   "key": "cooling",
+   "label": {
+    "ar": "التبريد",
+    "en": "Cooling"
+   }
+  },
+  {
+   "key": "communication",
+   "label": {
+    "ar": "الاتصال",
+    "en": "Communication"
+   }
+  },
+  {
+   "key": "protection-altitude",
+   "label": {
+    "ar": "الحماية · الارتفاع",
+    "en": "Protection · altitude"
+   }
+  },
+  {
+   "key": "capacity",
+   "label": {
+    "ar": "السعة",
+    "en": "Capacity"
+   }
+  },
+  {
+   "key": "battery-clusters",
+   "label": {
+    "ar": "مجموعات البطاريات",
+    "en": "Battery clusters"
+   }
+  },
+  {
+   "key": "nominal-voltage",
+   "label": {
+    "ar": "الجهد الاسمي",
+    "en": "Nominal voltage"
+   }
+  },
+  {
+   "key": "rated-charge-discharge",
+   "label": {
+    "ar": "معدل الشحن / التفريغ",
+    "en": "Rated charge / discharge"
+   }
+  },
+  {
+   "key": "service-life",
+   "label": {
+    "ar": "عمر الخدمة*",
+    "en": "Service life*"
+   }
+  },
+  {
+   "key": "module",
+   "label": {
+    "ar": "الوحدة",
+    "en": "Module"
+   }
+  },
+  {
+   "key": "thermal-management",
+   "label": {
+    "ar": "الإدارة الحرارية",
+    "en": "Thermal management"
+   }
+  },
+  {
+   "key": "fire-protection",
+   "label": {
+    "ar": "الحماية من الحريق",
+    "en": "Fire protection"
+   }
+  },
+  {
+   "key": "noise-altitude",
+   "label": {
+    "ar": "الضجيج · الارتفاع",
+    "en": "Noise · altitude"
+   }
+  },
+  {
+   "key": "certification",
+   "label": {
+    "ar": "الشهادات*",
+    "en": "Certification*"
+   }
+  }
+ ],
+ "keyRows": [
+  "max-charge-discharge",
+  "max-pv-input-power",
+  "mppt-trackers"
+ ],
+ "types": [
+  {
+   "id": "hybrid",
+   "label": {
+    "ar": "انفرترات هجينة عالية الجهد",
+    "en": "High-voltage hybrid inverters"
+   },
+   "key": {
+    "ar": "8–50 ك.و · بطارية 160–800 فولت",
+    "en": "8–50 kW · 160–800 V battery"
+   },
+   "keyRows": [
+    "max-charge-discharge",
+    "max-pv-input-power",
+    "mppt-trackers"
+   ],
+   "models": [
+    {
+     "code": "BXS-0118-01-011",
+     "name": {
+      "ar": "⁦8–25⁩ ك.و · بطارية ⁦160–700⁩ فولت",
+      "en": "8–25 kW · 160–700 V battery"
+     },
+     "specs": {
+      "use": {
+       "ar": "المكاتب والمدارس والورش",
+       "en": "Offices, schools, workshops"
+      },
+      "rated-ac-output": {
+       "ar": "⁦8 / 10 / 15 / 20 / 25⁩ ك.و",
+       "en": "8 / 10 / 15 / 20 / 25 kW"
+      },
+      "max-ac-output": {
+       "ar": "⁦8.8–27.5⁩ ك.و",
+       "en": "8.8–27.5 kW"
+      },
+      "peak-power-off-grid": {
+       "ar": "⁦1.5⁩ × القدرة المقننة لمدة ⁦10⁩ ث",
+       "en": "1.5 × rated, 10 s"
+      },
+      "output": {
+       "ar": "⁦3⁩ لتر/⁦N/PE 220/380⁩ · ⁦230/400⁩ فولت",
+       "en": "3L/N/PE 220/380 · 230/400 V"
+      },
+      "unbalanced-output": {
+       "ar": "⁦100 %⁩",
+       "en": "100 %"
+      },
+      "battery": {
+       "ar": "ليثيوم أيون · ⁦160–700⁩ فولت",
+       "en": "Lithium-ion · 160–700 V"
+      },
+      "max-charge-discharge": {
+       "ar": "⁦37 / 50⁩ أمبير",
+       "en": "37 / 50 A"
+      },
+      "max-pv-input-power": {
+       "ar": "⁦10.4–32.5⁩ ك.و",
+       "en": "10.4–32.5 kW"
+      },
+      "pv-voltage-mppt-range": {
+       "ar": "⁦1,000⁩ فولت كحد أقصى · ⁦150–850⁩ فولت",
+       "en": "1,000 V max. · 150–850 V"
+      },
+      "mppt-trackers": {
+       "ar": "⁦2⁩",
+       "en": "2"
+      },
+      "parallel-units": {
+       "ar": "حتى ⁦10⁩",
+       "en": "Up to 10"
+      },
+      "operating-temp": {
+       "ar": "من ⁦-25⁩ إلى ⁦+60⁩ °م",
+       "en": "-25 to +60 °C"
+      },
+      "weight-size": {
+       "ar": "⁦30⁩ كغ · ⁦456 × 566 × 255⁩ مم",
+       "en": "30 kg · 456 × 566 × 255 mm"
+      },
+      "warranty": {
+       "ar": "⁦5⁩ سنوات (⁦10⁩ اختيارياً)",
+       "en": "5 years (10 optional)"
+      }
+     }
+    },
+    {
+     "code": "BXS-0118-01-012",
+     "name": {
+      "ar": "⁦30 / 40 / 50⁩ ك.و · بطارية ⁦160–800⁩ فولت",
+      "en": "30 / 40 / 50 kW · 160–800 V battery"
+     },
+     "specs": {
+      "use": {
+       "ar": "المصانع والفنادق والتبريد",
+       "en": "Factories, hotels, cold stores"
+      },
+      "rated-ac-output": {
+       "ar": "⁦30 / 40 / 50⁩ ك.و",
+       "en": "30 / 40 / 50 kW"
+      },
+      "peak-power-off-grid": {
+       "ar": "⁦1.5⁩ × القدرة المقننة لمدة ⁦10⁩ ث",
+       "en": "1.5 × rated, 10 s"
+      },
+      "output": {
+       "ar": "ثلاثي الطور، ⁦100 %⁩ غير متوازن",
+       "en": "Three-phase, 100 % unbalanced"
+      },
+      "battery-voltage": {
+       "ar": "⁦160–800⁩ فولت",
+       "en": "160–800 V"
+      },
+      "max-charge-discharge": {
+       "ar": "⁦50 + 50⁩ أمبير",
+       "en": "50 + 50 A"
+      },
+      "max-pv-input-power": {
+       "ar": "⁦39 / 52 / 65⁩ ك.و",
+       "en": "39 / 52 / 65 kW"
+      },
+      "full-load-mppt-range": {
+       "ar": "⁦360–850⁩ فولت / ⁦450–850⁩ فولت",
+       "en": "360–850 V / 450–850 V"
+      },
+      "mppt-trackers": {
+       "ar": "⁦3 / 4⁩",
+       "en": "3 / 4"
+      },
+      "mppt-efficiency": {
+       "ar": "⁦> 99 %⁩",
+       "en": "> 99 %"
+      },
+      "parallel-units": {
+       "ar": "حتى ⁦10⁩",
+       "en": "Up to 10"
+      },
+      "bms-monitoring": {
+       "ar": "⁦CAN⁩ · ⁦Wi-Fi⁩ + تطبيق",
+       "en": "CAN · Wi-Fi + app"
+      },
+      "weight-size": {
+       "ar": "⁦82.5⁩ كغ · ⁦537 × 888 × 320.5⁩ مم",
+       "en": "82.5 kg · 537 × 888 × 320.5 mm"
+      },
+      "warranty": {
+       "ar": "⁦5⁩ سنوات (⁦10⁩ اختيارياً)",
+       "en": "5 years (10 optional)"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cabinet",
+   "label": {
+    "ar": "خزائن تخزين متكاملة",
+    "en": "All-in-one storage cabinets"
+   },
+   "key": {
+    "ar": "50–125 ك.و · حتى 241 ك.و.س",
+    "en": "50–125 kW · up to 241 kWh"
+   },
+   "keyRows": [
+    "mppt-range",
+    "grid-to-load-passthrough",
+    "peak-power-off-grid"
+   ],
+   "models": [
+    {
+     "code": "BXS-0177-01-014",
+     "name": {
+      "ar": "⁦50⁩ ك.و · ⁦80–112⁩ ك.و.س",
+      "en": "50 kW · 80–112 kWh"
+     },
+     "specs": {
+      "use": {
+       "ar": "المحلات والمزارع والمصانع الصغيرة",
+       "en": "Shops, farms, small plants"
+      },
+      "rated-output-ups": {
+       "ar": "⁦50,000⁩ واط (أقصى ⁦55,000⁩ فولت أمبير)",
+       "en": "50,000 W (max. 55,000 VA)"
+      },
+      "battery-energy": {
+       "ar": "⁦80.38 / 96.46 / 112.54⁩ ك.و.س",
+       "en": "80.38 / 96.46 / 112.54 kWh"
+      },
+      "battery": {
+       "ar": "⁦LiFePO4 314⁩ أمبير ساعة · ⁦256–358.4⁩ فولت",
+       "en": "LiFePO4 314 Ah · 256–358.4 V"
+      },
+      "pv-input": {
+       "ar": "⁦80⁩ ك.و كحد أقصى · ⁦1,000⁩ فولت · ⁦4 MPPT⁩",
+       "en": "80 kW max. · 1,000 V · 4 MPPT"
+      },
+      "mppt-range": {
+       "ar": "⁦150–850⁩ فولت",
+       "en": "150–850 V"
+      },
+      "peak-power-off-grid": {
+       "ar": "⁦1.5⁩ × القدرة المقننة لمدة ⁦10⁩ ث",
+       "en": "1.5 × rated, 10 s"
+      },
+      "grid": {
+       "ar": "⁦3⁩ لتر + ⁦N + PE⁩ · ⁦50/60⁩ هرتز",
+       "en": "3L + N + PE · 50/60 Hz"
+      },
+      "grid-to-load-passthrough": {
+       "ar": "⁦200⁩ أمبير",
+       "en": "200 A"
+      },
+      "bms-communication": {
+       "ar": "⁦CAN / RS485 / RS232⁩",
+       "en": "CAN / RS485 / RS232"
+      },
+      "protection": {
+       "ar": "القصر وزيادة التيار وزيادة الشحن والحرارة",
+       "en": "Short circuit, over-current, over-charge, temp."
+      },
+      "cabinet": {
+       "ar": "⁦IP55⁩ · تركيب أرضي · تبريد بالهواء",
+       "en": "IP55 · floor-mounted · air-cooled"
+      },
+      "size-weight": {
+       "ar": "⁦1,100 × 750 × 2,200⁩ مم · ⁦890–1,140⁩ كغ",
+       "en": "1,100 × 750 × 2,200 mm · 890–1,140 kg"
+      },
+      "warranty": {
+       "ar": "البطاريات ⁦10⁩ سنوات · الانفرتر ⁦5⁩ سنوات",
+       "en": "Batteries 10 years · inverter 5 years"
+      }
+     }
+    },
+    {
+     "code": "BXS-0177-01-015",
+     "name": {
+      "ar": "⁦125⁩ ك.و · ⁦209–241⁩ ك.و.س",
+      "en": "125 kW · 209–241 kWh"
+     },
+     "specs": {
+      "use": {
+       "ar": "المستشفيات والمراكز والمصانع",
+       "en": "Hospitals, malls, factories"
+      },
+      "rated-output-ups": {
+       "ar": "⁦125,000⁩ واط",
+       "en": "125,000 W"
+      },
+      "battery-energy": {
+       "ar": "⁦208.99 / 241.15⁩ ك.و.س",
+       "en": "208.99 / 241.15 kWh"
+      },
+      "battery": {
+       "ar": "⁦LiFePO4 314⁩ أمبير ساعة · ⁦665.6 / 768⁩ فولت",
+       "en": "LiFePO4 314 Ah · 665.6 / 768 V"
+      },
+      "battery-operating-voltage": {
+       "ar": "⁦160–1,000⁩ فولت",
+       "en": "160–1,000 V"
+      },
+      "pv-input": {
+       "ar": "⁦200⁩ ك.و كحد أقصى · ⁦1,000⁩ فولت · ⁦10 MPPT⁩",
+       "en": "200 kW max. · 1,000 V · 10 MPPT"
+      },
+      "mppt-range": {
+       "ar": "⁦150–850⁩ فولت",
+       "en": "150–850 V"
+      },
+      "peak-power-off-grid": {
+       "ar": "⁦1.5⁩ × القدرة المقننة لمدة ⁦10⁩ ث",
+       "en": "1.5 × rated, 10 s"
+      },
+      "grid": {
+       "ar": "⁦3⁩ لتر + ⁦N + PE⁩ · ⁦50/60⁩ هرتز",
+       "en": "3L + N + PE · 50/60 Hz"
+      },
+      "grid-to-load-passthrough": {
+       "ar": "⁦250⁩ أمبير",
+       "en": "250 A"
+      },
+      "cabinet": {
+       "ar": "⁦IP55⁩ · تركيب أرضي · تبريد بالهواء",
+       "en": "IP55 · floor-mounted · air-cooled"
+      },
+      "size-weight": {
+       "ar": "⁦1,240 × 1,320 × 2,380⁩ مم · ⁦3,250–3,500⁩ كغ",
+       "en": "1,240 × 1,320 × 2,380 mm · 3,250–3,500 kg"
+      },
+      "warranty": {
+       "ar": "البطاريات ⁦10⁩ سنوات · الانفرتر ⁦5⁩ سنوات",
+       "en": "Batteries 10 years · inverter 5 years"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "liquid",
+   "label": {
+    "ar": "خزانة مبردة بالسائل",
+    "en": "Liquid-cooled cabinet"
+   },
+   "key": {
+    "ar": "215 ك.و · 418 ك.و.س",
+    "en": "215 kW · 418 kWh"
+   },
+   "keyRows": [
+    "rated-energy",
+    "rated-max-ac-power",
+    "charge-discharge-rate"
+   ],
+   "models": [
+    {
+     "code": "BXS-0177-01-019",
+     "name": {
+      "ar": "⁦215⁩ ك.و · ⁦418⁩ ك.و.س",
+      "en": "215 kW · 418 kWh"
+     },
+     "specs": {
+      "use": {
+       "ar": "الصناعة والمناخ الحار",
+       "en": "Industry, hot climates"
+      },
+      "cells": {
+       "ar": "⁦LFP 314⁩ أمبير ساعة · ⁦416S1P⁩",
+       "en": "LFP 314 Ah · 416S1P"
+      },
+      "dc-voltage": {
+       "ar": "⁦1,331.2⁩ فولت (⁦1,164.8–1,497.6⁩ فولت)",
+       "en": "1,331.2 V (1,164.8–1,497.6 V)"
+      },
+      "rated-energy": {
+       "ar": "⁦418⁩ ك.و.س",
+       "en": "418 kWh"
+      },
+      "rated-max-ac-power": {
+       "ar": "⁦215⁩ ك.و / ⁦236.5⁩ ك.و",
+       "en": "215 kW / 236.5 kW"
+      },
+      "ac-voltage-frequency": {
+       "ar": "⁦800⁩ فولت ⁦AC 3⁩ واط⁦+PE⁩ · ⁦50/60⁩ هرتز",
+       "en": "800 V AC 3W+PE · 50/60 Hz"
+      },
+      "power-factor": {
+       "ar": "من ⁦-1⁩ متقدم إلى ⁦+1⁩ متأخر",
+       "en": "-1 leading to +1 lagging"
+      },
+      "charge-discharge-rate": {
+       "ar": "⁦0.5P⁩ (⁦157⁩ أمبير)",
+       "en": "0.5P (157 A)"
+      },
+      "configuration": {
+       "ar": "⁦PCS⁩ · و⁦MPPT⁩ و⁦STS⁩ اختيارية",
+       "en": "PCS · MPPT and STS optional"
+      },
+      "isolation": {
+       "ar": "محوّل صناعي",
+       "en": "Industrial transformer"
+      },
+      "cooling": {
+       "ar": "تبريد بالسائل",
+       "en": "Liquid cooling"
+      },
+      "communication": {
+       "ar": "⁦CAN / Ethernet / RS485 · LCD⁩",
+       "en": "CAN / Ethernet / RS485 · LCD"
+      },
+      "size-weight": {
+       "ar": "⁦1,610 × 1,400 × 2,381⁩ مم · ⁦3.9⁩ طن",
+       "en": "1,610 × 1,400 × 2,381 mm · 3.9 t"
+      },
+      "protection-altitude": {
+       "ar": "⁦IP55⁩ · ⁦4,000⁩ م (تخفيض القدرة فوق ⁦2,000⁩ م)",
+       "en": "IP55 · 4,000 m (derate > 2,000 m)"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "container",
+   "label": {
+    "ar": "تخزين في حاويات",
+    "en": "Container storage"
+   },
+   "key": {
+    "ar": "3.3–5.0 ميغاواط ساعة",
+    "en": "3.3–5.0 MWh"
+   },
+   "keyRows": [
+    "operating-temp",
+    "communication",
+    "battery-clusters"
+   ],
+   "models": [
+    {
+     "code": "BXS-0177-01-020",
+     "name": {
+      "ar": "⁦3.3 / 4.2 / 5.0⁩ ميغاواط ساعة",
+      "en": "3.3 / 4.2 / 5.0 MWh"
+     },
+     "specs": {
+      "use": {
+       "ar": "المحطات والمناجم والشبكات",
+       "en": "Solar plants, mines, grids"
+      },
+      "capacity": {
+       "ar": "⁦3,343.97 / 4,179.97 / 5,015.9⁩ ك.و.س",
+       "en": "3,343.97 / 4,179.97 / 5,015.9 kWh"
+      },
+      "battery-clusters": {
+       "ar": "⁦8 / 10 / 12⁩",
+       "en": "8 / 10 / 12"
+      },
+      "nominal-voltage": {
+       "ar": "⁦1,331.2⁩ فولت (⁦1,040–1,500⁩ فولت)",
+       "en": "1,331.2 V (1,040–1,500 V)"
+      },
+      "rated-charge-discharge": {
+       "ar": "⁦0.6C / 0.6C⁩",
+       "en": "0.6C / 0.6C"
+      },
+      "service-life": {
+       "ar": "> ⁦10,000⁩ دورة @ ⁦80 % DoD⁩",
+       "en": "> 10,000 cycles @ 80 % DoD"
+      },
+      "module": {
+       "ar": "⁦314⁩ أمبير ساعة · ⁦104.5⁩ ك.و.س · ⁦IP67⁩",
+       "en": "314 Ah · 104.5 kWh · IP67"
+      },
+      "thermal-management": {
+       "ar": "تبريد بالسائل",
+       "en": "Liquid cooling"
+      },
+      "fire-protection": {
+       "ar": "هوائي أو ⁦PFH⁩ · غمر بالماء",
+       "en": "Aerosol or PFH · water immersion"
+      },
+      "operating-temp": {
+       "ar": "من ⁦-20⁩ إلى ⁦+55⁩ °م",
+       "en": "-20 to +55 °C"
+      },
+      "noise-altitude": {
+       "ar": "< ⁦75 dB⁩(⁦A⁩) على بعد ⁦1⁩ م · حتى ارتفاع ⁦3,000⁩ م",
+       "en": "< 75 dB(A) at 1 m · 3,000 m"
+      },
+      "communication": {
+       "ar": "⁦CAN, RS485, Wi-Fi⁩",
+       "en": "CAN, RS485, Wi-Fi"
+      },
+      "certification": {
+       "ar": "⁦UL 9540⁩ أمبير, ⁦UN38.3, RoHS⁩",
+       "en": "UL 9540A, UN38.3, RoHS"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

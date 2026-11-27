@@ -1,0 +1,871 @@
+{
+ "id": "solar-mounting-cables-protection",
+ "updated": "2026-11-27",
+ "title": {
+  "ar": "المنتجات والمواصفات",
+  "en": "Products and specifications"
+ },
+ "source": {
+  "ar": "المصدر: كتالوج بيستوليكس BXSC-06، إصدار 27 نوفمبر 2026 · * حسب بيانات المصنّع · قد تتغير المواصفات دون إشعار",
+  "en": "Source: Bestolex catalogue BXSC-06, edition 27 November 2026 · * manufacturer-stated · specifications may change without notice"
+ },
+ "typeLabel": {
+  "ar": "نوع المنتج",
+  "en": "Product type"
+ },
+ "missing": {
+  "ar": "—",
+  "en": "—"
+ },
+ "rows": [
+  {
+   "key": "use",
+   "label": {
+    "ar": "الأنسب لـ",
+    "en": "Best for"
+   }
+  },
+  {
+   "key": "application",
+   "label": {
+    "ar": "الاستخدام",
+    "en": "Application"
+   }
+  },
+  {
+   "key": "material",
+   "label": {
+    "ar": "المادة",
+    "en": "Material"
+   }
+  },
+  {
+   "key": "max-wind-speed",
+   "label": {
+    "ar": "أقصى سرعة رياح*",
+    "en": "Max. wind speed*"
+   }
+  },
+  {
+   "key": "max-snow-load",
+   "label": {
+    "ar": "أقصى حمل ثلج*",
+    "en": "Max. snow load*"
+   }
+  },
+  {
+   "key": "design-standard",
+   "label": {
+    "ar": "معيار التصميم*",
+    "en": "Design standard*"
+   }
+  },
+  {
+   "key": "components",
+   "label": {
+    "ar": "المكونات",
+    "en": "Components"
+   }
+  },
+  {
+   "key": "end-clamp",
+   "label": {
+    "ar": "مشبك الطرف",
+    "en": "End clamp"
+   }
+  },
+  {
+   "key": "clip-lock-version",
+   "label": {
+    "ar": "نسخة ⁦Clip-lock⁩",
+    "en": "Clip-lock version"
+   }
+  },
+  {
+   "key": "warranty",
+   "label": {
+    "ar": "الضمان*",
+    "en": "Warranty*"
+   }
+  },
+  {
+   "key": "versions",
+   "label": {
+    "ar": "النسخ",
+    "en": "Versions"
+   }
+  },
+  {
+   "key": "ballast-option",
+   "label": {
+    "ar": "خيار الأثقال",
+    "en": "Ballast option"
+   }
+  },
+  {
+   "key": "type",
+   "label": {
+    "ar": "النوع",
+    "en": "Type"
+   }
+  },
+  {
+   "key": "foundation",
+   "label": {
+    "ar": "الأساس",
+    "en": "Foundation"
+   }
+  },
+  {
+   "key": "structure-types",
+   "label": {
+    "ar": "أشكال الهيكل",
+    "en": "Structure types"
+   }
+  },
+  {
+   "key": "panel-layout",
+   "label": {
+    "ar": "ترتيب الألواح",
+    "en": "Panel layout"
+   }
+  },
+  {
+   "key": "ground-screws",
+   "label": {
+    "ar": "البراغي الأرضية",
+    "en": "Ground screws"
+   }
+  },
+  {
+   "key": "delivery",
+   "label": {
+    "ar": "التوريد",
+    "en": "Delivery"
+   }
+  },
+  {
+   "key": "water-management",
+   "label": {
+    "ar": "تصريف المياه",
+    "en": "Water management"
+   }
+  },
+  {
+   "key": "structure",
+   "label": {
+    "ar": "الهيكل",
+    "en": "Structure"
+   }
+  },
+  {
+   "key": "standard",
+   "label": {
+    "ar": "المعيار*",
+    "en": "Standard*"
+   }
+  },
+  {
+   "key": "rated-voltage",
+   "label": {
+    "ar": "الجهد المقنن",
+    "en": "Rated voltage"
+   }
+  },
+  {
+   "key": "max-operating-voltage",
+   "label": {
+    "ar": "أقصى جهد تشغيل",
+    "en": "Max. operating voltage"
+   }
+  },
+  {
+   "key": "sizes",
+   "label": {
+    "ar": "المقاطع",
+    "en": "Sizes"
+   }
+  },
+  {
+   "key": "current-rating",
+   "label": {
+    "ar": "تحمل التيار",
+    "en": "Current rating"
+   }
+  },
+  {
+   "key": "conductor",
+   "label": {
+    "ar": "الموصل",
+    "en": "Conductor"
+   }
+  },
+  {
+   "key": "insulation-sheath",
+   "label": {
+    "ar": "العزل · الغلاف",
+    "en": "Insulation · sheath"
+   }
+  },
+  {
+   "key": "operating-range",
+   "label": {
+    "ar": "نطاق التشغيل",
+    "en": "Operating range"
+   }
+  },
+  {
+   "key": "short-circuit",
+   "label": {
+    "ar": "تحمل القصر",
+    "en": "Short circuit"
+   }
+  },
+  {
+   "key": "fire-performance",
+   "label": {
+    "ar": "الأداء عند الحريق",
+    "en": "Fire performance"
+   }
+  },
+  {
+   "key": "bending-radius",
+   "label": {
+    "ar": "نصف قطر الانحناء",
+    "en": "Bending radius"
+   }
+  },
+  {
+   "key": "sheath-colour",
+   "label": {
+    "ar": "لون الغلاف",
+    "en": "Sheath colour"
+   }
+  },
+  {
+   "key": "thermal-current-ith",
+   "label": {
+    "ar": "التيار الحراري",
+    "en": "Thermal current (Ith)"
+   }
+  },
+  {
+   "key": "insulation-voltage-ui",
+   "label": {
+    "ar": "جهد العزل",
+    "en": "Insulation voltage (Ui)"
+   }
+  },
+  {
+   "key": "impulse-withstand-uimp",
+   "label": {
+    "ar": "تحمل جهد الصدمة",
+    "en": "Impulse withstand (Uimp)"
+   }
+  },
+  {
+   "key": "short-time-withstand",
+   "label": {
+    "ar": "التحمل قصير المدى",
+    "en": "Short-time withstand"
+   }
+  },
+  {
+   "key": "poles-mppt-lines",
+   "label": {
+    "ar": "الأقطاب · خطوط ⁦MPPT⁩",
+    "en": "Poles · MPPT lines"
+   }
+  },
+  {
+   "key": "mounting",
+   "label": {
+    "ar": "التركيب",
+    "en": "Mounting"
+   }
+  },
+  {
+   "key": "cable-section",
+   "label": {
+    "ar": "مقطع الكابل",
+    "en": "Cable section"
+   }
+  },
+  {
+   "key": "features",
+   "label": {
+    "ar": "المزايا",
+    "en": "Features"
+   }
+  },
+  {
+   "key": "category-standard",
+   "label": {
+    "ar": "الفئة · المعيار*",
+    "en": "Category · standard*"
+   }
+  },
+  {
+   "key": "current",
+   "label": {
+    "ar": "التيار",
+    "en": "Current"
+   }
+  },
+  {
+   "key": "voltage",
+   "label": {
+    "ar": "الجهد",
+    "en": "Voltage"
+   }
+  },
+  {
+   "key": "protection",
+   "label": {
+    "ar": "الحماية",
+    "en": "Protection"
+   }
+  },
+  {
+   "key": "contact",
+   "label": {
+    "ar": "التلامس",
+    "en": "Contact"
+   }
+  },
+  {
+   "key": "resistance",
+   "label": {
+    "ar": "المقاومة",
+    "en": "Resistance"
+   }
+  },
+  {
+   "key": "cable",
+   "label": {
+    "ar": "الكابل",
+    "en": "Cable"
+   }
+  },
+  {
+   "key": "ambient",
+   "label": {
+    "ar": "الحرارة",
+    "en": "Ambient"
+   }
+  },
+  {
+   "key": "category",
+   "label": {
+    "ar": "الفئة",
+    "en": "Category"
+   }
+  },
+  {
+   "key": "breaking",
+   "label": {
+    "ar": "قدرة القطع",
+    "en": "Breaking"
+   }
+  }
+ ],
+ "keyRows": [
+  "max-wind-speed",
+  "max-snow-load",
+  "application"
+ ],
+ "types": [
+  {
+   "id": "roof",
+   "label": {
+    "ar": "هياكل الأسطح",
+    "en": "Roof mounting"
+   },
+   "key": {
+    "ar": "معدنية ومستوية · حتى 60 م/ث*",
+    "en": "Metal and flat roofs · up to 60 m/s*"
+   },
+   "intro": {
+    "ar": "قضبان ومشابك للأسطح المعدنية، وحوامل مثلثة أو أثقال للأسطح الخرسانية.",
+    "en": "Rails and clamps for metal roofs; triangles or ballast for concrete roofs."
+   },
+   "keyRows": [
+    "max-wind-speed",
+    "max-snow-load",
+    "application"
+   ],
+   "models": [
+    {
+     "code": "BXS-0020-01-010",
+     "name": {
+      "ar": "قضبان ومشابك للأسطح المعدنية",
+      "en": "Rails & clamps for metal roofs"
+     },
+     "specs": {
+      "use": {
+       "ar": "المستودعات والمصانع",
+       "en": "Warehouses, factories"
+      },
+      "application": {
+       "ar": "سطح معدني على هيكل فولاذي أو خشبي",
+       "en": "Metal roof on steel or timber structure"
+      },
+      "material": {
+       "ar": "ألومنيوم ⁦6005-T5⁩ · ستانلس ⁦SUS304⁩",
+       "en": "Aluminium 6005-T5 · stainless SUS304"
+      },
+      "max-wind-speed": {
+       "ar": "< ⁦60⁩ م/ث",
+       "en": "< 60 m/s"
+      },
+      "max-snow-load": {
+       "ar": "< ⁦1.4⁩ ك.نيوتن/م²",
+       "en": "< 1.4 kN/m²"
+      },
+      "design-standard": {
+       "ar": "⁦AS/NZS 1170⁩ والمعايير الدولية",
+       "en": "AS/NZS 1170 and international standards"
+      },
+      "components": {
+       "ar": "قضيب، ووصلة قضيب، ومشابك وسطية وطرفية، ومشبك سقف",
+       "en": "Rail, rail splice, mid & end clamps, roof clamp"
+      },
+      "end-clamp": {
+       "ar": "لإطارات الألواح ⁦35 / 40⁩ مم",
+       "en": "For 35 / 40 mm panel frames"
+      },
+      "clip-lock-version": {
+       "ar": "لأسطح ⁦Clip-lock 406 / 700⁩",
+       "en": "Clip-lock 406 / 700 roofs"
+      },
+      "warranty": {
+       "ar": "⁦10⁩ سنوات · عمر تصميمي > ⁦20⁩ سنة",
+       "en": "10 years · design life > 20 years"
+      }
+     }
+    },
+    {
+     "code": "BXS-0020-01-016",
+     "name": {
+      "ar": "حوامل مثلثة · خيار الأثقال",
+      "en": "Triangle brackets · ballast option"
+     },
+     "specs": {
+      "use": {
+       "ar": "الفلل والمدارس والمكاتب",
+       "en": "Villas, schools, offices"
+      },
+      "application": {
+       "ar": "سطح خرساني",
+       "en": "Concrete roof"
+      },
+      "versions": {
+       "ar": "النوع المقوّى (بقضبان) · النوع الاقتصادي (بلا قضبان)",
+       "en": "Strength type (with rail) · economic type (without rail)"
+      },
+      "material": {
+       "ar": "ستانلس ⁦SUS304⁩ · ألومنيوم ⁦6005-T5⁩",
+       "en": "Stainless SUS304 · aluminium 6005-T5"
+      },
+      "max-wind-speed": {
+       "ar": "< ⁦60⁩ م/ث",
+       "en": "< 60 m/s"
+      },
+      "max-snow-load": {
+       "ar": "< ⁦1.4⁩ ك.نيوتن/م²",
+       "en": "< 1.4 kN/m²"
+      },
+      "design-standard": {
+       "ar": "⁦AS/NZS 1170⁩ والمعايير الدولية",
+       "en": "AS/NZS 1170 and international standards"
+      },
+      "components": {
+       "ar": "قضيب، وحامل مثلث، ووصلة، ومشابك وسطية وطرفية، وقطعة ⁦L⁩",
+       "en": "Rail, triangle bracket, splice, mid & end clamps, L part"
+      },
+      "ballast-option": {
+       "ar": "بلا ثقب، للسطح المستوي أو المائل · ⁦BXS-0020-01-017⁩",
+       "en": "No-drill, flat or inclined roof · BXS-0020-01-017"
+      },
+      "warranty": {
+       "ar": "⁦10⁩ سنوات · عمر تصميمي > ⁦20⁩ سنة",
+       "en": "10 years · design life > 20 years"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "ground",
+   "label": {
+    "ar": "تثبيت أرضي",
+    "en": "Ground mounting"
+   },
+   "key": {
+    "ar": "مجمّع مسبقاً · براغي أو خرسانة",
+    "en": "Pre-assembled · screws or concrete"
+   },
+   "keyRows": [
+    "foundation",
+    "structure-types",
+    "ground-screws"
+   ],
+   "models": [
+    {
+     "code": "BXS-0020-01-003",
+     "name": {
+      "ar": "مجمّع مسبقاً · براغي أرضية أو خرسانة",
+      "en": "Pre-assembled · ground screw or concrete"
+     },
+     "specs": {
+      "use": {
+       "ar": "مزارع الطاقة والضخ",
+       "en": "Solar farms, pumping"
+      },
+      "type": {
+       "ar": "نظام تثبيت أرضي من الألومنيوم",
+       "en": "Aluminium ground mounting system"
+      },
+      "material": {
+       "ar": "ألومنيوم عالي المتانة ⁦AL6005-T5⁩",
+       "en": "High-strength aluminium AL6005-T5"
+      },
+      "foundation": {
+       "ar": "برغي أرضي أو وتد خرساني",
+       "en": "Ground screw or concrete pile"
+      },
+      "structure-types": {
+       "ar": "⁦W, N, A, T⁩",
+       "en": "W, N, A, T"
+      },
+      "panel-layout": {
+       "ar": "قضبان لتركيب الألواح طولياً أو عرضياً",
+       "en": "Rails for portrait or landscape panels"
+      },
+      "components": {
+       "ar": "مشبك قضيب، ومشابك وسطية وطرفية، وضلع تقوية، وقواعد",
+       "en": "Rail clamp, mid & end clamps, reinforcing rib, bases"
+      },
+      "ground-screws": {
+       "ar": "الأنواع ⁦I⁩ و⁦II⁩ و⁦III⁩",
+       "en": "Types I, II and III"
+      },
+      "delivery": {
+       "ar": "مجمّع مسبقاً",
+       "en": "Pre-assembled"
+      },
+      "warranty": {
+       "ar": "⁦10⁩ سنوات · عمر تصميمي > ⁦20⁩ سنة",
+       "en": "10 years · design life > 20 years"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "carport",
+   "label": {
+    "ar": "مظلة سيارات شمسية",
+    "en": "Solar carport"
+   },
+   "key": {
+    "ar": "مانعة للماء · ألومنيوم 6005-T5",
+    "en": "Waterproof · 6005-T5 aluminium"
+   },
+   "keyRows": [
+    "foundation",
+    "material",
+    "components"
+   ],
+   "models": [
+    {
+     "code": "BXS-0020-01-008",
+     "name": {
+      "ar": "ظل وحماية من المطر وكهرباء معاً",
+      "en": "Shade, rain cover and power in one"
+     },
+     "specs": {
+      "use": {
+       "ar": "المواقف والمراكز والمستشفيات",
+       "en": "Car parks, malls, hospitals"
+      },
+      "type": {
+       "ar": "نظام مظلة سيارات مانع للماء",
+       "en": "Waterproof carport system"
+      },
+      "material": {
+       "ar": "ألومنيوم عالي المتانة ⁦AL6005-T5⁩",
+       "en": "High-strength aluminium AL6005-T5"
+      },
+      "foundation": {
+       "ar": "برغي أرضي أو أساس خرساني",
+       "en": "Ground screw or concrete foundation"
+      },
+      "water-management": {
+       "ar": "قضبان مانعة للماء، ومجاري ⁦U⁩، ومزراب",
+       "en": "Waterproof rails, U-channels, gutter"
+      },
+      "structure": {
+       "ar": "جسور وأعمدة حاملة، وقاعدة على شكل ⁦L⁩",
+       "en": "Support beams and columns, L-shape base"
+      },
+      "components": {
+       "ar": "وصلات قضبان، ومشابك قضبان، ومشابك وسطية، ووصلات ⁦U⁩",
+       "en": "Rail splice, rail clamps, middle clamps, U-joints"
+      },
+      "warranty": {
+       "ar": "⁦10⁩ سنوات · عمر تصميمي > ⁦20⁩ سنة",
+       "en": "10 years · design life > 20 years"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cable",
+   "label": {
+    "ar": "كابل الألواح",
+    "en": "PV cable"
+   },
+   "key": {
+    "ar": "H1Z2Z2-K · 1.5 ك.ف DC",
+    "en": "H1Z2Z2-K · 1.5 kV DC"
+   },
+   "keyRows": [
+    "max-operating-voltage",
+    "operating-range",
+    "short-circuit"
+   ],
+   "models": [
+    {
+     "code": "BXS-0018-01-001",
+     "name": {
+      "ar": "⁦1.5⁩ ك.ف تيار مستمر · ⁦2.5–35⁩ مم²",
+      "en": "1.5 kV DC · 2.5–35 mm²"
+     },
+     "specs": {
+      "use": {
+       "ar": "جميع سلاسل الألواح",
+       "en": "All PV strings"
+      },
+      "standard": {
+       "ar": "⁦EN 50618 / IEC 62930 (TÜV)⁩",
+       "en": "EN 50618 / IEC 62930 (TÜV)"
+      },
+      "rated-voltage": {
+       "ar": "⁦1.5⁩ ك.ف ⁦DC / 1.0⁩ ك.ف ⁦AC⁩",
+       "en": "1.5 kV DC / 1.0 kV AC"
+      },
+      "max-operating-voltage": {
+       "ar": "⁦1.8⁩ ك.ف ⁦DC⁩",
+       "en": "1.8 kV DC"
+      },
+      "sizes": {
+       "ar": "⁦1 × 2.5 / 4 / 6 / 10 / 16 / 25 / 35⁩ مم²",
+       "en": "1 × 2.5 / 4 / 6 / 10 / 16 / 25 / 35 mm²"
+      },
+      "current-rating": {
+       "ar": "⁦41 / 55 / 70 / 98 / 132 / 176 / 218⁩ أمبير",
+       "en": "41 / 55 / 70 / 98 / 132 / 176 / 218 A"
+      },
+      "conductor": {
+       "ar": "نحاس مقصدر من الفئة ⁦5⁩ (⁦IEC 60228⁩)",
+       "en": "Class 5 tinned copper (IEC 60228)"
+      },
+      "insulation-sheath": {
+       "ar": "⁦XLPE⁩ مشبّك بالحزمة الإلكترونية",
+       "en": "Electron-beam cross-linked XLPE"
+      },
+      "operating-range": {
+       "ar": "من ⁦-40⁩ إلى ⁦+120⁩ °م",
+       "en": "-40 to +120 °C"
+      },
+      "short-circuit": {
+       "ar": "⁦250⁩ °م لمدة ⁦5⁩ ث",
+       "en": "250 °C for 5 s"
+      },
+      "fire-performance": {
+       "ar": "⁦EN 60332-1-2 · EN 61034⁩",
+       "en": "EN 60332-1-2 · EN 61034"
+      },
+      "bending-radius": {
+       "ar": "> ⁦4⁩ × القطر (تركيب ثابت)",
+       "en": "> 4 × diameter (fixed)"
+      },
+      "sheath-colour": {
+       "ar": "أسود أو أحمر",
+       "en": "Black or red"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "isolator",
+   "label": {
+    "ar": "قاطع عزل DC",
+    "en": "DC isolator"
+   },
+   "key": {
+    "ar": "32 أمبير · حتى 1,200 فولت",
+    "en": "32 A · up to 1,200 V"
+   },
+   "keyRows": [
+    "warranty",
+    "thermal-current-ith",
+    "insulation-voltage-ui"
+   ],
+   "models": [
+    {
+     "code": "BXS-0074-03-001",
+     "name": {
+      "ar": "⁦32⁩ أمبير · ⁦1,000 / 1,200⁩ فولت مستمر",
+      "en": "32 A · 1,000 / 1,200 V DC"
+     },
+     "specs": {
+      "use": {
+       "ar": "عزل الانفرتر",
+       "en": "Inverter isolation"
+      },
+      "rated-voltage": {
+       "ar": "⁦1,000⁩ فولت ⁦DC⁩ أو ⁦1,200⁩ فولت ⁦DC⁩",
+       "en": "1,000 V DC or 1,200 V DC"
+      },
+      "thermal-current-ith": {
+       "ar": "⁦32⁩ أمبير",
+       "en": "32 A"
+      },
+      "insulation-voltage-ui": {
+       "ar": "⁦1,500⁩ فولت",
+       "en": "1,500 V"
+      },
+      "impulse-withstand-uimp": {
+       "ar": "⁦8,000⁩ فولت",
+       "en": "8,000 V"
+      },
+      "short-time-withstand": {
+       "ar": "⁦1⁩ ك.أمبير, ⁦1⁩ ث",
+       "en": "1 kA, 1 s"
+      },
+      "poles-mppt-lines": {
+       "ar": "قطبان أو ⁦4⁩ أقطاب · ⁦1–2 MPPT⁩",
+       "en": "2 or 4 poles · 1–2 MPPT"
+      },
+      "mounting": {
+       "ar": "صندوق، أو سكة ⁦DIN⁩، أو لوحة، أو تعشيق مع الباب",
+       "en": "Enclosure, DIN rail, panel, door interlock"
+      },
+      "cable-section": {
+       "ar": "⁦4–16⁩ مم² مصمت · ⁦4–10⁩ مم² مرن",
+       "en": "4–16 mm² solid · 4–10 mm² flexible"
+      },
+      "features": {
+       "ar": "بلا قطبية، قفل في وضع الإيقاف، صندوق ⁦V0⁩ مقاوم للأشعة فوق البنفسجية",
+       "en": "No polarity, lockable OFF, UV-resistant V0 case"
+      },
+      "category-standard": {
+       "ar": "⁦DC-PV1 / DC-PV2 · IEC/EN 60947-3⁩",
+       "en": "DC-PV1 / DC-PV2 · IEC/EN 60947-3"
+      },
+      "warranty": {
+       "ar": "⁦5⁩ سنوات",
+       "en": "5 years"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "connect",
+   "label": {
+    "ar": "الموصلات والفيوزات",
+    "en": "Connectors and fuses"
+   },
+   "key": {
+    "ar": "MC4 · فيوزات gPV",
+    "en": "MC4 · gPV fuses"
+   },
+   "intro": {
+    "ar": "موصلات مقاومة للطقس لسلاسل الألواح، وفيوزات gPV تحمي السلاسل والمصفوفات من زيادة التيار.",
+    "en": "Weatherproof connectors for panel strings, and gPV fuses that protect strings and arrays against over-current."
+   },
+   "keyRows": [
+    "current",
+    "voltage",
+    "standard"
+   ],
+   "models": [
+    {
+     "code": "BXS-0074-04-001",
+     "name": {
+      "ar": "موصل تيار مستمر من نوع ⁦MC4⁩",
+      "en": "MC4-type solar DC connector"
+     },
+     "specs": {
+      "current": {
+       "ar": "⁦30 / 50⁩ أمبير",
+       "en": "30 / 50 A"
+      },
+      "voltage": {
+       "ar": "⁦1,000⁩ فولت ⁦DC⁩",
+       "en": "1,000 V DC"
+      },
+      "protection": {
+       "ar": "⁦IP67⁩ عند التوصيل",
+       "en": "IP67 mated"
+      },
+      "contact": {
+       "ar": "نحاس مقصدر",
+       "en": "Tinned copper"
+      },
+      "resistance": {
+       "ar": "⁦0.5⁩ ملي أوم",
+       "en": "0.5 milliohm"
+      },
+      "cable": {
+       "ar": "⁦2.5–6⁩ مم²",
+       "en": "2.5–6 mm²"
+      },
+      "ambient": {
+       "ar": "من ⁦-40⁩ إلى ⁦+90⁩ °م",
+       "en": "-40 to +90 °C"
+      }
+     }
+    },
+    {
+     "code": "BXS-0074-02-001",
+     "name": {
+      "ar": "فيوز ألواح شمسية ⁦gPV⁩",
+      "en": "gPV photovoltaic fuse link"
+     },
+     "specs": {
+      "category": {
+       "ar": "⁦gPV⁩",
+       "en": "gPV"
+      },
+      "voltage": {
+       "ar": "⁦1,000 / 1,500⁩ فولت ⁦DC⁩",
+       "en": "1,000 / 1,500 V DC"
+      },
+      "current": {
+       "ar": "⁦1–50⁩ أمبير",
+       "en": "1–50 A"
+      },
+      "sizes": {
+       "ar": "⁦10×38, 10×85, 14×51, 14×85⁩ مم",
+       "en": "10×38, 10×85, 14×51, 14×85 mm"
+      },
+      "breaking": {
+       "ar": "⁦20⁩ ك.أمبير",
+       "en": "20 kA"
+      },
+      "standard": {
+       "ar": "⁦IEC 60269-6⁩",
+       "en": "IEC 60269-6"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

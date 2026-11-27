@@ -1,0 +1,770 @@
+{
+ "id": "solar-batteries-storage",
+ "updated": "2026-11-27",
+ "title": {
+  "ar": "المنتجات والمواصفات",
+  "en": "Products and specifications"
+ },
+ "source": {
+  "ar": "المصدر: كتالوج بيستوليكس BXSC-04، إصدار 27 نوفمبر 2026 · * حسب بيانات المصنّع · قد تتغير المواصفات دون إشعار",
+  "en": "Source: Bestolex catalogue BXSC-04, edition 27 November 2026 · * manufacturer-stated · specifications may change without notice"
+ },
+ "typeLabel": {
+  "ar": "نوع المنتج",
+  "en": "Product type"
+ },
+ "missing": {
+  "ar": "—",
+  "en": "—"
+ },
+ "rows": [
+  {
+   "key": "use",
+   "label": {
+    "ar": "الأنسب لـ",
+    "en": "Best for"
+   }
+  },
+  {
+   "key": "chemistry",
+   "label": {
+    "ar": "الكيمياء",
+    "en": "Chemistry"
+   }
+  },
+  {
+   "key": "voltage",
+   "label": {
+    "ar": "الجهد",
+    "en": "Voltage"
+   }
+  },
+  {
+   "key": "capacity-energy",
+   "label": {
+    "ar": "السعة · الطاقة",
+    "en": "Capacity · energy"
+   }
+  },
+  {
+   "key": "usable-energy",
+   "label": {
+    "ar": "الطاقة القابلة للاستخدام",
+    "en": "Usable energy"
+   }
+  },
+  {
+   "key": "charge-discharge",
+   "label": {
+    "ar": "تيار الشحن / التفريغ",
+    "en": "Charge / discharge"
+   }
+  },
+  {
+   "key": "parallel",
+   "label": {
+    "ar": "التوازي",
+    "en": "Parallel"
+   }
+  },
+  {
+   "key": "cycle-life",
+   "label": {
+    "ar": "عمر الدورات*",
+    "en": "Cycle life*"
+   }
+  },
+  {
+   "key": "display",
+   "label": {
+    "ar": "الشاشة",
+    "en": "Display"
+   }
+  },
+  {
+   "key": "communication",
+   "label": {
+    "ar": "الاتصال",
+    "en": "Communication"
+   }
+  },
+  {
+   "key": "installation",
+   "label": {
+    "ar": "التركيب",
+    "en": "Installation"
+   }
+  },
+  {
+   "key": "operating-temp",
+   "label": {
+    "ar": "حرارة التشغيل",
+    "en": "Operating temp."
+   }
+  },
+  {
+   "key": "size-weight",
+   "label": {
+    "ar": "المقاس · الوزن",
+    "en": "Size · weight"
+   }
+  },
+  {
+   "key": "enclosure",
+   "label": {
+    "ar": "الهيكل",
+    "en": "Enclosure"
+   }
+  },
+  {
+   "key": "certification",
+   "label": {
+    "ar": "الشهادات*",
+    "en": "Certification*"
+   }
+  },
+  {
+   "key": "depth-of-discharge",
+   "label": {
+    "ar": "عمق التفريغ",
+    "en": "Depth of discharge"
+   }
+  },
+  {
+   "key": "energy-usable",
+   "label": {
+    "ar": "الطاقة · القابلة للاستخدام",
+    "en": "Energy · usable"
+   }
+  },
+  {
+   "key": "max-charge-discharge",
+   "label": {
+    "ar": "أقصى تيار شحن / تفريغ",
+    "en": "Max. charge / discharge"
+   }
+  },
+  {
+   "key": "max-power",
+   "label": {
+    "ar": "أقصى قدرة",
+    "en": "Max. power"
+   }
+  },
+  {
+   "key": "scalability",
+   "label": {
+    "ar": "التوسعة",
+    "en": "Scalability"
+   }
+  },
+  {
+   "key": "protection",
+   "label": {
+    "ar": "الحماية",
+    "en": "Protection"
+   }
+  },
+  {
+   "key": "display-comms",
+   "label": {
+    "ar": "الشاشة · الاتصال",
+    "en": "Display · comms"
+   }
+  },
+  {
+   "key": "warranty",
+   "label": {
+    "ar": "الضمان*",
+    "en": "Warranty*"
+   }
+  },
+  {
+   "key": "nominal-voltage",
+   "label": {
+    "ar": "الجهد الاسمي",
+    "en": "Nominal voltage"
+   }
+  },
+  {
+   "key": "nominal-energy",
+   "label": {
+    "ar": "الطاقة الاسمية",
+    "en": "Nominal energy"
+   }
+  },
+  {
+   "key": "battery-modules",
+   "label": {
+    "ar": "عدد الوحدات",
+    "en": "Battery modules"
+   }
+  },
+  {
+   "key": "working-max-current",
+   "label": {
+    "ar": "تيار التشغيل / الأقصى",
+    "en": "Working / max. current"
+   }
+  },
+  {
+   "key": "self-discharge",
+   "label": {
+    "ar": "التفريغ الذاتي",
+    "en": "Self-discharge"
+   }
+  },
+  {
+   "key": "footprint",
+   "label": {
+    "ar": "المساحة",
+    "en": "Footprint"
+   }
+  },
+  {
+   "key": "height",
+   "label": {
+    "ar": "الارتفاع",
+    "en": "Height"
+   }
+  },
+  {
+   "key": "weight",
+   "label": {
+    "ar": "الوزن",
+    "en": "Weight"
+   }
+  },
+  {
+   "key": "installation-enclosure",
+   "label": {
+    "ar": "التركيب · الهيكل",
+    "en": "Installation · enclosure"
+   }
+  },
+  {
+   "key": "capacity",
+   "label": {
+    "ar": "السعة",
+    "en": "Capacity"
+   }
+  },
+  {
+   "key": "max-charge-current",
+   "label": {
+    "ar": "أقصى تيار شحن",
+    "en": "Max. charge current"
+   }
+  },
+  {
+   "key": "max-discharge-current",
+   "label": {
+    "ar": "أقصى تيار تفريغ",
+    "en": "Max. discharge current"
+   }
+  },
+  {
+   "key": "charge-temperature",
+   "label": {
+    "ar": "حرارة الشحن",
+    "en": "Charge temperature"
+   }
+  },
+  {
+   "key": "discharge-temperature",
+   "label": {
+    "ar": "حرارة التفريغ",
+    "en": "Discharge temperature"
+   }
+  },
+  {
+   "key": "monitoring",
+   "label": {
+    "ar": "المراقبة",
+    "en": "Monitoring"
+   }
+  },
+  {
+   "key": "dimensions",
+   "label": {
+    "ar": "الأبعاد",
+    "en": "Dimensions"
+   }
+  },
+  {
+   "key": "series-connection",
+   "label": {
+    "ar": "التوصيل على التوالي",
+    "en": "Series connection"
+   }
+  },
+  {
+   "key": "charge-discharge-temp",
+   "label": {
+    "ar": "حرارة الشحن / التفريغ",
+    "en": "Charge / discharge temp."
+   }
+  }
+ ],
+ "keyRows": [
+  "chemistry",
+  "usable-energy",
+  "enclosure"
+ ],
+ "types": [
+  {
+   "id": "wall",
+   "label": {
+    "ar": "بطاريات جدارية 51.2 فولت",
+    "en": "51.2 V wall batteries"
+   },
+   "key": {
+    "ar": "5.12–6.24 ك.و.س · قابلة للتوسعة",
+    "en": "5.12–6.24 kWh · expandable"
+   },
+   "intro": {
+    "ar": "وحدات 51.2 فولت تُضاف بالتوازي مع نمو احتياجكم، داخلية أو خارجية IP65.",
+    "en": "51.2 V modules that add up in parallel as your needs grow, indoor or IP65 outdoor."
+   },
+   "keyRows": [
+    "chemistry",
+    "usable-energy",
+    "enclosure"
+   ],
+   "models": [
+    {
+     "code": "BXS-0177-01-001",
+     "name": {
+      "ar": "⁦51.2⁩ فولت ⁦100⁩ أمبير · ⁦5.12⁩ ك.و.س",
+      "en": "51.2 V 100 Ah · 5.12 kWh"
+     },
+     "specs": {
+      "use": {
+       "ar": "البيوت والمحلات والمكاتب",
+       "en": "Homes, shops, offices"
+      },
+      "chemistry": {
+       "ar": "⁦LiFePO4⁩",
+       "en": "LiFePO4"
+      },
+      "voltage": {
+       "ar": "⁦51.2⁩ فولت (⁦44–57.6⁩ فولت)",
+       "en": "51.2 V (44–57.6 V)"
+      },
+      "capacity-energy": {
+       "ar": "⁦100⁩ أمبير ساعة · ⁦5.12⁩ ك.و.س",
+       "en": "100 Ah · 5.12 kWh"
+      },
+      "usable-energy": {
+       "ar": "⁦4.864⁩ ك.و.س",
+       "en": "4.864 kWh"
+      },
+      "charge-discharge": {
+       "ar": "⁦100⁩ أمبير (الموصى به والأقصى)",
+       "en": "100 A (recommended & max.)"
+      },
+      "parallel": {
+       "ar": "حتى ⁦18⁩ وحدة (⁦92.16⁩ ك.و.س)",
+       "en": "Up to 18 units (92.16 kWh)"
+      },
+      "cycle-life": {
+       "ar": "⁦6,500+⁩ (⁦25⁩ °م, ⁦0.5C, 80 % EOL⁩)",
+       "en": "6,500+ (25 °C, 0.5C, 80 % EOL)"
+      },
+      "display": {
+       "ar": "شاشة لمس ⁦LCD⁩ + مؤشرات ⁦LED⁩ لحالة الشحن",
+       "en": "LCD touch screen + SOC LEDs"
+      },
+      "communication": {
+       "ar": "⁦CAN, RS485, Bluetooth, Wi-Fi⁩",
+       "en": "CAN, RS485, Bluetooth, Wi-Fi"
+      },
+      "installation": {
+       "ar": "جداري أو أرضي أو في رف أو مكدّس",
+       "en": "Wall, floor, rack or stacked"
+      },
+      "operating-temp": {
+       "ar": "الشحن ⁦0–55⁩ °م · التفريغ ⁦-20–55⁩ °م",
+       "en": "Charge 0–55 °C · discharge -20–55 °C"
+      },
+      "size-weight": {
+       "ar": "⁦687 × 400 × 142⁩ مم · ⁦46⁩ كغ",
+       "en": "687 × 400 × 142 mm · 46 kg"
+      },
+      "enclosure": {
+       "ar": "⁦IP20⁩ · مطفأة حريق هوائية",
+       "en": "IP20 · aerosol fire extinguisher"
+      },
+      "certification": {
+       "ar": "⁦IEC 62619, UN38.3, EN 61000-6⁩",
+       "en": "IEC 62619, UN38.3, EN 61000-6"
+      }
+     }
+    },
+    {
+     "code": "BXS-0177-01-002",
+     "name": {
+      "ar": "⁦51.2⁩ فولت ⁦122⁩ أمبير · ⁦6.24⁩ ك.و.س",
+      "en": "51.2 V 122 Ah · 6.24 kWh"
+     },
+     "specs": {
+      "use": {
+       "ar": "الأسطح والمزارع والمواقع",
+       "en": "Terraces, farms, sites"
+      },
+      "chemistry": {
+       "ar": "⁦LiFePO4⁩",
+       "en": "LiFePO4"
+      },
+      "voltage": {
+       "ar": "⁦51.2⁩ فولت (⁦44–57.6⁩ فولت)",
+       "en": "51.2 V (44–57.6 V)"
+      },
+      "capacity-energy": {
+       "ar": "⁦122⁩ أمبير ساعة · ⁦6.24⁩ ك.و.س",
+       "en": "122 Ah · 6.24 kWh"
+      },
+      "usable-energy": {
+       "ar": "⁦5.928⁩ ك.و.س",
+       "en": "5.928 kWh"
+      },
+      "charge-discharge": {
+       "ar": "⁦100⁩ أمبير (الموصى به والأقصى)",
+       "en": "100 A (recommended & max.)"
+      },
+      "depth-of-discharge": {
+       "ar": "⁦95 %⁩",
+       "en": "95 %"
+      },
+      "parallel": {
+       "ar": "حتى ⁦18⁩ وحدة (⁦112.32⁩ ك.و.س)",
+       "en": "Up to 18 units (112.32 kWh)"
+      },
+      "cycle-life": {
+       "ar": "⁦6,500+⁩",
+       "en": "6,500+"
+      },
+      "communication": {
+       "ar": "⁦CAN, RS485, Bluetooth, Wi-Fi⁩",
+       "en": "CAN, RS485, Bluetooth, Wi-Fi"
+      },
+      "installation": {
+       "ar": "تركيب جداري",
+       "en": "Wall-mounted"
+      },
+      "size-weight": {
+       "ar": "⁦410 × 650 × 161⁩ مم · ⁦46.5⁩ كغ",
+       "en": "410 × 650 × 161 mm · 46.5 kg"
+      },
+      "enclosure": {
+       "ar": "⁦IP65⁩",
+       "en": "IP65"
+      },
+      "certification": {
+       "ar": "⁦IEC 62619, UN38.3, EN 61000-6⁩",
+       "en": "IEC 62619, UN38.3, EN 61000-6"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "floor",
+   "label": {
+    "ar": "بطارية أرضية بعجلات",
+    "en": "Floor-standing battery"
+   },
+   "key": {
+    "ar": "16.08 ك.و.س · 8 ك.و",
+    "en": "16.08 kWh · 8 kW"
+   },
+   "keyRows": [
+    "chemistry",
+    "enclosure",
+    "depth-of-discharge"
+   ],
+   "models": [
+    {
+     "code": "BXS-0177-01-007",
+     "name": {
+      "ar": "⁦51.2⁩ فولت · ⁦16.08⁩ ك.و.س · ⁦8⁩ ك.و",
+      "en": "51.2 V · 16.08 kWh · 8 kW"
+     },
+     "specs": {
+      "use": {
+       "ar": "الفلل والعيادات والمزارع",
+       "en": "Villas, clinics, farms"
+      },
+      "chemistry": {
+       "ar": "⁦LiFePO4⁩",
+       "en": "LiFePO4"
+      },
+      "voltage": {
+       "ar": "⁦51.2⁩ فولت (⁦44–57.6⁩ فولت)",
+       "en": "51.2 V (44–57.6 V)"
+      },
+      "energy-usable": {
+       "ar": "⁦16.08⁩ ك.و.س · ⁦15.276⁩ ك.و.س",
+       "en": "16.08 kWh · 15.276 kWh"
+      },
+      "max-charge-discharge": {
+       "ar": "⁦160⁩ أمبير",
+       "en": "160 A"
+      },
+      "max-power": {
+       "ar": "⁦8⁩ ك.و",
+       "en": "8 kW"
+      },
+      "depth-of-discharge": {
+       "ar": "⁦95 %⁩",
+       "en": "95 %"
+      },
+      "scalability": {
+       "ar": "حتى ⁦18⁩ وحدة (⁦289⁩ ك.و.س)",
+       "en": "Up to 18 units (289 kWh)"
+      },
+      "protection": {
+       "ar": "⁦BMS⁩ ذكي، قاطع، إطفاء حريق",
+       "en": "Smart BMS, breaker, fire suppression"
+      },
+      "display-comms": {
+       "ar": "⁦LCD + LED⁩ · ⁦RS485⁩ و⁦CAN⁩ و⁦BLE⁩ و⁦Wi-Fi⁩",
+       "en": "LCD + LED · RS485, CAN, BLE, Wi-Fi"
+      },
+      "operating-temp": {
+       "ar": "الشحن ⁦0–55⁩ °م · التفريغ ⁦-20–55⁩ °م",
+       "en": "Charge 0–55 °C · discharge -20–55 °C"
+      },
+      "size-weight": {
+       "ar": "⁦435 × 930 × 280⁩ مم · ⁦133⁩ كغ",
+       "en": "435 × 930 × 280 mm · 133 kg"
+      },
+      "enclosure": {
+       "ar": "⁦IP20⁩ أو ⁦IP65⁩",
+       "en": "IP20 or IP65"
+      },
+      "warranty": {
+       "ar": "⁦10⁩ سنوات",
+       "en": "10 years"
+      },
+      "certification": {
+       "ar": "⁦IEC 62619, UN38.3, EN 61000-6⁩",
+       "en": "IEC 62619, UN38.3, EN 61000-6"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "hv",
+   "label": {
+    "ar": "بطارية عالية الجهد",
+    "en": "High-voltage battery"
+   },
+   "key": {
+    "ar": "102–614 فولت · حتى 61.44 ك.و.س",
+    "en": "102–614 V · up to 61.44 kWh"
+   },
+   "keyRows": [
+    "chemistry",
+    "communication",
+    "warranty"
+   ],
+   "models": [
+    {
+     "code": "BXS-0177-01-010",
+     "name": {
+      "ar": "⁦102–614⁩ فولت · ⁦10.24–61.44⁩ ك.و.س",
+      "en": "102–614 V · 10.24–61.44 kWh"
+     },
+     "specs": {
+      "use": {
+       "ar": "البيوت الكبيرة والأعمال",
+       "en": "Large homes, businesses"
+      },
+      "chemistry": {
+       "ar": "⁦LiFePO4⁩",
+       "en": "LiFePO4"
+      },
+      "nominal-voltage": {
+       "ar": "⁦102.4 / 204.8 / 307.2 / 409.6 / 512 / 614.4⁩ فولت",
+       "en": "102.4 / 204.8 / 307.2 / 409.6 / 512 / 614.4 V"
+      },
+      "nominal-energy": {
+       "ar": "⁦10.24 / 20.48 / 30.72 / 40.96 / 51.2 / 61.44⁩ ك.و.س",
+       "en": "10.24 / 20.48 / 30.72 / 40.96 / 51.2 / 61.44 kWh"
+      },
+      "battery-modules": {
+       "ar": "⁦2 / 4 / 6 / 8 / 10 / 12⁩",
+       "en": "2 / 4 / 6 / 8 / 10 / 12"
+      },
+      "working-max-current": {
+       "ar": "⁦50⁩ أمبير",
+       "en": "50 A"
+      },
+      "self-discharge": {
+       "ar": "⁦3.5 %⁩ شهرياً عند ⁦25⁩ °م",
+       "en": "3.5 % per month at 25 °C"
+      },
+      "footprint": {
+       "ar": "⁦680 × 380⁩ مم",
+       "en": "680 × 380 mm"
+      },
+      "height": {
+       "ar": "⁦553–2,035⁩ مم",
+       "en": "553–2,035 mm"
+      },
+      "weight": {
+       "ar": "⁦116–601⁩ كغ",
+       "en": "116–601 kg"
+      },
+      "communication": {
+       "ar": "⁦CAN, TCP/IP⁩",
+       "en": "CAN, TCP/IP"
+      },
+      "installation-enclosure": {
+       "ar": "أرضي · ⁦IP20⁩",
+       "en": "Floor standing · IP20"
+      },
+      "warranty": {
+       "ar": "⁦10⁩ سنوات",
+       "en": "10 years"
+      },
+      "certification": {
+       "ar": "⁦IEC 62619, UN38.3, EN 61000-6⁩",
+       "en": "IEC 62619, UN38.3, EN 61000-6"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "lv",
+   "label": {
+    "ar": "بطاريات 12 و24 فولت",
+    "en": "12 and 24 V batteries"
+   },
+   "key": {
+    "ar": "بديل الرصاص · 1.28–5.25 ك.و.س",
+    "en": "Lead-acid replacement · 1.28–5.25 kWh"
+   },
+   "intro": {
+    "ar": "بديل مباشر لبطاريات الرصاص: أخف وزناً وأطول عمراً وبلا صيانة.",
+    "en": "Direct lead-acid replacement: lighter, longer life, no maintenance."
+   },
+   "keyRows": [
+    "cycle-life",
+    "protection",
+    "nominal-voltage"
+   ],
+   "models": [
+    {
+     "code": "BXS-0139-01-021",
+     "name": {
+      "ar": "⁦12.8⁩ فولت ⁦100⁩ أمبير · ⁦1.28⁩ ك.و.س",
+      "en": "12.8 V 100 Ah · 1.28 kWh"
+     },
+     "specs": {
+      "use": {
+       "ar": "الأطقم المنزلية والإنارة",
+       "en": "Home kits, boats, lighting"
+      },
+      "nominal-voltage": {
+       "ar": "⁦12.8⁩ فولت",
+       "en": "12.8 V"
+      },
+      "capacity": {
+       "ar": "⁦100⁩ أمبير ساعة · ⁦1.28⁩ ك.و.س",
+       "en": "100 Ah · 1.28 kWh"
+      },
+      "cycle-life": {
+       "ar": "⁦4,000+ @ 80 % DoD⁩",
+       "en": "4,000+ @ 80 % DoD"
+      },
+      "max-charge-current": {
+       "ar": "⁦50⁩ أمبير",
+       "en": "50 A"
+      },
+      "max-discharge-current": {
+       "ar": "⁦100⁩ أمبير",
+       "en": "100 A"
+      },
+      "charge-temperature": {
+       "ar": "⁦0–45⁩ °م",
+       "en": "0–45 °C"
+      },
+      "discharge-temperature": {
+       "ar": "⁦-20–60⁩ °م",
+       "en": "-20–60 °C"
+      },
+      "protection": {
+       "ar": "⁦IP65⁩ · ⁦BMS⁩ ذكي",
+       "en": "IP65 · smart BMS"
+      },
+      "monitoring": {
+       "ar": "شاشة ⁦LCD⁩ مدمجة + تطبيق بلوتوث",
+       "en": "Built-in LCD + Bluetooth app"
+      },
+      "dimensions": {
+       "ar": "⁦260 × 168 × 216⁩ مم",
+       "en": "260 × 168 × 216 mm"
+      }
+     }
+    },
+    {
+     "code": "BXS-0139-01-024",
+     "name": {
+      "ar": "⁦25.6⁩ فولت ⁦205⁩ أمبير · ⁦5.25⁩ ك.و.س",
+      "en": "25.6 V 205 Ah · 5.25 kWh"
+     },
+     "specs": {
+      "use": {
+       "ar": "الانفرترات والاتصالات",
+       "en": "Inverters, telecom"
+      },
+      "nominal-voltage": {
+       "ar": "⁦25.6⁩ فولت",
+       "en": "25.6 V"
+      },
+      "capacity": {
+       "ar": "⁦205⁩ أمبير ساعة · ⁦5.248⁩ ك.و.س",
+       "en": "205 Ah · 5.248 kWh"
+      },
+      "cycle-life": {
+       "ar": "⁦> 4,000 @ 80 % DoD⁩",
+       "en": "> 4,000 @ 80 % DoD"
+      },
+      "max-charge-current": {
+       "ar": "⁦100⁩ أمبير",
+       "en": "100 A"
+      },
+      "max-discharge-current": {
+       "ar": "⁦200⁩ أمبير",
+       "en": "200 A"
+      },
+      "series-connection": {
+       "ar": "حتى ⁦2⁩ (⁦51.2⁩ فولت اسمي)",
+       "en": "Up to 2 (51.2 V nominal)"
+      },
+      "charge-discharge-temp": {
+       "ar": "⁦0–45⁩ °م · ⁦-20–60⁩ °م",
+       "en": "0–45 °C · -20–60 °C"
+      },
+      "protection": {
+       "ar": "⁦IP65⁩ · ⁦BMS⁩ ذكي",
+       "en": "IP65 · smart BMS"
+      },
+      "monitoring": {
+       "ar": "شاشة ⁦LCD⁩ مدمجة + تطبيق بلوتوث",
+       "en": "Built-in LCD + Bluetooth app"
+      },
+      "size-weight": {
+       "ar": "⁦525 × 245 × 220⁩ مم · ⁦35⁩ كغ",
+       "en": "525 × 245 × 220 mm · 35 kg"
+      }
+     }
+    }
+   ]
+  }
+ ]
+}
