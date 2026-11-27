@@ -246,8 +246,8 @@
        "en": "50 / 60 Hz · 1500 / 1800 r/min"
       },
       "notes": {
-       "ar": "ألترنيتر ⁦Stamford⁩ أو ⁦Leroy-Somer⁩ أو من إنتاج المصنّع · مفتوحة أو صامتة، وعلى مقطورة",
-       "en": "Stamford, Leroy-Somer or own-make alternator · open or silent, trailer versions"
+       "ar": "خيارات متعددة للألترنيتر · مفتوحة أو صامتة، وعلى مقطورة",
+       "en": "Choice of alternators · open or silent, trailer versions"
       }
      }
     },
@@ -1005,25 +1005,25 @@
    ]
   },
   {
-   "id": "fg-wilson",
+   "id": "p-range",
    "label": {
-    "ar": "⁦FG Wilson⁩",
-    "en": "FG Wilson"
+    "ar": "سلسلة ⁦P⁩",
+    "en": "P range"
    },
    "key": {
     "ar": "الصغيرة والمتوسطة والكبيرة",
     "en": "Small, medium and large"
    },
    "intro": {
-    "ar": "مولدات FG Wilson في سلسلتين: الصغيرة دون 220 ك.ف.أ، والمتوسطة والكبيرة من 225 ك.ف.أ فما فوق.",
-    "en": "FG Wilson generator sets in two ranges: small under 220 kVA, and medium and large from 225 kVA up."
+    "ar": "مولدات سلسلة P في فئتين: الصغيرة دون 220 ك.ف.أ، والمتوسطة والكبيرة من 225 ك.ف.أ فما فوق.",
+    "en": "P-range generator sets in two classes: small under 220 kVA, and medium and large from 225 kVA up."
    },
    "models": [
     {
      "code": "BX-0484-01-001",
      "name": {
-      "ar": "مولدات ⁦FG Wilson⁩، السلسلة الصغيرة",
-      "en": "FG Wilson generator sets, small range"
+      "ar": "مولدات سلسلة ⁦P⁩، الفئة الصغيرة",
+      "en": "P-range generator sets, small class"
      },
      "specs": {
       "power": {
@@ -1043,8 +1043,8 @@
     {
      "code": "BX-0484-01-002",
      "name": {
-      "ar": "مولدات ⁦FG Wilson⁩، المتوسطة والكبيرة",
-      "en": "FG Wilson generator sets, medium and large"
+      "ar": "مولدات سلسلة ⁦P⁩، المتوسطة والكبيرة",
+      "en": "P-range generator sets, medium and large"
      },
      "specs": {
       "power": {

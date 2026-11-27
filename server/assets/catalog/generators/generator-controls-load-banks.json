@@ -69,8 +69,8 @@
      },
      "specs": {
       "range": {
-       "ar": "⁦Deep Sea DSE4620, DSE6020, DSE7320, DSE8610 · AMF20 / AMF25⁩ · منظم جهد ⁦Stamford AVR⁩ · مفتاح تحويل ⁦ATS⁩ · حاكمات سرعة إلكترونية",
-       "en": "Deep Sea DSE4620, DSE6020, DSE7320, DSE8610 · AMF20 / AMF25 · Stamford AVR · ATS · electronic governors"
+       "ar": "وحدات تحكم رقمية من التشغيل الآلي (⁦AMF)⁩ إلى التزامن وتقاسم الأحمال · ⁦AMF20 / AMF25⁩ · منظم جهد ⁦AVR⁩ · مفتاح تحويل ⁦ATS⁩ · حاكمات سرعة إلكترونية",
+       "en": "Digital controllers from auto mains failure (AMF) to synchronising and load sharing · AMF20 / AMF25 · AVR · ATS · electronic governors"
       },
       "data": {
        "ar": "عدادات وقواطع وفلاتر، وقطع محركات: بخاخات ومكابس ورؤوس أسطوانات وشواحن توربينية",

@@ -12581,7 +12581,7 @@
                 "مفتوحة أو صامتة أو على مقطورة أو في حاويات",
                 "مولدات Deutz مبردة بالهواء للمواقع الحارة والنائية",
                 "جداول التيار والأبعاد والوزن مع عرض السعر",
-                "مولدات FG Wilson في سلسلتين"
+                "سلسلة P في فئتين: دون 220 ك.ف.أ ومن 225 ك.ف.أ"
               ],
               "en": [
                 "42 series sorted by engine brand",
@@ -12591,7 +12591,7 @@
                 "Open, silent, trailer-mounted or containerised",
                 "Air-cooled Deutz gensets for hot and remote sites",
                 "Current, dimension and weight tables with the quotation",
-                "FG Wilson generator sets in two ranges"
+                "P range in two classes: under 220 kVA and from 225 kVA"
               ]
             },
             "featureImages": [],
@@ -12685,8 +12685,8 @@
               }
             },
             "summary": {
-              "ar": "اثنتان وأربعون سلسلة في تسع مجموعات: Cummins (6 سلاسل)، وPerkins (3)، وWeichai وBaudouin (4)، وYuchai وSDEC (5)، والماركات الأوروبية واليابانية (7)، وYTO وYangdong وFAW (5)، وRicardo وSIDA وYunnei (4)، ونطاقات القدرة والحاويات (6)، وFG Wilson (2). اختر الماركة أدناه، وأرسل لنا الأحمال والتردد المطلوب لنقترح الموديل.",
-              "en": "Forty-two series in nine groups: Cummins (6 series), Perkins (3), Weichai and Baudouin (4), Yuchai and SDEC (5), European and Japanese brands (7), YTO, Yangdong and FAW (5), Ricardo, SIDA and Yunnei (4), power ranges and containerised units (6), and FG Wilson (2). Pick the brand below, and send us your loads and frequency so we can propose the model."
+              "ar": "اثنتان وأربعون سلسلة في تسع مجموعات: Cummins (6 سلاسل)، وPerkins (3)، وWeichai وBaudouin (4)، وYuchai وSDEC (5)، والماركات الأوروبية واليابانية (7)، وYTO وYangdong وFAW (5)، وRicardo وSIDA وYunnei (4)، ونطاقات القدرة والحاويات (6)، وسلسلة P (2). اختر الماركة أدناه، وأرسل لنا الأحمال والتردد المطلوب لنقترح الموديل.",
+              "en": "Forty-two series in nine groups: Cummins (6 series), Perkins (3), Weichai and Baudouin (4), Yuchai and SDEC (5), European and Japanese brands (7), YTO, Yangdong and FAW (5), Ricardo, SIDA and Yunnei (4), power ranges and containerised units (6), and the P range (2). Pick the brand below, and send us your loads and frequency so we can propose the model."
             },
             "faq": {
               "ar": [
@@ -13338,12 +13338,12 @@
             },
             "coverImage": "/products/generator-controls-load-banks/genset-control-box.webp",
             "description": {
-              "ar": "وحدات تحكم المولدات ومنظمات الجهد ومفاتيح التحويل التلقائي وقطع غيار المحركات، وأحمال اختبار مقاومة ومقاومة-حثية حتى 4,375 ك.ف.أ لاختبار المولدات في الموقع، وسيور وشدادات لمحركات Deutz وCummins.\nوحدات التحكم من Deep Sea (من DSE4620 إلى DSE8610) ووحدات AMF20 وAMF25 تتحكم في المولد وتحميه، ووحدات التشغيل التلقائي عند انقطاع الشبكة (AMF) مع مفتاح التحويل تشغّل المولد وتنقل إليه الأحمال. وأحمال الاختبار المقاومة من 100 إلى 3,000 كيلوواط، من وحدة محمولة بوزن 35 كجم إلى وحدات في حاويات، بتحكم يدوي وعن بعد وبالحاسوب مع تقارير الاختبار.\nنورّد الوحدات وقطع الغيار لمولداتكم القائمة، ونتولى في قطر تشغيل المولدات التي نوردها واختبارها وصيانتها الوقائية.",
-              "en": "Generator controllers, AVRs, automatic transfer switches and engine spare parts, resistive and resistive-inductive load banks up to 4,375 kVA for testing generators on site, and belts and tensioners for Deutz and Cummins engines.\nDeep Sea controllers (DSE4620 to DSE8610) and AMF20 and AMF25 units control and protect the generator; with an ATS, the auto-mains-failure units start the set and transfer the loads when the mains fail. The resistive load banks run from 100 to 3,000 kW, from a 35 kg portable unit to containerised units, with manual, remote and PC control and test reports.\nWe supply units and spare parts for your existing generators, and in Qatar we commission, test and maintain the generators we supply."
+              "ar": "وحدات تحكم المولدات ومنظمات الجهد ومفاتيح التحويل التلقائي وقطع غيار المحركات، وأحمال اختبار مقاومة ومقاومة-حثية حتى 4,375 ك.ف.أ لاختبار المولدات في الموقع، وسيور وشدادات لمحركات Deutz وCummins.\nوحدات التحكم الرقمية (من وحدات التشغيل الآلي AMF إلى وحدات التزامن وتقاسم الأحمال) ووحدات AMF20 وAMF25 تتحكم في المولد وتحميه، ووحدات التشغيل التلقائي عند انقطاع الشبكة (AMF) مع مفتاح التحويل تشغّل المولد وتنقل إليه الأحمال. وأحمال الاختبار المقاومة من 100 إلى 3,000 كيلوواط، من وحدة محمولة بوزن 35 كجم إلى وحدات في حاويات، بتحكم يدوي وعن بعد وبالحاسوب مع تقارير الاختبار.\nنورّد الوحدات وقطع الغيار لمولداتكم القائمة، ونتولى في قطر تشغيل المولدات التي نوردها واختبارها وصيانتها الوقائية.",
+              "en": "Generator controllers, AVRs, automatic transfer switches and engine spare parts, resistive and resistive-inductive load banks up to 4,375 kVA for testing generators on site, and belts and tensioners for Deutz and Cummins engines.\nDigital controllers (from auto-mains-failure units to synchronising and load-sharing units) and AMF20 and AMF25 units control and protect the generator; with an ATS, the auto-mains-failure units start the set and transfer the loads when the mains fail. The resistive load banks run from 100 to 3,000 kW, from a 35 kg portable unit to containerised units, with manual, remote and PC control and test reports.\nWe supply units and spare parts for your existing generators, and in Qatar we commission, test and maintain the generators we supply."
             },
             "features": {
               "ar": [
-                "وحدات تحكم Deep Sea DSE4620 وDSE6020 وDSE7320 وDSE8610",
+                "وحدات تحكم رقمية للتشغيل الآلي والتزامن وتقاسم الأحمال",
                 "وحدات AMF20 وAMF25 ومفاتيح تحويل تلقائي (ATS)",
                 "منظمات جهد AVR وحاكمات سرعة إلكترونية",
                 "قطع محركات: بخاخات ومكابس ورؤوس أسطوانات وشواحن توربينية",
@@ -13353,7 +13353,7 @@
                 "سيور مضلعة وسيور V وشدادات لمحركات Deutz وCummins"
               ],
               "en": [
-                "Deep Sea DSE4620, DSE6020, DSE7320 and DSE8610 controllers",
+                "Digital controllers for auto start, synchronising and load sharing",
                 "AMF20 and AMF25 units and automatic transfer switches (ATS)",
                 "AVRs and electronic governors",
                 "Engine parts: injectors, pistons, cylinder heads, turbochargers",
@@ -13372,7 +13372,7 @@
                 },
                 {
                   "label": "وحدات التحكم",
-                  "value": "⁦DSE4620 / DSE6020 / DSE7320 / DSE8610 · AMF20 / AMF25⁩"
+                  "value": "تشغيل آلي ⁦AMF⁩ وتزامن · ⁦AMF20 / AMF25⁩"
                 },
                 {
                   "label": "أحمال الاختبار المقاومة",
@@ -13406,7 +13406,7 @@
                 },
                 {
                   "label": "Controllers",
-                  "value": "DSE4620 / DSE6020 / DSE7320 / DSE8610 · AMF20 / AMF25"
+                  "value": "AMF and synchronising · AMF20 / AMF25"
                 },
                 {
                   "label": "Resistive load banks",
@@ -13448,8 +13448,8 @@
                 "en": "Generator Controllers & Load Banks up to 4,375 kVA"
               },
               "description": {
-                "ar": "وحدات تحكم Deep Sea وAMF ومفاتيح ATS وقطع غيار المحركات، وأحمال اختبار من 100 إلى 3,000 كيلوواط وحتى 4,375 ك.ف.أ، وسيور وشدادات. اطلب عرض سعر.",
-                "en": "Deep Sea and AMF controllers, ATS and engine spares, load banks from 100 to 3,000 kW and up to 4,375 kVA, and engine belts and tensioners. Get a quote."
+                "ar": "وحدات تحكم المولدات وAMF ومفاتيح ATS وقطع غيار المحركات، وأحمال اختبار من 100 إلى 3,000 كيلوواط وحتى 4,375 ك.ف.أ، وسيور وشدادات. اطلب عرض سعر.",
+                "en": "Generator and AMF controllers, ATS and engine spares, load banks from 100 to 3,000 kW and up to 4,375 kVA, and engine belts and tensioners. Get a quote."
               }
             },
             "summary": {
@@ -13468,7 +13468,7 @@
                 },
                 {
                   "q": "هل تورّدون وحدة تحكم لمولد قائم؟",
-                  "a": "نعم، أرسل لنا موديل المولد والمحرك ووحدة التحكم الحالية، ونقترح الوحدة المناسبة من DSE4620 إلى DSE8610 أو AMF20 / AMF25، مع مفتاح التحويل."
+                  "a": "نعم، أرسل لنا موديل المولد والمحرك ووحدة التحكم الحالية، ونقترح وحدة التحكم الرقمية المناسبة أو AMF20 / AMF25، مع مفتاح التحويل."
                 },
                 {
                   "q": "كيف أطلب سيراً أو شداداً؟",
@@ -13486,7 +13486,7 @@
                 },
                 {
                   "q": "Do you supply a controller for an existing generator?",
-                  "a": "Yes. Send us the generator, engine and current controller models, and we propose the right unit from DSE4620 to DSE8610 or AMF20 / AMF25, with the transfer switch."
+                  "a": "Yes. Send us the generator, engine and current controller models, and we propose the right digital controller or AMF20 / AMF25 unit, with the transfer switch."
                 },
                 {
                   "q": "How do I order a belt or tensioner?",
