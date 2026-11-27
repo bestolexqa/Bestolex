@@ -154,7 +154,7 @@
     "en": "Belts, Deutz and Cummins tensioners"
    },
    "intro": {
-    "ar": "سيور مضلعة وسيور V للمحركات، وشدادات وبكرات توجيه لمحركات Deutz وCummins بأرقام القطع الأصلية.",
+    "ar": "سيور مضلعة وسيور V للمحركات، وشدادات وبكرات توجيه لمحركات Deutz وCummins بأرقام القطع المرجعية (OE).",
     "en": "Ribbed and V-belts for engines, and tensioners and idler pulleys for Deutz and Cummins engines with OE part numbers."
    },
    "models": [
@@ -208,7 +208,7 @@
        "en": "F3L / F4L / F6L912, F4L / F6L913, BF6M1013, TCD 2.9 / 3.6 / 6.1"
       },
       "data": {
-       "ar": "نحو ⁦27⁩ قطعة بأرقام القطع الأصلية (مثل ⁦04152510⁩، ⁦04282633)⁩",
+       "ar": "نحو ⁦27⁩ قطعة بأرقام القطع المرجعية (⁦OE)⁩ (مثل ⁦04152510⁩، ⁦04282633)⁩",
        "en": "About 27 parts with OE numbers (e.g. 04152510, 04282633)"
       }
      }
@@ -225,7 +225,7 @@
        "en": "B / 6BT, ISF 2.8 / 3.8, ISG, QSB, NT855, K19, KTA38 / KTA50, QSK38 / QSK50, QSL9, ISX15"
       },
       "data": {
-       "ar": "نحو ⁦50⁩ قطعة بأرقام القطع الأصلية (مثل ⁦5287020⁩، ⁦3936210⁩، ⁦3976831)⁩",
+       "ar": "نحو ⁦50⁩ قطعة بأرقام القطع المرجعية (⁦OE)⁩ (مثل ⁦5287020⁩، ⁦3936210⁩، ⁦3976831)⁩",
        "en": "About 50 parts with OE numbers (e.g. 5287020, 3936210, 3976831)"
       }
      }

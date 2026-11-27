@@ -28,7 +28,7 @@
   {
    "key": "frames",
    "label": {
-    "ar": "المحركات / الإطارات",
+    "ar": "المحركات / مقاس الهيكل",
     "en": "Engines / frames"
    }
   },
@@ -131,7 +131,7 @@
        "en": "About 21 models"
       },
       "notes": {
-       "ar": "تنفس طبيعي أو شاحن توربيني",
+       "ar": "سحب طبيعي للهواء أو شاحن توربيني",
        "en": "Naturally aspirated or turbocharged"
       }
      }
@@ -190,7 +190,7 @@
        "en": "8–2,500 kVA"
       },
       "frames": {
-       "ar": "الإطارات ⁦164⁩، ⁦184⁩، ⁦224⁩، ⁦274⁩، ⁦434 / 444⁩، ⁦534⁩، ⁦634⁩",
+       "ar": "مقاسات الهيكل (⁦Frame) 164⁩، ⁦184⁩، ⁦224⁩، ⁦274⁩، ⁦434 / 444⁩، ⁦534⁩، ⁦634⁩",
        "en": "Frames 164, 184, 224, 274, 434 / 444, 534, 634"
       },
       "speed": {
@@ -254,14 +254,14 @@
     "en": "Trucks, reefers, welding"
    },
    "intro": {
-    "ar": "مولدات ديزل صغيرة بإطار مفتوح، ووحدات خاصة للشاحنات وحاويات التبريد واللحام.",
+    "ar": "مولدات ديزل صغيرة بهيكل مفتوح، ووحدات خاصة للشاحنات وحاويات التبريد واللحام.",
     "en": "Small open-frame diesel generators, and special units for trucks, refrigerated containers and welding."
    },
    "models": [
     {
      "code": "BX-0214-01-002",
      "name": {
-      "ar": "مولدات ديزل صغيرة بإطار مفتوح",
+      "ar": "مولدات ديزل صغيرة بهيكل مفتوح",
       "en": "Small open-frame diesel generators"
      },
      "specs": {

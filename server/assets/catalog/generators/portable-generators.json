@@ -177,22 +177,22 @@
   {
    "id": "petrol-open",
    "label": {
-    "ar": "مولدات بنزين بإطار مفتوح",
-    "en": "Open-frame petrol generators"
+    "ar": "مولدات البنزين",
+    "en": "Petrol generators"
    },
    "key": {
     "ar": "حتى ⁦10⁩ كيلوواط",
     "en": "Up to 10 kW"
    },
    "intro": {
-    "ar": "مولدات بنزين بإطار مفتوح للعدد والمضخات والإنارة في المواقع.",
-    "en": "Open-frame petrol generators for tools, pumps and lighting on site."
+    "ar": "مولدات بنزين بهيكل مفتوح حتى 7.5 كيلوواط، ومولدات بمحركات Honda حتى 10 كيلوواط، للعِدد اليدوية والمضخات والإنارة في المواقع.",
+    "en": "Open-frame petrol generators up to 7.5 kW and Honda-engine sets up to 10 kW, for tools, pumps and lighting on site."
    },
    "models": [
     {
      "code": "BX-0481-01-005",
      "name": {
-      "ar": "مولدات بنزين بإطار مفتوح، ⁦1–2.8⁩ كيلوواط",
+      "ar": "مولدات بنزين بهيكل مفتوح، ⁦1–2.8⁩ كيلوواط",
       "en": "Open-frame petrol generators, 1–2.8 kW"
      },
      "specs": {
@@ -225,7 +225,7 @@
     {
      "code": "BX-0481-01-006",
      "name": {
-      "ar": "مولدات بنزين بإطار مفتوح، ⁦2.2–6.5⁩ كيلوواط",
+      "ar": "مولدات بنزين بهيكل مفتوح، ⁦2.2–6.5⁩ كيلوواط",
       "en": "Open-frame petrol generators, 2.2–6.5 kW"
      },
      "specs": {
@@ -318,14 +318,14 @@
     "en": "Up to 20 kVA"
    },
    "intro": {
-    "ar": "مولدات ديزل صغيرة مبردة بالهواء بإطار مفتوح أو صامتة، ومنها ما يقبل مفتاح تحويل تلقائي.",
+    "ar": "مولدات ديزل صغيرة مبردة بالهواء بهيكل مفتوح أو صامتة، ومنها ما يقبل مفتاح تحويل تلقائي.",
     "en": "Small air-cooled diesel generators, open frame or silent, some with an optional automatic transfer switch."
    },
    "models": [
     {
      "code": "BX-0481-01-007",
      "name": {
-      "ar": "مولدات ديزل مبردة بالهواء، إطار مفتوح",
+      "ar": "مولدات ديزل مبردة بالهواء، هيكل مفتوح",
       "en": "Air-cooled diesel generators, open frame"
      },
      "specs": {
@@ -387,7 +387,7 @@
     {
      "code": "BX-0493-01-001",
      "name": {
-      "ar": "مولدات ديزل مبردة بالهواء، صامتة وبإطار مفتوح",
+      "ar": "مولدات ديزل مبردة بالهواء، صامتة وبهيكل مفتوح",
       "en": "Air-cooled diesel generators, silent and open frame"
      },
      "specs": {
@@ -409,8 +409,8 @@
        "en": "EPS-6700C"
       },
       "notes": {
-       "ar": "وحدة صغيرة محمولة للتعدين الأهلي",
-       "en": "Small portable set for artisanal mining"
+       "ar": "وحدة صغيرة محمولة للمواقع النائية",
+       "en": "Small portable set for remote sites"
       }
      }
     }
@@ -455,7 +455,7 @@
        "en": "DG-12000SS, DG-12000SS3"
       },
       "notes": {
-       "ar": "تشغيل كهربائي ⁦12⁩ فولت · مفتاح تحويل تلقائي ⁦ATS⁩",
+       "ar": "بدء تشغيل كهربائي ⁦12⁩ فولت · مفتاح تحويل تلقائي ⁦ATS⁩",
        "en": "12 V electric start · ATS"
       }
      }

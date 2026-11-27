@@ -32,6 +32,9 @@ export default defineNuxtConfig({
         'Permissions-Policy': 'camera=(), microphone=(), geolocation=(), payment=()'
       }
     },
+    // The BXE-01 catalogue PDF carries hidden text left from another catalogue template; keep it
+    // downloadable but out of the search index until a clean edition replaces it.
+    '/brochures/Bestolex_BXE-01_Diesel-Generators.pdf': { headers: { 'X-Robots-Tag': 'noindex' } },
     // Edge caching (plan item 26): Vercel ISR serves these pages from the CDN and re-renders them in the
     // background after the given seconds. Product and category pages come from data/products.json, which only
     // changes with a deploy (a deploy clears the cache), so they can stay an hour. Home and blog show articles,

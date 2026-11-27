@@ -246,7 +246,7 @@
        "en": "50 / 60 Hz · 1500 / 1800 r/min"
       },
       "notes": {
-       "ar": "مولّد ⁦Stamford⁩ أو ⁦Leroy-Somer⁩ أو من صنع المصنّع · مفتوحة أو صامتة، وعلى مقطورة",
+       "ar": "ألترنيتر ⁦Stamford⁩ أو ⁦Leroy-Somer⁩ أو من إنتاج المصنّع · مفتوحة أو صامتة، وعلى مقطورة",
        "en": "Stamford, Leroy-Somer or own-make alternator · open or silent, trailer versions"
       }
      }
@@ -403,8 +403,8 @@
     "en": "Yuchai & SDEC"
    },
    "key": {
-    "ar": "حتى ⁦2,250⁩ ك.ف.أ",
-    "en": "Up to 2,250 kVA"
+    "ar": "حتى ⁦2,200⁩ كيلوواط",
+    "en": "Up to 2,200 kW"
    },
    "intro": {
     "ar": "مولدات بمحركات Yuchai حتى 2,200 كيلوواط، وبمحركات SDEC حتى 2,250 ك.ف.أ.",

@@ -35,8 +35,8 @@
   {
    "key": "power",
    "label": {
-    "ar": "القدرة (ك.و)",
-    "en": "Power (kW)"
+    "ar": "القدرة كما في الكتالوج",
+    "en": "Power as listed"
    }
   },
   {
@@ -84,8 +84,8 @@
   {
    "id": "up-to-80",
    "label": {
-    "ar": "حتى ⁦80⁩ كيلوواط",
-    "en": "Up to 80 kW"
+    "ar": "فئات ⁦25–75⁩ كيلوواط",
+    "en": "25–75 kW classes"
    },
    "key": {
     "ar": "محركات ⁦4⁩ أسطوانات",
@@ -99,8 +99,8 @@
     {
      "code": "BX-0005-01-042 / PA-25kw",
      "name": {
-      "ar": "⁦PA-25kw · 23 / 25⁩ كيلوواط",
-      "en": "PA-25kw · 23 / 25 kW"
+      "ar": "فئة ⁦25⁩ كيلوواط · ⁦PA-25kw⁩",
+      "en": "25 kW class · PA-25kw"
      },
      "specs": {
       "use": {
@@ -140,8 +140,8 @@
     {
      "code": "BX-0005-01-042 / PA-30kw",
      "name": {
-      "ar": "⁦PA-30kw · 30 / 33⁩ كيلوواط",
-      "en": "PA-30kw · 30 / 33 kW"
+      "ar": "فئة ⁦30⁩ كيلوواط · ⁦PA-30kw⁩",
+      "en": "30 kW class · PA-30kw"
      },
      "specs": {
       "use": {
@@ -181,8 +181,8 @@
     {
      "code": "BX-0005-01-042 / PA-40kw",
      "name": {
-      "ar": "⁦PA-40kw · 44 / 48⁩ كيلوواط",
-      "en": "PA-40kw · 44 / 48 kW"
+      "ar": "فئة ⁦40⁩ كيلوواط · ⁦PA-40kw⁩",
+      "en": "40 kW class · PA-40kw"
      },
      "specs": {
       "use": {
@@ -222,8 +222,8 @@
     {
      "code": "BX-0005-01-042 / PA-50kw",
      "name": {
-      "ar": "⁦PA-50kw · 60 / 66⁩ كيلوواط",
-      "en": "PA-50kw · 60 / 66 kW"
+      "ar": "فئة ⁦50⁩ كيلوواط · ⁦PA-50kw⁩",
+      "en": "50 kW class · PA-50kw"
      },
      "specs": {
       "use": {
@@ -263,8 +263,8 @@
     {
      "code": "BX-0005-01-042 / PA-75kw",
      "name": {
-      "ar": "⁦PA-75kw · 72 / 80⁩ كيلوواط",
-      "en": "PA-75kw · 72 / 80 kW"
+      "ar": "فئة ⁦75⁩ كيلوواط · ⁦PA-75kw⁩",
+      "en": "75 kW class · PA-75kw"
      },
      "specs": {
       "use": {
@@ -306,8 +306,8 @@
   {
    "id": "100-300",
    "label": {
-    "ar": "⁦100–300⁩ كيلوواط",
-    "en": "100–300 kW"
+    "ar": "فئات ⁦100–300⁩ كيلوواط",
+    "en": "100–300 kW classes"
    },
    "key": {
     "ar": "⁦4–6⁩ أسطوانات",
@@ -321,8 +321,8 @@
     {
      "code": "BX-0005-01-042 / PA-100kw",
      "name": {
-      "ar": "⁦PA-100kw · 121⁩ كيلوواط",
-      "en": "PA-100kw · 121 kW"
+      "ar": "فئة ⁦100⁩ كيلوواط · ⁦PA-100kw⁩",
+      "en": "100 kW class · PA-100kw"
      },
      "specs": {
       "use": {
@@ -362,8 +362,8 @@
     {
      "code": "BX-0005-01-042 / PA-120kw",
      "name": {
-      "ar": "⁦PA-120kw · 120 / 132⁩ كيلوواط",
-      "en": "PA-120kw · 120 / 132 kW"
+      "ar": "فئة ⁦120⁩ كيلوواط · ⁦PA-120kw⁩",
+      "en": "120 kW class · PA-120kw"
      },
      "specs": {
       "use": {
@@ -403,8 +403,8 @@
     {
      "code": "BX-0005-01-042 / PA-150kw",
      "name": {
-      "ar": "⁦PA-150kw · 150 / 167⁩ كيلوواط",
-      "en": "PA-150kw · 150 / 167 kW"
+      "ar": "فئة ⁦150⁩ كيلوواط · ⁦PA-150kw⁩",
+      "en": "150 kW class · PA-150kw"
      },
      "specs": {
       "use": {
@@ -444,8 +444,8 @@
     {
      "code": "BX-0005-01-042 / PA-200kw",
      "name": {
-      "ar": "⁦PA-200kw · 216 / 238⁩ كيلوواط",
-      "en": "PA-200kw · 216 / 238 kW"
+      "ar": "فئة ⁦200⁩ كيلوواط · ⁦PA-200kw⁩",
+      "en": "200 kW class · PA-200kw"
      },
      "specs": {
       "use": {
@@ -485,8 +485,8 @@
     {
      "code": "BX-0005-01-042 / PA-250kw",
      "name": {
-      "ar": "⁦PA-250kw · 240 / 264⁩ كيلوواط",
-      "en": "PA-250kw · 240 / 264 kW"
+      "ar": "فئة ⁦250⁩ كيلوواط · ⁦PA-250kw⁩",
+      "en": "250 kW class · PA-250kw"
      },
      "specs": {
       "use": {
@@ -526,8 +526,8 @@
     {
      "code": "BX-0005-01-042 / PA-300kw",
      "name": {
-      "ar": "⁦PA-300kw · 288 / 320⁩ كيلوواط",
-      "en": "PA-300kw · 288 / 320 kW"
+      "ar": "فئة ⁦300⁩ كيلوواط · ⁦PA-300kw⁩",
+      "en": "300 kW class · PA-300kw"
      },
      "specs": {
       "use": {
@@ -567,25 +567,25 @@
    ]
   },
   {
-   "id": "350-633",
+   "id": "350-500",
    "label": {
-    "ar": "⁦350–633⁩ كيلوواط",
-    "en": "350–633 kW"
+    "ar": "فئات ⁦350–500⁩ كيلوواط",
+    "en": "350–500 kW classes"
    },
    "key": {
     "ar": "⁦6⁩ أسطوانات",
     "en": "6 cylinders"
    },
    "intro": {
-    "ar": "أكبر موديلات الجدول، لمصانع المعالجة والمواقع ذات الأحمال الكبيرة.",
-    "en": "The largest sets in the table, for processing plants and sites with heavy loads."
+    "ar": "أكبر فئات الجدول، لمصانع المعالجة والمواقع ذات الأحمال الكبيرة.",
+    "en": "The largest classes in the table, for processing plants and sites with heavy loads."
    },
    "models": [
     {
      "code": "BX-0005-01-042 / PA-350kw",
      "name": {
-      "ar": "⁦PA-350kw · 350 / 385⁩ كيلوواط",
-      "en": "PA-350kw · 350 / 385 kW"
+      "ar": "فئة ⁦350⁩ كيلوواط · ⁦PA-350kw⁩",
+      "en": "350 kW class · PA-350kw"
      },
      "specs": {
       "use": {
@@ -625,8 +625,8 @@
     {
      "code": "BX-0005-01-042 / PA-400kw",
      "name": {
-      "ar": "⁦PA-400kw · 392 / 440⁩ كيلوواط",
-      "en": "PA-400kw · 392 / 440 kW"
+      "ar": "فئة ⁦400⁩ كيلوواط · ⁦PA-400kw⁩",
+      "en": "400 kW class · PA-400kw"
      },
      "specs": {
       "use": {
@@ -666,8 +666,8 @@
     {
      "code": "BX-0005-01-042 / P-500kw",
      "name": {
-      "ar": "⁦P-500kw · 575 / 633⁩ كيلوواط",
-      "en": "P-500kw · 575 / 633 kW"
+      "ar": "فئة ⁦500⁩ كيلوواط · ⁦P-500kw⁩",
+      "en": "500 kW class · P-500kw"
      },
      "specs": {
       "use": {
@@ -706,5 +706,9 @@
     }
    ]
   }
- ]
+ ],
+ "intro": {
+  "ar": "يذكر الكتالوج القدرة بقيمتين لمعظم الموديلات، والأبعاد دون وحدة. القدرة المقننة للمولد وأبعاده تُؤكَّد في عرض السعر.",
+  "en": "The catalogue lists power as two figures for most models, and dimensions without a unit. The rated output and dimensions of each set are confirmed in the quotation."
+ }
 }

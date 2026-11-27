@@ -10245,8 +10245,8 @@
     },
     "image": "/categories/energy-solutions.webp",
     "description": {
-      "ar": "الطاقة الشمسية والمولدات للبيوت والأعمال والمشاريع: ألواح وإنارة وانفرترات وبطاريات وأنظمة متكاملة، ومولدات ديزل وغاز من 1 كيلوواط إلى 2,750 ك.ف.أ ومحركاتها ووحدات تحكمها، مع تحديد القدرة والتوريد بأطقم كاملة.",
-      "en": "Solar energy and generators for homes, businesses and projects: panels, lighting, inverters, batteries and all-in-one systems, plus diesel and gas generators from 1 kW to 2,750 kVA with their engines and controls, sized and supplied as complete packages."
+      "ar": "الطاقة الشمسية والمولدات للبيوت والأعمال والمشاريع: ألواح وإنارة وانفرترات وبطاريات وأنظمة متكاملة، ومولدات ديزل وغاز وبنزين من 1 كيلوواط إلى 2,750 ك.ف.أ ومحركاتها ووحدات تحكمها، مع تحديد القدرة والتوريد بأطقم كاملة.",
+      "en": "Solar energy and generators for homes, businesses and projects: panels, lighting, inverters, batteries and all-in-one systems, plus diesel, gas and petrol generators from 1 kW to 2,750 kVA with their engines and controls, sized and supplied as complete packages."
     },
     "seo": {
       "title": {
@@ -12389,12 +12389,12 @@
             },
             "coverImage": "/products/diesel-generator-sets/bxe-01-silent-trailer-genset.webp",
             "description": {
-              "ar": "مولدات ديزل من 23 إلى 633 كيلوواط في 14 موديلاً، بمحركات أربع وست أسطوانات، لتشغيل المصانع ومواقع العمل والمباني بعيداً عن الشبكة أو احتياطاً لها.\nلكل موديل في الجدول محركه وقدرته وعدد أسطواناته وأبعاده ووزنه، والخرج 400/230 فولت و50 هرتز و1500 دورة في الدقيقة. والسلاسل الأخرى بمحركات Cummins وPerkins وغيرها حتى 2,750 ك.ف.أ في صفحة «المولدات حسب ماركة المحرك».\nنحدد القدرة المناسبة من أحمالكم، ونورّد المولد مفتوحاً أو بكابينة صامتة، ونتولى في قطر التركيب والتشغيل والصيانة وقطع الغيار عبر مهندسينا وفنيينا، ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا.",
-              "en": "Diesel generator sets from 23 to 633 kW in 14 models, with four- and six-cylinder engines, to power factories, work sites and buildings off-grid or as grid backup.\nThe table gives each model's engine, power, cylinders, dimensions and weight; output is 400/230 V, 50 Hz, 1500 rpm. Further series with Cummins, Perkins and other engines up to 2,750 kVA are on the \"Generator Sets by Engine Brand\" page.\nWe size the set from your loads, supply it open or with a silent canopy, handle installation, commissioning, maintenance and spare parts in Qatar through our engineers and technicians, and ship to projects in the Middle East and Africa."
+              "ar": "مولدات ديزل في 14 موديلاً بفئات من 25 إلى 500 كيلوواط، بمحركات أربع وست أسطوانات، لتشغيل المصانع ومواقع العمل والمباني بعيداً عن الشبكة أو احتياطاً لها.\nلكل موديل في الجدول محركه وقدرته كما في الكتالوج وعدد أسطواناته وأبعاده ووزنه، والخرج 400/230 فولت و50 هرتز و1500 دورة في الدقيقة. والسلاسل الأخرى بمحركات Cummins وPerkins وغيرها حتى 2,750 ك.ف.أ في صفحة «المولدات حسب ماركة المحرك».\nنحدد القدرة المناسبة من أحمالكم، ونورّد المولد مفتوحاً أو بكابينة صامتة، ونتولى في قطر التركيب والتشغيل والصيانة وقطع الغيار عبر مهندسينا وفنيينا، ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا.",
+              "en": "Diesel generator sets in 14 models in classes from 25 to 500 kW, with four- and six-cylinder engines, to power factories, work sites and buildings off-grid or as grid backup.\nThe table gives each model's engine, power as listed in the catalogue, cylinders, dimensions and weight; output is 400/230 V, 50 Hz, 1500 rpm. Further series with Cummins, Perkins and other engines up to 2,750 kVA are on the \"Generator Sets by Engine Brand\" page.\nWe size the set from your loads, supply it open or with a silent canopy, handle installation, commissioning, maintenance and spare parts in Qatar through our engineers and technicians, and ship to projects in the Middle East and Africa."
             },
             "features": {
               "ar": [
-                "14 موديلاً من 23 إلى 633 كيلوواط",
+                "14 موديلاً بفئات من 25 إلى 500 كيلوواط",
                 "محركات ديزل بأربع أو ست أسطوانات",
                 "خرج 400/230 فولت و50 هرتز و1500 دورة في الدقيقة",
                 "الأبعاد والوزن لكل موديل في الجدول (500–5,000 كجم)",
@@ -12404,7 +12404,7 @@
                 "كتالوج BXE-01 للتنزيل"
               ],
               "en": [
-                "14 models from 23 to 633 kW",
+                "14 models in classes from 25 to 500 kW",
                 "Four- or six-cylinder diesel engines",
                 "400/230 V, 50 Hz, 1500 rpm output",
                 "Dimensions and weight for every model in the table (500–5,000 kg)",
@@ -12422,8 +12422,8 @@
                   "value": "⁦14⁩"
                 },
                 {
-                  "label": "نطاق القدرة",
-                  "value": "⁦23–633⁩ كيلوواط"
+                  "label": "فئات القدرة",
+                  "value": "⁦25–500⁩ كيلوواط"
                 },
                 {
                   "label": "المحركات",
@@ -12448,8 +12448,8 @@
                   "value": "14"
                 },
                 {
-                  "label": "Power range",
-                  "value": "23–633 kW"
+                  "label": "Power classes",
+                  "value": "25–500 kW"
                 },
                 {
                   "label": "Engines",
@@ -12478,17 +12478,17 @@
             "cardImage": "/products/diesel-generator-sets/bxe-01-silent-trailer-genset.webp",
             "seo": {
               "title": {
-                "ar": "مولدات الديزل: 14 موديلاً من 23 إلى 633 كيلوواط",
-                "en": "Diesel Generator Sets: 14 Models, 23–633 kW"
+                "ar": "مولدات الديزل: 14 موديلاً بفئات 25–500 كيلوواط",
+                "en": "Diesel Generator Sets: 14 Models, 25–500 kW Classes"
               },
               "description": {
-                "ar": "مولدات ديزل من 23 إلى 633 كيلوواط بمحركات 4 و6 أسطوانات وخرج 400/230 فولت 50 هرتز، مع التركيب والصيانة في قطر. اطلب عرض سعر من بيستوليكس.",
-                "en": "Diesel generator sets from 23 to 633 kW with 4- and 6-cylinder engines and 400/230 V 50 Hz output, installed and maintained in Qatar. Get a quote from Bestolex."
+                "ar": "مولدات ديزل بفئات من 25 إلى 500 كيلوواط بمحركات 4 و6 أسطوانات وخرج 400/230 فولت 50 هرتز، مع التركيب والصيانة في قطر. اطلب عرض سعر من بيستوليكس.",
+                "en": "Diesel generator sets in 25–500 kW classes with 4- and 6-cylinder engines and 400/230 V 50 Hz output, installed and maintained in Qatar. Get a quote."
               }
             },
             "summary": {
-              "ar": "أربعة عشر مولداً في جدول واحد: خمسة حتى 80 كيلوواط للمحلات والمزارع والمواقع الصغيرة، وستة من 100 إلى 300 كيلوواط للمصانع والمباني، وثلاثة من 350 إلى 633 كيلوواط للمواقع ذات الأحمال الكبيرة. اختر من الجدول أدناه، وأرسل لنا قائمة الأحمال ونوع التشغيل (رئيسي أم احتياطي) لنحدد القدرة.",
-              "en": "Fourteen gensets in one table: five up to 80 kW for shops, farms and small sites, six from 100 to 300 kW for factories and buildings, and three from 350 to 633 kW for sites with heavy loads. Pick from the table below, and send us your load list and duty (prime or standby) so we can size the set."
+              "ar": "أربعة عشر مولداً في جدول واحد: خمسة بفئات 25–75 كيلوواط للمحلات والمزارع والمواقع الصغيرة، وستة بفئات 100–300 كيلوواط للمصانع والمباني، وثلاثة بفئات 350–500 كيلوواط للمواقع ذات الأحمال الكبيرة. اختر من الجدول أدناه، وأرسل لنا قائمة الأحمال ونوع التشغيل (رئيسي أم احتياطي) لنحدد القدرة.",
+              "en": "Fourteen gensets in one table: five in 25–75 kW classes for shops, farms and small sites, six in 100–300 kW classes for factories and buildings, and three in 350–500 kW classes for sites with heavy loads. Pick from the table below, and send us your load list and duty (prime or standby) so we can size the set."
             },
             "faq": {
               "ar": [
@@ -12531,8 +12531,8 @@
             "stats": {
               "ar": [
                 {
-                  "value": "⁦633⁩ كيلوواط",
-                  "label": "أعلى قدرة"
+                  "value": "⁦500⁩ كيلوواط",
+                  "label": "أكبر فئة"
                 },
                 {
                   "value": "⁦14⁩",
@@ -12545,8 +12545,8 @@
               ],
               "en": [
                 {
-                  "value": "633 kW",
-                  "label": "Max. power"
+                  "value": "500 kW",
+                  "label": "Largest class"
                 },
                 {
                   "value": "14",
@@ -12571,15 +12571,15 @@
             },
             "coverImage": "/products/generator-sets-by-engine/bxe-01-genset-cover.webp",
             "description": {
-              "ar": "مولدات ديزل بمحركات Cummins وPerkins وWeichai وBaudouin وYuchai وSDEC وDeutz وVolvo Penta وMitsubishi وIsuzu وKubota وغيرها، من 6 ك.ف.أ للمواقع الصغيرة إلى 2,750 ك.ف.أ لمحطات القدرة، ووحدات صامتة وفي حاويات حتى 4,000 كيلوواط.\nفي الجدول 42 سلسلة مرتبة حسب ماركة المحرك، لكل سلسلة نطاق قدرتها وترددها ومحركاتها وعدد موديلاتها، وجداول التيار والأبعاد والوزن لكل موديل تُرسل مع عرض السعر. ومعظم السلاسل بتردد 50 أو 60 هرتز وسرعة 1500 أو 1800 دورة في الدقيقة.\nاختر ماركة المحرك التي يعرفها فريق الصيانة لديكم أو يتوفر وكيلها في بلدكم، ونقترح السلسلة والموديل من أحمالكم، ونتولى في قطر التركيب والتشغيل والصيانة، ونشحن إلى مشاريع الشرق الأوسط وأفريقيا.",
-              "en": "Diesel generator sets with Cummins, Perkins, Weichai, Baudouin, Yuchai, SDEC, Deutz, Volvo Penta, Mitsubishi, Isuzu, Kubota and other engines, from 6 kVA site units to 2,750 kVA plant power, plus silent and containerised units up to 4,000 kW.\nThe table lists 42 series by engine brand, each with its power range, frequency, engines and number of models; current, dimension and weight tables for each model come with the quotation. Most series run at 50 or 60 Hz and 1500 or 1800 rpm.\nChoose the engine brand your maintenance team knows or that has a dealer in your country; we propose the series and model from your loads, handle installation, commissioning and maintenance in Qatar, and ship to projects in the Middle East and Africa."
+              "ar": "مولدات ديزل بمحركات Cummins وPerkins وWeichai وBaudouin وYuchai وSDEC وDeutz وVolvo Penta وMitsubishi وIsuzu وKubota وغيرها، من 6 ك.ف.أ للمواقع الصغيرة إلى 2,750 ك.ف.أ لتغذية المصانع والمنشآت الكبيرة، ووحدات صامتة وفي حاويات حتى 4,000 كيلوواط.\nفي الجدول 42 سلسلة مرتبة حسب ماركة المحرك، لكل سلسلة نطاق قدرتها وترددها ومحركاتها وعدد موديلاتها، وجداول التيار والأبعاد والوزن لكل موديل تُرسل مع عرض السعر. و16 سلسلة متاحة بتردد 50 أو 60 هرتز (1500 أو 1800 دورة في الدقيقة)، وأخرى بتردد 50 هرتز فقط مثل Mitsubishi وCummins DCEC وCCEC.\nاختر ماركة المحرك التي يعرفها فريق الصيانة لديكم أو يتوفر وكيلها في بلدكم، ونقترح السلسلة والموديل من أحمالكم، ونتولى في قطر التركيب والتشغيل والصيانة، ونشحن إلى مشاريع الشرق الأوسط وأفريقيا.",
+              "en": "Diesel generator sets with Cummins, Perkins, Weichai, Baudouin, Yuchai, SDEC, Deutz, Volvo Penta, Mitsubishi, Isuzu, Kubota and other engines, from 6 kVA site units to 2,750 kVA plant power, plus silent and containerised units up to 4,000 kW.\nThe table lists 42 series by engine brand, each with its power range, frequency, engines and number of models; current, dimension and weight tables for each model come with the quotation. Sixteen series are listed at 50 or 60 Hz (1500 or 1800 rpm); others, such as Mitsubishi and Cummins DCEC and CCEC, are 50 Hz only.\nChoose the engine brand your maintenance team knows or that has a dealer in your country; we propose the series and model from your loads, handle installation, commissioning and maintenance in Qatar, and ship to projects in the Middle East and Africa."
             },
             "features": {
               "ar": [
                 "42 سلسلة مرتبة حسب ماركة المحرك",
                 "من 6 إلى 2,750 ك.ف.أ، ومفتوحة حتى 5,000 كيلوواط",
                 "محركات Cummins وPerkins وWeichai وBaudouin وYuchai وSDEC وDeutz وVolvo Penta وMitsubishi",
-                "تردد 50 أو 60 هرتز وسرعة 1500 أو 1800 دورة في الدقيقة",
+                "50 أو 60 هرتز حسب السلسلة، والتردد مذكور لكل سلسلة",
                 "مفتوحة أو صامتة أو على مقطورة أو في حاويات",
                 "مولدات Deutz مبردة بالهواء للمواقع الحارة والنائية",
                 "جداول التيار والأبعاد والوزن مع عرض السعر",
@@ -12589,7 +12589,7 @@
                 "42 series sorted by engine brand",
                 "6 to 2,750 kVA, and open sets up to 5,000 kW",
                 "Cummins, Perkins, Weichai, Baudouin, Yuchai, SDEC, Deutz, Volvo Penta and Mitsubishi engines",
-                "50 or 60 Hz at 1500 or 1800 rpm",
+                "50 or 60 Hz depending on the series, listed for each one",
                 "Open, silent, trailer-mounted or containerised",
                 "Air-cooled Deutz gensets for hot and remote sites",
                 "Current, dimension and weight tables with the quotation",
@@ -12617,7 +12617,7 @@
                 },
                 {
                   "label": "التردد",
-                  "value": "⁦50 / 60⁩ هرتز"
+                  "value": "⁦50⁩ هرتز، أو ⁦50 / 60⁩ هرتز في ⁦16⁩ سلسلة"
                 },
                 {
                   "label": "السرعة",
@@ -12651,7 +12651,7 @@
                 },
                 {
                   "label": "Frequency",
-                  "value": "50 / 60 Hz"
+                  "value": "50 Hz, or 50 / 60 Hz on 16 series"
                 },
                 {
                   "label": "Speed",
@@ -12681,7 +12681,7 @@
               },
               "description": {
                 "ar": "مولدات ديزل بمحركات Cummins وPerkins وWeichai وYuchai وDeutz وغيرها من 6 إلى 2,750 ك.ف.أ، مفتوحة وصامتة وفي حاويات. اطلب عرض سعر من بيستوليكس.",
-                "en": "Diesel generator sets with Cummins, Perkins, Weichai, Yuchai, Deutz and other engines, 6 to 2,750 kVA, open, silent or containerised. Get a quote from Bestolex."
+                "en": "Diesel generator sets with Cummins, Perkins, Weichai, Yuchai, Deutz and other engines, 6 to 2,750 kVA, open, silent or containerised. Get a quote."
               }
             },
             "summary": {
@@ -12696,7 +12696,7 @@
                 },
                 {
                   "q": "هل تتوفر مولدات 60 هرتز؟",
-                  "a": "نعم، معظم السلاسل بتردد 50 أو 60 هرتز، والتردد مذكور لكل سلسلة في الجدول. ومولدات Mitsubishi بتردد 50 هرتز فقط."
+                  "a": "نعم، 16 سلسلة في الجدول متاحة بتردد 50 أو 60 هرتز، والتردد مذكور لكل سلسلة. وسلاسل Mitsubishi وCummins DCEC وCCEC وسلاسل «50 هرتز» بتردد 50 هرتز فقط."
                 },
                 {
                   "q": "ما الفرق بين المولد المفتوح والصامت والمولد في حاوية؟",
@@ -12714,7 +12714,7 @@
                 },
                 {
                   "q": "Are 60 Hz generators available?",
-                  "a": "Yes, most series come at 50 or 60 Hz, and the frequency is listed for each series in the table. Mitsubishi sets are 50 Hz only."
+                  "a": "Yes, 16 series in the table are listed at 50 or 60 Hz, and the frequency is shown for each series. Mitsubishi, Cummins DCEC and CCEC and the \"50 Hz\" ranges are 50 Hz only."
                 },
                 {
                   "q": "What is the difference between open, silent and containerised sets?",
@@ -12780,7 +12780,7 @@
                 "عزل الفئة H وجهد 380 أو 400 أو 415 أو 440 فولت",
                 "50 هرتز (1,500 دورة في الدقيقة) أو 60 هرتز (1,800 دورة في الدقيقة)",
                 "كبائن صامتة من 20 إلى 1,000 ك.ف.أ",
-                "مولدات ديزل صغيرة بإطار مفتوح من 1.8 إلى 15 كيلوواط",
+                "مولدات ديزل صغيرة بهيكل مفتوح من 1.8 إلى 15 كيلوواط",
                 "مولدات للشاحنات وحاويات التبريد واللحام"
               ],
               "en": [
@@ -12873,16 +12873,16 @@
             "cardImage": "/products/gas-generators-alternators/gas-generators-alternators-card.webp",
             "seo": {
               "title": {
-                "ar": "مولدات الغاز والألترنيتر حتى 2,500 ك.ف.أ",
-                "en": "Gas Generators & Brushless Alternators to 2,500 kVA"
+                "ar": "مولدات غاز حتى 1,200 كيلوواط وألترنيتر حتى 2,500 ك.ف.أ",
+                "en": "Gas Generators to 1,200 kW & Alternators to 2,500 kVA"
               },
               "description": {
                 "ar": "مولدات غاز من 8 إلى 1,200 كيلوواط للغاز الطبيعي والحيوي، وألترنيتر بلا فرش حتى 2,500 ك.ف.أ، ومولدات لحام وحاويات تبريد. اطلب عرض سعر من بيستوليكس.",
-                "en": "Gas generator sets from 8 to 1,200 kW for natural gas and biogas, brushless alternators up to 2,500 kVA, welding and reefer generators. Get a quote from Bestolex."
+                "en": "Gas generator sets from 8 to 1,200 kW for natural gas and biogas, brushless alternators up to 2,500 kVA, welding and reefer generators. Get a quote."
               }
             },
             "summary": {
-              "ar": "عشرة خطوط في ثلاث مجموعات: ثلاث سلاسل لمولدات الغاز، وخطان للألترنيتر وخط للكبائن الصامتة، وأربعة للمولدات الخاصة: ديزل صغير بإطار مفتوح، وعلى شاحنة، ولحاويات التبريد، وللحام. اختر من الجدول أدناه، وأرسل لنا نوع الوقود والقدرة والجهد.",
+              "ar": "عشرة خطوط في ثلاث مجموعات: ثلاث سلاسل لمولدات الغاز، وخطان للألترنيتر وخط للكبائن الصامتة، وأربعة للمولدات الخاصة: ديزل صغير بهيكل مفتوح، وعلى شاحنة، ولحاويات التبريد، وللحام. اختر من الجدول أدناه، وأرسل لنا نوع الوقود والقدرة والجهد.",
               "en": "Ten product lines in three groups: three gas generator series, two alternator lines and silent canopy sets, and four special generators: small open-frame diesel, truck-mounted, reefer container and welding. Pick from the table below, and send us the fuel, power and voltage."
             },
             "faq": {
@@ -12893,7 +12893,7 @@
                 },
                 {
                   "q": "هل تورّدون الألترنيتر وحده؟",
-                  "a": "نعم، الألترنيتر بلا فرش متاح من 8 إلى 2,500 ك.ف.أ بإطارات من 164 إلى 634، لتجهيز مجموعة توليد أو استبدال ألترنيتر في مولد قائم. أرسل لنا القدرة والجهد والتردد وبيانات لوحة الألترنيتر الحالي."
+                  "a": "نعم، الألترنيتر بلا فرش متاح من 8 إلى 2,500 ك.ف.أ بمقاسات هيكل (Frame) من 164 إلى 634، لتجهيز مجموعة توليد أو استبدال ألترنيتر في مولد قائم. أرسل لنا القدرة والجهد والتردد وبيانات لوحة الألترنيتر الحالي."
                 },
                 {
                   "q": "ما جهد الألترنيتر المتاح؟",
@@ -12927,11 +12927,11 @@
               "ar": [
                 {
                   "value": "⁦1,200⁩ كيلوواط",
-                  "label": "أعلى مولد غاز"
+                  "label": "أعلى قدرة لمولد الغاز"
                 },
                 {
                   "value": "⁦2,500⁩ ك.ف.أ",
-                  "label": "أعلى ألترنيتر"
+                  "label": "أعلى قدرة للألترنيتر"
                 },
                 {
                   "value": "⁦10⁩",
@@ -12966,14 +12966,14 @@
             },
             "coverImage": "/products/portable-generators/portable-generators-card.webp",
             "description": {
-              "ar": "مولدات بنزين بالإنفرتر من 1 كيلوواط، ومولدات بنزين بإطار مفتوح، ومولدات ديزل مبردة بالهواء وصامتة حتى 10 كيلوواط، ومجموعات ديزل صغيرة حتى 25 ك.ف.أ، للمواقع والمخيمات والمضخات والعدد والطوارئ في البيوت والمحلات.\nفي الجدول 17 سلسلة بنحو 55 موديلاً، لكل سلسلة قدرتها القصوى والمقننة وجهدها ومدة تشغيلها وخزانها ووزنها. مولدات الإنفرتر أخف وأهدأ وتناسب الأجهزة الحساسة، والديزل أنسب للتشغيل اليومي الطويل، وبعض الموديلات تقبل مفتاح تحويل تلقائي (ATS) ينقل الأحمال إلى المولد عند انقطاع الكهرباء.\nنورّد الموديل المناسب لأحمالكم بالكمية التي تحتاجونها، ونوفر قطع الغيار والصيانة في قطر.",
+              "ar": "مولدات بنزين بالإنفرتر من 1 كيلوواط، ومولدات بنزين بهيكل مفتوح، ومولدات ديزل مبردة بالهواء وصامتة حتى 10 كيلوواط، ومجموعات ديزل صغيرة حتى 25 ك.ف.أ، للمواقع والمخيمات والمضخات والعِدد اليدوية والطوارئ في البيوت والمحلات.\nفي الجدول 17 سلسلة بنحو 55 موديلاً، لكل سلسلة قدرتها القصوى والمقننة وجهدها ومدة تشغيلها وخزانها ووزنها. مولدات الإنفرتر أخف وأهدأ وتناسب الأجهزة الحساسة، والديزل أنسب للتشغيل اليومي الطويل، وبعض الموديلات تقبل مفتاح تحويل تلقائي (ATS) ينقل الأحمال إلى المولد عند انقطاع الكهرباء.\nنورّد الموديل المناسب لأحمالكم بالكمية التي تحتاجونها، ونوفر قطع الغيار والصيانة في قطر.",
               "en": "Petrol inverter generators from 1 kW, open-frame petrol generators, air-cooled and silent diesel units up to 10 kW, and small diesel sets up to 25 kVA, for sites, camps, pumps, tools and backup power in homes and shops.\nThe table lists 17 series with about 55 models, each with its maximum and rated power, voltage, run time, tank and weight. Inverter units are lighter and quieter and suit sensitive devices; diesel units suit long daily running, and some models take an automatic transfer switch (ATS) that moves the loads to the generator on a power cut.\nWe supply the right model for your loads in the quantity you need, with spare parts and maintenance in Qatar."
             },
             "features": {
               "ar": [
                 "17 سلسلة بنحو 55 موديلاً",
                 "مولدات إنفرتر رقمية من 1 كيلوواط بوزن من 12.5 كجم",
-                "مولدات بنزين بإطار مفتوح حتى 10 كيلوواط، ومنها بمحركات Honda",
+                "مولدات بنزين بهيكل مفتوح حتى 7.5 كيلوواط، ومولدات بمحركات Honda حتى 10 كيلوواط",
                 "مولدات ديزل مبردة بالهواء وصامتة حتى 10 كيلوواط",
                 "72 ديسيبل على بعد 7 م في سلسلة الديزل الصامتة YL",
                 "مفتاح تحويل تلقائي (ATS) في عدد من موديلات الديزل",
@@ -12983,7 +12983,7 @@
               "en": [
                 "17 series with about 55 models",
                 "Digital inverter generators from 1 kW, from 12.5 kg",
-                "Open-frame petrol generators up to 10 kW, some with Honda engines",
+                "Open-frame petrol generators up to 7.5 kW, and Honda-engine petrol sets up to 10 kW",
                 "Air-cooled and silent diesel generators up to 10 kW",
                 "72 dB at 7 m on the YL silent diesel series",
                 "Automatic transfer switch (ATS) on several diesel models",
@@ -13075,18 +13075,18 @@
               },
               "description": {
                 "ar": "مولدات محمولة بالإنفرتر وبنزين وديزل صامتة من 1 إلى 10 كيلوواط، ومجموعات صغيرة حتى 25 ك.ف.أ، ومفتاح تحويل تلقائي في عدد من الموديلات. اطلب عرض سعر.",
-                "en": "Portable inverter, petrol and silent diesel generators from 1 to 10 kW, small sets up to 25 kVA, and an automatic transfer switch on several models. Get a quote."
+                "en": "Portable inverter, petrol and silent diesel generators from 1 to 10 kW, small sets up to 25 kVA, and ATS on several models. Get a quote from Bestolex."
               }
             },
             "summary": {
-              "ar": "سبع عشرة سلسلة في خمس مجموعات: مولدات بنزين بالإنفرتر (3)، وبنزين بإطار مفتوح (4)، وديزل مبرد بالهواء (4)، وديزل صامت (3)، ومجموعات ديزل صغيرة (3). اختر من الجدول أدناه حسب الوقود والقدرة والوزن، وأرسل لنا الأجهزة التي ستشغّلها.",
-              "en": "Seventeen series in five groups: petrol inverter (3), open-frame petrol (4), air-cooled diesel (4), silent diesel (3) and small diesel sets (3). Pick from the table below by fuel, power and weight, and send us the equipment you will run."
+              "ar": "سبع عشرة سلسلة في خمس مجموعات: مولدات بنزين بالإنفرتر (3)، وبنزين (4)، وديزل مبرد بالهواء (4)، وديزل صامت (3)، ومجموعات ديزل صغيرة (3). اختر من الجدول أدناه حسب الوقود والقدرة والوزن، وأرسل لنا الأجهزة التي ستشغّلها.",
+              "en": "Seventeen series in five groups: petrol inverter (3), petrol (4), air-cooled diesel (4), silent diesel (3) and small diesel sets (3). Pick from the table below by fuel, power and weight, and send us the equipment you will run."
             },
             "faq": {
               "ar": [
                 {
                   "q": "ما الفرق بين مولد الإنفرتر والمولد العادي؟",
-                  "a": "مولد الإنفرتر يعطي كهرباء مستقرة تناسب الحواسيب والأجهزة الحساسة، وهو أخف وأهدأ، ومنه موديلات 1–4 كيلوواط بوزن 12.5–25 كجم. والمولد بإطار مفتوح أنسب للعدد والمضخات والإنارة في المواقع."
+                  "a": "مولد الإنفرتر يعطي كهرباء مستقرة تناسب الحواسيب والأجهزة الحساسة، وهو أخف وأهدأ، ومنه موديلات 1–4 كيلوواط بوزن 12.5–25 كجم. والمولد بهيكل مفتوح أنسب للعِدد اليدوية والمضخات والإنارة في المواقع."
                 },
                 {
                   "q": "بنزين أم ديزل؟",
@@ -13094,7 +13094,7 @@
                 },
                 {
                   "q": "هل يعمل المولد تلقائياً عند انقطاع الكهرباء؟",
-                  "a": "عدد من موديلات الديزل يقبل مفتاح تحويل تلقائي (ATS)، ومولد DG-12000SS الصامت مزوّد به مع تشغيل كهربائي 12 فولت. اذكر ذلك عند الطلب لنقترح الموديل المناسب."
+                  "a": "عدد من موديلات الديزل يقبل مفتاح تحويل تلقائي (ATS)، ومولد DG-12000SS الصامت مزوّد به مع بدء تشغيل كهربائي 12 فولت. اذكر ذلك عند الطلب لنقترح الموديل المناسب."
                 },
                 {
                   "q": "كم قدرة المولد التي أحتاجها؟",
@@ -13173,7 +13173,7 @@
                 "محركات S مبردة بالماء من 8.82 إلى 18.4 كيلوواط",
                 "سلاسل Deutz مبردة بالهواء والماء من 6.8 إلى 520 كيلوواط",
                 "محركات 1013 و2012 بترخيص Deutz بمعيار Tier 2 وTier 3",
-                "حقن إلكتروني بالسكة المشتركة في محركات TCD",
+                "حقن إلكتروني بالسكة المشتركة في محركات TCD2012 وTCD2013",
                 "محركات Deutz-MWM للمولدات حتى 2,032 كيلوواط",
                 "محركات Cummins المبردة بالماء من 60 إلى 1,864 كيلوواط"
               ],
@@ -13183,7 +13183,7 @@
                 "S-series water-cooled engines from 8.82 to 18.4 kW",
                 "Deutz air- and water-cooled series from 6.8 to 520 kW",
                 "Deutz-licence 1013 and 2012 engines to Tier 2 and Tier 3",
-                "Electronic common-rail injection on TCD engines",
+                "Electronic common-rail injection on TCD2012 and TCD2013 engines",
                 "Deutz-MWM generator engines up to 2,032 kW",
                 "Cummins water-cooled engines from 60 to 1,864 kW"
               ]
@@ -13213,7 +13213,7 @@
                 },
                 {
                   "label": "السرعة",
-                  "value": "⁦1800–3600⁩ دورة/دقيقة"
+                  "value": "⁦1800–3600⁩ دورة/دقيقة حيث يذكرها الكتالوج"
                 },
                 {
                   "label": "الكتالوج",
@@ -13243,7 +13243,7 @@
                 },
                 {
                   "label": "Speed",
-                  "value": "1800–3600 r/min"
+                  "value": "1800–3600 r/min where stated"
                 },
                 {
                   "label": "Catalogue",
@@ -13268,8 +13268,8 @@
               }
             },
             "summary": {
-              "ar": "واحد وثلاثون محركاً وسلسلة في سبع مجموعات: ديزل صغير مبرد بالهواء (3)، ومحركات S مبردة بالماء (6)، وبنزين صغير (2)، وسلاسل Deutz (5)، ومحركات 1013 (6) و2012 (6) بترخيص Deutz، ومحركات المولدات الكبيرة (3). اختر من الجدول أدناه، وأرسل لنا موديل المحرك القائم أو الآلة التي سيشغّلها.",
-              "en": "Thirty-one engines and series in seven groups: small air-cooled diesel (3), S-series water-cooled (6), small petrol (2), Deutz series (5), Deutz-licence 1013 (6) and 2012 (6) engines, and large generator engines (3). Pick from the table below, and send us the model of your current engine or the machine it will drive."
+              "ar": "واحد وثلاثون محركاً وسلسلة في سبع مجموعات: ديزل صغير مبرد بالهواء (3)، ومحركات S مبردة بالماء (6)، وبنزين صغير (2)، وسلاسل Deutz (5)، ومحركات 1013 وTCD2013 (6) و2012 وTCD2012 (6) بترخيص Deutz، ومحركات المولدات الكبيرة (3). اختر من الجدول أدناه، وأرسل لنا موديل المحرك القائم أو الآلة التي سيشغّلها.",
+              "en": "Thirty-one engines and series in seven groups: small air-cooled diesel (3), S-series water-cooled (6), small petrol (2), Deutz series (5), Deutz-licence 1013/TCD2013 (6) and 2012/TCD2012 (6) engines, and large generator engines (3). Pick from the table below, and send us the model of your current engine or the machine it will drive."
             },
             "faq": {
               "ar": [
@@ -13287,7 +13287,7 @@
                 },
                 {
                   "q": "هل تورّدون قطع غيار المحركات؟",
-                  "a": "نعم، ومنها البخاخات والمكابس ورؤوس الأسطوانات والشواحن التوربينية والفلاتر، والسيور والشدادات لمحركات Deutz وCummins بأرقام القطع الأصلية. التفاصيل في صفحة «تحكم المولدات وأحمال الاختبار»."
+                  "a": "نعم، ومنها البخاخات والمكابس ورؤوس الأسطوانات والشواحن التوربينية والفلاتر، والسيور والشدادات لمحركات Deutz وCummins بأرقام القطع المرجعية (OE). التفاصيل في صفحة «تحكم المولدات وأحمال الاختبار»."
                 }
               ],
               "en": [
@@ -13352,8 +13352,8 @@
             },
             "coverImage": "/products/generator-controls-load-banks/generator-controls-load-banks-card.webp",
             "description": {
-              "ar": "وحدات تحكم المولدات ومنظمات الجهد ومفاتيح التحويل التلقائي وقطع غيار المحركات، وأحمال اختبار مقاومة ومقاومة-حثية حتى 4,375 ك.ف.أ لاختبار المولدات في الموقع، وسيور وشدادات لمحركات Deutz وCummins.\nوحدات التحكم من Deep Sea (من DSE4620 إلى DSE8610) ووحدات AMF20 وAMF25 تشغّل المولد وتنقل الأحمال تلقائياً عند انقطاع الشبكة. وأحمال الاختبار المقاومة من 100 إلى 3,000 كيلوواط، من وحدة محمولة بوزن 35 كجم إلى وحدات في حاويات، بتحكم يدوي وعن بعد وبالحاسوب مع تقارير الاختبار.\nنورّد الوحدات وقطع الغيار لمولداتكم القائمة، ونتولى في قطر تشغيل المولدات التي نوردها واختبارها وصيانتها الوقائية.",
-              "en": "Generator controllers, AVRs, automatic transfer switches and engine spare parts, resistive and resistive-inductive load banks up to 4,375 kVA for testing generators on site, and belts and tensioners for Deutz and Cummins engines.\nDeep Sea controllers (DSE4620 to DSE8610) and AMF20 and AMF25 units start the generator and transfer the loads automatically when the mains fail. The resistive load banks run from 100 to 3,000 kW, from a 35 kg portable unit to containerised units, with manual, remote and PC control and test reports.\nWe supply units and spare parts for your existing generators, and in Qatar we commission, test and maintain the generators we supply."
+              "ar": "وحدات تحكم المولدات ومنظمات الجهد ومفاتيح التحويل التلقائي وقطع غيار المحركات، وأحمال اختبار مقاومة ومقاومة-حثية حتى 4,375 ك.ف.أ لاختبار المولدات في الموقع، وسيور وشدادات لمحركات Deutz وCummins.\nوحدات التحكم من Deep Sea (من DSE4620 إلى DSE8610) ووحدات AMF20 وAMF25 تتحكم في المولد وتحميه، ووحدات التشغيل التلقائي عند انقطاع الشبكة (AMF) مع مفتاح التحويل تشغّل المولد وتنقل إليه الأحمال. وأحمال الاختبار المقاومة من 100 إلى 3,000 كيلوواط، من وحدة محمولة بوزن 35 كجم إلى وحدات في حاويات، بتحكم يدوي وعن بعد وبالحاسوب مع تقارير الاختبار.\nنورّد الوحدات وقطع الغيار لمولداتكم القائمة، ونتولى في قطر تشغيل المولدات التي نوردها واختبارها وصيانتها الوقائية.",
+              "en": "Generator controllers, AVRs, automatic transfer switches and engine spare parts, resistive and resistive-inductive load banks up to 4,375 kVA for testing generators on site, and belts and tensioners for Deutz and Cummins engines.\nDeep Sea controllers (DSE4620 to DSE8610) and AMF20 and AMF25 units control and protect the generator; with an ATS, the auto-mains-failure units start the set and transfer the loads when the mains fail. The resistive load banks run from 100 to 3,000 kW, from a 35 kg portable unit to containerised units, with manual, remote and PC control and test reports.\nWe supply units and spare parts for your existing generators, and in Qatar we commission, test and maintain the generators we supply."
             },
             "features": {
               "ar": [
@@ -13484,7 +13484,7 @@
                 },
                 {
                   "q": "كيف أطلب سيراً أو شداداً؟",
-                  "a": "أرسل رقم القطعة الأصلي أو موديل المحرك. للشدادات نحو 27 قطعة لمحركات Deutz ونحو 50 لمحركات Cummins بأرقامها الأصلية، والسيور المضلعة بأطوال من 250 إلى 4,720 مم."
+                  "a": "أرسل رقم القطعة الأصلي أو موديل المحرك. للشدادات نحو 27 قطعة لمحركات Deutz ونحو 50 لمحركات Cummins بأرقامها المرجعية (OE)، والسيور المضلعة بأطوال من 250 إلى 4,720 مم."
                 }
               ],
               "en": [
@@ -13510,7 +13510,7 @@
               "ar": [
                 {
                   "value": "⁦4,375⁩ ك.ف.أ",
-                  "label": "أعلى حمل اختبار"
+                  "label": "أعلى قدرة لحمل الاختبار"
                 },
                 {
                   "value": "⁦3,000⁩ كيلوواط",
