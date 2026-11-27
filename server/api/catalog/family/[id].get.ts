@@ -3,15 +3,15 @@
 // bundle: a page fetches only the family it shows.
 const FAMILY_FILES: Record<string, string> = {
   'high-speed-doors': 'catalog/doors/high-speed-doors.json',
-  'industrial-sectional-doors': 'catalog/doors/industrial-sectional-doors.json',
-  'industrial-shutters': 'catalog/doors/industrial-shutters.json'
+  'industrial-sectional-doors': 'catalog/doors/industrial-sectional-doors.json'
+  // 'industrial-shutters' joins once its product page (and photos) are approved.
 }
 
 const cache = new Map<string, any>()
 
 export default defineEventHandler(async (event) => {
   const id = String(getRouterParam(event, 'id') || '')
-  const key = FAMILY_FILES[id]
+  const key = Object.hasOwn(FAMILY_FILES, id) ? FAMILY_FILES[id] : undefined
   if (!key) throw createError({ statusCode: 404, statusMessage: 'Family not found' })
 
   if (!cache.has(id)) {

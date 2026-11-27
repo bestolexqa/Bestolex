@@ -114,10 +114,6 @@
     "ar": "رول قياسي",
     "en": "Standard roll-up"
    },
-   "key": {
-    "ar": "نحو 1.0 م/ث · للاستخدام الداخلي",
-    "en": "~1.0 m/s · indoor"
-   },
    "intro": {
     "ar": "للفتحات الداخلية كثيرة الاستخدام بين صالات الإنتاج والمستودع وحول مناطق التحميل. يُفتح ويُغلق بنحو متر في الثانية، وتوقف ستارته الضوئية الإغلاق عند وجود عائق.",
     "en": "For busy indoor openings between production halls, stores and loading areas. It opens and closes at about one metre per second, and its light curtain stops the door closing when something is in the way."
@@ -184,7 +180,11 @@
       }
      }
     }
-   ]
+   ],
+   "key": {
+    "ar": "نحو 1.0 م/ث · للاستخدام الداخلي",
+    "en": "~1.0 m/s · indoor"
+   }
   },
   {
    "id": "cold",
@@ -192,13 +192,9 @@
     "ar": "للتبريد والتجميد",
     "en": "Cold and freezer rooms"
    },
-   "key": {
-    "ar": "من التبريد فوق الصفر حتى −35° م",
-    "en": "From chilled rooms down to −35 °C"
-   },
    "intro": {
-    "ar": "اختر حسب حرارة الغرفة: حتى −20° م بستارة معزولة، أو حتى −35° م بستارة مزدوجة، أو غرف التبريد فوق الصفر. وفي موديلات التجميد تسخين في المجاري أو الهيكل يمنع تكوّن الجليد.",
-    "en": "Choose by room temperature: down to −20 °C with an insulated curtain, down to −35 °C with a double curtain, or chilled rooms above zero. The freezer models heat their guides or frame to stop ice forming."
+    "ar": "اختر حسب حرارة الغرفة: حتى −20° م بستارة معزولة، أو حتى −35° م بستارة مزدوجة، أو غرف التبريد فوق الصفر. وتتوفر في موديلات التجميد أنظمة تسخين للمجاري أو الهيكل تمنع تكوّن الجليد، قياسية أو اختيارية حسب الموديل.",
+    "en": "Choose by room temperature: down to −20 °C with an insulated curtain, down to −35 °C with a double curtain, or chilled rooms above zero. The freezer models offer guide or frame heating against ice, standard or optional by model."
    },
    "models": [
     {
@@ -417,17 +413,17 @@
       }
      }
     }
-   ]
+   ],
+   "key": {
+    "ar": "من التبريد فوق الصفر حتى −35° م",
+    "en": "From chilled rooms down to −35 °C"
+   }
   },
   {
    "id": "self",
    "label": {
     "ar": "ذاتي الإصلاح",
     "en": "Self-repairing"
-   },
-   "key": {
-    "ar": "يعود إلى مجراه بعد الصدم",
-    "en": "Returns to its guides after an impact"
    },
    "intro": {
     "ar": "إذا اصطدمت به رافعة شوكية تخرج الستارة من مجراها ثم تعود إليه وحدها، فيعمل الباب من جديد دون استبدال الستارة. أربعة موديلات للداخل والخارج وغرف التبريد.",
@@ -579,10 +575,6 @@
        "ar": "حتى 1.8 م/ث",
        "en": "Up to 1.8 m/s"
       },
-      "wind": {
-       "ar": "الفئة 2 (EN 12424)",
-       "en": "Class 2 (EN 12424)"
-      },
       "curtain": {
        "ar": "PVC ثلاثي الطبقات معزول: 900 + 1,300 + 900 غ/م²، بإصلاح ذاتي بعد الصدم",
        "en": "Insulated 3-layer PVC: 900 + 1,300 + 900 g/m²; self-repairing after impact"
@@ -670,17 +662,17 @@
       }
      }
     }
-   ]
+   ],
+   "key": {
+    "ar": "يعود إلى مجراه بعد الصدم",
+    "en": "Returns to its guides after an impact"
+   }
   },
   {
    "id": "zip",
    "label": {
     "ar": "سحّاب (Zip)",
     "en": "Zip door"
-   },
-   "key": {
-    "ar": "بلا قضبان معدنية · فئة رياح 2",
-    "en": "No metal bars · wind class 2"
    },
    "intro": {
     "ar": "ستارة تمسكها مجارٍ جانبية بنظام السحّاب، بلا قضبان معدنية عرضية. بعد الصدم تنزلق إلى وضعها على أدلة البولي إيثيلين، وتحميها ستارة ضوئية بارتفاع 2.5 م.",
@@ -728,17 +720,17 @@
       }
      }
     }
-   ]
+   ],
+   "key": {
+    "ar": "بلا قضبان معدنية · فئة رياح 2",
+    "en": "No metal bars · wind class 2"
+   }
   },
   {
    "id": "fold",
    "label": {
     "ar": "قابل للطي",
     "en": "Fold-up"
-   },
-   "key": {
-    "ar": "حتى 15 × 10 م · رياح حتى الفئة 5",
-    "en": "Up to 15 × 10 m · wind up to class 5"
    },
    "intro": {
     "ar": "للفتحات الكبيرة والخارجية: ستارة تنطوي إلى أعلى بتقوية أفقية. أربعة موديلات من 6 إلى 15 م عرضاً، ومقاومة رياح من الفئة 2 حتى الفئة 5 حسب الموديل والمقاس.",
@@ -940,8 +932,8 @@
        "en": "Mid and large openings: industry, cold rooms, logistics, shipyards"
       },
       "size": {
-       "ar": "حتى 15 م عرضاً و10 م ارتفاعاً، وبمساحة 100 م² كحد أقصى",
-       "en": "Up to 15 m wide and 10 m high; max. area 100 m²"
+       "ar": "حتى 15 م عرضاً أو 10 م ارتفاعاً، بمساحة أقصاها 100 م²",
+       "en": "Up to 15 m wide or 10 m high, max. area 100 m²"
       },
       "speed": {
        "ar": "حتى 0.8 م/ث أو أكثر",
@@ -985,7 +977,11 @@
       }
      }
     }
-   ]
+   ],
+   "key": {
+    "ar": "حتى 15 م عرضاً · رياح حتى الفئة 5",
+    "en": "Up to 15 m wide · wind up to class 5"
+   }
   }
  ]
 }

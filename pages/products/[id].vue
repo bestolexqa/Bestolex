@@ -872,13 +872,8 @@ useHead(() => ({
         'itemListElement': (family.value.types || []).flatMap(tp => tp.models || []).map((m, i) => ({
           '@type': 'ListItem',
           'position': i + 1,
-          'item': {
-            '@type': 'Product',
-            'name': m.name?.[locale.value] || m.name?.ar,
-            'sku': m.code,
-            'url': `${pageUrl.value}#model-${String(m.code).toLowerCase()}`,
-            'countryOfOrigin': m.originCountry || undefined
-          }
+          // A plain list: Product items would need offers, and the site shows no prices.
+          'name': `${m.name?.[locale.value] || m.name?.ar} (${m.code})`
         }))
       })
     }] : []),

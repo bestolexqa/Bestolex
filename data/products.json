@@ -7722,13 +7722,13 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/industrial-sectional-doors/1.png",
         "description": {
-          "ar": "أبواب مقطعية بألواح فولاذية معزولة بالبولي يوريثان ترتفع على مسارات فوق الفتحة، فتحفظ حرارة المستودع والمصنع المكيّف في قطر.\nثلاثة موديلات من مصنّع إسباني: قياسي للمستودعات والمصانع حتى 8000 × 5000 مم، ومخصص لأرصفة التحميل بمسارات رأسية، ومقطعي سريع يُفتح حتى 1.0 م/ث.\nألواحها 40 مم (80 مم اختياري) بمعامل انتقال حراري 0.561 W/m²K، وتعمل من −5 إلى +50° م، ومساراتها قياسية أو منخفضة أو مرتفعة أو رأسية حسب المساحة فوق الفتحة. ونورّدها ونركّبها ونصونها في قطر.",
-          "en": "Sectional doors with polyurethane-insulated steel panels that rise on tracks above the opening, keeping warehouses and air-conditioned plants in Qatar at temperature.\nThree models from a Spanish manufacturer: a standard door for warehouses and factories up to 8000 × 5000 mm, a loading-bay door with vertical tracks, and a fast sectional door that opens at up to 1.0 m/s.\nPanels are 40 mm (80 mm optional) with a thermal transmittance of 0.561 W/m²K, the doors work from −5 to +50 °C, and the tracks are standard, low-lift, high-lift or vertical-lift to suit the headroom. We supply, install and maintain them in Qatar."
+          "ar": "أبواب مقطعية بألواح فولاذية معزولة بالبولي يوريثان ترتفع على مسارات فوق الفتحة، فتحفظ حرارة المستودع والمصنع المكيّف في قطر.\nثلاثة موديلات من مصنّع إسباني: قياسي للمستودعات والمصانع حتى 8000 × 5000 مم، ومخصص لأرصفة التحميل بمسارات رأسية، ومقطعي سريع يُفتح حتى 1.0 م/ث.\nولوح الموديلين القياسي ولأرصفة التحميل 40 مم (80 مم اختياري)، بمعامل انتقال حراري 0.561 W/m²K للوح 40 مم، ويعملان من −5 إلى +50° م. ومساراتها قياسية أو منخفضة أو مرتفعة أو رأسية حسب المساحة فوق الفتحة. ونورّدها ونركّبها ونصونها في قطر.",
+          "en": "Sectional doors with polyurethane-insulated steel panels that rise on tracks above the opening, keeping warehouses and air-conditioned plants in Qatar at temperature.\nThree models from a Spanish manufacturer: a standard door for warehouses and factories up to 8000 × 5000 mm, a loading-bay door with vertical tracks, and a fast sectional door that opens at up to 1.0 m/s.\nThe standard and loading-bay models use 40 mm panels (80 mm optional), with a thermal transmittance of 0.561 W/m²K for the 40 mm panel, and work from −5 to +50 °C. The tracks are standard, low-lift, high-lift or vertical-lift to suit the headroom. We supply, install and maintain them in Qatar."
         },
         "features": {
           "ar": [
             "ثلاثة موديلات: قياسي، ولأرصفة التحميل، وسريع",
-            "ألواح 40 مم (80 مم اختياري) بمعامل انتقال 0.561 W/m²K",
+            "لوح 40 مم بمعامل انتقال 0.561 W/m²K في القياسي ولأرصفة التحميل",
             "حتى 8000 × 5000 مم، ومقاسات أخرى عند الطلب",
             "مسارات قياسية أو منخفضة أو مرتفعة أو رأسية حسب المساحة فوق الفتحة",
             "قفل أمان داخلي وجهاز أمان عند كسر النابض",
@@ -7737,7 +7737,7 @@
           ],
           "en": [
             "Three models: standard, loading bay and fast",
-            "40 mm panels (80 mm optional), U = 0.561 W/m²K",
+            "40 mm panel with U = 0.561 W/m²K on the standard and loading-bay models",
             "Up to 8000 × 5000 mm; other sizes on request",
             "Standard, low-lift, high-lift or vertical-lift tracks to suit headroom",
             "Internal safety lock and spring-break safety device",
@@ -7783,8 +7783,8 @@
               "value": "40 مم، و80 مم اختياري"
             },
             {
-              "label": "العزل",
-              "value": "U = 0.561 W/m²K"
+              "label": "عزل اللوح (U)",
+              "value": "لوح 40 مم: 0.561 W/m²K (القياسي ولأرصفة التحميل)"
             },
             {
               "label": "السرعة",
@@ -7792,7 +7792,7 @@
             },
             {
               "label": "حرارة التشغيل",
-              "value": "من −5 إلى +50° م"
+              "value": "من −5 إلى +50° م (القياسي ولأرصفة التحميل)"
             },
             {
               "label": "المسارات",
@@ -7825,8 +7825,8 @@
               "value": "40 mm; 80 mm optional"
             },
             {
-              "label": "Insulation",
-              "value": "U = 0.561 W/m²K"
+              "label": "Panel U-value",
+              "value": "40 mm panel: 0.561 W/m²K (standard and loading-bay)"
             },
             {
               "label": "Speed",
@@ -7834,7 +7834,7 @@
             },
             {
               "label": "Operating temperature",
-              "value": "−5 to +50 °C"
+              "value": "−5 to +50 °C (standard and loading-bay)"
             },
             {
               "label": "Tracks",
@@ -7870,19 +7870,19 @@
             "en": "Insulated Industrial Sectional Doors in Qatar"
           },
           "description": {
-            "ar": "أبواب مقطعية بألواح معزولة 40 مم (U = 0.561 W/m²K) حتى 8000 × 5000 مم: قياسي، ولأرصفة التحميل، وسريع حتى 1.0 م/ث. توريد وتركيب في قطر.",
-            "en": "Sectional doors with 40 mm insulated panels (U = 0.561 W/m²K) up to 8000 × 5000 mm: standard, loading bay and fast up to 1.0 m/s. Supply and installation in Qatar."
+            "ar": "أبواب مقطعية معزولة حتى 8000 × 5000 مم، ولوح 40 مم بقيمة U = 0.561 W/m²K: قياسي، ولأرصفة التحميل، وسريع حتى 1.0 م/ث. توريد وتركيب في قطر.",
+            "en": "Insulated sectional doors up to 8000 × 5000 mm, 40 mm panel U = 0.561 W/m²K: standard, loading bay and fast up to 1.0 m/s. Supplied and installed in Qatar."
           }
         },
         "summary": {
-          "ar": "أبواب مقطعية بثلاثة موديلات من إسبانيا: قياسي حتى 8000 × 5000 مم، ولأرصفة التحميل بمسارات رأسية، وسريع حتى 1.0 م/ث. ألواحها 40 مم بمعامل انتقال حراري 0.561 W/m²K، وتعمل من −5 إلى +50° م، وتُختار مساراتها حسب المساحة فوق الفتحة.",
-          "en": "Sectional doors in three models from Spain: standard up to 8000 × 5000 mm, a loading-bay model with vertical tracks, and a fast model at up to 1.0 m/s. Panels are 40 mm with a thermal transmittance of 0.561 W/m²K, they work from −5 to +50 °C, and the tracks are chosen to suit the headroom."
+          "ar": "أبواب مقطعية بثلاثة موديلات من إسبانيا: قياسي حتى 8000 × 5000 مم، ولأرصفة التحميل بمسارات رأسية، وسريع حتى 1.0 م/ث. ولوح القياسي 40 مم بمعامل انتقال حراري 0.561 W/m²K، ويعمل القياسي وموديل أرصفة التحميل من −5 إلى +50° م، وتُختار المسارات حسب المساحة فوق الفتحة.",
+          "en": "Sectional doors in three models from Spain: standard up to 8000 × 5000 mm, a loading-bay model with vertical tracks, and a fast model at up to 1.0 m/s. The standard 40 mm panel has a thermal transmittance of 0.561 W/m²K, the standard and loading-bay models work from −5 to +50 °C, and the tracks are chosen to suit the headroom."
         },
         "faq": {
           "ar": [
             {
               "q": "ما الفرق بين الباب المقطعي والباب السريع؟",
-              "a": "الباب المقطعي يُختار للعزل: ألواح 40 مم بمعامل انتقال حراري 0.561 W/m²K حسب المصنّع، وسرعته 0.2–0.3 م/ث، والمقطعي السريع حتى 1.0 م/ث. والباب السريع بستارة مرنة يُفتح بين نحو 0.6 و2 م/ث للفتحات التي تُستخدم عشرات المرات في الساعة."
+              "a": "الباب المقطعي يُختار للعزل: لوح 40 مم بمعامل انتقال حراري 0.561 W/m²K في الموديل القياسي حسب المصنّع، وسرعته 0.2–0.3 م/ث، والمقطعي السريع حتى 1.0 م/ث. والباب السريع بستارة مرنة يُفتح بين نحو 0.6 و2 م/ث للفتحات التي تُستخدم عشرات المرات في الساعة."
             },
             {
               "q": "ما حرارة التشغيل؟",
@@ -7908,7 +7908,7 @@
           "en": [
             {
               "q": "What is the difference between a sectional door and a high-speed door?",
-              "a": "A sectional door is chosen for insulation: 40 mm panels with a thermal transmittance of 0.561 W/m²K per the manufacturer, at 0.2–0.3 m/s, or up to 1.0 m/s on the fast model. A high-speed door with a flexible curtain opens at about 0.6 to 2 m/s for openings used dozens of times an hour."
+              "a": "A sectional door is chosen for insulation: a 40 mm panel with a thermal transmittance of 0.561 W/m²K on the standard model, per the manufacturer, at 0.2–0.3 m/s, or up to 1.0 m/s on the fast model. A high-speed door with a flexible curtain opens at about 0.6 to 2 m/s for openings used dozens of times an hour."
             },
             {
               "q": "What is the operating temperature?",
@@ -7940,7 +7940,7 @@
             },
             {
               "value": "0.561 W/m²K",
-              "label": "عزل الألواح"
+              "label": "عزل اللوح القياسي"
             },
             {
               "value": "8000 × 5000 مم",
@@ -7954,7 +7954,7 @@
             },
             {
               "value": "0.561 W/m²K",
-              "label": "Panel insulation"
+              "label": "Standard panel U-value"
             },
             {
               "value": "8000 × 5000 mm",
@@ -7971,8 +7971,8 @@
         },
         "coverImage": "https://cdn.bestolex.com/bestolex/products/high-speed-doors/1.png",
         "description": {
-          "ar": "أبواب سريعة بستارة مرنة تُفتح وتُغلق في ثوانٍ، فتقلل دخول الحرارة والغبار وتسرّع حركة الرافعات والأشخاص في المستودعات والمصانع وغرف التبريد في قطر.\nتتوفر بخمسة أنواع و14 موديلاً من مصنّعين في إسبانيا وإيطاليا: رول قياسي للفتحات الداخلية، وأبواب للتبريد والتجميد حتى −35° م، وأبواب ذاتية الإصلاح تعود إلى مجراها بعد الصدم، وباب السحّاب، وأبواب قابلة للطي للفتحات الكبيرة حتى 15 × 10 م.\nسرعتها من نحو 0.6 إلى 2 م/ث حسب الموديل، ولكل موديل عناصر أمان توقف الإغلاق عند وجود عائق. ونورّدها ونركّبها ونصونها في قطر.",
-          "en": "High-speed doors with a flexible curtain that open and close in seconds, cutting heat and dust ingress and speeding up forklift and foot traffic in warehouses, factories and cold rooms in Qatar.\nThey come in five types and 14 models from manufacturers in Spain and Italy: standard roll-up doors for indoor openings, cold and freezer doors down to −35 °C, self-repairing doors that return to their guides after an impact, a zip door, and fold-up doors for large openings up to 15 × 10 m.\nSpeeds run from about 0.6 to 2 m/s depending on the model, and every model has safety devices that stop the door closing on an obstacle. We supply, install and maintain them in Qatar."
+          "ar": "أبواب سريعة بستارة مرنة تُفتح وتُغلق في ثوانٍ، فتقلل دخول الحرارة والغبار وتسرّع حركة الرافعات والأشخاص في المستودعات والمصانع وغرف التبريد في قطر.\nتتوفر بخمسة أنواع و14 موديلاً من مصنّعين في إسبانيا وإيطاليا: رول قياسي للفتحات الداخلية، وأبواب للتبريد والتجميد حتى −35° م، وأبواب ذاتية الإصلاح تعود إلى مجراها بعد الصدم، وباب السحّاب، وأبواب قابلة للطي للفتحات الكبيرة حتى 15 م عرضاً.\nسرعتها من نحو 0.6 إلى 2 م/ث حسب الموديل، ولكل موديل عناصر أمان توقف الإغلاق عند وجود عائق. ونورّدها ونركّبها ونصونها في قطر.",
+          "en": "High-speed doors with a flexible curtain that open and close in seconds, cutting heat and dust ingress and speeding up forklift and foot traffic in warehouses, factories and cold rooms in Qatar.\nThey come in five types and 14 models from manufacturers in Spain and Italy: standard roll-up doors for indoor openings, cold and freezer doors down to −35 °C, self-repairing doors that return to their guides after an impact, a zip door, and fold-up doors for large openings up to 15 m wide.\nSpeeds run from about 0.6 to 2 m/s depending on the model, and every model has safety devices that stop the door closing on an obstacle. We supply, install and maintain them in Qatar."
         },
         "features": {
           "ar": [
@@ -7980,7 +7980,7 @@
             "سرعة من نحو 0.6 حتى 2 م/ث حسب الموديل",
             "أبواب للتجميد حتى −35° م بستارة معزولة أو مزدوجة",
             "أبواب ذاتية الإصلاح تعود إلى مجراها بعد اصطدام الرافعات",
-            "أبواب قابلة للطي حتى 15 × 10 م ومقاومة رياح حتى الفئة 5",
+            "أبواب قابلة للطي حتى 15 م عرضاً ومقاومة رياح حتى الفئة 5",
             "ستارة ضوئية أو خلايا أو حافة أمان في كل موديل",
             "خدمة ما بعد البيع من بيستوليكس مع توفر قطع الغيار"
           ],
@@ -7989,7 +7989,7 @@
             "Speeds from about 0.6 up to 2 m/s by model",
             "Freezer doors down to −35 °C with insulated or double curtains",
             "Self-repairing doors that return to their guides after a forklift impact",
-            "Fold-up doors up to 15 × 10 m with wind resistance up to class 5",
+            "Fold-up doors up to 15 m wide with wind resistance up to class 5",
             "Light curtain, photocells or safety edge on every model",
             "After-sales service and spare parts from Bestolex"
           ]
@@ -8047,7 +8047,7 @@
             },
             {
               "label": "أقصى مقاس",
-              "value": "حتى 15 × 10 م"
+              "value": "حتى 15 م عرضاً أو 10 م ارتفاعاً (مساحة أقصاها 100 م²)"
             },
             {
               "label": "أدنى حرارة",
@@ -8081,7 +8081,7 @@
             },
             {
               "label": "Largest size",
-              "value": "Up to 15 × 10 m"
+              "value": "Up to 15 m wide or 10 m high (max. area 100 m²)"
             },
             {
               "label": "Lowest temperature",
@@ -8115,13 +8115,13 @@
             "en": "High-Speed Doors for Warehouses and Cold Rooms in Qatar"
           },
           "description": {
-            "ar": "أبواب سريعة بخمسة أنواع و14 موديلاً: رول، وتجميد حتى −35° م، وذاتية الإصلاح، وقابلة للطي حتى 15 × 10 م. توريد وتركيب وصيانة في قطر.",
-            "en": "High-speed doors in five types and 14 models: roll-up, freezer to −35 °C, self-repairing and fold-up up to 15 × 10 m. Supply, installation and service in Qatar."
+            "ar": "أبواب سريعة بخمسة أنواع و14 موديلاً: رول، وتجميد حتى −35° م، وذاتية الإصلاح، وقابلة للطي حتى 15 م عرضاً. توريد وتركيب وصيانة في قطر.",
+            "en": "High-speed doors in five types and 14 models: roll-up, freezer to −35 °C, self-repairing and fold-up up to 15 m wide. Supply, installation and service in Qatar."
           }
         },
         "summary": {
-          "ar": "أبواب سريعة بخمسة أنواع و14 موديلاً من إسبانيا وإيطاليا، تُفتح بين نحو 0.6 و2 م/ث: رول قياسي، وللتبريد والتجميد حتى −35° م، وذاتية الإصلاح بعد الصدم، والسحّاب، وقابلة للطي حتى 15 × 10 م برياح حتى الفئة 5. اختر النوع من الجدول أدناه، ونحدد الموديل بعد قياس الفتحة.",
-          "en": "High-speed doors in five types and 14 models from Spain and Italy, opening at about 0.6 to 2 m/s: standard roll-up, cold and freezer down to −35 °C, self-repairing after impacts, zip, and fold-up up to 15 × 10 m with wind resistance up to class 5. Pick a type in the table below; we confirm the model after measuring the opening."
+          "ar": "أبواب سريعة بخمسة أنواع و14 موديلاً من إسبانيا وإيطاليا، تُفتح بين نحو 0.6 و2 م/ث: رول قياسي، وللتبريد والتجميد حتى −35° م، وذاتية الإصلاح بعد الصدم، والسحّاب، وقابلة للطي حتى 15 م عرضاً برياح حتى الفئة 5. اختر النوع من الجدول أدناه، ونحدد الموديل بعد قياس الفتحة.",
+          "en": "High-speed doors in five types and 14 models from Spain and Italy, opening at about 0.6 to 2 m/s: standard roll-up, cold and freezer down to −35 °C, self-repairing after impacts, zip, and fold-up up to 15 m wide with wind resistance up to class 5. Pick a type in the table below; we confirm the model after measuring the opening."
         },
         "faq": {
           "ar": [
@@ -8188,8 +8188,8 @@
               "label": "السرعة"
             },
             {
-              "value": "15 × 10 م",
-              "label": "أقصى مقاس"
+              "value": "15 م",
+              "label": "أقصى عرض"
             }
           ],
           "en": [
@@ -8202,8 +8202,8 @@
               "label": "Speed"
             },
             {
-              "value": "15 × 10 m",
-              "label": "Largest size"
+              "value": "15 m",
+              "label": "Widest door"
             }
           ]
         }

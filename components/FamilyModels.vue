@@ -37,7 +37,7 @@
           <thead>
             <tr>
               <th scope="col" class="w-[190px]">{{ isAr ? 'البند' : 'Item' }}</th>
-              <th v-for="m in current.models" :key="m.code" scope="col" :id="anchor(m)">
+              <th v-for="m in current.models" :key="m.code" scope="col" :id="anchor(m)" class="whitespace-normal align-top">
                 {{ t(m.name) }}
                 <span class="block font-normal text-xs text-[#5E5F5F] dark:text-gray-400 mt-1"><bdi>{{ m.code }}</bdi> · {{ t(m.origin) }}</span>
               </th>
@@ -48,7 +48,7 @@
               <th scope="row" class="font-bold text-[#191919] dark:text-white">{{ t(row.label) }}</th>
               <td v-for="m in current.models" :key="m.code" class="bp-num text-[#333434] dark:text-gray-200 align-top">
                 <bdi v-if="has(m, row.key)" :dir="isAr ? 'rtl' : 'ltr'">{{ cell(m, row.key) }}</bdi>
-                <span v-else class="text-[#6F7070] dark:text-gray-500">{{ isAr ? 'عند الطلب' : 'On request' }}</span>
+                <span v-else class="text-[#6F7070] dark:text-gray-400">{{ isAr ? 'عند الطلب' : 'On request' }}</span>
               </td>
             </tr>
             <tr>
@@ -67,7 +67,7 @@
       <div class="md:hidden flex flex-col gap-3">
         <article v-for="m in current.models" :key="m.code" :id="anchor(m) + '-m'" class="border border-[#191919] dark:border-gray-600 rounded-xl overflow-hidden">
           <div class="px-4 pt-3 pb-2">
-            <h4 class="font-display font-bold text-base text-[#191919] dark:text-white leading-snug">{{ t(m.name) }}</h4>
+            <h3 class="font-display font-bold text-base text-[#191919] dark:text-white leading-snug">{{ t(m.name) }}</h3>
             <span class="text-xs text-[#5E5F5F] dark:text-gray-400"><bdi>{{ m.code }}</bdi> · {{ t(m.origin) }}</span>
           </div>
           <dl class="grid grid-cols-3 border-t border-[#E4E6E6] dark:border-gray-700">
