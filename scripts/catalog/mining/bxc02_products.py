@@ -98,7 +98,7 @@ prod('air-leg-rock-drills', 'حفارات الصخور بالساق الهوائ
 
 prod('hand-held-gasoline-rock-drills', 'حفارات الصخور اليدوية والعاملة بالبنزين', 'Hand-Held & Gasoline Rock Drills', 'i-007-012',
      ('مثاقب يدوية خفيفة للثقوب الرأسية والتكسير الثانوي، ومثاقب بالبنزين مكتفية ذاتياً لا تحتاج إلى ضاغط، وتناسب المواقع النائية.',
-      'Light hand-held drills for vertical holes and secondary breaking, plus self-contained gasoline drills that need no compressor, well suited to remote artisanal sites.'),
+      'Light hand-held drills for vertical holes and secondary breaking, plus self-contained gasoline drills that need no compressor, well suited to remote sites.'),
      [('مثاقب يدوية من 6 إلى 26 كجم، وعمق حفر حتى 5 م', 'Hand-held drills from 6 to 26 kg, drilling depth up to 5 m'),
       ('مثاقب بالبنزين YN27C بسعة 185 سم³ للحفر والتكسير بلا ضاغط', 'YN27C gasoline drills (185 cm³) for drilling and breaking without a compressor'),
       ('سرعة حفر YN27C+ ‏350–500 مم/دقيقة', 'YN27C+ drilling speed 350–500 mm/min'),
