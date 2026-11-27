@@ -314,6 +314,10 @@ const allProducts = mockProducts.flatMap(c => catProducts(c).map(p => ({ ...p, c
 if (typeof route.query.product === 'string' && allProducts.some(p => p.id === route.query.product)) {
   form.value.productId = route.query.product
 }
+// ?type=<request type> preselects the request type (e.g. site-survey from the About page)
+if (typeof route.query.type === 'string' && REQUEST_TYPES.some(r => r.id === route.query.type)) {
+  form.value.requestType = route.query.type
+}
 
 const productGroups = computed(() => mockProducts.map(c => ({
   id: c.id,

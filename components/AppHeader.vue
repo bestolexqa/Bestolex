@@ -43,7 +43,7 @@
             <div class="w-2/3 p-6 bg-gray-50 dark:bg-gray-900 overflow-y-auto max-h-[420px]">
               <div v-if="activeProductCategory?.subcategories" class="grid grid-cols-2 gap-6">
                 <div v-for="sub in activeProductCategory.subcategories" :key="sub.id">
-                  <h4 class="font-black text-xs text-primary uppercase tracking-wider mb-2 border-b border-gray-200 dark:border-gray-700 pb-1">{{ sub.title[locale] }}</h4>
+                  <p class="font-black text-xs text-primary uppercase tracking-wider mb-2 border-b border-gray-200 dark:border-gray-700 pb-1">{{ sub.title[locale] }}</p>
                   <ul class="space-y-1.5">
                     <li v-for="prod in sub.products" :key="prod.id">
                       <NuxtLink :to="localePath(`/products/${prod.id}`)" class="text-xs text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition block font-medium">
@@ -98,9 +98,9 @@
                   {{ service.icon }}
                 </div>
                 <div>
-                  <h4 class="font-bold text-xs text-gray-900 dark:text-white group-hover/serv:text-primary transition leading-snug">
+                  <p class="font-bold text-xs text-gray-900 dark:text-white group-hover/serv:text-primary transition leading-snug">
                     {{ service.title[locale] }}
-                  </h4>
+                  </p>
                   <p class="text-[11px] text-gray-400 line-clamp-1 mt-0.5">
                     {{ service.desc[locale] }}
                   </p>
@@ -171,9 +171,9 @@
             <div class="w-3/5 p-5 bg-gray-50 dark:bg-gray-900 overflow-y-auto max-h-[440px] flex flex-col justify-between">
               <div>
                 <div class="flex items-center justify-between pb-2 border-b border-gray-200 dark:border-gray-800 mb-3">
-                  <h4 class="text-xs font-bold text-gray-900 dark:text-white">
-                    {{ locale === 'ar' ? `مقالات قسم: ${activeBlogCategory}` : `Articles in: ${activeBlogCategory}` }}
-                  </h4>
+                  <p class="text-xs font-bold text-gray-900 dark:text-white">
+                    {{ locale === 'ar' ? `مقالات قسم: ${activeBlogCategory}` : `Articles in: ${(blogCategories.find(c => c.name_ar === activeBlogCategory) || {}).name_en || activeBlogCategory}` }}
+                  </p>
                   <span class="text-[11px] text-gray-400 font-mono">
                     {{ countCategoryArticles(activeBlogCategory) }} {{ locale === 'ar' ? 'مقالات' : 'articles' }}
                   </span>
@@ -193,9 +193,9 @@
                       class="w-12 h-12 rounded-lg object-cover flex-shrink-0 bg-gray-100 dark:bg-gray-700 group-hover/art:scale-105 transition"
                     >
                     <div class="flex-1 min-w-0">
-                      <h5 class="text-xs font-bold text-gray-900 dark:text-white group-hover/art:text-primary transition line-clamp-1">
+                      <p class="text-xs font-bold text-gray-900 dark:text-white group-hover/art:text-primary transition line-clamp-1">
                         {{ art.title?.[locale] || art.title_ar }}
-                      </h5>
+                      </p>
                       <div class="flex items-center gap-2 text-[10px] text-gray-400 mt-1">
                         <span>📅 {{ art.date }}</span>
                         <span>•</span>
@@ -493,12 +493,14 @@ watch(blogCategories, (list) => {
 
 // Services List
 const servicesList = [
-  { icon: '📋', title: { ar: 'دراسة الاحتياج والمعاينة', en: 'Requirement Assessment & Survey' }, desc: { ar: 'معاينة ميدانية وتقارير فنية دقيقة', en: 'Site survey & engineering reports' } },
-  { icon: '💡', title: { ar: 'المقترح الفني والتجاري', en: 'Technical & Commercial Proposal' }, desc: { ar: 'اختيار الحل الهندسي الأنسب ومطابقة المواصفات', en: 'Optimal engineering solutions' } },
-  { icon: '📦', title: { ar: 'التوريد والاعتماد الهندسي', en: 'Supply & Engineering Approval' }, desc: { ar: 'توريد معتمد من كبرى المصانع العالمية', en: 'Certified supply from top manufacturers' } },
-  { icon: '🛠️', title: { ar: 'التركيب والإشراف الفني', en: 'Installation & Supervision' }, desc: { ar: 'تنفيذ ميداني بأيدي مهندسين معتمدين', en: 'Certified on-site engineering execution' } },
-  { icon: '⚙️', title: { ar: 'التشغيل التجريبي والتدريب', en: 'Commissioning & Training' }, desc: { ar: 'فحص أنظمة الأمان وتدريب الكوادر', en: 'Safety checks & staff training' } },
-  { icon: '🤝', title: { ar: 'الصيانة الوقائية وقطع الغيار', en: 'Preventive Maintenance' }, desc: { ar: 'عقود صيانة دورية واستجابة طارئة', en: 'Periodic maintenance & emergency support' } }
+  { icon: '📋', title: { ar: 'دراسة المتطلبات والمعاينة الميدانية', en: 'Requirements study and site survey' }, desc: { ar: 'نعاين الموقع ونحدد المتطلبات الفنية', en: 'Site survey and technical requirements' } },
+  { icon: '💡', title: { ar: 'اختيار الحل والعرض الفني والتجاري', en: 'Solution selection and proposal' }, desc: { ar: 'الحل المناسب وعرض واضح', en: 'The right solution and a clear offer' } },
+  { icon: '📦', title: { ar: 'التوريد والخدمات اللوجستية', en: 'Supply and logistics' }, desc: { ar: 'الشحن والتخليص حتى الموقع', en: 'Shipping and clearance to site' } },
+  { icon: '🛠️', title: { ar: 'التركيب أو الإشراف الفني', en: 'Installation or technical supervision' }, desc: { ar: 'وفق إجراءات السلامة', en: 'Following safety procedures' } },
+  { icon: '✅', title: { ar: 'الاختبار والتشغيل والتسليم', en: 'Testing, commissioning and handover' }, desc: { ar: 'تسليم النظام جاهزاً للعمل', en: 'A working system at handover' } },
+  { icon: '🎓', title: { ar: 'تدريب المشغلين', en: 'Operator training' }, desc: { ar: 'التشغيل الصحيح والآمن', en: 'Correct and safe operation' } },
+  { icon: '⚙️', title: { ar: 'الصيانة الوقائية والتصحيحية', en: 'Preventive and corrective maintenance' }, desc: { ar: 'صيانة دورية واستجابة للأعطال', en: 'Scheduled maintenance and fault response' } },
+  { icon: '🔩', title: { ar: 'قطع الغيار وخدمة ما بعد البيع', en: 'Spare parts and after-sales service' }, desc: { ar: 'متابعة بعد التسليم', en: 'Support after handover' } }
 ]
 
 // The whole mobile list renders in the server HTML on every page, so the menu

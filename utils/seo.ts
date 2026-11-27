@@ -26,14 +26,17 @@ export const BUSINESS = {
     'https://www.facebook.com/Bestolex'
   ],
   // One-sentence entity definition reused in Organization/LocalBusiness so every engine reads the same facts.
-  descriptionEn: 'Bestolex Trading of Heavy Equipment and Machinery W.L.L. is a Qatari company in Doha and the exclusive SABTECH agent in Qatar, supplying, installing and maintaining loading and warehouse systems, waste and recycling equipment, perimeter protection and industrial doors.',
-  descriptionAr: 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م) شركة قطرية في الدوحة والوكيل الحصري لمنتجات ساب تك في قطر، تورّد وتركّب وتصون أنظمة التحميل والمستودعات ومعدات النفايات وإعادة التدوير والحماية المحيطية والأبواب الصناعية.',
+  descriptionEn: 'Bestolex Trading of Heavy Equipment and Machinery W.L.L. is a Qatari company in Doha, the exclusive SAB TECH agent in Qatar and an authorised distributor for many international manufacturers. It supplies, installs and maintains loading and warehouse systems, waste and recycling equipment, perimeter protection and industrial doors, provides energy solutions, sources any equipment on request, and supplies gold-mining and energy equipment to the Middle East and Africa.',
+  descriptionAr: 'بيستوليكس لتجارة الآلات والمعدات الثقيلة (ذ.م.م) شركة قطرية في الدوحة، والوكيل الحصري لمنتجات ساب تك في قطر، وموزّع معتمد للعديد من المصانع العالمية. تورّد وتركّب وتصون أنظمة التحميل والمستودعات ومعدات النفايات وإعادة التدوير والحماية المحيطية والأبواب الصناعية، وتقدّم حلول الطاقة، وتورّد أي معدة حسب الطلب، ومعدات تعدين الذهب والطاقة للشرق الأوسط وأفريقيا.',
   knowsAbout: [
     'Dock levelers', 'Dock shelters', 'Scissor lift tables', 'Cargo lifts',
     'Cardboard balers', 'Waste compactors', 'Recycling equipment',
     'Road blockers', 'Tyre killers', 'Automatic bollards', 'Turnstiles', 'Under vehicle surveillance systems',
-    'High-speed doors', 'Industrial sectional doors'
+    'High-speed doors', 'Industrial sectional doors',
+    'Solar energy systems', 'Diesel generators', 'Hybrid energy systems',
+    'Equipment sourcing and procurement', 'Gold mining equipment'
   ],
+  slogan: 'Power That Drives Your Business. Trust That Lasts',
   // Open Sunday–Thursday and Saturday, 07:00–18:00 (Friday closed)
   openingHours: [
     {

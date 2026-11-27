@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-gray-900 text-gray-300 py-12">
+  <footer class="bg-[#191919] text-gray-300 py-12">
     <div class="container mx-auto px-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
       <div>
         <div class="mb-4">
@@ -112,16 +112,15 @@
           </p>
           <p class="flex items-center gap-2">
             <span class="text-primary font-bold">📞</span>
-            <span dir="ltr" class="font-mono text-xs text-gray-300">
-              <a href="tel:+97451505014" class="hover:text-primary transition">+974 5150 5014</a>
-              <span class="mx-1">/</span>
-              <a href="tel:+97450708833" class="hover:text-primary transition">+974 5070 8833</a>
+            <span class="flex flex-col gap-1 font-mono text-xs text-gray-300">
+              <a href="tel:+97451505014" class="hover:text-primary transition" dir="ltr">+974 5150 5014</a>
+              <a href="tel:+97450708833" class="hover:text-primary transition" dir="ltr">+974 5070 8833</a>
             </span>
           </p>
           <p class="flex items-center gap-2">
             <span class="text-green-500 font-bold">💬</span>
             <a href="https://wa.me/97451505014" target="_blank" rel="noopener noreferrer" class="hover:text-green-400 transition font-mono text-xs text-gray-300 flex items-center gap-1.5">
-              <span>+974 5150 5014</span>
+              <span dir="ltr">+974 5150 5014</span>
               <span class="text-[10px] bg-green-500/20 text-green-400 px-1.5 py-0.5 rounded">{{ locale === 'ar' ? 'واتساب' : 'WhatsApp' }}</span>
             </a>
           </p>
@@ -179,7 +178,8 @@
       </div>
     </div>
     <div class="text-center mt-12 pt-8 border-t border-gray-800 text-gray-500">
-      &copy; {{ new Date().getFullYear() }} Bestolex. All rights reserved.
+      <span v-if="locale === 'ar'">© {{ new Date().getFullYear() }} بيستوليكس. جميع الحقوق محفوظة.</span>
+      <span v-else dir="ltr">© {{ new Date().getFullYear() }} Bestolex. All rights reserved.</span>
     </div>
   </footer>
 </template>
