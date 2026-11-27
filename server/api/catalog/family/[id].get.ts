@@ -3,8 +3,8 @@
 // bundle: a page fetches only the family it shows.
 const FAMILY_FILES: Record<string, string> = {
   'high-speed-doors': 'catalog/doors/high-speed-doors.json',
-  'industrial-sectional-doors': 'catalog/doors/industrial-sectional-doors.json'
-  // 'industrial-shutters' joins once its product page (and photos) are approved.
+  'industrial-sectional-doors': 'catalog/doors/industrial-sectional-doors.json',
+  'industrial-shutters': 'catalog/doors/industrial-shutters.json'
 }
 
 const cache = new Map<string, any>()

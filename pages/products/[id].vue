@@ -544,6 +544,9 @@ const { data: family } = FAMILY_IDS.has(familyId)
   ? await useFetch(`/api/catalog/family/${familyId}`, { key: `family-${familyId}`, default: () => null })
   : { data: ref(null) }
 
+// Images kept in /public (e.g. /products/industrial-shutters/1.webp) need the site origin in structured data.
+const absoluteUrl = (u) => (/^https?:\/\//.test(u) ? u : `https://www.bestolex.com${u.startsWith('/') ? '' : '/'}${u}`)
+
 const shareImage = computed(() => {
   if (!product.value) return 'https://www.bestolex.com/logo.png'
   const raw = product.value.cardImage || product.value.image || product.value.images?.[0] || product.value.coverImage || ''
@@ -851,7 +854,7 @@ useHead(() => ({
         'image': [...new Set([shareImage.value, ...(product.value?.images || []),
           ...((product.value?.featureImages || []).map(f => f.image)),
           // The technical drawings were absent from the schema entirely.
-          ...((product.value?.specDrawings || []).map(dw => dw.image))])].filter(Boolean).slice(0, 16),
+          ...((product.value?.specDrawings || []).map(dw => dw.image))].filter(Boolean).map(absoluteUrl))].slice(0, 16),
         'description': pageDesc.value,
         'url': pageUrl.value,
         'category': categoryInfo.value?.title || undefined,

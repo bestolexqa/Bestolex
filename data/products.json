@@ -7710,8 +7710,8 @@
     },
     "image": "https://cdn.bestolex.com/bestolex/categories/v2/industrial-doors.jpg",
     "description": {
-      "ar": "أبواب سريعة بخمسة أنواع وأبواب مقطعية معزولة للمصانع والمستودعات وغرف التبريد والمراكز اللوجستية.",
-      "en": "High-speed doors in five types and insulated sectional doors for factories, warehouses, cold rooms and logistics centres."
+      "ar": "أبواب سريعة بخمسة أنواع، وأبواب مقطعية معزولة، وشتر صناعي للمصانع والمستودعات وغرف التبريد والمراكز اللوجستية.",
+      "en": "High-speed doors in five types, insulated sectional doors and industrial roller shutters for factories, warehouses, cold rooms and logistics centres."
     },
     "products": [
       {
@@ -8204,6 +8204,225 @@
             {
               "value": "15 m",
               "label": "Widest door"
+            }
+          ]
+        }
+      },
+      {
+        "id": "industrial-shutters",
+        "name": {
+          "ar": "الشتر الصناعي (رولينج شتر)",
+          "en": "Industrial Roller Shutters"
+        },
+        "coverImage": "/products/industrial-shutters/1.webp",
+        "description": {
+          "ar": "شتر يُلَفّ فوق الفتحة فلا يأخذ مساحة من الداخل ولا من الخارج، بأربعة موديلات من إيطاليا وإسبانيا.\nالشتر السريع المعزول يُفتح ويُغلق بنحو 0.5 م/ث بمحرك ومحوّل تردد، للفتحات كثيرة الاستخدام في مصانع الأغذية والمستودعات اللوجستية. وشتر الألمنيوم المعزول بالشريحة نفسها، ألمنيوم مزدوج 10 مم محشو بالبولي يوريثان بقيمة 4.0 W/m²K، وبسرعة أهدأ (0.2 م/ث فتحاً).\nوشتر الحديد وشتر الألمنيوم للإغلاق الآمن لفتحات عرضها 2000–7000 مم وارتفاعها 1500–5000 مم، بأقفال مانعة للاقتحام، وشتر الألمنيوم متين في المواقع الساحلية والرطبة. ونورّدها ونركّبها ونصونها في قطر.",
+          "en": "Roller shutters coil above the opening, so they take no space inside or outside. Four models from Italy and Spain.\nThe insulated high-speed shutter opens and closes at about 0.5 m/s with a motor and inverter, for busy openings in food plants and logistics warehouses. The insulated aluminium shutter uses the same slat — 10 mm double aluminium filled with polyurethane, 4.0 W/m²K — at a gentler speed (0.2 m/s opening).\nThe steel and aluminium shutters close openings 2,000–7,000 mm wide and 1,500–5,000 mm high securely, with anti-intrusion locking; the aluminium shutter stands up well on coastal and humid sites. We supply, install and maintain them in Qatar."
+        },
+        "features": {
+          "ar": [
+            "أربعة موديلات: سريع معزول، وألمنيوم معزول، وحديد، وألمنيوم",
+            "يُلَفّ فوق الفتحة، ويحتاج 350–400 مم فوقها في شتر الحديد والألمنيوم",
+            "الشتر السريع المعزول حتى 0.5 م/ث بمحوّل تردد",
+            "شريحة ألمنيوم مزدوجة 10 مم بالبولي يوريثان: 4.0 W/m²K في الطرازين المعزولين",
+            "فتحات 2000–7000 × 1500–5000 مم في شتر الحديد والألمنيوم",
+            "حافة أمان موصلة وخلايا ضوئية وستارة ضوئية في الطرازين المعزولين، وأقفال مانعة للاقتحام في شتر الحديد والألمنيوم",
+            "رفع يدوي عند انقطاع الكهرباء في الطرازين المعزولين، وتشغيل يدوي في شتر الحديد",
+            "خدمة ما بعد البيع من بيستوليكس مع توفر قطع الغيار"
+          ],
+          "en": [
+            "Four models: insulated high-speed, insulated aluminium, steel and aluminium",
+            "Coils above the opening; the steel and aluminium shutters need 350–400 mm of headroom",
+            "Insulated high-speed shutter up to 0.5 m/s with an inverter",
+            "10 mm double aluminium slat with polyurethane: 4.0 W/m²K on the two insulated models",
+            "Openings of 2,000–7,000 × 1,500–5,000 mm on the steel and aluminium shutters",
+            "Conductive safety edge, photocells and light curtain on the insulated models; anti-intrusion locking on the steel and aluminium shutters",
+            "Hand-raising in a power cut on the insulated models; manual operation on the steel shutter",
+            "After-sales service and spare parts from Bestolex"
+          ]
+        },
+        "featureImages": [],
+        "specs": {
+          "ar": [
+            {
+              "label": "الموديلات",
+              "value": "4 (إيطالية وإسبانية)"
+            },
+            {
+              "label": "مقاس الفتحة",
+              "value": "2000–7000 × 1500–5000 مم (الحديد والألمنيوم)؛ والطرازان المعزولان عند الطلب"
+            },
+            {
+              "label": "المساحة فوق الفتحة",
+              "value": "350–400 مم (الحديد والألمنيوم)"
+            },
+            {
+              "label": "السرعة (فتح / إغلاق)",
+              "value": "السريع المعزول حتى 0.5 / 0.5 م/ث؛ الألمنيوم المعزول حتى 0.2 / 0.1 م/ث"
+            },
+            {
+              "label": "الشريحة",
+              "value": "ألمنيوم مزدوج 10 مم بالبولي يوريثان؛ فولاذ متداخل؛ ألمنيوم مبثوق مفرد أو مزدوج"
+            },
+            {
+              "label": "العزل الحراري",
+              "value": "4.0 W/m²K (الطرازان المعزولان)؛ شرائح معزولة اختيارية في شتر الألمنيوم"
+            },
+            {
+              "label": "التشغيل",
+              "value": "محرك ثلاثي الطور بمحوّل تردد (الطرازان المعزولان)؛ يدوي أو بمحرك (الحديد والألمنيوم)"
+            },
+            {
+              "label": "المنشأ",
+              "value": "صناعة إيطالية وإسبانية"
+            },
+            {
+              "label": "المطابقة",
+              "value": "⁦EN 13241-1⁩ (الطرازان المعزولان)؛ ⁦2006/42/EC⁩ وعلامة CE (الحديد والألمنيوم)، حسب المصنّع"
+            }
+          ],
+          "en": [
+            {
+              "label": "Models",
+              "value": "4 (Italian and Spanish)"
+            },
+            {
+              "label": "Opening size",
+              "value": "2,000–7,000 × 1,500–5,000 mm (steel and aluminium); insulated models on request"
+            },
+            {
+              "label": "Headroom",
+              "value": "350–400 mm (steel and aluminium)"
+            },
+            {
+              "label": "Speed (open / close)",
+              "value": "Insulated high-speed up to 0.5 / 0.5 m/s; insulated aluminium up to 0.2 / 0.1 m/s"
+            },
+            {
+              "label": "Slat",
+              "value": "10 mm double aluminium with polyurethane; interlocking steel; single or double extruded aluminium"
+            },
+            {
+              "label": "Thermal insulation",
+              "value": "4.0 W/m²K (insulated models); optional insulated slats on the aluminium shutter"
+            },
+            {
+              "label": "Drive",
+              "value": "Three-phase motor with inverter (insulated models); manual or motorised (steel and aluminium)"
+            },
+            {
+              "label": "Origin",
+              "value": "Made in Italy and Spain"
+            },
+            {
+              "label": "Compliance",
+              "value": "EN 13241-1 (insulated models); 2006/42/EC and CE marking (steel and aluminium), per manufacturer"
+            }
+          ]
+        },
+        "specDrawings": [],
+        "images": [
+          "/products/industrial-shutters/1.webp",
+          "/products/industrial-shutters/2.webp",
+          "/products/industrial-shutters/3.webp"
+        ],
+        "image": "/products/industrial-shutters/1.webp",
+        "cardImage": "/products/industrial-shutters/1.webp",
+        "seo": {
+          "title": {
+            "ar": "الشتر الصناعي (رولينج شتر) في قطر",
+            "en": "Industrial Roller Shutters in Qatar"
+          },
+          "description": {
+            "ar": "شتر صناعي بأربعة موديلات: سريع معزول حتى 0.5 م/ث، وألمنيوم معزول 4.0 W/m²K، وحديد وألمنيوم لفتحات حتى 7000 × 5000 مم. توريد وتركيب في قطر.",
+            "en": "Industrial roller shutters in four models: insulated high-speed up to 0.5 m/s, insulated aluminium at 4.0 W/m²K, and steel and aluminium up to 7000 × 5000 mm. Installed in Qatar."
+          }
+        },
+        "summary": {
+          "ar": "شتر صناعي بأربعة موديلات من إيطاليا وإسبانيا يُلَفّ فوق الفتحة: سريع معزول حتى 0.5 م/ث، وألمنيوم معزول بالشريحة نفسها (10 مم، 4.0 W/m²K) وسرعة أهدأ، وحديد وألمنيوم للإغلاق الآمن لفتحات حتى 7000 × 5000 مم. اختر الموديل من الجدول أدناه، ونحدد المقاس بعد قياس الفتحة.",
+          "en": "Industrial roller shutters in four models from Italy and Spain, coiling above the opening: an insulated high-speed shutter up to 0.5 m/s, an insulated aluminium shutter with the same slat (10 mm, 4.0 W/m²K) at a gentler speed, and steel and aluminium shutters that close openings up to 7000 × 5000 mm securely. Pick a model from the table below; we confirm the size after measuring the opening."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "ما الفرق بين الشتر السريع والشتر العادي؟",
+              "a": "الشتر السريع المعزول يُفتح ويُغلق بنحو 0.5 م/ث بمحرك ومحوّل تردد، للفتحات التي تُستخدم مرات كثيرة. وشتر الألمنيوم المعزول أهدأ (0.2 م/ث فتحاً و0.1 م/ث إغلاقاً)، ويناسب الإغلاق اليومي."
+            },
+            {
+              "q": "هل الشتر معزول حرارياً؟",
+              "a": "الطرازان الإيطاليان بشريحة ألمنيوم مزدوجة 10 مم محشوة بالبولي يوريثان، بقيمة 4.0 W/m²K حسب المصنّع. وشتر الألمنيوم الإسباني يتوفر بشرائح معزولة اختيارية."
+            },
+            {
+              "q": "ما أقصى مقاس؟",
+              "a": "شتر الحديد وشتر الألمنيوم لفتحات عرضها 2000–7000 مم وارتفاعها 1500–5000 مم، مع 350–400 مم فوق الفتحة. ومقاس الطرازين المعزولين يُحدَّد في العرض الفني."
+            },
+            {
+              "q": "هل يُفتح عند انقطاع الكهرباء؟",
+              "a": "نعم. الطرازان المعزولان يُرفعان يدوياً بمقبض أسفل المحرك، وشتر الحديد يعمل يدوياً بمحور موازنة."
+            },
+            {
+              "q": "ما الذي تحتاجونه لتحديد الموديل؟",
+              "a": "عرض الفتحة وارتفاعها بالملّيمتر، والمسافة المتاحة فوقها لصندوق اللف، وعدد مرات الفتح في اليوم، وهل الباب داخلي أم على واجهة خارجية قريبة من البحر، وهل تحتاج تشغيلاً بمحرك أو ربطاً بنظام دخول."
+            },
+            {
+              "q": "هل توفرون الصيانة وقطع الغيار؟",
+              "a": "نعم، للأبواب التي نوردها: صيانة دورية وإصلاح وقطع غيار بفريق في قطر."
+            }
+          ],
+          "en": [
+            {
+              "q": "What is the difference between a high-speed and a standard roller shutter?",
+              "a": "The insulated high-speed shutter opens and closes at about 0.5 m/s with a motor and inverter, for openings used many times a day. The insulated aluminium shutter is gentler (0.2 m/s opening, 0.1 m/s closing) and suits daily closing."
+            },
+            {
+              "q": "Are the shutters thermally insulated?",
+              "a": "The two Italian models have a 10 mm double aluminium slat filled with polyurethane, rated 4.0 W/m²K by the manufacturer. The Spanish aluminium shutter is available with optional insulated slats."
+            },
+            {
+              "q": "What is the largest size?",
+              "a": "The steel and aluminium shutters fit openings 2,000–7,000 mm wide and 1,500–5,000 mm high, with 350–400 mm above the opening. The size of the insulated models is set in the technical proposal."
+            },
+            {
+              "q": "Can it be opened in a power cut?",
+              "a": "Yes. The insulated models are raised by hand with a handle under the motor, and the steel shutter works manually on a counterbalanced shaft."
+            },
+            {
+              "q": "What do you need to choose the model?",
+              "a": "The opening width and height in millimetres, the space above it for the coil box, how many times a day it opens, whether it is inside or on an outside façade near the sea, and whether you need a motor or a link to an access-control system."
+            },
+            {
+              "q": "Do you provide maintenance and spare parts?",
+              "a": "Yes, for the doors we supply: scheduled maintenance, repairs and spare parts from our team in Qatar."
+            }
+          ]
+        },
+        "stats": {
+          "ar": [
+            {
+              "value": "4",
+              "label": "موديلات"
+            },
+            {
+              "value": "حتى 0.5 م/ث",
+              "label": "السرعة"
+            },
+            {
+              "value": "2–7 م",
+              "label": "عرض الفتحة"
+            }
+          ],
+          "en": [
+            {
+              "value": "4",
+              "label": "models"
+            },
+            {
+              "value": "Up to 0.5 m/s",
+              "label": "Speed"
+            },
+            {
+              "value": "2–7 m",
+              "label": "Opening width"
             }
           ]
         }
