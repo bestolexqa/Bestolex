@@ -7710,8 +7710,8 @@
     },
     "image": "https://cdn.bestolex.com/bestolex/categories/v2/industrial-doors.jpg",
     "description": {
-      "ar": "أبواب سريعة بخمسة أنواع، وأبواب مقطعية معزولة، وشتر صناعي للمصانع والمستودعات وغرف التبريد والمراكز اللوجستية.",
-      "en": "High-speed doors in five types, insulated sectional doors and industrial roller shutters for factories, warehouses, cold rooms and logistics centres."
+      "ar": "أبواب سريعة بخمسة أنواع، وأبواب مقطعية معزولة، وشتر صناعي، وأبواب صناعية وخاصة للحظائر والانفجار والحريق، للمصانع والمستودعات وغرف التبريد والمراكز اللوجستية.",
+      "en": "High-speed doors in five types, insulated sectional doors, industrial roller shutters, and industrial and special doors for hangars, blast and fire, for factories, warehouses, cold rooms and logistics centres."
     },
     "products": [
       {
@@ -8423,6 +8423,332 @@
             {
               "value": "2–7 m",
               "label": "Opening width"
+            }
+          ]
+        }
+      },
+      {
+        "id": "industrial-special-doors",
+        "name": {
+          "ar": "الأبواب الصناعية والخاصة",
+          "en": "Industrial & Special Doors"
+        },
+        "coverImage": "/products/industrial-special-doors/cover.webp",
+        "description": {
+          "ar": "أبواب تُصمَّم على مقاس كل مشروع، صناعة فرنسية: أبواب حظائر الطائرات والفتحات الضخمة، والأبواب الأكورديونية للحركة الكثيفة، والأبواب المقاومة للانفجار والحريق، والعازلة للصوت، والمانعة للماء.\nنفّذ المصنّع أبواباً على عجلات بعرض 110 م، وبوابات منزلقة حتى 80 م، وأبواباً بارتفاع 38 م بإحكام هوائي، وأبواباً عازلة للصوت بتخفيض 45 ديسيبل. وتصنيف مقاومة الحريق EI2 120 بشهادة Efectis حسب المصنّع.\nونورّدها ونركّبها ونصونها في قطر: صيانة دورية ووقائية، وإصلاح وتحسين، وتركيب محركات وأتمتة.",
+          "en": "Doors engineered to each project's opening, made in France: aircraft hangar and very large openings, accordion doors for heavy traffic, blast- and fire-resistant doors, acoustic doors and watertight doors.\nThe manufacturer has delivered rolling doors 110 m wide, sliding gates up to 80 m, airtight doors 38 m high and acoustic doors with 45 dB sound reduction. Fire resistance is EI2 120, certified by Efectis per the manufacturer.\nWe supply, install and maintain them in Qatar: scheduled and preventive maintenance, repairs and upgrades, and motorisation and automation."
+        },
+        "features": {
+          "ar": [
+            "12 عائلة: صناعية (أكورديونية، ومتعددة الألواح، ومنزلقة، وحظائر، ومقصلة، وعلوية) وخاصة (إحكام، وانفجار وحريق، وأمنية، وصوت، وماء، وأنظمة)",
+            "يُصمَّم كل باب على مقاس الفتحة ومتطلبات المشروع",
+            "أبواب منفّذة حتى 110 م عرضاً و38 م ارتفاعاً",
+            "مقاومة حريق EI2 120 بشهادة Efectis، ومقاومة انفجار وحريق ساعتين (حسب المصنّع)",
+            "أبواب أكورديونية لأكثر من 500,000 دورة، تُفتح في 10–13 ثانية",
+            "تصميم ومحاكاة رقمية للصدم، وتجميع الأبواب الحرجة وفحصها في المصنع قبل الشحن",
+            "صيانة دورية ووقائية، وإصلاح وتحسين، وتركيب محركات وأتمتة في قطر"
+          ],
+          "en": [
+            "12 families: industrial (accordion, multi-panel, sliding, hangar, guillotine, overhead) and special (airtight, blast and fire, security, acoustic, watertight, systems)",
+            "Every door is engineered to the opening and the project's requirements",
+            "Delivered doors up to 110 m wide and 38 m high",
+            "EI2 120 fire resistance certified by Efectis, and 2-hour blast and fire resistance (per manufacturer)",
+            "Accordion doors rated for over 500,000 cycles, opening in 10–13 seconds",
+            "Structural design and numerical impact simulation; critical doors assembled and tested at the factory before shipping",
+            "Scheduled and preventive maintenance, repairs, upgrades, motorisation and automation in Qatar"
+          ]
+        },
+        "featureImages": [
+          {
+            "image": "/products/industrial-special-doors/accordion.webp",
+            "label": {
+              "ar": "أبواب أكورديونية وقابلة للطي",
+              "en": "Accordion and folding doors"
+            }
+          },
+          {
+            "image": "/products/industrial-special-doors/multi-panel.webp",
+            "label": {
+              "ar": "أبواب متعددة الألواح وزجاجية",
+              "en": "Multi-panel and glazed doors"
+            }
+          },
+          {
+            "image": "/products/industrial-special-doors/sliding.webp",
+            "label": {
+              "ar": "أبواب وبوابات منزلقة",
+              "en": "Sliding doors and gates"
+            }
+          },
+          {
+            "image": "/products/industrial-special-doors/rolling-hangar.webp",
+            "label": {
+              "ar": "أبواب حظائر على عجلات",
+              "en": "Rolling hangar doors"
+            }
+          },
+          {
+            "image": "/products/industrial-special-doors/guillotine.webp",
+            "label": {
+              "ar": "أبواب المقصلة (رفع عمودي)",
+              "en": "Guillotine (vertical-lift) doors"
+            }
+          },
+          {
+            "image": "/products/industrial-special-doors/overhead.webp",
+            "label": {
+              "ar": "أبواب علوية ومتأرجحة",
+              "en": "Overhead and swing doors"
+            }
+          },
+          {
+            "image": "/products/industrial-special-doors/inflatable-seal.webp",
+            "label": {
+              "ar": "أبواب بحشوات إحكام قابلة للنفخ",
+              "en": "Inflatable-seal doors"
+            }
+          },
+          {
+            "image": "/products/industrial-special-doors/blast-fire.webp",
+            "label": {
+              "ar": "أبواب مقاومة للانفجار والحريق",
+              "en": "Blast- and fire-resistant doors"
+            }
+          },
+          {
+            "image": "/products/industrial-special-doors/security.webp",
+            "label": {
+              "ar": "أبواب أمنية ومضادة للانفجار",
+              "en": "Security and anti-blast doors"
+            }
+          },
+          {
+            "image": "/products/industrial-special-doors/acoustic.webp",
+            "label": {
+              "ar": "أبواب عازلة للصوت",
+              "en": "Acoustic doors"
+            }
+          },
+          {
+            "image": "/products/industrial-special-doors/watertight.webp",
+            "label": {
+              "ar": "أبواب مانعة للماء",
+              "en": "Watertight doors"
+            }
+          },
+          {
+            "image": "/products/industrial-special-doors/systems.webp",
+            "label": {
+              "ar": "أنظمة ومكوّنات: مخمدات وصمامات ومحركات",
+              "en": "Systems: blast dampers, valves and drives"
+            }
+          }
+        ],
+        "partsHeading": {
+          "kicker": {
+            "ar": "العائلات",
+            "en": "Families"
+          },
+          "title": {
+            "ar": "12 عائلة من الأبواب",
+            "en": "12 door families"
+          },
+          "note": {
+            "ar": "اختر عائلة لترى صورتها. الصور من مشاريع نفّذها المصنّع.",
+            "en": "Pick a family to see it. The photos show projects the manufacturer has delivered."
+          }
+        },
+        "specs": {
+          "ar": [
+            {
+              "label": "أكورديونية وقابلة للطي",
+              "value": "ألواح 2 أو 3 أو 4؛ أكثر من 500,000 دورة؛ فتح كهربائي في 12–13 ث، والسريع في 10 ث؛ 27.5 × 6.3 م لحظيرة طائرات؛ ⁦EN 13241-1⁩ حسب المصنّع"
+            },
+            {
+              "label": "منزلقة وبوابات",
+              "value": "51 × 11 م و40 × 7 م؛ بوابات ذاتية التحمل أو على عجلات حتى 80 م"
+            },
+            {
+              "label": "حظائر على عجلات",
+              "value": "18 × 15 و10 × 10 و10 × 15 م؛ باب مزجج بالكامل 110 × 6.7 م"
+            },
+            {
+              "label": "المقصلة",
+              "value": "6 × 6 م بباب طوارئ مدمج بلا عتبة؛ 6 × 10.5 م لقاعة حفلات"
+            },
+            {
+              "label": "علوية ومتأرجحة",
+              "value": "20 × 6 م لحظائر المروحيات وصيانة الطائرات"
+            },
+            {
+              "label": "بحشوات إحكام قابلة للنفخ",
+              "value": "بابان على عجلات 7 × 38 م؛ باب آلي عالي الإحكام 8 × 28 م؛ 8 × 26 م"
+            },
+            {
+              "label": "مقاومة للانفجار والحريق",
+              "value": "7 × 8 م بمقاومة انفجار وحريق ساعتين؛ ⁦EI2 120⁩ بشهادة ⁦Efectis⁩ حسب المصنّع"
+            },
+            {
+              "label": "أمنية ومضادة للانفجار",
+              "value": "فتحة صافية 1.4 × 2.05 م مختومة؛ 0.9 × 2.2 م؛ 3 × 2.4 م؛ أبواب منزلقة بسماكة 150 مم"
+            },
+            {
+              "label": "عازلة للصوت",
+              "value": "76 × 15.3 م و45 × 15 م، بتخفيض 45 ديسيبل"
+            },
+            {
+              "label": "مانعة للماء",
+              "value": "عمود ماء 12 م حسب المصنّع"
+            },
+            {
+              "label": "المنشأ",
+              "value": "صناعة فرنسية"
+            }
+          ],
+          "en": [
+            {
+              "label": "Accordion and folding",
+              "value": "2, 3 or 4 panels; over 500,000 cycles; electric opening in 12–13 s, fast model 10 s; 27.5 × 6.3 m hangar door; EN 13241-1 per manufacturer"
+            },
+            {
+              "label": "Sliding doors and gates",
+              "value": "51 × 11 m and 40 × 7 m; self-supporting or rolling gates up to 80 m"
+            },
+            {
+              "label": "Rolling hangar doors",
+              "value": "18 × 15, 10 × 10 and 10 × 15 m; fully glazed door 110 × 6.7 m"
+            },
+            {
+              "label": "Guillotine",
+              "value": "6 × 6 m with an integrated threshold-free emergency door; 6 × 10.5 m for a concert hall"
+            },
+            {
+              "label": "Overhead and swing",
+              "value": "20 × 6 m for helicopter and aircraft maintenance hangars"
+            },
+            {
+              "label": "Inflatable-seal",
+              "value": "Two rolling doors 7 × 38 m; automatic high-tightness door 8 × 28 m; 8 × 26 m"
+            },
+            {
+              "label": "Blast and fire",
+              "value": "7 × 8 m with 2-hour blast and fire resistance; EI2 120 certified by Efectis per manufacturer"
+            },
+            {
+              "label": "Security and anti-blast",
+              "value": "Sealed clear opening 1.4 × 2.05 m; 0.9 × 2.2 m; 3 × 2.4 m; sliding doors 150 mm thick"
+            },
+            {
+              "label": "Acoustic",
+              "value": "76 × 15.3 m and 45 × 15 m, 45 dB sound reduction"
+            },
+            {
+              "label": "Watertight",
+              "value": "12 m water column per manufacturer"
+            },
+            {
+              "label": "Origin",
+              "value": "Made in France"
+            }
+          ]
+        },
+        "specDrawings": [],
+        "images": [
+          "/products/industrial-special-doors/cover.webp",
+          "/products/industrial-special-doors/accordion.webp",
+          "/products/industrial-special-doors/multi-panel.webp",
+          "/products/industrial-special-doors/rolling-hangar.webp",
+          "/products/industrial-special-doors/inflatable-seal.webp"
+        ],
+        "image": "/products/industrial-special-doors/cover.webp",
+        "cardImage": "/products/industrial-special-doors/cover.webp",
+        "seo": {
+          "title": {
+            "ar": "الأبواب الصناعية والخاصة في قطر: حظائر وانفجار وحريق",
+            "en": "Industrial & Special Doors in Qatar: Hangar, Blast, Fire"
+          },
+          "description": {
+            "ar": "أبواب حظائر حتى 110 م، وأكورديونية للحركة الكثيفة، ومقاومة للانفجار والحريق EI2 120، وعازلة للصوت ومانعة للماء. صناعة فرنسية، توريد وتركيب في قطر.",
+            "en": "Hangar doors up to 110 m, accordion doors for heavy traffic, EI2 120 blast and fire doors, acoustic and watertight doors. Made in France, installed in Qatar."
+          }
+        },
+        "summary": {
+          "ar": "أبواب مشاريع صناعة فرنسية تُصمَّم على مقاس الفتحة، في 12 عائلة: من أبواب الحظائر على عجلات بعرض 110 م والبوابات المنزلقة حتى 80 م، إلى الأبواب المقاومة للانفجار والحريق EI2 120 والعازلة للصوت والمانعة للماء. أرسل مقاس الفتحة ومتطلبات مشروعك، ونعود إليك بالحل والعرض الفني.",
+          "en": "Project doors made in France and engineered to the opening, in 12 families: from rolling hangar doors 110 m wide and sliding gates up to 80 m to EI2 120 blast and fire doors, acoustic doors and watertight doors. Send the opening size and your project requirements, and we come back with the solution and a technical proposal."
+        },
+        "faq": {
+          "ar": [
+            {
+              "q": "هل أبواب الحريق معتمدة من الدفاع المدني القطري؟",
+              "a": "تصنيف مقاومة الحريق EI2 120 (120 دقيقة) حسب شهادة المصنّع الصادرة عن Efectis، وEfectis France مدرجة لدى الدفاع المدني القطري جهةً مانحة للشهادات ومختبراً للأبواب. واعتماد الباب نفسه يُطلب لكل مشروع عند التقديم، ونجهّز ملفه معك."
+            },
+            {
+              "q": "ما أكبر مقاس ممكن؟",
+              "a": "نفّذ المصنّع أبواباً على عجلات بعرض 110 م، وبوابات منزلقة حتى 80 م، وأبواباً بارتفاع 38 م. والمقاس النهائي يُحدَّد في العرض الفني لمشروعك."
+            },
+            {
+              "q": "لأي قطاعات تناسب؟",
+              "a": "الطيران (حظائر الطائرات والمروحيات)، والنفط والغاز والطاقة (أبواب مقاومة للانفجار ومحكمة)، والدفاع المدني والإطفاء (أبواب أكورديونية سريعة)، والنقل والمرافق (أبواب مانعة للماء)، والقاعات والمباني العامة (عازلة للصوت وزجاجية)، والمنشآت الحساسة (أبواب أمنية)."
+            },
+            {
+              "q": "ما الذي تحتاجونه لإعداد العرض؟",
+              "a": "عرض الفتحة وارتفاعها ومخطط المبنى إن وُجد، ونوع المبنى واستخدام الباب، والمتطلبات (حريق، انفجار، صوت، ماء، أمن)، وعدد مرات الفتح يومياً وهل يلزم تشغيل آلي، والجهة التي تعتمد الباب."
+            },
+            {
+              "q": "هل تصونون الأبواب القائمة؟",
+              "a": "نعم: صيانة دورية ووقائية، وإصلاح وتحسين، وتركيب محركات وأتمتة."
+            }
+          ],
+          "en": [
+            {
+              "q": "Are the fire doors approved by Qatar Civil Defence?",
+              "a": "The EI2 120 (120-minute) fire rating comes from the manufacturer's Efectis certificate, and Efectis France is listed by Qatar Civil Defence as a certification body and door laboratory. Approval of the door itself is requested for each project at submission, and we prepare the file with you."
+            },
+            {
+              "q": "What is the largest size possible?",
+              "a": "The manufacturer has delivered rolling doors 110 m wide, sliding gates up to 80 m and doors 38 m high. The final size is set in the technical proposal for your project."
+            },
+            {
+              "q": "Which sectors are they for?",
+              "a": "Aviation (aircraft and helicopter hangars), oil, gas and energy (blast-resistant and sealed doors), civil defence and fire stations (fast accordion doors), transport and utilities (watertight doors), halls and public buildings (acoustic and glazed doors), and sensitive sites (security doors)."
+            },
+            {
+              "q": "What do you need to prepare a proposal?",
+              "a": "The opening width and height and a building plan if available, the building type and door use, the requirements (fire, blast, sound, water, security), how often it opens each day and whether it must be automatic, and who approves the door."
+            },
+            {
+              "q": "Do you maintain existing doors?",
+              "a": "Yes: scheduled and preventive maintenance, repairs and upgrades, and motorisation and automation."
+            }
+          ]
+        },
+        "stats": {
+          "ar": [
+            {
+              "value": "110 م",
+              "label": "عرض باب على عجلات"
+            },
+            {
+              "value": "80 م",
+              "label": "بوابات منزلقة"
+            },
+            {
+              "value": "38 م",
+              "label": "ارتفاع باب"
+            }
+          ],
+          "en": [
+            {
+              "value": "110 m",
+              "label": "Rolling door width"
+            },
+            {
+              "value": "80 m",
+              "label": "Sliding gates"
+            },
+            {
+              "value": "38 m",
+              "label": "Door height"
             }
           ]
         }

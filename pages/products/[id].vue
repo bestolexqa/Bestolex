@@ -250,20 +250,20 @@
 
           <div class="flex flex-wrap items-end justify-between gap-4 border-b border-[#343535] pb-5 mb-8">
             <div class="flex flex-col gap-2">
-              <span class="text-sm font-bold text-[#E99E05]">{{ locale === 'ar' ? 'فهرس القطع' : 'Parts index' }}</span>
+              <span class="text-sm font-bold text-[#E99E05]">{{ product.partsHeading ? product.partsHeading.kicker[locale] : (locale === 'ar' ? 'فهرس القطع' : 'Parts index') }}</span>
               <h2 id="product-parts-title" class="font-display text-3xl md:text-4xl font-extrabold text-white leading-tight">
-                {{ locale === 'ar' ? 'مكونات وتفاصيل' : 'Components & Details' }}
+                {{ product.partsHeading ? product.partsHeading.title[locale] : (locale === 'ar' ? 'مكونات وتفاصيل' : 'Components & Details') }}
               </h2>
             </div>
             <p class="m-0 text-base text-[#B9BABA] leading-relaxed max-w-[46ch]">
-              {{ locale === 'ar' ? 'اختر قطعة لتراها عن قرب. الأسماء من كتالوج المصنّع.' : 'Pick a part to see it up close. Names come from the manufacturer catalogue.' }}
+              {{ product.partsHeading ? product.partsHeading.note[locale] : (locale === 'ar' ? 'اختر قطعة لتراها عن قرب. الأسماء من كتالوج المصنّع.' : 'Pick a part to see it up close. Names come from the manufacturer catalogue.') }}
             </p>
           </div>
 
           <div class="flex flex-col-reverse lg:flex-row gap-8 lg:gap-10 items-stretch">
 
             <!-- الفهرس -->
-            <nav class="w-full lg:w-[360px] lg:flex-shrink-0 flex flex-col" :aria-label="locale === 'ar' ? 'قطع المنتج' : 'Product parts'">
+            <nav class="w-full lg:w-[360px] lg:flex-shrink-0 flex flex-col" :aria-label="product.partsHeading ? product.partsHeading.title[locale] : (locale === 'ar' ? 'قطع المنتج' : 'Product parts')">
               <button
                 v-for="(part, idx) in partsList"
                 :key="idx"
