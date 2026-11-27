@@ -1,0 +1,714 @@
+{
+ "id": "diesel-generator-sets",
+ "updated": "2026-11-27",
+ "title": {
+  "ar": "المنتجات والمواصفات",
+  "en": "Products and specifications"
+ },
+ "source": {
+  "ar": "المصدر: كتالوج بيستوليكس BXE-01، الإصدار الثاني 2026 · * حسب بيانات المصنّع · المواصفات من المصنّعين وقد تتغير دون إشعار",
+  "en": "Source: Bestolex catalogue BXE-01, Edition 2 (2026) · * manufacturer-stated · specifications come from the manufacturers and may change without notice"
+ },
+ "typeLabel": {
+  "ar": "فئة القدرة",
+  "en": "Power class"
+ },
+ "missing": {
+  "ar": "—",
+  "en": "—"
+ },
+ "rows": [
+  {
+   "key": "use",
+   "label": {
+    "ar": "الأنسب لـ",
+    "en": "Best for"
+   }
+  },
+  {
+   "key": "engine",
+   "label": {
+    "ar": "محرك الديزل",
+    "en": "Diesel engine"
+   }
+  },
+  {
+   "key": "power",
+   "label": {
+    "ar": "القدرة كما في الكتالوج",
+    "en": "Power as listed"
+   }
+  },
+  {
+   "key": "cylinders",
+   "label": {
+    "ar": "الأسطوانات",
+    "en": "Cylinders"
+   }
+  },
+  {
+   "key": "bore",
+   "label": {
+    "ar": "القطر × الشوط",
+    "en": "Bore × stroke"
+   }
+  },
+  {
+   "key": "dims",
+   "label": {
+    "ar": "الأبعاد (كما في الكتالوج)",
+    "en": "Dimensions (as listed)"
+   }
+  },
+  {
+   "key": "weight",
+   "label": {
+    "ar": "الوزن",
+    "en": "Weight"
+   }
+  },
+  {
+   "key": "output",
+   "label": {
+    "ar": "الخرج",
+    "en": "Output"
+   }
+  }
+ ],
+ "keyRows": [
+  "power",
+  "engine",
+  "weight"
+ ],
+ "types": [
+  {
+   "id": "up-to-80",
+   "label": {
+    "ar": "فئات ⁦25–75⁩ كيلوواط",
+    "en": "25–75 kW classes"
+   },
+   "key": {
+    "ar": "محركات ⁦4⁩ أسطوانات",
+    "en": "4-cylinder engines"
+   },
+   "intro": {
+    "ar": "مولدات بمحركات أربع أسطوانات للمحلات والمزارع والمواقع الصغيرة والمتوسطة.",
+    "en": "Gensets with four-cylinder engines for shops, farms and small to mid-size sites."
+   },
+   "models": [
+    {
+     "code": "BX-0005-01-042 / PA-25kw",
+     "name": {
+      "ar": "فئة ⁦25⁩ كيلوواط · ⁦PA-25kw⁩",
+      "en": "25 kW class · PA-25kw"
+     },
+     "specs": {
+      "use": {
+       "ar": "المحلات والمزارع والمواقع الصغيرة",
+       "en": "Shops, farms, small sites"
+      },
+      "engine": {
+       "ar": "⁦WP2.3D25E200⁩",
+       "en": "WP2.3D25E200"
+      },
+      "power": {
+       "ar": "⁦23 / 25⁩ كيلوواط",
+       "en": "23 / 25 kW"
+      },
+      "cylinders": {
+       "ar": "⁦4⁩",
+       "en": "4"
+      },
+      "bore": {
+       "ar": "⁦89 × 92⁩ مم",
+       "en": "89 × 92 mm"
+      },
+      "dims": {
+       "ar": "⁦160×70×135⁩",
+       "en": "160×70×135"
+      },
+      "weight": {
+       "ar": "⁦500⁩ كجم",
+       "en": "500 kg"
+      },
+      "output": {
+       "ar": "⁦400 / 230⁩ فولت، ⁦50⁩ هرتز، ⁦1500⁩ دورة/دقيقة",
+       "en": "400 / 230 V, 50 Hz, 1500 rpm"
+      }
+     }
+    },
+    {
+     "code": "BX-0005-01-042 / PA-30kw",
+     "name": {
+      "ar": "فئة ⁦30⁩ كيلوواط · ⁦PA-30kw⁩",
+      "en": "30 kW class · PA-30kw"
+     },
+     "specs": {
+      "use": {
+       "ar": "المحلات والمزارع والمواقع الصغيرة",
+       "en": "Shops, farms, small sites"
+      },
+      "engine": {
+       "ar": "⁦WP2.3D33E200⁩",
+       "en": "WP2.3D33E200"
+      },
+      "power": {
+       "ar": "⁦30 / 33⁩ كيلوواط",
+       "en": "30 / 33 kW"
+      },
+      "cylinders": {
+       "ar": "⁦4⁩",
+       "en": "4"
+      },
+      "bore": {
+       "ar": "⁦89 × 92⁩ مم",
+       "en": "89 × 92 mm"
+      },
+      "dims": {
+       "ar": "⁦175×75×135⁩",
+       "en": "175×75×135"
+      },
+      "weight": {
+       "ar": "⁦620⁩ كجم",
+       "en": "620 kg"
+      },
+      "output": {
+       "ar": "⁦400 / 230⁩ فولت، ⁦50⁩ هرتز، ⁦1500⁩ دورة/دقيقة",
+       "en": "400 / 230 V, 50 Hz, 1500 rpm"
+      }
+     }
+    },
+    {
+     "code": "BX-0005-01-042 / PA-40kw",
+     "name": {
+      "ar": "فئة ⁦40⁩ كيلوواط · ⁦PA-40kw⁩",
+      "en": "40 kW class · PA-40kw"
+     },
+     "specs": {
+      "use": {
+       "ar": "المحلات والمزارع والمواقع الصغيرة",
+       "en": "Shops, farms, small sites"
+      },
+      "engine": {
+       "ar": "⁦WP2.3D48E200⁩",
+       "en": "WP2.3D48E200"
+      },
+      "power": {
+       "ar": "⁦44 / 48⁩ كيلوواط",
+       "en": "44 / 48 kW"
+      },
+      "cylinders": {
+       "ar": "⁦4⁩",
+       "en": "4"
+      },
+      "bore": {
+       "ar": "⁦89 × 92⁩ مم",
+       "en": "89 × 92 mm"
+      },
+      "dims": {
+       "ar": "⁦175×75×135⁩",
+       "en": "175×75×135"
+      },
+      "weight": {
+       "ar": "⁦650⁩ كجم",
+       "en": "650 kg"
+      },
+      "output": {
+       "ar": "⁦400 / 230⁩ فولت، ⁦50⁩ هرتز، ⁦1500⁩ دورة/دقيقة",
+       "en": "400 / 230 V, 50 Hz, 1500 rpm"
+      }
+     }
+    },
+    {
+     "code": "BX-0005-01-042 / PA-50kw",
+     "name": {
+      "ar": "فئة ⁦50⁩ كيلوواط · ⁦PA-50kw⁩",
+      "en": "50 kW class · PA-50kw"
+     },
+     "specs": {
+      "use": {
+       "ar": "المصانع والمباني ومواقع العمل",
+       "en": "Factories, buildings, work sites"
+      },
+      "engine": {
+       "ar": "⁦WP4.1D66E200⁩",
+       "en": "WP4.1D66E200"
+      },
+      "power": {
+       "ar": "⁦60 / 66⁩ كيلوواط",
+       "en": "60 / 66 kW"
+      },
+      "cylinders": {
+       "ar": "⁦4⁩",
+       "en": "4"
+      },
+      "bore": {
+       "ar": "⁦105 × 118⁩ مم",
+       "en": "105 × 118 mm"
+      },
+      "dims": {
+       "ar": "⁦198×80×135⁩",
+       "en": "198×80×135"
+      },
+      "weight": {
+       "ar": "⁦1000⁩ كجم",
+       "en": "1000 kg"
+      },
+      "output": {
+       "ar": "⁦400 / 230⁩ فولت، ⁦50⁩ هرتز، ⁦1500⁩ دورة/دقيقة",
+       "en": "400 / 230 V, 50 Hz, 1500 rpm"
+      }
+     }
+    },
+    {
+     "code": "BX-0005-01-042 / PA-75kw",
+     "name": {
+      "ar": "فئة ⁦75⁩ كيلوواط · ⁦PA-75kw⁩",
+      "en": "75 kW class · PA-75kw"
+     },
+     "specs": {
+      "use": {
+       "ar": "المصانع والمباني ومواقع العمل",
+       "en": "Factories, buildings, work sites"
+      },
+      "engine": {
+       "ar": "⁦WP4.1D80E200⁩",
+       "en": "WP4.1D80E200"
+      },
+      "power": {
+       "ar": "⁦72 / 80⁩ كيلوواط",
+       "en": "72 / 80 kW"
+      },
+      "cylinders": {
+       "ar": "⁦4⁩",
+       "en": "4"
+      },
+      "bore": {
+       "ar": "⁦105 × 118⁩ مم",
+       "en": "105 × 118 mm"
+      },
+      "dims": {
+       "ar": "⁦220×80×135⁩",
+       "en": "220×80×135"
+      },
+      "weight": {
+       "ar": "⁦1100⁩ كجم",
+       "en": "1100 kg"
+      },
+      "output": {
+       "ar": "⁦400 / 230⁩ فولت، ⁦50⁩ هرتز، ⁦1500⁩ دورة/دقيقة",
+       "en": "400 / 230 V, 50 Hz, 1500 rpm"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "100-300",
+   "label": {
+    "ar": "فئات ⁦100–300⁩ كيلوواط",
+    "en": "100–300 kW classes"
+   },
+   "key": {
+    "ar": "⁦4–6⁩ أسطوانات",
+    "en": "4–6 cylinders"
+   },
+   "intro": {
+    "ar": "للمصانع والمباني ومواقع العمل التي تحتاج تشغيلاً مستمراً بعيداً عن الشبكة أو احتياطاً لها.",
+    "en": "For factories, buildings and work sites that need continuous off-grid power or grid backup."
+   },
+   "models": [
+    {
+     "code": "BX-0005-01-042 / PA-100kw",
+     "name": {
+      "ar": "فئة ⁦100⁩ كيلوواط · ⁦PA-100kw⁩",
+      "en": "100 kW class · PA-100kw"
+     },
+     "specs": {
+      "use": {
+       "ar": "المصانع والمباني ومواقع العمل",
+       "en": "Factories, buildings, work sites"
+      },
+      "engine": {
+       "ar": "⁦WP4.1D108E200⁩",
+       "en": "WP4.1D108E200"
+      },
+      "power": {
+       "ar": "⁦121⁩ كيلوواط",
+       "en": "121 kW"
+      },
+      "cylinders": {
+       "ar": "⁦4⁩",
+       "en": "4"
+      },
+      "bore": {
+       "ar": "⁦105 × 130⁩ مم",
+       "en": "105 × 130 mm"
+      },
+      "dims": {
+       "ar": "⁦220×82×135⁩",
+       "en": "220×82×135"
+      },
+      "weight": {
+       "ar": "⁦1120⁩ كجم",
+       "en": "1120 kg"
+      },
+      "output": {
+       "ar": "⁦400 / 230⁩ فولت، ⁦50⁩ هرتز، ⁦1500⁩ دورة/دقيقة",
+       "en": "400 / 230 V, 50 Hz, 1500 rpm"
+      }
+     }
+    },
+    {
+     "code": "BX-0005-01-042 / PA-120kw",
+     "name": {
+      "ar": "فئة ⁦120⁩ كيلوواط · ⁦PA-120kw⁩",
+      "en": "120 kW class · PA-120kw"
+     },
+     "specs": {
+      "use": {
+       "ar": "المصانع والمباني ومواقع العمل",
+       "en": "Factories, buildings, work sites"
+      },
+      "engine": {
+       "ar": "⁦WP6D132E200⁩",
+       "en": "WP6D132E200"
+      },
+      "power": {
+       "ar": "⁦120 / 132⁩ كيلوواط",
+       "en": "120 / 132 kW"
+      },
+      "cylinders": {
+       "ar": "⁦6⁩",
+       "en": "6"
+      },
+      "bore": {
+       "ar": "⁦105 × 130⁩ مم",
+       "en": "105 × 130 mm"
+      },
+      "dims": {
+       "ar": "⁦230×83×145⁩",
+       "en": "230×83×145"
+      },
+      "weight": {
+       "ar": "⁦1300⁩ كجم",
+       "en": "1300 kg"
+      },
+      "output": {
+       "ar": "⁦400 / 230⁩ فولت، ⁦50⁩ هرتز، ⁦1500⁩ دورة/دقيقة",
+       "en": "400 / 230 V, 50 Hz, 1500 rpm"
+      }
+     }
+    },
+    {
+     "code": "BX-0005-01-042 / PA-150kw",
+     "name": {
+      "ar": "فئة ⁦150⁩ كيلوواط · ⁦PA-150kw⁩",
+      "en": "150 kW class · PA-150kw"
+     },
+     "specs": {
+      "use": {
+       "ar": "المصانع والمباني ومواقع العمل",
+       "en": "Factories, buildings, work sites"
+      },
+      "engine": {
+       "ar": "⁦WP6D167E200⁩",
+       "en": "WP6D167E200"
+      },
+      "power": {
+       "ar": "⁦150 / 167⁩ كيلوواط",
+       "en": "150 / 167 kW"
+      },
+      "cylinders": {
+       "ar": "⁦6⁩",
+       "en": "6"
+      },
+      "bore": {
+       "ar": "⁦105 × 130⁩ مم",
+       "en": "105 × 130 mm"
+      },
+      "dims": {
+       "ar": "⁦250×93×145⁩",
+       "en": "250×93×145"
+      },
+      "weight": {
+       "ar": "⁦1620⁩ كجم",
+       "en": "1620 kg"
+      },
+      "output": {
+       "ar": "⁦400 / 230⁩ فولت، ⁦50⁩ هرتز، ⁦1500⁩ دورة/دقيقة",
+       "en": "400 / 230 V, 50 Hz, 1500 rpm"
+      }
+     }
+    },
+    {
+     "code": "BX-0005-01-042 / PA-200kw",
+     "name": {
+      "ar": "فئة ⁦200⁩ كيلوواط · ⁦PA-200kw⁩",
+      "en": "200 kW class · PA-200kw"
+     },
+     "specs": {
+      "use": {
+       "ar": "المصانع ومحطات المعالجة الكبيرة",
+       "en": "Large plants and processing sites"
+      },
+      "engine": {
+       "ar": "⁦WP10D238E200⁩",
+       "en": "WP10D238E200"
+      },
+      "power": {
+       "ar": "⁦216 / 238⁩ كيلوواط",
+       "en": "216 / 238 kW"
+      },
+      "cylinders": {
+       "ar": "⁦6⁩",
+       "en": "6"
+      },
+      "bore": {
+       "ar": "⁦126 × 130⁩ مم",
+       "en": "126 × 130 mm"
+      },
+      "dims": {
+       "ar": "⁦280×105×180⁩",
+       "en": "280×105×180"
+      },
+      "weight": {
+       "ar": "⁦1900⁩ كجم",
+       "en": "1900 kg"
+      },
+      "output": {
+       "ar": "⁦400 / 230⁩ فولت، ⁦50⁩ هرتز، ⁦1500⁩ دورة/دقيقة",
+       "en": "400 / 230 V, 50 Hz, 1500 rpm"
+      }
+     }
+    },
+    {
+     "code": "BX-0005-01-042 / PA-250kw",
+     "name": {
+      "ar": "فئة ⁦250⁩ كيلوواط · ⁦PA-250kw⁩",
+      "en": "250 kW class · PA-250kw"
+     },
+     "specs": {
+      "use": {
+       "ar": "المصانع ومحطات المعالجة الكبيرة",
+       "en": "Large plants and processing sites"
+      },
+      "engine": {
+       "ar": "⁦WP10D264E200⁩",
+       "en": "WP10D264E200"
+      },
+      "power": {
+       "ar": "⁦240 / 264⁩ كيلوواط",
+       "en": "240 / 264 kW"
+      },
+      "cylinders": {
+       "ar": "⁦6⁩",
+       "en": "6"
+      },
+      "bore": {
+       "ar": "⁦126 × 130⁩ مم",
+       "en": "126 × 130 mm"
+      },
+      "dims": {
+       "ar": "⁦290×110×180⁩",
+       "en": "290×110×180"
+      },
+      "weight": {
+       "ar": "⁦2100⁩ كجم",
+       "en": "2100 kg"
+      },
+      "output": {
+       "ar": "⁦400 / 230⁩ فولت، ⁦50⁩ هرتز، ⁦1500⁩ دورة/دقيقة",
+       "en": "400 / 230 V, 50 Hz, 1500 rpm"
+      }
+     }
+    },
+    {
+     "code": "BX-0005-01-042 / PA-300kw",
+     "name": {
+      "ar": "فئة ⁦300⁩ كيلوواط · ⁦PA-300kw⁩",
+      "en": "300 kW class · PA-300kw"
+     },
+     "specs": {
+      "use": {
+       "ar": "المصانع ومحطات المعالجة الكبيرة",
+       "en": "Large plants and processing sites"
+      },
+      "engine": {
+       "ar": "⁦WP10D320E200⁩",
+       "en": "WP10D320E200"
+      },
+      "power": {
+       "ar": "⁦288 / 320⁩ كيلوواط",
+       "en": "288 / 320 kW"
+      },
+      "cylinders": {
+       "ar": "⁦6⁩",
+       "en": "6"
+      },
+      "bore": {
+       "ar": "⁦126 × 155⁩ مم",
+       "en": "126 × 155 mm"
+      },
+      "dims": {
+       "ar": "⁦300×100×180⁩",
+       "en": "300×100×180"
+      },
+      "weight": {
+       "ar": "⁦2300⁩ كجم",
+       "en": "2300 kg"
+      },
+      "output": {
+       "ar": "⁦400 / 230⁩ فولت، ⁦50⁩ هرتز، ⁦1500⁩ دورة/دقيقة",
+       "en": "400 / 230 V, 50 Hz, 1500 rpm"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "350-500",
+   "label": {
+    "ar": "فئات ⁦350–500⁩ كيلوواط",
+    "en": "350–500 kW classes"
+   },
+   "key": {
+    "ar": "⁦6⁩ أسطوانات",
+    "en": "6 cylinders"
+   },
+   "intro": {
+    "ar": "أكبر فئات الجدول، لمصانع المعالجة والمواقع ذات الأحمال الكبيرة.",
+    "en": "The largest classes in the table, for processing plants and sites with heavy loads."
+   },
+   "models": [
+    {
+     "code": "BX-0005-01-042 / PA-350kw",
+     "name": {
+      "ar": "فئة ⁦350⁩ كيلوواط · ⁦PA-350kw⁩",
+      "en": "350 kW class · PA-350kw"
+     },
+     "specs": {
+      "use": {
+       "ar": "المصانع ومحطات المعالجة الكبيرة",
+       "en": "Large plants and processing sites"
+      },
+      "engine": {
+       "ar": "⁦WP13D385E200⁩",
+       "en": "WP13D385E200"
+      },
+      "power": {
+       "ar": "⁦350 / 385⁩ كيلوواط",
+       "en": "350 / 385 kW"
+      },
+      "cylinders": {
+       "ar": "⁦6⁩",
+       "en": "6"
+      },
+      "bore": {
+       "ar": "⁦127 × 165⁩ مم",
+       "en": "127 × 165 mm"
+      },
+      "dims": {
+       "ar": "⁦305×115×185⁩",
+       "en": "305×115×185"
+      },
+      "weight": {
+       "ar": "⁦3200⁩ كجم",
+       "en": "3200 kg"
+      },
+      "output": {
+       "ar": "⁦400 / 230⁩ فولت، ⁦50⁩ هرتز، ⁦1500⁩ دورة/دقيقة",
+       "en": "400 / 230 V, 50 Hz, 1500 rpm"
+      }
+     }
+    },
+    {
+     "code": "BX-0005-01-042 / PA-400kw",
+     "name": {
+      "ar": "فئة ⁦400⁩ كيلوواط · ⁦PA-400kw⁩",
+      "en": "400 kW class · PA-400kw"
+     },
+     "specs": {
+      "use": {
+       "ar": "المصانع ومحطات المعالجة الكبيرة",
+       "en": "Large plants and processing sites"
+      },
+      "engine": {
+       "ar": "⁦WP13D440E310⁩",
+       "en": "WP13D440E310"
+      },
+      "power": {
+       "ar": "⁦392 / 440⁩ كيلوواط",
+       "en": "392 / 440 kW"
+      },
+      "cylinders": {
+       "ar": "⁦6⁩",
+       "en": "6"
+      },
+      "bore": {
+       "ar": "⁦127 × 165⁩ مم",
+       "en": "127 × 165 mm"
+      },
+      "dims": {
+       "ar": "⁦310×115×185⁩",
+       "en": "310×115×185"
+      },
+      "weight": {
+       "ar": "⁦4000⁩ كجم",
+       "en": "4000 kg"
+      },
+      "output": {
+       "ar": "⁦400 / 230⁩ فولت، ⁦50⁩ هرتز، ⁦1500⁩ دورة/دقيقة",
+       "en": "400 / 230 V, 50 Hz, 1500 rpm"
+      }
+     }
+    },
+    {
+     "code": "BX-0005-01-042 / P-500kw",
+     "name": {
+      "ar": "فئة ⁦500⁩ كيلوواط · ⁦P-500kw⁩",
+      "en": "500 kW class · P-500kw"
+     },
+     "specs": {
+      "use": {
+       "ar": "المصانع ومحطات المعالجة الكبيرة",
+       "en": "Large plants and processing sites"
+      },
+      "engine": {
+       "ar": "⁦6M33D633E200⁩",
+       "en": "6M33D633E200"
+      },
+      "power": {
+       "ar": "⁦575 / 633⁩ كيلوواط",
+       "en": "575 / 633 kW"
+      },
+      "cylinders": {
+       "ar": "⁦6⁩",
+       "en": "6"
+      },
+      "bore": {
+       "ar": "⁦150 × 185⁩ مم",
+       "en": "150 × 185 mm"
+      },
+      "dims": {
+       "ar": "⁦360×150×200⁩",
+       "en": "360×150×200"
+      },
+      "weight": {
+       "ar": "⁦5000⁩ كجم",
+       "en": "5000 kg"
+      },
+      "output": {
+       "ar": "⁦400 / 230⁩ فولت، ⁦50⁩ هرتز، ⁦1500⁩ دورة/دقيقة",
+       "en": "400 / 230 V, 50 Hz, 1500 rpm"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "intro": {
+  "ar": "يذكر الكتالوج القدرة بقيمتين لمعظم الموديلات، والأبعاد دون وحدة. القدرة المقننة للمولد وأبعاده تُؤكَّد في عرض السعر.",
+  "en": "The catalogue lists power as two figures for most models, and dimensions without a unit. The rated output and dimensions of each set are confirmed in the quotation."
+ }
+}

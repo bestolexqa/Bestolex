@@ -10,5 +10,11 @@ export const FAMILY_IDS = new Set([
   'solar-home-systems-portable',
   'solar-mounting-cables-protection',
   'solar-commercial-industrial',
-  'solar-appliances'
+  'solar-appliances',
+  'diesel-generator-sets',
+  'generator-sets-by-engine',
+  'gas-generators-alternators',
+  'portable-generators',
+  'diesel-petrol-engines',
+  'generator-controls-load-banks'
 ])

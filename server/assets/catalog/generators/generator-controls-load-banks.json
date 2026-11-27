@@ -1,0 +1,247 @@
+{
+ "id": "generator-controls-load-banks",
+ "updated": "2026-11-27",
+ "title": {
+  "ar": "المنتجات والمواصفات",
+  "en": "Products and specifications"
+ },
+ "source": {
+  "ar": "المصدر: كتالوج بيستوليكس BXE-01، الإصدار الثاني 2026 · * حسب بيانات المصنّع · المواصفات من المصنّعين وقد تتغير دون إشعار",
+  "en": "Source: Bestolex catalogue BXE-01, Edition 2 (2026) · * manufacturer-stated · specifications come from the manufacturers and may change without notice"
+ },
+ "typeLabel": {
+  "ar": "خط المنتجات",
+  "en": "Product line"
+ },
+ "missing": {
+  "ar": "—",
+  "en": "—"
+ },
+ "rows": [
+  {
+   "key": "range",
+   "label": {
+    "ar": "الموديلات والمقاسات",
+    "en": "Models and sizes"
+   }
+  },
+  {
+   "key": "data",
+   "label": {
+    "ar": "أهم البيانات",
+    "en": "Key data"
+   }
+  },
+  {
+   "key": "use",
+   "label": {
+    "ar": "الاستخدام",
+    "en": "Use"
+   }
+  }
+ ],
+ "keyRows": [
+  "range",
+  "data",
+  "use"
+ ],
+ "types": [
+  {
+   "id": "controls",
+   "label": {
+    "ar": "وحدات التحكم وقطع الغيار",
+    "en": "Controllers & spare parts"
+   },
+   "key": {
+    "ar": "وحدات تحكم و⁦ATS⁩ وقطع محركات",
+    "en": "Controllers, ATS, engine parts"
+   },
+   "intro": {
+    "ar": "وحدات تحكم المولدات ومنظمات الجهد ومفاتيح التحويل وقطع غيار المحركات.",
+    "en": "Generator controllers, AVRs, transfer switches and engine spare parts."
+   },
+   "models": [
+    {
+     "code": "BX-0526-01-020",
+     "name": {
+      "ar": "وحدات تحكم المولدات وقطع الغيار",
+      "en": "Generator controllers and spare parts"
+     },
+     "specs": {
+      "range": {
+       "ar": "وحدات تحكم رقمية من التشغيل الآلي (⁦AMF)⁩ إلى التزامن وتقاسم الأحمال · ⁦AMF20 / AMF25⁩ · منظم جهد ⁦AVR⁩ · مفتاح تحويل ⁦ATS⁩ · حاكمات سرعة إلكترونية",
+       "en": "Digital controllers from auto mains failure (AMF) to synchronising and load sharing · AMF20 / AMF25 · AVR · ATS · electronic governors"
+      },
+      "data": {
+       "ar": "عدادات وقواطع وفلاتر، وقطع محركات: بخاخات ومكابس ورؤوس أسطوانات وشواحن توربينية",
+       "en": "Meters, breakers, filters and engine parts: injectors, pistons, cylinder heads, turbochargers"
+      },
+      "use": {
+       "ar": "تشغيل المولد وتحويل الحمل تلقائياً عند انقطاع الشبكة، وصيانة المحركات",
+       "en": "Generator control, automatic load transfer on mains failure, engine maintenance"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "load-banks",
+   "label": {
+    "ar": "أحمال الاختبار",
+    "en": "Load banks"
+   },
+   "key": {
+    "ar": "⁦100–3,000⁩ كيلوواط · حتى ⁦4,375⁩ ك.ف.أ",
+    "en": "100–3,000 kW · up to 4,375 kVA"
+   },
+   "intro": {
+    "ar": "أحمال مقاومة وأحمال مقاومة-حثية لاختبار المولدات وأنظمة UPS والبطاريات ولوحات التوزيع والمحولات.",
+    "en": "Resistive and resistive-inductive load banks for testing generators, UPS, batteries, switchboards and transformers."
+   },
+   "models": [
+    {
+     "code": "BX-0535-01-001",
+     "name": {
+      "ar": "أحمال اختبار مقاومة",
+      "en": "Resistive load banks"
+     },
+     "specs": {
+      "range": {
+       "ar": "⁦100–3,000⁩ كيلوواط: ⁦100⁩ كيلوواط محمول (⁦35⁩ كجم)، و⁦200⁩ كيلوواط قائم ومسطح، و⁦250–1,250⁩ كيلوواط خارجي، و⁦1,500⁩ كيلوواط داخلي، و⁦2,000–3,000⁩ كيلوواط في حاوية",
+       "en": "100–3,000 kW: 100 kW portable (35 kg), 200 kW upright and flat, 250–1,250 kW outdoor, 1,500 kW indoor, 2,000–3,000 kW containerised"
+      },
+      "data": {
+       "ar": "⁦110–690⁩ فولت · تبريد بمراوح · ⁦IP55⁩ أو أعلى* · تحكم يدوي وعن بعد وبالحاسوب مع تقارير الاختبار",
+       "en": "110–690 V · fan cooled · IP55 or better* · manual, remote and PC control with test reports"
+      },
+      "use": {
+       "ar": "اختبار المولدات وأنظمة ⁦UPS⁩ والبطاريات",
+       "en": "Testing generators, UPS and batteries"
+      }
+     }
+    },
+    {
+     "code": "BX-0535-01-002",
+     "name": {
+      "ar": "أحمال اختبار مقاومة-حثية (⁦RL)⁩",
+      "en": "Resistive-inductive (RL) load banks"
+     },
+     "specs": {
+      "range": {
+       "ar": "⁦50⁩، ⁦125⁩، ⁦1,000⁩، ⁦1,500⁩، ⁦2,000⁩، ⁦2,500⁩، ⁦3,000⁩، ⁦3,500⁩، ⁦4,375⁩ ك.ف.أ",
+       "en": "50, 125, 1,000, 1,500, 2,000, 2,500, 3,000, 3,500, 4,375 kVA"
+      },
+      "data": {
+       "ar": "معامل قدرة ⁦0.8⁩ قابل للضبط · ثابتة أو محمولة",
+       "en": "Power factor 0.8, adjustable · fixed or portable"
+      },
+      "use": {
+       "ar": "المولدات الكبيرة ولوحات التوزيع والمحولات",
+       "en": "Large generators, switchboards and transformers"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "belts",
+   "label": {
+    "ar": "السيور والشدادات",
+    "en": "Belts & tensioners"
+   },
+   "key": {
+    "ar": "سيور وشدادات ⁦Deutz⁩ و⁦Cummins⁩",
+    "en": "Belts, Deutz and Cummins tensioners"
+   },
+   "intro": {
+    "ar": "سيور مضلعة وسيور V للمحركات، وشدادات وبكرات توجيه لمحركات Deutz وCummins بأرقام القطع المرجعية (OE).",
+    "en": "Ribbed and V-belts for engines, and tensioners and idler pulleys for Deutz and Cummins engines with OE part numbers."
+   },
+   "models": [
+    {
+     "code": "BX-0684-04-005",
+     "name": {
+      "ar": "سيور مضلعة (⁦Poly-V)⁩",
+      "en": "Ribbed (poly-V) belts"
+     },
+     "specs": {
+      "range": {
+       "ar": "⁦PH, PJ, PK, PL, PM, DPK · 2–60⁩ ضلعاً",
+       "en": "PH, PJ, PK, PL, PM, DPK · 2–60 ribs"
+      },
+      "data": {
+       "ar": "⁦CR⁩ أو ⁦EPDM⁩ بأسلاك بوليستر أو أراميد · خطوة الضلع ⁦1.6–9.4⁩ مم · الطول ⁦250–4,720⁩ مم",
+       "en": "CR or EPDM with polyester or aramid cords · rib pitch 1.6–9.4 mm · lengths 250–4,720 mm"
+      }
+     }
+    },
+    {
+     "code": "BX-0684-04-006",
+     "name": {
+      "ar": "سيور ⁦V⁩ للسيارات والمحركات",
+      "en": "Automotive and engine V-belts"
+     },
+     "specs": {
+      "range": {
+       "ar": "⁦AV10, AV13, AV15, AV17, AV20, AV22, 2RAV10, 3RAV10, 2RAV13, 3RAV13, 2RAV17⁩",
+       "en": "AV10, AV13, AV15, AV17, AV20, AV22, 2RAV10, 3RAV10, 2RAV13, 3RAV13, 2RAV17"
+      },
+      "data": {
+       "ar": "⁦CR⁩ أو ⁦EPDM⁩ حسب ⁦GB 12732⁩ و⁦SAE J636C⁩ و⁦DIN 7753⁩ · العرض العلوي ⁦10–44.8⁩ مم",
+       "en": "CR or EPDM to GB 12732, SAE J636C and DIN 7753 · top width 10–44.8 mm"
+      },
+      "use": {
+       "ar": "إدارة المروحة والألترنيتر",
+       "en": "Fan and alternator drives"
+      }
+     }
+    },
+    {
+     "code": "BX-0475-02-001",
+     "name": {
+      "ar": "شدادات سيور وبكرات توجيه لمحركات ⁦Deutz⁩",
+      "en": "Deutz engine belt tensioners and idler pulleys"
+     },
+     "specs": {
+      "range": {
+       "ar": "⁦F3L / F4L / F6L912, F4L / F6L913, BF6M1013, TCD 2.9 / 3.6 / 6.1⁩",
+       "en": "F3L / F4L / F6L912, F4L / F6L913, BF6M1013, TCD 2.9 / 3.6 / 6.1"
+      },
+      "data": {
+       "ar": "نحو ⁦27⁩ قطعة بأرقام القطع المرجعية (⁦OE)⁩ (مثل ⁦04152510⁩، ⁦04282633)⁩",
+       "en": "About 27 parts with OE numbers (e.g. 04152510, 04282633)"
+      }
+     }
+    },
+    {
+     "code": "BX-0475-02-002",
+     "name": {
+      "ar": "شدادات سيور وبكرات توجيه لمحركات ⁦Cummins⁩",
+      "en": "Cummins engine belt tensioners and idler pulleys"
+     },
+     "specs": {
+      "range": {
+       "ar": "⁦B / 6BT, ISF 2.8 / 3.8, ISG, QSB, NT855, K19, KTA38 / KTA50, QSK38 / QSK50, QSL9, ISX15⁩",
+       "en": "B / 6BT, ISF 2.8 / 3.8, ISG, QSB, NT855, K19, KTA38 / KTA50, QSK38 / QSK50, QSL9, ISX15"
+      },
+      "data": {
+       "ar": "نحو ⁦50⁩ قطعة بأرقام القطع المرجعية (⁦OE)⁩ (مثل ⁦5287020⁩، ⁦3936210⁩، ⁦3976831)⁩",
+       "en": "About 50 parts with OE numbers (e.g. 5287020, 3936210, 3976831)"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "countUnit": {
+  "ar": [
+   "خط واحد",
+   "خطان",
+   "خطوط"
+  ],
+  "en": [
+   "line",
+   "lines"
+  ]
+ }
+}

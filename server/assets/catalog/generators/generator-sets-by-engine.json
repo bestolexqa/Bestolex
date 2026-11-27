@@ -1,0 +1,1074 @@
+{
+ "id": "generator-sets-by-engine",
+ "updated": "2026-11-27",
+ "title": {
+  "ar": "المنتجات والمواصفات",
+  "en": "Products and specifications"
+ },
+ "source": {
+  "ar": "المصدر: كتالوج بيستوليكس BXE-01، الإصدار الثاني 2026 · * حسب بيانات المصنّع · المواصفات من المصنّعين وقد تتغير دون إشعار",
+  "en": "Source: Bestolex catalogue BXE-01, Edition 2 (2026) · * manufacturer-stated · specifications come from the manufacturers and may change without notice"
+ },
+ "typeLabel": {
+  "ar": "ماركة المحرك",
+  "en": "Engine brand"
+ },
+ "missing": {
+  "ar": "—",
+  "en": "—"
+ },
+ "rows": [
+  {
+   "key": "power",
+   "label": {
+    "ar": "القدرة",
+    "en": "Power"
+   }
+  },
+  {
+   "key": "frequency",
+   "label": {
+    "ar": "التردد والسرعة",
+    "en": "Frequency and speed"
+   }
+  },
+  {
+   "key": "engines",
+   "label": {
+    "ar": "المحركات",
+    "en": "Engines"
+   }
+  },
+  {
+   "key": "models",
+   "label": {
+    "ar": "الموديلات",
+    "en": "Models"
+   }
+  },
+  {
+   "key": "notes",
+   "label": {
+    "ar": "ملاحظات",
+    "en": "Notes"
+   }
+  }
+ ],
+ "keyRows": [
+  "power",
+  "frequency",
+  "engines"
+ ],
+ "types": [
+  {
+   "id": "cummins",
+   "label": {
+    "ar": "⁦Cummins⁩",
+    "en": "Cummins"
+   },
+   "key": {
+    "ar": "حتى ⁦1,875⁩ ك.ف.أ",
+    "en": "Up to 1,875 kVA"
+   },
+   "intro": {
+    "ar": "مولدات بمحركات Cummins، ومنها سلسلتا DCEC وCCEC، من 20 ك.ف.أ إلى 1,875 ك.ف.أ.",
+    "en": "Gensets with Cummins engines, DCEC and CCEC series included, from 20 kVA to 1,875 kVA."
+   },
+   "models": [
+    {
+     "code": "BX-0540-01-002",
+     "name": {
+      "ar": "مولدات بمحركات ⁦Cummins⁩",
+      "en": "Cummins-engine generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦23–1,875⁩ ك.ف.أ",
+       "en": "23–1,875 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50 / 60⁩ هرتز · ⁦1500 / 1800⁩ دورة/دقيقة",
+       "en": "50 / 60 Hz · 1500 / 1800 r/min"
+      }
+     }
+    },
+    {
+     "code": "BX-0526-01-001",
+     "name": {
+      "ar": "مولدات ⁦Cummins (DCEC)⁩",
+      "en": "Cummins (DCEC) generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦20–512.5⁩ ك.ف.أ",
+       "en": "20–512.5 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50⁩ هرتز",
+       "en": "50 Hz"
+      },
+      "engines": {
+       "ar": "⁦Cummins 4B, 6B, 6C, 6L⁩",
+       "en": "Cummins 4B, 6B, 6C, 6L"
+      },
+      "notes": {
+       "ar": "مفتوحة وصامتة · استهلاك الوقود والمقاس والوزن لكل موديل",
+       "en": "Open and silent · fuel use, size and weight per model"
+      }
+     }
+    },
+    {
+     "code": "BX-0526-01-002",
+     "name": {
+      "ar": "مولدات ⁦Cummins (CCEC)⁩",
+      "en": "Cummins (CCEC) generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦200–1,260⁩ ك.ف.أ",
+       "en": "200–1,260 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50⁩ هرتز",
+       "en": "50 Hz"
+      },
+      "engines": {
+       "ar": "⁦MTA11, NT855, NTA855, KTA19, KTA38, KTA50⁩",
+       "en": "MTA11, NT855, NTA855, KTA19, KTA38, KTA50"
+      }
+     }
+    },
+    {
+     "code": "BX-0524-02-005",
+     "name": {
+      "ar": "مولدات بمحركات ⁦Cummins⁩: نطاق الموديلات",
+      "en": "Cummins-engine generator sets: model range"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦20–1,500⁩ ك.ف.أ",
+       "en": "20–1,500 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50 / 60⁩ هرتز",
+       "en": "50 / 60 Hz"
+      },
+      "engines": {
+       "ar": "⁦4B3.9, 6BT5.9, 6CTA8.3, 6LTAA, 6ZTAA13 / QSZ13, NT855, KTA19 / QSK19, KT38 / KTA38, KTA50⁩",
+       "en": "4B3.9, 6BT5.9, 6CTA8.3, 6LTAA, 6ZTAA13 / QSZ13, NT855, KTA19 / QSK19, KT38 / KTA38, KTA50"
+      },
+      "models": {
+       "ar": "نحو ⁦50⁩ موديلاً بتردد ⁦50⁩ هرتز ونحو ⁦42⁩ بتردد ⁦60⁩ هرتز",
+       "en": "About 50 models at 50 Hz; about 42 at 60 Hz"
+      },
+      "notes": {
+       "ar": "مفتوحة أو صامتة · جداول التيار والأبعاد والوزن مع عرض السعر",
+       "en": "Open or silent · current, dimension and weight tables with the quotation"
+      }
+     }
+    },
+    {
+     "code": "BX-0530-01-004",
+     "name": {
+      "ar": "مولدات بمحركات ⁦Cummins⁩، ⁦50⁩ هرتز",
+      "en": "Cummins-engine generator sets, 50 Hz"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦20–1,350⁩ كيلوواط",
+       "en": "20–1,350 kW"
+      },
+      "frequency": {
+       "ar": "⁦50⁩ هرتز · ⁦400⁩ فولت",
+       "en": "50 Hz · 400 V"
+      },
+      "engines": {
+       "ar": "من ⁦4B3.9⁩ إلى ⁦KTA50⁩",
+       "en": "4B3.9 to KTA50"
+      },
+      "models": {
+       "ar": "نحو ⁦50⁩ موديلاً",
+       "en": "About 50 models"
+      }
+     }
+    },
+    {
+     "code": "BX-0522-01-001",
+     "name": {
+      "ar": "مولدات ⁦Cummins⁩",
+      "en": "Cummins generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦16–1,500⁩ كيلوواط",
+       "en": "16–1,500 kW"
+      },
+      "frequency": {
+       "ar": "⁦50⁩ هرتز · ⁦1500⁩ دورة/دقيقة",
+       "en": "50 Hz · 1500 r/min"
+      },
+      "models": {
+       "ar": "مثل ⁦6BTAA5.9-G2 (125⁩ ك.ف.أ)، و⁦1000⁩ ك.ف.أ / ⁦800⁩ كيلوواط",
+       "en": "e.g. 6BTAA5.9-G2 (125 kVA); 1000 kVA / 800 kW"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "perkins",
+   "label": {
+    "ar": "⁦Perkins⁩",
+    "en": "Perkins"
+   },
+   "key": {
+    "ar": "⁦9–2,250⁩ ك.ف.أ",
+    "en": "9–2,250 kVA"
+   },
+   "intro": {
+    "ar": "مولدات بمحركات Perkins من 9 إلى 2,250 ك.ف.أ، مفتوحة أو صامتة أو على مقطورة.",
+    "en": "Gensets with Perkins engines from 9 to 2,250 kVA, open, silent or trailer-mounted."
+   },
+   "models": [
+    {
+     "code": "BX-0540-01-001",
+     "name": {
+      "ar": "مولدات بمحركات ⁦Perkins⁩",
+      "en": "Perkins-engine generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦9–2,250⁩ ك.ف.أ",
+       "en": "9–2,250 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50 / 60⁩ هرتز · ⁦1500 / 1800⁩ دورة/دقيقة",
+       "en": "50 / 60 Hz · 1500 / 1800 r/min"
+      },
+      "notes": {
+       "ar": "خيارات متعددة للألترنيتر · مفتوحة أو صامتة، وعلى مقطورة",
+       "en": "Choice of alternators · open or silent, trailer versions"
+      }
+     }
+    },
+    {
+     "code": "BX-0526-01-005",
+     "name": {
+      "ar": "مولدات ⁦Perkins⁩",
+      "en": "Perkins generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦9–2,200⁩ ك.ف.أ",
+       "en": "9–2,200 kVA"
+      },
+      "engines": {
+       "ar": "محركات ⁦Perkins⁩ (المملكة المتحدة)",
+       "en": "Perkins (UK) engines"
+      }
+     }
+    },
+    {
+     "code": "BX-0530-01-006",
+     "name": {
+      "ar": "مولدات بمحركات ⁦Perkins⁩، ⁦50⁩ هرتز",
+      "en": "Perkins-engine generator sets, 50 Hz"
+     },
+     "specs": {
+      "frequency": {
+       "ar": "⁦50⁩ هرتز",
+       "en": "50 Hz"
+      },
+      "engines": {
+       "ar": "السلاسل ⁦400⁩، ⁦1100⁩، ⁦1106⁩، ⁦1206⁩، ⁦1506⁩، ⁦2206⁩، ⁦2506⁩، ⁦4006⁩، ⁦4008⁩، ⁦4012⁩، ⁦4016⁩",
+       "en": "Series 400, 1100, 1106, 1206, 1506, 2206, 2506, 4006, 4008, 4012, 4016"
+      },
+      "models": {
+       "ar": "نحو ⁦25⁩ موديلاً",
+       "en": "About 25 models"
+      },
+      "notes": {
+       "ar": "القدرات عند الطلب",
+       "en": "Ratings on request"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "weichai-baudouin",
+   "label": {
+    "ar": "⁦Weichai⁩ و⁦Baudouin⁩",
+    "en": "Weichai & Baudouin"
+   },
+   "key": {
+    "ar": "⁦20–2,750⁩ ك.ف.أ",
+    "en": "20–2,750 kVA"
+   },
+   "intro": {
+    "ar": "مولدات بمحركات Weichai وBaudouin حتى 2,750 ك.ف.أ، ومنها محركات M26 وM33 بست واثنتي عشرة وست عشرة أسطوانة.",
+    "en": "Gensets with Weichai and Baudouin engines up to 2,750 kVA, including M26 and M33 engines with 6, 12 and 16 cylinders."
+   },
+   "models": [
+    {
+     "code": "BX-0540-01-003",
+     "name": {
+      "ar": "مولدات بمحركات ⁦Baudouin / Weichai⁩",
+      "en": "Baudouin / Weichai-engine generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦20–2,750⁩ ك.ف.أ",
+       "en": "20–2,750 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50 / 60⁩ هرتز · ⁦1500 / 1800⁩ دورة/دقيقة",
+       "en": "50 / 60 Hz · 1500 / 1800 r/min"
+      }
+     }
+    },
+    {
+     "code": "BX-0526-01-016",
+     "name": {
+      "ar": "مولدات ⁦Weichai⁩",
+      "en": "Weichai generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦22.5–1,250⁩ ك.ف.أ",
+       "en": "22.5–1,250 kVA"
+      },
+      "engines": {
+       "ar": "⁦WP2.3, WP4, WP6, WP10, WP13⁩",
+       "en": "WP2.3, WP4, WP6, WP10, WP13"
+      }
+     }
+    },
+    {
+     "code": "BX-0524-02-006",
+     "name": {
+      "ar": "مولدات بمحركات ⁦Weichai⁩: نطاق الموديلات",
+      "en": "Weichai-engine generator sets: model range"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦100–1,875⁩ ك.ف.أ",
+       "en": "100–1,875 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50 / 60⁩ هرتز",
+       "en": "50 / 60 Hz"
+      },
+      "engines": {
+       "ar": "⁦WP6, WP10, WP13, M26, M33 (6⁩ و⁦12⁩ و⁦16⁩ أسطوانة)",
+       "en": "WP6, WP10, WP13, M26, M33 (6, 12 and 16 cylinders)"
+      },
+      "models": {
+       "ar": "⁦21⁩ موديلاً بتردد ⁦50⁩ هرتز و⁦12⁩ بتردد ⁦60⁩ هرتز",
+       "en": "21 models at 50 Hz; 12 at 60 Hz"
+      }
+     }
+    },
+    {
+     "code": "BX-0530-01-001",
+     "name": {
+      "ar": "مولدات بمحركات ⁦Weichai⁩، ⁦50⁩ هرتز",
+      "en": "Weichai-engine generator sets, 50 Hz"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦30–1,000⁩ كيلوواط (⁦37.5–1,250⁩ ك.ف.أ)",
+       "en": "30–1,000 kW (37.5–1,250 kVA)"
+      },
+      "frequency": {
+       "ar": "⁦50⁩ هرتز · ⁦400⁩ فولت · معامل قدرة ⁦0.8⁩",
+       "en": "50 Hz · 400 V · PF 0.8"
+      },
+      "engines": {
+       "ar": "من ⁦WP2.3⁩ إلى ⁦12M33⁩",
+       "en": "WP2.3 to 12M33"
+      },
+      "models": {
+       "ar": "⁦18⁩ موديلاً",
+       "en": "18 models"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "yuchai-sdec",
+   "label": {
+    "ar": "⁦Yuchai⁩ و⁦SDEC⁩",
+    "en": "Yuchai & SDEC"
+   },
+   "key": {
+    "ar": "حتى ⁦2,200⁩ كيلوواط",
+    "en": "Up to 2,200 kW"
+   },
+   "intro": {
+    "ar": "مولدات بمحركات Yuchai حتى 2,200 كيلوواط، وبمحركات SDEC حتى 2,250 ك.ف.أ.",
+    "en": "Gensets with Yuchai engines up to 2,200 kW and SDEC engines up to 2,250 kVA."
+   },
+   "models": [
+    {
+     "code": "BX-0526-01-015",
+     "name": {
+      "ar": "مولدات ⁦Yuchai⁩",
+      "en": "Yuchai generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦42.5–1,250⁩ ك.ف.أ",
+       "en": "42.5–1,250 kVA"
+      },
+      "engines": {
+       "ar": "⁦YC4D, YC6B, YC6K, YC6T⁩",
+       "en": "YC4D, YC6B, YC6K, YC6T"
+      }
+     }
+    },
+    {
+     "code": "BX-0530-01-003",
+     "name": {
+      "ar": "مولدات بمحركات ⁦Yuchai⁩، ⁦50⁩ هرتز",
+      "en": "Yuchai-engine generator sets, 50 Hz"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦10–2,200⁩ كيلوواط",
+       "en": "10–2,200 kW"
+      },
+      "frequency": {
+       "ar": "⁦50⁩ هرتز · ⁦400⁩ فولت",
+       "en": "50 Hz · 400 V"
+      },
+      "engines": {
+       "ar": "من ⁦YC4D⁩ إلى ⁦YC16VC⁩",
+       "en": "YC4D to YC16VC"
+      },
+      "models": {
+       "ar": "نحو ⁦50⁩ موديلاً",
+       "en": "About 50 models"
+      }
+     }
+    },
+    {
+     "code": "BX-0540-01-005",
+     "name": {
+      "ar": "مولدات بمحركات ⁦SDEC⁩",
+      "en": "SDEC-engine generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦15–2,250⁩ ك.ف.أ",
+       "en": "15–2,250 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50 / 60⁩ هرتز · ⁦1500 / 1800⁩ دورة/دقيقة",
+       "en": "50 / 60 Hz · 1500 / 1800 r/min"
+      }
+     }
+    },
+    {
+     "code": "BX-0524-02-007",
+     "name": {
+      "ar": "مولدات بمحركات ⁦SDEC⁩: نطاق الموديلات",
+      "en": "SDEC-engine generator sets: model range"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦100–500⁩ ك.ف.أ",
+       "en": "100–500 kVA"
+      },
+      "engines": {
+       "ar": "⁦4HTAA4.3, 6HTAA6.5, 6DTAA8.9, 6ETAA11.8 / 12.8⁩",
+       "en": "4HTAA4.3, 6HTAA6.5, 6DTAA8.9, 6ETAA11.8 / 12.8"
+      },
+      "models": {
+       "ar": "⁦23⁩ موديلاً",
+       "en": "23 models"
+      }
+     }
+    },
+    {
+     "code": "BX-0530-01-002",
+     "name": {
+      "ar": "مولدات بمحركات ⁦SDEC⁩، ⁦50⁩ هرتز",
+      "en": "SDEC-engine generator sets, 50 Hz"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦50–800⁩ كيلوواط",
+       "en": "50–800 kW"
+      },
+      "frequency": {
+       "ar": "⁦50⁩ هرتز · ⁦400⁩ فولت",
+       "en": "50 Hz · 400 V"
+      },
+      "engines": {
+       "ar": "من ⁦SC4H⁩ إلى ⁦SC33W⁩",
+       "en": "SC4H to SC33W"
+      },
+      "models": {
+       "ar": "⁦15⁩ موديلاً",
+       "en": "15 models"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "deutz-volvo-japanese",
+   "label": {
+    "ar": "⁦Deutz⁩ و⁦Volvo⁩ والماركات اليابانية",
+    "en": "Deutz, Volvo & Japanese brands"
+   },
+   "key": {
+    "ar": "⁦6–2,500⁩ ك.ف.أ",
+    "en": "6–2,500 kVA"
+   },
+   "intro": {
+    "ar": "محركات أوروبية ويابانية: Deutz المبردة بالماء والهواء، وVolvo Penta، وMitsubishi للقدرات الكبيرة، وIsuzu وKubota للمولدات الصغيرة.",
+    "en": "European and Japanese engines: water- and air-cooled Deutz, Volvo Penta, Mitsubishi for large ratings, and Isuzu and Kubota for small sets."
+   },
+   "models": [
+    {
+     "code": "BX-0526-01-003",
+     "name": {
+      "ar": "مولدات ⁦Deutz⁩ مبردة بالماء",
+      "en": "Deutz water-cooled generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦20–750⁩ ك.ف.أ",
+       "en": "20–750 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50 / 60⁩ هرتز",
+       "en": "50 / 60 Hz"
+      },
+      "engines": {
+       "ar": "⁦BFM3, BF4M, BF6M, TCD⁩",
+       "en": "BFM3, BF4M, BF6M, TCD"
+      }
+     }
+    },
+    {
+     "code": "BX-0526-01-004",
+     "name": {
+      "ar": "مولدات ⁦Deutz⁩ مبردة بالهواء",
+      "en": "Deutz air-cooled generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦15–137.5⁩ ك.ف.أ",
+       "en": "15–137.5 kVA"
+      },
+      "notes": {
+       "ar": "محركات مبردة بالهواء للمواقع الحارة والنائية",
+       "en": "Air-cooled engines for hot and remote sites"
+      }
+     }
+    },
+    {
+     "code": "BX-0530-01-005",
+     "name": {
+      "ar": "مولدات بمحركات ⁦Volvo Penta⁩، ⁦50⁩ هرتز",
+      "en": "Volvo Penta-engine generator sets, 50 Hz"
+     },
+     "specs": {
+      "frequency": {
+       "ar": "⁦50⁩ هرتز",
+       "en": "50 Hz"
+      },
+      "engines": {
+       "ar": "⁦TAD5, TAD7, TAD13, TAD16, TWD16⁩",
+       "en": "TAD5, TAD7, TAD13, TAD16, TWD16"
+      },
+      "models": {
+       "ar": "نحو ⁦18⁩ موديلاً",
+       "en": "About 18 models"
+      },
+      "notes": {
+       "ar": "القدرات عند الطلب",
+       "en": "Ratings on request"
+      }
+     }
+    },
+    {
+     "code": "BX-0540-01-007",
+     "name": {
+      "ar": "مولدات بمحركات ⁦Mitsubishi⁩",
+      "en": "Mitsubishi-engine generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦650–2,500⁩ ك.ف.أ",
+       "en": "650–2,500 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50⁩ هرتز فقط · ⁦1500⁩ دورة/دقيقة",
+       "en": "50 Hz only · 1500 r/min"
+      }
+     }
+    },
+    {
+     "code": "BX-0540-01-010",
+     "name": {
+      "ar": "مولدات صامتة بمحركات ⁦Isuzu⁩",
+      "en": "Isuzu-engine generator sets, silent"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦20–50⁩ ك.ف.أ",
+       "en": "20–50 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50 / 60⁩ هرتز · ⁦1500 / 1800⁩ دورة/دقيقة",
+       "en": "50 / 60 Hz · 1500 / 1800 r/min"
+      }
+     }
+    },
+    {
+     "code": "BX-0524-02-002",
+     "name": {
+      "ar": "مولدات صامتة بمحركات ⁦Isuzu⁩: نطاق الموديلات",
+      "en": "Isuzu-engine generator sets, silent: model range"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦20–50⁩ ك.ف.أ",
+       "en": "20–50 kVA"
+      },
+      "engines": {
+       "ar": "⁦JE493DB / JE493ZDB⁩",
+       "en": "JE493DB / JE493ZDB"
+      },
+      "models": {
+       "ar": "⁦8⁩ موديلات",
+       "en": "8 models"
+      }
+     }
+    },
+    {
+     "code": "BX-0526-01-006",
+     "name": {
+      "ar": "مولدات ⁦Kubota⁩",
+      "en": "Kubota generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦6–36⁩ ك.ف.أ",
+       "en": "6–36 kVA"
+      },
+      "engines": {
+       "ar": "⁦D905, D1105, V2203⁩ ومحركات صغيرة أخرى",
+       "en": "D905, D1105, V2203 and other small engines"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "yto-yangdong-faw",
+   "label": {
+    "ar": "⁦YTO⁩ و⁦Yangdong⁩ و⁦FAW⁩",
+    "en": "YTO, Yangdong & FAW"
+   },
+   "key": {
+    "ar": "⁦9–625⁩ ك.ف.أ",
+    "en": "9–625 kVA"
+   },
+   "intro": {
+    "ar": "مولدات صغيرة ومتوسطة من 9 إلى 625 ك.ف.أ، ومنها كبائن فائقة الهدوء.",
+    "en": "Small and mid-size gensets from 9 to 625 kVA, including super-silent canopies."
+   },
+   "models": [
+    {
+     "code": "BX-0540-01-004",
+     "name": {
+      "ar": "مولدات بمحركات ⁦YTO / Yangdong⁩",
+      "en": "YTO / Yangdong-engine generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦9–400⁩ ك.ف.أ",
+       "en": "9–400 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50 / 60⁩ هرتز · ⁦1500 / 1800⁩ دورة/دقيقة",
+       "en": "50 / 60 Hz · 1500 / 1800 r/min"
+      },
+      "notes": {
+       "ar": "كابينة فائقة الهدوء",
+       "en": "Super-silent canopy"
+      }
+     }
+    },
+    {
+     "code": "BX-0524-02-008",
+     "name": {
+      "ar": "مولدات بمحركات ⁦YTO⁩",
+      "en": "YTO-engine generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦90–400⁩ ك.ف.أ",
+       "en": "90–400 kVA"
+      },
+      "engines": {
+       "ar": "⁦LR4M3L, LR6A3L / LR6A3Z, LR6B3L, LR6M3L⁩",
+       "en": "LR4M3L, LR6A3L / LR6A3Z, LR6B3L, LR6M3L"
+      },
+      "models": {
+       "ar": "⁦22⁩ موديلاً",
+       "en": "22 models"
+      }
+     }
+    },
+    {
+     "code": "BX-0524-02-004",
+     "name": {
+      "ar": "مولدات بمحركات ⁦Yangdong⁩",
+      "en": "Yangdong-engine generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦9–80⁩ ك.ف.أ",
+       "en": "9–80 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50 / 60⁩ هرتز",
+       "en": "50 / 60 Hz"
+      },
+      "engines": {
+       "ar": "⁦YD380 / 385 / 480, Y4100 / 4102 / 4105 / 4110⁩",
+       "en": "YD380 / 385 / 480, Y4100 / 4102 / 4105 / 4110"
+      },
+      "models": {
+       "ar": "⁦13⁩ موديلاً بتردد ⁦50⁩ هرتز و⁦13⁩ بتردد ⁦60⁩ هرتز",
+       "en": "13 models at 50 Hz; 13 at 60 Hz"
+      }
+     }
+    },
+    {
+     "code": "BX-0540-01-008",
+     "name": {
+      "ar": "مولدات بمحركات ⁦FAWDE⁩",
+      "en": "FAWDE-engine generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦15–625⁩ ك.ف.أ",
+       "en": "15–625 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50 / 60⁩ هرتز · ⁦1500 / 1800⁩ دورة/دقيقة",
+       "en": "50 / 60 Hz · 1500 / 1800 r/min"
+      }
+     }
+    },
+    {
+     "code": "BX-0524-02-001",
+     "name": {
+      "ar": "مولدات بمحركات ⁦FAW⁩",
+      "en": "FAW-engine generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦15–400⁩ ك.ف.أ (قدرة رئيسية)",
+       "en": "15–400 kVA prime"
+      },
+      "frequency": {
+       "ar": "⁦50 / 60⁩ هرتز",
+       "en": "50 / 60 Hz"
+      },
+      "engines": {
+       "ar": "⁦4DW81, 4DW91, 4DW92, 4DW93, 4110, 6DF⁩",
+       "en": "4DW81, 4DW91, 4DW92, 4DW93, 4110, 6DF"
+      },
+      "models": {
+       "ar": "⁦18⁩ موديلاً بتردد ⁦50⁩ هرتز و⁦19⁩ بتردد ⁦60⁩ هرتز",
+       "en": "18 models at 50 Hz; 19 at 60 Hz"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "ricardo-sida-yunnei",
+   "label": {
+    "ar": "⁦Ricardo⁩ و⁦SIDA⁩ و⁦Yunnei⁩",
+    "en": "Ricardo, SIDA & Yunnei"
+   },
+   "key": {
+    "ar": "⁦15–550⁩ ك.ف.أ",
+    "en": "15–550 kVA"
+   },
+   "intro": {
+    "ar": "مولدات من 15 إلى 550 ك.ف.أ بمحركات Ricardo وSIDA وYunnei، ومنها صامتة.",
+    "en": "Gensets from 15 to 550 kVA with Ricardo, SIDA and Yunnei engines, silent versions included."
+   },
+   "models": [
+    {
+     "code": "BX-0540-01-006",
+     "name": {
+      "ar": "مولدات بمحركات ⁦Ricardo⁩",
+      "en": "Ricardo-engine generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦20–500⁩ ك.ف.أ",
+       "en": "20–500 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50 / 60⁩ هرتز · ⁦1500 / 1800⁩ دورة/دقيقة",
+       "en": "50 / 60 Hz · 1500 / 1800 r/min"
+      }
+     }
+    },
+    {
+     "code": "BX-0524-02-003",
+     "name": {
+      "ar": "مولدات بمحركات ⁦Ricardo⁩: نطاق الموديلات",
+      "en": "Ricardo-engine generator sets: model range"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦20–175⁩ ك.ف.أ",
+       "en": "20–175 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50 / 60⁩ هرتز",
+       "en": "50 / 60 Hz"
+      },
+      "engines": {
+       "ar": "⁦4RT55, 6RT80, N4100DS⁩",
+       "en": "4RT55, 6RT80, N4100DS"
+      },
+      "models": {
+       "ar": "⁦11⁩ موديلاً بتردد ⁦50⁩ هرتز و⁦10⁩ بتردد ⁦60⁩ هرتز",
+       "en": "11 models at 50 Hz; 10 at 60 Hz"
+      }
+     }
+    },
+    {
+     "code": "BX-0540-01-009",
+     "name": {
+      "ar": "مولدات بمحركات ⁦SIDA⁩",
+      "en": "SIDA-engine generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦15–110⁩ ك.ف.أ",
+       "en": "15–110 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50 / 60⁩ هرتز · ⁦1500 / 1800⁩ دورة/دقيقة",
+       "en": "50 / 60 Hz · 1500 / 1800 r/min"
+      }
+     }
+    },
+    {
+     "code": "BX-0540-01-012",
+     "name": {
+      "ar": "مولدات صامتة بمحركات ⁦Yunnei⁩",
+      "en": "Yunnei-engine generator sets, silent"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦20–550⁩ ك.ف.أ",
+       "en": "20–550 kVA"
+      },
+      "frequency": {
+       "ar": "⁦50 / 60⁩ هرتز · ⁦1500 / 1800⁩ دورة/دقيقة",
+       "en": "50 / 60 Hz · 1500 / 1800 r/min"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "ranges-containerised",
+   "label": {
+    "ar": "نطاقات القدرة والحاويات",
+    "en": "Power ranges & containerised"
+   },
+   "key": {
+    "ar": "حتى ⁦5,000⁩ كيلوواط",
+    "en": "Up to 5,000 kW"
+   },
+   "intro": {
+    "ar": "نطاقات القدرة حسب ماركة المحرك، والمولدات المفتوحة حتى 5,000 كيلوواط، والوحدات الصامتة وفي حاويات حتى 4,000 كيلوواط.",
+    "en": "Power ranges by engine brand, open sets up to 5,000 kW, and silent and containerised units up to 4,000 kW."
+   },
+   "models": [
+    {
+     "code": "BX-0548-01-001",
+     "name": {
+      "ar": "مولدات مفتوحة حسب ماركة المحرك",
+      "en": "Open generator sets by engine brand"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦30–5,000⁩ كيلوواط",
+       "en": "30–5,000 kW overall"
+      },
+      "models": {
+       "ar": "مثل ⁦Perkins 4006-23TAG2A⁩ و⁦Cummins KTA38-G1⁩ و⁦Weichai 8M33D800E200⁩",
+       "en": "e.g. Perkins 4006-23TAG2A, Cummins KTA38-G1, Weichai 8M33D800E200"
+      }
+     }
+    },
+    {
+     "code": "BX-0488-01-001",
+     "name": {
+      "ar": "مولدات صامتة وفي حاويات حسب ماركة المحرك",
+      "en": "Generator sets by engine brand, silent and containerised"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦10–4,000⁩ كيلوواط",
+       "en": "10–4,000 kW"
+      },
+      "models": {
+       "ar": "فئات ⁦10–100⁩، و⁦100–500⁩، و⁦500–1,000⁩، و⁦1,000–2,000⁩، و⁦2,000–4,000⁩ ك.ف.أ",
+       "en": "Classes 10–100, 100–500, 500–1,000, 1,000–2,000, 2,000–4,000 kVA"
+      }
+     }
+    },
+    {
+     "code": "BX-0525-01-001",
+     "name": {
+      "ar": "نطاقات القدرة: ⁦Cummins⁩ و⁦Perkins⁩ و⁦Volvo⁩ و⁦Deutz⁩",
+      "en": "Power ranges: Cummins, Perkins, Volvo, Deutz"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦Cummins 25–1,875⁩، و⁦Perkins 25–2,475⁩، و⁦Volvo 85–770⁩ ك.ف.أ",
+       "en": "Cummins 25–1,875, Perkins 25–2,475, Volvo 85–770 kVA"
+      },
+      "engines": {
+       "ar": "ومعها ⁦Deutz⁩ و⁦MTU⁩ و⁦Doosan⁩",
+       "en": "Also Deutz, MTU, Doosan"
+      }
+     }
+    },
+    {
+     "code": "BX-0525-01-002",
+     "name": {
+      "ar": "نطاقات القدرة: ⁦Yuchai⁩ و⁦Shangchai⁩ و⁦Weichai⁩ و⁦Ricardo⁩",
+      "en": "Power ranges: Yuchai, Shangchai, Weichai, Ricardo"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦Yuchai 25–2,750⁩، و⁦Shangchai 56–2,250⁩، و⁦Weichai 25–2,750⁩، و⁦Ricardo 25–2,750⁩ ك.ف.أ",
+       "en": "Yuchai 25–2,750, Shangchai 56–2,250, Weichai 25–2,750, Ricardo 25–2,750 kVA"
+      }
+     }
+    },
+    {
+     "code": "BX-0522-01-002",
+     "name": {
+      "ar": "مولدات ⁦Yuchai⁩ و⁦Weichai⁩ و⁦SDEC⁩ و⁦Fawde⁩ و⁦Ricardo⁩",
+      "en": "Yuchai, Weichai, SDEC, Fawde and Ricardo generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦Yuchai 15–2,000⁩ كيلوواط، و⁦Weichai 20–400⁩، و⁦SDEC 50–300⁩، و⁦Fawde 15–250⁩ ك.ف.أ، و⁦Ricardo 10–360⁩ كيلوواط",
+       "en": "Yuchai 15–2,000 kW; Weichai 20–400 kW; SDEC 50–300 kW; Fawde 15–250 kVA; Ricardo 10–360 kW"
+      },
+      "models": {
+       "ar": "مثل ⁦YC6B180L-D20 (125⁩ ك.ف.أ / ⁦100⁩ كيلوواط) و⁦WP2.3D25E200 (20⁩ كيلوواط)",
+       "en": "e.g. YC6B180L-D20 (125 kVA / 100 kW), WP2.3D25E200 (20 kW)"
+      }
+     }
+    },
+    {
+     "code": "BX-0522-01-003",
+     "name": {
+      "ar": "مولدات ⁦Perkins⁩ و⁦Deutz⁩ و⁦Isuzu⁩ و⁦Yanmar⁩ و⁦Baudouin⁩",
+      "en": "Perkins, Deutz, Isuzu, Yanmar and Baudouin generator sets"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦Perkins 9–100⁩ ك.ف.أ، و⁦Isuzu 30⁩ ك.ف.أ، و⁦Yanmar 10⁩ كيلوواط، و⁦Baudouin⁩ حتى ⁦1,000⁩ ك.ف.أ",
+       "en": "Perkins 9–100 kVA; Isuzu 30 kVA; Yanmar 10 kW; Baudouin up to 1,000 kVA"
+      },
+      "models": {
+       "ar": "مثل ⁦Perkins GB755 (100⁩ ك.ف.أ) و⁦Deutz BF6M1013FCG2 (150⁩ كيلوواط)",
+       "en": "e.g. Perkins GB755 (100 kVA), Deutz BF6M1013FCG2 (150 kW)"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "p-range",
+   "label": {
+    "ar": "سلسلة ⁦P⁩",
+    "en": "P range"
+   },
+   "key": {
+    "ar": "الصغيرة والمتوسطة والكبيرة",
+    "en": "Small, medium and large"
+   },
+   "intro": {
+    "ar": "مولدات سلسلة P في فئتين: الصغيرة دون 220 ك.ف.أ، والمتوسطة والكبيرة من 225 ك.ف.أ فما فوق.",
+    "en": "P-range generator sets in two classes: small under 220 kVA, and medium and large from 225 kVA up."
+   },
+   "models": [
+    {
+     "code": "BX-0484-01-001",
+     "name": {
+      "ar": "مولدات سلسلة ⁦P⁩، الفئة الصغيرة",
+      "en": "P-range generator sets, small class"
+     },
+     "specs": {
+      "power": {
+       "ar": "دون ⁦220⁩ ك.ف.أ",
+       "en": "Under 220 kVA"
+      },
+      "models": {
+       "ar": "⁦P55-6S, P65-5, P90-6S, P110-6, P175-2, P250-5⁩",
+       "en": "P55-6S, P65-5, P90-6S, P110-6, P175-2, P250-5"
+      },
+      "notes": {
+       "ar": "⁦P250-5: 230⁩ ك.ف.أ رئيسية / ⁦250⁩ ك.ف.أ احتياطية",
+       "en": "P250-5 = 230 kVA prime / 250 kVA standby"
+      }
+     }
+    },
+    {
+     "code": "BX-0484-01-002",
+     "name": {
+      "ar": "مولدات سلسلة ⁦P⁩، المتوسطة والكبيرة",
+      "en": "P-range generator sets, medium and large"
+     },
+     "specs": {
+      "power": {
+       "ar": "⁦225–938⁩ ك.ف.أ، وما فوق ⁦800⁩ ك.ف.أ",
+       "en": "225–938 kVA and above 800 kVA"
+      },
+      "models": {
+       "ar": "مثل ⁦P1375-1⁩ · الموديلات عند الطلب",
+       "en": "e.g. P1375-1 · models on request"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "countUnit": {
+  "ar": [
+   "سلسلة واحدة",
+   "سلسلتان",
+   "سلاسل"
+  ],
+  "en": [
+   "series",
+   "series"
+  ]
+ }
+}

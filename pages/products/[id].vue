@@ -781,11 +781,15 @@ const relatedArticles = computed(() => {
   return [...same, ...rest].slice(0, 3)
 })
 
-// منتجات أخرى من القسم نفسه
+// منتجات أخرى من القسم نفسه، وأولها منتجات القسم الفرعي نفسه
+// (صفحة مولد تعرض المولدات قبل الطاقة الشمسية)
 const relatedProducts = computed(() => {
   const cat = mockProducts.find(c => catProducts(c).some(pr => pr.id === route.params.id))
   if (!cat) return []
-  return catProducts(cat).filter(pr => pr.id !== route.params.id).slice(0, 4)
+  const sub = (cat.subcategories || []).find(s => (s.products || []).some(pr => pr.id === route.params.id))
+  const own = (sub?.products || []).filter(pr => pr.id !== route.params.id)
+  const rest = catProducts(cat).filter(pr => pr.id !== route.params.id && !own.includes(pr))
+  return [...own, ...rest].slice(0, 4)
 })
 
 // فهرس القطع: القطعة المعروضة على المنصة
