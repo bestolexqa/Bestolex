@@ -13568,12 +13568,12 @@
     },
     "seo": {
       "title": {
-        "ar": "معدات تعدين الذهب: التنقيب والحفر واستخراج الخام",
-        "en": "Gold Mining Equipment: Exploration, Drilling and Ore Extraction"
+        "ar": "معدات تعدين الذهب: التنقيب والحفر ومستهلكات الحفر",
+        "en": "Gold Mining Equipment: Exploration, Drilling and Drilling Consumables"
       },
       "description": {
-        "ar": "معدات تعدين الذهب من بيستوليكس: أجهزة المسح والكشف، وحفارات الاستكشاف وDTH، والمثاقب الصخرية، والضواغط، وأدوات التكسير والفلق. التوريد للشرق الأوسط وأفريقيا.",
-        "en": "Gold-mining equipment from Bestolex: survey instruments and detectors, exploration and DTH rigs, rock drills, compressors, and breaking and splitting tools. Supply to the Middle East and Africa."
+        "ar": "معدات تعدين الذهب من بيستوليكس: أجهزة المسح والكشف، وحفارات الاستكشاف وDTH، والمثاقب الصخرية، والضواغط، ومطارق ولقم DTH وRC، وأدوات الحفر ومستهلكاته. التوريد للشرق الأوسط وأفريقيا.",
+        "en": "Gold-mining equipment from Bestolex: survey instruments and detectors, exploration and DTH rigs, rock drills, compressors, DTH and RC hammers and bits, and drilling tools and consumables. Supply to the Middle East and Africa."
       }
     },
     "subcategories": [
@@ -13599,7 +13599,7 @@
               "ar": [
                 "نظام مقاومية متعدد الأقطاب ⁦WGMD-9⁩ بثلاث تهيئات: مركزي ثنائي الأبعاد، وموزّع ثنائي وثلاثي الأبعاد، وموزّع للمقاومية والاستقطاب",
                 "المسافة بين الأقطاب ⁦5⁩ م (⁦10⁩ م اختياري)، والعمق يتبع طول الامتداد",
-                "مقياس مغناطيسية بروتوني ⁦WCZ-3⁩: مدى ⁦20,000–100,000 nT⁩ ودقة ⁦0.5 nT⁩",
+                "مقياس مغناطيسية بروتوني ⁦WCZ-3⁩: مدى ⁦20,000⁠–⁠100,000 nT⁩ ودقة ⁦0.5 nT⁩",
                 "⁦GPS⁩ مدمج وذاكرة ⁦2,000,000⁩ قراءة وواجهة ⁦USB⁩"
               ],
               "en": [
@@ -13742,10 +13742,10 @@
             },
             "features": {
               "ar": [
-                "أجهزة ⁦VLF⁩ بموازنة أرضية وملفات مقاومة للماء حتى ⁦2–3⁩ م (⁦N60⁩ و⁦T90⁩ و⁦B75⁩)، وفي ⁦T90⁩ وضع للتنقيب",
+                "أجهزة ⁦VLF⁩ بموازنة أرضية وملفات مقاومة للماء حتى ⁦2⁠–⁠3⁩ م (⁦N60⁩ و⁦T90⁩ و⁦B75⁩)، وفي ⁦T90⁩ وضع للتنقيب",
                 "مؤشرات كشف يدوية ⁦360°⁩ مقاومة للماء حتى ⁦3⁩ م، ببطارية ليثيوم وشحن ⁦USB⁩ في ⁦TMR⁩",
                 "مجرفة ومغارف رمل من الفولاذ ⁦304⁩",
-                "حفارات بعمق ⁦50–1500⁩ م: بطاولة دوّارة، وبرأس دوّار، وهيدروليكية للّب، وطرقية بالكابل"
+                "حفارات بعمق ⁦50⁠–⁠1500⁩ م: بطاولة دوّارة، وبرأس دوّار، وهيدروليكية للّب، وطرقية بالكابل"
               ],
               "en": [
                 "VLF detectors with ground balance and coils waterproof to 2–3 m (N60, T90, B75); T90 has a prospecting mode",
@@ -13767,11 +13767,11 @@
                 },
                 {
                   "label": "عمق الحفارات",
-                  "value": "⁦50–1500⁩ م"
+                  "value": "⁦50⁠–⁠1500⁩ م"
                 },
                 {
                   "label": "قطر البئر",
-                  "value": "⁦110–1000⁩ مم"
+                  "value": "⁦110⁠–⁠1000⁩ مم"
                 }
               ],
               "en": [
@@ -13806,7 +13806,7 @@
                 "en": "VLF Gold & Metal Detectors and Water-Well Drill Rigs"
               },
               "description": {
-                "ar": "أجهزة كشف معادن ⁦VLF⁩ ومؤشرات ومغارف للتنقيب عن الذهب، وحفارات آبار مياه واستكشاف بعمق ⁦50–1500⁩ م. التوريد للشرق الأوسط وأفريقيا.",
+                "ar": "أجهزة كشف معادن ⁦VLF⁩ ومؤشرات ومغارف للتنقيب عن الذهب، وحفارات آبار مياه واستكشاف بعمق ⁦50⁠–⁠1500⁩ م. التوريد للشرق الأوسط وأفريقيا.",
                 "en": "VLF metal detectors, pinpointers and scoops for gold prospecting, and water-well and exploration rigs from 50 to 1500 m. Supply to the Middle East and Africa."
               }
             },
@@ -13855,7 +13855,7 @@
                   "label": "تقنية الكشف"
                 },
                 {
-                  "value": "⁦50–1500⁩ م",
+                  "value": "⁦50⁠–⁠1500⁩ م",
                   "label": "عمق الحفر"
                 }
               ],
@@ -13890,7 +13890,7 @@
               "ar": [
                 "حفارة ⁦HW-B30⁩ تُحمل على الظهر إلى المواقع التي لا تصلها المركبات",
                 "ثمانية موديلات لبّية من ⁦30⁩ إلى ⁦1,500⁩ م، منها جنزيرية ⁦GL⁩ للاستكشاف العميق",
-                "⁦HW-1500GL⁩ بقدرة ⁦132⁩ كيلوواط ولب ⁦50–114⁩ مم",
+                "⁦HW-1500GL⁩ بقدرة ⁦132⁩ كيلوواط ولب ⁦50⁠–⁠114⁩ مم",
                 "ستة موديلات ⁦RC⁩ تعيد عينات الفتات باستمرار لتحليل سريع"
               ],
               "en": [
@@ -13905,7 +13905,7 @@
               "ar": [
                 {
                   "label": "عمق الحفر",
-                  "value": "⁦30–1,500⁩ م"
+                  "value": "⁦30⁠–⁠1,500⁩ م"
                 },
                 {
                   "label": "حفارات اللب",
@@ -13933,7 +13933,10 @@
             },
             "specDrawings": [],
             "images": [
-              "/products/core-rc-exploration-drill-rigs/core-rc-exploration-drill-rigs.webp"
+              "/products/core-rc-exploration-drill-rigs/core-rc-exploration-drill-rigs.webp",
+              "/products/core-rc-exploration-drill-rigs/core-rc-exploration-drill-rigs-2.webp",
+              "/products/core-rc-exploration-drill-rigs/core-rc-exploration-drill-rigs-3.webp",
+              "/products/core-rc-exploration-drill-rigs/core-rc-exploration-drill-rigs-4.webp"
             ],
             "image": "/products/core-rc-exploration-drill-rigs/core-rc-exploration-drill-rigs.webp",
             "cardImage": "/products/core-rc-exploration-drill-rigs/core-rc-exploration-drill-rigs.webp",
@@ -13984,7 +13987,7 @@
             "stats": {
               "ar": [
                 {
-                  "value": "⁦30–1,500⁩ م",
+                  "value": "⁦30⁠–⁠1,500⁩ م",
                   "label": "عمق الحفر"
                 },
                 {
@@ -14025,10 +14028,10 @@
             },
             "features": {
               "ar": [
-                "أربعة مثاقب ⁦YT⁩ بوزن ⁦24–27⁩ كجم وساق ⁦H22 × 108⁩",
-                "قطر الثقب ⁦34–45⁩ مم وعمق الحفر ⁦5⁩ م",
+                "أربعة مثاقب ⁦YT⁩ بوزن ⁦24⁠–⁠27⁩ كجم وساق ⁦H22 × 108⁩",
+                "قطر الثقب ⁦34⁠–⁠45⁩ مم وعمق الحفر ⁦5⁩ م",
                 "ضغط الهواء ⁦0.63⁩ ميغاباسكال وضغط الماء ⁦0.3⁩ ميغاباسكال",
-                "سبع سيقان ⁦FT⁩ بشوط دفع ⁦810–1365⁩ مم"
+                "سبع سيقان ⁦FT⁩ بشوط دفع ⁦810⁠–⁠1365⁩ مم"
               ],
               "en": [
                 "Four YT drills, 24–27 kg, H22 × 108 shank",
@@ -14046,7 +14049,7 @@
                 },
                 {
                   "label": "قطر الثقب",
-                  "value": "⁦34–45⁩ مم"
+                  "value": "⁦34⁠–⁠45⁩ مم"
                 },
                 {
                   "label": "ضغط الهواء",
@@ -14080,7 +14083,7 @@
                 "en": "YT Air-Leg Rock Drills and FT Air Legs"
               },
               "description": {
-                "ar": "مثاقب صخرية هوائية ⁦YT⁩ بوزن ⁦24–27⁩ كجم وقطر ثقب ⁦34–45⁩ مم مع سيقان ⁦FT⁩ مطابقة، للأنفاق والحفر المفتوحة. التوريد للشرق الأوسط وأفريقيا.",
+                "ar": "مثاقب صخرية هوائية ⁦YT⁩ بوزن ⁦24⁠–⁠27⁩ كجم وقطر ثقب ⁦34⁠–⁠45⁩ مم مع سيقان ⁦FT⁩ مطابقة، للأنفاق والحفر المفتوحة. التوريد للشرق الأوسط وأفريقيا.",
                 "en": "YT pneumatic rock drills (24–27 kg, 34–45 mm holes) with matching FT air legs for underground drives and open pits. Supply to the Middle East and Africa."
               }
             },
@@ -14125,7 +14128,7 @@
                   "label": "موديلاً"
                 },
                 {
-                  "value": "⁦24–27⁩ كجم",
+                  "value": "⁦24⁠–⁠27⁩ كجم",
                   "label": "وزن المثقاب"
                 },
                 {
@@ -14164,7 +14167,7 @@
               "ar": [
                 "مثاقب يدوية من ⁦6⁩ إلى ⁦26⁩ كجم، وعمق حفر حتى ⁦5⁩ م",
                 "مثاقب بالبنزين ⁦YN27C⁩ بسعة ⁦185⁩ سم³ للحفر والتكسير بلا ضاغط",
-                "سرعة حفر ⁦YN27C⁩+ ‏⁦350–500⁩ مم/دقيقة",
+                "سرعة حفر ⁦YN27C⁩+ ‏⁦350⁠–⁠500⁩ مم/دقيقة",
                 "ملحقات: مزلّقات، ومزيّت خط هواء، وخراطيم هواء ⁦3/8\"–2\"⁩ بضغط ⁦20⁩ بار"
               ],
               "en": [
@@ -14179,11 +14182,11 @@
               "ar": [
                 {
                   "label": "الوزن",
-                  "value": "⁦6–28⁩ كجم"
+                  "value": "⁦6⁠–⁠28⁩ كجم"
                 },
                 {
                   "label": "قطر الثقب",
-                  "value": "⁦20–70⁩ مم"
+                  "value": "⁦20⁠–⁠70⁩ مم"
                 },
                 {
                   "label": "عمق الحفر",
@@ -14294,15 +14297,15 @@
             },
             "coverImage": "/products/dth-water-well-drill-rigs/dth-water-well-drill-rigs.webp",
             "description": {
-              "ar": "حفارات ⁦DTH⁩ جنزيرية لثقوب التفجير والاستكشاف وآبار المياه من ⁦130⁩ إلى ⁦600⁩ م، وحفارات محمولة مدمجة لتزويد المخيمات بالماء، وحفارات ⁦DTH⁩ منفصلة من ⁦50⁩ إلى ⁦78⁩ كيلوواط تعمل بضاغط منفصل، ومتكاملة من ⁦162⁩ إلى ⁦264⁩ كيلوواط بهواء مدمج لثقوب التفجير بقطر ⁦65–165⁩ مم في المناجم المفتوحة والمحاجر.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "ar": "حفارات ⁦DTH⁩ جنزيرية لثقوب التفجير والاستكشاف وآبار المياه من ⁦130⁩ إلى ⁦600⁩ م، وحفارات محمولة مدمجة لتزويد المخيمات بالماء، وحفارات ⁦DTH⁩ منفصلة من ⁦50⁩ إلى ⁦78⁩ كيلوواط تعمل بضاغط منفصل، ومتكاملة من ⁦162⁩ إلى ⁦264⁩ كيلوواط بهواء مدمج لثقوب التفجير بقطر ⁦65⁠–⁠165⁩ مم في المناجم المفتوحة والمحاجر.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
               "en": "Crawler DTH rigs for blast holes, exploration and water wells from 130 m to 600 m, compact portable rigs for camp water supply, and separated (50–78 kW, separate compressor) and integrated (162–264 kW, on-board air) DTH rigs for 65–165 mm blast holes in open-pit mines and quarries.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
             },
             "features": {
               "ar": [
-                "⁦13⁩ حفارة جنزيرية بعمق ⁦130–600⁩ م وقطر ثقب ⁦100–350⁩ مم",
-                "سير ⁦2.5–3⁩ كم/س وصعود منحدر ⁦30°⁩، ومواسير حفر ⁦1.5–6.0⁩ م",
-                "حفارات آبار محمولة بعمق ⁦100–350⁩ م يشغّلها شخص واحد، تُورَّد بمضخة و⁦20⁩ م من المواسير",
-                "حفارات ⁦DTH⁩ منفصلة ومتكاملة لثقوب ⁦65–165⁩ مم"
+                "⁦13⁩ حفارة جنزيرية بعمق ⁦130⁠–⁠600⁩ م وقطر ثقب ⁦100⁠–⁠350⁩ مم",
+                "سير ⁦2.5⁠–⁠3⁩ كم/س وصعود منحدر ⁦30°⁩، ومواسير حفر ⁦1.5⁠–⁠6.0⁩ م",
+                "حفارات آبار محمولة بعمق ⁦100⁠–⁠350⁩ م يشغّلها شخص واحد، تُورَّد بمضخة و⁦20⁩ م من المواسير",
+                "حفارات ⁦DTH⁩ منفصلة ومتكاملة لثقوب ⁦65⁠–⁠165⁩ مم"
               ],
               "en": [
                 "13 crawler rigs, 130–600 m deep, 100–350 mm holes",
@@ -14316,15 +14319,15 @@
               "ar": [
                 {
                   "label": "العمق",
-                  "value": "⁦100–600⁩ م"
+                  "value": "⁦100⁠–⁠600⁩ م"
                 },
                 {
                   "label": "قطر الثقب",
-                  "value": "⁦65–420⁩ مم"
+                  "value": "⁦65⁠–⁠420⁩ مم"
                 },
                 {
                   "label": "القدرة",
-                  "value": "⁦23–264⁩ كيلوواط"
+                  "value": "⁦23⁠–⁠264⁩ كيلوواط"
                 }
               ],
               "en": [
@@ -14354,7 +14357,7 @@
                 "en": "Crawler DTH and Water-Well Drill Rigs to 600 m"
               },
               "description": {
-                "ar": "حفارات ⁦DTH⁩ جنزيرية بعمق ⁦130–600⁩ م، وحفارات آبار محمولة، وحفارات ⁦DTH⁩ منفصلة ومتكاملة للمناجم والمحاجر. التوريد للشرق الأوسط وأفريقيا.",
+                "ar": "حفارات ⁦DTH⁩ جنزيرية بعمق ⁦130⁠–⁠600⁩ م، وحفارات آبار محمولة، وحفارات ⁦DTH⁩ منفصلة ومتكاملة للمناجم والمحاجر. التوريد للشرق الأوسط وأفريقيا.",
                 "en": "Crawler DTH rigs from 130 to 600 m, portable water-well rigs, and separated and integrated DTH rigs for mines and quarries. Supply to the Middle East and Africa."
               }
             },
@@ -14366,7 +14369,7 @@
               "ar": [
                 {
                   "q": "ما الفرق بين حفارة DTH المنفصلة والمتكاملة؟",
-                  "a": "المنفصلة تعمل بضاغط هواء منفصل (⁦50–78⁩ كيلوواط) وتكلفتها أقل، والمتكاملة فيها ضاغط مدمج (⁦162–264⁩ كيلوواط) فتتحرك وتحفر وحدها أسرع في المحاجر والمناجم."
+                  "a": "المنفصلة تعمل بضاغط هواء منفصل (⁦50⁠–⁠78⁩ كيلوواط) وتكلفتها أقل، والمتكاملة فيها ضاغط مدمج (⁦162⁠–⁠264⁩ كيلوواط) فتتحرك وتحفر وحدها أسرع في المحاجر والمناجم."
                 },
                 {
                   "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
@@ -14436,10 +14439,10 @@
             },
             "features": {
               "ar": [
-                "⁦18⁩ ضاغطاً لولبياً بتدفق ⁦13–32⁩ م³/دقيقة (⁦455–1120 CFM⁩) وضغط ⁦7–18⁩ بار",
+                "⁦18⁩ ضاغطاً لولبياً بتدفق ⁦13⁠–⁠32⁩ م³/دقيقة (⁦455⁠–⁠1120 CFM⁩) وضغط ⁦7⁠–⁠18⁩ بار",
                 "محركات ديزل مثل ⁦6BTA5.9⁩ و⁦6CTA8.3⁩ و⁦YC6⁩ كما في الكتالوج",
                 "مقطورة بأربع عجلات",
-                "⁦8⁩ ضواغط مكبسية ⁦1.8–4.0⁩ م³/دقيقة بمحركات ⁦S1100–S1125⁩"
+                "⁦8⁩ ضواغط مكبسية ⁦1.8⁠–⁠4.0⁩ م³/دقيقة بمحركات ⁦S1100–S1125⁩"
               ],
               "en": [
                 "18 screw compressors, 13–32 m³/min (455–1120 CFM), 7–18 bar",
@@ -14453,15 +14456,15 @@
               "ar": [
                 {
                   "label": "التدفق اللولبي",
-                  "value": "⁦13–32⁩ م³/دقيقة"
+                  "value": "⁦13⁠–⁠32⁩ م³/دقيقة"
                 },
                 {
                   "label": "الضغط",
-                  "value": "⁦7–18⁩ بار"
+                  "value": "⁦7⁠–⁠18⁩ بار"
                 },
                 {
                   "label": "التدفق المكبسي",
-                  "value": "⁦1.8–4.0⁩ م³/دقيقة"
+                  "value": "⁦1.8⁠–⁠4.0⁩ م³/دقيقة"
                 }
               ],
               "en": [
@@ -14491,7 +14494,7 @@
                 "en": "Diesel Screw and Piston Air Compressors for Drilling"
               },
               "description": {
-                "ar": "ضواغط لولبية بالديزل ⁦13–32⁩ م³/دقيقة حتى ⁦18⁩ بار على مقطورة لحفر ⁦DTH⁩، وضواغط مكبسية للمثاقب. التوريد للشرق الأوسط وأفريقيا.",
+                "ar": "ضواغط لولبية بالديزل ⁦13⁠–⁠32⁩ م³/دقيقة حتى ⁦18⁩ بار على مقطورة لحفر ⁦DTH⁩، وضواغط مكبسية للمثاقب. التوريد للشرق الأوسط وأفريقيا.",
                 "en": "Diesel screw compressors, 13–32 m³/min up to 18 bar on a trailer for DTH drilling, and piston compressors for rock drills. Supply to the Middle East and Africa."
               }
             },
@@ -14503,7 +14506,7 @@
               "ar": [
                 {
                   "q": "كيف أختار الضاغط لحفارة DTH؟",
-                  "a": "طابق التدفق والضغط مع استهلاك الحفارة في جدولها: حفارات ⁦DTH⁩ الجنزيرية تستهلك ⁦15–42⁩ م³/دقيقة عند ⁦1.45–3.5⁩ ميغاباسكال (⁦14.5–35⁩ بار)، فاختر ضاغطاً لا يقل عنها."
+                  "a": "طابق التدفق والضغط مع استهلاك الحفارة في جدولها: حفارات ⁦DTH⁩ الجنزيرية تستهلك ⁦15⁠–⁠42⁩ م³/دقيقة عند ⁦1.45⁠–⁠3.5⁩ ميغاباسكال (⁦14.5⁠–⁠35⁩ بار)، فاختر ضاغطاً لا يقل عنها."
                 },
                 {
                   "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
@@ -14573,9 +14576,9 @@
             },
             "features": {
               "ar": [
-                "خمسة معاول ⁦G⁩ بوزن ⁦7.2–20⁩ كجم وطاقة صدمة ≥ ⁦43–55⁩ جول",
+                "خمسة معاول ⁦G⁩ بوزن ⁦7.2⁠–⁠20⁩ كجم وطاقة صدمة ≥ ⁦43⁠–⁠55⁩ جول",
                 "⁦35⁩ مقاساً من الأسافين للمعاول الهوائية والاستخدام اليدوي",
-                "ملاط تكسير بأربع درجات حسب حرارة الثقب (⁦0–50 °⁩م)",
+                "ملاط تكسير بأربع درجات حسب حرارة الثقب (⁦0⁠–⁠50 °⁩م)",
                 "بلا تفجير ولا تطاير حجارة ولا اهتزاز"
               ],
               "en": [
@@ -14673,11 +14676,11 @@
                   "label": "موديلاً ودرجة"
                 },
                 {
-                  "value": "⁦7.2–20⁩ كجم",
+                  "value": "⁦7.2⁠–⁠20⁩ كجم",
                   "label": "وزن المعول"
                 },
                 {
-                  "value": "⁦0–50 °⁩م",
+                  "value": "⁦0⁠–⁠50 °⁩م",
                   "label": "حرارة الثقب"
                 }
               ],
@@ -14710,9 +14713,9 @@
             },
             "features": {
               "ar": [
-                "ثماني كسارات هوائية بوزن ⁦7.2–42⁩ كجم وحتى ⁦1400⁩ ضربة/دقيقة",
+                "ثماني كسارات هوائية بوزن ⁦7.2⁠–⁠42⁩ كجم وحتى ⁦1400⁩ ضربة/دقيقة",
                 "ضغط الهواء ⁦0.63⁩ ميغاباسكال وخرطوم ⁦19⁩ مم",
-                "ثلاث مطارق كهربائية ⁦1800–3500⁩ واط بجهد ⁦220⁩ فولت",
+                "ثلاث مطارق كهربائية ⁦1800⁠–⁠3500⁩ واط بجهد ⁦220⁩ فولت",
                 "محطة هيدروليكية بالبنزين بمحرك ⁦Honda GX390⁩ ‏⁦13⁩ حصاناً وضغط ⁦155⁩ بار"
               ],
               "en": [
@@ -14727,15 +14730,15 @@
               "ar": [
                 {
                   "label": "وزن الكسارة",
-                  "value": "⁦7.2–42⁩ كجم"
+                  "value": "⁦7.2⁠–⁠42⁩ كجم"
                 },
                 {
                   "label": "المطارق الكهربائية",
-                  "value": "⁦1800–3500⁩ واط"
+                  "value": "⁦1800⁠–⁠3500⁩ واط"
                 },
                 {
                   "label": "المحطة الهيدروليكية",
-                  "value": "⁦155⁩ بار · ⁦20–30⁩ لتر/دقيقة"
+                  "value": "⁦155⁩ بار · ⁦20⁠–⁠30⁩ لتر/دقيقة"
                 }
               ],
               "en": [
@@ -14847,8 +14850,8 @@
             },
             "features": {
               "ar": [
-                "سبع أسطوانات ⁦BL⁩ بقوة فعلية ⁦260–700⁩ طن وزمن فلق ⁦5–12⁩ ثانية",
-                "قطر الثقب ⁦38–50⁩ مم وعرض الشق حتى ⁦40⁩ مم",
+                "سبع أسطوانات ⁦BL⁩ بقوة فعلية ⁦260⁠–⁠700⁩ طن وزمن فلق ⁦5⁠–⁠12⁩ ثانية",
+                "قطر الثقب ⁦38⁠–⁠50⁩ مم وعرض الشق حتى ⁦40⁩ مم",
                 "وحدات قدرة كهربائية أو ديزل أو بنزين تشغّل حتى ⁦10⁩ أسطوانات",
                 "فالقة هوائية ⁦HG15⁩ وفالقات مكبسية ⁦PA90–PA200⁩ لثقوب حتى ⁦200⁩ مم"
               ],
@@ -14864,15 +14867,15 @@
               "ar": [
                 {
                   "label": "القوة الفعلية",
-                  "value": "⁦260–700⁩ طن"
+                  "value": "⁦260⁠–⁠700⁩ طن"
                 },
                 {
                   "label": "قطر الثقب",
-                  "value": "⁦38–50⁩ مم"
+                  "value": "⁦38⁠–⁠50⁩ مم"
                 },
                 {
                   "label": "ضغط الوحدة",
-                  "value": "⁦55–64⁩ ميغاباسكال"
+                  "value": "⁦55⁠–⁠64⁩ ميغاباسكال"
                 }
               ],
               "en": [
@@ -14902,7 +14905,7 @@
                 "en": "Hydraulic Rock Splitters up to 700 t"
               },
               "description": {
-                "ar": "أسطوانات فلق هيدروليكية بقوة ⁦260–700⁩ طن ووحدات قدرة كهربائية وديزل وبنزين لفلق الصخر دون تفجير. التوريد للشرق الأوسط وأفريقيا.",
+                "ar": "أسطوانات فلق هيدروليكية بقوة ⁦260⁠–⁠700⁩ طن ووحدات قدرة كهربائية وديزل وبنزين لفلق الصخر دون تفجير. التوريد للشرق الأوسط وأفريقيا.",
                 "en": "Hydraulic splitter cylinders of 260–700 t with electric, diesel and gasoline power packs for splitting rock without blasting. Supply to the Middle East and Africa."
               }
             },
@@ -14914,7 +14917,7 @@
               "ar": [
                 {
                   "q": "كم أسطوانة تشغّل وحدة القدرة؟",
-                  "a": "وحدة ⁦1.5⁩ كيلوواط الكهربائية تشغّل ⁦1–3⁩ أسطوانات، والوحدات الأخرى (⁦4⁩ و⁦7.5⁩ كيلوواط كهرباء، و⁦4⁩ كيلوواط ديزل، و⁦9⁩ كيلوواط بنزين) تشغّل ⁦1–10⁩ أسطوانات."
+                  "a": "وحدة ⁦1.5⁩ كيلوواط الكهربائية تشغّل ⁦1⁠–⁠3⁩ أسطوانات، والوحدات الأخرى (⁦4⁩ و⁦7.5⁩ كيلوواط كهرباء، و⁦4⁩ كيلوواط ديزل، و⁦9⁩ كيلوواط بنزين) تشغّل ⁦1⁠–⁠10⁩ أسطوانات."
                 },
                 {
                   "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
@@ -14951,7 +14954,7 @@
                   "label": "أعلى قوة فعلية"
                 },
                 {
-                  "value": "⁦5–12⁩ ث",
+                  "value": "⁦5⁠–⁠12⁩ ث",
                   "label": "زمن الفلق"
                 }
               ],
@@ -14985,8 +14988,8 @@
             "features": {
               "ar": [
                 "خمس ماكينات بمثقاب إلى أربعة مثاقب ⁦YT24⁩ أو ⁦YT28⁩",
-                "مسار ⁦4.0–5.8⁩ م ووزن ⁦230–1300⁩ كجم دون المثاقب",
-                "حفارات ⁦BQ90⁩ بقطر ⁦65–90⁩ مم وعمق ⁦35–40⁩ م وسرعة ⁦6–8⁩ م/س",
+                "مسار ⁦4.0⁠–⁠5.8⁩ م ووزن ⁦230⁠–⁠1300⁩ كجم دون المثاقب",
+                "حفارات ⁦BQ90⁩ بقطر ⁦65⁠–⁠90⁩ مم وعمق ⁦35⁠–⁠40⁩ م وسرعة ⁦6⁠–⁠8⁩ م/س",
                 "تشغيل هوائي أو هوائي وكهربائي أو هوائي وهيدروليكي"
               ],
               "en": [
@@ -15005,11 +15008,11 @@
                 },
                 {
                   "label": "حفارات BQ90",
-                  "value": "⁦65–90⁩ مم · حتى ⁦40⁩ م"
+                  "value": "⁦65⁠–⁠90⁩ مم · حتى ⁦40⁩ م"
                 },
                 {
                   "label": "ضغط الهواء",
-                  "value": "⁦0.5–0.7⁩ ميغاباسكال"
+                  "value": "⁦0.5⁠–⁠0.7⁩ ميغاباسكال"
                 }
               ],
               "en": [
@@ -15121,7 +15124,7 @@
             },
             "features": {
               "ar": [
-                "تسع ماكينات ⁦15–90⁩ كيلوواط بطول سلك حتى ⁦150⁩ م",
+                "تسع ماكينات ⁦15⁠–⁠90⁩ كيلوواط بطول سلك حتى ⁦150⁩ م",
                 "شدّ ثابت للسلك بالعاكس ودوران الرأس ⁦360°⁩",
                 "خمسة أنواع من السلك الماسي للجرانيت والرخام وتربيع الكتل والمقاطع والألواح",
                 "حرارة التشغيل من −⁦15⁩ إلى +⁦40 °⁩م"
@@ -15138,15 +15141,15 @@
               "ar": [
                 {
                   "label": "قدرة المحرك",
-                  "value": "⁦15–90⁩ كيلوواط"
+                  "value": "⁦15⁠–⁠90⁩ كيلوواط"
                 },
                 {
                   "label": "سرعة السلك",
-                  "value": "⁦0–40⁩ م/ث"
+                  "value": "⁦0⁠–⁠40⁩ م/ث"
                 },
                 {
                   "label": "قطر الخرزة",
-                  "value": "⁦7.2–11.4⁩ مم"
+                  "value": "⁦7.2⁠–⁠11.4⁩ مم"
                 }
               ],
               "en": [
@@ -15176,7 +15179,7 @@
                 "en": "Diamond Wire Saws for Granite and Marble, 15–90 kW"
               },
               "description": {
-                "ar": "ماكينات منشار سلكي بعاكس ⁦15–90⁩ كيلوواط وخمسة أنواع من السلك الماسي للجرانيت والرخام. التوريد للشرق الأوسط وأفريقيا.",
+                "ar": "ماكينات منشار سلكي بعاكس ⁦15⁠–⁠90⁩ كيلوواط وخمسة أنواع من السلك الماسي للجرانيت والرخام. التوريد للشرق الأوسط وأفريقيا.",
                 "en": "Inverter wire saw machines, 15–90 kW, and five diamond wire types for granite and marble. Supply to the Middle East and Africa."
               }
             },
@@ -15258,10 +15261,10 @@
             },
             "features": {
               "ar": [
-                "أكياس مائية فولاذية بسماكة ⁦2⁩ مم تدخل في قطع المنشار، بقدرة دفع ⁦75–600⁩ طن",
-                "أكياس هوائية من البوليستر ⁦50–450⁩ طناً تعمل عند ⁦0–6⁩ بار",
-                "رافعات هيدروليكية ⁦100–300⁩ طن بشوط ⁦200⁩ مم",
-                "ماكينة قطع باللهب ⁦1–2⁩ م²/س بعمق حتى ⁦10⁩ م"
+                "أكياس مائية فولاذية بسماكة ⁦2⁩ مم تدخل في قطع المنشار، بقدرة دفع ⁦75⁠–⁠600⁩ طن",
+                "أكياس هوائية من البوليستر ⁦50⁠–⁠450⁩ طناً تعمل عند ⁦0⁠–⁠6⁩ بار",
+                "رافعات هيدروليكية ⁦100⁠–⁠300⁩ طن بشوط ⁦200⁩ مم",
+                "ماكينة قطع باللهب ⁦1⁠–⁠2⁩ م²/س بعمق حتى ⁦10⁩ م"
               ],
               "en": [
                 "Steel hydro-bags, 2 mm thick, slip into the saw cut; 75–600 t",
@@ -15275,15 +15278,15 @@
               "ar": [
                 {
                   "label": "الأكياس المائية",
-                  "value": "⁦75–600⁩ طن"
+                  "value": "⁦75⁠–⁠600⁩ طن"
                 },
                 {
                   "label": "الأكياس الهوائية",
-                  "value": "⁦50–450⁩ طن"
+                  "value": "⁦50⁠–⁠450⁩ طن"
                 },
                 {
                   "label": "الرافعات",
-                  "value": "⁦100–300⁩ طن"
+                  "value": "⁦100⁠–⁠300⁩ طن"
                 }
               ],
               "en": [
@@ -15313,7 +15316,7 @@
                 "en": "Block-Pushing Bags and Hydraulic Jacks for Quarries"
               },
               "description": {
-                "ar": "أكياس مائية فولاذية حتى ⁦600⁩ طن وأكياس هوائية حتى ⁦450⁩ طناً ورافعات هيدروليكية ⁦100–300⁩ طن لدفع الكتل. التوريد للشرق الأوسط وأفريقيا.",
+                "ar": "أكياس مائية فولاذية حتى ⁦600⁩ طن وأكياس هوائية حتى ⁦450⁩ طناً ورافعات هيدروليكية ⁦100⁠–⁠300⁩ طن لدفع الكتل. التوريد للشرق الأوسط وأفريقيا.",
                 "en": "Steel hydro-bags up to 600 t, air bags up to 450 t and 100–300 t hydraulic jacks for pushing blocks. Supply to the Middle East and Africa."
               }
             },
@@ -15325,7 +15328,7 @@
               "ar": [
                 {
                   "q": "ما الفرق بين الكيس المائي والكيس الهوائي؟",
-                  "a": "الكيس المائي الفولاذي رقيق (⁦2⁩ مم) فيدخل في قطع المنشار السلكي ويدفع حتى ⁦600⁩ طن بالماء، والكيس الهوائي من البوليستر قابل لإعادة الاستخدام ويدفع حتى ⁦450⁩ طناً بالهواء عند ⁦0–6⁩ بار."
+                  "a": "الكيس المائي الفولاذي رقيق (⁦2⁩ مم) فيدخل في قطع المنشار السلكي ويدفع حتى ⁦600⁩ طن بالماء، والكيس الهوائي من البوليستر قابل لإعادة الاستخدام ويدفع حتى ⁦450⁩ طناً بالهواء عند ⁦0⁠–⁠6⁩ بار."
                 },
                 {
                   "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
@@ -15362,7 +15365,7 @@
                   "label": "أعلى قدرة دفع"
                 },
                 {
-                  "value": "⁦0–6⁩ بار",
+                  "value": "⁦0⁠–⁠6⁩ بار",
                   "label": "الأكياس الهوائية"
                 }
               ],
@@ -15395,9 +15398,9 @@
             },
             "features": {
               "ar": [
-                "مراوح موضعية ⁦FBDY⁩ بتدفق ⁦76–1250⁩ م³/دقيقة وقدرة ⁦1.1–75⁩ كيلوواط ومسافة تهوية حتى ⁦10⁩ كم",
-                "مراوح رئيسية ⁦FBCDZ⁩ بتدفق ⁦18–399⁩ م³/ث",
-                "مراوح سطحية ⁦FBCZ⁩ بتدفق ⁦3.6–80⁩ م³/ث وقدرة ⁦5.5–132⁩ كيلوواط",
+                "مراوح موضعية ⁦FBDY⁩ بتدفق ⁦76⁠–⁠1250⁩ م³/دقيقة وقدرة ⁦1.1⁠–⁠75⁩ كيلوواط ومسافة تهوية حتى ⁦10⁩ كم",
+                "مراوح رئيسية ⁦FBCDZ⁩ بتدفق ⁦18⁠–⁠399⁩ م³/ث",
+                "مراوح سطحية ⁦FBCZ⁩ بتدفق ⁦3.6⁠–⁠80⁩ م³/ث وقدرة ⁦5.5⁠–⁠132⁩ كيلوواط",
                 "شبك تدعيم بحمل نظري ⁦60⁩ طن/م² ومقاومة شد > ⁦1000⁩ ميغاباسكال"
               ],
               "en": [
@@ -15412,11 +15415,11 @@
               "ar": [
                 {
                   "label": "المراوح الموضعية",
-                  "value": "⁦76–1250⁩ م³/دقيقة"
+                  "value": "⁦76⁠–⁠1250⁩ م³/دقيقة"
                 },
                 {
                   "label": "المراوح الرئيسية",
-                  "value": "⁦3.6–399⁩ م³/ث"
+                  "value": "⁦3.6⁠–⁠399⁩ م³/ث"
                 },
                 {
                   "label": "ألواح الشبك",
@@ -15515,6 +15518,1465 @@
                 {
                   "value": "60 t/m²",
                   "label": "Mesh load"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "drilling-consumables",
+        "title": {
+          "ar": "مستهلكات الحفر",
+          "en": "Drilling Consumables"
+        },
+        "products": [
+          {
+            "id": "dth-hammers-bits",
+            "name": {
+              "ar": "مطارق ولقم DTH",
+              "en": "DTH Hammers & Bits"
+            },
+            "coverImage": "/products/dth-hammers-bits/dth-hammers-bits.webp",
+            "description": {
+              "ar": "مطارق ⁦DTH⁩ للضغط العالي مع لقم الأزرار المطابقة لثقوب من ⁦90⁩ إلى ⁦400⁩ مم، ومطارق إضافية من ⁦1⁩ إلى ⁦12.5⁩ بوصة بصمام قدم أو بدونه لسيقان ⁦DHD⁩ و⁦SD⁩ و⁦QL⁩ و⁦Mission⁩، مع قائمة قطع غيار لكل موديل.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "High-pressure DTH hammers with matching button bits for holes from 90 mm to 400 mm, plus additional hammers from 1 to 12.5 in, with or without foot valve, for DHD, SD, QL and Mission bit shanks, each with a full spare-parts list.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦12⁩ مطرقة من سلسلتي ⁦M⁩ و⁦SD⁩ لثقوب ⁦90⁠–⁠400⁩ مم وضغط ⁦1.0⁠–⁠3.3⁩ ميغاباسكال",
+                "مطارق ولقم حسب المقاس من ⁦1\"⁩ إلى ⁦24\"⁩ لسيقان ⁦DHD⁩ و⁦COP⁩ و⁦QL⁩ و⁦NUMA⁩",
+                "مطارق بصمام قدم من ⁦3.5⁩ إلى ⁦12.5⁩ بوصة، وبلا صمام من ⁦1⁩ إلى ⁦12.5⁩ بوصة",
+                "قائمة قطع غيار لكل موديل: الوصلة العلوية والصمام وموزّع الهواء والأسطوانة والمكبس والظرف"
+              ],
+              "en": [
+                "12 hammers in the M and SD series for 90–400 mm holes at 1.0–3.3 MPa",
+                "Hammers and bits by size from 1\" to 24\" for DHD, COP, QL and NUMA shanks",
+                "Hammers with foot valve from 3.5 to 12.5 in, and without from 1 to 12.5 in",
+                "Spare-parts list for each model: top sub, check valve, air distributor, cylinder, piston and chuck"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "مدى الثقب",
+                  "value": "⁦90⁠–⁠400⁩ مم"
+                },
+                {
+                  "label": "ضغط التشغيل",
+                  "value": "⁦1.0⁠–⁠3.3⁩ ميغاباسكال"
+                },
+                {
+                  "label": "المقاسات",
+                  "value": "⁦1⁠–⁠12.5⁩ بوصة"
+                },
+                {
+                  "label": "السيقان",
+                  "value": "⁦DHD · SD · QL · Mission · NUMA⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Hole range",
+                  "value": "90–400 mm"
+                },
+                {
+                  "label": "Working pressure",
+                  "value": "1.0–3.3 MPa"
+                },
+                {
+                  "label": "Sizes",
+                  "value": "1–12.5 in"
+                },
+                {
+                  "label": "Shanks",
+                  "value": "DHD · SD · QL · Mission · NUMA"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/dth-hammers-bits/dth-hammers-bits.webp"
+            ],
+            "image": "/products/dth-hammers-bits/dth-hammers-bits.webp",
+            "cardImage": "/products/dth-hammers-bits/dth-hammers-bits.webp",
+            "seo": {
+              "title": {
+                "ar": "مطارق ولقم DTH للضغط العالي 90–400 مم",
+                "en": "High-Pressure DTH Hammers & Bits, 90–400 mm"
+              },
+              "description": {
+                "ar": "مطارق ⁦DTH⁩ للضغط العالي من سلسلتي ⁦M⁩ و⁦SD⁩ ولقمها لثقوب ⁦90⁠–⁠400⁩ مم، ومطارق ⁦1⁠–⁠12.5⁩ بوصة لسيقان ⁦DHD⁩ و⁦SD⁩ و⁦QL⁩ و⁦Mission⁩. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "High-pressure DTH hammers (M and SD series) and bits for 90–400 mm holes, and 1–12.5 in hammers for DHD, SD, QL and Mission shanks. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مطارق ⁦DTH⁩ للضغط العالي من سلسلتي ⁦M⁩ و⁦SD⁩، ومطارق إضافية بصمام قدم أو بدونه، ومطارق ولقم حسب المقاس. اختر من الجدول أدناه.",
+              "en": "High-pressure DTH hammers in the M and SD series, additional hammers with or without foot valve, and hammers and bits by size. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين المطرقة بصمام القدم وبدونه؟",
+                  "a": "المطرقة بصمام القدم تمنع رجوع الماء والفتات إلى المطرقة في الثقوب الرطبة، والنسخ ⁦A⁩ بلا صمام قدم، والنسخ ⁦S⁩ بقطر خارجي أصغر من القياسي. أرسل لنا قطر الثقب وضغط الضاغط لنحدد الموديل."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the difference between hammers with and without a foot valve?",
+                  "a": "A foot valve keeps water and cuttings from flowing back into the hammer in wet holes; A versions have no foot valve and S versions a smaller outer diameter. Send us the hole size and compressor pressure and we set the model."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "52",
+                  "label": "موديل مطرقة"
+                },
+                {
+                  "value": "⁦90⁠–⁠400⁩ مم",
+                  "label": "مدى الثقب"
+                },
+                {
+                  "value": "⁦1–24\"⁩",
+                  "label": "المقاسات"
+                }
+              ],
+              "en": [
+                {
+                  "value": "52",
+                  "label": "Hammer models"
+                },
+                {
+                  "value": "90–400 mm",
+                  "label": "Hole range"
+                },
+                {
+                  "value": "1–24\"",
+                  "label": "Sizes"
+                }
+              ]
+            }
+          },
+          {
+            "id": "high-pressure-dth-bits",
+            "name": {
+              "ar": "لقم DTH للضغط العالي",
+              "en": "High-Pressure DTH Bits"
+            },
+            "coverImage": "/products/high-pressure-dth-bits/high-pressure-dth-bits.webp",
+            "description": {
+              "ar": "لقم أزرار لكل سيقان مطارق الضغط العالي الشائعة من ⁦90⁩ إلى ⁦500⁩ مم، ولقم توسيع لتكبير الثقوب خلف لقمة قائدة، ولقم أزرار إضافية من ⁦60⁩ إلى ⁦305⁩ مم.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Button bits for all common high-pressure hammer shanks, from 90 mm to 500 mm, with reaming bits for enlarging holes behind a pilot bit and additional button bits from 60 to 305 mm.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦23⁩ لقمة حسب الساق: ⁦DHD⁩ و⁦QL⁩ و⁦SD⁩ و⁦Mission⁩ و⁦NUMA⁩",
+                "وجه مسطّح أو محدّب أو مقعّر، وأزرار كروية أو باليستية من الكربيد",
+                "لقم توسيع بقطر ⁦165⁠–⁠600⁩ مم خلف لقمة قائدة ⁦82⁠–⁠455⁩ مم",
+                "لقم أزرار إضافية ⁦60⁠–⁠152⁩ مم و⁦152⁠–⁠305⁩ مم لثقوب التفجير وآبار المياه"
+              ],
+              "en": [
+                "23 bits by shank: DHD, QL, SD, Mission and NUMA",
+                "Flat, convex or concave face; spherical or ballistic carbide buttons",
+                "Reaming bits 165–600 mm behind an 82–455 mm pilot",
+                "Additional button bits 60–152 mm and 152–305 mm for blast holes and water wells"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "قطر اللقمة",
+                  "value": "⁦90⁠–⁠500⁩ مم"
+                },
+                {
+                  "label": "فتحات الغسيل",
+                  "value": "⁦2–4⁩"
+                },
+                {
+                  "label": "قطر التوسيع",
+                  "value": "⁦165⁠–⁠600⁩ مم"
+                },
+                {
+                  "label": "الوزن",
+                  "value": "⁦4.7⁠–⁠331.2⁩ كجم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Bit Ø",
+                  "value": "90–500 mm"
+                },
+                {
+                  "label": "Flushing holes",
+                  "value": "2–4"
+                },
+                {
+                  "label": "Reaming Ø",
+                  "value": "165–600 mm"
+                },
+                {
+                  "label": "Weight",
+                  "value": "4.7–331.2 kg"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/high-pressure-dth-bits/high-pressure-dth-bits.webp"
+            ],
+            "image": "/products/high-pressure-dth-bits/high-pressure-dth-bits.webp",
+            "cardImage": "/products/high-pressure-dth-bits/high-pressure-dth-bits.webp",
+            "seo": {
+              "title": {
+                "ar": "لقم DTH للضغط العالي 90–500 مم ولقم التوسيع",
+                "en": "High-Pressure DTH Button Bits 90–500 mm and Reaming Bits"
+              },
+              "description": {
+                "ar": "لقم أزرار ⁦DTH⁩ للضغط العالي لسيقان ⁦DHD⁩ و⁦QL⁩ و⁦SD⁩ و⁦Mission⁩ و⁦NUMA⁩ من ⁦90⁩ إلى ⁦500⁩ مم، ولقم توسيع حتى ⁦600⁩ مم. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "High-pressure DTH button bits for DHD, QL, SD, Mission and NUMA shanks from 90 to 500 mm, and reaming bits up to 600 mm. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "لقم أزرار للضغط العالي لكل السيقان الشائعة، ولقم توسيع، ولقم إضافية ⁦60⁠–⁠305⁩ مم. اختر من الجدول أدناه حسب ساق مطرقتك.",
+              "en": "High-pressure button bits for all common shanks, reaming bits and additional 60–305 mm bits. Pick from the table below by your hammer shank."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كيف أختار اللقمة المناسبة لمطرقتي؟",
+                  "a": "ابدأ بنوع ساق المطرقة (⁦DHD⁩ أو ⁦QL⁩ أو ⁦SD⁩ أو ⁦Mission⁩ أو ⁦NUMA⁩)، ثم قطر الثقب المطلوب، ثم شكل الوجه والأزرار حسب صلابة الصخر: الوجه المحدّب والأزرار الباليستية للصخر الطري والمتوسط، والمسطّح والكروية للصلب والكاشط."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How do I choose the bit for my hammer?",
+                  "a": "Start from the hammer shank (DHD, QL, SD, Mission or NUMA), then the hole size, then the face and buttons for the rock: convex face and ballistic buttons for soft to medium rock, flat face and spherical buttons for hard, abrasive rock."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "23",
+                  "label": "لقمة حسب الساق"
+                },
+                {
+                  "value": "⁦90⁠–⁠500⁩ مم",
+                  "label": "قطر اللقمة"
+                },
+                {
+                  "value": "⁦600⁩ مم",
+                  "label": "أقصى توسيع"
+                }
+              ],
+              "en": [
+                {
+                  "value": "23",
+                  "label": "Bits by shank"
+                },
+                {
+                  "value": "90–500 mm",
+                  "label": "Bit Ø"
+                },
+                {
+                  "value": "600 mm",
+                  "label": "Max. reaming Ø"
+                }
+              ]
+            }
+          },
+          {
+            "id": "low-medium-pressure-dth-tools",
+            "name": {
+              "ar": "أدوات DTH للضغط المنخفض والمتوسط",
+              "en": "Low & Medium-Pressure DTH Tools"
+            },
+            "coverImage": "/products/low-medium-pressure-dth-tools/low-medium-pressure-dth-tools.webp",
+            "description": {
+              "ar": "مطارق ولقم ⁦CIR⁩ تعمل على ضواغط ديزل صغيرة (⁦4⁠–⁠14⁩ بار)، وتناسب المناجم الصغيرة والمتوسطة، ومطارق للضغط المتوسط لثقوب ⁦64⁠–⁠110⁩ مم.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "CIR hammers and bits that run on small diesel compressors (4–14 bar), well suited to small and medium mines, plus medium-pressure hammers for 64–110 mm holes.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦9⁩ مطارق ⁦CIR⁩ من ⁦CIR50⁩ إلى ⁦CIR200⁩ بلقم ⁦50⁠–⁠250⁩ مم",
+                "ضغط تشغيل ⁦4⁠–⁠14⁩ بار واستهلاك هواء ⁦4⁠–⁠20⁩ م³/دقيقة",
+                "⁦9⁩ لقم للضغط المنخفض من ⁦76⁩ إلى ⁦210⁩ مم مطابقة لكل مطرقة",
+                "⁦3⁩ مطارق للضغط المتوسط ⁦BR1⁩ و⁦BR2⁩ و⁦BR3⁩ عند ⁦0.7⁠–⁠1.75⁩ ميغاباسكال"
+              ],
+              "en": [
+                "9 CIR hammers from CIR50 to CIR200 with 50–250 mm bits",
+                "Working pressure 4–14 bar, air use 4–20 m³/min",
+                "9 low-pressure bits from 76 to 210 mm matched to each hammer",
+                "3 medium-pressure hammers BR1, BR2 and BR3 at 0.7–1.75 MPa"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "ضغط التشغيل",
+                  "value": "⁦4⁠–⁠14⁩ بار"
+                },
+                {
+                  "label": "قطر اللقمة",
+                  "value": "⁦50⁠–⁠250⁩ مم"
+                },
+                {
+                  "label": "استهلاك الهواء",
+                  "value": "⁦4⁠–⁠20⁩ م³/دقيقة"
+                },
+                {
+                  "label": "الوزن",
+                  "value": "⁦5⁠–⁠130⁩ كجم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Working pressure",
+                  "value": "4–14 bar"
+                },
+                {
+                  "label": "Bit Ø",
+                  "value": "50–250 mm"
+                },
+                {
+                  "label": "Air use",
+                  "value": "4–20 m³/min"
+                },
+                {
+                  "label": "Weight",
+                  "value": "5–130 kg"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/low-medium-pressure-dth-tools/low-medium-pressure-dth-tools.webp"
+            ],
+            "image": "/products/low-medium-pressure-dth-tools/low-medium-pressure-dth-tools.webp",
+            "cardImage": "/products/low-medium-pressure-dth-tools/low-medium-pressure-dth-tools.webp",
+            "seo": {
+              "title": {
+                "ar": "مطارق ولقم CIR للضغط المنخفض 4–14 بار",
+                "en": "Low-Pressure CIR DTH Hammers & Bits, 4–14 bar"
+              },
+              "description": {
+                "ar": "مطارق ولقم ⁦DTH⁩ من سلسلة ⁦CIR⁩ للضغط المنخفض ⁦4⁠–⁠14⁩ بار ومطارق ⁦BR⁩ للضغط المتوسط، للمناجم الصغيرة والمتوسطة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Low-pressure CIR DTH hammers and bits (4–14 bar) and medium-pressure BR hammers for small and medium mines. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مطارق ولقم ⁦CIR⁩ للضغط المنخفض ومطارق ⁦BR⁩ للضغط المتوسط تعمل على ضواغط صغيرة. اختر من الجدول أدناه.",
+              "en": "Low-pressure CIR hammers and bits and medium-pressure BR hammers that run on small compressors. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل تعمل مطارق CIR على ضاغط صغير؟",
+                  "a": "نعم، تعمل عند ⁦4⁠–⁠14⁩ بار وتستهلك ⁦4⁠–⁠20⁩ م³/دقيقة حسب الموديل، فتكفيها ضواغط الديزل الصغيرة. قارن استهلاك المطرقة في الجدول بتدفق ضاغطك."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Do CIR hammers run on a small compressor?",
+                  "a": "Yes. They work at 4–14 bar and use 4–20 m³/min depending on the model, so small diesel compressors are enough. Compare the hammer's air use in the table with your compressor's delivery."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "21",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦4⁠–⁠14⁩ بار",
+                  "label": "ضغط التشغيل"
+                },
+                {
+                  "value": "⁦50⁠–⁠250⁩ مم",
+                  "label": "قطر اللقمة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "21",
+                  "label": "Models"
+                },
+                {
+                  "value": "4–14 bar",
+                  "label": "Working pressure"
+                },
+                {
+                  "value": "50–250 mm",
+                  "label": "Bit Ø"
+                }
+              ]
+            }
+          },
+          {
+            "id": "overburden-casing-systems",
+            "name": {
+              "ar": "أنظمة التغليف في التربة السطحية",
+              "en": "Overburden Casing Systems"
+            },
+            "coverImage": "/products/overburden-casing-systems/overburden-casing-systems.webp",
+            "description": {
+              "ar": "أنظمة حفر وتغليف في مرحلة واحدة عبر الرمل والحصى والأرض المفككة، لآبار المياه والمراسي وثقوب الاستكشاف؛ ينزل أنبوب التغليف خلف اللقمة ويبقى في الثقب.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Drill-and-case systems for one pass through loose sand, gravel and broken ground, for water wells, anchors and exploration holes; the casing tube follows the bit down and stays in the hole.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "لقمة حلقية متحدة المركز (سلسلة ⁦P⁩) لتغليف ⁦108⁠–⁠560⁩ مم",
+                "أنظمة لامركزية بموسّع واحد أو دوّارين أو خماسية، وموديلات منزلقة وحلقية وكتلية",
+                "تغليف حتى ⁦1150⁩ مم ولقمة مفتوحة حتى ⁦1245⁩ مم",
+                "تغليف ملولب ⁦T38⁩ وتغليف مزدوج ⁦R56⁩ للمطرقة العلوية"
+              ],
+              "en": [
+                "Concentric ring bit (P series) for 108–560 mm casing",
+                "Eccentric systems with single reamer, dual rotor or five-piece, plus slide, ring and block models",
+                "Casing up to 1150 mm and expanded bit up to 1245 mm",
+                "T38 thread casing and R56 double casing for top-hammer drilling"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "قطر التغليف",
+                  "value": "⁦89⁠–⁠1150⁩ مم"
+                },
+                {
+                  "label": "قطر اللقمة المفتوحة",
+                  "value": "⁦94⁠–⁠1245⁩ مم"
+                },
+                {
+                  "label": "المطارق",
+                  "value": "من ⁦CIR76⁩ إلى ⁦33\"⁩"
+                },
+                {
+                  "label": "الأنظمة",
+                  "value": "10"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Casing Ø",
+                  "value": "89–1150 mm"
+                },
+                {
+                  "label": "Expanded bit Ø",
+                  "value": "94–1245 mm"
+                },
+                {
+                  "label": "Hammers",
+                  "value": "CIR76 to 33\""
+                },
+                {
+                  "label": "Systems",
+                  "value": "10"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/overburden-casing-systems/overburden-casing-systems.webp"
+            ],
+            "image": "/products/overburden-casing-systems/overburden-casing-systems.webp",
+            "cardImage": "/products/overburden-casing-systems/overburden-casing-systems.webp",
+            "seo": {
+              "title": {
+                "ar": "أنظمة التغليف أثناء الحفر في التربة السطحية",
+                "en": "Overburden Casing Systems: Drill and Case in One Pass"
+              },
+              "description": {
+                "ar": "أنظمة حفر وتغليف متحدة المركز ولامركزية لتغليف ⁦89⁠–⁠1150⁩ مم في الرمل والحصى، لآبار المياه وثقوب الاستكشاف. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Concentric and eccentric drill-and-case systems for 89–1150 mm casing in sand and gravel, for water wells and exploration holes. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "عشرة أنظمة للحفر والتغليف معاً في التربة المفككة، متحدة المركز ولامركزية وملولبة. اختر النظام من قطر التغليف والمطرقة.",
+              "en": "Ten systems for drilling and casing together in loose ground: concentric, eccentric and threaded. Pick the system by casing size and hammer."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "متى أختار النظام متحد المركز ومتى اللامركزي؟",
+                  "a": "النظام متحد المركز (لقمة حلقية) أدق في الاستقامة ويناسب الثقوب العميقة والتغليف الكبير، واللامركزي أبسط وأقل كلفة ويُسحب من داخل التغليف بعد الوصول إلى الصخر."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "When do I choose a concentric or an eccentric system?",
+                  "a": "A concentric (ring-bit) system drills straighter and suits deep holes and large casing; an eccentric system is simpler, costs less and is pulled back through the casing once rock is reached."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "10",
+                  "label": "أنظمة"
+                },
+                {
+                  "value": "⁦1150⁩ مم",
+                  "label": "أقصى تغليف"
+                },
+                {
+                  "value": "⁦1245⁩ مم",
+                  "label": "أقصى لقمة مفتوحة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "10",
+                  "label": "Systems"
+                },
+                {
+                  "value": "1150 mm",
+                  "label": "Max. casing"
+                },
+                {
+                  "value": "1245 mm",
+                  "label": "Max. expanded bit"
+                }
+              ]
+            }
+          },
+          {
+            "id": "dth-pipes-back-hammers-breakout-benches",
+            "name": {
+              "ar": "مواسير DTH والمطارق العكسية ومناضد الفك",
+              "en": "DTH Pipes, Back Hammers & Breakout Benches"
+            },
+            "coverImage": "/products/dth-pipes-back-hammers-breakout-benches/dth-pipes-back-hammers-breakout-benches.webp",
+            "description": {
+              "ar": "مواسير حفر ملحومة بالاحتكاك مع وصلات التحويل المطابقة وأنابيب التغليف، ومطارق عكسية لتحرير الأعمدة العالقة، ومناضد لفك المطارق وصيانتها.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Friction-welded drill pipes with matching subs, casing tubes, back hammers to free stuck strings and benches for hammer service.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "مواسير ⁦76⁠–⁠127⁩ مم بفولاذ ⁦R780⁩ و⁦G105⁩ و⁦S135⁩ وأطوال ⁦1000⁠–⁠6000⁩ مم",
+                "وصلات تحويل من ⁦2 3/8\"⁩ إلى ⁦4 1/2\"⁩، وأنابيب تغليف ⁦114⁠–⁠273⁩ مم",
+                "⁦4⁩ مطارق عكسية ⁦BH⁩ بوزن ⁦34⁠–⁠123.5⁩ كجم",
+                "منضدة فك كهربائية ⁦4.5⁩ كيلوواط بعزم حتى ⁦88,000⁩ نيوتن·م"
+              ],
+              "en": [
+                "Pipes 76–127 mm in R780, G105 and S135 steel, 1000–6000 mm long",
+                "Subs from 2 3/8\" to 4 1/2\" threads, and 114–273 mm casing tubes",
+                "4 BH back hammers, 34–123.5 kg",
+                "Electric breakout bench, 4.5 kW, up to 88,000 N·m torque"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "قطر الماسورة",
+                  "value": "⁦76⁠–⁠127⁩ مم"
+                },
+                {
+                  "label": "الطول",
+                  "value": "⁦1000⁠–⁠6000⁩ مم"
+                },
+                {
+                  "label": "المطارق العكسية",
+                  "value": "⁦155⁠–⁠240⁩ مم"
+                },
+                {
+                  "label": "عزم منضدة الفك",
+                  "value": "⁦88,000⁩ نيوتن·م"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Pipe Ø",
+                  "value": "76–127 mm"
+                },
+                {
+                  "label": "Length",
+                  "value": "1000–6000 mm"
+                },
+                {
+                  "label": "Back hammers",
+                  "value": "155–240 mm"
+                },
+                {
+                  "label": "Bench torque",
+                  "value": "88,000 N·m"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/dth-pipes-back-hammers-breakout-benches/dth-pipes-back-hammers-breakout-benches.webp"
+            ],
+            "image": "/products/dth-pipes-back-hammers-breakout-benches/dth-pipes-back-hammers-breakout-benches.webp",
+            "cardImage": "/products/dth-pipes-back-hammers-breakout-benches/dth-pipes-back-hammers-breakout-benches.webp",
+            "seo": {
+              "title": {
+                "ar": "مواسير حفر DTH والمطارق العكسية ومناضد الفك",
+                "en": "DTH Drill Pipes, Back Hammers and Breakout Benches"
+              },
+              "description": {
+                "ar": "مواسير حفر ⁦DTH⁩ بقطر ⁦76⁠–⁠127⁩ مم وأطوال حتى ⁦6000⁩ مم، ومطارق عكسية ⁦BH⁩، ومناضد فك بعزم حتى ⁦88,000⁩ نيوتن·م. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "DTH drill pipes 76–127 mm up to 6000 mm long, BH back hammers and breakout benches up to 88,000 N·m. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مواسير ⁦DTH⁩ ووصلاتها، ومطارق عكسية، ومناضد فك يدوية وكهربائية. اختر من الجدول أدناه.",
+              "en": "DTH pipes and subs, back hammers, and manual and electric breakout benches. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما فائدة المطرقة العكسية؟",
+                  "a": "تُركّب فوق عمود الحفر وتطرق للأعلى لتحرير المطرقة والمواسير العالقة في الثقب بدل فقدانها. اختر الموديل حسب سن الوصلة وقطر المطرقة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is a back hammer for?",
+                  "a": "It fits above the string and hammers upwards to free a stuck hammer and pipes instead of losing them in the hole. Choose the model by connection thread and hammer size."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "10",
+                  "label": "موديلات"
+                },
+                {
+                  "value": "⁦6000⁩ مم",
+                  "label": "أطول ماسورة"
+                },
+                {
+                  "value": "⁦88,000⁩ نيوتن·م",
+                  "label": "عزم الفك"
+                }
+              ],
+              "en": [
+                {
+                  "value": "10",
+                  "label": "Models"
+                },
+                {
+                  "value": "6000 mm",
+                  "label": "Longest pipe"
+                },
+                {
+                  "value": "88,000 N·m",
+                  "label": "Breakout torque"
+                }
+              ]
+            }
+          },
+          {
+            "id": "reverse-circulation-rc-tools",
+            "name": {
+              "ar": "أدوات الدوران العكسي (RC)",
+              "en": "Reverse Circulation (RC) Tools"
+            },
+            "coverImage": "/products/reverse-circulation-rc-tools/reverse-circulation-rc-tools.webp",
+            "description": {
+              "ar": "مطارق ولقم ومواسير مزدوجة الجدار للدوران العكسي توصل عينات صخرية نظيفة غير ملوثة لعينات استكشاف الذهب.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "RC hammers, bits and double-wall pipes that deliver clean, uncontaminated rock chips for gold exploration sampling.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦4⁩ مطارق ⁦RC⁩ لثقوب ⁦112⁠–⁠150⁩ مم بوصلات ⁦Remet⁩",
+                "لقم بوجه منخفض المركز وأزرار كروية من ⁦115⁩ إلى ⁦178⁩ مم",
+                "مواسير مزدوجة الجدار بالرفع الهوائي ومواسير ⁦CSR⁩",
+                "مواسير بأطوال ⁦3⁩ و⁦6⁩ و⁦9.5⁩ م"
+              ],
+              "en": [
+                "4 RC hammers for 112–150 mm holes with Remet connections",
+                "Drop-centre bits with domed buttons from 115 to 178 mm",
+                "Air-lift double-wall pipes and CSR (centre sample recovery) pipes",
+                "Pipes 3, 6 and 9.5 m long"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "قطر الثقب",
+                  "value": "⁦112⁠–⁠150⁩ مم"
+                },
+                {
+                  "label": "ضغط التشغيل",
+                  "value": "⁦1.2⁠–⁠3.0⁩ ميغاباسكال"
+                },
+                {
+                  "label": "الأنبوب الخارجي",
+                  "value": "⁦76⁠–⁠219⁩ مم"
+                },
+                {
+                  "label": "الطول",
+                  "value": "⁦3⁠–⁠9.5⁩ م"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Hole Ø",
+                  "value": "112–150 mm"
+                },
+                {
+                  "label": "Working pressure",
+                  "value": "1.2–3.0 MPa"
+                },
+                {
+                  "label": "Outer tube",
+                  "value": "76–219 mm"
+                },
+                {
+                  "label": "Length",
+                  "value": "3–9.5 m"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/reverse-circulation-rc-tools/reverse-circulation-rc-tools.webp"
+            ],
+            "image": "/products/reverse-circulation-rc-tools/reverse-circulation-rc-tools.webp",
+            "cardImage": "/products/reverse-circulation-rc-tools/reverse-circulation-rc-tools.webp",
+            "seo": {
+              "title": {
+                "ar": "أدوات الحفر بالدوران العكسي RC لاستكشاف الذهب",
+                "en": "Reverse Circulation (RC) Drilling Tools for Gold Exploration"
+              },
+              "description": {
+                "ar": "مطارق ⁦RC⁩ لثقوب ⁦112⁠–⁠150⁩ مم ولقمها، ومواسير مزدوجة الجدار ومواسير ⁦CSR⁩ لعينات نظيفة في استكشاف الذهب. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "RC hammers and bits for 112–150 mm holes, double-wall and CSR pipes for clean samples in gold exploration. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مطارق ولقم ومواسير الدوران العكسي لعينات فتات نظيفة في استكشاف الذهب. اختر من الجدول أدناه.",
+              "en": "RC hammers, bits and pipes for clean chip samples in gold exploration. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا يُفضَّل الدوران العكسي في استكشاف الذهب؟",
+                  "a": "تصعد العينة داخل الأنبوب الداخلي للماسورة المزدوجة فلا تختلط بجدار الثقب، فتصل نظيفة وتمثّل العمق بدقة، وهي أسرع وأقل كلفة من الحفر اللبّي."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why is RC preferred in gold exploration?",
+                  "a": "The sample travels up inside the inner tube of the double-wall pipe without touching the hole wall, so it arrives clean and true to depth, faster and cheaper than core drilling."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "4",
+                  "label": "مطارق RC"
+                },
+                {
+                  "value": "10",
+                  "label": "مواسير مزدوجة"
+                },
+                {
+                  "value": "⁦112⁠–⁠150⁩ مم",
+                  "label": "قطر الثقب"
+                }
+              ],
+              "en": [
+                {
+                  "value": "4",
+                  "label": "RC hammers"
+                },
+                {
+                  "value": "10",
+                  "label": "Double-wall pipes"
+                },
+                {
+                  "value": "112–150 mm",
+                  "label": "Hole Ø"
+                }
+              ]
+            }
+          },
+          {
+            "id": "tricone-pdc-core-drilling-tools",
+            "name": {
+              "ar": "لقم ثلاثية المخاريط وPDC وأدوات الحفر اللبّي",
+              "en": "Tricone, PDC & Core Drilling Tools"
+            },
+            "coverImage": "/products/tricone-pdc-core-drilling-tools/tricone-pdc-core-drilling-tools.webp",
+            "description": {
+              "ar": "لقم دورانية لآبار المياه وثقوب التفجير والطبقات من اللينة إلى الصلبة، ولقم لب ماسية للحفر الاستكشافي، مع سلاسل ⁦PDC⁩ وثلاثية المخاريط إضافية.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Rotary bits for water wells, blast holes and soft to hard formations, plus diamond core bits for exploration coring, with additional PDC and tricone series.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "لقم ثلاثية المخاريط ⁦3 3/4\"–26\"⁩ بأسنان فولاذية أو إدخالات كربيد",
+                "لقم ⁦PDC⁩ من ⁦3⁩ إلى ⁦7⁩ شفرات بقطر ⁦88.9⁠–⁠444.5⁩ مم",
+                "لقم تعدين مبرّدة بالهواء ⁦IADC 412⁠–⁠845⁩ ولقم غير محكمة ⁦IADC 111⁠–⁠631⁩",
+                "لقم لب مترية ودولية (⁦AQ⁩ إلى ⁦PQ⁩ و⁦AW⁩ إلى ⁦PW⁩) وتيجان بستة أشكال"
+              ],
+              "en": [
+                "Tricone bits 3 3/4\"–26\" with steel teeth or carbide inserts",
+                "PDC bits with 3 to 7 blades, 88.9–444.5 mm",
+                "Air-cooled mining bits IADC 412–845 and non-sealed bits IADC 111–631",
+                "Metric and international core bits (AQ to PQ, AW to PW) and six crown types"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "اللقم ثلاثية المخاريط",
+                  "value": "⁦95.3⁠–⁠660.4⁩ مم"
+                },
+                {
+                  "label": "لقم PDC",
+                  "value": "⁦88.9⁠–⁠444.5⁩ مم"
+                },
+                {
+                  "label": "IADC",
+                  "value": "⁦111–845⁩"
+                },
+                {
+                  "label": "لقم اللب",
+                  "value": "Ø⁦28⁠–⁠200⁩ مم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Tricone bits",
+                  "value": "95.3–660.4 mm"
+                },
+                {
+                  "label": "PDC bits",
+                  "value": "88.9–444.5 mm"
+                },
+                {
+                  "label": "IADC",
+                  "value": "111–845"
+                },
+                {
+                  "label": "Core bits",
+                  "value": "Ø28–200 mm"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/tricone-pdc-core-drilling-tools/tricone-pdc-core-drilling-tools.webp"
+            ],
+            "image": "/products/tricone-pdc-core-drilling-tools/tricone-pdc-core-drilling-tools.webp",
+            "cardImage": "/products/tricone-pdc-core-drilling-tools/tricone-pdc-core-drilling-tools.webp",
+            "seo": {
+              "title": {
+                "ar": "لقم ثلاثية المخاريط وPDC ولقم الحفر اللبّي",
+                "en": "Tricone, PDC and Core Drilling Bits"
+              },
+              "description": {
+                "ar": "لقم ثلاثية المخاريط ⁦3 3/4\"–26\"⁩ ولقم ⁦PDC⁩ من ⁦88.9⁩ إلى ⁦444.5⁩ مم ولقم لب مترية ودولية للتعدين وآبار المياه والاستكشاف. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Tricone bits 3 3/4\"–26\", PDC bits 88.9–444.5 mm and metric and international core bits for mining, water wells and exploration. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "لقم ثلاثية المخاريط و⁦PDC⁩ وأدوات حفر لبّي، مع سلاسل إضافية للتعدين وآبار المياه. اختر من الجدول أدناه.",
+              "en": "Tricone, PDC and core drilling tools, with additional series for mining and water wells. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما معنى رمز IADC؟",
+                  "a": "رمز من ثلاثة أرقام يصف نوع اللقمة وصلابة الطبقة التي تناسبها ونوع المحامل: الأرقام المنخفضة للطبقات اللينة والمرتفعة للصلبة. أرسل لنا نوع الصخر لنقترح الرمز المناسب."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What does the IADC code mean?",
+                  "a": "A three-digit code that describes the bit type, the formation hardness it suits and the bearing type: low numbers for soft formations, high numbers for hard ones. Send us the rock type and we suggest the right code."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "44",
+                  "label": "موديلاً وكوداً إضافياً"
+                },
+                {
+                  "value": "⁦3 3/4–26\"⁩",
+                  "label": "اللقم ثلاثية المخاريط"
+                },
+                {
+                  "value": "⁦111–845⁩",
+                  "label": "IADC"
+                }
+              ],
+              "en": [
+                {
+                  "value": "44",
+                  "label": "Additional models & codes"
+                },
+                {
+                  "value": "3 3/4–26\"",
+                  "label": "Tricone bits"
+                },
+                {
+                  "value": "111–845",
+                  "label": "IADC"
+                }
+              ]
+            }
+          },
+          {
+            "id": "tapered-threaded-drilling-tools",
+            "name": {
+              "ar": "أدوات الحفر المخروطية والمسننة",
+              "en": "Tapered & Threaded Drilling Tools"
+            },
+            "coverImage": "/products/tapered-threaded-drilling-tools/tapered-threaded-drilling-tools.webp",
+            "description": {
+              "ar": "قضبان ولقم مخروطية للمثاقب اليدوية وذات الساق الهوائية، وأدوات ملولبة للمطرقة العلوية في الحفارات، مع سلاسل إضافية من الفولاذ المتكامل والقضبان واللقم والجلب ومحولات الساق.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Tapered rods and bits for hand-held and air-leg drills, threaded top-hammer tools for drill rigs, and additional series of integral steels, rods, bits, coupling sleeves and shank adapters.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "لقم أزرار مخروطية ⁦6°⁩ و⁦7°⁩ و⁦11°⁩ و⁦12°⁩، ولقم إزميلية وصليبية ⁦20⁠–⁠55⁩ مم",
+                "قضبان مخروطية بساق سداسية ⁦H22 × 108⁩ بأطوال ⁦800⁠–⁠6000⁩ مم",
+                "لقم وقضبان ملولبة من ⁦R23⁩ إلى ⁦ST68⁩ لحفر الأنفاق والحفر المدرّج والثقوب الطويلة",
+                "جلب ومحولات ساق لأشهر طرازات مثاقب الأنفاق"
+              ],
+              "en": [
+                "Tapered button bits 6°, 7°, 11° and 12°, and chisel and cross bits 20–55 mm",
+                "Tapered rods with H22 × 108 hex shank, 800–6000 mm long",
+                "Threaded bits and rods from R23 to ST68 for tunnelling, bench and long-hole drilling",
+                "Coupling sleeves and shank adapters for the main drifter makes"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "ساق القضبان المخروطية",
+                  "value": "⁦H22 × 108⁩"
+                },
+                {
+                  "label": "أسنان الأدوات الملولبة",
+                  "value": "⁦R23–ST68⁩"
+                },
+                {
+                  "label": "أطوال القضبان",
+                  "value": "⁦360⁠–⁠6000⁩ مم"
+                },
+                {
+                  "label": "قطر اللقم المخروطية",
+                  "value": "⁦20⁠–⁠55⁩ مم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Tapered rod shank",
+                  "value": "H22 × 108"
+                },
+                {
+                  "label": "Threads",
+                  "value": "R23–ST68"
+                },
+                {
+                  "label": "Rod lengths",
+                  "value": "360–6000 mm"
+                },
+                {
+                  "label": "Tapered bit Ø",
+                  "value": "20–55 mm"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/tapered-threaded-drilling-tools/tapered-threaded-drilling-tools.webp"
+            ],
+            "image": "/products/tapered-threaded-drilling-tools/tapered-threaded-drilling-tools.webp",
+            "cardImage": "/products/tapered-threaded-drilling-tools/tapered-threaded-drilling-tools.webp",
+            "seo": {
+              "title": {
+                "ar": "أدوات الحفر المخروطية والملولبة للمطرقة العلوية",
+                "en": "Tapered and Threaded Top-Hammer Drilling Tools"
+              },
+              "description": {
+                "ar": "لقم وقضبان مخروطية ⁦H22 × 108⁩، وأدوات ملولبة ⁦R23–ST68⁩ للأنفاق والحفر المدرّج، وجلب ومحولات ساق. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Tapered bits and rods (H22 × 108), threaded R23–ST68 tools for tunnelling and bench drilling, coupling sleeves and shank adapters. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أدوات مخروطية للمثاقب اليدوية وأدوات ملولبة للحفارات، مع جلب ومحولات ساق. اختر من الجدول أدناه.",
+              "en": "Tapered tools for hand-held drills and threaded tools for rigs, with coupling sleeves and shank adapters. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "متى أستخدم الأدوات المخروطية ومتى الملولبة؟",
+                  "a": "الأدوات المخروطية للمثاقب اليدوية وذات الساق الهوائية في الثقوب القصيرة، والأدوات الملولبة للحفارات بالمطرقة العلوية حين تُوصل القضبان لثقوب أطول في الأنفاق والحفر المدرّج."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "When do I use tapered or threaded tools?",
+                  "a": "Tapered tools are for hand-held and air-leg drills in short holes; threaded tools are for top-hammer rigs where rods are coupled for longer holes in tunnelling and bench drilling."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "25",
+                  "label": "خط منتج"
+                },
+                {
+                  "value": "⁦R23–ST68⁩",
+                  "label": "الأسنان"
+                },
+                {
+                  "value": "⁦6000⁩ مم",
+                  "label": "أطول قضيب"
+                }
+              ],
+              "en": [
+                {
+                  "value": "25",
+                  "label": "Product lines"
+                },
+                {
+                  "value": "R23–ST68",
+                  "label": "Threads"
+                },
+                {
+                  "value": "6000 mm",
+                  "label": "Longest rod"
+                }
+              ]
+            }
+          },
+          {
+            "id": "button-bit-grinders",
+            "name": {
+              "ar": "ماكينات تجليخ لقم الأزرار",
+              "en": "Button-Bit Grinders"
+            },
+            "coverImage": "/products/button-bit-grinders/button-bit-grinders.webp",
+            "description": {
+              "ar": "ماكينات تجليخ يدوية ومنضدية تعيد تشكيل أزرار اللقم، فتطيل عمر اللقمة وتحافظ على سرعة الاختراق.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Hand-held and bench grinders that restore button bits, extending bit life and keeping penetration rates up.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "ماكينة يدوية هوائية ⁦PA120B⁩ بوزن ⁦3.5⁩ كجم",
+                "ماكينة ⁦AGM18⁩ بذراع آلية، وماكينة كهربائية ⁦EGM3.0⁩ بقدرة ⁦3.2⁩ كيلوواط",
+                "سرعة عمود الدوران ⁦20,000⁠–⁠24,000⁩ دورة/دقيقة",
+                "أكواب تجليخ بمقاطع كروية وباليستية ولإزالة الفولاذ"
+              ],
+              "en": [
+                "PA120B pneumatic hand-held grinder, 3.5 kg",
+                "AGM18 robot-arm grinder and EGM3.0 electric grinder, 3.2 kW",
+                "Spindle speed 20,000–24,000 r/min",
+                "Grinding cups in spherical, ballistic and steel-removal profiles"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "القدرة",
+                  "value": "⁦1.5⁠–⁠3.2⁩ كيلوواط"
+                },
+                {
+                  "label": "سرعة الدوران",
+                  "value": "⁦20,000⁠–⁠24,000⁩ دورة/دقيقة"
+                },
+                {
+                  "label": "مصدر الطاقة",
+                  "value": "هواء ⁦5⁠–⁠7⁩ بار أو ⁦220⁠–⁠240⁩ فولت"
+                },
+                {
+                  "label": "الوزن",
+                  "value": "⁦3.5⁠–⁠540⁩ كجم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Power",
+                  "value": "1.5–3.2 kW"
+                },
+                {
+                  "label": "Spindle speed",
+                  "value": "20,000–24,000 r/min"
+                },
+                {
+                  "label": "Power supply",
+                  "value": "Air 5–7 bar or 220–240 V"
+                },
+                {
+                  "label": "Weight",
+                  "value": "3.5–540 kg"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/button-bit-grinders/button-bit-grinders.webp"
+            ],
+            "image": "/products/button-bit-grinders/button-bit-grinders.webp",
+            "cardImage": "/products/button-bit-grinders/button-bit-grinders.webp",
+            "seo": {
+              "title": {
+                "ar": "ماكينات تجليخ لقم الأزرار اليدوية والكهربائية",
+                "en": "Hand-Held and Electric Button-Bit Grinders"
+              },
+              "description": {
+                "ar": "ماكينات تجليخ لقم الأزرار: يدوية هوائية، وبذراع آلية، وكهربائية ⁦3.2⁩ كيلوواط، مع أكواب تجليخ لكل المقاطع. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Button-bit grinders: pneumatic hand-held, robot-arm and 3.2 kW electric, with grinding cups for every profile. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "ماكينات تجليخ يدوية وآلية وكهربائية للقم الأزرار وللفولاذ المتكامل. اختر من الجدول أدناه.",
+              "en": "Hand-held, robot-arm and electric grinders for button bits and integral steels. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا أجلّخ أزرار اللقمة؟",
+                  "a": "الأزرار المسطّحة من التآكل تبطئ الاختراق وتزيد الضغط على المطرقة والقضبان، وتجليخها في الوقت المناسب يعيد شكلها ويطيل عمر اللقمة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why grind the bit buttons?",
+                  "a": "Worn, flattened buttons slow penetration and load the hammer and rods; grinding them in time restores their shape and extends bit life."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "7",
+                  "label": "ماكينات"
+                },
+                {
+                  "value": "⁦1.5⁠–⁠3.2⁩ كيلوواط",
+                  "label": "القدرة"
+                },
+                {
+                  "value": "⁦24,000⁩",
+                  "label": "دورة/دقيقة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "7",
+                  "label": "Grinders"
+                },
+                {
+                  "value": "1.5–3.2 kW",
+                  "label": "Power"
+                },
+                {
+                  "value": "24,000",
+                  "label": "r/min"
+                }
+              ]
+            }
+          },
+          {
+            "id": "cutter-picks-additional-cir-hammers",
+            "name": {
+              "ar": "أقلام القطع ومطارق CIR إضافية",
+              "en": "Cutter Picks & Additional CIR Hammers"
+            },
+            "coverImage": "/products/cutter-picks-additional-cir-hammers/cutter-picks-additional-cir-hammers.webp",
+            "description": {
+              "ar": "أقلام قطع مخروطية برؤوس من كربيد التنغستن مع جلبها وحواملها لماكينات حفر الأنفاق والتعدين المستمر والقص وحفارات الخنادق، ومطارق ⁦CIR⁩ إضافية للضغط المنخفض تعمل على ضواغط صغيرة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Tungsten-carbide-tipped conical picks, sleeves and holders for roadheaders, continuous miners, shearers and trenchers cutting soft ore, tunnels and trenches, plus additional low-pressure CIR DTH hammers that run on small compressors.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "أقلام السلسلة ⁦U⁩ لماكينات الأنفاق والتعدين المستمر والقص، بساق ⁦19⁠–⁠30⁩ مم",
+                "أقلام السلسلة ⁦S⁩ للخدمة الشاقة بساق ⁦22⁠–⁠35⁩ مم",
+                "جلب وحوامل للأقلام، وأقلام وحوامل لحفارات الخنادق بالعجلة والجنزير",
+                "⁦12⁩ مطرقة ⁦CIR⁩ إضافية عند ⁦0.5⁠–⁠0.7⁩ ميغاباسكال بلقم ⁦55⁠–⁠210⁩ مم"
+              ],
+              "en": [
+                "U-series picks for roadheaders, continuous miners and shearers, 19–30 mm shank",
+                "Heavy-duty S-series picks, 22–35 mm shank",
+                "Pick sleeves and holders, and trenching picks and holders for wheel and chain trenchers",
+                "12 additional CIR hammers at 0.5–0.7 MPa with 55–210 mm bits"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "ساق القلم",
+                  "value": "⁦19⁠–⁠35⁩ مم"
+                },
+                {
+                  "label": "ضغط مطارق CIR",
+                  "value": "⁦0.5⁠–⁠0.7⁩ ميغاباسكال"
+                },
+                {
+                  "label": "لقم CIR",
+                  "value": "⁦55⁠–⁠210⁩ مم"
+                },
+                {
+                  "label": "هواء CIR",
+                  "value": "⁦2⁠–⁠24⁩ م³/دقيقة"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Pick shank",
+                  "value": "19–35 mm"
+                },
+                {
+                  "label": "CIR pressure",
+                  "value": "0.5–0.7 MPa"
+                },
+                {
+                  "label": "CIR bits",
+                  "value": "55–210 mm"
+                },
+                {
+                  "label": "CIR air use",
+                  "value": "2–24 m³/min"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/cutter-picks-additional-cir-hammers/cutter-picks-additional-cir-hammers.webp"
+            ],
+            "image": "/products/cutter-picks-additional-cir-hammers/cutter-picks-additional-cir-hammers.webp",
+            "cardImage": "/products/cutter-picks-additional-cir-hammers/cutter-picks-additional-cir-hammers.webp",
+            "seo": {
+              "title": {
+                "ar": "أقلام القطع المخروطية للتعدين والأنفاق ومطارق CIR",
+                "en": "Conical Cutter Picks for Mining and Tunnelling, and CIR Hammers"
+              },
+              "description": {
+                "ar": "أقلام قطع مخروطية من السلسلتين ⁦U⁩ و⁦S⁩ بساق ⁦19⁠–⁠35⁩ مم وجلبها وحواملها، ومطارق ⁦CIR⁩ للضغط المنخفض ⁦0.5⁠–⁠0.7⁩ ميغاباسكال. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "U- and S-series conical cutter picks (19–35 mm shank) with sleeves and holders, and low-pressure CIR hammers at 0.5–0.7 MPa. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أقلام قطع مخروطية وجلبها وحواملها، ومطارق ⁦CIR⁩ إضافية للضغط المنخفض. اختر من الجدول أدناه.",
+              "en": "Conical cutter picks, sleeves and holders, and additional low-pressure CIR hammers. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل تناسب الأقلام حوامل ماكيناتنا الحالية؟",
+                  "a": "صُممت لتكون قابلة للتبديل مع أنظمة الحوامل الشائعة. أرسل لنا موديل القلم الحالي أو مقاس الساق وطول القلم، ونطابقه من السلسلتين ⁦U⁩ و⁦S⁩."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Do the picks fit our current machine holders?",
+                  "a": "They are made to interchange with the common holder systems. Send us your current pick model, or the shank size and pick length, and we match it from the U and S series."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "103",
+                  "label": "موديلات وأنواع"
+                },
+                {
+                  "value": "⁦19⁠–⁠35⁩ مم",
+                  "label": "ساق القلم"
+                },
+                {
+                  "value": "⁦0.5⁠–⁠0.7⁩ ميغاباسكال",
+                  "label": "ضغط CIR"
+                }
+              ],
+              "en": [
+                {
+                  "value": "103",
+                  "label": "Models & types"
+                },
+                {
+                  "value": "19–35 mm",
+                  "label": "Pick shank"
+                },
+                {
+                  "value": "0.5–0.7 MPa",
+                  "label": "CIR pressure"
                 }
               ]
             }

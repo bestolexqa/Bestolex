@@ -1,0 +1,283 @@
+{
+  "id": "button-bit-grinders",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-03 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-03 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "rpm",
+      "label": {
+        "en": "Spindle speed (r/min)",
+        "ar": "سرعة عمود الدوران (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "kw",
+      "label": {
+        "en": "Motor (kW)",
+        "ar": "المحرك (كيلوواط)"
+      }
+    },
+    {
+      "key": "supply",
+      "label": {
+        "en": "Power supply",
+        "ar": "مصدر الطاقة"
+      }
+    },
+    {
+      "key": "air",
+      "label": {
+        "en": "Air use",
+        "ar": "استهلاك الهواء"
+      }
+    },
+    {
+      "key": "water",
+      "label": {
+        "en": "Water",
+        "ar": "الماء"
+      }
+    },
+    {
+      "key": "w",
+      "label": {
+        "en": "Weight (kg)",
+        "ar": "الوزن (كجم)"
+      }
+    },
+    {
+      "key": "db",
+      "label": {
+        "en": "Sound level",
+        "ar": "مستوى الصوت"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "rpm",
+    "kw",
+    "supply"
+  ],
+  "types": [
+    {
+      "id": "grinders",
+      "label": {
+        "en": "Button-bit grinders",
+        "ar": "ماكينات تجليخ لقم الأزرار"
+      },
+      "models": [
+        {
+          "code": "BX-0005-01-010",
+          "name": {
+            "en": "PA120B hand-held",
+            "ar": "⁦PA120B⁩ يدوية"
+          },
+          "specs": {
+            "rpm": {
+              "en": "20,000",
+              "ar": "⁦20,000⁩"
+            },
+            "kw": {
+              "en": "1.5",
+              "ar": "⁦1.5⁩"
+            },
+            "supply": {
+              "en": "Air 5–7 bar",
+              "ar": "هواء ⁦5⁠–⁠7⁩ بار"
+            },
+            "air": {
+              "en": "2.0 m³/min",
+              "ar": "⁦2.0⁩ م³/دقيقة"
+            },
+            "water": {
+              "en": "4 bar max., 6 mm hose",
+              "ar": "⁦4⁩ بار كحد أقصى، خرطوم ⁦6⁩ مم"
+            },
+            "w": {
+              "en": "3.5",
+              "ar": "⁦3.5⁩"
+            },
+            "db": {
+              "en": "92 dB(A)",
+              "ar": "⁦92 dB(A)⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-028",
+          "name": {
+            "en": "AGM18 robot arm",
+            "ar": "⁦AGM18⁩ بذراع آلية"
+          },
+          "specs": {
+            "rpm": {
+              "en": "22,000",
+              "ar": "⁦22,000⁩"
+            },
+            "kw": {
+              "en": "1.5",
+              "ar": "⁦1.5⁩"
+            },
+            "supply": {
+              "en": "Air 7 bar",
+              "ar": "هواء ⁦7⁩ بار"
+            },
+            "air": {
+              "en": "3 m³/min",
+              "ar": "⁦3⁩ م³/دقيقة"
+            },
+            "water": {
+              "en": "4 bar max., 6 mm hose",
+              "ar": "⁦4⁩ بار كحد أقصى، خرطوم ⁦6⁩ مم"
+            },
+            "w": {
+              "en": "410",
+              "ar": "410"
+            },
+            "db": {
+              "en": "92 dB(A)",
+              "ar": "⁦92 dB(A)⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-029",
+          "name": {
+            "en": "EGM3.0 electric",
+            "ar": "⁦EGM3.0⁩ كهربائية"
+          },
+          "specs": {
+            "rpm": {
+              "en": "24,000",
+              "ar": "⁦24,000⁩"
+            },
+            "kw": {
+              "en": "3.2",
+              "ar": "⁦3.2⁩"
+            },
+            "supply": {
+              "en": "220–240 V, 50/60 Hz",
+              "ar": "⁦220⁠–⁠240⁩ فولت، ⁦50/60⁩ هرتز"
+            },
+            "air": {
+              "en": "< 0.03 m³/min",
+              "ar": "< ⁦0.03⁩ م³/دقيقة"
+            },
+            "water": {
+              "en": "6 mm hose",
+              "ar": "خرطوم ⁦6⁩ مم"
+            },
+            "w": {
+              "en": "540",
+              "ar": "540"
+            },
+            "db": {
+              "en": "86 dB(A)",
+              "ar": "⁦86 dB(A)⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1.5–3.2 kW",
+        "ar": "⁦1.5⁠–⁠3.2⁩ كيلوواط"
+      },
+      "intro": {
+        "en": "Grinding cups in spherical, ballistic and steel-removal profiles for the common grinder drives.",
+        "ar": "أكواب تجليخ بمقاطع كروية وباليستية ولإزالة الفولاذ تناسب أنظمة الإدارة الشائعة في ماكينات التجليخ."
+      },
+      "keyRows": [
+        "kw",
+        "supply",
+        "w"
+      ]
+    },
+    {
+      "id": "more-grinders",
+      "label": {
+        "en": "More grinders",
+        "ar": "ماكينات تجليخ أخرى"
+      },
+      "models": [
+        {
+          "code": "BX-0058-03-026",
+          "name": {
+            "en": "BTON200",
+            "ar": "BTON200"
+          },
+          "specs": {
+            "data": {
+              "en": "Pneumatic hand-held button-bit grinder",
+              "ar": "ماكينة تجليخ هوائية يدوية للقم الأزرار"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-027",
+          "name": {
+            "en": "BTON500",
+            "ar": "BTON500"
+          },
+          "specs": {
+            "data": {
+              "en": "Pneumatic semi-automatic button-bit grinder",
+              "ar": "ماكينة تجليخ هوائية نصف آلية للقم الأزرار"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-025",
+          "name": {
+            "en": "CG100P",
+            "ar": "CG100P"
+          },
+          "specs": {
+            "data": {
+              "en": "Grinder for integral drill steels",
+              "ar": "ماكينة تجليخ لفولاذ الحفر المتكامل"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-030",
+          "name": {
+            "en": "Straight grinder",
+            "ar": "ماكينة تجليخ مستقيمة"
+          },
+          "specs": {
+            "data": {
+              "en": "150 mm wheel",
+              "ar": "قرص ⁦150⁩ مم"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Pneumatic and integral steels",
+        "ar": "هوائية وللفولاذ المتكامل"
+      }
+    }
+  ]
+}

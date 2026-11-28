@@ -1,0 +1,435 @@
+{
+  "id": "dth-pipes-back-hammers-breakout-benches",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-03 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-03 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "thread",
+      "label": {
+        "en": "Thread",
+        "ar": "السن"
+      }
+    },
+    {
+      "key": "steel",
+      "label": {
+        "en": "Steel grade",
+        "ar": "درجة الفولاذ"
+      }
+    },
+    {
+      "key": "wall",
+      "label": {
+        "en": "Wall (mm)",
+        "ar": "سماكة الجدار (مم)"
+      }
+    },
+    {
+      "key": "len",
+      "label": {
+        "en": "Length (mm)",
+        "ar": "الطول (مم)"
+      }
+    },
+    {
+      "key": "w",
+      "label": {
+        "en": "Weight (kg)",
+        "ar": "الوزن (كجم)"
+      }
+    },
+    {
+      "key": "od",
+      "label": {
+        "en": "Outer Ø (mm)",
+        "ar": "القطر الخارجي (مم)"
+      }
+    },
+    {
+      "key": "conn",
+      "label": {
+        "en": "Connection",
+        "ar": "الوصلة"
+      }
+    },
+    {
+      "key": "wp",
+      "label": {
+        "en": "Working pressure (MPa)",
+        "ar": "ضغط التشغيل (ميغاباسكال)"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "thread",
+    "steel",
+    "wall"
+  ],
+  "types": [
+    {
+      "id": "pipes",
+      "label": {
+        "en": "DTH drill pipes (friction-welded, upset ends)",
+        "ar": "مواسير حفر ⁦DTH⁩ (ملحومة بالاحتكاك، بأطراف مقوّاة)"
+      },
+      "models": [
+        {
+          "code": "BX-0005-01-005 / 3 in / 76 mm",
+          "name": {
+            "en": "3 in / 76 mm",
+            "ar": "⁦3⁩ بوصات / ⁦76⁩ مم"
+          },
+          "specs": {
+            "thread": {
+              "en": "2 3/8 REG",
+              "ar": "⁦2 3/8 REG⁩"
+            },
+            "steel": {
+              "en": "R780, G105, S135",
+              "ar": "⁦R780, G105, S135⁩"
+            },
+            "wall": {
+              "en": "6, 8",
+              "ar": "⁦6, 8⁩"
+            },
+            "len": {
+              "en": "1000–5000",
+              "ar": "⁦1000–5000⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-005 / 3 1/2 in / 89 mm",
+          "name": {
+            "en": "3 1/2 in / 89 mm",
+            "ar": "⁦3 1/2⁩ بوصة / ⁦89⁩ مم"
+          },
+          "specs": {
+            "thread": {
+              "en": "2 3/8 REG (IF)",
+              "ar": "⁦2 3/8 REG (IF)⁩"
+            },
+            "steel": {
+              "en": "R780, G105, S135",
+              "ar": "⁦R780, G105, S135⁩"
+            },
+            "wall": {
+              "en": "6.5, 8",
+              "ar": "⁦6.5, 8⁩"
+            },
+            "len": {
+              "en": "1000–5000",
+              "ar": "⁦1000–5000⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-005 / 4 in / 102 mm",
+          "name": {
+            "en": "4 in / 102 mm",
+            "ar": "⁦4⁩ بوصات / ⁦102⁩ مم"
+          },
+          "specs": {
+            "thread": {
+              "en": "2 7/8 IF",
+              "ar": "⁦2 7/8 IF⁩"
+            },
+            "steel": {
+              "en": "R780, G105, S135",
+              "ar": "⁦R780, G105, S135⁩"
+            },
+            "wall": {
+              "en": "8, 9.19",
+              "ar": "⁦8, 9.19⁩"
+            },
+            "len": {
+              "en": "1000–5000",
+              "ar": "⁦1000–5000⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-005 / 4 1/4 in / 108 mm",
+          "name": {
+            "en": "4 1/4 in / 108 mm",
+            "ar": "⁦4 1/4⁩ بوصة / ⁦108⁩ مم"
+          },
+          "specs": {
+            "thread": {
+              "en": "2 7/8 IF",
+              "ar": "⁦2 7/8 IF⁩"
+            },
+            "steel": {
+              "en": "R780, G105, S135",
+              "ar": "⁦R780, G105, S135⁩"
+            },
+            "wall": {
+              "en": "8, 9.19",
+              "ar": "⁦8, 9.19⁩"
+            },
+            "len": {
+              "en": "1000–5000",
+              "ar": "⁦1000–5000⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-005 / 4 1/2 in / 114 mm",
+          "name": {
+            "en": "4 1/2 in / 114 mm",
+            "ar": "⁦4 1/2⁩ بوصة / ⁦114⁩ مم"
+          },
+          "specs": {
+            "thread": {
+              "en": "2 7/8 IF",
+              "ar": "⁦2 7/8 IF⁩"
+            },
+            "steel": {
+              "en": "R780, G105, S135",
+              "ar": "⁦R780, G105, S135⁩"
+            },
+            "wall": {
+              "en": "8, 10",
+              "ar": "⁦8, 10⁩"
+            },
+            "len": {
+              "en": "1500–6000",
+              "ar": "⁦1500–6000⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-005 / 5 in / 127 mm",
+          "name": {
+            "en": "5 in / 127 mm",
+            "ar": "⁦5⁩ بوصات / ⁦127⁩ مم"
+          },
+          "specs": {
+            "thread": {
+              "en": "3 1/2 IF",
+              "ar": "⁦3 1/2 IF⁩"
+            },
+            "steel": {
+              "en": "R780, G105, S135",
+              "ar": "⁦R780, G105, S135⁩"
+            },
+            "wall": {
+              "en": "8, 10, 12",
+              "ar": "⁦8, 10, 12⁩"
+            },
+            "len": {
+              "en": "1500–6000",
+              "ar": "⁦1500–6000⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "76–127 mm",
+        "ar": "⁦76⁠–⁠127⁩ مم"
+      },
+      "countUnit": {
+        "ar": [
+          "مقاس واحد",
+          "مقاسان",
+          "مقاسات"
+        ],
+        "en": [
+          "size",
+          "sizes"
+        ]
+      },
+      "intro": {
+        "en": "Internal upset (IU) ends. Pin–box, pin–pin and box–box adapters (subs) from 2 3/8\" to 4 1/2\" threads. Casing tubes Ø114–273 mm, wall 6.5–12 mm, DZ40–DZ55 steel.",
+        "ar": "أطراف مقوّاة من الداخل (⁦IU⁩). وصلات تحويل ذكر–أنثى وذكر–ذكر وأنثى–أنثى بأسنان من ⁦2 3/8\"⁩ إلى ⁦4 1/2\"⁩. وأنابيب تغليف بقطر ⁦114⁠–⁠273⁩ مم وجدار ⁦6.5⁠–⁠12⁩ مم من فولاذ ⁦DZ40–DZ55⁩."
+      },
+      "keyRows": [
+        "thread",
+        "len",
+        "wall"
+      ]
+    },
+    {
+      "id": "back-hammers",
+      "label": {
+        "en": "Back hammers (retrieving stuck strings)",
+        "ar": "المطارق العكسية (لاسترجاع الأعمدة العالقة)"
+      },
+      "models": [
+        {
+          "code": "BX-0005-01-006 / BH140",
+          "name": {
+            "en": "BH140",
+            "ar": "BH140"
+          },
+          "specs": {
+            "len": {
+              "en": "420",
+              "ar": "420"
+            },
+            "w": {
+              "en": "34",
+              "ar": "34"
+            },
+            "od": {
+              "en": "155",
+              "ar": "155"
+            },
+            "conn": {
+              "en": "API 2 3/8\" REG",
+              "ar": "⁦API 2 3/8\" REG⁩"
+            },
+            "wp": {
+              "en": "0.8–1.7",
+              "ar": "⁦0.8–1.7⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-006 / BH170",
+          "name": {
+            "en": "BH170",
+            "ar": "BH170"
+          },
+          "specs": {
+            "len": {
+              "en": "606",
+              "ar": "606"
+            },
+            "w": {
+              "en": "64.5",
+              "ar": "⁦64.5⁩"
+            },
+            "od": {
+              "en": "190",
+              "ar": "190"
+            },
+            "conn": {
+              "en": "API 3 1/2\" REG",
+              "ar": "⁦API 3 1/2\" REG⁩"
+            },
+            "wp": {
+              "en": "0.8–2.5",
+              "ar": "⁦0.8–2.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-006 / BH190",
+          "name": {
+            "en": "BH190",
+            "ar": "BH190"
+          },
+          "specs": {
+            "len": {
+              "en": "560",
+              "ar": "560"
+            },
+            "w": {
+              "en": "84.5",
+              "ar": "⁦84.5⁩"
+            },
+            "od": {
+              "en": "220",
+              "ar": "220"
+            },
+            "conn": {
+              "en": "API 3 1/2\" REG",
+              "ar": "⁦API 3 1/2\" REG⁩"
+            },
+            "wp": {
+              "en": "0.8–3.0",
+              "ar": "⁦0.8–3.0⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-006 / BH240",
+          "name": {
+            "en": "BH240",
+            "ar": "BH240"
+          },
+          "specs": {
+            "len": {
+              "en": "600",
+              "ar": "600"
+            },
+            "w": {
+              "en": "123.5",
+              "ar": "⁦123.5⁩"
+            },
+            "od": {
+              "en": "240",
+              "ar": "240"
+            },
+            "conn": {
+              "en": "API 4 1/2\" REG",
+              "ar": "⁦API 4 1/2\" REG⁩"
+            },
+            "wp": {
+              "en": "0.8–3.5",
+              "ar": "⁦0.8–3.5⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "34–123.5 kg",
+        "ar": "⁦34⁠–⁠123.5⁩ كجم"
+      },
+      "keyRows": [
+        "od",
+        "w",
+        "conn"
+      ]
+    },
+    {
+      "id": "benches",
+      "label": {
+        "en": "Breakout benches",
+        "ar": "مناضد الفك"
+      },
+      "models": [
+        {
+          "code": "BX-0005-01-007",
+          "name": {
+            "en": "Manual or electric breakout bench",
+            "ar": "منضدة فك يدوية أو كهربائية"
+          },
+          "specs": {
+            "data": {
+              "en": "For unscrewing DTH hammers 5\"–10\" OD: electric bench 4.5 kW, maximum torque 88,000 N·m, 850 kg",
+              "ar": "لفك مطارق ⁦DTH⁩ بقطر خارجي ⁦5\"–10\"⁩: المنضدة الكهربائية ⁦4.5⁩ كيلوواط، وأقصى عزم ⁦88,000⁩ نيوتن·م، و⁦850⁩ كجم"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Manual or electric",
+        "ar": "يدوية أو كهربائية"
+      }
+    }
+  ]
+}

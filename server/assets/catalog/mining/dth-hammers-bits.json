@@ -1,0 +1,720 @@
+{
+  "id": "dth-hammers-bits",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-03 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-03 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "len",
+      "label": {
+        "en": "Length w/o bit (mm)",
+        "ar": "الطول دون اللقمة (مم)"
+      }
+    },
+    {
+      "key": "w",
+      "label": {
+        "en": "Weight (kg)",
+        "ar": "الوزن (كجم)"
+      }
+    },
+    {
+      "key": "od",
+      "label": {
+        "en": "Outer Ø (mm)",
+        "ar": "القطر الخارجي (مم)"
+      }
+    },
+    {
+      "key": "thread",
+      "label": {
+        "en": "Top thread",
+        "ar": "السن العلوي"
+      }
+    },
+    {
+      "key": "hole",
+      "label": {
+        "en": "Hole range (mm)",
+        "ar": "مدى الثقب (مم)"
+      }
+    },
+    {
+      "key": "wp",
+      "label": {
+        "en": "Working pressure (MPa)",
+        "ar": "ضغط التشغيل (ميغاباسكال)"
+      }
+    },
+    {
+      "key": "rot",
+      "label": {
+        "en": "Rotation (r/min)",
+        "ar": "الدوران (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "size",
+      "label": {
+        "en": "Size",
+        "ar": "المقاس"
+      }
+    },
+    {
+      "key": "shanks",
+      "label": {
+        "en": "Shank types",
+        "ar": "أنواع الساق"
+      }
+    },
+    {
+      "key": "models",
+      "label": {
+        "en": "Models",
+        "ar": "الموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "len",
+    "w",
+    "od"
+  ],
+  "types": [
+    {
+      "id": "high-pressure",
+      "label": {
+        "en": "High-pressure DTH hammers",
+        "ar": "مطارق ⁦DTH⁩ للضغط العالي"
+      },
+      "models": [
+        {
+          "code": "BX-0005-01-001 / M30",
+          "name": {
+            "en": "M30",
+            "ar": "M30"
+          },
+          "specs": {
+            "len": {
+              "en": "931",
+              "ar": "931"
+            },
+            "w": {
+              "en": "23",
+              "ar": "23"
+            },
+            "od": {
+              "en": "Ø82",
+              "ar": "⁦Ø82⁩"
+            },
+            "thread": {
+              "en": "API 2 3/8\" REG",
+              "ar": "⁦API 2 3/8\" REG⁩"
+            },
+            "hole": {
+              "en": "90–115",
+              "ar": "⁦90–115⁩"
+            },
+            "wp": {
+              "en": "1.0–1.7",
+              "ar": "⁦1.0–1.7⁩"
+            },
+            "rot": {
+              "en": "30–50",
+              "ar": "⁦30–50⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-001 / M40",
+          "name": {
+            "en": "M40",
+            "ar": "M40"
+          },
+          "specs": {
+            "len": {
+              "en": "1004",
+              "ar": "1004"
+            },
+            "w": {
+              "en": "40.5",
+              "ar": "⁦40.5⁩"
+            },
+            "od": {
+              "en": "Ø99",
+              "ar": "⁦Ø99⁩"
+            },
+            "thread": {
+              "en": "API 2 3/8\" REG",
+              "ar": "⁦API 2 3/8\" REG⁩"
+            },
+            "hole": {
+              "en": "110–135",
+              "ar": "⁦110–135⁩"
+            },
+            "wp": {
+              "en": "1.0–2.2",
+              "ar": "⁦1.0–2.2⁩"
+            },
+            "rot": {
+              "en": "30–60",
+              "ar": "⁦30–60⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-001 / M50",
+          "name": {
+            "en": "M50",
+            "ar": "M50"
+          },
+          "specs": {
+            "len": {
+              "en": "1080",
+              "ar": "1080"
+            },
+            "w": {
+              "en": "62",
+              "ar": "62"
+            },
+            "od": {
+              "en": "Ø114",
+              "ar": "⁦Ø114⁩"
+            },
+            "thread": {
+              "en": "API 2 3/8\" REG",
+              "ar": "⁦API 2 3/8\" REG⁩"
+            },
+            "hole": {
+              "en": "125–146",
+              "ar": "⁦125–146⁩"
+            },
+            "wp": {
+              "en": "1.0–2.5",
+              "ar": "⁦1.0–2.5⁩"
+            },
+            "rot": {
+              "en": "30–60",
+              "ar": "⁦30–60⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-001 / M60",
+          "name": {
+            "en": "M60",
+            "ar": "M60"
+          },
+          "specs": {
+            "len": {
+              "en": "1122",
+              "ar": "1122"
+            },
+            "w": {
+              "en": "70.5",
+              "ar": "⁦70.5⁩"
+            },
+            "od": {
+              "en": "Ø126",
+              "ar": "⁦Ø126⁩"
+            },
+            "thread": {
+              "en": "API 3 1/2\" REG",
+              "ar": "⁦API 3 1/2\" REG⁩"
+            },
+            "hole": {
+              "en": "136–155",
+              "ar": "⁦136–155⁩"
+            },
+            "wp": {
+              "en": "1.0–2.5",
+              "ar": "⁦1.0–2.5⁩"
+            },
+            "rot": {
+              "en": "30–60",
+              "ar": "⁦30–60⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-001 / M80",
+          "name": {
+            "en": "M80",
+            "ar": "M80"
+          },
+          "specs": {
+            "len": {
+              "en": "1129",
+              "ar": "1129"
+            },
+            "w": {
+              "en": "91.5",
+              "ar": "⁦91.5⁩"
+            },
+            "od": {
+              "en": "Ø144",
+              "ar": "⁦Ø144⁩"
+            },
+            "thread": {
+              "en": "API 4 1/2\" REG",
+              "ar": "⁦API 4 1/2\" REG⁩"
+            },
+            "hole": {
+              "en": "152–203",
+              "ar": "⁦152–203⁩"
+            },
+            "wp": {
+              "en": "1.0–2.8",
+              "ar": "⁦1.0–2.8⁩"
+            },
+            "rot": {
+              "en": "25–50",
+              "ar": "⁦25–50⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-001 / NM5C",
+          "name": {
+            "en": "NM5C",
+            "ar": "NM5C"
+          },
+          "specs": {
+            "len": {
+              "en": "1333",
+              "ar": "1333"
+            },
+            "w": {
+              "en": "160.5",
+              "ar": "⁦160.5⁩"
+            },
+            "od": {
+              "en": "Ø180",
+              "ar": "⁦Ø180⁩"
+            },
+            "thread": {
+              "en": "API 4 1/2\" REG",
+              "ar": "⁦API 4 1/2\" REG⁩"
+            },
+            "hole": {
+              "en": "195–245",
+              "ar": "⁦195–245⁩"
+            },
+            "wp": {
+              "en": "1.5–3.3",
+              "ar": "⁦1.5–3.3⁩"
+            },
+            "rot": {
+              "en": "25–45",
+              "ar": "⁦25–45⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-001 / SD4",
+          "name": {
+            "en": "SD4",
+            "ar": "SD4"
+          },
+          "specs": {
+            "len": {
+              "en": "1082",
+              "ar": "1082"
+            },
+            "w": {
+              "en": "43",
+              "ar": "43"
+            },
+            "od": {
+              "en": "Ø99",
+              "ar": "⁦Ø99⁩"
+            },
+            "thread": {
+              "en": "API 2 3/8\" REG",
+              "ar": "⁦API 2 3/8\" REG⁩"
+            },
+            "hole": {
+              "en": "110–135",
+              "ar": "⁦110–135⁩"
+            },
+            "wp": {
+              "en": "1.0–2.2",
+              "ar": "⁦1.0–2.2⁩"
+            },
+            "rot": {
+              "en": "30–60",
+              "ar": "⁦30–60⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-001 / SD5",
+          "name": {
+            "en": "SD5",
+            "ar": "SD5"
+          },
+          "specs": {
+            "len": {
+              "en": "1178",
+              "ar": "1178"
+            },
+            "w": {
+              "en": "73.6",
+              "ar": "⁦73.6⁩"
+            },
+            "od": {
+              "en": "Ø125",
+              "ar": "⁦Ø125⁩"
+            },
+            "thread": {
+              "en": "API 2 3/8\" REG",
+              "ar": "⁦API 2 3/8\" REG⁩"
+            },
+            "hole": {
+              "en": "135–155",
+              "ar": "⁦135–155⁩"
+            },
+            "wp": {
+              "en": "1.0–2.5",
+              "ar": "⁦1.0–2.5⁩"
+            },
+            "rot": {
+              "en": "30–60",
+              "ar": "⁦30–60⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-001 / SD6",
+          "name": {
+            "en": "SD6",
+            "ar": "SD6"
+          },
+          "specs": {
+            "len": {
+              "en": "1277",
+              "ar": "1277"
+            },
+            "w": {
+              "en": "99",
+              "ar": "99"
+            },
+            "od": {
+              "en": "Ø142",
+              "ar": "⁦Ø142⁩"
+            },
+            "thread": {
+              "en": "API 3 1/2\" REG",
+              "ar": "⁦API 3 1/2\" REG⁩"
+            },
+            "hole": {
+              "en": "150–190",
+              "ar": "⁦150–190⁩"
+            },
+            "wp": {
+              "en": "1.0–2.5",
+              "ar": "⁦1.0–2.5⁩"
+            },
+            "rot": {
+              "en": "30–60",
+              "ar": "⁦30–60⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-001 / SD8",
+          "name": {
+            "en": "SD8",
+            "ar": "SD8"
+          },
+          "specs": {
+            "len": {
+              "en": "1463",
+              "ar": "1463"
+            },
+            "w": {
+              "en": "194",
+              "ar": "194"
+            },
+            "od": {
+              "en": "Ø180",
+              "ar": "⁦Ø180⁩"
+            },
+            "thread": {
+              "en": "API 4 1/2\" REG",
+              "ar": "⁦API 4 1/2\" REG⁩"
+            },
+            "hole": {
+              "en": "195–254",
+              "ar": "⁦195–254⁩"
+            },
+            "wp": {
+              "en": "1.5–3.3",
+              "ar": "⁦1.5–3.3⁩"
+            },
+            "rot": {
+              "en": "30–60",
+              "ar": "⁦30–60⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-001 / SD10",
+          "name": {
+            "en": "SD10",
+            "ar": "SD10"
+          },
+          "specs": {
+            "len": {
+              "en": "1413",
+              "ar": "1413"
+            },
+            "w": {
+              "en": "273",
+              "ar": "273"
+            },
+            "od": {
+              "en": "Ø225",
+              "ar": "⁦Ø225⁩"
+            },
+            "thread": {
+              "en": "API 5 1/2\" REG",
+              "ar": "⁦API 5 1/2\" REG⁩"
+            },
+            "hole": {
+              "en": "254–311",
+              "ar": "⁦254–311⁩"
+            },
+            "wp": {
+              "en": "1.5–3.3",
+              "ar": "⁦1.5–3.3⁩"
+            },
+            "rot": {
+              "en": "25–50",
+              "ar": "⁦25–50⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-001 / SD12",
+          "name": {
+            "en": "SD12",
+            "ar": "SD12"
+          },
+          "specs": {
+            "len": {
+              "en": "1825",
+              "ar": "1825"
+            },
+            "w": {
+              "en": "589",
+              "ar": "589"
+            },
+            "od": {
+              "en": "Ø275",
+              "ar": "⁦Ø275⁩"
+            },
+            "thread": {
+              "en": "API 6 5/8\" REG",
+              "ar": "⁦API 6 5/8\" REG⁩"
+            },
+            "hole": {
+              "en": "295–400",
+              "ar": "⁦295–400⁩"
+            },
+            "wp": {
+              "en": "1.5–3.3",
+              "ar": "⁦1.5–3.3⁩"
+            },
+            "rot": {
+              "en": "25–50",
+              "ar": "⁦25–50⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Holes 90–400 mm",
+        "ar": "ثقوب ⁦90⁠–⁠400⁩ مم"
+      },
+      "keyRows": [
+        "hole",
+        "w",
+        "wp"
+      ]
+    },
+    {
+      "id": "by-size",
+      "label": {
+        "en": "DTH hammers & bits by size",
+        "ar": "مطارق ولقم ⁦DTH⁩ حسب المقاس"
+      },
+      "models": [
+        {
+          "code": "BX-0058-01-001",
+          "name": {
+            "en": "1\"–4\"",
+            "ar": "⁦1\"–4\"⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "1\"–4\"",
+              "ar": "⁦1\"–4\"⁩"
+            },
+            "shanks": {
+              "en": "BR1, BR2, BR3, DHD3.5, MP35, DHD340, COP32, COP44, QL40, M40",
+              "ar": "⁦BR1, BR2, BR3, DHD3.5, MP35, DHD340, COP32, COP44, QL40, M40⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-01-002",
+          "name": {
+            "en": "5\"–6\"",
+            "ar": "⁦5\"–6\"⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "5\"–6\"",
+              "ar": "⁦5\"–6\"⁩"
+            },
+            "shanks": {
+              "en": "DHD350, DHD360, COP66, QL50, QL60, M50, M60",
+              "ar": "⁦DHD350, DHD360, COP66, QL50, QL60, M50, M60⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-01-003",
+          "name": {
+            "en": "7\"–9\"",
+            "ar": "⁦7\"–9\"⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "7\"–9\"",
+              "ar": "⁦7\"–9\"⁩"
+            },
+            "shanks": {
+              "en": "DHD380, QL80, M80",
+              "ar": "⁦DHD380, QL80, M80⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-01-004",
+          "name": {
+            "en": "10\"–24\"",
+            "ar": "⁦10\"–24\"⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "10\"–24\"",
+              "ar": "⁦10\"–24\"⁩"
+            },
+            "shanks": {
+              "en": "NUMA100, NUMA125, NUMA180, NUMA240",
+              "ar": "⁦NUMA100, NUMA125, NUMA180, NUMA240⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1\"–24\"",
+        "ar": "⁦1\"–24\"⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "مقاس واحد",
+          "مقاسان",
+          "مقاسات"
+        ],
+        "en": [
+          "size range",
+          "size ranges"
+        ]
+      }
+    },
+    {
+      "id": "foot-valve",
+      "label": {
+        "en": "High-pressure DTH hammers with foot valve",
+        "ar": "مطارق ⁦DTH⁩ للضغط العالي بصمام قدم"
+      },
+      "models": [
+        {
+          "code": "BX-0085-02-001",
+          "name": {
+            "en": "3.5–12.5 in",
+            "ar": "⁦3.5⁠–⁠12.5⁩ بوصة"
+          },
+          "specs": {
+            "models": {
+              "en": "MD35, MD45, MSD4, MQL4, MD55, MSD5, MQL5, MD65, MSD6, MQL6, MSD8, MQL8, MSD10, MN100, MN125",
+              "ar": "⁦MD35, MD45, MSD4, MQL4, MD55, MSD5, MQL5, MD65, MSD6, MQL6, MSD8, MQL8, MSD10, MN100, MN125⁩"
+            },
+            "data": {
+              "en": "For DHD, SD, QL and Mission bit shanks; spare-parts list for each model (top sub, check valve, air distributor, cylinders, piston, chuck)",
+              "ar": "لسيقان لقم ⁦DHD⁩ و⁦SD⁩ و⁦QL⁩ و⁦Mission⁩؛ قائمة قطع غيار لكل موديل (الوصلة العلوية، صمام عدم الرجوع، موزّع الهواء، الأسطوانات، المكبس، الظرف)"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "3.5–12.5 in",
+        "ar": "⁦3.5⁠–⁠12.5⁩ بوصة"
+      }
+    },
+    {
+      "id": "no-foot-valve",
+      "label": {
+        "en": "High-pressure DTH hammers without foot valve",
+        "ar": "مطارق ⁦DTH⁩ للضغط العالي بلا صمام قدم"
+      },
+      "models": [
+        {
+          "code": "BX-0085-02-002",
+          "name": {
+            "en": "1–12.5 in",
+            "ar": "⁦1⁠–⁠12.5⁩ بوصة"
+          },
+          "specs": {
+            "models": {
+              "en": "MBR1A, MBR2A, MD25A, MD35A, MD45S, MM4A, MQL4A, MD55A, MD55S, MM5A, MSD5A, MQL5A, MD65A, MM6A, MSD6A, MQL6A, MD85A, MSD8A, MQL8A, MQL95A, MSD10A, MN100A, MD1120A, MSD12A, MN125A",
+              "ar": "⁦MBR1A, MBR2A, MD25A, MD35A, MD45S, MM4A, MQL4A, MD55A, MD55S, MM5A, MSD5A, MQL5A, MD65A, MM6A, MSD6A, MQL6A, MD85A, MSD8A, MQL8A, MQL95A, MSD10A, MN100A, MD1120A, MSD12A, MN125A⁩"
+            },
+            "data": {
+              "en": "A versions without foot valve; S versions with a smaller outer diameter than standard; spare-parts list for each model",
+              "ar": "نسخ ⁦A⁩ بلا صمام قدم؛ ونسخ ⁦S⁩ بقطر خارجي أصغر من القياسي؛ قائمة قطع غيار لكل موديل"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1–12.5 in",
+        "ar": "⁦1⁠–⁠12.5⁩ بوصة"
+      }
+    }
+  ]
+}

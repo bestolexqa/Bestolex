@@ -30,5 +30,15 @@ export const FAMILY_IDS = new Set([
   'line-drilling-machines-compact-dth-drillers',
   'diamond-wire-saws',
   'block-pushing-handling',
-  'mine-ventilation-fans-ground-support-mesh'
+  'mine-ventilation-fans-ground-support-mesh',
+  'dth-hammers-bits',
+  'high-pressure-dth-bits',
+  'low-medium-pressure-dth-tools',
+  'overburden-casing-systems',
+  'dth-pipes-back-hammers-breakout-benches',
+  'reverse-circulation-rc-tools',
+  'tricone-pdc-core-drilling-tools',
+  'tapered-threaded-drilling-tools',
+  'button-bit-grinders',
+  'cutter-picks-additional-cir-hammers'
 ])

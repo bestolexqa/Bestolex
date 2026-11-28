@@ -1,0 +1,168 @@
+{
+  "id": "cutter-picks-additional-cir-hammers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-03 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-03 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Models / sizes",
+        "ar": "الموديلات والمقاسات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "picks",
+      "label": {
+        "en": "Conical cutter picks, sleeves & holders",
+        "ar": "أقلام القطع المخروطية وجلبها وحواملها"
+      },
+      "models": [
+        {
+          "code": "BX-0375-01-004",
+          "name": {
+            "en": "Mining conical picks – U-series",
+            "ar": "أقلام قطع مخروطية للتعدين – السلسلة ⁦U⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "U47-22N, U47-25N, U47-28N, U47L-19, U47L-22, U47L-28, U82-18, U82-19, U82-20, U82-22, U84-18PA, U84-19PA, U84-20PA, U84-22PA, U85-22P, U85-25P, U85-22PX, U85-25PX, U92L-19, U92L-22, U92-19P, U92-22P, U94H-19, U94-22S, U94-19SP, U94H-22P, U94-22SP, U95L-22P, U95L-25P, U95H-25P, U95-27PX, U95-28PX, U170-25A, U170-28A, U170-30A, U170-25PX, U170-28PX, U170-30PX",
+              "ar": "⁦U47-22N, U47-25N, U47-28N, U47L-19, U47L-22, U47L-28, U82-18, U82-19, U82-20, U82-22, U84-18PA, U84-19PA, U84-20PA, U84-22PA, U85-22P, U85-25P, U85-22PX, U85-25PX, U92L-19, U92L-22, U92-19P, U92-22P, U94H-19, U94-22S, U94-19SP, U94H-22P, U94-22SP, U95L-22P, U95L-25P, U95H-25P, U95-27PX, U95-28PX, U170-25A, U170-28A, U170-30A, U170-25PX, U170-28PX, U170-30PX⁩"
+            },
+            "data": {
+              "en": "Tungsten-carbide tip; for roadheaders, continuous miners and shearers; shank 19–30 mm",
+              "ar": "رأس من كربيد التنغستن؛ لماكينات حفر الأنفاق والتعدين المستمر والقص؛ ساق ⁦19⁠–⁠30⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0375-01-006",
+          "name": {
+            "en": "Heavy-duty mining picks – S-series",
+            "ar": "أقلام تعدين للخدمة الشاقة – السلسلة ⁦S⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "S135-25PA, S135-28PA, S135-30PA, S135-35PA, S135-28PX, S135-30PX, S135-35PX, S135-2870N6L, S135-3070N6L, S135-3570N6L, S135-2880N6L, S135-3080N6L, S135-3580N6L, S135-22R, S135-25R, S120W-22, S120W-25, S160L-22, S160L-25, S160L-28",
+              "ar": "⁦S135-25PA, S135-28PA, S135-30PA, S135-35PA, S135-28PX, S135-30PX, S135-35PX, S135-2870N6L, S135-3070N6L, S135-3570N6L, S135-2880N6L, S135-3080N6L, S135-3580N6L, S135-22R, S135-25R, S120W-22, S120W-25, S160L-22, S160L-25, S160L-28⁩"
+            },
+            "data": {
+              "en": "Large carbide tip for tunnelling and mining machines; shank 22–35 mm",
+              "ar": "رأس كربيد كبير لماكينات الأنفاق والتعدين؛ ساق ⁦22⁠–⁠35⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0375-01-005",
+          "name": {
+            "en": "Pick sleeves & holders",
+            "ar": "جلب الأقلام وحواملها"
+          },
+          "specs": {
+            "models": {
+              "en": "Sleeves U85, U95, R35, U170B, U170 standard",
+              "ar": "⁦Sleeves U85, U95, R35, U170B, U170 standard⁩"
+            },
+            "data": {
+              "en": "For the mining picks above",
+              "ar": "لأقلام التعدين أعلاه"
+            }
+          }
+        },
+        {
+          "code": "BX-0375-01-008",
+          "name": {
+            "en": "Trenching picks & holders",
+            "ar": "أقلام وحوامل حفر الخنادق"
+          },
+          "specs": {
+            "models": {
+              "en": "CM41, CM42, CM51, CM61, CMB4, CMB5B lock, CM65, CM69T, CM71T, CM63, C31, BTK10, C30H, TS20CX, TS40CX",
+              "ar": "⁦CM41, CM42, CM51, CM61, CMB4, CMB5B lock, CM65, CM69T, CM71T, CM63, C31, BTK10, C30H, TS20CX, TS40CX⁩"
+            },
+            "data": {
+              "en": "For wheel and chain trenchers",
+              "ar": "لحفارات الخنادق بالعجلة والجنزير"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Shank 19–35 mm",
+        "ar": "ساق ⁦19⁠–⁠35⁩ مم"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      },
+      "intro": {
+        "en": "Interchangeable with the main pick-holder systems used on roadheaders, continuous miners and shearers.",
+        "ar": "قابلة للتبديل مع أنظمة الحوامل الشائعة في ماكينات حفر الأنفاق والتعدين المستمر والقص."
+      }
+    },
+    {
+      "id": "cir-additional",
+      "label": {
+        "en": "Low-pressure DTH hammers – additional CIR models",
+        "ar": "مطارق ⁦DTH⁩ للضغط المنخفض – موديلات ⁦CIR⁩ إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0058-03-011",
+          "name": {
+            "en": "Low-pressure DTH hammers (CIR)",
+            "ar": "مطارق ⁦DTH⁩ للضغط المنخفض (⁦CIR⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "CIR55, CIR60, CIR70, CIR80, CIR80A, CIR80B, CIR100A, CIR100B, CIR150B, CIR150C, CIR170A, CIR200A",
+              "ar": "⁦CIR55, CIR60, CIR70, CIR80, CIR80A, CIR80B, CIR100A, CIR100B, CIR150B, CIR150C, CIR170A, CIR200A⁩"
+            },
+            "data": {
+              "en": "0.5–0.7 MPa; bits 55–210 mm; 6–163 kg; air 2–24 m³/min; suit low-pressure compressors",
+              "ar": "⁦0.5⁠–⁠0.7⁩ ميغاباسكال؛ لقم ⁦55⁠–⁠210⁩ مم؛ ⁦6⁠–⁠163⁩ كجم؛ هواء ⁦2⁠–⁠24⁩ م³/دقيقة؛ تناسب ضواغط الضغط المنخفض"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "0.5–0.7 MPa",
+        "ar": "⁦0.5⁠–⁠0.7⁩ ميغاباسكال"
+      }
+    }
+  ]
+}
