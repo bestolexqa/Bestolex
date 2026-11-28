@@ -14,7 +14,7 @@ IMGDIRS = dict(a.split('=', 1) for a in sys.argv[1:] if '=' in a)
 CATEGORY = {
     'id': 'gold-mining',
     'title': {'ar': 'تعدين الذهب', 'en': 'Gold Mining'},
-    'image': '/categories/gold-mining.webp',
+    'image': '/categories/gold-mining-site.webp',
     'description': {
         'ar': 'معدات تعدين الذهب على مراحل خط الإنتاج: التنقيب والحفر واستخراج الخام، ثم التكسير والطحن والغسيل والتركيز والمعالجة والصهر، مع المختبر ودعم الموقع. نورّد للمشاريع في الشرق الأوسط وأفريقيا بأكواد BX وجداول موديلات من كتالوجاتنا.',
         'en': 'Gold-mining equipment along the production line: exploration, drilling and ore extraction, then crushing, grinding, washing, concentration, processing and smelting, with laboratory and site support. We supply projects in the Middle East and Africa with BX codes and model tables from our catalogues.'},
