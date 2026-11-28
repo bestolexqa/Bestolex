@@ -32,7 +32,9 @@
             </div>
             <div class="flex flex-wrap gap-3">
               <NuxtLink :to="localePath('/quote')" class="gm-btn-gold">{{ isAr ? 'اطلب عرض سعر' : 'Request a quote' }}</NuxtLink>
-              <a v-if="stage.catalogue" :href="stage.catalogue" download class="gm-btn-ghost" @click="trackDownload">{{ isAr ? `تنزيل كتالوج ${stage.code} (PDF)` : `Download ${stage.code} (PDF)` }}</a>
+              <template v-if="stage.catalogues?.length">
+                <a v-for="c in stage.catalogues" :key="c.code" :href="c.file" download class="gm-btn-ghost" @click="trackDownload(c.code)">{{ isAr ? `تنزيل كتالوج ${c.code} (PDF)` : `Download ${c.code} (PDF)` }}</a>
+              </template>
               <a v-else :href="waCatalogue" target="_blank" rel="noopener" class="gm-btn-ghost">{{ isAr ? `اطلب كتالوج ${stage.code}` : `Request ${stage.code}` }}</a>
             </div>
           </div>
@@ -179,8 +181,8 @@ const familiesLine = (g) => {
 
 const waCatalogue = computed(() => whatsappLink(isAr.value ? `السلام عليكم، أرجو إرسال كتالوج ${stage.value.code} (${stage.value.title.ar}).` : `Hello, please send me the ${stage.value.code} catalogue (${stage.value.title.en}).`))
 const waAsk = computed(() => whatsappLink(isAr.value ? `السلام عليكم، أحتاج مساعدة في اختيار معدات ${stage.value.title.ar}.` : `Hello, I need help choosing ${stage.value.title.en} equipment.`))
-const trackDownload = () => {
-  try { $fetch('/api/analytics/track', { method: 'POST', body: { event_type: 'datasheet_request', target_name: `كتالوج ${stage.value.code}` } }) } catch (e) {}
+const trackDownload = (code) => {
+  try { $fetch('/api/analytics/track', { method: 'POST', body: { event_type: 'datasheet_request', target_name: `كتالوج ${typeof code === 'string' ? code : stage.value.code}` } }) } catch (e) {}
 }
 
 const SITE = 'https://www.bestolex.com'
