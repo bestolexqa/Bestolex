@@ -1,0 +1,181 @@
+{
+  "id": "gold-purity-density-lab-testing",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-09 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-09 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Gold purity, density and lab testing instruments",
+        "ar": "أجهزة نقاء الذهب والكثافة والاختبارات المخبرية"
+      },
+      "models": [
+        {
+          "code": "BX-0456-01-020",
+          "name": {
+            "en": "Gold and silver purity meters",
+            "ar": "أجهزة قياس نقاء الذهب والفضة"
+          },
+          "specs": {
+            "models": {
+              "en": "MDJ-300K, MDJ-1200K",
+              "ar": "⁦MDJ-300K, MDJ-1200K⁩"
+            },
+            "data": {
+              "en": "300 g and 1200 g at 0.01 g; reads gold karat 9–24 K, density and purity % by Archimedes' principle",
+              "ar": "⁦300⁩ جم و⁦1200⁩ جم بدقة ⁦0.01⁩ جم؛ يقرأ عيار الذهب ⁦9⁠–⁠24⁩ قيراطاً والكثافة ونسبة النقاء بمبدأ أرخميدس"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-014",
+          "name": {
+            "en": "Hydrostatic density balances, WT-S",
+            "ar": "موازين كثافة هيدروستاتيكية، ⁦WT-S⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "WT20001SF, WT50001SF, WT104XS, WT303XS, WT1003GHS, WT5003GHS",
+              "ar": "⁦WT20001SF, WT50001SF, WT104XS, WT303XS, WT1003GHS, WT5003GHS⁩"
+            },
+            "data": {
+              "en": "100 g to 30 kg; density software; solid and liquid kits",
+              "ar": "⁦100⁩ جم إلى ⁦30⁩ كجم؛ برنامج للكثافة؛ أطقم للمواد الصلبة والسوائل"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-016",
+          "name": {
+            "en": "Moisture analyzers, MB(T)",
+            "ar": "محللات الرطوبة، ⁦MB(T⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "MB1203(T), MB1203-5(T), MB1202(T)",
+              "ar": "⁦MB1203(T), MB1203-5(T), MB1202(T)⁩"
+            },
+            "data": {
+              "en": "120 g; 1, 5 or 10 mg; halogen heating to 180 °C",
+              "ar": "⁦120⁩ جم؛ ⁦1⁩ أو ⁦5⁩ أو ⁦10⁩ ملغ؛ تسخين بالهالوجين حتى ⁦180 °⁩م"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-023",
+          "name": {
+            "en": "Laboratory pH meters",
+            "ar": "أجهزة قياس ⁦pH⁩ مخبرية"
+          },
+          "specs": {
+            "models": {
+              "en": "PH-25, PH-3C, PHS-3CB, PHS-3CU",
+              "ar": "⁦PH-25, PH-3C, PHS-3CB, PHS-3CU⁩"
+            },
+            "data": {
+              "en": "pH 0–14 or -2.00 to 19.99; 0.01 resolution; manual or automatic temperature compensation",
+              "ar": "⁦pH⁩ من ⁦0⁩ إلى ⁦14⁩ أو من -⁦2.00⁩ إلى ⁦19.99⁩؛ دقة ⁦0.01⁩؛ تعويض حراري يدوي أو آلي"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-024",
+          "name": {
+            "en": "Rotational viscometers",
+            "ar": "مقاييس لزوجة دورانية"
+          },
+          "specs": {
+            "models": {
+              "en": "NDJ-5S, NDJ-8S, DV-1, RVDV-1",
+              "ar": "⁦NDJ-5S, NDJ-8S, DV-1, RVDV-1⁩"
+            },
+            "data": {
+              "en": "1 to 2,000,000 mPa·s; RVDV-1 to 13,000,000 mPa·s",
+              "ar": "من ⁦1⁩ إلى ⁦2,000,000⁩ ملي باسكال·ثانية؛ ⁦RVDV-1⁩ حتى ⁦13,000,000⁩ ملي باسكال·ثانية"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-022",
+          "name": {
+            "en": "Calibration weights",
+            "ar": "أوزان المعايرة"
+          },
+          "specs": {
+            "models": {
+              "en": "Classes E1, E2, F1, F2, M1",
+              "ar": "فئات ⁦E1⁩ و⁦E2⁩ و⁦F1⁩ و⁦F2⁩ و⁦M1⁩"
+            },
+            "data": {
+              "en": "Weight sets with cases and tweezers",
+              "ar": "أطقم أوزان بعلب وملاقط"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-021",
+          "name": {
+            "en": "Balance data printers",
+            "ar": "طابعات بيانات الموازين"
+          },
+          "specs": {
+            "models": {
+              "en": "TX-100, TX-110, TX-120",
+              "ar": "⁦TX-100, TX-110, TX-120⁩"
+            },
+            "data": {
+              "en": "Print weight, date and statistics; GLP / GMP formats",
+              "ar": "طباعة الوزن والتاريخ والإحصاءات؛ بصيغ ⁦GLP / GMP⁩"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

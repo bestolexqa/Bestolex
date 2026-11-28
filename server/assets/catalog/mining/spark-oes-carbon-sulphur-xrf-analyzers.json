@@ -1,0 +1,232 @@
+{
+  "id": "spark-oes-carbon-sulphur-xrf-analyzers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-09 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-09 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Analyzers & XRF sample preparation",
+        "ar": "المحللات وتحضير عينات ⁦XRF⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0206-01-001",
+          "name": {
+            "en": "Spark optical emission spectrometer",
+            "ar": "مطياف انبعاث بصري بالشرارة"
+          },
+          "specs": {
+            "models": {
+              "en": "Exquis T4",
+              "ar": "⁦Exquis T4⁩"
+            },
+            "data": {
+              "en": "Metals and alloys (Fe, Al, Cu, Zn matrices); Paschen-Runge optics; 160–580 nm; 33 kg",
+              "ar": "المعادن والسبائك (قواعد ⁦Fe⁩ و⁦Al⁩ و⁦Cu⁩ و⁦Zn⁩)؛ بصريات ⁦Paschen-Runge⁩؛ ⁦160⁠–⁠580⁩ نانومتر؛ ⁦33⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0206-01-002",
+          "name": {
+            "en": "Spark optical emission spectrometer",
+            "ar": "مطياف انبعاث بصري بالشرارة"
+          },
+          "specs": {
+            "models": {
+              "en": "Innovate T5",
+              "ar": "⁦Innovate T5⁩"
+            },
+            "data": {
+              "en": "Metals and alloys",
+              "ar": "المعادن والسبائك"
+            }
+          }
+        },
+        {
+          "code": "BX-0206-01-003",
+          "name": {
+            "en": "Spark optical emission spectrometer",
+            "ar": "مطياف انبعاث بصري بالشرارة"
+          },
+          "specs": {
+            "models": {
+              "en": "Noble T7",
+              "ar": "⁦Noble T7⁩"
+            },
+            "data": {
+              "en": "Metals and alloys",
+              "ar": "المعادن والسبائك"
+            }
+          }
+        },
+        {
+          "code": "BX-0206-01-004",
+          "name": {
+            "en": "Mobile spark spectrometer",
+            "ar": "مطياف شرارة متنقل"
+          },
+          "specs": {
+            "models": {
+              "en": "Surpass F1",
+              "ar": "⁦Surpass F1⁩"
+            },
+            "data": {
+              "en": "On a trolley for on-site alloy analysis",
+              "ar": "على عربة لتحليل السبائك في الموقع"
+            }
+          }
+        },
+        {
+          "code": "BX-0206-01-005",
+          "name": {
+            "en": "High-frequency infrared carbon & sulphur analyzer",
+            "ar": "محلل كربون وكبريت بالأشعة تحت الحمراء عالي التردد"
+          },
+          "specs": {
+            "models": {
+              "en": "CS2020",
+              "ar": "CS2020"
+            },
+            "data": {
+              "en": "Carbon and sulphur in metals, ores and minerals",
+              "ar": "الكربون والكبريت في المعادن والخامات"
+            }
+          }
+        },
+        {
+          "code": "BX-0206-01-006",
+          "name": {
+            "en": "High-frequency infrared carbon & sulphur analyzers",
+            "ar": "محللات كربون وكبريت بالأشعة تحت الحمراء عالية التردد"
+          },
+          "specs": {
+            "models": {
+              "en": "CS995, CS996",
+              "ar": "⁦CS995, CS996⁩"
+            },
+            "data": {
+              "en": "Carbon and sulphur analysis",
+              "ar": "تحليل الكربون والكبريت"
+            }
+          }
+        },
+        {
+          "code": "BX-0468-01-001",
+          "name": {
+            "en": "Multi-element XRF analyzer",
+            "ar": "محلل ⁦XRF⁩ متعدد العناصر"
+          },
+          "specs": {
+            "models": {
+              "en": "KL6800",
+              "ar": "KL6800"
+            },
+            "data": {
+              "en": "Energy-dispersive multi-element analysis",
+              "ar": "تحليل متعدد العناصر بتشتت الطاقة"
+            }
+          }
+        },
+        {
+          "code": "BX-0468-02-001",
+          "name": {
+            "en": "XRF spectrometer",
+            "ar": "مطياف ⁦XRF⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "RL-RAY6000T",
+              "ar": "⁦RL-RAY6000T⁩"
+            },
+            "data": {
+              "en": "Metals and alloys",
+              "ar": "المعادن والسبائك"
+            }
+          }
+        },
+        {
+          "code": "BX-0468-03-001",
+          "name": {
+            "en": "Vibratory sample mill",
+            "ar": "طاحونة عينات اهتزازية"
+          },
+          "specs": {
+            "models": {
+              "en": "ZHM-PLUS",
+              "ar": "⁦ZHM-PLUS⁩"
+            },
+            "data": {
+              "en": "Sample preparation for XRF",
+              "ar": "تحضير العينات لتحليل ⁦XRF⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0468-04-001",
+          "name": {
+            "en": "Automatic pellet press",
+            "ar": "مكبس أقراص آلي"
+          },
+          "specs": {
+            "models": {
+              "en": "ZHY-40PRO, ZHY-60PRO",
+              "ar": "⁦ZHY-40PRO, ZHY-60PRO⁩"
+            },
+            "data": {
+              "en": "Pressed-pellet preparation for XRF",
+              "ar": "تحضير الأقراص المضغوطة لتحليل ⁦XRF⁩"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ]
+}

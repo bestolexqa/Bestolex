@@ -1,0 +1,249 @@
+{
+  "id": "metallurgical-test-laboratory-equipment",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-09 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-09 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Ore testing equipment",
+        "ar": "معدات اختبار الخام"
+      },
+      "models": [
+        {
+          "code": "BX-0188-01-001",
+          "name": {
+            "en": "Laboratory crushers",
+            "ar": "كسارات مختبرية"
+          },
+          "specs": {
+            "models": {
+              "en": "DG double-roll, XPF disc pulverizer, MPS, PC hammer crusher, DF-4",
+              "ar": "⁦DG⁩ مزدوجة الأسطوانة، وساحقة قرصية ⁦XPF⁩، و⁦MPS⁩، وكسارة مطرقية ⁦PC⁩، و⁦DF-4⁩"
+            },
+            "data": {
+              "en": "Sample preparation crushing",
+              "ar": "تكسير العينات للتحضير"
+            }
+          }
+        },
+        {
+          "code": "BX-0188-01-002",
+          "name": {
+            "en": "Laboratory jaw crushers",
+            "ar": "كسارات فكية مختبرية"
+          },
+          "specs": {
+            "models": {
+              "en": "PE, HPEF (suspended), EPS (sealed)",
+              "ar": "⁦PE⁩ و⁦HPEF⁩ (معلّقة) و⁦EPS⁩ (محكمة)"
+            },
+            "data": {
+              "en": "Sample preparation jaw crushing",
+              "ar": "تكسير العينات بالفكين"
+            }
+          }
+        },
+        {
+          "code": "BX-0188-01-004",
+          "name": {
+            "en": "Laboratory ball & rod mills",
+            "ar": "طواحين كرات وقضبان مختبرية"
+          },
+          "specs": {
+            "models": {
+              "en": "XMB, XMQ, QM tube mill, XMGB work-index mill, MJQL, XMQL Ø420×450",
+              "ar": "⁦XMB⁩ و⁦XMQ⁩ وطاحونة أنبوبية ⁦QM⁩ وطاحونة مؤشر العمل ⁦XMGB⁩ و⁦MJQL⁩ و⁦XMQL⁩ ‏⁦420×450⁩"
+            },
+            "data": {
+              "en": "Grinding tests and Bond work-index tests",
+              "ar": "اختبارات الطحن ومؤشر عمل بوند"
+            }
+          }
+        },
+        {
+          "code": "BX-0188-01-005",
+          "name": {
+            "en": "Laboratory grinders & wet pan mill",
+            "ar": "مطاحن مختبرية وطاحونة رطبة"
+          },
+          "specs": {
+            "models": {
+              "en": "XPM Ø120×3, XPWL, LQM-Ø600 / Ø300",
+              "ar": "⁦XPM Ø120×3, XPWL, LQM-Ø600 / Ø300⁩"
+            },
+            "data": {
+              "en": "Fine grinding and gravity tests",
+              "ar": "الطحن الناعم واختبارات الجاذبية"
+            }
+          }
+        },
+        {
+          "code": "BX-0188-01-006",
+          "name": {
+            "en": "Laboratory flotation machines",
+            "ar": "آلات تعويم مختبرية"
+          },
+          "specs": {
+            "models": {
+              "en": "XFD, XFG, XFD-12, XFLB, FX",
+              "ar": "⁦XFD, XFG, XFD-12, XFLB, FX⁩"
+            },
+            "data": {
+              "en": "Single-cell and multi-cell flotation tests",
+              "ar": "اختبارات التعويم بخلية واحدة أو بعدة خلايا"
+            }
+          }
+        },
+        {
+          "code": "BX-0188-01-007",
+          "name": {
+            "en": "Leaching agitator XJT",
+            "ar": "خلاط إذابة ⁦XJT⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "XJT",
+              "ar": "XJT"
+            },
+            "data": {
+              "en": "Bottle-roll leach and agitation tests",
+              "ar": "اختبارات الإذابة في القوارير الدوّارة والخلط"
+            }
+          }
+        },
+        {
+          "code": "BX-0188-01-008",
+          "name": {
+            "en": "Sample splitters & roasting kiln",
+            "ar": "مقسّمات العينات وفرن التحميص"
+          },
+          "specs": {
+            "models": {
+              "en": "XSHF2-3 wet splitter, NTL-WF, SHY-I",
+              "ar": "مقسّم رطب ⁦XSHF2-3⁩ و⁦NTL-WF⁩ و⁦SHY-I⁩"
+            },
+            "data": {
+              "en": "Sample division and roasting tests",
+              "ar": "تقسيم العينات واختبارات التحميص"
+            }
+          }
+        },
+        {
+          "code": "BX-0188-01-009",
+          "name": {
+            "en": "Laboratory magnetic separators",
+            "ar": "فواصل مغناطيسية مختبرية"
+          },
+          "specs": {
+            "models": {
+              "en": "CRS Ø400×300 wet drum, XCGS Ø50, CSQ 50×70",
+              "ar": "أسطوانة رطبة ⁦CRS⁩ ‏⁦400×300⁩ و⁦XCGS⁩ ‏⁦50⁩ و⁦CSQ⁩ ‏⁦50×70⁩"
+            },
+            "data": {
+              "en": "Magnetic separation tests",
+              "ar": "اختبارات الفصل المغناطيسي"
+            }
+          }
+        },
+        {
+          "code": "BX-0188-01-010",
+          "name": {
+            "en": "Sieve shakers & lab vibrating screens",
+            "ar": "هزازات مناخل وغرابيل اهتزازية مختبرية"
+          },
+          "specs": {
+            "models": {
+              "en": "XSZ-200, XSBP, XSZ-600×300",
+              "ar": "⁦XSZ-200, XSBP, XSZ-600×300⁩"
+            },
+            "data": {
+              "en": "Particle-size analysis",
+              "ar": "تحليل حجم الحبيبات"
+            }
+          }
+        },
+        {
+          "code": "BX-0188-01-013",
+          "name": {
+            "en": "Laboratory gravity concentrators",
+            "ar": "مركّزات جاذبية مختبرية"
+          },
+          "specs": {
+            "models": {
+              "en": "LYN(S)-1100×500 shaking table, XCT, XDT",
+              "ar": "طاولة هزّازة ⁦LYN(S)-1100×500⁩ و⁦XCT⁩ و⁦XDT⁩"
+            },
+            "data": {
+              "en": "Gravity separation tests",
+              "ar": "اختبارات الفصل بالجاذبية"
+            }
+          }
+        },
+        {
+          "code": "BX-0188-01-014",
+          "name": {
+            "en": "Laboratory desorption & electrowinning unit",
+            "ar": "وحدة نزع واستخلاص كهربائي مختبرية"
+          },
+          "specs": {
+            "models": {
+              "en": "Laboratory unit",
+              "ar": "وحدة مختبرية"
+            },
+            "data": {
+              "en": "Carbon elution and gold electrowinning tests",
+              "ar": "اختبارات نزع الكربون واستخلاص الذهب كهربائياً"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ]
+}

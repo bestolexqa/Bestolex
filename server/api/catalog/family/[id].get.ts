@@ -79,7 +79,23 @@ const FAMILY_FILES: Record<string, string> = {
   'mobile-gold-washing-plants': 'catalog/mining/mobile-gold-washing-plants.json',
   'sluice-boxes-gold-carpets-pans': 'catalog/mining/sluice-boxes-gold-carpets-pans.json',
   'dredgers': 'catalog/mining/dredgers.json',
-  'amphibious-dredgers-excavators': 'catalog/mining/amphibious-dredgers-excavators.json'
+  'amphibious-dredgers-excavators': 'catalog/mining/amphibious-dredgers-excavators.json',
+  'sample-crushing-pulverizing': 'catalog/mining/sample-crushing-pulverizing.json',
+  'sample-division-sieving-drying-digestion': 'catalog/mining/sample-division-sieving-drying-digestion.json',
+  'sample-preparation-additional-range': 'catalog/mining/sample-preparation-additional-range.json',
+  'fire-assay-furnaces-cupels': 'catalog/mining/fire-assay-furnaces-cupels.json',
+  'fire-assay-fluxing-lab-utilities': 'catalog/mining/fire-assay-fluxing-lab-utilities.json',
+  'laboratory-balances-micropipettes': 'catalog/mining/laboratory-balances-micropipettes.json',
+  'laboratory-balances-industrial-scales': 'catalog/mining/laboratory-balances-industrial-scales.json',
+  'xrf-analyzers-benchtop-handheld': 'catalog/mining/xrf-analyzers-benchtop-handheld.json',
+  'atomic-absorption-fluorescence-spectrometers': 'catalog/mining/atomic-absorption-fluorescence-spectrometers.json',
+  'icp-oes-spectrometer': 'catalog/mining/icp-oes-spectrometer.json',
+  'benchtop-xrf-flame-aas-crucibles': 'catalog/mining/benchtop-xrf-flame-aas-crucibles.json',
+  'atomic-absorption-additional-models': 'catalog/mining/atomic-absorption-additional-models.json',
+  'xrf-carbon-sulfur-analyzers': 'catalog/mining/xrf-carbon-sulfur-analyzers.json',
+  'spark-oes-carbon-sulphur-xrf-analyzers': 'catalog/mining/spark-oes-carbon-sulphur-xrf-analyzers.json',
+  'gold-purity-density-lab-testing': 'catalog/mining/gold-purity-density-lab-testing.json',
+  'metallurgical-test-laboratory-equipment': 'catalog/mining/metallurgical-test-laboratory-equipment.json'
 }
 
 const cache = new Map<string, any>()

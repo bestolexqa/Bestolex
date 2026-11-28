@@ -184,12 +184,27 @@ export const STAGES: Stage[] = [
     image: '/gold-mining/support/pumps-slurry-handling.webp', cover: '/gold-mining/covers/bxc-07.webp', cta: CTA_DEFAULT
   },
   {
-    id: 'laboratory-assay', n: 0, kind: 'support', code: 'BXC-09', edition: '6',
+    id: 'laboratory-assay', n: 0, kind: 'support', code: 'BXC-09', edition: '6', sub: 'laboratory-assay',
     title: L('المختبر والتحليل', 'Laboratory & Assay'),
     short: L('تحضير العينات، والتحليل بالنار، والموازين، وأجهزة XRF وAAS.', 'Sample preparation, fire assay, balances, and XRF and AAS instruments.'),
     lead: L('تحضير العينات، والتحليل بالنار، والموازين، وأجهزة XRF وAAS.', 'Sample preparation, fire assay, balances, and XRF and AAS instruments.'),
     families: 16, models: 294,
-    image: '/gold-mining/support/laboratory-assay.webp', cover: '/gold-mining/covers/bxc-09.webp', cta: CTA_DEFAULT
+    image: '/gold-mining/support/laboratory-assay.webp', cover: '/gold-mining/covers/bxc-09.webp',
+    cta: { title: L('تجهّز مختبر تحليل لموقعك؟', 'Setting up an assay lab for your site?'),
+      text: L('أرسل عدد العينات في اليوم، وطريقة التحليل (بالنار أو AAS أو XRF)، والكهرباء المتاحة، ونقترح عليك قائمة المعدات أو مختبراً في حاوية.', 'Send us the samples per day, the assay method (fire assay, AAS or XRF) and the power available, and we suggest the equipment list or a containerised lab.') },
+    types: [
+      { id: 'prep', chip: L('تحضير العينات', 'Sample prep'), badge: L('تحضير العينات', 'Sample preparation') },
+      { id: 'fire', chip: L('التحليل بالنار', 'Fire assay'), badge: L('التحليل بالنار', 'Fire assay') },
+      { id: 'weighing', chip: L('الوزن', 'Weighing'), badge: L('الوزن', 'Weighing') },
+      { id: 'instruments', chip: L('أجهزة التحليل', 'Analysers'), badge: L('أجهزة التحليل', 'Instrumental analysis') },
+      { id: 'testing', chip: L('الاختبارات', 'Testing'), badge: L('الاختبارات', 'Testing') }
+    ],
+    how: [
+      { title: L('عدد العينات', 'Sample load'), text: L('عدد العينات في اليوم يحدد مقاس الكسارات والساحقات وعدد مواضع أفران الصهر والتكويب.', 'Samples per day set the size of the crushers and pulverisers and the number of fusion and cupellation positions.') },
+      { title: L('طريقة التحليل', 'Assay method'), text: L('التحليل بالنار مرجع الذهب، والامتصاص الذري لمحاليل الإذابة، وXRF للفحص السريع ورتبة الخام.', 'Fire assay is the gold reference, AAS suits leach solutions and XRF gives quick checks and ore grade.') },
+      { title: L('دقة الوزن', 'Weighing precision'), text: L('وزن حبات الذهب يحتاج 0.1 ملغ أو أدق، ووزن العينات والأكياس يكفيه ميزان دقيق أو منصة.', 'Gold beads need 0.1 mg or finer; samples and bags need a precision or platform balance.') },
+      { title: L('الكهرباء والمكان', 'Power and space'), text: L('أفران الصهر ثلاثية الأطوار حتى 40 كيلوواط؛ وفي المواقع البعيدة يُجهّز المختبر في حاوية.', 'Fusion furnaces run three-phase up to 40 kW; at remote sites the lab can come in a container.') }
+    ]
   },
   {
     id: 'fleet-support', n: 0, kind: 'support', code: 'BXC-10', edition: '4',
@@ -211,6 +226,22 @@ export const STAGES: Stage[] = [
 
 // Family pages: their place in the stage (group tab) and their chip.
 const FAMILY_META: Record<string, { group?: string, type?: string }> = {
+  'sample-crushing-pulverizing': { type: 'prep' },
+  'sample-division-sieving-drying-digestion': { type: 'prep' },
+  'sample-preparation-additional-range': { type: 'prep' },
+  'fire-assay-furnaces-cupels': { type: 'fire' },
+  'fire-assay-fluxing-lab-utilities': { type: 'fire' },
+  'laboratory-balances-micropipettes': { type: 'weighing' },
+  'laboratory-balances-industrial-scales': { type: 'weighing' },
+  'xrf-analyzers-benchtop-handheld': { type: 'instruments' },
+  'atomic-absorption-fluorescence-spectrometers': { type: 'instruments' },
+  'icp-oes-spectrometer': { type: 'instruments' },
+  'benchtop-xrf-flame-aas-crucibles': { type: 'instruments' },
+  'atomic-absorption-additional-models': { type: 'instruments' },
+  'xrf-carbon-sulfur-analyzers': { type: 'instruments' },
+  'spark-oes-carbon-sulphur-xrf-analyzers': { type: 'instruments' },
+  'gold-purity-density-lab-testing': { type: 'testing' },
+  'metallurgical-test-laboratory-equipment': { type: 'testing' },
   'trommel-scrubbers-log-washers': { type: 'washing' },
   'spiral-washers-attrition-scrubbers': { type: 'washing' },
   'trommels-scrubbers-additional-models': { type: 'washing' },

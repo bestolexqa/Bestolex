@@ -1,0 +1,304 @@
+{
+  "id": "atomic-absorption-fluorescence-spectrometers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-09 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-09 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Model",
+    "ar": "الموديل"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "atom",
+      "label": {
+        "en": "Atomization",
+        "ar": "التذرية"
+      }
+    },
+    {
+      "key": "lamps",
+      "label": {
+        "en": "Lamps",
+        "ar": "المصابيح"
+      }
+    },
+    {
+      "key": "slit",
+      "label": {
+        "en": "Slit (nm)",
+        "ar": "الشق (نانومتر)"
+      }
+    },
+    {
+      "key": "bg",
+      "label": {
+        "en": "Background correction",
+        "ar": "تصحيح الخلفية"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    },
+    {
+      "key": "desc",
+      "label": {
+        "en": "Description",
+        "ar": "الوصف"
+      }
+    }
+  ],
+  "keyRows": [
+    "atom",
+    "lamps",
+    "slit"
+  ],
+  "types": [
+    {
+      "id": "aas",
+      "label": {
+        "en": "AAS models",
+        "ar": "موديلات الامتصاص الذري"
+      },
+      "models": [
+        {
+          "code": "BX-0047-03-001",
+          "name": {
+            "en": "AA320N",
+            "ar": "AA320N"
+          },
+          "specs": {
+            "atom": {
+              "en": "Air-acetylene and nitrous oxide-acetylene flame; graphite furnace and hydride generator available",
+              "ar": "لهب هواء-أسيتيلين وأكسيد النيتروز-أسيتيلين؛ فرن جرافيت ومولد هيدريد متاحان"
+            },
+            "slit": {
+              "en": "0.2–5.0",
+              "ar": "⁦0.2–5.0⁩"
+            },
+            "bg": {
+              "en": "Deuterium",
+              "ar": "ديوتيريوم"
+            },
+            "data": {
+              "en": "Double beam; ±0.5 nm; Cu DL 0.008 µg/mL; Ti burner 5 cm; 1220×770×730 mm, 160 kg",
+              "ar": "شعاع مزدوج؛ ±⁦0.5⁩ نانومتر؛ حد كشف النحاس ⁦0.008⁩ ميكروجرام/مل؛ موقد تيتانيوم ⁦5⁩ سم؛ ⁦1220×770×730⁩ مم، ⁦160⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0048-04-013",
+          "name": {
+            "en": "DW-AA4530F",
+            "ar": "⁦DW-AA4530F⁩"
+          },
+          "specs": {
+            "atom": {
+              "en": "Flame (100 mm Ti burner); graphite furnace optional, ≤ 3000 °C",
+              "ar": "لهب (موقد تيتانيوم ⁦100⁩ مم)؛ فرن جرافيت اختياري، ≤ ⁦3000 °⁩م"
+            },
+            "lamps": {
+              "en": "8-turret",
+              "ar": "برج ⁦8⁩ مصابيح"
+            },
+            "slit": {
+              "en": "0.1–2.0",
+              "ar": "⁦0.1–2.0⁩"
+            },
+            "bg": {
+              "en": "Deuterium, self-absorption",
+              "ar": "ديوتيريوم، امتصاص ذاتي"
+            },
+            "data": {
+              "en": "±0.15 nm; 1800 l/mm grating; Cu DL 0.004 µg/mL",
+              "ar": "±⁦0.15⁩ نانومتر؛ محزز ⁦1800⁩ خط/مم؛ حد كشف النحاس ⁦0.004⁩ ميكروجرام/مل"
+            }
+          }
+        },
+        {
+          "code": "BX-0048-04-014",
+          "name": {
+            "en": "DW-AA4730FG",
+            "ar": "⁦DW-AA4730FG⁩"
+          },
+          "specs": {
+            "atom": {
+              "en": "Flame and graphite furnace integrated, PC switching",
+              "ar": "لهب وفرن جرافيت متكاملان، تبديل بالحاسوب"
+            },
+            "bg": {
+              "en": "Deuterium, self-absorption",
+              "ar": "ديوتيريوم، امتصاص ذاتي"
+            },
+            "data": {
+              "en": "Czerny-Turner, 1800 l/mm; auto gas cut-off; ppb level",
+              "ar": "⁦Czerny-Turner⁩، ‏⁦1800⁩ خط/مم؛ قطع آلي للغاز؛ مستوى ⁦ppb⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0048-04-015",
+          "name": {
+            "en": "DW-220A",
+            "ar": "⁦DW-220A⁩"
+          },
+          "specs": {
+            "atom": {
+              "en": "Flame + graphite furnace, ≤ 3000 °C, > 2500 °C/s",
+              "ar": "لهب + فرن جرافيت، ≤ ⁦3000 °⁩م، > ⁦2500 °⁩م/ثانية"
+            },
+            "lamps": {
+              "en": "8, auto",
+              "ar": "⁦8⁩، آلي"
+            },
+            "slit": {
+              "en": "0.1 / 0.2 / 0.4 / 0.8 / 1.6",
+              "ar": "⁦0.1 / 0.2 / 0.4 / 0.8 / 1.6⁩"
+            },
+            "bg": {
+              "en": "Deuterium, Smith-Hieftje",
+              "ar": "ديوتيريوم، ⁦Smith-Hieftje⁩"
+            },
+            "data": {
+              "en": "Auto burner height/position; 1020×530×500 mm, 90 kg",
+              "ar": "ضبط آلي لارتفاع الموقد وموضعه؛ ⁦1020×530×500⁩ مم، ⁦90⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0048-04-016",
+          "name": {
+            "en": "DW-220B",
+            "ar": "⁦DW-220B⁩"
+          },
+          "specs": {
+            "atom": {
+              "en": "Flame, auto ignition",
+              "ar": "لهب، إشعال آلي"
+            },
+            "lamps": {
+              "en": "8, auto",
+              "ar": "⁦8⁩، آلي"
+            },
+            "slit": {
+              "en": "0.1 / 0.2 / 0.4 / 1.2",
+              "ar": "⁦0.1 / 0.2 / 0.4 / 1.2⁩"
+            },
+            "bg": {
+              "en": "Deuterium, Smith-Hieftje",
+              "ar": "ديوتيريوم، ⁦Smith-Hieftje⁩"
+            },
+            "data": {
+              "en": "ppm-level gold in mine labs; 1020×530×500 mm, 85 kg",
+              "ar": "الذهب بمستوى ⁦ppm⁩ في مختبرات المناجم؛ ⁦1020×530×500⁩ مم، ⁦85⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0048-04-017",
+          "name": {
+            "en": "DW-180B",
+            "ar": "⁦DW-180B⁩"
+          },
+          "specs": {
+            "atom": {
+              "en": "Automatic flame, single beam",
+              "ar": "لهب آلي، شعاع واحد"
+            },
+            "lamps": {
+              "en": "8",
+              "ar": "8"
+            },
+            "data": {
+              "en": "71-position autosampler optional; 20 mm cast-aluminium optical bench",
+              "ar": "مُلقّم عينات آلي ⁦71⁩ موضعاً اختياري؛ منصة بصرية من الألومنيوم المصبوب ⁦20⁩ مم"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "190–900 nm",
+        "ar": "⁦190⁠–⁠900⁩ نانومتر"
+      },
+      "countUnit": {
+        "ar": [
+          "جهاز واحد",
+          "جهازان",
+          "أجهزة"
+        ],
+        "en": [
+          "instrument",
+          "instruments"
+        ]
+      },
+      "intro": {
+        "en": "All models 190–900 nm. AA320N is supplied with air compressor and Cu lamp; Au lamp on request.",
+        "ar": "جميع الموديلات ⁦190⁠–⁠900⁩ نانومتر. يُورَّد ⁦AA320N⁩ مع ضاغط هواء ومصباح نحاس؛ مصباح الذهب عند الطلب."
+      },
+      "keyRows": [
+        "atom",
+        "bg",
+        "data"
+      ]
+    },
+    {
+      "id": "afs",
+      "label": {
+        "en": "Atomic fluorescence & hollow-cathode lamps",
+        "ar": "الفلورة الذرية ومصابيح الكاثود المجوف"
+      },
+      "models": [
+        {
+          "code": "BX-0048-04-018",
+          "name": {
+            "en": "DW-AFS310",
+            "ar": "⁦DW-AFS310⁩"
+          },
+          "specs": {
+            "desc": {
+              "en": "Atomic fluorescence spectrometer with hydride generation and two lamp positions for trace Hg, As and Se",
+              "ar": "مطياف فلورة ذرية بمولد هيدريد وموضعين للمصابيح لقياس الزئبق والزرنيخ والسيلينيوم بتراكيز ضئيلة"
+            }
+          }
+        },
+        {
+          "code": "BX-0048-04-019",
+          "name": {
+            "en": "KY-I to KY-IV lamps",
+            "ar": "مصابيح ⁦KY-I⁩ إلى ⁦KY-IV⁩"
+          },
+          "specs": {
+            "desc": {
+              "en": "Hollow-cathode lamps for Au, Ag, Cu, Pb, Zn, Hg, Cd and other elements, with nebulizers and burners",
+              "ar": "مصابيح كاثود مجوف للذهب والفضة والنحاس والرصاص والزنك والزئبق والكادميوم وعناصر أخرى، مع البخاخات والمواقد"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "icp-oes-spectrometer",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-09 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-09 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "type",
+      "label": {
+        "en": "Type",
+        "ar": "النوع"
+      }
+    },
+    {
+      "key": "optics",
+      "label": {
+        "en": "Optics",
+        "ar": "البصريات"
+      }
+    },
+    {
+      "key": "rf",
+      "label": {
+        "en": "RF generator",
+        "ar": "مولد التردد الراديوي"
+      }
+    },
+    {
+      "key": "torch",
+      "label": {
+        "en": "Torch",
+        "ar": "الشعلة"
+      }
+    },
+    {
+      "key": "software",
+      "label": {
+        "en": "Software",
+        "ar": "البرمجيات"
+      }
+    },
+    {
+      "key": "use",
+      "label": {
+        "en": "Use",
+        "ar": "الاستخدام"
+      }
+    }
+  ],
+  "keyRows": [
+    "type",
+    "optics",
+    "rf"
+  ],
+  "types": [
+    {
+      "id": "icp",
+      "label": {
+        "en": "ICP-OES spectrometer",
+        "ar": "مطياف ⁦ICP-OES⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0050-05-001",
+          "name": {
+            "en": "ICP2060T",
+            "ar": "ICP2060T"
+          },
+          "specs": {
+            "type": {
+              "en": "Sequential scanning ICP-OES",
+              "ar": "⁦ICP-OES⁩ بمسح تتابعي"
+            },
+            "optics": {
+              "en": "Holographic grating; 190–500 or 190–800 nm by grating",
+              "ar": "محزز هولوغرافي؛ ⁦190⁠–⁠500⁩ أو ⁦190⁠–⁠800⁩ نانومتر حسب المحزز"
+            },
+            "rf": {
+              "en": "Self-excited 27.12 MHz with automatic matching",
+              "ar": "ذاتي الإثارة ⁦27.12⁩ ميجاهرتز بمواءمة آلية"
+            },
+            "torch": {
+              "en": "Computer-controlled plasma platform",
+              "ar": "منصة بلازما يتحكم فيها الحاسوب"
+            },
+            "software": {
+              "en": "Background and spectral-interference correction; instrument diagnostics",
+              "ar": "تصحيح الخلفية والتداخل الطيفي؛ تشخيص الجهاز"
+            },
+            "use": {
+              "en": "Multi-element analysis of digested ore, concentrate and process solutions",
+              "ar": "تحليل متعدد العناصر للخام المهضوم والمركّز ومحاليل المعالجة"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "190–800 nm",
+        "ar": "⁦190⁠–⁠800⁩ نانومتر"
+      },
+      "intro": {
+        "en": "Full specifications (power, dimensions, weight) on request.",
+        "ar": "المواصفات الكاملة (القدرة والأبعاد والوزن) عند الطلب."
+      },
+      "keyRows": [
+        "type",
+        "optics",
+        "rf"
+      ]
+    }
+  ]
+}

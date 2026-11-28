@@ -1,0 +1,178 @@
+{
+  "id": "atomic-absorption-additional-models",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-09 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-09 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Model",
+    "ar": "الموديل"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "atom",
+      "label": {
+        "en": "Atomization",
+        "ar": "التذرية"
+      }
+    },
+    {
+      "key": "lamps",
+      "label": {
+        "en": "Lamps",
+        "ar": "المصابيح"
+      }
+    },
+    {
+      "key": "bg",
+      "label": {
+        "en": "Background correction",
+        "ar": "تصحيح الخلفية"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "atom",
+    "lamps",
+    "bg"
+  ],
+  "types": [
+    {
+      "id": "models",
+      "label": {
+        "en": "Atomic absorption spectrophotometers – additional models",
+        "ar": "مطيافات الامتصاص الذري – موديلات إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0048-03-003",
+          "name": {
+            "en": "DW-320",
+            "ar": "⁦DW-320⁩"
+          },
+          "specs": {
+            "atom": {
+              "en": "Flame (economy model)",
+              "ar": "لهب (موديل اقتصادي)"
+            },
+            "lamps": {
+              "en": "2 powered (1 pre-heating)",
+              "ar": "مصباحان يعملان (واحد للتسخين المسبق)"
+            },
+            "bg": {
+              "en": "Deuterium, > 30× at 1 A",
+              "ar": "ديوتيريوم، > ⁦30⁩ ضعفاً عند ⁦1 A⁩"
+            },
+            "data": {
+              "en": "Manual wavelength and slit (0.1 / 0.2 / 0.4 / 1.2 nm); 277 mm Czerny-Turner, 1800 l/mm; ±0.5 nm; baseline 0.005 A/30 min; R928 photomultiplier; 10 cm Ti burner; fuel-leak alarm; Cu detection limit ≤ 0.006 mg/L; 1020 × 490 × 540 mm, 80 kg",
+              "ar": "ضبط يدوي للطول الموجي والشق (⁦0.1 / 0.2 / 0.4 / 1.2⁩ نانومتر)؛ ⁦Czerny-Turner⁩ ‏⁦277⁩ مم، ⁦1800⁩ خط/مم؛ ±⁦0.5⁩ نانومتر؛ خط الأساس ⁦0.005 A/30⁩ دقيقة؛ مضاعف ضوئي ⁦R928⁩؛ موقد تيتانيوم ⁦10⁩ سم؛ إنذار تسرب الوقود؛ حد كشف النحاس ≤ ⁦0.006⁩ ملغ/لتر؛ ⁦1020 × 490 × 540⁩ مم، ⁦80⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0048-03-006",
+          "name": {
+            "en": "DW-200",
+            "ar": "⁦DW-200⁩"
+          },
+          "specs": {
+            "atom": {
+              "en": "Flame and graphite furnace, automatic changeover; flame emission for K and Na",
+              "ar": "لهب وفرن جرافيت بتبديل آلي؛ انبعاث لهبي للبوتاسيوم والصوديوم"
+            },
+            "lamps": {
+              "en": "6, motorized turret",
+              "ar": "⁦6⁩، برج آلي"
+            },
+            "bg": {
+              "en": "Deuterium and S-H, > 30×",
+              "ar": "ديوتيريوم و⁦S-H⁩، > ⁦30⁩ ضعفاً"
+            },
+            "data": {
+              "en": "Auto slit 0.1 / 0.2 / 0.4 / 1.2 nm; 277 mm Czerny-Turner; ±0.25 nm; baseline 0.004 A/30 min; furnace to 3000 °C at 2000 °C/s; precision Cd, Cu ≤ 3%; autosampler 55 + 5 vessels, from 1 µl; main unit 140 kg, furnace 65 kg",
+              "ar": "شق آلي ⁦0.1 / 0.2 / 0.4 / 1.2⁩ نانومتر؛ ⁦Czerny-Turner⁩ ‏⁦277⁩ مم؛ ±⁦0.25⁩ نانومتر؛ خط الأساس ⁦0.004 A/30⁩ دقيقة؛ فرن حتى ⁦3000 °⁩م بمعدل ⁦2000 °⁩م/ثانية؛ دقة ⁦Cd⁩ و⁦Cu ≤ 3%⁩؛ ملقّم عينات ⁦55 + 5⁩ أوعية من ⁦1⁩ ميكرولتر؛ الجهاز ⁦140⁩ كجم والفرن ⁦65⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0048-03-005 / DW-220C Pro / 220C / 220C Es",
+          "name": {
+            "en": "DW-220C Pro / 220C / 220C Es",
+            "ar": "⁦DW-220C Pro / 220C / 220C Es⁩"
+          },
+          "specs": {
+            "atom": {
+              "en": "Graphite furnace only",
+              "ar": "فرن جرافيت فقط"
+            },
+            "lamps": {
+              "en": "8, automatic",
+              "ar": "⁦8⁩، آلي"
+            },
+            "bg": {
+              "en": "Deuterium; self-absorption (not on Es)",
+              "ar": "ديوتيريوم؛ امتصاص ذاتي (عدا ⁦Es⁩)"
+            },
+            "data": {
+              "en": "Cd detection limit ≤ 0.5 pg, precision ≤ 2.8%; 190–900 nm; Pro adds a furnace camera; Es with CR131 photomultiplier and 4 slits",
+              "ar": "حد كشف الكادميوم ≤ ⁦0.5⁩ بيكوجرام، دقة ≤ ⁦2.8%⁩؛ ⁦190⁠–⁠900⁩ نانومتر؛ يضيف ⁦Pro⁩ كاميرا للفرن؛ ⁦Es⁩ بمضاعف ضوئي ⁦CR131⁩ و⁦4⁩ شقوق"
+            }
+          }
+        },
+        {
+          "code": "BX-0048-03-005 / AAS accessories",
+          "name": {
+            "en": "AAS accessories",
+            "ar": "ملحقات الامتصاص الذري"
+          },
+          "specs": {
+            "data": {
+              "en": "CQ-320 air compressor; HG-C hydride generator; WF-30 flame autosampler (70 vessels); WF-20 furnace autosampler (60 + 6 or 150 + 5 vessels); WF-2A furnace power unit (upgrades 220B to 220A); H50 water chiller; coated graphite tubes",
+              "ar": "ضاغط هواء ⁦CQ-320⁩؛ مولد هيدريد ⁦HG-C⁩؛ ملقّم عينات للهب ⁦WF-30⁩ ‏(⁦70⁩ وعاء)؛ ملقّم عينات للفرن ⁦WF-20⁩ ‏(⁦60 + 6⁩ أو ⁦150 + 5⁩ أوعية)؛ وحدة طاقة للفرن ⁦WF-2A⁩ ‏(ترقّي ⁦220B⁩ إلى ⁦220A⁩)؛ مبرّد ماء ⁦H50⁩؛ أنابيب جرافيت مطلية"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "190–900 nm",
+        "ar": "⁦190⁠–⁠900⁩ نانومتر"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      },
+      "intro": {
+        "en": "Gold by flame (DW-220 data): Au 242.8 nm, detection limit 0.0032 µg/mL, recommended range 0.2–7.5 µg/mL.",
+        "ar": "الذهب باللهب (بيانات ⁦DW-220⁩): ‏⁦Au⁩ ‏⁦242.8⁩ نانومتر، حد الكشف ⁦0.0032⁩ ميكروجرام/مل، المدى الموصى به ⁦0.2⁠–⁠7.5⁩ ميكروجرام/مل."
+      },
+      "keyRows": [
+        "atom",
+        "lamps",
+        "data"
+      ]
+    }
+  ]
+}

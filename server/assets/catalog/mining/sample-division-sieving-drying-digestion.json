@@ -1,0 +1,422 @@
+{
+  "id": "sample-division-sieving-drying-digestion",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-09 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-09 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    },
+    {
+      "key": "plate",
+      "label": {
+        "en": "Plate (mm)",
+        "ar": "السطح (مم)"
+      }
+    },
+    {
+      "key": "temp",
+      "label": {
+        "en": "Temperature",
+        "ar": "الحرارة"
+      }
+    },
+    {
+      "key": "acc",
+      "label": {
+        "en": "Accuracy",
+        "ar": "الدقة"
+      }
+    },
+    {
+      "key": "watts",
+      "label": {
+        "en": "Power (W)",
+        "ar": "القدرة (واط)"
+      }
+    },
+    {
+      "key": "supply",
+      "label": {
+        "en": "Supply",
+        "ar": "التغذية"
+      }
+    },
+    {
+      "key": "dims",
+      "label": {
+        "en": "Dimensions (mm)",
+        "ar": "الأبعاد (مم)"
+      }
+    },
+    {
+      "key": "chamber",
+      "label": {
+        "en": "Chamber (mm)",
+        "ar": "الحجرة (مم)"
+      }
+    },
+    {
+      "key": "overall",
+      "label": {
+        "en": "Overall (mm)",
+        "ar": "الأبعاد الكلية (مم)"
+      }
+    },
+    {
+      "key": "shelves",
+      "label": {
+        "en": "Shelves",
+        "ar": "الرفوف"
+      }
+    }
+  ],
+  "keyRows": [
+    "data",
+    "plate",
+    "temp"
+  ],
+  "types": [
+    {
+      "id": "division",
+      "label": {
+        "en": "Sieve shaker, riffle splitter and test sieves",
+        "ar": "هزاز المناخل ومقسّم العينات ومناخل الاختبار"
+      },
+      "models": [
+        {
+          "code": "BX-0047-01-013",
+          "name": {
+            "en": "NB-RT88 sieve shaker (Ro-tap type)",
+            "ar": "هزاز مناخل ⁦NB-RT88⁩ (نوع ⁦Ro-tap⁩)"
+          },
+          "specs": {
+            "data": {
+              "en": "1–8 sieve layers; 310 ± 6 rotations/min; 170 ± 3 taps/min; tap height 38 ± 6 mm; stroke 16 mm; 0.55 kW, 220 V 50 Hz; digital timer and counters",
+              "ar": "⁦1⁠–⁠8⁩ طبقات مناخل؛ ⁦310 ± 6⁩ دورة/دقيقة؛ ⁦170 ± 3⁩ طرقة/دقيقة؛ ارتفاع الطرق ⁦38 ± 6⁩ مم؛ شوط ⁦16⁩ مم؛ ⁦0.55⁩ كيلوواط، ⁦220⁩ فولت ⁦50⁩ هرتز؛ مؤقت وعدادات رقمية"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-011",
+          "name": {
+            "en": "NBG-II riffle splitter",
+            "ar": "مقسّم عينات ⁦NBG-II⁩"
+          },
+          "specs": {
+            "data": {
+              "en": "12 chutes of 25.4 mm; load 300–2000 g",
+              "ar": "⁦12⁩ مجرى بعرض ⁦25.4⁩ مم؛ حمولة ⁦300⁠–⁠2000⁩ جم"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-014",
+          "name": {
+            "en": "Test sieve set (10 sieves)",
+            "ar": "طقم مناخل اختبار (⁦10⁩ مناخل)"
+          },
+          "specs": {
+            "data": {
+              "en": "Apertures 16000 · 8000 · 4000 · 2000 · 1000 · 500 · 250 · 150 · 75 · 53 µm",
+              "ar": "الفتحات ⁦16000 · 8000 · 4000 · 2000 · 1000 · 500 · 250 · 150 · 75 · 53⁩ ميكرون"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    },
+    {
+      "id": "hot-plates",
+      "label": {
+        "en": "DRB constant-temperature hot plates (cast aluminium alloy)",
+        "ar": "سخانات مسطحة بحرارة ثابتة ⁦DRB⁩ (سبيكة ألومنيوم مصبوبة)"
+      },
+      "models": [
+        {
+          "code": "BX-0047-01-004 / DRB-300B",
+          "name": {
+            "en": "DRB-300B",
+            "ar": "⁦DRB-300B⁩"
+          },
+          "specs": {
+            "plate": {
+              "en": "300×200",
+              "ar": "⁦300×200⁩"
+            },
+            "temp": {
+              "en": "RT–400 °C",
+              "ar": "حرارة الغرفة–⁦400 °⁩م"
+            },
+            "acc": {
+              "en": "± 1 °C",
+              "ar": "⁦± 1 °C⁩"
+            },
+            "watts": {
+              "en": "2000",
+              "ar": "2000"
+            },
+            "supply": {
+              "en": "AC 220 V 50 Hz",
+              "ar": "⁦AC 220 V 50 Hz⁩"
+            },
+            "dims": {
+              "en": "480×260×160",
+              "ar": "⁦480×260×160⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-004 / DRB-400B",
+          "name": {
+            "en": "DRB-400B",
+            "ar": "⁦DRB-400B⁩"
+          },
+          "specs": {
+            "plate": {
+              "en": "400×300",
+              "ar": "⁦400×300⁩"
+            },
+            "temp": {
+              "en": "RT–400 °C",
+              "ar": "حرارة الغرفة–⁦400 °⁩م"
+            },
+            "acc": {
+              "en": "± 1 °C",
+              "ar": "⁦± 1 °C⁩"
+            },
+            "watts": {
+              "en": "3000",
+              "ar": "3000"
+            },
+            "supply": {
+              "en": "AC 220 V 50 Hz",
+              "ar": "⁦AC 220 V 50 Hz⁩"
+            },
+            "dims": {
+              "en": "680×360×160",
+              "ar": "⁦680×360×160⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-004 / DRB-600B",
+          "name": {
+            "en": "DRB-600B",
+            "ar": "⁦DRB-600B⁩"
+          },
+          "specs": {
+            "plate": {
+              "en": "600×400",
+              "ar": "⁦600×400⁩"
+            },
+            "temp": {
+              "en": "RT–400 °C",
+              "ar": "حرارة الغرفة–⁦400 °⁩م"
+            },
+            "acc": {
+              "en": "± 1 °C",
+              "ar": "⁦± 1 °C⁩"
+            },
+            "watts": {
+              "en": "4000",
+              "ar": "4000"
+            },
+            "supply": {
+              "en": "AC 220 V 50 Hz",
+              "ar": "⁦AC 220 V 50 Hz⁩"
+            },
+            "dims": {
+              "en": "880×460×160",
+              "ar": "⁦880×460×160⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "RT–400 °C",
+        "ar": "حرارة الغرفة–⁦400 °⁩م"
+      },
+      "intro": {
+        "en": "LCD controller with fuzzy PID, timed alarm and shut-off. For sample heating, drying, digestion and acid treatment.",
+        "ar": "وحدة تحكم ⁦LCD⁩ بنظام ⁦PID⁩، مع إنذار وإيقاف مؤقت. لتسخين العينات وتجفيفها وهضمها ومعالجتها بالأحماض."
+      },
+      "keyRows": [
+        "plate",
+        "temp",
+        "watts"
+      ]
+    },
+    {
+      "id": "vacuum-ovens",
+      "label": {
+        "en": "DZF vacuum drying ovens",
+        "ar": "أفران تجفيف بالتفريغ ⁦DZF⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0047-01-010 / DZF-6020 / 6021",
+          "name": {
+            "en": "DZF-6020 / 6021",
+            "ar": "⁦DZF-6020 / 6021⁩"
+          },
+          "specs": {
+            "watts": {
+              "en": "450",
+              "ar": "450"
+            },
+            "chamber": {
+              "en": "300×300×275",
+              "ar": "⁦300×300×275⁩"
+            },
+            "overall": {
+              "en": "605×490×450",
+              "ar": "⁦605×490×450⁩"
+            },
+            "shelves": {
+              "en": "1",
+              "ar": "1"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-010 / DZF-6050 / 6051 / 6053",
+          "name": {
+            "en": "DZF-6050 / 6051 / 6053",
+            "ar": "⁦DZF-6050 / 6051 / 6053⁩"
+          },
+          "specs": {
+            "watts": {
+              "en": "1450",
+              "ar": "1450"
+            },
+            "chamber": {
+              "en": "415×370×345",
+              "ar": "⁦415×370×345⁩"
+            },
+            "overall": {
+              "en": "730×560×550",
+              "ar": "⁦730×560×550⁩"
+            },
+            "shelves": {
+              "en": "2 (6053: 3)",
+              "ar": "⁦2 (‏6053: ‏3)⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-010 / DZF-6090",
+          "name": {
+            "en": "DZF-6090",
+            "ar": "⁦DZF-6090⁩"
+          },
+          "specs": {
+            "watts": {
+              "en": "1400",
+              "ar": "1400"
+            },
+            "chamber": {
+              "en": "450×450×450",
+              "ar": "⁦450×450×450⁩"
+            },
+            "overall": {
+              "en": "610×660×1400",
+              "ar": "⁦610×660×1400⁩"
+            },
+            "shelves": {
+              "en": "2",
+              "ar": "2"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-010 / DZF-6210",
+          "name": {
+            "en": "DZF-6210",
+            "ar": "⁦DZF-6210⁩"
+          },
+          "specs": {
+            "watts": {
+              "en": "2200",
+              "ar": "2200"
+            },
+            "chamber": {
+              "en": "560×600×640",
+              "ar": "⁦560×600×640⁩"
+            },
+            "overall": {
+              "en": "720×805×1680",
+              "ar": "⁦720×805×1680⁩"
+            },
+            "shelves": {
+              "en": "3",
+              "ar": "3"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-010 / DZF-6500",
+          "name": {
+            "en": "DZF-6500",
+            "ar": "⁦DZF-6500⁩"
+          },
+          "specs": {
+            "watts": {
+              "en": "3600",
+              "ar": "3600"
+            },
+            "chamber": {
+              "en": "630×810×845",
+              "ar": "⁦630×810×845⁩"
+            },
+            "overall": {
+              "en": "790×1030×1855",
+              "ar": "⁦790×1030×1855⁩"
+            },
+            "shelves": {
+              "en": "4",
+              "ar": "4"
+            }
+          }
+        }
+      ],
+      "intro": {
+        "en": "Vacuum < 133 Pa; +10 to 200 / 250 °C by model; resolution 0.1 °C; ±1 °C; timer 1–9999 min. D and LC versions with programmable or vacuum-display controllers.",
+        "ar": "تفريغ < ⁦133⁩ باسكال؛ من +⁦10⁩ إلى ⁦200 / 250 °⁩م حسب الموديل؛ دقة العرض ⁦0.1 °⁩م؛ ±⁦1 °⁩م؛ مؤقت ⁦1⁠–⁠9999⁩ دقيقة. نسخ ⁦D⁩ و⁦LC⁩ بوحدات تحكم قابلة للبرمجة أو بعرض التفريغ."
+      },
+      "keyRows": [
+        "chamber",
+        "watts",
+        "shelves"
+      ]
+    }
+  ]
+}

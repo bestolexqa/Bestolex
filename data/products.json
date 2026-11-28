@@ -22385,6 +22385,2341 @@
             }
           }
         ]
+      },
+      {
+        "id": "laboratory-assay",
+        "title": {
+          "ar": "المختبر والتحليل",
+          "en": "Laboratory & Assay"
+        },
+        "products": [
+          {
+            "id": "sample-crushing-pulverizing",
+            "name": {
+              "ar": "تكسير العينات وسحقها",
+              "en": "Sample Crushing & Pulverizing"
+            },
+            "coverImage": "/products/sample-crushing-pulverizing/sample-crushing-pulverizing.webp",
+            "description": {
+              "ar": "كسارات وطواحين مختبرية تنقل عينات الحفر والصخر والخام من حجمها الميداني إلى لب التحليل: كسارات فكية محكمة للتكسير الأولي، وساحقة اهتزازية تعطي لباً بنعومة ⁦200⁩ ميش في دقائق، وطاحونة جرار بسرعة متغيرة للطحن الناعم والناعم جداً.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Laboratory crushers and mills that take drill chips, rock and ore samples from field size to assay pulp: sealed jaw crushers for primary crushing, a vibrating pulverizer for 200-mesh pulp in minutes and a variable-speed jar mill for fine and ultra-fine grinding.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦4⁩ كسارات فكية محكمة بلا غبار بطاقة ⁦230⁠–⁠1800⁩ كجم/ساعة",
+                "ساحقة ⁦GJ100-1A⁩ تعطي ⁦120⁠–⁠200⁩ ميش في أقل من ⁦3⁩ دقائق",
+                "طاحونة جرار ⁦GQM-2-5⁩ حتى ⁦2000⁩ ميش بمحوّل تردد",
+                "جرار من الستانلس أو النايلون أو الزركونيا وغيرها"
+              ],
+              "en": [
+                "4 sealed, dust-free jaw crushers, 230–1800 kg/h",
+                "GJ100-1A pulverizer, 120–200 mesh in under 3 minutes",
+                "GQM-2-5 jar mill to 2000 mesh with variable-frequency drive",
+                "Jars in stainless steel, nylon, zirconia and more"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "طاقة الكسارة",
+                  "value": "⁦230⁠–⁠1800⁩ كجم/ساعة"
+                },
+                {
+                  "label": "زمن السحق",
+                  "value": "< ⁦3⁩ دقائق"
+                },
+                {
+                  "label": "نعومة الطاحونة",
+                  "value": "⁦200⁠–⁠2000⁩ ميش"
+                },
+                {
+                  "label": "أقصى تغذية",
+                  "value": "حتى ⁦100⁩ مم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Jaw crusher capacity",
+                  "value": "230–1800 kg/h"
+                },
+                {
+                  "label": "Pulverizing time",
+                  "value": "< 3 min"
+                },
+                {
+                  "label": "Jar mill fineness",
+                  "value": "200–2000 mesh"
+                },
+                {
+                  "label": "Max. feed",
+                  "value": "Up to 100 mm"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/sample-crushing-pulverizing/sample-crushing-pulverizing.webp",
+              "/products/sample-crushing-pulverizing/sample-crushing-pulverizing-2.webp",
+              "/products/sample-crushing-pulverizing/sample-crushing-pulverizing-3.webp"
+            ],
+            "image": "/products/sample-crushing-pulverizing/sample-crushing-pulverizing.webp",
+            "cardImage": "/products/sample-crushing-pulverizing/sample-crushing-pulverizing.webp",
+            "seo": {
+              "title": {
+                "ar": "كسارات وساحقات وطواحين تحضير عينات الذهب",
+                "en": "Lab Crushers, Pulverizers and Mills for Gold Samples"
+              },
+              "description": {
+                "ar": "كسارات فكية مختبرية محكمة ⁦230⁠–⁠1800⁩ كجم/ساعة، وساحقة اهتزازية ⁦200⁩ ميش في أقل من ⁦3⁩ دقائق، وطاحونة جرار حتى ⁦2000⁩ ميش. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Sealed lab jaw crushers 230–1800 kg/h, a vibrating pulverizer to 200 mesh in under 3 minutes and a jar mill to 2000 mesh. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "من عينة الحفر إلى لب التحليل: تكسير وسحق وطحن. اختر من الجدول أدناه.",
+              "en": "From drill sample to assay pulp: crushing, pulverizing and grinding. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا الكسارة المحكمة؟",
+                  "a": "تعمل بضغط سالب فلا يخرج الغبار، وهذا يحمي المشغّل ويمنع تلوث العينات التالية."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why a sealed jaw crusher?",
+                  "a": "It runs under negative pressure so no dust escapes, which protects the operator and keeps later samples from cross-contamination."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦230⁠–⁠1800⁩ كجم/ساعة",
+                  "label": "طاقة الكسارة"
+                },
+                {
+                  "value": "< ⁦3⁩ دقائق",
+                  "label": "زمن السحق"
+                },
+                {
+                  "value": "⁦200⁠–⁠2000⁩ ميش",
+                  "label": "نعومة الطاحونة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "230–1800 kg/h",
+                  "label": "Jaw crusher capacity"
+                },
+                {
+                  "value": "< 3 min",
+                  "label": "Pulverizing time"
+                },
+                {
+                  "value": "200–2000 mesh",
+                  "label": "Jar mill fineness"
+                }
+              ]
+            }
+          },
+          {
+            "id": "sample-division-sieving-drying-digestion",
+            "name": {
+              "ar": "تقسيم العينات ونخلها وتجفيفها وهضمها",
+              "en": "Sample Division, Sieving, Drying & Digestion"
+            },
+            "coverImage": "/products/sample-division-sieving-drying-digestion/sample-division-sieving-drying-digestion.webp",
+            "description": {
+              "ar": "معدات لتقسيم العينات تقسيماً ممثلاً، وفحص حجم الحبيبات، وتجفيف العينات بالتفريغ، وتسخينها أو هضمها على سخان مسطح قبل التحليل.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Equipment to split samples representatively, check particle size, dry samples under vacuum and heat or digest them on a hot plate before analysis.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "مقسّم عينات ⁦NBG-II⁩ بـ ⁦12⁩ مجرى عرض كل منها ⁦25.4⁩ مم",
+                "هزاز مناخل ⁦NB-RT88⁩ حتى ⁦8⁩ طبقات وطقم ⁦10⁩ مناخل من ⁦16⁩ مم إلى ⁦53⁩ ميكرون",
+                "سخانات ⁦DRB⁩ حتى ⁦400 °⁩م بدقة ±⁦1 °⁩م",
+                "أفران تجفيف بالتفريغ ⁦DZF⁩ بخمسة مقاسات"
+              ],
+              "en": [
+                "NBG-II riffle splitter, 12 chutes of 25.4 mm",
+                "NB-RT88 sieve shaker, up to 8 layers, and a 10-sieve set from 16 mm to 53 µm",
+                "DRB hot plates to 400 °C, ±1 °C",
+                "Five sizes of DZF vacuum drying ovens"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "مجاري المقسّم",
+                  "value": "⁦12 × 25.4⁩ مم"
+                },
+                {
+                  "label": "مدى المناخل",
+                  "value": "⁦16⁩ مم–⁦53⁩ ميكرون"
+                },
+                {
+                  "label": "حرارة السخان",
+                  "value": "حرارة الغرفة–⁦400 °⁩م"
+                },
+                {
+                  "label": "تفريغ الأفران",
+                  "value": "< ⁦133⁩ باسكال"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Riffle chutes",
+                  "value": "12 × 25.4 mm"
+                },
+                {
+                  "label": "Test-sieve range",
+                  "value": "16 mm–53 µm"
+                },
+                {
+                  "label": "Hot-plate range",
+                  "value": "RT–400 °C"
+                },
+                {
+                  "label": "Oven vacuum",
+                  "value": "< 133 Pa"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/sample-division-sieving-drying-digestion/sample-division-sieving-drying-digestion.webp"
+            ],
+            "image": "/products/sample-division-sieving-drying-digestion/sample-division-sieving-drying-digestion.webp",
+            "cardImage": "/products/sample-division-sieving-drying-digestion/sample-division-sieving-drying-digestion.webp",
+            "seo": {
+              "title": {
+                "ar": "مقسّمات العينات والمناخل وأفران التجفيف والسخانات",
+                "en": "Sample Splitters, Test Sieves, Vacuum Ovens and Hot Plates"
+              },
+              "description": {
+                "ar": "مقسّم عينات ⁦12⁩ مجرى، وهزاز مناخل وطقم ⁦10⁩ مناخل، وسخانات ⁦DRB⁩ حتى ⁦400 °⁩م، وأفران تجفيف بالتفريغ ⁦DZF⁩ لمختبرات الذهب. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "A 12-chute riffle splitter, a sieve shaker with a 10-sieve set, DRB hot plates to 400 °C and DZF vacuum drying ovens for gold labs. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "تقسيم ونخل وتجفيف وهضم العينات قبل التحليل. اختر من الجدول أدناه.",
+              "en": "Splitting, sieving, drying and digesting samples before analysis. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا يُقسّم العينة بالمقسّم بدل أخذ جزء منها يدوياً؟",
+                  "a": "المقسّم يعطي جزءاً ممثلاً للعينة كلها، أما الأخذ اليدوي فقد يترك الذهب الثقيل في جزء دون آخر ويخطئ في النتيجة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why use a riffle splitter rather than taking part of the sample by hand?",
+                  "a": "A riffle splitter gives a part that represents the whole sample; taking a part by hand can leave the heavy gold in one portion and skew the result."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦12 × 25.4⁩ مم",
+                  "label": "مجاري المقسّم"
+                },
+                {
+                  "value": "⁦16⁩ مم–⁦53⁩ ميكرون",
+                  "label": "مدى المناخل"
+                },
+                {
+                  "value": "حرارة الغرفة–⁦400 °⁩م",
+                  "label": "حرارة السخان"
+                }
+              ],
+              "en": [
+                {
+                  "value": "12 × 25.4 mm",
+                  "label": "Riffle chutes"
+                },
+                {
+                  "value": "16 mm–53 µm",
+                  "label": "Test-sieve range"
+                },
+                {
+                  "value": "RT–400 °C",
+                  "label": "Hot-plate range"
+                }
+              ]
+            }
+          },
+          {
+            "id": "sample-preparation-additional-range",
+            "name": {
+              "ar": "تحضير العينات – مجموعة إضافية",
+              "en": "Sample Preparation – Additional Range"
+            },
+            "coverImage": "/products/sample-preparation-additional-range/sample-preparation-additional-range.webp",
+            "description": {
+              "ar": "كسارات فكية مختبرية ثقيلة وناعمة جداً، ووحدات كسارة ومقسّم، وكسارات مطرقية وأسطوانية، وساحقات حتى ⁦75⁩ ميكرون، ومطاحن متعددة الأوعية، وطواحين قرصية، ومقسّمات دوّارة، وأفران تجفيف، وهزازات مناخل، ومكبس أقراص ⁦XRF⁩ آلي.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Heavy-duty and ultra-fine lab jaw crushers, crusher-divider units, hammer and roll crushers, pulverisers to 75 µm, multi-pot grinders, disc mills, rotary dividers, drying ovens, sieve shakers and an automatic XRF pellet press.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "كسارات فكية مختبرية حتى ⁦210⁩ مم، و⁦JCT100⁩ يعطي ⁦85%⁩ أقل من ⁦2⁩ مم",
+                "كسارة فوق مقسّم دوّار تكسّر وتقسّم في خطوة واحدة",
+                "ساحقات اهتزازية حتى ⁦75⁩ ميكرون ومطاحن متعددة الأوعية",
+                "مقسّمات دوّارة بدلاء ⁦2⁠–⁠90⁩ لتر ومكبس أقراص ⁦XRF⁩ ‏⁦40/60⁩ طن"
+              ],
+              "en": [
+                "Lab jaw crushers to 210 mm feed; JCT100 gives 85% below 2 mm",
+                "Crusher over rotary divider: crushes and splits in one step",
+                "Vibration pulverisers to 75 µm and multi-pot grinders",
+                "Rotary dividers with 2–90 L buckets and a 40/60 t XRF pellet press"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "ناتج الساحقة",
+                  "value": "≤ ⁦75⁩ ميكرون"
+                },
+                {
+                  "label": "دلاء المقسّم",
+                  "value": "⁦2⁠–⁠90⁩ لتر"
+                },
+                {
+                  "label": "تغذية الكسارة",
+                  "value": "حتى ⁦210⁩ مم"
+                },
+                {
+                  "label": "أفران التجفيف",
+                  "value": "حتى ⁦250 °⁩م"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Pulveriser product",
+                  "value": "≤ 75 µm"
+                },
+                {
+                  "label": "Divider buckets",
+                  "value": "2–90 L"
+                },
+                {
+                  "label": "Crusher feed",
+                  "value": "Up to 210 mm"
+                },
+                {
+                  "label": "Drying ovens",
+                  "value": "Up to 250 °C"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/sample-preparation-additional-range/sample-preparation-additional-range.webp"
+            ],
+            "image": "/products/sample-preparation-additional-range/sample-preparation-additional-range.webp",
+            "cardImage": "/products/sample-preparation-additional-range/sample-preparation-additional-range.webp",
+            "seo": {
+              "title": {
+                "ar": "معدات تحضير العينات: كسارات ومقسّمات وساحقات ومكبس XRF",
+                "en": "Sample Prep: Crushers, Dividers, Pulverisers, XRF Press"
+              },
+              "description": {
+                "ar": "كسارات فكية مختبرية، وكسارة فوق مقسّم دوّار، وساحقات حتى ⁦75⁩ ميكرون، ومطاحن قرصية ومتعددة الأوعية، ومقسّمات دوّارة، ومكبس أقراص ⁦XRF⁩ آلي. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Lab jaw crushers, crusher-over-divider units, pulverisers to 75 µm, disc and multi-pot mills, rotary dividers and an automatic XRF pellet press. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "عشر سلاسل إضافية لتحضير العينات. اختر من الجدول أدناه.",
+              "en": "Ten more sample-preparation lines. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل تجهزون خط تحضير عينات كاملاً؟",
+                  "a": "نعم. نجمع الكسارة والمقسّم والساحقة والفرن والمناخل في خط واحد حسب عدد العينات اليومي. أرسل لنا عدد العينات ونوعها."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Do you supply a complete sample-preparation line?",
+                  "a": "Yes. We combine the crusher, divider, pulveriser, oven and sieves into one line sized to your daily sample count. Send us the number and type of samples."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "10",
+                  "label": "خطوط منتجات"
+                },
+                {
+                  "value": "≤ ⁦75⁩ ميكرون",
+                  "label": "ناتج الساحقة"
+                },
+                {
+                  "value": "⁦2⁠–⁠90⁩ لتر",
+                  "label": "دلاء المقسّم"
+                }
+              ],
+              "en": [
+                {
+                  "value": "10",
+                  "label": "Product lines"
+                },
+                {
+                  "value": "≤ 75 µm",
+                  "label": "Pulveriser product"
+                },
+                {
+                  "value": "2–90 L",
+                  "label": "Divider buckets"
+                }
+              ]
+            }
+          },
+          {
+            "id": "fire-assay-furnaces-cupels",
+            "name": {
+              "ar": "أفران التحليل بالنار وأكواب التكويب",
+              "en": "Fire-Assay Furnaces & Cupels"
+            },
+            "coverImage": "/products/fire-assay-furnaces-cupels/fire-assay-furnaces-cupels.webp",
+            "description": {
+              "ar": "أفران كتمية للتكويب وتعيين الرماد، بتحكم ⁦PID⁩ ومزدوج حراري نوع ⁦K⁩ وحجرة من الطوب الحراري عالي الألومينا وفتحة عادم ⁦24⁩ مم؛ وأكواب تكويب مغنيسية تمتص أكسيد الرصاص أثناء التكويب وتترك حبة الذهب والفضة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Muffle furnaces offered for cupellation and ash determination, with PID control, K-type thermocouple, high-alumina firebrick chamber and a 24 mm exhaust port; plus magnesia cupels that absorb lead oxide during cupellation and leave the gold-silver prill.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦7⁩ أفران كتمية ⁦1000⁠–⁠1200 °⁩م بقدرة ⁦2.5⁠–⁠12⁩ كيلوواط",
+                "فرن كتمي ⁦8⁩ لتر ⁦NB.M8/12⁩ حتى ⁦1200 °⁩م",
+                "⁦16⁩ مقاساً من أكواب التكويب المغنيسية",
+                "تذبذب ±⁦2 °⁩م وتسخين حتى ⁦15 °⁩م/دقيقة"
+              ],
+              "en": [
+                "7 muffle furnaces, 1000–1200 °C, 2.5–12 kW",
+                "8 L NB.M8/12 muffle furnace to 1200 °C",
+                "16 sizes of magnesia cupels",
+                "±2 °C fluctuation, heating up to 15 °C/min"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "أقصى حرارة",
+                  "value": "⁦1000⁠–⁠1200 °⁩م"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦2.5⁠–⁠12⁩ كيلوواط"
+                },
+                {
+                  "label": "أكواب التكويب",
+                  "value": "⁦16⁩ مقاساً، ⁦13⁠–⁠1180⁩ جم"
+                },
+                {
+                  "label": "التغذية",
+                  "value": "⁦220⁩ أو ⁦380⁩ فولت"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Max. temperature",
+                  "value": "1000–1200 °C"
+                },
+                {
+                  "label": "Power",
+                  "value": "2.5–12 kW"
+                },
+                {
+                  "label": "Cupels",
+                  "value": "16 sizes, 13–1180 g"
+                },
+                {
+                  "label": "Supply",
+                  "value": "220 or 380 V"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/fire-assay-furnaces-cupels/fire-assay-furnaces-cupels.webp",
+              "/products/fire-assay-furnaces-cupels/fire-assay-furnaces-cupels-2.webp"
+            ],
+            "image": "/products/fire-assay-furnaces-cupels/fire-assay-furnaces-cupels.webp",
+            "cardImage": "/products/fire-assay-furnaces-cupels/fire-assay-furnaces-cupels.webp",
+            "seo": {
+              "title": {
+                "ar": "أفران التكويب الكتمية وأكواب التكويب المغنيسية",
+                "en": "Cupellation Muffle Furnaces and Magnesia Cupels"
+              },
+              "description": {
+                "ar": "أفران كتمية ⁦1000⁠–⁠1200 °⁩م للتكويب وتعيين الرماد، وأكواب تكويب مغنيسية بـ ⁦16⁩ مقاساً لتحليل الذهب بالنار. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Muffle furnaces at 1000–1200 °C for cupellation and ashing, and magnesia cupels in 16 sizes for gold fire assay. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أفران كتمية وأكواب تكويب مغنيسية للتحليل بالنار. اختر من الجدول أدناه.",
+              "en": "Muffle furnaces and magnesia cupels for fire assay. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي مقاس من أكواب التكويب أختار؟",
+                  "a": "حسب وزن حبة الرصاص من الصهر: الأكواب الصغيرة (⁦2x⁩ إلى ⁦5⁩) للحبات الخفيفة، والأكبر (⁦8A⁩ إلى ⁦14⁩) للحبات الثقيلة. أرسل لنا وزن الشحنة المعتاد."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which cupel size should I choose?",
+                  "a": "By the weight of the lead button from the fusion: small cupels (2x to 5) for light buttons and larger ones (8A to 14) for heavy buttons. Send us your usual charge weight."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦1000⁠–⁠1200 °⁩م",
+                  "label": "أقصى حرارة"
+                },
+                {
+                  "value": "⁦8⁩ لتر",
+                  "label": "حجرة NB.M8/12"
+                },
+                {
+                  "value": "16",
+                  "label": "مقاسات أكواب التكويب"
+                }
+              ],
+              "en": [
+                {
+                  "value": "1000–1200 °C",
+                  "label": "Max. temperature"
+                },
+                {
+                  "value": "8 L",
+                  "label": "NB.M8/12 chamber"
+                },
+                {
+                  "value": "16",
+                  "label": "Cupel sizes"
+                }
+              ]
+            }
+          },
+          {
+            "id": "fire-assay-fluxing-lab-utilities",
+            "name": {
+              "ar": "أفران التحليل بالنار والمصهرات ومرافق المختبر",
+              "en": "Fire Assay Furnaces, Fluxing & Laboratory Utilities"
+            },
+            "coverImage": "/products/fire-assay-fluxing-lab-utilities/fire-assay-fluxing-lab-utilities.webp",
+            "description": {
+              "ar": "أفران صهر وتكويب حتى ⁦1200 °⁩م لـ ⁦12⁩ إلى ⁦100⁩ موضع، وأفران تحميص وأفران كتمية، وخلاطات المصهر والبوتقات، وبوتقات طينية لشحنات ⁦30⁠–⁠75⁩ جم، ودوّارات قوارير لاختبارات الإذابة بالسيانيد، وسخانات وخلاطات مغناطيسية للهضم، ومختبرات في حاويات للمواقع البعيدة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Fusion and cupellation furnaces to 1200 °C for 12 to 100 positions, roasting and muffle furnaces, flux mixers and crucible mixers, clay crucibles for 30–75 g charges, bottle rollers for cyanide leach tests, hot plates and magnetic stirrers for digestion, and containerised laboratories for remote sites.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "أفران صهر ⁦YX-FF⁩ لـ ⁦12⁠–⁠42⁩ بوتقة حتى ⁦1200 °⁩م",
+                "أفران تكويب لـ ⁦50⁩ و⁦100⁩ كوب",
+                "خلاطات المصهر وبوتقات طينية لشحنات ⁦30⁠–⁠75⁩ جم",
+                "مختبرات في حاويات ⁦20⁩ و⁦40⁩ قدماً للمواقع البعيدة"
+              ],
+              "en": [
+                "YX-FF fusion furnaces for 12–42 crucibles to 1200 °C",
+                "Cupellation furnaces for 50 and 100 cupels",
+                "Flux mixers and clay crucibles for 30–75 g charges",
+                "Containerised labs in 20 ft and 40 ft containers for remote sites"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "حرارة الصهر والتكويب",
+                  "value": "⁦1200 °⁩م"
+                },
+                {
+                  "label": "بوتقات في الحمل",
+                  "value": "⁦12–42⁩"
+                },
+                {
+                  "label": "قدرة أفران الصهر",
+                  "value": "⁦18⁠–⁠40⁩ كيلوواط"
+                },
+                {
+                  "label": "الحاويات",
+                  "value": "⁦20⁩ و⁦40⁩ قدماً"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Fusion and cupellation",
+                  "value": "1200 °C"
+                },
+                {
+                  "label": "Crucibles per load",
+                  "value": "12–42"
+                },
+                {
+                  "label": "Fusion furnace power",
+                  "value": "18–40 kW"
+                },
+                {
+                  "label": "Containers",
+                  "value": "20 ft and 40 ft"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/fire-assay-fluxing-lab-utilities/fire-assay-fluxing-lab-utilities.webp"
+            ],
+            "image": "/products/fire-assay-fluxing-lab-utilities/fire-assay-fluxing-lab-utilities.webp",
+            "cardImage": "/products/fire-assay-fluxing-lab-utilities/fire-assay-fluxing-lab-utilities.webp",
+            "seo": {
+              "title": {
+                "ar": "أفران الصهر والتكويب ومعدات مختبر التحليل بالنار",
+                "en": "Fire Assay Fusion and Cupellation Furnaces and Lab Utilities"
+              },
+              "description": {
+                "ar": "أفران صهر وتكويب ⁦1200 °⁩م، وأفران تحميص، وخلاطات مصهر، وبوتقات طينية، ودوّارات قوارير، وسخانات، ومختبرات في حاويات لتحليل الذهب. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Fusion and cupellation furnaces at 1200 °C, roasting furnaces, flux mixers, clay crucibles, bottle rollers, hot plates and containerised labs for gold assay. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كل ما يحتاجه مختبر التحليل بالنار من أفران ومصهرات ومرافق. اختر من الجدول أدناه.",
+              "en": "What a fire-assay lab needs: furnaces, fluxing and utilities. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل تجهزون مختبراً كاملاً في حاوية؟",
+                  "a": "نعم. مختبرات معزولة في حاويات ⁦20⁩ أو ⁦40⁩ قدماً لتحضير العينات أو التحليل بالنار أو التحليل الرطب، وتُشحن جاهزة إلى المواقع البعيدة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Can you supply a complete lab in a container?",
+                  "a": "Yes. Insulated labs in 20 ft or 40 ft containers for sample preparation, fire assay or wet assay, shipped ready to remote sites."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "9",
+                  "label": "خطوط منتجات"
+                },
+                {
+                  "value": "⁦1200 °⁩م",
+                  "label": "الصهر والتكويب"
+                },
+                {
+                  "value": "⁦12–42⁩",
+                  "label": "بوتقة في الحمل"
+                }
+              ],
+              "en": [
+                {
+                  "value": "9",
+                  "label": "Product lines"
+                },
+                {
+                  "value": "1200 °C",
+                  "label": "Fusion and cupellation"
+                },
+                {
+                  "value": "12–42",
+                  "label": "Crucibles per load"
+                }
+              ]
+            }
+          },
+          {
+            "id": "laboratory-balances-micropipettes",
+            "name": {
+              "ar": "موازين المختبر والماصات الدقيقة",
+              "en": "Laboratory Balances & Micropipettes"
+            },
+            "coverImage": "/products/laboratory-balances-micropipettes/laboratory-balances-micropipettes.webp",
+            "description": {
+              "ar": "وزن من ⁦0.1⁩ ملغ للتحليل ووزن الحبات إلى دفعات عينات ⁦3⁩ كجم، مع ميزان جيب لشراء الذهب في الموقع، وماصات دقيقة قابلة للضبط لتحضير محاليل المعايرة والتخفيف لجهاز الامتصاص الذري.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Weighing from 0.1 mg analytical work and bead weighing to 3 kg sample batches, a pocket balance for gold buying in the field, and adjustable micropipettes for preparing AAS standards and dilutions.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "ميزان تحليلي ⁦NA2204⁩ ‏⁦220⁩ جم بدقة ⁦0.1⁩ ملغ",
+                "ميزان دقيق ⁦NB30002K⁩ ‏⁦3⁩ كجم بدقة ⁦0.01⁩ جم",
+                "ميزان جيب ⁦200⁩ جم يعمل بالبطارية لشراء الذهب",
+                "ماصات ⁦2⁠–⁠20⁩ و⁦100⁠–⁠1000⁩ ميكرولتر بشهادة معايرة فردية"
+              ],
+              "en": [
+                "NA2204 analytical balance, 220 g at 0.1 mg",
+                "NB30002K precision balance, 3 kg at 0.01 g",
+                "200 g battery pocket balance for gold buying",
+                "2–20 and 100–1000 µL pipettes with individual calibration certificates"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "دقة القراءة التحليلية",
+                  "value": "⁦0.1⁩ ملغ"
+                },
+                {
+                  "label": "السعة",
+                  "value": "⁦200⁩ جم–⁦3⁩ كجم"
+                },
+                {
+                  "label": "أحجام الماصات",
+                  "value": "⁦2⁠–⁠1000⁩ ميكرولتر"
+                },
+                {
+                  "label": "الواجهة",
+                  "value": "⁦RS232 (NA2204)⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Analytical readability",
+                  "value": "0.1 mg"
+                },
+                {
+                  "label": "Capacity range",
+                  "value": "200 g–3 kg"
+                },
+                {
+                  "label": "Pipette volumes",
+                  "value": "2–1000 µL"
+                },
+                {
+                  "label": "Interface",
+                  "value": "RS232 (NA2204)"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/laboratory-balances-micropipettes/laboratory-balances-micropipettes.webp",
+              "/products/laboratory-balances-micropipettes/laboratory-balances-micropipettes-2.webp",
+              "/products/laboratory-balances-micropipettes/laboratory-balances-micropipettes-3.webp"
+            ],
+            "image": "/products/laboratory-balances-micropipettes/laboratory-balances-micropipettes.webp",
+            "cardImage": "/products/laboratory-balances-micropipettes/laboratory-balances-micropipettes.webp",
+            "seo": {
+              "title": {
+                "ar": "موازين تحليلية ودقيقة وماصات دقيقة لمختبر الذهب",
+                "en": "Analytical and Precision Balances and Micropipettes"
+              },
+              "description": {
+                "ar": "ميزان تحليلي ⁦0.1⁩ ملغ، وميزان دقيق ⁦3⁩ كجم، وميزان جيب لشراء الذهب، وماصات دقيقة ⁦2⁠–⁠1000⁩ ميكرولتر لمختبرات تحليل الذهب. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "A 0.1 mg analytical balance, a 3 kg precision balance, a pocket balance for gold buying and 2–1000 µL micropipettes for gold assay labs. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "موازين وماصات للتحليل ووزن حبات الذهب. اختر من الجدول أدناه.",
+              "en": "Balances and pipettes for assay and bead weighing. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي ميزان لوزن حبة الذهب بعد التكويب؟",
+                  "a": "الميزان التحليلي ⁦NA2204⁩ بدقة ⁦0.1⁩ ملغ، وللدقة الأعلى موازين ⁦0.01⁩ ملغ في صفحة موازين المختبر."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which balance weighs the gold bead after cupellation?",
+                  "a": "The NA2204 analytical balance at 0.1 mg; for finer work, the 0.01 mg balances on the laboratory balances page."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦0.1⁩ ملغ",
+                  "label": "دقة القراءة"
+                },
+                {
+                  "value": "⁦200⁩ جم–⁦3⁩ كجم",
+                  "label": "السعة"
+                },
+                {
+                  "value": "⁦2⁠–⁠1000⁩ ميكرولتر",
+                  "label": "أحجام الماصات"
+                }
+              ],
+              "en": [
+                {
+                  "value": "0.1 mg",
+                  "label": "Analytical readability"
+                },
+                {
+                  "value": "200 g–3 kg",
+                  "label": "Capacity range"
+                },
+                {
+                  "value": "2–1000 µL",
+                  "label": "Pipette volumes"
+                }
+              ]
+            }
+          },
+          {
+            "id": "laboratory-balances-industrial-scales",
+            "name": {
+              "ar": "موازين المختبر والموازين الصناعية",
+              "en": "Laboratory Balances & Industrial Scales"
+            },
+            "coverImage": "/products/laboratory-balances-industrial-scales/laboratory-balances-industrial-scales.webp",
+            "description": {
+              "ar": "موازين شبه دقيقة وتحليلية ودقيقة من ⁦0.01⁩ ملغ، وموازين كبيرة السعة وموازين عدّ، وموازين منضدية مقاومة للماء، وموازين منصة وأرضية حتى ⁦3⁩ طن لوزن العينات والكواشف وأكياس المركّز ومستهلكات الموقع.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Semi-micro, analytical and precision balances from 0.01 mg, large-capacity and counting balances, waterproof bench scales, platform scales and floor scales up to 3 t for weighing samples, reagents, concentrate bags and site consumables.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "موازين شبه دقيقة بدقة ⁦0.01⁩ ملغ بمعايرة داخلية أو خارجية",
+                "موازين تحليلية ودقيقة من ⁦60⁩ جم إلى ⁦15⁩ كجم",
+                "موازين منضدية مقاومة للماء ⁦IP68⁩",
+                "موازين منصة وأرضية حتى ⁦3⁩ طن"
+              ],
+              "en": [
+                "0.01 mg semi-micro balances with internal or external calibration",
+                "Analytical and precision balances from 60 g to 15 kg",
+                "IP68 waterproof bench scales",
+                "Platform and floor scales up to 3 t"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "دقة القراءة",
+                  "value": "⁦0.01⁩ ملغ–⁦1⁩ جم"
+                },
+                {
+                  "label": "السعة",
+                  "value": "⁦31⁩ جم–⁦3⁩ طن"
+                },
+                {
+                  "label": "المعايرة",
+                  "value": "داخلية أو خارجية"
+                },
+                {
+                  "label": "الواجهات",
+                  "value": "⁦RS232 / 485 / USB⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Readability",
+                  "value": "0.01 mg–1 g"
+                },
+                {
+                  "label": "Capacity",
+                  "value": "31 g–3 t"
+                },
+                {
+                  "label": "Calibration",
+                  "value": "Internal or external"
+                },
+                {
+                  "label": "Interfaces",
+                  "value": "RS232 / 485 / USB"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/laboratory-balances-industrial-scales/laboratory-balances-industrial-scales.webp"
+            ],
+            "image": "/products/laboratory-balances-industrial-scales/laboratory-balances-industrial-scales.webp",
+            "cardImage": "/products/laboratory-balances-industrial-scales/laboratory-balances-industrial-scales.webp",
+            "seo": {
+              "title": {
+                "ar": "موازين المختبر التحليلية والدقيقة والموازين الصناعية",
+                "en": "Analytical, Precision Balances and Industrial Scales"
+              },
+              "description": {
+                "ar": "موازين من ⁦0.01⁩ ملغ إلى ⁦3⁩ طن: شبه دقيقة وتحليلية ودقيقة وموازين عدّ ومقاومة للماء وموازين منصة وأرضية لمختبرات الذهب ومواقع التعدين. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Balances from 0.01 mg to 3 t: semi-micro, analytical, precision, counting, waterproof, platform and floor scales for gold labs and mine sites. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أربع عشرة سلسلة موازين للمختبر والموقع. اختر من الجدول أدناه.",
+              "en": "Fourteen balance and scale series for lab and site. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين المعايرة الداخلية والخارجية؟",
+                  "a": "المعايرة الداخلية يجريها الميزان بنفسه بثقل مدمج، والخارجية تحتاج أوزان معايرة. الداخلية أنسب للمختبرات التي تتغير حرارتها."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the difference between internal and external calibration?",
+                  "a": "Internal calibration is done by the balance itself with a built-in weight; external calibration needs calibration weights. Internal suits labs with changing temperatures."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "14",
+                  "label": "خطوط منتجات"
+                },
+                {
+                  "value": "⁦0.01⁩ ملغ–⁦1⁩ جم",
+                  "label": "دقة القراءة"
+                },
+                {
+                  "value": "⁦31⁩ جم–⁦3⁩ طن",
+                  "label": "السعة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "14",
+                  "label": "Product lines"
+                },
+                {
+                  "value": "0.01 mg–1 g",
+                  "label": "Readability"
+                },
+                {
+                  "value": "31 g–3 t",
+                  "label": "Capacity"
+                }
+              ]
+            }
+          },
+          {
+            "id": "xrf-analyzers-benchtop-handheld",
+            "name": {
+              "ar": "محللات XRF المكتبية والمحمولة",
+              "en": "XRF Analyzers – Benchtop & Handheld"
+            },
+            "coverImage": "/products/xrf-analyzers-benchtop-handheld/xrf-analyzers-benchtop-handheld.webp",
+            "description": {
+              "ar": "تحليل بفلورة الأشعة السينية بتشتت الطاقة (⁦XRF⁩) دون إتلاف العينة: جهاز مكتبي لفحص نقاء الذهب والمجوهرات، ومحللات محمولة لرتبة الخام والاستكشاف والمخلفات وفحص المعادن الثمينة في الموقع.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Energy-dispersive X-ray fluorescence (XRF) for non-destructive analysis: a benchtop gold tester for purity of gold and jewellery, and handheld analyzers for ore grade, exploration, tailings and precious-metal checks in the field.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "جهاز ⁦EDX 680⁩ المكتبي لفحص الذهب من ⁦K⁩ إلى ⁦U⁩",
+                "⁦6⁩ محللات محمولة للخامات والذهب بوزن ⁦1.5⁠–⁠1.7⁩ كجم",
+                "قراءة عيار الذهب ⁦9⁠–⁠24⁩ قيراطاً",
+                "كاشفات ⁦Si-PIN⁩ أو ⁦SDD⁩، وبطارية حتى ⁦12⁩ ساعة"
+              ],
+              "en": [
+                "EDX 680 benchtop gold tester, K to U",
+                "6 handheld analyzers for ore and gold, 1.5–1.7 kg",
+                "Gold karat reading 9–24 K",
+                "Si-PIN or SDD detectors, battery up to 12 h"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "مدى العناصر (المحمول)",
+                  "value": "⁦Mg–U⁩"
+                },
+                {
+                  "label": "عيار الذهب",
+                  "value": "⁦9⁠–⁠24⁩ قيراطاً"
+                },
+                {
+                  "label": "زمن القياس (المكتبي)",
+                  "value": "⁦60⁠–⁠200⁩ ثانية"
+                },
+                {
+                  "label": "الوزن (المحمول)",
+                  "value": "⁦1.5⁠–⁠1.7⁩ كجم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Element range (handheld)",
+                  "value": "Mg–U"
+                },
+                {
+                  "label": "Gold karat",
+                  "value": "9–24 K"
+                },
+                {
+                  "label": "Measuring time (benchtop)",
+                  "value": "60–200 s"
+                },
+                {
+                  "label": "Weight (handheld)",
+                  "value": "1.5–1.7 kg"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/xrf-analyzers-benchtop-handheld/xrf-analyzers-benchtop-handheld.webp"
+            ],
+            "image": "/products/xrf-analyzers-benchtop-handheld/xrf-analyzers-benchtop-handheld.webp",
+            "cardImage": "/products/xrf-analyzers-benchtop-handheld/xrf-analyzers-benchtop-handheld.webp",
+            "seo": {
+              "title": {
+                "ar": "محللات XRF لفحص الذهب ورتبة الخام",
+                "en": "XRF Analyzers for Gold Testing and Ore Grade"
+              },
+              "description": {
+                "ar": "جهاز ⁦EDX 680⁩ المكتبي لفحص نقاء الذهب، ومحللات ⁦XRF⁩ محمولة للخامات والمعادن الثمينة من ⁦Mg⁩ إلى ⁦U⁩ وعيار ⁦9⁠–⁠24⁩ قيراطاً. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "The EDX 680 benchtop gold tester and handheld XRF analyzers for ores and precious metals, Mg to U and 9–24 K. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "محللات ⁦XRF⁩ لنقاء الذهب ورتبة الخام دون إتلاف العينة. اختر من الجدول أدناه.",
+              "en": "XRF analyzers for gold purity and ore grade without destroying the sample. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل يغني المحلل المحمول عن التحليل بالنار؟",
+                  "a": "لا. المحمول للفحص السريع في الموقع وتوجيه الحفر والفرز، والتحليل بالنار يبقى المرجع لتحديد محتوى الذهب في العينة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Does a handheld analyzer replace fire assay?",
+                  "a": "No. The handheld is for quick checks on site, guiding drilling and sorting; fire assay remains the reference for the gold content of a sample."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦Mg–U⁩",
+                  "label": "مدى العناصر"
+                },
+                {
+                  "value": "⁦9⁠–⁠24⁩ قيراطاً",
+                  "label": "عيار الذهب"
+                },
+                {
+                  "value": "8",
+                  "label": "موديلات"
+                }
+              ],
+              "en": [
+                {
+                  "value": "Mg–U",
+                  "label": "Element range"
+                },
+                {
+                  "value": "9–24 K",
+                  "label": "Gold karat"
+                },
+                {
+                  "value": "8",
+                  "label": "Models"
+                }
+              ]
+            }
+          },
+          {
+            "id": "atomic-absorption-fluorescence-spectrometers",
+            "name": {
+              "ar": "مطيافات الامتصاص الذري والفلورة",
+              "en": "Atomic Absorption & Fluorescence Spectrometers"
+            },
+            "coverImage": "/products/atomic-absorption-fluorescence-spectrometers/atomic-absorption-fluorescence-spectrometers.webp",
+            "description": {
+              "ar": "مطيافات امتصاص ذري (⁦AAS⁩) لتحليل الذهب والمعادن الأساسية في محاليل الإذابة والعينات المهضومة، من وحدات لهب مزدوجة الشعاع إلى أنظمة لهب وفرن جرافيت آلية بالكامل، مع مطياف فلورة ذرية للزئبق والزرنيخ والسيلينيوم بتراكيز ضئيلة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Atomic absorption spectrometers (AAS) for gold and base-metal assays of leach solutions and digested samples, from double-beam flame units to fully automatic flame and graphite-furnace systems, plus an atomic fluorescence spectrometer for mercury, arsenic and selenium at trace levels.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦6⁩ مطيافات امتصاص ذري بمدى ⁦190⁠–⁠900⁩ نانومتر",
+                "حد كشف النحاس حتى ⁦0.004⁩ ميكروجرام/مل",
+                "أفران جرافيت حتى ⁦3000 °⁩م",
+                "مطياف فلورة ذرية ⁦DW-AFS310⁩ ومصابيح كاثود مجوف"
+              ],
+              "en": [
+                "6 AAS models, 190–900 nm",
+                "Cu detection limit down to 0.004 µg/mL",
+                "Graphite furnaces up to 3000 °C",
+                "DW-AFS310 atomic fluorescence spectrometer and hollow-cathode lamps"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المدى الطيفي",
+                  "value": "⁦190⁠–⁠900⁩ نانومتر"
+                },
+                {
+                  "label": "أفضل حد كشف للنحاس",
+                  "value": "⁦0.004⁩ ميكروجرام/مل"
+                },
+                {
+                  "label": "فرن الجرافيت",
+                  "value": "حتى ⁦3000 °⁩م"
+                },
+                {
+                  "label": "المصابيح",
+                  "value": "حتى ⁦8⁩ مصابيح آلية"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Wavelength range",
+                  "value": "190–900 nm"
+                },
+                {
+                  "label": "Best Cu detection limit",
+                  "value": "0.004 µg/mL"
+                },
+                {
+                  "label": "Graphite furnace",
+                  "value": "Up to 3000 °C"
+                },
+                {
+                  "label": "Lamps",
+                  "value": "Up to 8, automatic"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/atomic-absorption-fluorescence-spectrometers/atomic-absorption-fluorescence-spectrometers.webp",
+              "/products/atomic-absorption-fluorescence-spectrometers/atomic-absorption-fluorescence-spectrometers-2.webp"
+            ],
+            "image": "/products/atomic-absorption-fluorescence-spectrometers/atomic-absorption-fluorescence-spectrometers.webp",
+            "cardImage": "/products/atomic-absorption-fluorescence-spectrometers/atomic-absorption-fluorescence-spectrometers.webp",
+            "seo": {
+              "title": {
+                "ar": "مطيافات الامتصاص الذري لتحليل الذهب",
+                "en": "Atomic Absorption Spectrometers for Gold Assay"
+              },
+              "description": {
+                "ar": "مطيافات امتصاص ذري باللهب وفرن الجرافيت بمدى ⁦190⁠–⁠900⁩ نانومتر لتحليل الذهب والمعادن الأساسية، ومطياف فلورة ذرية للزئبق والزرنيخ والسيلينيوم. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Flame and graphite-furnace AAS, 190–900 nm, for gold and base-metal assays, and an atomic fluorescence spectrometer for Hg, As and Se. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مطيافات امتصاص ذري وفلورة ذرية لتحليل الذهب والمعادن. اختر من الجدول أدناه.",
+              "en": "AAS and AFS instruments for gold and metal assays. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "متى أحتاج فرن الجرافيت؟",
+                  "a": "اللهب يكفي لتراكيز الذهب بمستوى ⁦ppm⁩ في محاليل الإذابة، وفرن الجرافيت للتراكيز الأدنى بمستوى ⁦ppb⁩."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "When do I need a graphite furnace?",
+                  "a": "Flame is enough for ppm-level gold in leach solutions; the graphite furnace is for lower, ppb-level concentrations."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦190⁠–⁠900⁩ نانومتر",
+                  "label": "المدى الطيفي"
+                },
+                {
+                  "value": "⁦0.004⁩ ميكروجرام/مل",
+                  "label": "أفضل حد كشف للنحاس"
+                },
+                {
+                  "value": "⁦3000 °⁩م",
+                  "label": "فرن الجرافيت"
+                }
+              ],
+              "en": [
+                {
+                  "value": "190–900 nm",
+                  "label": "Wavelength range"
+                },
+                {
+                  "value": "0.004 µg/mL",
+                  "label": "Best Cu detection limit"
+                },
+                {
+                  "value": "3000 °C",
+                  "label": "Graphite furnace"
+                }
+              ]
+            }
+          },
+          {
+            "id": "icp-oes-spectrometer",
+            "name": {
+              "ar": "مطياف ICP-OES",
+              "en": "ICP-OES Spectrometer"
+            },
+            "coverImage": "/products/icp-oes-spectrometer/icp-oes-spectrometer.webp",
+            "description": {
+              "ar": "مطياف انبعاث بالبلازما المقترنة حثياً بمسح تتابعي لتحليل العناصر المتعددة في الخام المهضوم والمركّز ومحاليل المعالجة في مختبر التحليل.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "A sequential-scanning inductively coupled plasma emission spectrometer for multi-element analysis of digested ore, concentrate and process solutions in the assay laboratory.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "مطياف ⁦ICP2060T⁩ بمسح تتابعي",
+                "محزز هولوغرافي ⁦190⁠–⁠500⁩ أو ⁦190⁠–⁠800⁩ نانومتر",
+                "مولد تردد ذاتي الإثارة ⁦27.12⁩ ميجاهرتز بمواءمة آلية",
+                "تصحيح الخلفية والتداخل الطيفي وتشخيص الجهاز"
+              ],
+              "en": [
+                "ICP2060T sequential-scanning spectrometer",
+                "Holographic grating, 190–500 or 190–800 nm",
+                "Self-excited 27.12 MHz RF generator with automatic matching",
+                "Background and spectral-interference correction, instrument diagnostics"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المدى الطيفي",
+                  "value": "⁦190⁠–⁠800⁩ نانومتر"
+                },
+                {
+                  "label": "التردد الراديوي",
+                  "value": "⁦27.12⁩ ميجاهرتز"
+                },
+                {
+                  "label": "النوع",
+                  "value": "مسح تتابعي"
+                },
+                {
+                  "label": "المواصفات الكاملة",
+                  "value": "عند الطلب"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Wavelength",
+                  "value": "190–800 nm"
+                },
+                {
+                  "label": "RF",
+                  "value": "27.12 MHz"
+                },
+                {
+                  "label": "Type",
+                  "value": "Sequential scanning"
+                },
+                {
+                  "label": "Full specifications",
+                  "value": "On request"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/icp-oes-spectrometer/icp-oes-spectrometer.webp"
+            ],
+            "image": "/products/icp-oes-spectrometer/icp-oes-spectrometer.webp",
+            "cardImage": "/products/icp-oes-spectrometer/icp-oes-spectrometer.webp",
+            "seo": {
+              "title": {
+                "ar": "مطياف ICP-OES لتحليل الخام والمركّز والمحاليل",
+                "en": "ICP-OES Spectrometer for Ore, Concentrate and Solutions"
+              },
+              "description": {
+                "ar": "مطياف ⁦ICP2060T⁩ بمسح تتابعي ⁦190⁠–⁠800⁩ نانومتر ومولد ⁦27.12⁩ ميجاهرتز لتحليل العناصر المتعددة في الخام المهضوم والمركّز ومحاليل المعالجة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "The ICP2060T sequential-scanning spectrometer, 190–800 nm and 27.12 MHz, for multi-element analysis of digested ore, concentrate and process solutions. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مطياف ⁦ICP-OES⁩ لتحليل العناصر المتعددة. اختر من الجدول أدناه.",
+              "en": "ICP-OES for multi-element analysis. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين ICP-OES والامتصاص الذري؟",
+                  "a": "الامتصاص الذري يقيس عنصراً واحداً في كل مرة، و⁦ICP-OES⁩ يقيس عناصر كثيرة في العينة نفسها، فيناسب المختبرات ذات العدد الكبير من العينات والعناصر."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the difference between ICP-OES and AAS?",
+                  "a": "AAS measures one element at a time; ICP-OES measures many elements in the same sample, which suits labs with many samples and elements."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦190⁠–⁠800⁩ نانومتر",
+                  "label": "المدى الطيفي"
+                },
+                {
+                  "value": "⁦27.12⁩ ميجاهرتز",
+                  "label": "التردد الراديوي"
+                },
+                {
+                  "value": "1",
+                  "label": "موديل"
+                }
+              ],
+              "en": [
+                {
+                  "value": "190–800 nm",
+                  "label": "Wavelength"
+                },
+                {
+                  "value": "27.12 MHz",
+                  "label": "RF"
+                },
+                {
+                  "value": "1",
+                  "label": "Model"
+                }
+              ]
+            }
+          },
+          {
+            "id": "benchtop-xrf-flame-aas-crucibles",
+            "name": {
+              "ar": "XRF مكتبي وامتصاص ذري باللهب وبوتقات التحليل",
+              "en": "Benchtop XRF, Flame AAS & Assay Crucibles"
+            },
+            "coverImage": "/products/benchtop-xrf-flame-aas-crucibles/benchtop-xrf-flame-aas-crucibles.webp",
+            "description": {
+              "ar": "محللات ⁦XRF⁩ مكتبية لرتبة الخام وفحص عينات متعددة، ومطياف امتصاص ذري باللهب ببرج ⁦8⁩ مصابيح لتحليل الذهب والمعادن الأساسية، وبوتقات طينية للتحليل بالنار.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Benchtop XRF analyzers for ore grade and multi-sample screening, a flame atomic absorption spectrometer with an 8-lamp turret for gold and base-metal assays, and fire-clay crucibles for fire assay.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "محلل ⁦EDX3600H⁩ بالتفريغ للعناصر الخفيفة من ⁦Na⁩ إلى ⁦U⁩",
+                "مطياف ⁦EDX6000C⁩ بمبدّل ⁦9 / 12 / 20⁩ عينة وحد كشف حتى ⁦0.2 ppm⁩",
+                "مطياف امتصاص ذري ⁦AAS6000⁩ ببرج ⁦8⁩ مصابيح و⁦68⁩ عنصراً",
+                "بوتقات طينية ⁦30⁩ و⁦40⁩ جم للتحليل بالنار"
+              ],
+              "en": [
+                "EDX3600H vacuum analyzer for light elements, Na to U",
+                "EDX6000C with 9 / 12 / 20-sample changer, detection to 0.2 ppm",
+                "AAS6000 flame AAS with 8-lamp turret, 68 elements",
+                "30 g and 40 g fire-clay crucibles for fire assay"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "مدى XRF",
+                  "value": "⁦Na–U⁩"
+                },
+                {
+                  "label": "مدى AAS",
+                  "value": "⁦190⁠–⁠900⁩ نانومتر"
+                },
+                {
+                  "label": "حد الكشف (EDX6000C)",
+                  "value": "حتى ⁦0.2 ppm⁩"
+                },
+                {
+                  "label": "البوتقات",
+                  "value": "⁦30⁩ و⁦40⁩ جم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "XRF range",
+                  "value": "Na–U"
+                },
+                {
+                  "label": "AAS range",
+                  "value": "190–900 nm"
+                },
+                {
+                  "label": "Detection limit (EDX6000C)",
+                  "value": "To 0.2 ppm"
+                },
+                {
+                  "label": "Crucibles",
+                  "value": "30 g, 40 g"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/benchtop-xrf-flame-aas-crucibles/benchtop-xrf-flame-aas-crucibles.webp"
+            ],
+            "image": "/products/benchtop-xrf-flame-aas-crucibles/benchtop-xrf-flame-aas-crucibles.webp",
+            "cardImage": "/products/benchtop-xrf-flame-aas-crucibles/benchtop-xrf-flame-aas-crucibles.webp",
+            "seo": {
+              "title": {
+                "ar": "محللات XRF مكتبية ومطياف AAS6000 وبوتقات التحليل بالنار",
+                "en": "Benchtop XRF, AAS6000 Flame AAS and Fire-Assay Crucibles"
+              },
+              "description": {
+                "ar": "محللات ⁦EDXRF⁩ مكتبية ⁦EDX3600H⁩ و⁦EDX6000C⁩، ومطياف امتصاص ذري باللهب ⁦AAS6000⁩، وبوتقات طينية ⁦30⁩ و⁦40⁩ جم لمختبرات الذهب. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "EDX3600H and EDX6000C benchtop EDXRF analyzers, the AAS6000 flame AAS and 30 g and 40 g fire-clay crucibles for gold labs. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أجهزة ⁦XRF⁩ و⁦AAS⁩ مكتبية وبوتقات للتحليل بالنار. اختر من الجدول أدناه.",
+              "en": "Benchtop XRF and AAS instruments and fire-assay crucibles. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا التفريغ في محلل XRF؟",
+                  "a": "الهواء يمتص أشعة العناصر الخفيفة مثل ⁦Na⁩ و⁦Mg⁩ و⁦Al⁩، فيحسّن التفريغ قياسها في الخامات."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why a vacuum in an XRF analyzer?",
+                  "a": "Air absorbs the X-rays of light elements such as Na, Mg and Al, so a vacuum improves their measurement in ores."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "3",
+                  "label": "أجهزة"
+                },
+                {
+                  "value": "⁦Na–U⁩",
+                  "label": "مدى XRF"
+                },
+                {
+                  "value": "⁦190⁠–⁠900⁩ نانومتر",
+                  "label": "مدى AAS"
+                }
+              ],
+              "en": [
+                {
+                  "value": "3",
+                  "label": "Instruments"
+                },
+                {
+                  "value": "Na–U",
+                  "label": "XRF element range"
+                },
+                {
+                  "value": "190–900 nm",
+                  "label": "AAS range"
+                }
+              ]
+            }
+          },
+          {
+            "id": "atomic-absorption-additional-models",
+            "name": {
+              "ar": "الامتصاص الذري – موديلات إضافية",
+              "en": "Atomic Absorption – Additional Models"
+            },
+            "coverImage": "/products/atomic-absorption-additional-models/atomic-absorption-additional-models.webp",
+            "description": {
+              "ar": "مطياف امتصاص ذري اقتصادي باللهب لمختبرات المناجم الصغيرة، ومطياف متكامل باللهب وفرن الجرافيت بتبديل آلي، وموديلات بفرن الجرافيت فقط للذهب بتراكيز ضئيلة، مع ملحقات الامتصاص الذري الأساسية.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "An economy flame AAS for small mine laboratories, an integrated flame and graphite-furnace AAS with automatic changeover, graphite-furnace-only models for trace gold, and the main AAS accessories.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦DW-320⁩ الاقتصادي باللهب بحد كشف للنحاس ≤ ⁦0.006⁩ ملغ/لتر",
+                "⁦DW-200⁩ لهب وفرن جرافيت بتبديل آلي حتى ⁦3000 °⁩م",
+                "⁦DW-220C⁩ بفرن جرافيت فقط وحد كشف للكادميوم ≤ ⁦0.5⁩ بيكوجرام",
+                "ملحقات: ضاغط ومولد هيدريد وملقّمات عينات ومبرّد ماء"
+              ],
+              "en": [
+                "DW-320 economy flame AAS, Cu detection limit ≤ 0.006 mg/L",
+                "DW-200 flame and graphite furnace with automatic changeover to 3000 °C",
+                "DW-220C graphite-furnace models, Cd detection limit ≤ 0.5 pg",
+                "Accessories: compressor, hydride generator, autosamplers and water chiller"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المدى الطيفي",
+                  "value": "⁦190⁠–⁠900⁩ نانومتر"
+                },
+                {
+                  "label": "فرن الجرافيت",
+                  "value": "حتى ⁦3000 °⁩م"
+                },
+                {
+                  "label": "الذهب باللهب (DW-220)",
+                  "value": "⁦242.8⁩ نانومتر، حد كشف ⁦0.0032⁩ ميكروجرام/مل"
+                },
+                {
+                  "label": "ملقّم العينات",
+                  "value": "حتى ⁦150 + 5⁩ أوعية"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Range",
+                  "value": "190–900 nm"
+                },
+                {
+                  "label": "Furnace",
+                  "value": "Up to 3000 °C"
+                },
+                {
+                  "label": "Gold by flame (DW-220)",
+                  "value": "242.8 nm, DL 0.0032 µg/mL"
+                },
+                {
+                  "label": "Autosampler",
+                  "value": "Up to 150 + 5 vessels"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/atomic-absorption-additional-models/atomic-absorption-additional-models.webp"
+            ],
+            "image": "/products/atomic-absorption-additional-models/atomic-absorption-additional-models.webp",
+            "cardImage": "/products/atomic-absorption-additional-models/atomic-absorption-additional-models.webp",
+            "seo": {
+              "title": {
+                "ar": "مطيافات امتصاص ذري إضافية DW-320 وDW-200 وDW-220C",
+                "en": "Additional AAS: DW-320, DW-200 and DW-220C"
+              },
+              "description": {
+                "ar": "مطياف امتصاص ذري اقتصادي باللهب، ومطياف لهب وفرن جرافيت بتبديل آلي، وموديلات فرن جرافيت للذهب بتراكيز ضئيلة، مع الملحقات. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "An economy flame AAS, a flame and graphite-furnace AAS with automatic changeover, graphite-furnace models for trace gold, and accessories. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "موديلات امتصاص ذري إضافية وملحقاتها. اختر من الجدول أدناه.",
+              "en": "More AAS models and their accessories. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المدى الموصى به لقياس الذهب باللهب؟",
+                  "a": "وفق بيانات ⁦DW-220⁩: خط الذهب ⁦242.8⁩ نانومتر، وحد الكشف ⁦0.0032⁩ ميكروجرام/مل، والمدى الموصى به ⁦0.2⁠–⁠7.5⁩ ميكروجرام/مل."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What range is recommended for gold by flame?",
+                  "a": "Per the DW-220 data: the gold line is 242.8 nm, the detection limit 0.0032 µg/mL and the recommended range 0.2–7.5 µg/mL."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "5",
+                  "label": "موديلات"
+                },
+                {
+                  "value": "⁦190⁠–⁠900⁩ نانومتر",
+                  "label": "المدى الطيفي"
+                },
+                {
+                  "value": "⁦3000 °⁩م",
+                  "label": "أقصى حرارة للفرن"
+                }
+              ],
+              "en": [
+                {
+                  "value": "5",
+                  "label": "Models"
+                },
+                {
+                  "value": "190–900 nm",
+                  "label": "Range"
+                },
+                {
+                  "value": "3000 °C",
+                  "label": "Furnace max."
+                }
+              ]
+            }
+          },
+          {
+            "id": "xrf-carbon-sulfur-analyzers",
+            "name": {
+              "ar": "محللات XRF والكربون والكبريت",
+              "en": "XRF & Carbon-Sulfur Analyzers"
+            },
+            "coverImage": "/products/xrf-carbon-sulfur-analyzers/xrf-carbon-sulfur-analyzers.webp",
+            "description": {
+              "ar": "محللات ⁦XRF⁩ محمولة لفحص الخامات والذهب في الموقع، ومطيافات ⁦EDXRF⁩ مكتبية للمعادن الثمينة والطلاءات وأقراص الخام المضغوطة بمبدّلات ⁦10⁩ و⁦31⁩ عينة، ومحللات كربون وكبريت بالأشعة تحت الحمراء عالية التردد للخامات والمركّزات الكبريتيدية.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Handheld XRF analyzers for ore and gold checks in the field, benchtop EDXRF spectrometers for precious metals, coatings and pressed-powder ore pellets with 10- and 31-sample changers, and high-frequency infrared carbon-sulfur analyzers for sulfide ores and concentrates.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "محللات محمولة ⁦EXPLORER 7000⁩ و⁦Expert JX5 / JX6⁩",
+                "مطيافات مكتبية ⁦TY-9800⁩ و⁦P9800⁩ بانحراف معياري ≤ ⁦0.05%⁩",
+                "مبدّلات عينات بـ ⁦10⁩ و⁦31⁩ موضعاً لمختبرات المناجم",
+                "محللا كربون وكبريت وفق ⁦ISO 9556⁩ و⁦ISO 4935⁩"
+              ],
+              "en": [
+                "EXPLORER 7000 and Expert JX5 / JX6 handheld analyzers",
+                "TY-9800 and P9800 benchtop spectrometers, std. dev. ≤ 0.05%",
+                "10- and 31-position sample changers for mine labs",
+                "Two carbon-sulfur analyzers to ISO 9556 and ISO 4935"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "دقة الكاشف",
+                  "value": "⁦123⁠–⁠148⁩ إلكترون فولت"
+                },
+                {
+                  "label": "مواضع العينات",
+                  "value": "⁦10 / 31⁩"
+                },
+                {
+                  "label": "مدى القياس",
+                  "value": "⁦1 ppm–99.99%⁩"
+                },
+                {
+                  "label": "الكربون والكبريت",
+                  "value": "حتى ⁦99.999999%⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Detector resolution",
+                  "value": "123–148 eV"
+                },
+                {
+                  "label": "Sample positions",
+                  "value": "10 / 31"
+                },
+                {
+                  "label": "Measuring range",
+                  "value": "1 ppm–99.99%"
+                },
+                {
+                  "label": "Carbon and sulfur",
+                  "value": "Up to 99.999999%"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/xrf-carbon-sulfur-analyzers/xrf-carbon-sulfur-analyzers.webp"
+            ],
+            "image": "/products/xrf-carbon-sulfur-analyzers/xrf-carbon-sulfur-analyzers.webp",
+            "cardImage": "/products/xrf-carbon-sulfur-analyzers/xrf-carbon-sulfur-analyzers.webp",
+            "seo": {
+              "title": {
+                "ar": "محللات XRF المحمولة والمكتبية ومحللات الكربون والكبريت",
+                "en": "Handheld and Benchtop XRF and Carbon-Sulfur Analyzers"
+              },
+              "description": {
+                "ar": "محللات ⁦XRF⁩ محمولة، ومطيافات ⁦EDXRF⁩ مكتبية بمبدّلات ⁦10⁩ و⁦31⁩ عينة، ومحللات كربون وكبريت بالأشعة تحت الحمراء للخامات الكبريتيدية. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Handheld XRF, benchtop EDXRF with 10- and 31-sample changers and infrared carbon-sulfur analyzers for sulfide ores. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "محللات ⁦XRF⁩ والكربون والكبريت إضافية. اختر من الجدول أدناه.",
+              "en": "More XRF and carbon-sulfur analyzers. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا أقيس الكبريت في خام الذهب؟",
+                  "a": "الخامات الكبريتيدية تحتاج غالباً معالجة مختلفة قبل الإذابة، فيساعد قياس الكبريت في اختيار طريقة المعالجة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why measure sulfur in gold ore?",
+                  "a": "Sulfide ores often need different treatment before leaching, so measuring sulfur helps choose the process route."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "9",
+                  "label": "موديلات"
+                },
+                {
+                  "value": "⁦123⁠–⁠148⁩ إلكترون فولت",
+                  "label": "دقة الكاشف"
+                },
+                {
+                  "value": "⁦10 / 31⁩",
+                  "label": "مواضع العينات"
+                }
+              ],
+              "en": [
+                {
+                  "value": "9",
+                  "label": "Models"
+                },
+                {
+                  "value": "123–148 eV",
+                  "label": "Detector resolution"
+                },
+                {
+                  "value": "10 / 31",
+                  "label": "Sample positions"
+                }
+              ]
+            }
+          },
+          {
+            "id": "spark-oes-carbon-sulphur-xrf-analyzers",
+            "name": {
+              "ar": "مطيافات الشرارة ومحللات الكربون والكبريت وXRF",
+              "en": "Spark OES, Carbon-Sulphur & XRF Analyzers"
+            },
+            "coverImage": "/products/spark-oes-carbon-sulphur-xrf-analyzers/spark-oes-carbon-sulphur-xrf-analyzers.webp",
+            "description": {
+              "ar": "أجهزة لتحليل المعادن والسبائك والخامات والسبائك الأولية: مطيافات انبعاث بصري بالشرارة، ومحللات كربون وكبريت بالأشعة تحت الحمراء للخامات الكبريتيدية، ومحللات ⁦XRF⁩، والطاحونة ومكبس الأقراص لتحضير عينات ⁦XRF⁩.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Instruments for analysing metals, alloys, ores and doré: spark optical emission spectrometers, infrared carbon-sulphur analyzers for sulphide ores, XRF analyzers and the mill and pellet press used to prepare XRF samples.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦4⁩ مطيافات شرارة منها ⁦Surpass F1⁩ المتنقل",
+                "محللات كربون وكبريت ⁦CS2020⁩ و⁦CS995⁩ و⁦CS996⁩",
+                "محلل ⁦XRF⁩ متعدد العناصر ⁦KL6800⁩ ومطياف ⁦RL-RAY6000T⁩",
+                "طاحونة اهتزازية ومكبس أقراص آلي لتحضير عينات ⁦XRF⁩"
+              ],
+              "en": [
+                "4 spark spectrometers including the mobile Surpass F1",
+                "CS2020, CS995 and CS996 carbon-sulphur analyzers",
+                "KL6800 multi-element XRF and RL-RAY6000T spectrometer",
+                "Vibratory mill and automatic pellet press for XRF samples"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "مطيافات الشرارة",
+                  "value": "4"
+                },
+                {
+                  "label": "المدى (Exquis T4)",
+                  "value": "⁦160⁠–⁠580⁩ نانومتر"
+                },
+                {
+                  "label": "الكربون والكبريت",
+                  "value": "بالأشعة تحت الحمراء"
+                },
+                {
+                  "label": "تحضير XRF",
+                  "value": "طاحونة ومكبس"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Spark spectrometers",
+                  "value": "4"
+                },
+                {
+                  "label": "Range (Exquis T4)",
+                  "value": "160–580 nm"
+                },
+                {
+                  "label": "Carbon and sulphur",
+                  "value": "Infrared"
+                },
+                {
+                  "label": "XRF preparation",
+                  "value": "Mill and press"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/spark-oes-carbon-sulphur-xrf-analyzers/spark-oes-carbon-sulphur-xrf-analyzers.webp"
+            ],
+            "image": "/products/spark-oes-carbon-sulphur-xrf-analyzers/spark-oes-carbon-sulphur-xrf-analyzers.webp",
+            "cardImage": "/products/spark-oes-carbon-sulphur-xrf-analyzers/spark-oes-carbon-sulphur-xrf-analyzers.webp",
+            "seo": {
+              "title": {
+                "ar": "مطيافات الشرارة ومحللات الكربون والكبريت وXRF",
+                "en": "Spark OES, Carbon-Sulphur and XRF Analyzers"
+              },
+              "description": {
+                "ar": "مطيافات انبعاث بصري بالشرارة، ومحللات كربون وكبريت بالأشعة تحت الحمراء، ومحللات ⁦XRF⁩، وطاحونة ومكبس أقراص لتحضير العينات. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Spark optical emission spectrometers, infrared carbon-sulphur analyzers, XRF analyzers and a mill and pellet press for sample preparation. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مطيافات ومحللات للمعادن والسبائك والخامات. اختر من الجدول أدناه.",
+              "en": "Spectrometers and analyzers for metals, alloys and ores. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما استخدام مطياف الشرارة في قطاع الذهب؟",
+                  "a": "لتحليل المعادن والسبائك، مثل فحص قطع الغيار والسبائك المعدنية في الموقع، بينما تُحلل الخامات بأجهزة ⁦XRF⁩ والامتصاص الذري."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is a spark spectrometer used for in gold work?",
+                  "a": "Analysing metals and alloys, such as checking spare parts and metal alloys on site; ores are analysed with XRF and AAS instruments."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "11",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "4",
+                  "label": "مطيافات شرارة"
+                },
+                {
+                  "value": "⁦C/S⁩",
+                  "label": "تحليل بالأشعة تحت الحمراء"
+                }
+              ],
+              "en": [
+                {
+                  "value": "11",
+                  "label": "Models"
+                },
+                {
+                  "value": "4",
+                  "label": "Spark spectrometers"
+                },
+                {
+                  "value": "C/S",
+                  "label": "Infrared analysis"
+                }
+              ]
+            }
+          },
+          {
+            "id": "gold-purity-density-lab-testing",
+            "name": {
+              "ar": "أجهزة نقاء الذهب والكثافة والاختبار",
+              "en": "Gold Purity, Density & Lab Testing Instruments"
+            },
+            "coverImage": "/products/gold-purity-density-lab-testing/gold-purity-density-lab-testing.webp",
+            "description": {
+              "ar": "أجهزة قياس نقاء الذهب والفضة تقرأ العيار بالكثافة، وموازين كثافة هيدروستاتيكية للوزن النوعي للخام، ومحللات رطوبة بالهالوجين، وأجهزة ⁦pH⁩ مخبرية لضبط محاليل الإذابة، ومقاييس لزوجة دورانية للب، وأوزان معايرة وطابعات للموازين.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Gold and silver purity meters that read karat by density, hydrostatic density balances for ore specific gravity, halogen moisture analyzers, laboratory pH meters for leach solution control, rotational viscometers for slurry, calibration weights and balance printers.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "أجهزة ⁦MDJ⁩ تقرأ عيار الذهب ⁦9⁠–⁠24⁩ قيراطاً بمبدأ أرخميدس",
+                "موازين كثافة من ⁦100⁩ جم إلى ⁦30⁩ كجم",
+                "محللات رطوبة بالتسخين حتى ⁦180 °⁩م",
+                "أجهزة ⁦pH⁩ ومقاييس لزوجة لمحاليل الإذابة واللب"
+              ],
+              "en": [
+                "MDJ meters read gold karat 9–24 K by Archimedes' principle",
+                "Density balances from 100 g to 30 kg",
+                "Moisture analyzers heating to 180 °C",
+                "pH meters and viscometers for leach solutions and slurry"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "قراءة العيار",
+                  "value": "⁦9⁠–⁠24⁩ قيراطاً"
+                },
+                {
+                  "label": "سعة جهاز النقاء",
+                  "value": "⁦300⁩ و⁦1200⁩ جم"
+                },
+                {
+                  "label": "تسخين محلل الرطوبة",
+                  "value": "حتى ⁦180 °⁩م"
+                },
+                {
+                  "label": "مدى pH",
+                  "value": "⁦0⁠–⁠14⁩ أو -⁦2.00⁩ إلى ⁦19.99⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Karat reading",
+                  "value": "9–24 K"
+                },
+                {
+                  "label": "Purity meter capacity",
+                  "value": "300 g and 1200 g"
+                },
+                {
+                  "label": "Moisture heating",
+                  "value": "Up to 180 °C"
+                },
+                {
+                  "label": "pH range",
+                  "value": "0–14 or -2.00 to 19.99"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/gold-purity-density-lab-testing/gold-purity-density-lab-testing.webp"
+            ],
+            "image": "/products/gold-purity-density-lab-testing/gold-purity-density-lab-testing.webp",
+            "cardImage": "/products/gold-purity-density-lab-testing/gold-purity-density-lab-testing.webp",
+            "seo": {
+              "title": {
+                "ar": "أجهزة قياس نقاء الذهب والكثافة والرطوبة وpH",
+                "en": "Gold Purity Meters, Density Balances, Moisture and pH Meters"
+              },
+              "description": {
+                "ar": "أجهزة قياس نقاء الذهب ⁦9⁠–⁠24⁩ قيراطاً، وموازين كثافة، ومحللات رطوبة، وأجهزة ⁦pH⁩، ومقاييس لزوجة، وأوزان معايرة لمختبرات الذهب. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Gold purity meters 9–24 K, density balances, moisture analyzers, pH meters, viscometers and calibration weights for gold labs. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أجهزة نقاء الذهب والكثافة والاختبارات المخبرية. اختر من الجدول أدناه.",
+              "en": "Gold purity, density and lab testing instruments. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كيف يقرأ الجهاز عيار الذهب؟",
+                  "a": "يزن القطعة في الهواء ثم في الماء، ويحسب الكثافة بمبدأ أرخميدس، ثم يحوّلها إلى عيار ونسبة نقاء."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How does the meter read gold karat?",
+                  "a": "It weighs the piece in air and then in water, works out the density by Archimedes' principle and converts it to karat and purity %."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "7",
+                  "label": "خطوط منتجات"
+                },
+                {
+                  "value": "⁦9⁠–⁠24⁩ قيراطاً",
+                  "label": "قراءة نقاء الذهب"
+                },
+                {
+                  "value": "⁦180 °⁩م",
+                  "label": "تسخين محلل الرطوبة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "7",
+                  "label": "Product lines"
+                },
+                {
+                  "value": "9–24 K",
+                  "label": "Gold purity reading"
+                },
+                {
+                  "value": "180 °C",
+                  "label": "Moisture analyzer heating"
+                }
+              ]
+            }
+          },
+          {
+            "id": "metallurgical-test-laboratory-equipment",
+            "name": {
+              "ar": "معدات مختبر الاختبار المعدني",
+              "en": "Metallurgical Test Laboratory Equipment"
+            },
+            "coverImage": "/products/metallurgical-test-laboratory-equipment/metallurgical-test-laboratory-equipment.webp",
+            "description": {
+              "ar": "معدات مختبرية لاختبار الخام قبل تصميم المصنع: التكسير والطحن وطواحين مؤشر العمل، والتعويم، والإذابة، والفصل المغناطيسي والجاذبي، والغربلة، ونزع الكربون مع الاستخلاص الكهربائي.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Bench-scale equipment for ore testing before a plant is designed: crushing, grinding and work-index mills, flotation, leaching, magnetic and gravity separation, screening and carbon elution with electrowinning.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "كسارات وطواحين مختبرية منها طاحونة مؤشر عمل بوند",
+                "آلات تعويم بخلية واحدة وبعدة خلايا",
+                "خلاط إذابة وفواصل مغناطيسية ومركّزات جاذبية مختبرية",
+                "وحدة نزع الكربون واستخلاص الذهب كهربائياً"
+              ],
+              "en": [
+                "Lab crushers and mills including a Bond work-index mill",
+                "Single-cell and multi-cell flotation machines",
+                "Leaching agitator, lab magnetic separators and gravity concentrators",
+                "Carbon elution and gold electrowinning unit"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "مراحل الاختبار",
+                  "value": "⁦11⁩ مرحلة"
+                },
+                {
+                  "label": "الطحن",
+                  "value": "مؤشر عمل بوند"
+                },
+                {
+                  "label": "التعويم",
+                  "value": "خلية واحدة أو عدة خلايا"
+                },
+                {
+                  "label": "الاستخلاص",
+                  "value": "نزع الكربون والاستخلاص الكهربائي"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Test stages covered",
+                  "value": "11"
+                },
+                {
+                  "label": "Grinding",
+                  "value": "Bond work index"
+                },
+                {
+                  "label": "Flotation",
+                  "value": "Single or multi-cell"
+                },
+                {
+                  "label": "Recovery",
+                  "value": "Elution and electrowinning"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/metallurgical-test-laboratory-equipment/metallurgical-test-laboratory-equipment.webp"
+            ],
+            "image": "/products/metallurgical-test-laboratory-equipment/metallurgical-test-laboratory-equipment.webp",
+            "cardImage": "/products/metallurgical-test-laboratory-equipment/metallurgical-test-laboratory-equipment.webp",
+            "seo": {
+              "title": {
+                "ar": "معدات مختبر اختبار خام الذهب",
+                "en": "Gold Ore Testing Laboratory Equipment"
+              },
+              "description": {
+                "ar": "كسارات وطواحين مختبرية وطاحونة مؤشر عمل بوند، وآلات تعويم، وخلاط إذابة، وفواصل مغناطيسية وجاذبية، ووحدة استخلاص كهربائي لاختبار خام الذهب. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Lab crushers and mills, a Bond work-index mill, flotation machines, a leaching agitator, magnetic and gravity separators and an electrowinning unit for gold ore testing. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مختبر اختبار الخام قبل تصميم المصنع. اختر من الجدول أدناه.",
+              "en": "Ore-testing lab before plant design. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا أختبر الخام قبل شراء معدات المصنع؟",
+                  "a": "اختبارات الطحن والتعويم والإذابة والجاذبية تبيّن طريقة الاستخلاص المناسبة ومقاس الطواحين، فتجنب شراء معدات لا تناسب الخام."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why test the ore before buying plant equipment?",
+                  "a": "Grinding, flotation, leaching and gravity tests show the right recovery route and mill size, so you avoid buying equipment that does not suit the ore."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "36",
+                  "label": "موديلاً ونوعاً"
+                },
+                {
+                  "value": "11",
+                  "label": "مرحلة اختبار"
+                },
+                {
+                  "value": "Bond",
+                  "label": "اختبار مؤشر العمل"
+                }
+              ],
+              "en": [
+                {
+                  "value": "36",
+                  "label": "Models & types"
+                },
+                {
+                  "value": "11",
+                  "label": "Test stages covered"
+                },
+                {
+                  "value": "Bond",
+                  "label": "Work-index testing"
+                }
+              ]
+            }
+          }
+        ]
       }
     ]
   }

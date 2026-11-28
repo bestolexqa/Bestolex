@@ -1,0 +1,376 @@
+{
+  "id": "laboratory-balances-micropipettes",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-09 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-09 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "cap",
+      "label": {
+        "en": "Capacity",
+        "ar": "السعة"
+      }
+    },
+    {
+      "key": "read",
+      "label": {
+        "en": "Readability",
+        "ar": "دقة القراءة"
+      }
+    },
+    {
+      "key": "pan",
+      "label": {
+        "en": "Pan",
+        "ar": "الكفة"
+      }
+    },
+    {
+      "key": "display",
+      "label": {
+        "en": "Display / interface",
+        "ar": "الشاشة / الواجهة"
+      }
+    },
+    {
+      "key": "details",
+      "label": {
+        "en": "Details",
+        "ar": "التفاصيل"
+      }
+    },
+    {
+      "key": "inc",
+      "label": {
+        "en": "Increment",
+        "ar": "الخطوة"
+      }
+    },
+    {
+      "key": "test",
+      "label": {
+        "en": "Test volume (µL)",
+        "ar": "حجم الاختبار (ميكرولتر)"
+      }
+    },
+    {
+      "key": "acc",
+      "label": {
+        "en": "Accuracy error",
+        "ar": "خطأ الدقة"
+      }
+    },
+    {
+      "key": "prec",
+      "label": {
+        "en": "Precision error",
+        "ar": "خطأ الضبط"
+      }
+    }
+  ],
+  "keyRows": [
+    "cap",
+    "read",
+    "pan"
+  ],
+  "types": [
+    {
+      "id": "balances",
+      "label": {
+        "en": "Balances",
+        "ar": "الموازين"
+      },
+      "models": [
+        {
+          "code": "BX-0047-01-007",
+          "name": {
+            "en": "NA2204",
+            "ar": "NA2204"
+          },
+          "specs": {
+            "cap": {
+              "en": "220 g",
+              "ar": "⁦220⁩ جم"
+            },
+            "read": {
+              "en": "0.1 mg",
+              "ar": "⁦0.1⁩ ملغ"
+            },
+            "pan": {
+              "en": "Ø80 mm stainless",
+              "ar": "قطر ⁦80⁩ مم ستانلس"
+            },
+            "display": {
+              "en": "LCD, RS232",
+              "ar": "⁦LCD, RS232⁩"
+            },
+            "details": {
+              "en": "Linearity ±0.2 mg; repeatability 0.2 mg; stable < 0.5 s; AC/DC rechargeable; 350×210×360 mm",
+              "ar": "الخطية ±⁦0.2⁩ ملغ؛ التكرارية ⁦0.2⁩ ملغ؛ الاستقرار < ⁦0.5⁩ ثانية؛ تيار متردد/مستمر قابل للشحن؛ ⁦350×210×360⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-008",
+          "name": {
+            "en": "NB30002K",
+            "ar": "NB30002K"
+          },
+          "specs": {
+            "cap": {
+              "en": "3000 g",
+              "ar": "⁦3000⁩ جم"
+            },
+            "read": {
+              "en": "0.01 g",
+              "ar": "⁦0.01⁩ جم"
+            },
+            "pan": {
+              "en": "Ø130 mm",
+              "ar": "قطر ⁦130⁩ مم"
+            },
+            "display": {
+              "en": "LED, backlit",
+              "ar": "⁦LED⁩ بإضاءة خلفية"
+            },
+            "details": {
+              "en": "Counting; multi-point or single-point calibration; 25×18×14 cm; 2 kg",
+              "ar": "العدّ؛ معايرة متعددة النقاط أو بنقطة واحدة؛ ⁦25×18×14⁩ سم؛ ⁦2⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-009",
+          "name": {
+            "en": "Pocket balance",
+            "ar": "ميزان جيب"
+          },
+          "specs": {
+            "cap": {
+              "en": "200 g",
+              "ar": "⁦200⁩ جم"
+            },
+            "read": {
+              "en": "0.01 g",
+              "ar": "⁦0.01⁩ جم"
+            },
+            "display": {
+              "en": "LCD",
+              "ar": "LCD"
+            },
+            "details": {
+              "en": "Battery-operated, for gold buying in the field",
+              "ar": "يعمل بالبطارية، لشراء الذهب في الموقع"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "200 g–3 kg",
+        "ar": "⁦200⁩ جم–⁦3⁩ كجم"
+      },
+      "keyRows": [
+        "cap",
+        "read",
+        "display"
+      ]
+    },
+    {
+      "id": "pipettes",
+      "label": {
+        "en": "Adjustable single-channel micropipettes",
+        "ar": "ماصات دقيقة أحادية القناة قابلة للضبط"
+      },
+      "models": [
+        {
+          "code": "BX-0047-01-012 / 2–20 µL (metal nozzle)",
+          "name": {
+            "en": "2–20 µL (metal nozzle)",
+            "ar": "⁦2⁠–⁠20⁩ ميكرولتر (فوهة معدنية)"
+          },
+          "specs": {
+            "inc": {
+              "en": "0.5 µL",
+              "ar": "⁦0.5 µL⁩"
+            },
+            "test": {
+              "en": "20",
+              "ar": "20"
+            },
+            "acc": {
+              "en": "0.90% · 0.18 µL",
+              "ar": "⁦0.90% · 0.18 µL⁩"
+            },
+            "prec": {
+              "en": "0.40% · 0.08 µL",
+              "ar": "⁦0.40% · 0.08 µL⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-012 / 2–20 µL (metal nozzle)",
+          "name": {
+            "en": "2–20 µL (metal nozzle)",
+            "ar": "⁦2⁠–⁠20⁩ ميكرولتر (فوهة معدنية)"
+          },
+          "specs": {
+            "inc": {
+              "en": "0.5 µL",
+              "ar": "⁦0.5 µL⁩"
+            },
+            "test": {
+              "en": "10",
+              "ar": "10"
+            },
+            "acc": {
+              "en": "1.20% · 0.12 µL",
+              "ar": "⁦1.20% · 0.12 µL⁩"
+            },
+            "prec": {
+              "en": "1.00% · 0.10 µL",
+              "ar": "⁦1.00% · 0.10 µL⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-012 / 2–20 µL (metal nozzle)",
+          "name": {
+            "en": "2–20 µL (metal nozzle)",
+            "ar": "⁦2⁠–⁠20⁩ ميكرولتر (فوهة معدنية)"
+          },
+          "specs": {
+            "inc": {
+              "en": "0.5 µL",
+              "ar": "⁦0.5 µL⁩"
+            },
+            "test": {
+              "en": "2",
+              "ar": "2"
+            },
+            "acc": {
+              "en": "3.00% · 0.06 µL",
+              "ar": "⁦3.00% · 0.06 µL⁩"
+            },
+            "prec": {
+              "en": "2.00% · 0.04 µL",
+              "ar": "⁦2.00% · 0.04 µL⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-012 / 100–1000 µL",
+          "name": {
+            "en": "100–1000 µL",
+            "ar": "⁦100⁠–⁠1000⁩ ميكرولتر"
+          },
+          "specs": {
+            "inc": {
+              "en": "5 µL",
+              "ar": "⁦5 µL⁩"
+            },
+            "test": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "acc": {
+              "en": "0.60% · 6 µL",
+              "ar": "⁦0.60% · 6 µL⁩"
+            },
+            "prec": {
+              "en": "0.20% · 2 µL",
+              "ar": "⁦0.20% · 2 µL⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-012 / 100–1000 µL",
+          "name": {
+            "en": "100–1000 µL",
+            "ar": "⁦100⁠–⁠1000⁩ ميكرولتر"
+          },
+          "specs": {
+            "inc": {
+              "en": "5 µL",
+              "ar": "⁦5 µL⁩"
+            },
+            "test": {
+              "en": "500",
+              "ar": "500"
+            },
+            "acc": {
+              "en": "0.70% · 3.5 µL",
+              "ar": "⁦0.70% · 3.5 µL⁩"
+            },
+            "prec": {
+              "en": "0.25% · 1.25 µL",
+              "ar": "⁦0.25% · 1.25 µL⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-012 / 100–1000 µL",
+          "name": {
+            "en": "100–1000 µL",
+            "ar": "⁦100⁠–⁠1000⁩ ميكرولتر"
+          },
+          "specs": {
+            "inc": {
+              "en": "5 µL",
+              "ar": "⁦5 µL⁩"
+            },
+            "test": {
+              "en": "100",
+              "ar": "100"
+            },
+            "acc": {
+              "en": "2.00% · 2 µL",
+              "ar": "⁦2.00% · 2 µL⁩"
+            },
+            "prec": {
+              "en": "0.70% · 0.7 µL",
+              "ar": "⁦0.70% · 0.7 µL⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "2–1000 µL",
+        "ar": "⁦2⁠–⁠1000⁩ ميكرولتر"
+      },
+      "countUnit": {
+        "ar": [
+          "اختبار واحد",
+          "اختباران",
+          "اختبارات"
+        ],
+        "en": [
+          "test point",
+          "test points"
+        ]
+      },
+      "intro": {
+        "en": "Fully autoclavable; each pipette with an individual ISO 8655 calibration certificate. Other ranges from 0.1 µL to 10 mL.",
+        "ar": "قابلة للتعقيم بالكامل؛ لكل ماصة شهادة معايرة فردية وفق ⁦ISO 8655⁩. مدايات أخرى من ⁦0.1⁩ ميكرولتر إلى ⁦10⁩ مل."
+      },
+      "keyRows": [
+        "test",
+        "acc",
+        "prec"
+      ]
+    }
+  ]
+}

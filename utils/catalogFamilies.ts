@@ -77,5 +77,21 @@ export const FAMILY_IDS = new Set([
   'mobile-gold-washing-plants',
   'sluice-boxes-gold-carpets-pans',
   'dredgers',
-  'amphibious-dredgers-excavators'
+  'amphibious-dredgers-excavators',
+  'sample-crushing-pulverizing',
+  'sample-division-sieving-drying-digestion',
+  'sample-preparation-additional-range',
+  'fire-assay-furnaces-cupels',
+  'fire-assay-fluxing-lab-utilities',
+  'laboratory-balances-micropipettes',
+  'laboratory-balances-industrial-scales',
+  'xrf-analyzers-benchtop-handheld',
+  'atomic-absorption-fluorescence-spectrometers',
+  'icp-oes-spectrometer',
+  'benchtop-xrf-flame-aas-crucibles',
+  'atomic-absorption-additional-models',
+  'xrf-carbon-sulfur-analyzers',
+  'spark-oes-carbon-sulphur-xrf-analyzers',
+  'gold-purity-density-lab-testing',
+  'metallurgical-test-laboratory-equipment'
 ])

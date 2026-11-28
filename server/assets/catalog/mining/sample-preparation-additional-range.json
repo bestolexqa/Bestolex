@@ -1,0 +1,232 @@
+{
+  "id": "sample-preparation-additional-range",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-09 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-09 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Sample preparation equipment – additional range",
+        "ar": "معدات تحضير العينات – مجموعة إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0421-01-002",
+          "name": {
+            "en": "Laboratory jaw crushers (heavy-duty, mega-reduction, double-acting, ultra-fine)",
+            "ar": "كسارات فكية مختبرية (ثقيلة، وتخفيض كبير، ومزدوجة الحركة، وناعمة جداً)"
+          },
+          "specs": {
+            "models": {
+              "en": "YX-JC250×400, JC150×250, HJ125×150, HJ100×60, YX-JCT100, YX-JCT50, YX-HJ60×100P / 125×150P / 150×250P, YX-HP200, YX-HJTX30/100",
+              "ar": "⁦YX-JC250×400, JC150×250, HJ125×150, HJ100×60, YX-JCT100, YX-JCT50, YX-HJ60×100P / 125×150P / 150×250P, YX-HP200, YX-HJTX30/100⁩"
+            },
+            "data": {
+              "en": "Feed to 210 mm; product 0.5–60 mm adjustable; 2.2–15 kW, 380 V 50 Hz; JCT100 gives 85% below 2 mm in one pass",
+              "ar": "تغذية حتى ⁦210⁩ مم؛ ناتج ⁦0.5⁠–⁠60⁩ مم قابل للضبط؛ ⁦2.2⁠–⁠15⁩ كيلوواط، ⁦380⁩ فولت ⁦50⁩ هرتز؛ ⁦JCT100⁩ يعطي ⁦85%⁩ أقل من ⁦2⁩ مم في مرور واحد"
+            }
+          }
+        },
+        {
+          "code": "BX-0421-01-003",
+          "name": {
+            "en": "Jaw crusher over rotary sample divider",
+            "ar": "كسارة فكية فوق مقسّم عينات دوّار"
+          },
+          "specs": {
+            "models": {
+              "en": "YX-HJD125×150, YX-HJD125×150R (with reject discharge)",
+              "ar": "⁦YX-HJD125×150⁩ و⁦YX-HJD125×150R⁩ (بتفريغ المرفوض)"
+            },
+            "data": {
+              "en": "Crushes and splits in one step; product 3–20 mm; 8 × 20 L buckets; 4 kW",
+              "ar": "يكسّر ويقسّم في خطوة واحدة؛ ناتج ⁦3⁠–⁠20⁩ مم؛ ⁦8⁩ دلاء × ⁦20⁩ لتر؛ ⁦4⁩ كيلوواط"
+            }
+          }
+        },
+        {
+          "code": "BX-0421-01-004",
+          "name": {
+            "en": "Laboratory hammer and roll crushers",
+            "ar": "كسارات مطرقية وأسطوانية مختبرية"
+          },
+          "specs": {
+            "models": {
+              "en": "YX-HC250×360, YX-HC180×150; YX-RC250×75 / 125 / 150",
+              "ar": "⁦YX-HC250×360, YX-HC180×150; YX-RC250×75 / 125 / 150⁩"
+            },
+            "data": {
+              "en": "Hammer: feed ≤ 150 mm, product below 13 / 6 / 3 mm; roll: feed ≤ 13 mm, product 1–3 mm",
+              "ar": "المطرقية: تغذية ≤ ⁦150⁩ مم، ناتج أقل من ⁦13 / 6 / 3⁩ مم؛ الأسطوانية: تغذية ≤ ⁦13⁩ مم، ناتج ⁦1⁠–⁠3⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0421-01-007",
+          "name": {
+            "en": "Vibration pulverisers, bowls and continuous ring mill",
+            "ar": "ساحقات اهتزازية وأوعية وطاحونة حلقية مستمرة"
+          },
+          "specs": {
+            "models": {
+              "en": "YX-M2000, YX-M5000; bowls B300–B5000; YX-ZM100",
+              "ar": "⁦YX-M2000⁩ و⁦YX-M5000⁩؛ أوعية ⁦B300–B5000⁩؛ ⁦YX-ZM100⁩"
+            },
+            "data": {
+              "en": "Product ≤ 75 µm; M2000 up to 1.8 kg and M5000 up to 3.5 kg per batch; steel, chrome and tungsten-carbide bowls",
+              "ar": "ناتج ≤ ⁦75⁩ ميكرون؛ ⁦M2000⁩ حتى ⁦1.8⁩ كجم و⁦M5000⁩ حتى ⁦3.5⁩ كجم في الدفعة؛ أوعية من الفولاذ والكروم وكربيد التنغستن"
+            }
+          }
+        },
+        {
+          "code": "BX-0421-01-008",
+          "name": {
+            "en": "Multi-pot grinders",
+            "ar": "مطاحن متعددة الأوعية"
+          },
+          "specs": {
+            "models": {
+              "en": "YX-M100 to M100-7, YX-M200 to M200-4, YX-M400, M800, M1000",
+              "ar": "⁦YX-M100 to M100-7, YX-M200 to M200-4, YX-M400, M800, M1000⁩"
+            },
+            "data": {
+              "en": "1–7 pots of 50–1000 g; product 80–200 mesh; 1.1–2.2 kW",
+              "ar": "⁦1⁠–⁠7⁩ أوعية سعة ⁦50⁠–⁠1000⁩ جم؛ ناتج ⁦80⁠–⁠200⁩ ميش؛ ⁦1.1⁠–⁠2.2⁩ كيلوواط"
+            }
+          }
+        },
+        {
+          "code": "BX-0421-01-009",
+          "name": {
+            "en": "Disc mills",
+            "ar": "طواحين قرصية"
+          },
+          "specs": {
+            "models": {
+              "en": "YX-DM175, YX-DM200",
+              "ar": "⁦YX-DM175, YX-DM200⁩"
+            },
+            "data": {
+              "en": "Feed ≤ 6–8 mm; product 80–200 mesh; 10–35 kg/h",
+              "ar": "تغذية ≤ ⁦6⁠–⁠8⁩ مم؛ ناتج ⁦80⁠–⁠200⁩ ميش؛ ⁦10⁠–⁠35⁩ كجم/ساعة"
+            }
+          }
+        },
+        {
+          "code": "BX-0421-01-005",
+          "name": {
+            "en": "Rotary sample dividers",
+            "ar": "مقسّمات عينات دوّارة"
+          },
+          "specs": {
+            "models": {
+              "en": "YX-RSD02, 05, 05P, 20, 30, 40, 60, 90; YX-RSD30R / 60R with reject",
+              "ar": "⁦YX-RSD02⁩ و⁦05⁩ و⁦05P⁩ و⁦20⁩ و⁦30⁩ و⁦40⁩ و⁦60⁩ و⁦90⁩؛ ⁦YX-RSD30R / 60R⁩ بالمرفوض"
+            },
+            "data": {
+              "en": "Buckets 2–90 L; 4–10 splits; 220 V",
+              "ar": "دلاء ⁦2⁠–⁠90⁩ لتر؛ ⁦4⁠–⁠10⁩ أقسام؛ ⁦220⁩ فولت"
+            }
+          }
+        },
+        {
+          "code": "BX-0421-01-006",
+          "name": {
+            "en": "Drying ovens, trolley ovens and multi-cavity oven",
+            "ar": "أفران تجفيف وأفران بعربات وفرن متعدد الحجرات"
+          },
+          "specs": {
+            "models": {
+              "en": "YH-9023A to 9960A (25–960 L); YD-2000T / 4000T / 10000T; YD-MC100",
+              "ar": "⁦YH-9023A⁩ إلى ⁦9960A (25⁠–⁠960⁩ لتر)؛ ⁦YD-2000T / 4000T / 10000T⁩؛ ⁦YD-MC100⁩"
+            },
+            "data": {
+              "en": "Up to 250 °C; trolley ovens 120 °C, 2.1–10.3 m³",
+              "ar": "حتى ⁦250 °⁩م؛ أفران العربات ⁦120 °⁩م، ⁦2.1⁠–⁠10.3⁩ م³"
+            }
+          }
+        },
+        {
+          "code": "BX-0421-01-014",
+          "name": {
+            "en": "Sieve shakers",
+            "ar": "هزازات مناخل"
+          },
+          "specs": {
+            "models": {
+              "en": "YX-ZS200, YX-CT200",
+              "ar": "⁦YX-ZS200, YX-CT200⁩"
+            },
+            "data": {
+              "en": "200 / 300 mm sieves; up to 7 sieves; 0.37 kW",
+              "ar": "مناخل ⁦200 / 300⁩ مم؛ حتى ⁦7⁩ مناخل؛ ⁦0.37⁩ كيلوواط"
+            }
+          }
+        },
+        {
+          "code": "BX-0421-01-013",
+          "name": {
+            "en": "Automatic XRF pellet press",
+            "ar": "مكبس أقراص ⁦XRF⁩ آلي"
+          },
+          "specs": {
+            "models": {
+              "en": "YX-YP40T, YX-YP60T",
+              "ar": "⁦YX-YP40T, YX-YP60T⁩"
+            },
+            "data": {
+              "en": "40 / 60 t; PLC with touch screen; steel-ring and boric-acid dies",
+              "ar": "⁦40 / 60⁩ طن؛ تحكم ⁦PLC⁩ بشاشة لمس؛ قوالب بحلقة فولاذية أو حمض البوريك"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}
