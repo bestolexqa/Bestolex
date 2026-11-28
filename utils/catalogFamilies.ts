@@ -16,5 +16,19 @@ export const FAMILY_IDS = new Set([
   'gas-generators-alternators',
   'portable-generators',
   'diesel-petrol-engines',
-  'generator-controls-load-banks'
+  'generator-controls-load-banks',
+  'geophysical-survey-instruments',
+  'metal-detectors-water-well-drill-rigs',
+  'core-rc-exploration-drill-rigs',
+  'air-leg-rock-drills',
+  'hand-held-gasoline-rock-drills',
+  'dth-water-well-drill-rigs',
+  'diesel-air-compressors',
+  'pneumatic-picks-wedges-cracking-mortar',
+  'paving-breakers-electric-hammers-hydraulic-power-packs',
+  'hydraulic-rock-splitters',
+  'line-drilling-machines-compact-dth-drillers',
+  'diamond-wire-saws',
+  'block-pushing-handling',
+  'mine-ventilation-fans-ground-support-mesh'
 ])

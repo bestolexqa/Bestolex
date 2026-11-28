@@ -1,0 +1,214 @@
+{
+  "id": "metal-detectors-water-well-drill-rigs",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-02 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-02 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Models / sizes",
+        "ar": "الموديلات والمقاسات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    },
+    {
+      "key": "depth",
+      "label": {
+        "en": "Drilling depth",
+        "ar": "عمق الحفر"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data",
+    "depth"
+  ],
+  "types": [
+    {
+      "id": "detectors",
+      "label": {
+        "en": "Metal detectors, pinpointers & scoops",
+        "ar": "أجهزة كشف المعادن والمؤشرات والمغارف"
+      },
+      "models": [
+        {
+          "code": "BX-0072-01-001",
+          "name": {
+            "en": "VLF ground metal detectors",
+            "ar": "أجهزة كشف المعادن الأرضية ⁦VLF⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "F19 (11\" DD coil) · F39 (11\", 7.69 kHz) · N60 (IP68) · T90 (11\"/13\", 18.75 kHz or multi-frequency 3/7.5/18.75 kHz) · B75 (11\"/13\", 13 kHz)",
+              "ar": "⁦F19 (11\" DD coil) · F39 (11\", 7.69 kHz) · N60 (IP68) · T90 (11\"/13\", 18.75 kHz or multi-frequency 3/7.5/18.75 kHz) · B75 (11\"/13\", 13 kHz)⁩"
+            },
+            "data": {
+              "en": "For coins, relics and prospecting; T90 has a prospecting mode; ground balance; waterproof to 2–3 m (N60, T90, B75)",
+              "ar": "للعملات والآثار والتنقيب؛ في ⁦T90⁩ وضع للتنقيب؛ موازنة أرضية؛ مقاومة للماء حتى ⁦2–3⁩ م (⁦N60⁩ و⁦T90⁩ و⁦B75⁩)"
+            }
+          }
+        },
+        {
+          "code": "BX-0072-01-002",
+          "name": {
+            "en": "Pinpointers",
+            "ar": "مؤشرات تحديد الموقع"
+          },
+          "specs": {
+            "models": {
+              "en": "Basic · AT PRO · TM · TMR (lithium battery, USB charging)",
+              "ar": "⁦Basic · AT PRO · TM · TMR⁩ (بطارية ليثيوم وشحن ⁦USB⁩)"
+            },
+            "data": {
+              "en": "Hand-held 360° detection; waterproof to 3 m (all except Basic)",
+              "ar": "كشف يدوي ⁦360°⁩؛ مقاومة للماء حتى ⁦3⁩ م (كلها عدا ⁦Basic⁩)"
+            }
+          }
+        },
+        {
+          "code": "BX-0072-01-003",
+          "name": {
+            "en": "Edge shovel & sand scoops",
+            "ar": "مجرفة الحافة ومغارف الرمل"
+          },
+          "specs": {
+            "models": {
+              "en": "Edge shovel (32 cm) · small sand scoop (26 × 15 cm) · sand scoop (300 × 220 mm, 10 mm holes)",
+              "ar": "مجرفة حافة (⁦32⁩ سم) · مغرفة رمل صغيرة (⁦26 × 15⁩ سم) · مغرفة رمل (⁦300 × 220⁩ مم، ثقوب ⁦10⁩ مم)"
+            },
+            "data": {
+              "en": "Stainless steel 304",
+              "ar": "فولاذ مقاوم للصدأ ⁦304⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "VLF detectors",
+        "ar": "أجهزة ⁦VLF⁩"
+      },
+      "intro": {
+        "en": "Ground balance and waterproof coils suit prospecting on dry and wet ground.",
+        "ar": "الموازنة الأرضية والملفات المقاومة للماء تناسب التنقيب في الأرض الجافة والرطبة."
+      }
+    },
+    {
+      "id": "rigs-by-depth",
+      "label": {
+        "en": "Water-well & exploration drill rigs by depth class",
+        "ar": "حفارات آبار المياه والاستكشاف حسب العمق"
+      },
+      "models": [
+        {
+          "code": "BX-0401-01-001",
+          "name": {
+            "en": "Rotary-table drilling rig",
+            "ar": "حفارة بطاولة دوّارة"
+          },
+          "specs": {
+            "depth": {
+              "en": "Depth classes 300 · 400 · 600 · 800–1500 m",
+              "ar": "فئات عمق ⁦300 · 400 · 600 · 800–1500⁩ م"
+            },
+            "data": {
+              "en": "Borehole Ø152–1000 mm; mast 12–15 m; truck, trailer, skid or crawler; mud, air or DTH drilling",
+              "ar": "قطر البئر ⁦152–1000⁩ مم؛ صاري ⁦12–15⁩ م؛ على شاحنة أو مقطورة أو قاعدة أو جنزير؛ حفر بالطين أو الهواء أو ⁦DTH⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0401-01-002",
+          "name": {
+            "en": "Power-head water-well rig",
+            "ar": "حفارة آبار برأس دوّار"
+          },
+          "specs": {
+            "depth": {
+              "en": "150–1000 m",
+              "ar": "⁦150–1000⁩ م"
+            },
+            "data": {
+              "en": "Borehole Ø110–600 mm; DTH, rotary and reverse-circulation drilling; truck, trailer or crawler",
+              "ar": "قطر البئر ⁦110–600⁩ مم؛ حفر ⁦DTH⁩ ودوراني ودوران عكسي؛ على شاحنة أو مقطورة أو جنزير"
+            }
+          }
+        },
+        {
+          "code": "BX-0401-01-003",
+          "name": {
+            "en": "Fully hydraulic exploration rig",
+            "ar": "حفارة استكشاف هيدروليكية بالكامل"
+          },
+          "specs": {
+            "depth": {
+              "en": "300–1500 m",
+              "ar": "⁦300–1500⁩ م"
+            },
+            "data": {
+              "en": "Core drilling; drilling angle 45–90°",
+              "ar": "حفر لبّي؛ زاوية الحفر ⁦45–90°⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0401-01-004",
+          "name": {
+            "en": "Cable-tool (percussion) rig",
+            "ar": "حفارة بالكابل (طرقية)"
+          },
+          "specs": {
+            "depth": {
+              "en": "50–400 m",
+              "ar": "⁦50–400⁩ م"
+            },
+            "data": {
+              "en": "Borehole Ø300–1000 mm; water wells and piling",
+              "ar": "قطر البئر ⁦300–1000⁩ مم؛ آبار المياه والخوازيق"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "50–1500 m",
+        "ar": "⁦50–1500⁩ م"
+      },
+      "countUnit": {
+        "ar": [
+          "نوع واحد",
+          "نوعان",
+          "أنواع"
+        ],
+        "en": [
+          "type",
+          "types"
+        ]
+      },
+      "intro": {
+        "en": "Rotary-table and power-head rigs for water wells and camp supply, a fully hydraulic core rig for mineral exploration and a cable-tool percussion rig for large-diameter wells. Truck, trailer, skid or crawler mounting is available.",
+        "ar": "حفارات بطاولة دوّارة وبرأس دوّار لآبار المياه وتزويد المخيمات، وحفارة لبّية هيدروليكية للاستكشاف المعدني، وحفارة طرقية بالكابل للآبار الواسعة. التركيب على شاحنة أو مقطورة أو قاعدة أو جنزير متاح."
+      }
+    }
+  ]
+}

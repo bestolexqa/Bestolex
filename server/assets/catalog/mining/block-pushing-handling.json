@@ -1,0 +1,514 @@
+{
+  "id": "block-pushing-handling",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-02 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-02 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "size",
+      "label": {
+        "en": "Size (m)",
+        "ar": "المقاس (م)"
+      }
+    },
+    {
+      "key": "cap",
+      "label": {
+        "en": "Pushing capacity (t)",
+        "ar": "قدرة الدفع (طن)"
+      }
+    },
+    {
+      "key": "w",
+      "label": {
+        "en": "Weight (kg)",
+        "ar": "الوزن (كجم)"
+      }
+    },
+    {
+      "key": "kw",
+      "label": {
+        "en": "Pump motor (kW)",
+        "ar": "محرك المضخة (كيلوواط)"
+      }
+    },
+    {
+      "key": "stroke",
+      "label": {
+        "en": "Stroke (mm)",
+        "ar": "الشوط (مم)"
+      }
+    },
+    {
+      "key": "mpa",
+      "label": {
+        "en": "Hydraulic pressure (MPa)",
+        "ar": "الضغط الهيدروليكي (ميغاباسكال)"
+      }
+    },
+    {
+      "key": "force",
+      "label": {
+        "en": "Nominal force (t)",
+        "ar": "القوة الاسمية (طن)"
+      }
+    },
+    {
+      "key": "hose",
+      "label": {
+        "en": "Hose length (m)",
+        "ar": "طول الخرطوم (م)"
+      }
+    },
+    {
+      "key": "tank",
+      "label": {
+        "en": "Oil tank (L)",
+        "ar": "خزان الزيت (لتر)"
+      }
+    },
+    {
+      "key": "wkg",
+      "label": {
+        "en": "Weight (kg)",
+        "ar": "الوزن (كجم)"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "size",
+    "cap",
+    "w"
+  ],
+  "types": [
+    {
+      "id": "cushions",
+      "label": {
+        "en": "Block-pushing cushions",
+        "ar": "وسائد دفع الكتل"
+      },
+      "models": [
+        {
+          "code": "BX-0058-03-035 / Steel hydro-bag 2.0 × 1.0",
+          "name": {
+            "en": "Steel hydro-bag 2.0 × 1.0",
+            "ar": "كيس مائي فولاذي ⁦2.0 × 1.0⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "2.0 × 1.0",
+              "ar": "⁦2.0 × 1.0⁩"
+            },
+            "cap": {
+              "en": "600",
+              "ar": "600"
+            },
+            "w": {
+              "en": "20.0",
+              "ar": "⁦20.0⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-035 / Steel hydro-bag 1.0 × 1.0",
+          "name": {
+            "en": "Steel hydro-bag 1.0 × 1.0",
+            "ar": "كيس مائي فولاذي ⁦1.0 × 1.0⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "1.0 × 1.0",
+              "ar": "⁦1.0 × 1.0⁩"
+            },
+            "cap": {
+              "en": "300",
+              "ar": "300"
+            },
+            "w": {
+              "en": "10.0",
+              "ar": "⁦10.0⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-035 / Steel hydro-bag 1.0 × 0.5",
+          "name": {
+            "en": "Steel hydro-bag 1.0 × 0.5",
+            "ar": "كيس مائي فولاذي ⁦1.0 × 0.5⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "1.0 × 0.5",
+              "ar": "⁦1.0 × 0.5⁩"
+            },
+            "cap": {
+              "en": "150",
+              "ar": "150"
+            },
+            "w": {
+              "en": "5.0",
+              "ar": "⁦5.0⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-035 / Steel hydro-bag 0.5 × 0.5",
+          "name": {
+            "en": "Steel hydro-bag 0.5 × 0.5",
+            "ar": "كيس مائي فولاذي ⁦0.5 × 0.5⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "0.5 × 0.5",
+              "ar": "⁦0.5 × 0.5⁩"
+            },
+            "cap": {
+              "en": "75",
+              "ar": "75"
+            },
+            "w": {
+              "en": "2.5",
+              "ar": "⁦2.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-036 / Air bag BL1010",
+          "name": {
+            "en": "Air bag BL1010",
+            "ar": "كيس هوائي ⁦BL1010⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "1.0 × 1.0",
+              "ar": "⁦1.0 × 1.0⁩"
+            },
+            "cap": {
+              "en": "50",
+              "ar": "50"
+            },
+            "w": {
+              "en": "2.8",
+              "ar": "⁦2.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-036 / Air bag BL1015",
+          "name": {
+            "en": "Air bag BL1015",
+            "ar": "كيس هوائي ⁦BL1015⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "1.0 × 1.5",
+              "ar": "⁦1.0 × 1.5⁩"
+            },
+            "cap": {
+              "en": "75",
+              "ar": "75"
+            },
+            "w": {
+              "en": "4.2",
+              "ar": "⁦4.2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-036 / Air bag BL1020",
+          "name": {
+            "en": "Air bag BL1020",
+            "ar": "كيس هوائي ⁦BL1020⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "1.0 × 2.0",
+              "ar": "⁦1.0 × 2.0⁩"
+            },
+            "cap": {
+              "en": "100",
+              "ar": "100"
+            },
+            "w": {
+              "en": "5.6",
+              "ar": "⁦5.6⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-036 / Air bag BL1515",
+          "name": {
+            "en": "Air bag BL1515",
+            "ar": "كيس هوائي ⁦BL1515⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "1.5 × 1.5",
+              "ar": "⁦1.5 × 1.5⁩"
+            },
+            "cap": {
+              "en": "115",
+              "ar": "115"
+            },
+            "w": {
+              "en": "6.3",
+              "ar": "⁦6.3⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-036 / Air bag BL2015",
+          "name": {
+            "en": "Air bag BL2015",
+            "ar": "كيس هوائي ⁦BL2015⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "2.0 × 1.5",
+              "ar": "⁦2.0 × 1.5⁩"
+            },
+            "cap": {
+              "en": "150",
+              "ar": "150"
+            },
+            "w": {
+              "en": "8.4",
+              "ar": "⁦8.4⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-036 / Air bag BL2020",
+          "name": {
+            "en": "Air bag BL2020",
+            "ar": "كيس هوائي ⁦BL2020⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "2.0 × 2.0",
+              "ar": "⁦2.0 × 2.0⁩"
+            },
+            "cap": {
+              "en": "200",
+              "ar": "200"
+            },
+            "w": {
+              "en": "11.2",
+              "ar": "⁦11.2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-036 / Air bag BL3030",
+          "name": {
+            "en": "Air bag BL3030",
+            "ar": "كيس هوائي ⁦BL3030⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "3.0 × 3.0",
+              "ar": "⁦3.0 × 3.0⁩"
+            },
+            "cap": {
+              "en": "450",
+              "ar": "450"
+            },
+            "w": {
+              "en": "25.2",
+              "ar": "⁦25.2⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Hydro-bags and air bags · 50–600 t",
+        "ar": "أكياس مائية وهوائية · ⁦50–600⁩ طن"
+      },
+      "intro": {
+        "en": "Steel hydro-bags are 2 mm thick and slip into the wire-saw cut; electric or pneumatic water pumps. Reusable polyester air bags work at 0–6 bar.",
+        "ar": "الأكياس المائية الفولاذية بسماكة ⁦2⁩ مم وتدخل في قطع المنشار السلكي، بمضخات ماء كهربائية أو هوائية. الأكياس الهوائية من البوليستر قابلة لإعادة الاستخدام وتعمل عند ⁦0–6⁩ بار."
+      },
+      "keyRows": [
+        "cap",
+        "size",
+        "w"
+      ]
+    },
+    {
+      "id": "jacks",
+      "label": {
+        "en": "Hydraulic block jacks",
+        "ar": "رافعات الكتل الهيدروليكية"
+      },
+      "models": [
+        {
+          "code": "BX-0058-03-037 / HJ-100A",
+          "name": {
+            "en": "HJ-100A",
+            "ar": "⁦HJ-100A⁩"
+          },
+          "specs": {
+            "kw": {
+              "en": "1.5",
+              "ar": "⁦1.5⁩"
+            },
+            "stroke": {
+              "en": "200",
+              "ar": "200"
+            },
+            "mpa": {
+              "en": ">63",
+              "ar": "⁦>63⁩"
+            },
+            "force": {
+              "en": "100",
+              "ar": "100"
+            },
+            "hose": {
+              "en": "15",
+              "ar": "15"
+            },
+            "tank": {
+              "en": "40",
+              "ar": "40"
+            },
+            "wkg": {
+              "en": "190",
+              "ar": "190"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-037 / HJ-200A",
+          "name": {
+            "en": "HJ-200A",
+            "ar": "⁦HJ-200A⁩"
+          },
+          "specs": {
+            "kw": {
+              "en": "1.5",
+              "ar": "⁦1.5⁩"
+            },
+            "stroke": {
+              "en": "200",
+              "ar": "200"
+            },
+            "mpa": {
+              "en": ">63",
+              "ar": "⁦>63⁩"
+            },
+            "force": {
+              "en": "200",
+              "ar": "200"
+            },
+            "hose": {
+              "en": "15",
+              "ar": "15"
+            },
+            "tank": {
+              "en": "40",
+              "ar": "40"
+            },
+            "wkg": {
+              "en": "240",
+              "ar": "240"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-037 / HJ-300A",
+          "name": {
+            "en": "HJ-300A",
+            "ar": "⁦HJ-300A⁩"
+          },
+          "specs": {
+            "kw": {
+              "en": "2.2",
+              "ar": "⁦2.2⁩"
+            },
+            "stroke": {
+              "en": "200",
+              "ar": "200"
+            },
+            "mpa": {
+              "en": ">63",
+              "ar": "⁦>63⁩"
+            },
+            "force": {
+              "en": "300",
+              "ar": "300"
+            },
+            "hose": {
+              "en": "15",
+              "ar": "15"
+            },
+            "tank": {
+              "en": "40",
+              "ar": "40"
+            },
+            "wkg": {
+              "en": "350",
+              "ar": "350"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "100–300 t",
+        "ar": "⁦100–300⁩ طن"
+      },
+      "keyRows": [
+        "force",
+        "stroke",
+        "wkg"
+      ]
+    },
+    {
+      "id": "flame-jet",
+      "label": {
+        "en": "Flame-jet cutting machine",
+        "ar": "ماكينة القطع باللهب"
+      },
+      "models": [
+        {
+          "code": "BX-0058-03-041",
+          "name": {
+            "en": "Flame-jet cutting machine",
+            "ar": "ماكينة القطع باللهب"
+          },
+          "specs": {
+            "data": {
+              "en": "1–2 m²/h, cut width 80–100 mm, depth 0–10 m, air 6 m³/min at 0.6 MPa, fuel 25–30 kg/h",
+              "ar": "⁦1–2⁩ م²/س، عرض القطع ⁦80–100⁩ مم، العمق ⁦0–10⁩ م، هواء ⁦6⁩ م³/دقيقة عند ⁦0.6⁩ ميغاباسكال، وقود ⁦25–30⁩ كجم/س"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Diesel fuel and compressed air",
+        "ar": "وقود الديزل والهواء المضغوط"
+      }
+    }
+  ]
+}

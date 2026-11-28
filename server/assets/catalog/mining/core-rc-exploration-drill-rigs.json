@@ -1,0 +1,266 @@
+{
+  "id": "core-rc-exploration-drill-rigs",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-02 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-02 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "depth",
+      "label": {
+        "en": "Drilling depth (m)",
+        "ar": "عمق الحفر (م)"
+      }
+    },
+    {
+      "key": "dia",
+      "label": {
+        "en": "Hole / core Ø (mm)",
+        "ar": "قطر الثقب / اللب (مم)"
+      }
+    },
+    {
+      "key": "pwr",
+      "label": {
+        "en": "Power",
+        "ar": "القدرة"
+      }
+    },
+    {
+      "key": "notes",
+      "label": {
+        "en": "Notes",
+        "ar": "ملاحظات"
+      }
+    },
+    {
+      "key": "models",
+      "label": {
+        "en": "Models",
+        "ar": "الموديلات"
+      }
+    },
+    {
+      "key": "spec",
+      "label": {
+        "en": "Specifications",
+        "ar": "المواصفات"
+      }
+    }
+  ],
+  "keyRows": [
+    "depth",
+    "dia",
+    "pwr"
+  ],
+  "types": [
+    {
+      "id": "core",
+      "label": {
+        "en": "Core drilling rigs",
+        "ar": "حفارات اللب"
+      },
+      "models": [
+        {
+          "code": "BX-0098-01-004",
+          "name": {
+            "en": "HW-B30",
+            "ar": "⁦HW-B30⁩"
+          },
+          "specs": {
+            "depth": {
+              "en": "30",
+              "ar": "30"
+            },
+            "dia": {
+              "en": "40–108",
+              "ar": "⁦40–108⁩"
+            },
+            "pwr": {
+              "en": "7.5 hp",
+              "ar": "⁦7.5⁩ حصان"
+            },
+            "notes": {
+              "en": "Backpack drill, carried by hand to remote sites",
+              "ar": "حفارة تُحمل على الظهر إلى المواقع النائية"
+            }
+          }
+        },
+        {
+          "code": "BX-0098-01-002",
+          "name": {
+            "en": "XY-1A",
+            "ar": "⁦XY-1A⁩"
+          },
+          "specs": {
+            "depth": {
+              "en": "180",
+              "ar": "180"
+            },
+            "dia": {
+              "en": "75–150",
+              "ar": "⁦75–150⁩"
+            },
+            "pwr": {
+              "en": "13.2 kW",
+              "ar": "⁦13.2⁩ كيلوواط"
+            },
+            "notes": {
+              "en": "Compact core drill",
+              "ar": "حفارة لبّية مدمجة"
+            }
+          }
+        },
+        {
+          "code": "BX-0098-01-001 / HW-200XL",
+          "name": {
+            "en": "HW-200XL",
+            "ar": "⁦HW-200XL⁩"
+          },
+          "specs": {
+            "depth": {
+              "en": "100–300",
+              "ar": "⁦100–300⁩"
+            },
+            "notes": {
+              "en": "Spindle speed 2400 r/min",
+              "ar": "سرعة عمود الدوران ⁦2400⁩ دورة/دقيقة"
+            }
+          }
+        },
+        {
+          "code": "BX-0098-01-001 / HW-400XL",
+          "name": {
+            "en": "HW-400XL",
+            "ar": "⁦HW-400XL⁩"
+          },
+          "specs": {
+            "depth": {
+              "en": "180–500",
+              "ar": "⁦180–500⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0098-01-001 / HW-600XL/GL",
+          "name": {
+            "en": "HW-600XL/GL",
+            "ar": "⁦HW-600XL/GL⁩"
+          },
+          "specs": {
+            "depth": {
+              "en": "200–650",
+              "ar": "⁦200–650⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0098-01-001 / HW-800S/GL",
+          "name": {
+            "en": "HW-800S/GL",
+            "ar": "⁦HW-800S/GL⁩"
+          },
+          "specs": {
+            "depth": {
+              "en": "400–1000",
+              "ar": "⁦400–1000⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0098-01-001 / HW-1000GL",
+          "name": {
+            "en": "HW-1000GL",
+            "ar": "⁦HW-1000GL⁩"
+          },
+          "specs": {
+            "depth": {
+              "en": "500–1100",
+              "ar": "⁦500–1100⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0098-01-001 / HW-1500GL",
+          "name": {
+            "en": "HW-1500GL",
+            "ar": "⁦HW-1500GL⁩"
+          },
+          "specs": {
+            "depth": {
+              "en": "400–1500",
+              "ar": "⁦400–1500⁩"
+            },
+            "dia": {
+              "en": "Core 50–114",
+              "ar": "لب ⁦50–114⁩"
+            },
+            "pwr": {
+              "en": "132 kW",
+              "ar": "⁦132⁩ كيلوواط"
+            },
+            "notes": {
+              "en": "Deep exploration",
+              "ar": "الاستكشاف العميق"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "30–1500 m",
+        "ar": "⁦30–1500⁩ م"
+      },
+      "intro": {
+        "en": "Depth ranges stated by the manufacturer for each model; actual depth depends on hole diameter and rock. Crawler GL rigs for deep exploration programmes.",
+        "ar": "مدى العمق كما يذكره المصنّع لكل موديل، والعمق الفعلي يتبع قطر الثقب والصخر. حفارات ⁦GL⁩ الجنزيرية لبرامج الاستكشاف العميق."
+      }
+    },
+    {
+      "id": "rc",
+      "label": {
+        "en": "Reverse-circulation (RC) drill rigs",
+        "ar": "حفارات الدوران العكسي (⁦RC⁩)"
+      },
+      "models": [
+        {
+          "code": "BX-0098-01-010",
+          "name": {
+            "en": "RC rigs",
+            "ar": "حفارات ⁦RC⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "HWRC400 · HWRC500 · HF-150L · HF-200L · HF-250L · HF-400L",
+              "ar": "⁦HWRC400 · HWRC500 · HF-150L · HF-200L · HF-250L · HF-400L⁩"
+            },
+            "spec": {
+              "en": "On request",
+              "ar": "عند الطلب"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "6 models",
+        "ar": "⁦6⁩ موديلات"
+      },
+      "intro": {
+        "en": "RC rigs return chip samples continuously for fast assaying and grade control.",
+        "ar": "حفارات ⁦RC⁩ تعيد عينات الفتات باستمرار لتحليل سريع وضبط الرتبة."
+      }
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "id": "line-drilling-machines-compact-dth-drillers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-02 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-02 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "drills",
+      "label": {
+        "en": "Rock drills",
+        "ar": "المثاقب"
+      }
+    },
+    {
+      "key": "start",
+      "label": {
+        "en": "Starting steel (m)",
+        "ar": "قضيب البداية (م)"
+      }
+    },
+    {
+      "key": "follow",
+      "label": {
+        "en": "Following steels (m)",
+        "ar": "القضبان التالية (م)"
+      }
+    },
+    {
+      "key": "air",
+      "label": {
+        "en": "Air use (L/s)",
+        "ar": "استهلاك الهواء (لتر/ث)"
+      }
+    },
+    {
+      "key": "track",
+      "label": {
+        "en": "Track length (m)",
+        "ar": "طول المسار (م)"
+      }
+    },
+    {
+      "key": "w",
+      "label": {
+        "en": "Weight w/o drills (kg)",
+        "ar": "الوزن دون المثاقب (كجم)"
+      }
+    },
+    {
+      "key": "drive",
+      "label": {
+        "en": "Drive",
+        "ar": "التشغيل"
+      }
+    },
+    {
+      "key": "hole",
+      "label": {
+        "en": "Hole Ø (mm)",
+        "ar": "قطر الثقب (مم)"
+      }
+    },
+    {
+      "key": "depth",
+      "label": {
+        "en": "Max. depth (m)",
+        "ar": "أقصى عمق (م)"
+      }
+    },
+    {
+      "key": "speed",
+      "label": {
+        "en": "Speed (m/h)",
+        "ar": "السرعة (م/س)"
+      }
+    },
+    {
+      "key": "ap",
+      "label": {
+        "en": "Air pressure (MPa)",
+        "ar": "ضغط الهواء (ميغاباسكال)"
+      }
+    },
+    {
+      "key": "au",
+      "label": {
+        "en": "Air use (m³/min)",
+        "ar": "استهلاك الهواء (م³/دقيقة)"
+      }
+    }
+  ],
+  "keyRows": [
+    "drills",
+    "start",
+    "follow"
+  ],
+  "types": [
+    {
+      "id": "line",
+      "label": {
+        "en": "Pneumatic line drilling machines (on rails)",
+        "ar": "ماكينات الحفر الخطي الهوائية (على قضبان)"
+      },
+      "models": [
+        {
+          "code": "BX-0058-03-006 / BL28-A",
+          "name": {
+            "en": "BL28-A",
+            "ar": "⁦BL28-A⁩"
+          },
+          "specs": {
+            "drills": {
+              "en": "1 × YT28",
+              "ar": "⁦1 × YT28⁩"
+            },
+            "start": {
+              "en": "2.4",
+              "ar": "⁦2.4⁩"
+            },
+            "follow": {
+              "en": "3.2 / 4.8 / 6.4",
+              "ar": "⁦3.2 / 4.8 / 6.4⁩"
+            },
+            "air": {
+              "en": "81",
+              "ar": "81"
+            },
+            "track": {
+              "en": "4.0",
+              "ar": "⁦4.0⁩"
+            },
+            "w": {
+              "en": "230",
+              "ar": "230"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-006 / BL24-2AM",
+          "name": {
+            "en": "BL24-2AM",
+            "ar": "⁦BL24-2AM⁩"
+          },
+          "specs": {
+            "drills": {
+              "en": "2 × YT24",
+              "ar": "⁦2 × YT24⁩"
+            },
+            "start": {
+              "en": "2.4",
+              "ar": "⁦2.4⁩"
+            },
+            "follow": {
+              "en": "3.2 / 4.8 / 6.4",
+              "ar": "⁦3.2 / 4.8 / 6.4⁩"
+            },
+            "air": {
+              "en": "135",
+              "ar": "135"
+            },
+            "track": {
+              "en": "4.0",
+              "ar": "⁦4.0⁩"
+            },
+            "w": {
+              "en": "410",
+              "ar": "410"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-006 / BL28-2AM",
+          "name": {
+            "en": "BL28-2AM",
+            "ar": "⁦BL28-2AM⁩"
+          },
+          "specs": {
+            "drills": {
+              "en": "2 × YT28",
+              "ar": "⁦2 × YT28⁩"
+            },
+            "start": {
+              "en": "2.4",
+              "ar": "⁦2.4⁩"
+            },
+            "follow": {
+              "en": "3.2 / 4.8 / 6.4",
+              "ar": "⁦3.2 / 4.8 / 6.4⁩"
+            },
+            "air": {
+              "en": "160",
+              "ar": "160"
+            },
+            "track": {
+              "en": "5.8",
+              "ar": "⁦5.8⁩"
+            },
+            "w": {
+              "en": "600",
+              "ar": "600"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-006 / BL24-4AH",
+          "name": {
+            "en": "BL24-4AH",
+            "ar": "⁦BL24-4AH⁩"
+          },
+          "specs": {
+            "drills": {
+              "en": "4 × YT24",
+              "ar": "⁦4 × YT24⁩"
+            },
+            "start": {
+              "en": "3.2",
+              "ar": "⁦3.2⁩"
+            },
+            "follow": {
+              "en": "4.8 / 5.6 / 7.2",
+              "ar": "⁦4.8 / 5.6 / 7.2⁩"
+            },
+            "air": {
+              "en": "270",
+              "ar": "270"
+            },
+            "track": {
+              "en": "5.8",
+              "ar": "⁦5.8⁩"
+            },
+            "w": {
+              "en": "1200",
+              "ar": "1200"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-006 / BL28-4AH",
+          "name": {
+            "en": "BL28-4AH",
+            "ar": "⁦BL28-4AH⁩"
+          },
+          "specs": {
+            "drills": {
+              "en": "4 × YT28",
+              "ar": "⁦4 × YT28⁩"
+            },
+            "start": {
+              "en": "3.2",
+              "ar": "⁦3.2⁩"
+            },
+            "follow": {
+              "en": "4.8 / 5.6 / 7.2",
+              "ar": "⁦4.8 / 5.6 / 7.2⁩"
+            },
+            "air": {
+              "en": "320",
+              "ar": "320"
+            },
+            "track": {
+              "en": "5.8",
+              "ar": "⁦5.8⁩"
+            },
+            "w": {
+              "en": "1300",
+              "ar": "1300"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1–4 drills",
+        "ar": "⁦1–4⁩ مثاقب"
+      },
+      "intro": {
+        "en": "Drill holes on a straight line to split blocks with less waste. Light and medium models drill vertically and horizontally; four-drill models drill vertically. Horizontal drilling slides also available.",
+        "ar": "ثقوب على خط مستقيم لفلق الكتل بهدر أقل. الموديلات الخفيفة والمتوسطة تحفر رأسياً وأفقياً، وذات المثاقب الأربعة رأسياً. منزلقات الحفر الأفقي متاحة أيضاً."
+      },
+      "keyRows": [
+        "drills",
+        "air",
+        "w"
+      ]
+    },
+    {
+      "id": "bq90",
+      "label": {
+        "en": "BQ90 compact DTH drillers (any direction)",
+        "ar": "حفارات ⁦DTH⁩ المدمجة ⁦BQ90⁩ (بأي اتجاه)"
+      },
+      "models": [
+        {
+          "code": "BX-0058-03-010 / BQ90-P",
+          "name": {
+            "en": "BQ90-P",
+            "ar": "⁦BQ90-P⁩"
+          },
+          "specs": {
+            "drive": {
+              "en": "Pneumatic",
+              "ar": "هوائي"
+            },
+            "hole": {
+              "en": "65–90",
+              "ar": "⁦65–90⁩"
+            },
+            "depth": {
+              "en": "35",
+              "ar": "35"
+            },
+            "speed": {
+              "en": "6–8",
+              "ar": "⁦6–8⁩"
+            },
+            "ap": {
+              "en": "0.5–0.7",
+              "ar": "⁦0.5–0.7⁩"
+            },
+            "au": {
+              "en": "12–14",
+              "ar": "⁦12–14⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-010 / BQ90-PE",
+          "name": {
+            "en": "BQ90-PE",
+            "ar": "⁦BQ90-PE⁩"
+          },
+          "specs": {
+            "drive": {
+              "en": "Pneumatic + electric",
+              "ar": "هوائي + كهربائي"
+            },
+            "hole": {
+              "en": "65–90",
+              "ar": "⁦65–90⁩"
+            },
+            "depth": {
+              "en": "35–40",
+              "ar": "⁦35–40⁩"
+            },
+            "speed": {
+              "en": "6–8",
+              "ar": "⁦6–8⁩"
+            },
+            "ap": {
+              "en": "0.5–0.7",
+              "ar": "⁦0.5–0.7⁩"
+            },
+            "au": {
+              "en": "7–9",
+              "ar": "⁦7–9⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-010 / BQ90-PH",
+          "name": {
+            "en": "BQ90-PH",
+            "ar": "⁦BQ90-PH⁩"
+          },
+          "specs": {
+            "drive": {
+              "en": "Pneumatic + hydraulic",
+              "ar": "هوائي + هيدروليكي"
+            },
+            "hole": {
+              "en": "65–90",
+              "ar": "⁦65–90⁩"
+            },
+            "depth": {
+              "en": "35–40",
+              "ar": "⁦35–40⁩"
+            },
+            "speed": {
+              "en": "6–8",
+              "ar": "⁦6–8⁩"
+            },
+            "ap": {
+              "en": "0.5–0.7",
+              "ar": "⁦0.5–0.7⁩"
+            },
+            "au": {
+              "en": "5–7",
+              "ar": "⁦5–7⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "up to 40 m",
+        "ar": "حتى ⁦40⁩ م"
+      },
+      "intro": {
+        "en": "1 m track travel; vertical, horizontal or inclined holes. Supplied with a Ø90 DTH hammer and bit and five Ø60 × 1.5 m rods. Air hoses: fabric-reinforced and lay-flat 3/4\"–2\", with claw, hose-end and O-ring couplings.",
+        "ar": "مسار حركة ⁦1⁩ م؛ ثقوب رأسية أو أفقية أو مائلة. تُورَّد بمطرقة ولقمة ⁦DTH⁩ قطر ⁦90⁩ وخمسة قضبان Ø⁦60 × 1.5⁩ م. خراطيم هواء مقوّاة بالنسيج ومسطّحة ⁦3/4\"–2\"⁩ مع وصلات مخلبية ونهايات خراطيم وحلقات ⁦O⁩."
+      },
+      "keyRows": [
+        "depth",
+        "hole",
+        "au"
+      ]
+    }
+  ]
+}

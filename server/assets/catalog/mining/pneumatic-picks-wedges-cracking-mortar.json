@@ -1,0 +1,543 @@
+{
+  "id": "pneumatic-picks-wedges-cracking-mortar",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-02 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-02 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "w",
+      "label": {
+        "en": "Weight (kg)",
+        "ar": "الوزن (كجم)"
+      }
+    },
+    {
+      "key": "len",
+      "label": {
+        "en": "Length (mm)",
+        "ar": "الطول (مم)"
+      }
+    },
+    {
+      "key": "cyl",
+      "label": {
+        "en": "Cylinder Ø (mm)",
+        "ar": "قطر الأسطوانة (مم)"
+      }
+    },
+    {
+      "key": "stroke",
+      "label": {
+        "en": "Piston stroke (mm)",
+        "ar": "شوط المكبس (مم)"
+      }
+    },
+    {
+      "key": "p",
+      "label": {
+        "en": "Working pressure (MPa)",
+        "ar": "ضغط التشغيل (ميغاباسكال)"
+      }
+    },
+    {
+      "key": "imp",
+      "label": {
+        "en": "Impact energy (J)",
+        "ar": "طاقة الصدمة (جول)"
+      }
+    },
+    {
+      "key": "freq",
+      "label": {
+        "en": "Frequency (Hz)",
+        "ar": "التردد (هرتز)"
+      }
+    },
+    {
+      "key": "air",
+      "label": {
+        "en": "Air use (L/s)",
+        "ar": "استهلاك الهواء (لتر/ث)"
+      }
+    },
+    {
+      "key": "hose",
+      "label": {
+        "en": "Hose ID (mm)",
+        "ar": "القطر الداخلي للخرطوم (مم)"
+      }
+    },
+    {
+      "key": "models",
+      "label": {
+        "en": "Models",
+        "ar": "الموديلات"
+      }
+    },
+    {
+      "key": "dia",
+      "label": {
+        "en": "Diameter (mm)",
+        "ar": "القطر (مم)"
+      }
+    },
+    {
+      "key": "len2",
+      "label": {
+        "en": "Length (mm)",
+        "ar": "الطول (مم)"
+      }
+    },
+    {
+      "key": "wt",
+      "label": {
+        "en": "Weight (kg)",
+        "ar": "الوزن (كجم)"
+      }
+    },
+    {
+      "key": "temp",
+      "label": {
+        "en": "Hole temperature",
+        "ar": "حرارة الثقب"
+      }
+    },
+    {
+      "key": "use",
+      "label": {
+        "en": "Use",
+        "ar": "الاستخدام"
+      }
+    }
+  ],
+  "keyRows": [
+    "w",
+    "len",
+    "cyl"
+  ],
+  "types": [
+    {
+      "id": "picks",
+      "label": {
+        "en": "G-series pneumatic picks",
+        "ar": "معاول هوائية من سلسلة ⁦G⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0005-01-030 / G7",
+          "name": {
+            "en": "G7",
+            "ar": "G7"
+          },
+          "specs": {
+            "w": {
+              "en": "7.2",
+              "ar": "⁦7.2⁩"
+            },
+            "len": {
+              "en": "570",
+              "ar": "570"
+            },
+            "cyl": {
+              "en": "35",
+              "ar": "35"
+            },
+            "stroke": {
+              "en": "120",
+              "ar": "120"
+            },
+            "p": {
+              "en": "0.4–0.5",
+              "ar": "⁦0.4–0.5⁩"
+            },
+            "imp": {
+              "en": "≥ 43",
+              "ar": "⁦≥ 43⁩"
+            },
+            "freq": {
+              "en": "≥ 18",
+              "ar": "⁦≥ 18⁩"
+            },
+            "air": {
+              "en": "≥ 20",
+              "ar": "⁦≥ 20⁩"
+            },
+            "hose": {
+              "en": "16",
+              "ar": "16"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-030 / G10",
+          "name": {
+            "en": "G10",
+            "ar": "G10"
+          },
+          "specs": {
+            "w": {
+              "en": "10.9",
+              "ar": "⁦10.9⁩"
+            },
+            "len": {
+              "en": "575",
+              "ar": "575"
+            },
+            "cyl": {
+              "en": "38",
+              "ar": "38"
+            },
+            "stroke": {
+              "en": "155",
+              "ar": "155"
+            },
+            "p": {
+              "en": "0.4–0.5",
+              "ar": "⁦0.4–0.5⁩"
+            },
+            "imp": {
+              "en": "≥ 43",
+              "ar": "⁦≥ 43⁩"
+            },
+            "freq": {
+              "en": "≥ 18",
+              "ar": "⁦≥ 18⁩"
+            },
+            "air": {
+              "en": "≥ 20",
+              "ar": "⁦≥ 20⁩"
+            },
+            "hose": {
+              "en": "16",
+              "ar": "16"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-030 / G11",
+          "name": {
+            "en": "G11",
+            "ar": "G11"
+          },
+          "specs": {
+            "w": {
+              "en": "11.5",
+              "ar": "⁦11.5⁩"
+            },
+            "len": {
+              "en": "575",
+              "ar": "575"
+            },
+            "cyl": {
+              "en": "38",
+              "ar": "38"
+            },
+            "stroke": {
+              "en": "155",
+              "ar": "155"
+            },
+            "p": {
+              "en": "0.6–0.7",
+              "ar": "⁦0.6–0.7⁩"
+            },
+            "imp": {
+              "en": "≥ 43",
+              "ar": "⁦≥ 43⁩"
+            },
+            "freq": {
+              "en": "≥ 17",
+              "ar": "⁦≥ 17⁩"
+            },
+            "air": {
+              "en": "≥ 26",
+              "ar": "⁦≥ 26⁩"
+            },
+            "hose": {
+              "en": "16",
+              "ar": "16"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-030 / G15",
+          "name": {
+            "en": "G15",
+            "ar": "G15"
+          },
+          "specs": {
+            "w": {
+              "en": "12",
+              "ar": "12"
+            },
+            "len": {
+              "en": "580",
+              "ar": "580"
+            },
+            "cyl": {
+              "en": "42",
+              "ar": "42"
+            },
+            "stroke": {
+              "en": "160",
+              "ar": "160"
+            },
+            "p": {
+              "en": "0.6–0.7",
+              "ar": "⁦0.6–0.7⁩"
+            },
+            "imp": {
+              "en": "≥ 55",
+              "ar": "⁦≥ 55⁩"
+            },
+            "freq": {
+              "en": "≥ 18",
+              "ar": "⁦≥ 18⁩"
+            },
+            "air": {
+              "en": "≥ 26",
+              "ar": "⁦≥ 26⁩"
+            },
+            "hose": {
+              "en": "16",
+              "ar": "16"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-030 / G20",
+          "name": {
+            "en": "G20",
+            "ar": "G20"
+          },
+          "specs": {
+            "w": {
+              "en": "20",
+              "ar": "20"
+            },
+            "len": {
+              "en": "550",
+              "ar": "550"
+            },
+            "cyl": {
+              "en": "50",
+              "ar": "50"
+            },
+            "stroke": {
+              "en": "200",
+              "ar": "200"
+            },
+            "p": {
+              "en": "0.6–0.7",
+              "ar": "⁦0.6–0.7⁩"
+            },
+            "imp": {
+              "en": "≥ 55",
+              "ar": "⁦≥ 55⁩"
+            },
+            "freq": {
+              "en": "≥ 18",
+              "ar": "⁦≥ 18⁩"
+            },
+            "air": {
+              "en": "≥ 26",
+              "ar": "⁦≥ 26⁩"
+            },
+            "hose": {
+              "en": "19",
+              "ar": "19"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "7.2–20 kg",
+        "ar": "⁦7.2–20⁩ كجم"
+      },
+      "keyRows": [
+        "w",
+        "imp",
+        "air"
+      ]
+    },
+    {
+      "id": "wedges",
+      "label": {
+        "en": "Shims & wedges for stone splitting",
+        "ar": "أسافين وحشوات لفلق الحجر"
+      },
+      "models": [
+        {
+          "code": "BX-0005-01-032 / For air picks",
+          "name": {
+            "en": "For air picks",
+            "ar": "للمعاول الهوائية"
+          },
+          "specs": {
+            "models": {
+              "en": "PAG-20-290 … PAG-40-395 (14 sizes)",
+              "ar": "⁦PAG-20-290⁩ … ⁦PAG-40-395 (14⁩ مقاساً)"
+            },
+            "dia": {
+              "en": "20–40",
+              "ar": "⁦20–40⁩"
+            },
+            "len2": {
+              "en": "290–610",
+              "ar": "⁦290–610⁩"
+            },
+            "wt": {
+              "en": "0.8–3.49",
+              "ar": "⁦0.8–3.49⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-032 / Hand-held",
+          "name": {
+            "en": "Hand-held",
+            "ar": "يدوية"
+          },
+          "specs": {
+            "models": {
+              "en": "PAH-12-125 … PAH-38-600 (21 sizes)",
+              "ar": "⁦PAH-12-125⁩ … ⁦PAH-38-600 (21⁩ مقاساً)"
+            },
+            "dia": {
+              "en": "12–38",
+              "ar": "⁦12–38⁩"
+            },
+            "len2": {
+              "en": "125–600",
+              "ar": "⁦125–600⁩"
+            },
+            "wt": {
+              "en": "0.16–3.35",
+              "ar": "⁦0.16–3.35⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "35 sizes",
+        "ar": "⁦35⁩ مقاساً"
+      },
+      "countUnit": {
+        "ar": [
+          "مجموعة واحدة",
+          "مجموعتان",
+          "مجموعات"
+        ],
+        "en": [
+          "group",
+          "groups"
+        ]
+      }
+    },
+    {
+      "id": "mortar",
+      "label": {
+        "en": "Expansive (soundless) cracking mortar",
+        "ar": "ملاط التكسير التمددي (بلا صوت)"
+      },
+      "models": [
+        {
+          "code": "BX-0058-03-042 / SCA-1",
+          "name": {
+            "en": "SCA-1",
+            "ar": "⁦SCA-1⁩"
+          },
+          "specs": {
+            "temp": {
+              "en": "25–35 °C",
+              "ar": "⁦25–35 °C⁩"
+            },
+            "use": {
+              "en": "Rock and concrete",
+              "ar": "الصخر والخرسانة"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-042 / SCA-2",
+          "name": {
+            "en": "SCA-2",
+            "ar": "⁦SCA-2⁩"
+          },
+          "specs": {
+            "temp": {
+              "en": "15–25 °C",
+              "ar": "⁦15–25 °C⁩"
+            },
+            "use": {
+              "en": "Rock and concrete",
+              "ar": "الصخر والخرسانة"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-042 / SCA-3",
+          "name": {
+            "en": "SCA-3",
+            "ar": "⁦SCA-3⁩"
+          },
+          "specs": {
+            "temp": {
+              "en": "0–15 °C",
+              "ar": "⁦0–15 °C⁩"
+            },
+            "use": {
+              "en": "Rock and concrete",
+              "ar": "الصخر والخرسانة"
+            }
+          }
+        },
+        {
+          "code": "BX-0058-03-042 / SCA-4",
+          "name": {
+            "en": "SCA-4",
+            "ar": "⁦SCA-4⁩"
+          },
+          "specs": {
+            "temp": {
+              "en": "35–50 °C",
+              "ar": "⁦35–50 °C⁩"
+            },
+            "use": {
+              "en": "Rock and concrete",
+              "ar": "الصخر والخرسانة"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "درجة واحدة",
+          "درجتان",
+          "درجات"
+        ],
+        "en": [
+          "grade",
+          "grades"
+        ]
+      },
+      "intro": {
+        "en": "No blast, no fly-rock and no vibration. 20 kg carton of 4 × 5 kg bags; mix each 5 kg bag with about 1.2 kg of water.",
+        "ar": "بلا تفجير ولا تطاير حجارة ولا اهتزاز. كرتون ⁦20⁩ كجم فيه ⁦4⁩ أكياس × ⁦5⁩ كجم؛ يُخلط كل كيس ⁦5⁩ كجم بنحو ⁦1.2⁩ كجم من الماء."
+      }
+    }
+  ]
+}

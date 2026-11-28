@@ -326,7 +326,8 @@ const ownSections = [
   { id: 'waste-management', ar: 'النفايات وإعادة التدوير', en: 'Waste and recycling' },
   { id: 'perimeter-protection', ar: 'الحماية المحيطية', en: 'Perimeter protection' },
   { id: 'industrial-doors', ar: 'الأبواب الصناعية', en: 'Industrial doors' },
-  { id: 'energy-solutions', ar: 'حلول الطاقة', en: 'Energy solutions' }
+  { id: 'energy-solutions', ar: 'حلول الطاقة', en: 'Energy solutions' },
+  { id: 'gold-mining', ar: 'تعدين الذهب', en: 'Gold mining' }
 ]
 
 const kinds = [
