@@ -138,12 +138,28 @@ export const STAGES: Stage[] = [
     ]
   },
   {
-    id: 'ore-processing-plants', n: 5, kind: 'line', code: 'BXC-06', edition: '7',
+    id: 'ore-processing-plants', n: 5, kind: 'line', code: 'BXC-06', edition: '7', sub: 'ore-processing-plants',
     title: L('معالجة الخام والمصانع', 'Ore Processing & Plants'),
-    short: L('مصانع معالجة متكاملة، والتعويم، وأحواض الترشيح، واسترجاع الذهب، والمكثفات والمكابس.', 'Complete processing plants, flotation, leaching tanks, gold recovery, thickeners and filter presses.'),
-    lead: L('مصانع معالجة متكاملة، والتعويم، وأحواض الترشيح، واسترجاع الذهب، والمكثفات والمكابس.', 'Complete processing plants, flotation, leaching tanks, gold recovery, thickeners and filter presses.'),
+    short: L('مصانع معالجة متكاملة، والتعويم، وأحواض الإذابة، واسترجاع الذهب، والمكثّفات والمكابس.', 'Complete processing plants, flotation, leaching tanks, gold recovery, thickeners and filter presses.'),
+    lead: L('مصانع ذهب متكاملة بالجاذبية أو CIL / CIP أو التعويم، وآلات التعويم وأحواض التقليب والإذابة، ووحدات الاستخلاص والتحليل الكهربائي، والمجففات والأفران الدوّارة، والمكثّفات ومكابس الترشيح، من الطاحونة إلى الكعكة الجافة.',
+      'Complete gravity, CIL / CIP or flotation gold plants, flotation machines, agitation and leaching tanks, elution and electrowinning units, rotary dryers and kilns, thickeners and filter presses, from the mill to the dry cake.'),
     families: 12, models: 325,
-    image: '/gold-mining/stages/ore-processing-plants.webp', cover: '/gold-mining/covers/bxc-06.webp', cta: CTA_DEFAULT
+    image: '/gold-mining/stages/ore-processing-plants.webp', cover: '/gold-mining/covers/bxc-06.webp',
+    cta: { title: L('تخطط لمصنع ذهب؟', 'Planning a gold plant?'),
+      text: L('أرسل نوع الخام ورتبته، والطاقة المطلوبة بالطن في اليوم، ونتائج اختبار الخام إن وُجدت، ونقترح عليك المخطط والمعدات.', 'Send us the ore type and grade, the throughput in t/d and any ore test results, and we suggest the flowsheet and equipment.') },
+    types: [
+      { id: 'plants', chip: L('المصانع المتكاملة', 'Complete plants'), badge: L('مصنع متكامل', 'Complete plant') },
+      { id: 'flotation', chip: L('التعويم والتقليب', 'Flotation & agitation'), badge: L('التعويم والتقليب', 'Flotation & agitation') },
+      { id: 'leaching', chip: L('الإذابة والاسترجاع', 'Leaching & recovery'), badge: L('الإذابة والاسترجاع', 'Leaching & recovery') },
+      { id: 'thermal', chip: L('التجفيف والتحميص', 'Drying & roasting'), badge: L('التجفيف والتحميص', 'Drying & roasting') },
+      { id: 'dewatering', chip: L('التكثيف والترشيح', 'Thickening & filtration'), badge: L('التكثيف والترشيح', 'Thickening & filtration') }
+    ],
+    how: [
+      { title: L('اختبار الخام', 'Ore test'), text: L('رتبة الذهب وحجم حبيباته ونوع الخام تحدد الطريقة: جاذبية أو CIL / CIP أو تعويم.', 'Gold grade, grain size and ore type decide the route: gravity, CIL / CIP or flotation.') },
+      { title: L('الطاقة اليومية', 'Daily throughput'), text: L('الطاقة بالطن في اليوم تحدد مقاس الطاحونة وعدد خلايا التعويم وحجم أحواض الإذابة.', 'Throughput in t/d sets the mill size, the number of flotation cells and the leach tank volume.') },
+      { title: L('زمن البقاء', 'Residence time'), text: L('حجم أحواض الإذابة = تدفق اللب × زمن الإذابة من الاختبار، موزّعاً على أحواض السلسلة.', 'Leach volume = pulp flow × leach time from the test, split across the tanks in the train.') },
+      { title: L('الماء والكعكة', 'Water and cake'), text: L('المكثّف يسترجع الماء، ومكبس الترشيح يعطي كعكة جافة للتخزين أو الشحن.', 'The thickener recovers water, and the filter press gives a dry cake for storage or shipping.') }
+    ]
   },
   {
     id: 'process-chemicals', n: 6, kind: 'line', code: 'BXC-11', edition: '1', licensed: true,
@@ -241,6 +257,18 @@ export const STAGES: Stage[] = [
 
 // Family pages: their place in the stage (group tab) and their chip.
 const FAMILY_META: Record<string, { group?: string, type?: string }> = {
+  'complete-gold-processing-plants': { type: 'plants' },
+  'flotation-machines-agitation-tanks': { type: 'flotation' },
+  'flotation-agitation-thickening-additional': { type: 'flotation' },
+  'leaching-tanks': { type: 'leaching' },
+  'elution-electrowinning-heap-leaching': { type: 'leaching' },
+  'rotary-dryers': { type: 'thermal' },
+  'rotary-kilns': { type: 'thermal' },
+  'thickeners': { type: 'dewatering' },
+  'filter-presses-reagent-dosing': { type: 'dewatering' },
+  'membrane-chamber-filter-presses': { type: 'dewatering' },
+  'filter-plates-options-belt-press-dosing': { type: 'dewatering' },
+  'filter-press-parts-vacuum-filter-belts': { type: 'dewatering' },
   'horizontal-slurry-pumps': { type: 'slurry' },
   'gravel-dredge-pumps': { type: 'slurry' },
   'vertical-sump-pumps': { type: 'slurry' },

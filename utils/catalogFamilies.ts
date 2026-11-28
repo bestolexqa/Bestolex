@@ -110,5 +110,17 @@ export const FAMILY_IDS = new Set([
   'water-line-valves-ductile-iron-steel',
   'ductile-iron-steel-pipes-fittings-hoses',
   'knife-gate-valves-diaphragm-pumps',
-  'knife-gate-valves-through-gate-self-sealing'
+  'knife-gate-valves-through-gate-self-sealing',
+  'complete-gold-processing-plants',
+  'flotation-machines-agitation-tanks',
+  'flotation-agitation-thickening-additional',
+  'leaching-tanks',
+  'elution-electrowinning-heap-leaching',
+  'rotary-dryers',
+  'rotary-kilns',
+  'thickeners',
+  'filter-presses-reagent-dosing',
+  'membrane-chamber-filter-presses',
+  'filter-plates-options-belt-press-dosing',
+  'filter-press-parts-vacuum-filter-belts'
 ])

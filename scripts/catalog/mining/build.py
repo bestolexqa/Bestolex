@@ -1,11 +1,11 @@
 """Build the gold-mining section: family JSON files, product entries in data/products.json, images in
 public/products/<id>/ and the family registrations, one subpage per Bestolex catalogue. Run from this folder:
-    python3 build.py [BXC-02=<dir>] [BXC-03=<dir>] [BXC-04=<dir>] [BXC-05=<dir>] [BXC-07=<dir>] [BXC-08=<dir>] [BXC-09=<dir>]
+    python3 build.py [BXC-02=<dir>] [BXC-03=<dir>] [BXC-04=<dir>] [BXC-05=<dir>] [BXC-06=<dir>] [BXC-07=<dir>] [BXC-08=<dir>] [BXC-09=<dir>]
 Images are written only for the catalogues given (prepared cut-outs: prep_*.py); otherwise the files already in
 public/ are kept and only their paths are used."""
 import json, os, re, sys
 from lib import iso, write
-import bxc02_tables, bxc02_products, bxc03_tables, bxc03_products, bxc04_tables, bxc04_products, bxc08_tables, bxc08_products, bxc05_tables, bxc05_products, bxc09_tables, bxc09_products, bxc07_tables, bxc07_products
+import bxc02_tables, bxc02_products, bxc03_tables, bxc03_products, bxc04_tables, bxc04_products, bxc08_tables, bxc08_products, bxc05_tables, bxc05_products, bxc09_tables, bxc09_products, bxc07_tables, bxc07_products, bxc06_tables, bxc06_products
 from bxc02_products import SERVICE_AR, SERVICE_EN
 
 REPO = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../..'))
@@ -34,6 +34,8 @@ SUBPAGES = [
      bxc05_tables.F, bxc05_products.P),
     ('BXC-08', {'id': 'smelting-refining', 'title': {'ar': 'الصهر والتنقية', 'en': 'Smelting & Refining'}},
      bxc08_tables.F, bxc08_products.P),
+    ('BXC-06', {'id': 'ore-processing-plants', 'title': {'ar': 'معالجة الخام والمصانع', 'en': 'Ore Processing & Plants'}},
+     bxc06_tables.F, bxc06_products.P),
     ('BXC-07', {'id': 'pumps-slurry-handling', 'title': {'ar': 'المضخات ونقل اللب', 'en': 'Pumps & Slurry Handling'}},
      bxc07_tables.F, bxc07_products.P),
     ('BXC-09', {'id': 'laboratory-assay', 'title': {'ar': 'المختبر والتحليل', 'en': 'Laboratory & Assay'}},
@@ -52,7 +54,8 @@ def faq(rows):
     return {'ar': [{'q': q, 'a': iso(a)} for q, _, a, _ in rows], 'en': [{'q': q, 'a': a} for _, q, _, a in rows]}
 
 
-EXTRA = {'metal-detectors-water-well-drill-rigs': ['i-004-010'],
+EXTRA = {'filter-presses-reagent-dosing': ['i-011-017'], 'filter-plates-options-belt-press-dosing': ['i-013-020'],
+         'metal-detectors-water-well-drill-rigs': ['i-004-010'],
          # BXC-02 Ed4 has no photo of these rigs: photos from the supplier's own product pages (CAT-0098-01),
          # cut out of the factory background; Chinese stickers and the maker's name removed (sup/hw in the work dir)
          'core-rc-exploration-drill-rigs': ['hw-gl', 'hw-b30', 'hw-rc'],
@@ -68,7 +71,7 @@ EXTRA = {'metal-detectors-water-well-drill-rigs': ['i-004-010'],
          'laboratory-balances-micropipettes': ['i-008-012', 'i-008-013'],
          'atomic-absorption-fluorescence-spectrometers': ['i-011-017']}
 PLACEHOLDER = set()
-PHOTO = {'dth-hammers-bits', 'c-series-jaw-gyratory-impact-crushers', 'refractories-quartz-glass-ceramics', 'slurry-pipes-packings-gaskets', 'ductile-iron-steel-pipes-fittings-hoses'}                         # scene photo: centre-cropped to a square, not letterboxed
+PHOTO = {'leaching-tanks', 'thickeners', 'membrane-chamber-filter-presses', 'dth-hammers-bits', 'c-series-jaw-gyratory-impact-crushers', 'refractories-quartz-glass-ceramics', 'slurry-pipes-packings-gaskets', 'ductile-iron-steel-pipes-fittings-hoses'}                         # scene photo: centre-cropped to a square, not letterboxed
 
 
 def image_for(cat, pid, src, n=0):

@@ -112,7 +112,19 @@ const FAMILY_FILES: Record<string, string> = {
   'water-line-valves-ductile-iron-steel': 'catalog/mining/water-line-valves-ductile-iron-steel.json',
   'ductile-iron-steel-pipes-fittings-hoses': 'catalog/mining/ductile-iron-steel-pipes-fittings-hoses.json',
   'knife-gate-valves-diaphragm-pumps': 'catalog/mining/knife-gate-valves-diaphragm-pumps.json',
-  'knife-gate-valves-through-gate-self-sealing': 'catalog/mining/knife-gate-valves-through-gate-self-sealing.json'
+  'knife-gate-valves-through-gate-self-sealing': 'catalog/mining/knife-gate-valves-through-gate-self-sealing.json',
+  'complete-gold-processing-plants': 'catalog/mining/complete-gold-processing-plants.json',
+  'flotation-machines-agitation-tanks': 'catalog/mining/flotation-machines-agitation-tanks.json',
+  'flotation-agitation-thickening-additional': 'catalog/mining/flotation-agitation-thickening-additional.json',
+  'leaching-tanks': 'catalog/mining/leaching-tanks.json',
+  'elution-electrowinning-heap-leaching': 'catalog/mining/elution-electrowinning-heap-leaching.json',
+  'rotary-dryers': 'catalog/mining/rotary-dryers.json',
+  'rotary-kilns': 'catalog/mining/rotary-kilns.json',
+  'thickeners': 'catalog/mining/thickeners.json',
+  'filter-presses-reagent-dosing': 'catalog/mining/filter-presses-reagent-dosing.json',
+  'membrane-chamber-filter-presses': 'catalog/mining/membrane-chamber-filter-presses.json',
+  'filter-plates-options-belt-press-dosing': 'catalog/mining/filter-plates-options-belt-press-dosing.json',
+  'filter-press-parts-vacuum-filter-belts': 'catalog/mining/filter-press-parts-vacuum-filter-belts.json'
 }
 
 const cache = new Map<string, any>()

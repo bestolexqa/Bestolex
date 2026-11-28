@@ -22387,6 +22387,1773 @@
         ]
       },
       {
+        "id": "ore-processing-plants",
+        "title": {
+          "ar": "معالجة الخام والمصانع",
+          "en": "Ore Processing & Plants"
+        },
+        "products": [
+          {
+            "id": "complete-gold-processing-plants",
+            "name": {
+              "ar": "مصانع معالجة الذهب المتكاملة",
+              "en": "Complete Gold Processing Plants"
+            },
+            "coverImage": "/products/complete-gold-processing-plants/complete-gold-processing-plants.webp",
+            "description": {
+              "ar": "مصانع تسليم مفتاح تُصمَّم حول الخام: الجاذبية للذهب الحر، و⁦CIL / CIP⁩ للذهب الناعم والمنتشر، والتعويم للخامات الكبريتيدية.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Turnkey plants designed around the ore: gravity for free-milling gold, CIL / CIP for fine and disseminated gold, and flotation for sulphide ores.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "مصنع جاذبية بلا كيماويات وبتكلفة تشغيل منخفضة",
+                "مصنع ⁦CIL / CIP⁩ من الطحن حتى الصهر",
+                "مصنع تعويم بجرعات كواشف آلية للخامات الكبريتيدية",
+                "الطاقة ومخطط المعالجة بعد اختبار الخام"
+              ],
+              "en": [
+                "Gravity plant with no chemicals and low running cost",
+                "CIL / CIP plant from grinding to smelting",
+                "Flotation plant with automatic reagent dosing for sulphide ores",
+                "Capacity and flowsheet set after ore testing"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "أنواع المصانع",
+                  "value": "جاذبية، ⁦CIL / CIP⁩، تعويم"
+                },
+                {
+                  "label": "التصميم",
+                  "value": "بعد اختبار الخام"
+                },
+                {
+                  "label": "التسليم",
+                  "value": "تسليم مفتاح"
+                },
+                {
+                  "label": "الخام",
+                  "value": "حر أو ناعم أو كبريتيدي"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Plant types",
+                  "value": "Gravity, CIL / CIP, flotation"
+                },
+                {
+                  "label": "Design",
+                  "value": "After ore testing"
+                },
+                {
+                  "label": "Delivery",
+                  "value": "Turnkey"
+                },
+                {
+                  "label": "Ore",
+                  "value": "Free-milling, fine or sulphide"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/complete-gold-processing-plants/complete-gold-processing-plants.webp"
+            ],
+            "image": "/products/complete-gold-processing-plants/complete-gold-processing-plants.webp",
+            "cardImage": "/products/complete-gold-processing-plants/complete-gold-processing-plants.webp",
+            "seo": {
+              "title": {
+                "ar": "مصانع معالجة الذهب المتكاملة: جاذبية وCIL وتعويم",
+                "en": "Complete Gold Processing Plants: Gravity, CIL, Flotation"
+              },
+              "description": {
+                "ar": "مصانع ذهب تسليم مفتاح: جاذبية للذهب الحر، و⁦CIL / CIP⁩ للذهب الناعم، وتعويم للخامات الكبريتيدية، تُصمَّم بعد اختبار الخام. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Turnkey gold plants: gravity for free-milling gold, CIL / CIP for fine gold and flotation for sulphide ores, designed after ore testing. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "ثلاثة أنواع من مصانع الذهب حسب الخام. اختر من الجدول أدناه.",
+              "en": "Three gold plant types by ore. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل يلزم اختبار الخام أولاً؟",
+                  "a": "نعم. طاقة المصنع ومخطط المعالجة يُصمَّمان بعد اختبار الخام: رتبة الذهب وحجم حبيباته ونوع الخام (حر أو كبريتيدي)."
+                },
+                {
+                  "q": "أي مصنع يناسب خامي؟",
+                  "a": "الجاذبية للذهب الحر الخشن، و⁦CIL / CIP⁩ للذهب الناعم والمنتشر، والتعويم للذهب المرتبط بالكبريتيدات."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Is an ore test needed first?",
+                  "a": "Yes. Plant capacity and the flowsheet are designed after ore testing: gold grade, grain size and ore type (free-milling or sulphide)."
+                },
+                {
+                  "q": "Which plant suits my ore?",
+                  "a": "Gravity for coarse free-milling gold, CIL / CIP for fine and disseminated gold, and flotation for sulphide-bound gold."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "3",
+                  "label": "أنواع مصانع"
+                },
+                {
+                  "value": "⁦CIL / CIP⁩",
+                  "label": "للذهب الناعم"
+                },
+                {
+                  "value": "تسليم مفتاح",
+                  "label": "التسليم"
+                }
+              ],
+              "en": [
+                {
+                  "value": "3",
+                  "label": "Plant types"
+                },
+                {
+                  "value": "CIL / CIP",
+                  "label": "For fine gold"
+                },
+                {
+                  "value": "Turnkey",
+                  "label": "Delivery"
+                }
+              ]
+            }
+          },
+          {
+            "id": "flotation-machines-agitation-tanks",
+            "name": {
+              "ar": "آلات التعويم وأحواض التقليب",
+              "en": "Flotation Machines & Agitation Tanks"
+            },
+            "coverImage": "/products/flotation-machines-agitation-tanks/flotation-machines-agitation-tanks.webp",
+            "description": {
+              "ar": "خلايا تعويم للذهب المرتبط بالكبريتيدات، وأحواض تقليب لتكييف الكواشف والإذابة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Flotation cells for sulphide-bound gold and agitation tanks for reagent conditioning and leaching.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦11⁩ آلة تعويم ⁦SF⁩ و⁦XJK⁩ بخلايا ⁦0.13⁠–⁠4⁩ م³",
+                "⁦9⁩ أحواض تقليب ⁦XB⁩ حتى ⁦30⁩ م³",
+                "طاقة الخلية حتى ⁦4⁩ م³/دقيقة",
+                "محركات من ⁦0.55⁩ إلى ⁦22⁩ كيلوواط"
+              ],
+              "en": [
+                "11 SF and XJK flotation machines, 0.13–4 m³ cells",
+                "9 XB agitation tanks up to 30 m³",
+                "Cell capacity up to 4 m³/min",
+                "Motors from 0.55 to 22 kW"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "حجم الخلية",
+                  "value": "⁦0.13⁠–⁠4⁩ م³"
+                },
+                {
+                  "label": "طاقة الخلية",
+                  "value": "⁦0.05⁠–⁠4⁩ م³/دقيقة"
+                },
+                {
+                  "label": "حجم حوض التقليب",
+                  "value": "⁦0.098⁠–⁠30⁩ م³"
+                },
+                {
+                  "label": "المحركات",
+                  "value": "⁦0.55⁠–⁠22⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Cell volume",
+                  "value": "0.13–4 m³"
+                },
+                {
+                  "label": "Cell capacity",
+                  "value": "0.05–4 m³/min"
+                },
+                {
+                  "label": "Agitation tank volume",
+                  "value": "0.098–30 m³"
+                },
+                {
+                  "label": "Motors",
+                  "value": "0.55–22 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/flotation-machines-agitation-tanks/flotation-machines-agitation-tanks.webp"
+            ],
+            "image": "/products/flotation-machines-agitation-tanks/flotation-machines-agitation-tanks.webp",
+            "cardImage": "/products/flotation-machines-agitation-tanks/flotation-machines-agitation-tanks.webp",
+            "seo": {
+              "title": {
+                "ar": "آلات التعويم SF وXJK وأحواض التقليب XB",
+                "en": "SF and XJK Flotation Machines and XB Agitation Tanks"
+              },
+              "description": {
+                "ar": "آلات تعويم ⁦SF⁩ و⁦XJK⁩ بخلايا ⁦0.13⁠–⁠4⁩ م³ للذهب المرتبط بالكبريتيدات، وأحواض تقليب ⁦XB⁩ حتى ⁦30⁩ م³ لتكييف الكواشف. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "SF and XJK flotation machines with 0.13–4 m³ cells for sulphide-bound gold, and XB agitation tanks up to 30 m³ for reagent conditioning. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "آلات تعويم وأحواض تقليب. اختر من الجدول أدناه.",
+              "en": "Flotation machines and agitation tanks. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كيف أختار حجم الخلية؟",
+                  "a": "من تدفق اللب بالمتر المكعب في الدقيقة وزمن التعويم الذي يحدده اختبار الخام، ثم عدد الخلايا في الصف."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How do I choose the cell size?",
+                  "a": "From the pulp flow in m³/min and the flotation time set by the ore test, then the number of cells in the bank."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "20",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦0.13⁠–⁠4⁩ م³",
+                  "label": "حجم الخلية"
+                },
+                {
+                  "value": "حتى ⁦30⁩ م³",
+                  "label": "حوض التقليب"
+                }
+              ],
+              "en": [
+                {
+                  "value": "20",
+                  "label": "Models"
+                },
+                {
+                  "value": "0.13–4 m³",
+                  "label": "Cell volume"
+                },
+                {
+                  "value": "Up to 30 m³",
+                  "label": "Agitation tank"
+                }
+              ]
+            }
+          },
+          {
+            "id": "flotation-agitation-thickening-additional",
+            "name": {
+              "ar": "التعويم والتقليب والتكثيف – سلاسل إضافية",
+              "en": "Flotation, Agitation & Thickening – Additional Series"
+            },
+            "coverImage": "/products/flotation-agitation-thickening-additional/flotation-agitation-thickening-additional.webp",
+            "description": {
+              "ar": "آلات تعويم إضافية بخلايا من ⁦0.15⁩ إلى ⁦50⁩ م³، وأحواض تكييف وتقليب عالية التركيز، ومكثّفات بإدارة مركزية وعالية الكفاءة لمصانع تعويم الذهب وإذابته.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Further flotation machines from 0.15 to 50 m³ cells, conditioning and high-concentration agitation tanks, and centre-drive and high-efficiency thickeners for gold flotation and leaching plants.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "آلات تعويم ⁦SF⁩ و⁦JJF⁩ و⁦BF⁩ و⁦BS-K⁩ و⁦KYF / XCF⁩",
+                "آلات تعويم بالهواء المدفوع حتى ⁦50⁩ م³",
+                "أحواض تقليب عالية الكفاءة وعالية التركيز حتى ⁦65⁩ م³",
+                "مكثّفات ⁦NZS⁩ و⁦NZSG⁩ و⁦GX⁩ بقطر ⁦2.5⁠–⁠20⁩ م"
+              ],
+              "en": [
+                "SF, JJF, BF, BS-K and KYF / XCF flotation machines",
+                "Air-forced flotation machines up to 50 m³",
+                "High-efficiency and high-concentration tanks up to 65 m³",
+                "NZS, NZSG and GX thickeners, 2.5–20 m"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "حجم الخلية",
+                  "value": "⁦0.15⁠–⁠50⁩ م³"
+                },
+                {
+                  "label": "قطر المكثّف",
+                  "value": "⁦2.5⁠–⁠20⁩ م"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦1.1⁠–⁠90⁩ كيلوواط"
+                },
+                {
+                  "label": "أحواض التقليب",
+                  "value": "⁦0.44⁠–⁠65⁩ م³"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Cell volume",
+                  "value": "0.15–50 m³"
+                },
+                {
+                  "label": "Thickener Ø",
+                  "value": "2.5–20 m"
+                },
+                {
+                  "label": "Power",
+                  "value": "1.1–90 kW"
+                },
+                {
+                  "label": "Agitation tanks",
+                  "value": "0.44–65 m³"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/flotation-agitation-thickening-additional/flotation-agitation-thickening-additional.webp"
+            ],
+            "image": "/products/flotation-agitation-thickening-additional/flotation-agitation-thickening-additional.webp",
+            "cardImage": "/products/flotation-agitation-thickening-additional/flotation-agitation-thickening-additional.webp",
+            "seo": {
+              "title": {
+                "ar": "آلات التعويم والتقليب والمكثّفات – سلاسل إضافية",
+                "en": "Flotation, Agitation and Thickener Series"
+              },
+              "description": {
+                "ar": "آلات تعويم ⁦SF⁩ و⁦JJF⁩ و⁦BF⁩ و⁦BS-K⁩ و⁦KYF / XCF⁩ حتى ⁦50⁩ م³، وأحواض تقليب ⁦GBJ⁩ و⁦XBN⁩، ومكثّفات ⁦NZS⁩ و⁦NZSG⁩ و⁦GX⁩ لمصانع الذهب. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "SF, JJF, BF, BS-K and KYF / XCF flotation machines up to 50 m³, GBJ and XBN agitation tanks, and NZS, NZSG and GX thickeners for gold plants. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "سلاسل إضافية للتعويم والتقليب والتكثيف. اختر من الجدول أدناه.",
+              "en": "More flotation, agitation and thickening series. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين آلة التعويم الذاتية والهواء المدفوع؟",
+                  "a": "الآلة الذاتية تسحب الهواء بالدفّاعة وتناسب الخلايا الصغيرة، والهواء المدفوع (⁦KYF / XCF⁩) يأتي من نافخ ويناسب الخلايا الكبيرة وتوفير الطاقة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the difference between self-aspirating and air-forced flotation?",
+                  "a": "Self-aspirating machines draw air through the impeller and suit small cells; air-forced machines (KYF / XCF) take air from a blower and suit large cells and energy saving."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "81",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦0.15⁠–⁠50⁩ م³",
+                  "label": "حجم الخلية"
+                },
+                {
+                  "value": "⁦2.5⁠–⁠20⁩ م",
+                  "label": "قطر المكثّف"
+                }
+              ],
+              "en": [
+                {
+                  "value": "81",
+                  "label": "Models"
+                },
+                {
+                  "value": "0.15–50 m³",
+                  "label": "Cell volume"
+                },
+                {
+                  "value": "2.5–20 m",
+                  "label": "Thickener Ø"
+                }
+              ]
+            }
+          },
+          {
+            "id": "leaching-tanks",
+            "name": {
+              "ar": "أحواض الإذابة",
+              "en": "Leaching Tanks"
+            },
+            "coverImage": "/products/leaching-tanks/leaching-tanks.webp",
+            "description": {
+              "ar": "أحواض إذابة بالتقليب الميكانيكي لدوائر إذابة الذهب، من ⁦7⁩ م³ للمصانع الصغيرة إلى ⁦1190⁩ م³ للمصانع الكبيرة، بدفّاعات بطيئة كبيرة القطر تُبقي اللب معلّقاً.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Mechanically agitated leaching tanks for gold leaching circuits, from 7 m³ for small plants to 1190 m³ for large plants, with slow, large-diameter impellers that keep the pulp in suspension.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦23⁩ مقاساً من ⁦7⁩ إلى ⁦1190⁩ م³",
+                "دفّاعات بطيئة كبيرة القطر حتى ⁦4.6⁩ م",
+                "محركات من ⁦2.2⁩ إلى ⁦75⁩ كيلوواط",
+                "جسم فولاذي أو خرساني ببطانة مقاومة للأحماض"
+              ],
+              "en": [
+                "23 sizes from 7 to 1190 m³",
+                "Slow, large impellers up to 4.6 m",
+                "Motors from 2.2 to 75 kW",
+                "Steel or concrete body with acid-resistant lining"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الحجم الفعّال",
+                  "value": "⁦7⁠–⁠1190⁩ م³"
+                },
+                {
+                  "label": "المحرك",
+                  "value": "⁦2.2⁠–⁠75⁩ كيلوواط"
+                },
+                {
+                  "label": "سرعة الدفّاعة",
+                  "value": "⁦12.1⁠–⁠52⁩ دورة/دقيقة"
+                },
+                {
+                  "label": "الجسم",
+                  "value": "فولاذ أو خرسانة"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Effective volume",
+                  "value": "7–1190 m³"
+                },
+                {
+                  "label": "Motor",
+                  "value": "2.2–75 kW"
+                },
+                {
+                  "label": "Impeller speed",
+                  "value": "12.1–52 r/min"
+                },
+                {
+                  "label": "Body",
+                  "value": "Steel plate or concrete"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/leaching-tanks/leaching-tanks.webp"
+            ],
+            "image": "/products/leaching-tanks/leaching-tanks.webp",
+            "cardImage": "/products/leaching-tanks/leaching-tanks.webp",
+            "seo": {
+              "title": {
+                "ar": "أحواض إذابة الذهب SJ من 7 إلى 1190 م³",
+                "en": "SJ Gold Leaching Tanks from 7 to 1190 m³"
+              },
+              "description": {
+                "ar": "أحواض إذابة ⁦SJ⁩ بالتقليب الميكانيكي من ⁦7⁩ إلى ⁦1190⁩ م³ ومحركات ⁦2.2⁠–⁠75⁩ كيلوواط لدوائر إذابة الذهب ⁦CIL⁩ و⁦CIP⁩. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "SJ mechanically agitated leaching tanks from 7 to 1190 m³ with 2.2–75 kW motors for CIL and CIP gold circuits. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أحواض إذابة لدوائر ⁦CIL⁩ و⁦CIP⁩. اختر من الجدول أدناه.",
+              "en": "Leaching tanks for CIL and CIP circuits. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كيف أحدد حجم الحوض وعدد الأحواض؟",
+                  "a": "من تدفق اللب وزمن الإذابة الذي يحدده اختبار الخام: الحجم الكلي = التدفق × الزمن، ثم يُقسَّم على عدد الأحواض في السلسلة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How do I size the tanks?",
+                  "a": "From the pulp flow and the leach time set by the ore test: total volume = flow × time, then split across the tanks in the train."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "23",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦7⁠–⁠1190⁩ م³",
+                  "label": "الحجم الفعّال"
+                },
+                {
+                  "value": "⁦2.2⁠–⁠75⁩ كيلوواط",
+                  "label": "المحرك"
+                }
+              ],
+              "en": [
+                {
+                  "value": "23",
+                  "label": "Models"
+                },
+                {
+                  "value": "7–1190 m³",
+                  "label": "Effective volume"
+                },
+                {
+                  "value": "2.2–75 kW",
+                  "label": "Motor"
+                }
+              ]
+            }
+          },
+          {
+            "id": "elution-electrowinning-heap-leaching",
+            "name": {
+              "ar": "الاستخلاص والتحليل الكهربائي والإذابة الكومية",
+              "en": "Elution, Electrowinning & Heap Leaching"
+            },
+            "coverImage": "/products/elution-electrowinning-heap-leaching/elution-electrowinning-heap-leaching.webp",
+            "description": {
+              "ar": "وحدات استخلاص وتحليل كهربائي تنزع الذهب من الكربون المحمّل وترسّبه على الكاثودات، مع تسخين المحلول واسترجاع المذيب في خطوات متكاملة، ودوائر إذابة كومية تسليم مفتاح للخام منخفض الرتبة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Elution and electrowinning units strip gold from loaded activated carbon and deposit it on cathodes, with solution heating and solvent recovery as integrated steps, plus turnkey heap-leaching circuits for low-grade ore.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦13⁩ وحدة ⁦GKJD⁩ لمناجم حتى ⁦5000⁩ طن/يوم",
+                "حرارة عمل ⁦150 ± 2 °⁩م",
+                "لخامات رتبتها ⁦2⁠–⁠20⁩ جم/طن",
+                "دائرة إذابة كومية كاملة للخام منخفض الرتبة"
+              ],
+              "en": [
+                "13 GKJD units for mines up to 5000 t/d",
+                "Working temperature 150 ± 2 °C",
+                "For ore grades of 2–20 g/t",
+                "Complete heap-leaching circuit for low-grade ore"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "حجم المنجم",
+                  "value": "أقل من ⁦150⁩ حتى ⁦5000⁩ طن/يوم"
+                },
+                {
+                  "label": "حرارة العمل",
+                  "value": "⁦150 ± 2 °⁩م"
+                },
+                {
+                  "label": "ضغط خلية الاستخلاص",
+                  "value": "⁦0.5⁩ ميجاباسكال"
+                },
+                {
+                  "label": "pH المحلول",
+                  "value": "⁦≥ 13.5⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Mine scale",
+                  "value": "<150–5000 t/d"
+                },
+                {
+                  "label": "Working temperature",
+                  "value": "150 ± 2 °C"
+                },
+                {
+                  "label": "Elution cell pressure",
+                  "value": "0.5 MPa"
+                },
+                {
+                  "label": "Solution pH",
+                  "value": "≥ 13.5"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/elution-electrowinning-heap-leaching/elution-electrowinning-heap-leaching.webp"
+            ],
+            "image": "/products/elution-electrowinning-heap-leaching/elution-electrowinning-heap-leaching.webp",
+            "cardImage": "/products/elution-electrowinning-heap-leaching/elution-electrowinning-heap-leaching.webp",
+            "seo": {
+              "title": {
+                "ar": "وحدات استخلاص الذهب والتحليل الكهربائي GKJD والإذابة الكومية",
+                "en": "GKJD Gold Elution and Electrowinning, Heap Leaching"
+              },
+              "description": {
+                "ar": "وحدات ⁦GKJD⁩ لاستخلاص الذهب من الكربون المحمّل وترسيبه كهربائياً لمناجم حتى ⁦5000⁩ طن/يوم، ودوائر إذابة كومية تسليم مفتاح. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "GKJD units that strip gold from loaded carbon and electrowin it for mines up to 5000 t/d, plus turnkey heap-leaching circuits. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "استخلاص الذهب من الكربون والإذابة الكومية. اختر من الجدول أدناه.",
+              "en": "Stripping gold from carbon, and heap leaching. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كيف أختار وحدة GKJD؟",
+                  "a": "بحجم المنجم بالطن في اليوم ورتبة الخام، ثم بكمية الكربون المحمّل التي تُستخلص في كل دورة."
+                },
+                {
+                  "q": "متى تناسب الإذابة الكومية؟",
+                  "a": "للخام منخفض الرتبة الذي لا يغطي تكلفة الطحن: يُكسَّر ويُكدَّس ويُرش بمحلول الإذابة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How do I choose a GKJD unit?",
+                  "a": "By mine scale in t/d and ore grade, then by the loaded carbon stripped per cycle."
+                },
+                {
+                  "q": "When does heap leaching fit?",
+                  "a": "For low-grade ore that does not pay for grinding: it is crushed, stacked and sprayed with leach solution."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "13",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "حتى ⁦5000⁩ طن/يوم",
+                  "label": "حجم المنجم"
+                },
+                {
+                  "value": "⁦150 °⁩م",
+                  "label": "حرارة العمل"
+                }
+              ],
+              "en": [
+                {
+                  "value": "13",
+                  "label": "Models"
+                },
+                {
+                  "value": "Up to 5000 t/d",
+                  "label": "Mine scale"
+                },
+                {
+                  "value": "150 °C",
+                  "label": "Working temperature"
+                }
+              ]
+            }
+          },
+          {
+            "id": "rotary-dryers",
+            "name": {
+              "ar": "المجففات الدوّارة",
+              "en": "Rotary Dryers"
+            },
+            "coverImage": "/products/rotary-dryers/rotary-dryers.webp",
+            "description": {
+              "ar": "مجففات دوّارة أحادية وثلاثية المسار للخام والمركّزات والرمل والخبث، من ⁦2.4⁩ إلى ⁦100⁩ طن/ساعة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Single- and triple-pass rotary dryers for ore, concentrates, sand and slag, from 2.4 to 100 t/h.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦16⁩ مجففاً أحادي المسار حتى ⁦47.1⁩ طن/ساعة",
+                "⁦9⁩ مجففات ثلاثية المسار حتى ⁦100⁩ طن/ساعة",
+                "كفاءة حرارية حتى ⁦70%⁩",
+                "وقود من الفحم أو الزيت أو الغاز أو الحطب"
+              ],
+              "en": [
+                "16 single-pass dryers up to 47.1 t/h",
+                "9 triple-pass dryers up to 100 t/h",
+                "Thermal efficiency up to 70%",
+                "Coal, oil, gas or wood fuel"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦2.4⁠–⁠100⁩ طن/ساعة"
+                },
+                {
+                  "label": "حرارة الدخول",
+                  "value": "حتى ⁦800 °⁩م"
+                },
+                {
+                  "label": "حرارة التفريغ",
+                  "value": "نحو ⁦80 °⁩م"
+                },
+                {
+                  "label": "الوقود",
+                  "value": "فحم، زيت، غاز، حطب"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "2.4–100 t/h"
+                },
+                {
+                  "label": "Inlet temperature",
+                  "value": "Up to 800 °C"
+                },
+                {
+                  "label": "Discharge temperature",
+                  "value": "About 80 °C"
+                },
+                {
+                  "label": "Fuel",
+                  "value": "Coal, oil, gas, wood"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/rotary-dryers/rotary-dryers.webp"
+            ],
+            "image": "/products/rotary-dryers/rotary-dryers.webp",
+            "cardImage": "/products/rotary-dryers/rotary-dryers.webp",
+            "seo": {
+              "title": {
+                "ar": "المجففات الدوّارة للخام والمركّزات والرمل",
+                "en": "Rotary Dryers for Ore, Concentrate and Sand"
+              },
+              "description": {
+                "ar": "مجففات دوّارة أحادية وثلاثية المسار من ⁦2.4⁩ إلى ⁦100⁩ طن/ساعة بكفاءة حرارية حتى ⁦70%⁩ للخام والمركّزات والرمل والخبث. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Single- and triple-pass rotary dryers from 2.4 to 100 t/h with up to 70% thermal efficiency for ore, concentrate, sand and slag. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مجففات للخام والمركّزات والرمل. اختر من الجدول أدناه.",
+              "en": "Dryers for ore, concentrate and sand. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "متى أختار المجفف ثلاثي المسار؟",
+                  "a": "حين تكون المساحة محدودة أو الطاقة المطلوبة كبيرة: يجفف كمية أكبر في أسطوانة أقصر من المجفف أحادي المسار."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "When should I choose a triple-pass dryer?",
+                  "a": "When space is tight or the throughput is high: it dries more in a shorter drum than a single-pass dryer."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "25",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦2.4⁠–⁠100⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦70%⁩",
+                  "label": "الكفاءة الحرارية"
+                }
+              ],
+              "en": [
+                {
+                  "value": "25",
+                  "label": "Models"
+                },
+                {
+                  "value": "2.4–100 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "70%",
+                  "label": "Thermal efficiency"
+                }
+              ]
+            }
+          },
+          {
+            "id": "rotary-kilns",
+            "name": {
+              "ar": "الأفران الدوّارة",
+              "en": "Rotary Kilns"
+            },
+            "coverImage": "/products/rotary-kilns/rotary-kilns.webp",
+            "description": {
+              "ar": "أفران دوّارة لتحميص الخامات والمعادن وتكليسها، من ⁦180⁩ إلى ⁦8000⁩ طن/يوم.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Rotary kilns for roasting and calcining ores and minerals, from 180 to 8000 t/d.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦21⁩ مقاساً من Ø⁦2.5 × 40⁩ إلى Ø⁦5.6 × 87⁩ م",
+                "طاقة من ⁦180⁩ إلى ⁦8000⁩ طن/يوم",
+                "للتحميص المغناطيسي والمؤكسد والتكليس",
+                "محركات من ⁦55⁩ إلى ⁦800⁩ كيلوواط"
+              ],
+              "en": [
+                "21 sizes from Ø2.5 × 40 to Ø5.6 × 87 m",
+                "Capacity from 180 to 8000 t/d",
+                "For magnetic and oxidising roasting and calcining",
+                "Motors from 55 to 800 kW"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦180⁠–⁠8000⁩ طن/يوم"
+                },
+                {
+                  "label": "الميل",
+                  "value": "⁦3–5%⁩"
+                },
+                {
+                  "label": "المحرك",
+                  "value": "⁦55⁠–⁠800⁩ كيلوواط"
+                },
+                {
+                  "label": "الوزن",
+                  "value": "⁦150⁠–⁠1265⁩ طن"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "180–8000 t/d"
+                },
+                {
+                  "label": "Inclination",
+                  "value": "3–5%"
+                },
+                {
+                  "label": "Motor",
+                  "value": "55–800 kW"
+                },
+                {
+                  "label": "Weight",
+                  "value": "150–1265 t"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/rotary-kilns/rotary-kilns.webp"
+            ],
+            "image": "/products/rotary-kilns/rotary-kilns.webp",
+            "cardImage": "/products/rotary-kilns/rotary-kilns.webp",
+            "seo": {
+              "title": {
+                "ar": "الأفران الدوّارة لتحميص الخامات وتكليسها",
+                "en": "Rotary Kilns for Ore Roasting and Calcining"
+              },
+              "description": {
+                "ar": "أفران دوّارة من ⁦180⁩ إلى ⁦8000⁩ طن/يوم للتحميص المغناطيسي والمؤكسد وتكليس البوكسيت والكروم والجير والدولوميت. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Rotary kilns from 180 to 8000 t/d for magnetic and oxidising roasting and calcining bauxite, chrome, lime and dolomite. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أفران تحميص وتكليس دوّارة. اختر من الجدول أدناه.",
+              "en": "Rotary kilns for roasting and calcining. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما استخدام الفرن الدوّار في معالجة الذهب؟",
+                  "a": "التحميص المؤكسد للخامات الكبريتيدية المستعصية قبل الإذابة، والتحميص المغناطيسي لخام الحديد، وتكليس المعادن."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is a rotary kiln used for in gold processing?",
+                  "a": "Oxidising roasting of refractory sulphide ores before leaching, magnetic roasting of iron ore, and calcining minerals."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "21",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦180⁠–⁠8000⁩ طن/يوم",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦55⁠–⁠800⁩ كيلوواط",
+                  "label": "المحرك"
+                }
+              ],
+              "en": [
+                {
+                  "value": "21",
+                  "label": "Models"
+                },
+                {
+                  "value": "180–8000 t/d",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "55–800 kW",
+                  "label": "Motor"
+                }
+              ]
+            }
+          },
+          {
+            "id": "thickeners",
+            "name": {
+              "ar": "المكثّفات",
+              "en": "Thickeners"
+            },
+            "coverImage": "/products/thickeners/thickeners.webp",
+            "description": {
+              "ar": "أحواض تكثيف دائرية بكاشطات للمركّز والمخلفات: تترسب المواد الصلبة بالجاذبية وتُكشط إلى المخرج المركزي، ويفيض الماء الصافي من الحافة لإعادة استخدامه. الإدارة المركزية حتى ⁦20⁩ م والطرفية حتى ⁦100⁩ م.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Circular thickening tanks with rake mechanisms for concentrate and tailings: solids settle by gravity and are raked to the central discharge while clarified water overflows from the rim for re-use. Centre-drive units up to 20 m, peripheral-drive units up to 100 m.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦8⁩ مكثّفات بإدارة مركزية من ⁦1.8⁩ إلى ⁦20⁩ م",
+                "⁦13⁩ مكثّفاً بإدارة طرفية من ⁦15⁩ إلى ⁦100⁩ م",
+                "طاقة من ⁦5.6⁩ إلى ⁦3400⁩ طن/يوم",
+                "إعادة استخدام الماء الصافي"
+              ],
+              "en": [
+                "8 centre-drive thickeners from 1.8 to 20 m",
+                "13 peripheral-drive thickeners from 15 to 100 m",
+                "Capacity from 5.6 to 3400 t/d",
+                "Clarified water recovered for re-use"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "قطر الحوض",
+                  "value": "⁦1.8⁠–⁠100⁩ م"
+                },
+                {
+                  "label": "الطاقة",
+                  "value": "⁦5.6⁠–⁠3400⁩ طن/يوم"
+                },
+                {
+                  "label": "مساحة الترسيب",
+                  "value": "⁦2.54⁠–⁠7846⁩ م²"
+                },
+                {
+                  "label": "الإدارة",
+                  "value": "مركزية أو طرفية"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Tank Ø",
+                  "value": "1.8–100 m"
+                },
+                {
+                  "label": "Capacity",
+                  "value": "5.6–3400 t/d"
+                },
+                {
+                  "label": "Settling area",
+                  "value": "2.54–7846 m²"
+                },
+                {
+                  "label": "Drive",
+                  "value": "Centre or peripheral"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/thickeners/thickeners.webp"
+            ],
+            "image": "/products/thickeners/thickeners.webp",
+            "cardImage": "/products/thickeners/thickeners.webp",
+            "seo": {
+              "title": {
+                "ar": "المكثّفات بإدارة مركزية وطرفية للمركّز والمخلفات",
+                "en": "Centre- and Peripheral-Drive Thickeners"
+              },
+              "description": {
+                "ar": "مكثّفات بإدارة مركزية حتى ⁦20⁩ م وطرفية حتى ⁦100⁩ م، من ⁦5.6⁩ إلى ⁦3400⁩ طن/يوم، لتكثيف المركّز والمخلفات واسترجاع الماء. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Centre-drive thickeners up to 20 m and peripheral-drive up to 100 m, from 5.6 to 3400 t/d, for concentrate and tailings and water recovery. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مكثّفات للمركّز والمخلفات. اختر من الجدول أدناه.",
+              "en": "Thickeners for concentrate and tailings. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كيف أختار قطر المكثّف؟",
+                  "a": "من كمية المواد الصلبة في اليوم ومعدل ترسيبها في اختبار الترسيب، فتُحسب مساحة الترسيب ثم القطر."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How do I choose the thickener diameter?",
+                  "a": "From the solids per day and their settling rate in a settling test, which give the settling area and then the diameter."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "21",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦1.8⁠–⁠100⁩ م",
+                  "label": "قطر الحوض"
+                },
+                {
+                  "value": "⁦5.6⁠–⁠3400⁩ طن/يوم",
+                  "label": "الطاقة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "21",
+                  "label": "Models"
+                },
+                {
+                  "value": "1.8–100 m",
+                  "label": "Tank Ø"
+                },
+                {
+                  "value": "5.6–3400 t/d",
+                  "label": "Capacity"
+                }
+              ]
+            }
+          },
+          {
+            "id": "filter-presses-reagent-dosing",
+            "name": {
+              "ar": "مكابس الترشيح وجرعات الكواشف",
+              "en": "Filter Presses & Reagent Dosing"
+            },
+            "coverImage": "/products/filter-presses-reagent-dosing/filter-presses-reagent-dosing.webp",
+            "description": {
+              "ar": "مكابس ترشيح حجرية هيدروليكية آلية بالكامل تُجفف المركّزات والمخلفات إلى كعكة جافة، بمساحات ترشيح من ⁦20⁩ إلى ⁦1180⁩ م² على ستة مقاسات ألواح، وآلات جرعات رقمية تضبط كواشف التعويم آلياً.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Fully automatic hydraulic chamber filter presses dewater concentrates and tailings into a dry cake, with filter areas from 20 to 1180 m² on six plate sizes, plus CNC dosing machines that meter flotation reagents automatically.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "مساحة ترشيح من ⁦20⁩ إلى ⁦1180⁩ م²",
+                "ستة مقاسات ألواح من ⁦800⁩ إلى ⁦2000⁩ مم",
+                "ضغط ترشيح ⁦0.5⁠–⁠1.6⁩ ميجاباسكال",
+                "آلة جرعات بتحكم ⁦PLC⁩ وشاشة لمس"
+              ],
+              "en": [
+                "Filter area from 20 to 1180 m²",
+                "Six plate sizes from 800 to 2000 mm",
+                "Filtration pressure 0.5–1.6 MPa",
+                "Dosing machine with PLC control and touch screen"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "مساحة الترشيح",
+                  "value": "⁦20⁠–⁠1180⁩ م²"
+                },
+                {
+                  "label": "ضغط الترشيح",
+                  "value": "⁦0.5⁠–⁠1.6⁩ ميجاباسكال"
+                },
+                {
+                  "label": "المحرك",
+                  "value": "⁦2.2⁠–⁠11⁩ كيلوواط"
+                },
+                {
+                  "label": "سماكة الكعكة",
+                  "value": "⁦30⁠–⁠40⁩ مم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Filter area",
+                  "value": "20–1180 m²"
+                },
+                {
+                  "label": "Filtration pressure",
+                  "value": "0.5–1.6 MPa"
+                },
+                {
+                  "label": "Motor",
+                  "value": "2.2–11 kW"
+                },
+                {
+                  "label": "Cake thickness",
+                  "value": "30–40 mm"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/filter-presses-reagent-dosing/filter-presses-reagent-dosing.webp",
+              "/products/filter-presses-reagent-dosing/filter-presses-reagent-dosing-2.webp"
+            ],
+            "image": "/products/filter-presses-reagent-dosing/filter-presses-reagent-dosing.webp",
+            "cardImage": "/products/filter-presses-reagent-dosing/filter-presses-reagent-dosing.webp",
+            "seo": {
+              "title": {
+                "ar": "مكابس الترشيح الآلية وآلات جرعات الكواشف",
+                "en": "Automatic Filter Presses and Reagent Dosing Machines"
+              },
+              "description": {
+                "ar": "مكابس ترشيح حجرية هيدروليكية آلية من ⁦20⁩ إلى ⁦1180⁩ م² لتجفيف المركّز والمخلفات، وآلة جرعات كواشف ⁦HGGY-B⁩. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Automatic hydraulic chamber filter presses from 20 to 1180 m² for concentrate and tailings, and the HGGY-B reagent dosing machine. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مكابس ترشيح آلية وجرعات كواشف. اختر من الجدول أدناه.",
+              "en": "Automatic filter presses and reagent dosing. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كيف أختار مساحة الترشيح؟",
+                  "a": "من كمية المواد الصلبة في كل دورة وسماكة الكعكة وعدد الدورات في اليوم، وتُؤكد باختبار ترشيح على اللب."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How do I choose the filter area?",
+                  "a": "From the solids per cycle, the cake thickness and the cycles per day, confirmed by a filtration test on the slurry."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "6",
+                  "label": "مقاسات ألواح"
+                },
+                {
+                  "value": "⁦20⁠–⁠1180⁩ م²",
+                  "label": "مساحة الترشيح"
+                },
+                {
+                  "value": "⁦1.6⁩ ميجاباسكال",
+                  "label": "أقصى ضغط"
+                }
+              ],
+              "en": [
+                {
+                  "value": "6",
+                  "label": "Plate sizes"
+                },
+                {
+                  "value": "20–1180 m²",
+                  "label": "Filter area"
+                },
+                {
+                  "value": "1.6 MPa",
+                  "label": "Max. pressure"
+                }
+              ]
+            }
+          },
+          {
+            "id": "membrane-chamber-filter-presses",
+            "name": {
+              "ar": "مكابس الترشيح الغشائية والحجرية",
+              "en": "Membrane & Chamber Filter Presses"
+            },
+            "coverImage": "/products/membrane-chamber-filter-presses/membrane-chamber-filter-presses.webp",
+            "description": {
+              "ar": "مكابس ترشيح لتجفيف مركّز الذهب والمخلفات: المكابس الغشائية (⁦XMG⁩) تعصر الكعكة لرطوبة أقل، والحجرية (⁦XM⁩) تناسب المخلفات والمصانع الصغيرة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Filter presses for dewatering gold concentrate and tailings: membrane presses (XMG) squeeze the cake for lower moisture, and recessed-chamber presses (XM) suit tailings and small plants.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦5⁩ مقاسات غشائية من ⁦30⁩ إلى ⁦1000⁩ م²",
+                "⁦8⁩ مقاسات حجرية من ⁦1⁩ إلى ⁦1000⁩ م²",
+                "ألواح من ⁦380⁩ إلى ⁦2000⁩ مم",
+                "ضغط هيدروليكي أو سحب آلي للألواح"
+              ],
+              "en": [
+                "5 membrane sizes from 30 to 1000 m²",
+                "8 chamber sizes from 1 to 1000 m²",
+                "Plates from 380 to 2000 mm",
+                "Hydraulic pressing or automatic pull-plate"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "مساحة الترشيح",
+                  "value": "⁦1⁠–⁠1000⁩ م²"
+                },
+                {
+                  "label": "مقاس اللوح",
+                  "value": "⁦380⁠–⁠2000⁩ مم"
+                },
+                {
+                  "label": "سماكة الكعكة",
+                  "value": "⁦30⁠–⁠40⁩ مم"
+                },
+                {
+                  "label": "التشغيل",
+                  "value": "يدوي أو هيدروليكي أو آلي"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Filter area",
+                  "value": "1–1000 m²"
+                },
+                {
+                  "label": "Plate size",
+                  "value": "380–2000 mm"
+                },
+                {
+                  "label": "Cake thickness",
+                  "value": "30–40 mm"
+                },
+                {
+                  "label": "Operation",
+                  "value": "Manual, hydraulic or automatic"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/membrane-chamber-filter-presses/membrane-chamber-filter-presses.webp"
+            ],
+            "image": "/products/membrane-chamber-filter-presses/membrane-chamber-filter-presses.webp",
+            "cardImage": "/products/membrane-chamber-filter-presses/membrane-chamber-filter-presses.webp",
+            "seo": {
+              "title": {
+                "ar": "مكابس الترشيح الغشائية XMG والحجرية XM",
+                "en": "XMG Membrane and XM Chamber Filter Presses"
+              },
+              "description": {
+                "ar": "مكابس ترشيح غشائية ⁦XMG⁩ وحجرية ⁦XM⁩ من ⁦1⁩ إلى ⁦1000⁩ م² وألواح ⁦380⁠–⁠2000⁩ مم لتجفيف مركّز الذهب والمخلفات. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "XMG membrane and XM chamber filter presses from 1 to 1000 m² with 380–2000 mm plates for gold concentrate and tailings. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مكابس ترشيح غشائية وحجرية. اختر من الجدول أدناه.",
+              "en": "Membrane and chamber filter presses. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "متى أختار المكبس الغشائي؟",
+                  "a": "حين تحتاج كعكة أجف أو دورة أقصر، كتجفيف مركّز الذهب قبل الشحن؛ والحجري أوفر للمخلفات."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "When should I choose a membrane press?",
+                  "a": "When you need a drier cake or a shorter cycle, such as dewatering gold concentrate before shipping; the chamber press is more economical for tailings."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "76",
+                  "label": "موديلاً ومقاساً"
+                },
+                {
+                  "value": "⁦1⁠–⁠1000⁩ م²",
+                  "label": "مساحة الترشيح"
+                },
+                {
+                  "value": "⁦380⁠–⁠2000⁩ مم",
+                  "label": "مقاس اللوح"
+                }
+              ],
+              "en": [
+                {
+                  "value": "76",
+                  "label": "Models & sizes"
+                },
+                {
+                  "value": "1–1000 m²",
+                  "label": "Filter area"
+                },
+                {
+                  "value": "380–2000 mm",
+                  "label": "Plate size"
+                }
+              ]
+            }
+          },
+          {
+            "id": "filter-plates-options-belt-press-dosing",
+            "name": {
+              "ar": "ألواح الترشيح والإضافات ومكبس السير والجرعات",
+              "en": "Filter Plates, Options, Belt Press & Dosing"
+            },
+            "coverImage": "/products/filter-plates-options-belt-press-dosing/filter-plates-options-belt-press-dosing.webp",
+            "description": {
+              "ar": "ألواح ترشيح بديلة من البولي بروبلين أو الحديد الزهر أو الستانلس، وإضافات اختيارية لمكابس الترشيح، ومكبس ترشيح بالسير للخدمة الشاقة بتكثيف مدمج للتجفيف المستمر وإعادة تدوير الماء، ووحدة جرعات آلية لمسحوق المادة المخثّرة للمكثّفات والمكابس.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Replacement filter plates in PP, cast iron or stainless steel, optional equipment for filter presses, a heavy-duty belt filter press with integrated thickening for continuous dewatering and water recycling, and automatic dry-powder flocculant dosing for thickeners and presses.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "ألواح بتسعة مقاسات من ⁦320⁩ إلى ⁦2000⁩ مم",
+                "إضافات: صينية تقطير وسير وغسيل قماش وستارة ضوئية",
+                "مكبس سير ⁦DNYA⁩ بعرض ⁦1⁠–⁠3⁩ م",
+                "وحدة جرعات ⁦PYJ⁩ من ⁦1000⁩ إلى ⁦10000⁩ لتر/ساعة"
+              ],
+              "en": [
+                "Plates in nine sizes from 320 to 2000 mm",
+                "Options: drip tray, conveyor, cloth washing, light curtain",
+                "DNYA belt press, 1–3 m belt width",
+                "PYJ dosing unit from 1000 to 10000 L/h"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "مقاسات الألواح",
+                  "value": "⁦320⁠–⁠2000⁩ مم"
+                },
+                {
+                  "label": "عرض سير المكبس",
+                  "value": "⁦1⁠–⁠3⁩ م"
+                },
+                {
+                  "label": "طاقة الجرعات",
+                  "value": "⁦1000⁠–⁠10000⁩ لتر/ساعة"
+                },
+                {
+                  "label": "مواد الألواح",
+                  "value": "بولي بروبلين، حديد زهر، ستانلس"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Plate sizes",
+                  "value": "320–2000 mm"
+                },
+                {
+                  "label": "Belt width",
+                  "value": "1–3 m"
+                },
+                {
+                  "label": "Dosing capacity",
+                  "value": "1000–10000 L/h"
+                },
+                {
+                  "label": "Plate materials",
+                  "value": "PP, cast iron, stainless"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/filter-plates-options-belt-press-dosing/filter-plates-options-belt-press-dosing.webp",
+              "/products/filter-plates-options-belt-press-dosing/filter-plates-options-belt-press-dosing-2.webp"
+            ],
+            "image": "/products/filter-plates-options-belt-press-dosing/filter-plates-options-belt-press-dosing.webp",
+            "cardImage": "/products/filter-plates-options-belt-press-dosing/filter-plates-options-belt-press-dosing.webp",
+            "seo": {
+              "title": {
+                "ar": "ألواح الترشيح ومكبس السير DNYA ووحدة جرعات PYJ",
+                "en": "Filter Plates, DNYA Belt Press and PYJ Polymer Dosing"
+              },
+              "description": {
+                "ar": "ألواح ترشيح ⁦320⁠–⁠2000⁩ مم، وإضافات مكابس الترشيح، ومكبس سير ⁦DNYA⁩ بعرض ⁦1⁠–⁠3⁩ م، ووحدة جرعات البوليمر ⁦PYJ⁩. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Filter plates 320–2000 mm, filter press options, the DNYA belt press with 1–3 m belts and the PYJ polymer dosing unit. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "ألواح وإضافات ومكبس سير وجرعات. اختر من الجدول أدناه.",
+              "en": "Plates, options, belt press and dosing. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل تناسب الألواح مكبسي الحالي؟",
+                  "a": "أرسل مقاس اللوح ونوعه (حجري أو غشائي أو بإطار) ومادته، ونطابق اللوح البديل."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Will the plates fit my existing press?",
+                  "a": "Send the plate size, type (chamber, membrane or plate-and-frame) and material, and we match the replacement plate."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "28",
+                  "label": "موديلاً ونوعاً"
+                },
+                {
+                  "value": "⁦1⁠–⁠3⁩ م",
+                  "label": "عرض السير"
+                },
+                {
+                  "value": "⁦10000⁩ لتر/ساعة",
+                  "label": "أقصى جرعات"
+                }
+              ],
+              "en": [
+                {
+                  "value": "28",
+                  "label": "Models & types"
+                },
+                {
+                  "value": "1–3 m",
+                  "label": "Belt width"
+                },
+                {
+                  "value": "10000 L/h",
+                  "label": "Max. dosing"
+                }
+              ]
+            }
+          },
+          {
+            "id": "filter-press-parts-vacuum-filter-belts",
+            "name": {
+              "ar": "قطع مكابس الترشيح وسيور المرشحات الفراغية",
+              "en": "Filter Press Parts & Vacuum Filter Belts"
+            },
+            "coverImage": "/products/filter-press-parts-vacuum-filter-belts/filter-press-parts-vacuum-filter-belts.webp",
+            "description": {
+              "ar": "أقمشة ترشيح وألواح غشائية وحجرية بديلة لمكابس ⁦1250⁩ و⁦1500⁩ و⁦2000⁩ مم، وسيور شبكية تنقل الكعكة، وسيور مرشحات فراغية بعرض حتى ⁦6.5⁩ م لتجفيف المخلفات والمركّز.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Replacement filter cloths and membrane or chamber plates for 1250, 1500 and 2000 mm filter presses, lattice belts that carry the cake away, and vacuum belt-filter belts up to 6.5 m wide for tailings and concentrate dewatering.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "أقمشة ترشيح لألواح ⁦1250⁩ و⁦1500⁩ و⁦2000⁩ مم",
+                "ألواح غشائية وحجرية بديلة",
+                "سيور شبكية لنقل الكعكة تُباع بالمتر",
+                "سيور مرشحات فراغية بعرض حتى ⁦6500⁩ مم"
+              ],
+              "en": [
+                "Filter cloths for 1250, 1500 and 2000 mm plates",
+                "Replacement membrane and chamber plates",
+                "Lattice cake belts sold per metre",
+                "Vacuum filter belts up to 6500 mm wide"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "مقاسات الألواح",
+                  "value": "⁦1250⁠–⁠2000⁩ مم"
+                },
+                {
+                  "label": "عرض سير المرشح",
+                  "value": "حتى ⁦6500⁩ مم"
+                },
+                {
+                  "label": "طول السير",
+                  "value": "⁦10⁠–⁠200⁩ م"
+                },
+                {
+                  "label": "سماكة السير",
+                  "value": "⁦20⁠–⁠50⁩ مم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Plate sizes",
+                  "value": "1250–2000 mm"
+                },
+                {
+                  "label": "Filter belt width",
+                  "value": "Up to 6500 mm"
+                },
+                {
+                  "label": "Belt length",
+                  "value": "10–200 m"
+                },
+                {
+                  "label": "Belt thickness",
+                  "value": "20–50 mm"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/filter-press-parts-vacuum-filter-belts/filter-press-parts-vacuum-filter-belts.webp"
+            ],
+            "image": "/products/filter-press-parts-vacuum-filter-belts/filter-press-parts-vacuum-filter-belts.webp",
+            "cardImage": "/products/filter-press-parts-vacuum-filter-belts/filter-press-parts-vacuum-filter-belts.webp",
+            "seo": {
+              "title": {
+                "ar": "قطع مكابس الترشيح وسيور المرشحات الفراغية",
+                "en": "Filter Press Parts and Vacuum Filter Belts"
+              },
+              "description": {
+                "ar": "أقمشة وألواح بديلة لمكابس ⁦1250⁠–⁠2000⁩ مم، وسيور شبكية لنقل الكعكة، وسيور مرشحات فراغية بعرض حتى ⁦6.5⁩ م. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Replacement cloths and plates for 1250–2000 mm presses, lattice cake belts and vacuum filter belts up to 6.5 m wide. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "قطع غيار مكابس الترشيح والمرشحات الفراغية. اختر من الجدول أدناه.",
+              "en": "Spare parts for filter presses and vacuum filters. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لطلب سير المرشح الفراغي؟",
+                  "a": "العرض والطول والسماكة، ونوع الخدمة (عادي أو حراري أو مقاوم للأحماض والقلويات أو للزيت)، ونمط الأخاديد والثقوب."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to order a vacuum filter belt?",
+                  "a": "The width, length and thickness, the service (standard, heat, acid / alkali or oil resistant) and the groove and hole pattern."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "4",
+                  "label": "خطوط منتجات"
+                },
+                {
+                  "value": "⁦1250⁠–⁠2000⁩ مم",
+                  "label": "مقاس اللوح"
+                },
+                {
+                  "value": "⁦6500⁩ مم",
+                  "label": "عرض السير"
+                }
+              ],
+              "en": [
+                {
+                  "value": "4",
+                  "label": "Product lines"
+                },
+                {
+                  "value": "1250–2000 mm",
+                  "label": "Plate size"
+                },
+                {
+                  "value": "6500 mm",
+                  "label": "Belt width"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
         "id": "pumps-slurry-handling",
         "title": {
           "ar": "المضخات ونقل اللب",
