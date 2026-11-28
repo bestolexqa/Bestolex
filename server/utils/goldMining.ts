@@ -42,7 +42,7 @@ export const STAGES: Stage[] = [
     lead: L('أجهزة المسح والكشف، وحفارات الاستكشاف اللبّية والدوران العكسي وDTH، والمثاقب الصخرية والضواغط، وأدوات الفلق والقطع والتهوية، من البحث عن الخام إلى استخراجه.',
       'Survey instruments and detectors, core, RC and DTH exploration rigs, rock drills and compressors, and splitting, cutting and ventilation equipment, from finding the ore to extracting it.'),
     families: 15, models: 163,
-    image: '/products/metal-detectors-water-well-drill-rigs/metal-detectors-water-well-drill-rigs.webp', cover: '/gold-mining/covers/bxc-02.webp',
+    image: '/gold-mining/stages/exploration-drilling-photo.webp', cover: '/gold-mining/covers/bxc-02.webp',
     cta: { title: L('لا تعرف أي حفارة تناسب موقعك؟', 'Not sure which rig fits your site?'),
       text: L('أرسل العمق المطلوب، وقطر الثقب، ونوع الصخر، ومصدر الطاقة في الموقع، ونقترح عليك الموديل.', 'Send us the depth and hole diameter you need, the rock type and the power available on site, and we suggest the model.') },
     types: [
@@ -66,7 +66,7 @@ export const STAGES: Stage[] = [
     lead: L('مطارق ولقم DTH للضغط العالي والمنخفض، وأدوات الدوران العكسي، وأنظمة التغليف، ولقم ثلاثية المخاريط وPDC، وأدوات المطرقة العلوية وماكينات التجليخ.',
       'High- and low-pressure DTH hammers and bits, reverse-circulation tools, casing systems, tricone and PDC bits, top-hammer tools and bit grinders.'),
     families: 13, models: 270,
-    image: '/products/high-pressure-dth-bits/high-pressure-dth-bits.webp', cover: '/gold-mining/covers/bxc-03.webp',
+    image: '/gold-mining/stages/drilling-consumables-photo.webp', cover: '/gold-mining/covers/bxc-03.webp',
     cta: { title: L('لا تعرف أي لقمة أو مطرقة تناسب حفارتك؟', 'Not sure which bit or hammer fits your rig?'),
       text: L('أرسل موديل الحفارة أو المطرقة، وقطر الثقب، وضغط الضاغط، ونقترح عليك الأدوات.', 'Send us the rig or hammer model, the hole diameter and the compressor pressure, and we suggest the tools.') },
     types: [
@@ -90,7 +90,7 @@ export const STAGES: Stage[] = [
     lead: L('الكسارات والطواحين والمصنّفات والمغذيات والغرابيل والسيور، وفواصل الحديد الشارد وقطع التآكل، لتحويل الخام إلى لب جاهز للتركيز أو المعالجة.',
       'Crushers, mills, classifiers, feeders, screens and conveyors, tramp-iron separators and wear parts, to turn ore into a slurry ready for concentration or processing.'),
     families: 51, models: 1128,
-    image: '/products/jaw-crushers/jaw-crushers.webp', cover: '/gold-mining/covers/bxc-04.webp',
+    image: '/gold-mining/stages/crushing-grinding-screening-photo.webp', cover: '/gold-mining/covers/bxc-04.webp',
     cta: { title: L('لا تعرف أي كسارة تناسب موقعك؟', 'Not sure which crusher fits your site?'),
       text: L('أرسل نوع الخام، والطاقة المطلوبة بالطن في الساعة، وأكبر حجم للحجر، ونقترح عليك الموديل.', 'Send us the ore type, the capacity you need in tonnes per hour and the largest rock size, and we suggest the model.') },
     groups: [
@@ -120,7 +120,7 @@ export const STAGES: Stage[] = [
     lead: L('غسالات الخام وأجهزة الجيج والمركّزات الطاردة المركزية والمجاري الحلزونية والطاولات الهزّازة والكراكات، لفصل الذهب الحر وتركيزه.',
       'Ore washers, jigs, centrifugal concentrators, spirals, shaking tables and dredgers, to recover and concentrate free gold.'),
     families: 16, models: 200,
-    image: '/gold-mining/stages/washing-gold-concentration.webp', cover: '/gold-mining/covers/bxc-05.webp',
+    image: '/gold-mining/stages/washing-gold-concentration-photo.webp', cover: '/gold-mining/covers/bxc-05.webp',
     cta: { title: L('لا تعرف أي معدة تناسب خامك؟', 'Not sure which equipment fits your ore?'),
       text: L('أرسل نوع الرواسب (غريني أو طيني أو خام مطحون)، وحجم الذهب، والطاقة المطلوبة، ومصدر الماء في الموقع، ونقترح عليك خط الغسيل والتركيز.', 'Send us the deposit type (alluvial, clay-bound or ground ore), the gold particle size, the capacity you need and the water on site, and we suggest the washing and concentration line.') },
     types: [
@@ -144,7 +144,7 @@ export const STAGES: Stage[] = [
     lead: L('مصانع ذهب متكاملة بالجاذبية أو CIL / CIP أو التعويم، وآلات التعويم وأحواض التقليب والإذابة، ووحدات الاستخلاص والتحليل الكهربائي، والمجففات والأفران الدوّارة، والمكثّفات ومكابس الترشيح، من الطاحونة إلى الكعكة الجافة.',
       'Complete gravity, CIL / CIP or flotation gold plants, flotation machines, agitation and leaching tanks, elution and electrowinning units, rotary dryers and kilns, thickeners and filter presses, from the mill to the dry cake.'),
     families: 12, models: 325,
-    image: '/gold-mining/stages/ore-processing-plants.webp', cover: '/gold-mining/covers/bxc-06.webp',
+    image: '/gold-mining/stages/ore-processing-plants-photo.webp', cover: '/gold-mining/covers/bxc-06.webp',
     cta: { title: L('تخطط لمصنع ذهب؟', 'Planning a gold plant?'),
       text: L('أرسل نوع الخام ورتبته، والطاقة المطلوبة بالطن في اليوم، ونتائج اختبار الخام إن وُجدت، ونقترح عليك المخطط والمعدات.', 'Send us the ore type and grade, the throughput in t/d and any ore test results, and we suggest the flowsheet and equipment.') },
     types: [
@@ -167,7 +167,7 @@ export const STAGES: Stage[] = [
     short: L('مواد التلبيد والتخثير، وكواشف المعالجة، والكربون المنشط.', 'Flocculants and coagulants, processing reagents and activated carbon.'),
     lead: L('مواد التلبيد والتخثير، وكواشف المعالجة، والكربون المنشط.', 'Flocculants and coagulants, processing reagents and activated carbon.'),
     families: 2, models: 80,
-    image: '/gold-mining/stages/process-chemicals.webp', cover: '', cta: CTA_DEFAULT
+    image: '/gold-mining/stages/process-chemicals-photo.webp', cover: '', cta: CTA_DEFAULT
   },
   {
     id: 'smelting-refining', n: 7, kind: 'line', code: 'BXC-08', edition: '7', sub: 'smelting-refining',
@@ -176,7 +176,7 @@ export const STAGES: Stage[] = [
     lead: L('أفران صهر الذهب بالحث من 1 إلى 500 كجم، وبوتقات الكوارتز وكربيد السيليكون، والطوب والخرسانات الحرارية، والألياف الخزفية لعزل الأفران، من الصهرة الأولى إلى السبيكة.',
       'Induction gold-melting furnaces from 1 to 500 kg, quartz and silicon-carbide crucibles, firebricks and castables, and ceramic fibre to insulate the furnace, from the first melt to the bar.'),
     families: 6, models: 144,
-    image: '/gold-mining/stages/smelting-refining.webp', cover: '/gold-mining/covers/bxc-08.webp',
+    image: '/gold-mining/stages/smelting-refining-photo.webp', cover: '/gold-mining/covers/bxc-08.webp',
     cta: { title: L('لا تعرف أي فرن يناسب إنتاجك؟', 'Not sure which furnace fits your output?'),
       text: L('أرسل كمية الذهب في كل صهرة، وعدد الصهرات في اليوم، ومصدر الكهرباء في الموقع، ونقترح عليك الفرن والبوتقة.', 'Send us the gold per melt, the melts per day and the power on site, and we suggest the furnace and crucible.') },
     types: [
