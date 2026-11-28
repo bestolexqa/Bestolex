@@ -85,6 +85,35 @@ export function seoDescription(text: string, max = DESC_MAX): string {
   return `${cut}.`
 }
 
+const DESC_HARD_MAX = 170
+// Words a list must not end on once it is cut ("…, tongs and." reads as broken).
+const DANGLING = /[\s،,؛;:\-–]+(and|or|with|for|of|the|to|in|from|plus|مع|من|في|إلى|أو|على|حتى)$/i
+
+/**
+ * Keeps a hand-written description as written when it fits in `max` (170) characters; otherwise ends it
+ * on the last complete sentence, or the last complete list item, that fits. Never adds an ellipsis.
+ */
+export function clampDescription(text: string, max = DESC_HARD_MAX): string {
+  const clean = (text || '').replace(/\s+/g, ' ').trim()
+  if (clean.length <= max) return clean
+  const slice = clean.slice(0, max + 1)
+  const enough = Math.min(90, Math.floor(max / 2))
+  const sentenceEnd = Math.max(
+    slice.lastIndexOf('. '), slice.lastIndexOf('! '), slice.lastIndexOf('? '), slice.lastIndexOf('؟ ')
+  )
+  if (sentenceEnd >= enough) return slice.slice(0, sentenceEnd + 1).trim()
+  const lastSep = (s: string) => Math.max(s.lastIndexOf('، '), s.lastIndexOf(', '), s.lastIndexOf('؛ '), s.lastIndexOf('; '))
+  let listEnd = lastSep(slice)
+  // In English only the final item takes "and"; one that is followed by more items opens a nested
+  // list ("and splitting, cutting and ventilation tools"), so cut before it instead.
+  const prev = listEnd > 0 ? lastSep(slice.slice(0, listEnd)) : -1
+  if (prev >= enough && /^and /i.test(slice.slice(prev + 2, listEnd))) listEnd = prev
+  const lastSpace = slice.lastIndexOf(' ', max - 1)
+  let cut = slice.slice(0, listEnd >= enough ? listEnd : (lastSpace > 0 ? lastSpace : max - 1))
+  for (let i = 0; i < 3 && DANGLING.test(cut); i++) cut = cut.replace(DANGLING, '')
+  return `${cut.replace(/[\s،,؛;:\-–]+$/, '')}.`
+}
+
 /** BreadcrumbList for a list of [name, absolute url] pairs. */
 export function breadcrumbLd(items: Array<[string, string]>) {
   return {

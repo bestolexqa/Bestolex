@@ -715,7 +715,7 @@ const pageTitle = computed(() => {
 const pageDesc = computed(() => {
   if (!product.value) return ''
   const custom = product.value.seo?.description?.[locale.value]
-  return custom || seoDescription(product.value.description?.[locale.value] || product.value.description?.ar || '')
+  return custom ? clampDescription(custom) : seoDescription(product.value.description?.[locale.value] || product.value.description?.ar || '')
 })
 
 const pageUrl = computed(() => {
