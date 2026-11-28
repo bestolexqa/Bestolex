@@ -1,0 +1,253 @@
+{
+  "id": "knife-gate-slurry-process-valves",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-07 Ed5⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-07 Ed5 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Knife gate, slurry and process valves",
+        "ar": "صمامات سكينية ولب ومعالجة"
+      },
+      "models": [
+        {
+          "code": "BX-0619-02-001",
+          "name": {
+            "en": "Bonneted knife gate valve, double flange",
+            "ar": "صمام سكيني بغطاء وشفتين"
+          },
+          "specs": {
+            "models": {
+              "en": "DN80–DN1200",
+              "ar": "⁦DN80–DN1200⁩"
+            },
+            "data": {
+              "en": "For slurry and mud; 150 psi (MSS SP-81); CF8M body and bonnet, SS316 gate, EPDM seat (V-port or O-ring)",
+              "ar": "للب والطين؛ ⁦150 psi⁩ ‏(⁦MSS SP-81⁩)؛ جسم وغطاء ⁦CF8M⁩، بوابة ⁦SS316⁩، مقعد ⁦EPDM⁩ ‏(فتحة ⁦V⁩ أو حلقة ⁦O⁩)"
+            }
+          }
+        },
+        {
+          "code": "BX-0619-03-001",
+          "name": {
+            "en": "Flanged slurry knife gate valve, sleeved, bi-directional",
+            "ar": "صمام سكيني للب بشفة وجلبتين، ثنائي الاتجاه"
+          },
+          "specs": {
+            "models": {
+              "en": "3–60 in (DN80–DN1500)",
+              "ar": "⁦3⁠–⁠60⁩ بوصة (⁦DN80–DN1500⁩)"
+            },
+            "data": {
+              "en": "Two rubber sleeves; no metal in contact with slurry; tight shut-off; natural rubber to 180 °F, special rubber to 400 °F",
+              "ar": "جلبتان مطاطيتان؛ لا معدن يلامس اللب؛ إغلاق محكم؛ مطاط طبيعي حتى ⁦180 °⁩ف ومطاط خاص حتى ⁦400 °⁩ف"
+            }
+          }
+        },
+        {
+          "code": "BX-0619-05-001",
+          "name": {
+            "en": "Wafer slurry knife gate valve, sleeved, bi-directional",
+            "ar": "صمام سكيني رقاقي للب بجلبتين، ثنائي الاتجاه"
+          },
+          "specs": {
+            "models": {
+              "en": "2–24 in (DN50–DN600)",
+              "ar": "⁦2⁠–⁠24⁩ بوصة (⁦DN50–DN600⁩)"
+            },
+            "data": {
+              "en": "Two rubber sleeves; tight shut-off; no metal in contact with slurry",
+              "ar": "جلبتان مطاطيتان؛ إغلاق محكم؛ لا معدن يلامس اللب"
+            }
+          }
+        },
+        {
+          "code": "BX-0619-04-001",
+          "name": {
+            "en": "Through-conduit knife gate valve, bi-directional",
+            "ar": "صمام سكيني بممر كامل، ثنائي الاتجاه"
+          },
+          "specs": {
+            "models": {
+              "en": "DN50–DN600 (2–24 in)",
+              "ar": "⁦DN50–DN600⁩ ‏(⁦2⁠–⁠24⁩ بوصة)"
+            },
+            "data": {
+              "en": "O-port gate for high-solids lines without clogging; seats on both sides; 10 bar to DN250, 7 bar DN300–450",
+              "ar": "بوابة بفتحة ⁦O⁩ لخطوط المواد الصلبة الكثيفة دون انسداد؛ مقاعد على الجانبين؛ ⁦10⁩ بار حتى ⁦DN250⁩ و⁦7⁩ بار من ⁦DN300⁩ إلى ⁦450⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0619-06-001",
+          "name": {
+            "en": "Wafer knife gate valve, unidirectional (VT series)",
+            "ar": "صمام سكيني رقاقي أحادي الاتجاه (سلسلة ⁦VT⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "2–24 in (DN50–DN600)",
+              "ar": "⁦2⁠–⁠24⁩ بوصة (⁦DN50–DN600⁩)"
+            },
+            "data": {
+              "en": "Bevelled, polished, hard-chrome gate; replaceable seat; for particle-laden lines",
+              "ar": "بوابة مشطوفة مصقولة مطلية بالكروم الصلب؛ مقعد قابل للتبديل؛ للخطوط المحمّلة بالحبيبات"
+            }
+          }
+        },
+        {
+          "code": "BX-0669-01-001",
+          "name": {
+            "en": "Integrated knife gate valve, non-rising stem",
+            "ar": "صمام سكيني متكامل بساق غير صاعدة"
+          },
+          "specs": {
+            "models": {
+              "en": "DN50–DN300",
+              "ar": "⁦DN50–DN300⁩"
+            },
+            "data": {
+              "en": "Ductile iron body, SS304 knife, EPDM U-seat, PTFE packing, handwheel; EN 558 S20 and MSS SP-81",
+              "ar": "جسم من الحديد المطيلي، سكين ⁦SS304⁩، مقعد ⁦U⁩ من ⁦EPDM⁩، حشوة ⁦PTFE⁩، عجلة يدوية؛ ⁦EN 558 S20⁩ و⁦MSS SP-81⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0669-02-001",
+          "name": {
+            "en": "Integrated knife gate valve, rising stem",
+            "ar": "صمام سكيني متكامل بساق صاعدة"
+          },
+          "specs": {
+            "models": {
+              "en": "DN50–DN300",
+              "ar": "⁦DN50–DN300⁩"
+            },
+            "data": {
+              "en": "Same materials as the non-rising-stem version",
+              "ar": "المواد نفسها في نسخة الساق غير الصاعدة"
+            }
+          }
+        },
+        {
+          "code": "BX-0619-01-004",
+          "name": {
+            "en": "Axial-flow (nozzle) non-slam check valves",
+            "ar": "صمامات عدم رجوع محورية (بفوهة) بلا طرق"
+          },
+          "specs": {
+            "models": {
+              "en": "To API 6D, ASME B16.34, API 594",
+              "ar": "وفق ⁦API 6D⁩ و⁦ASME B16.34⁩ و⁦API 594⁩"
+            },
+            "data": {
+              "en": "Venturi port for low pressure loss; spring closing reduces water hammer; soft seal with metal back-up",
+              "ar": "فتحة فنتوري لفقد ضغط منخفض؛ إغلاق بنابض يقلل المطرقة المائية؛ إحكام لين بدعم معدني"
+            }
+          }
+        },
+        {
+          "code": "BX-0619-01-005",
+          "name": {
+            "en": "Tilted-disc check valves",
+            "ar": "صمامات عدم رجوع بقرص مائل"
+          },
+          "specs": {
+            "models": {
+              "en": "2–60 in; up to ASME Class 2500",
+              "ar": "⁦2⁠–⁠60⁩ بوصة؛ حتى ⁦ASME Class 2500⁩"
+            },
+            "data": {
+              "en": "Large flow area, low pressure loss, compact",
+              "ar": "مساحة تدفق كبيرة وفقد ضغط منخفض وحجم مدمج"
+            }
+          }
+        },
+        {
+          "code": "BX-0619-01-007",
+          "name": {
+            "en": "Butterfly valves, concentric and eccentric",
+            "ar": "صمامات فراشة متمركزة ولا متمركزة"
+          },
+          "specs": {
+            "models": {
+              "en": "2–100 in (DN50–DN2500); CL150–900",
+              "ar": "⁦2⁠–⁠100⁩ بوصة (⁦DN50–DN2500⁩)؛ ⁦CL150⁠–⁠900⁩"
+            },
+            "data": {
+              "en": "Metal or soft seated; cast iron, carbon steel, stainless, alloy or duplex",
+              "ar": "مقعد معدني أو لين؛ حديد زهر أو فولاذ كربوني أو ستانلس أو سبائك أو دوبلكس"
+            }
+          }
+        },
+        {
+          "code": "BX-0619-01-011",
+          "name": {
+            "en": "Fully lined valves for slurry and corrosive service",
+            "ar": "صمامات مبطنة بالكامل للب والخدمة المسببة للتآكل"
+          },
+          "specs": {
+            "models": {
+              "en": "1/2–24 in (DN15–DN600); CL125 / CL150",
+              "ar": "⁦1/2⁠–⁠24⁩ بوصة (⁦DN15–DN600⁩)؛ ⁦CL125 / CL150⁩"
+            },
+            "data": {
+              "en": "Diaphragm, ball, plug, butterfly and check types, rubber or fluoropolymer lined; manual, electric, pneumatic or hydraulic",
+              "ar": "أنواع غشائية وكروية وسدادية وفراشة وعدم رجوع، مبطنة بالمطاط أو البوليمر الفلوري؛ يدوية أو كهربائية أو هوائية أو هيدروليكية"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "DN15–DN2500",
+        "ar": "⁦DN15–DN2500⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

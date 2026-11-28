@@ -176,12 +176,27 @@ export const STAGES: Stage[] = [
     ]
   },
   {
-    id: 'pumps-slurry-handling', n: 0, kind: 'support', code: 'BXC-07', edition: '5',
+    id: 'pumps-slurry-handling', n: 0, kind: 'support', code: 'BXC-07', edition: '5', sub: 'pumps-slurry-handling',
     title: L('المضخات ونقل اللب', 'Pumps & Slurry Handling'),
     short: L('مضخات اللب والحصى والنزح، والصمامات والأنابيب والخراطيم.', 'Slurry, gravel and dewatering pumps, valves, pipes and hoses.'),
-    lead: L('مضخات اللب والحصى والنزح، والصمامات والأنابيب والخراطيم.', 'Slurry, gravel and dewatering pumps, valves, pipes and hoses.'),
+    lead: L('مضخات اللب والحصى والكراكات والأحواض، ومضخات النزح والآبار والمياه، وقطع التآكل، والأنابيب والخراطيم، والصمامات السكينية وصمامات المياه، من الطاحونة إلى بركة المخلفات.',
+      'Slurry, gravel, dredge and sump pumps, dewatering, borehole and water pumps, wear parts, pipes and hoses, and knife gate and water-line valves, from the mill to the tailings pond.'),
     families: 17, models: 174,
-    image: '/gold-mining/support/pumps-slurry-handling.webp', cover: '/gold-mining/covers/bxc-07.webp', cta: CTA_DEFAULT
+    image: '/gold-mining/support/pumps-slurry-handling.webp', cover: '/gold-mining/covers/bxc-07.webp',
+    cta: { title: L('لا تعرف أي مضخة تناسب خطك؟', 'Not sure which pump fits your line?'),
+      text: L('أرسل التدفق والرفع الكلي، وكثافة اللب وأكبر حبيبة فيه، ومصدر الكهرباء في الموقع، ونقترح عليك المضخة والصمامات والخراطيم.', 'Send us the flow and total head, the slurry density and largest particle, and the power on site, and we suggest the pump, valves and hoses.') },
+    types: [
+      { id: 'slurry', chip: L('مضخات اللب', 'Slurry pumps'), badge: L('مضخات اللب', 'Slurry pumps') },
+      { id: 'water', chip: L('النزح والمياه', 'Dewatering & water'), badge: L('النزح والمياه', 'Dewatering & water') },
+      { id: 'lines', chip: L('القطع والأنابيب والخراطيم', 'Parts, pipes & hoses'), badge: L('القطع والأنابيب', 'Parts & pipes') },
+      { id: 'valves', chip: L('الصمامات', 'Valves'), badge: L('الصمامات', 'Valves') }
+    ],
+    how: [
+      { title: L('التدفق والرفع', 'Flow and head'), text: L('احسب التدفق بالمتر المكعب في الساعة والرفع الكلي مع فقد الأنابيب، وقارنهما بعمودي الطاقة والرفع في الجدول.', 'Work out the flow in m³/h and the total head including pipe losses, and compare them with the capacity and head columns.') },
+      { title: L('اللب والحبيبات', 'Slurry and particles'), text: L('كثافة اللب وأكبر حبيبة تحددان نوع المضخة: لب أو حصى أو كراكات، وممرها.', 'Slurry density and the largest particle decide the pump type (slurry, gravel or dredge) and its passage.') },
+      { title: L('البطانة', 'Liner'), text: L('البطانة المعدنية عالية الكروم للحبيبات الخشنة، والمطاطية للحبيبات الناعمة والكشط الخفيف.', 'High-chrome metal liners suit coarse particles; rubber suits fine particles and lighter abrasion.') },
+      { title: L('الصمامات والخطوط', 'Valves and lines'), text: L('اختر الصمام السكيني والخرطوم بقطر الخط وضغطه، ومقعداً مطاطياً أو بولي يوريثان للب الكاشط.', 'Choose the knife gate and hose by line size and pressure, with a rubber or polyurethane seat for abrasive slurry.') }
+    ]
   },
   {
     id: 'laboratory-assay', n: 0, kind: 'support', code: 'BXC-09', edition: '6', sub: 'laboratory-assay',
@@ -226,6 +241,23 @@ export const STAGES: Stage[] = [
 
 // Family pages: their place in the stage (group tab) and their chip.
 const FAMILY_META: Record<string, { group?: string, type?: string }> = {
+  'horizontal-slurry-pumps': { type: 'slurry' },
+  'gravel-dredge-pumps': { type: 'slurry' },
+  'vertical-sump-pumps': { type: 'slurry' },
+  'slurry-gravel-submersible-pumps-additional': { type: 'slurry' },
+  'slurry-froth-dredge-pumps-additional': { type: 'slurry' },
+  'submersible-hydraulic-slurry-pumps': { type: 'slurry' },
+  'dewatering-water-deep-well-pumps': { type: 'water' },
+  'submersible-drainage-borehole-pumps': { type: 'water' },
+  'water-process-engine-driven-pumps': { type: 'water' },
+  'pump-wear-parts-slurry-hoses': { type: 'lines' },
+  'slurry-pipes-packings-gaskets': { type: 'lines' },
+  'industrial-rubber-hydraulic-hoses': { type: 'lines' },
+  'ductile-iron-steel-pipes-fittings-hoses': { type: 'lines' },
+  'knife-gate-slurry-process-valves': { type: 'valves' },
+  'water-line-valves-ductile-iron-steel': { type: 'valves' },
+  'knife-gate-valves-diaphragm-pumps': { type: 'valves' },
+  'knife-gate-valves-through-gate-self-sealing': { type: 'valves' },
   'sample-crushing-pulverizing': { type: 'prep' },
   'sample-division-sieving-drying-digestion': { type: 'prep' },
   'sample-preparation-additional-range': { type: 'prep' },

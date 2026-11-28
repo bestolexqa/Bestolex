@@ -1,0 +1,119 @@
+{
+  "id": "pump-wear-parts-slurry-hoses",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-07 Ed5⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-07 Ed5 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "desc",
+      "label": {
+        "en": "Description",
+        "ar": "الوصف"
+      }
+    }
+  ],
+  "keyRows": [
+    "desc"
+  ],
+  "types": [
+    {
+      "id": "parts",
+      "label": {
+        "en": "Wear parts and hoses",
+        "ar": "قطع التآكل والخراطيم"
+      },
+      "models": [
+        {
+          "code": "BX-0022-01-027",
+          "name": {
+            "en": "Slurry pump wear parts",
+            "ar": "قطع تآكل مضخات اللب"
+          },
+          "specs": {
+            "desc": {
+              "en": "Impellers, liners, throat bushes, casings, shafts, bearings and seals (expeller, packing, mechanical, lip). Materials: high-chrome B05 (≥ 56 HRC), B07 (≥ 59 HRC), B49, B25, SiC ceramic, rubber, polyurethane",
+              "ar": "دفّاعات وبطانات وجلب حلق وأغلفة وأعمدة ومحامل وموانع تسرب (طاردة وبالحشوة وميكانيكية وشفوية). المواد: عالية الكروم ⁦B05⁩ ‏(≥ ⁦56 HRC⁩) و⁦B07⁩ ‏(≥ ⁦59 HRC⁩) و⁦B49⁩ و⁦B25⁩، وسيراميك كربيد السيليكون، ومطاط، وبولي يوريثان"
+            }
+          }
+        },
+        {
+          "code": "BX-0036-01-015",
+          "name": {
+            "en": "Metal slurry pump parts",
+            "ar": "قطع معدنية لمضخات اللب"
+          },
+          "specs": {
+            "desc": {
+              "en": "Metal parts interchangeable with common international slurry pumps",
+              "ar": "قطع معدنية قابلة للتبادل مع مضخات اللب العالمية الشائعة"
+            }
+          }
+        },
+        {
+          "code": "BX-0036-01-016",
+          "name": {
+            "en": "Rubber slurry pump parts",
+            "ar": "قطع مطاطية لمضخات اللب"
+          },
+          "specs": {
+            "desc": {
+              "en": "Impeller, cover plate liner, frame plate liner, throat bush, frame plate liner insert; natural or synthetic rubber",
+              "ar": "دفّاعة وبطانة لوح الغطاء وبطانة لوح الإطار وجلبة الحلق وحشوة بطانة لوح الإطار؛ مطاط طبيعي أو صناعي"
+            }
+          }
+        },
+        {
+          "code": "BX-0036-01-035",
+          "name": {
+            "en": "Submersible slurry pump parts",
+            "ar": "قطع المضخات الغاطسة"
+          },
+          "specs": {
+            "desc": {
+              "en": "High-chrome 27–28%, hardness 650+ Brinell",
+              "ar": "كروم عالٍ ⁦27⁠–⁠28%⁩، صلادة ⁦650⁩+ برينل"
+            }
+          }
+        },
+        {
+          "code": "BX-0036-01-033",
+          "name": {
+            "en": "Slurry and dredge hose",
+            "ar": "خراطيم اللب والتجريف"
+          },
+          "specs": {
+            "desc": {
+              "en": "Ø 50–1000 mm, 3–30 bar, 6 or 12 m lengths or to order; flange or clamp ends; rubber, PE, HDPE, PVC or steel",
+              "ar": "قطر ⁦50⁠–⁠1000⁩ مم، ⁦3⁠–⁠30⁩ بار، أطوال ⁦6⁩ أو ⁦12⁩ م أو حسب الطلب؛ أطراف بشفة أو مشبك؛ مطاط أو ⁦PE⁩ أو ⁦HDPE⁩ أو ⁦PVC⁩ أو فولاذ"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ]
+}

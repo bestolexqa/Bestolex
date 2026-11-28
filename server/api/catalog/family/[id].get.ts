@@ -95,7 +95,24 @@ const FAMILY_FILES: Record<string, string> = {
   'xrf-carbon-sulfur-analyzers': 'catalog/mining/xrf-carbon-sulfur-analyzers.json',
   'spark-oes-carbon-sulphur-xrf-analyzers': 'catalog/mining/spark-oes-carbon-sulphur-xrf-analyzers.json',
   'gold-purity-density-lab-testing': 'catalog/mining/gold-purity-density-lab-testing.json',
-  'metallurgical-test-laboratory-equipment': 'catalog/mining/metallurgical-test-laboratory-equipment.json'
+  'metallurgical-test-laboratory-equipment': 'catalog/mining/metallurgical-test-laboratory-equipment.json',
+  'horizontal-slurry-pumps': 'catalog/mining/horizontal-slurry-pumps.json',
+  'gravel-dredge-pumps': 'catalog/mining/gravel-dredge-pumps.json',
+  'vertical-sump-pumps': 'catalog/mining/vertical-sump-pumps.json',
+  'slurry-gravel-submersible-pumps-additional': 'catalog/mining/slurry-gravel-submersible-pumps-additional.json',
+  'slurry-froth-dredge-pumps-additional': 'catalog/mining/slurry-froth-dredge-pumps-additional.json',
+  'submersible-hydraulic-slurry-pumps': 'catalog/mining/submersible-hydraulic-slurry-pumps.json',
+  'dewatering-water-deep-well-pumps': 'catalog/mining/dewatering-water-deep-well-pumps.json',
+  'submersible-drainage-borehole-pumps': 'catalog/mining/submersible-drainage-borehole-pumps.json',
+  'water-process-engine-driven-pumps': 'catalog/mining/water-process-engine-driven-pumps.json',
+  'pump-wear-parts-slurry-hoses': 'catalog/mining/pump-wear-parts-slurry-hoses.json',
+  'slurry-pipes-packings-gaskets': 'catalog/mining/slurry-pipes-packings-gaskets.json',
+  'industrial-rubber-hydraulic-hoses': 'catalog/mining/industrial-rubber-hydraulic-hoses.json',
+  'knife-gate-slurry-process-valves': 'catalog/mining/knife-gate-slurry-process-valves.json',
+  'water-line-valves-ductile-iron-steel': 'catalog/mining/water-line-valves-ductile-iron-steel.json',
+  'ductile-iron-steel-pipes-fittings-hoses': 'catalog/mining/ductile-iron-steel-pipes-fittings-hoses.json',
+  'knife-gate-valves-diaphragm-pumps': 'catalog/mining/knife-gate-valves-diaphragm-pumps.json',
+  'knife-gate-valves-through-gate-self-sealing': 'catalog/mining/knife-gate-valves-through-gate-self-sealing.json'
 }
 
 const cache = new Map<string, any>()

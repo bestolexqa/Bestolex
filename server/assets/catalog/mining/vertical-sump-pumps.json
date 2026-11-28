@@ -1,0 +1,497 @@
+{
+  "id": "vertical-sump-pumps",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-07 Ed5⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-07 Ed5 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "liner",
+      "label": {
+        "en": "Liner",
+        "ar": "البطانة"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (m³/h)",
+        "ar": "الطاقة (م³/ساعة)"
+      }
+    },
+    {
+      "key": "head",
+      "label": {
+        "en": "Head (m)",
+        "ar": "الرفع (م)"
+      }
+    },
+    {
+      "key": "speed",
+      "label": {
+        "en": "Speed (r/min)",
+        "ar": "السرعة (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "eff",
+      "label": {
+        "en": "Max. efficiency (%)",
+        "ar": "أقصى كفاءة (%)"
+      }
+    },
+    {
+      "key": "impeller",
+      "label": {
+        "en": "Impeller Ø (mm)",
+        "ar": "قطر الدفّاعة (مم)"
+      }
+    },
+    {
+      "key": "sizes",
+      "label": {
+        "en": "Sizes",
+        "ar": "المقاسات"
+      }
+    },
+    {
+      "key": "outlet",
+      "label": {
+        "en": "Outlet (mm)",
+        "ar": "المخرج (مم)"
+      }
+    },
+    {
+      "key": "notes",
+      "label": {
+        "en": "Notes",
+        "ar": "ملاحظات"
+      }
+    }
+  ],
+  "keyRows": [
+    "liner",
+    "capacity",
+    "head"
+  ],
+  "types": [
+    {
+      "id": "dv",
+      "label": {
+        "en": "Vertical sump pumps DV(R)",
+        "ar": "مضخات أحواض رأسية ⁦DV(R⁩)"
+      },
+      "models": [
+        {
+          "code": "BX-0038-01-005 / 40(L)DV",
+          "name": {
+            "en": "40(L)DV",
+            "ar": "⁦40(L)DV⁩"
+          },
+          "specs": {
+            "liner": {
+              "en": "Metal",
+              "ar": "معدنية"
+            },
+            "capacity": {
+              "en": "19–43",
+              "ar": "⁦19–43⁩"
+            },
+            "head": {
+              "en": "4.5–28.5",
+              "ar": "⁦4.5–28.5⁩"
+            },
+            "speed": {
+              "en": "1000–2200",
+              "ar": "⁦1000–2200⁩"
+            },
+            "eff": {
+              "en": "40",
+              "ar": "40"
+            },
+            "impeller": {
+              "en": "188",
+              "ar": "188"
+            }
+          }
+        },
+        {
+          "code": "BX-0038-01-005 / 40(L)DVR",
+          "name": {
+            "en": "40(L)DVR",
+            "ar": "⁦40(L)DVR⁩"
+          },
+          "specs": {
+            "liner": {
+              "en": "Rubber",
+              "ar": "مطاطية"
+            },
+            "capacity": {
+              "en": "18–40",
+              "ar": "⁦18–40⁩"
+            },
+            "head": {
+              "en": "4–26",
+              "ar": "⁦4–26⁩"
+            },
+            "speed": {
+              "en": "1000–2200",
+              "ar": "⁦1000–2200⁩"
+            },
+            "eff": {
+              "en": "40",
+              "ar": "40"
+            },
+            "impeller": {
+              "en": "188",
+              "ar": "188"
+            }
+          }
+        },
+        {
+          "code": "BX-0038-01-005 / 65(L)DV",
+          "name": {
+            "en": "65(L)DV",
+            "ar": "⁦65(L)DV⁩"
+          },
+          "specs": {
+            "liner": {
+              "en": "Metal",
+              "ar": "معدنية"
+            },
+            "capacity": {
+              "en": "23–111",
+              "ar": "⁦23–111⁩"
+            },
+            "head": {
+              "en": "5–29.5",
+              "ar": "⁦5–29.5⁩"
+            },
+            "speed": {
+              "en": "700–1500",
+              "ar": "⁦700–1500⁩"
+            },
+            "eff": {
+              "en": "50",
+              "ar": "50"
+            },
+            "impeller": {
+              "en": "280",
+              "ar": "280"
+            }
+          }
+        },
+        {
+          "code": "BX-0038-01-005 / 65(L)DVR",
+          "name": {
+            "en": "65(L)DVR",
+            "ar": "⁦65(L)DVR⁩"
+          },
+          "specs": {
+            "liner": {
+              "en": "Rubber",
+              "ar": "مطاطية"
+            },
+            "capacity": {
+              "en": "23–105",
+              "ar": "⁦23–105⁩"
+            },
+            "head": {
+              "en": "5.5–30.5",
+              "ar": "⁦5.5–30.5⁩"
+            },
+            "speed": {
+              "en": "500–1200",
+              "ar": "⁦500–1200⁩"
+            },
+            "eff": {
+              "en": "51",
+              "ar": "51"
+            },
+            "impeller": {
+              "en": "280",
+              "ar": "280"
+            }
+          }
+        },
+        {
+          "code": "BX-0038-01-005 / 100(L)DV",
+          "name": {
+            "en": "100(L)DV",
+            "ar": "⁦100(L)DV⁩"
+          },
+          "specs": {
+            "liner": {
+              "en": "Metal",
+              "ar": "معدنية"
+            },
+            "capacity": {
+              "en": "54–289",
+              "ar": "⁦54–289⁩"
+            },
+            "head": {
+              "en": "5–35",
+              "ar": "⁦5–35⁩"
+            },
+            "speed": {
+              "en": "600–1200",
+              "ar": "⁦600–1200⁩"
+            },
+            "eff": {
+              "en": "56",
+              "ar": "56"
+            },
+            "impeller": {
+              "en": "370",
+              "ar": "370"
+            }
+          }
+        },
+        {
+          "code": "BX-0038-01-005 / 100(L)DVR",
+          "name": {
+            "en": "100(L)DVR",
+            "ar": "⁦100(L)DVR⁩"
+          },
+          "specs": {
+            "liner": {
+              "en": "Rubber",
+              "ar": "مطاطية"
+            },
+            "capacity": {
+              "en": "65–285",
+              "ar": "⁦65–285⁩"
+            },
+            "head": {
+              "en": "7.5–36",
+              "ar": "⁦7.5–36⁩"
+            },
+            "speed": {
+              "en": "600–1200",
+              "ar": "⁦600–1200⁩"
+            },
+            "eff": {
+              "en": "62",
+              "ar": "62"
+            },
+            "impeller": {
+              "en": "370",
+              "ar": "370"
+            }
+          }
+        },
+        {
+          "code": "BX-0038-01-005 / 150(L)DV",
+          "name": {
+            "en": "150(L)DV",
+            "ar": "⁦150(L)DV⁩"
+          },
+          "specs": {
+            "liner": {
+              "en": "Metal",
+              "ar": "معدنية"
+            },
+            "capacity": {
+              "en": "108–480",
+              "ar": "⁦108–480⁩"
+            },
+            "head": {
+              "en": "8.5–40",
+              "ar": "⁦8.5–40⁩"
+            },
+            "speed": {
+              "en": "500–1000",
+              "ar": "⁦500–1000⁩"
+            },
+            "eff": {
+              "en": "52",
+              "ar": "52"
+            },
+            "impeller": {
+              "en": "450",
+              "ar": "450"
+            }
+          }
+        },
+        {
+          "code": "BX-0038-01-005 / 200(L)DV",
+          "name": {
+            "en": "200(L)DV",
+            "ar": "⁦200(L)DV⁩"
+          },
+          "specs": {
+            "liner": {
+              "en": "Metal",
+              "ar": "معدنية"
+            },
+            "capacity": {
+              "en": "189–891",
+              "ar": "⁦189–891⁩"
+            },
+            "head": {
+              "en": "6.5–37",
+              "ar": "⁦6.5–37⁩"
+            },
+            "speed": {
+              "en": "400–850",
+              "ar": "⁦400–850⁩"
+            },
+            "eff": {
+              "en": "64",
+              "ar": "64"
+            },
+            "impeller": {
+              "en": "520",
+              "ar": "520"
+            }
+          }
+        },
+        {
+          "code": "BX-0038-01-005 / 250(L)DV",
+          "name": {
+            "en": "250(L)DV",
+            "ar": "⁦250(L)DV⁩"
+          },
+          "specs": {
+            "liner": {
+              "en": "Metal",
+              "ar": "معدنية"
+            },
+            "capacity": {
+              "en": "261–1089",
+              "ar": "⁦261–1089⁩"
+            },
+            "head": {
+              "en": "7.5–33",
+              "ar": "⁦7.5–33⁩"
+            },
+            "speed": {
+              "en": "400–750",
+              "ar": "⁦400–750⁩"
+            },
+            "eff": {
+              "en": "60",
+              "ar": "60"
+            },
+            "impeller": {
+              "en": "575",
+              "ar": "575"
+            }
+          }
+        },
+        {
+          "code": "BX-0038-01-005 / 300(L)DV",
+          "name": {
+            "en": "300(L)DV",
+            "ar": "⁦300(L)DV⁩"
+          },
+          "specs": {
+            "liner": {
+              "en": "Metal",
+              "ar": "معدنية"
+            },
+            "capacity": {
+              "en": "288–1267",
+              "ar": "⁦288–1267⁩"
+            },
+            "head": {
+              "en": "6.5–33",
+              "ar": "⁦6.5–33⁩"
+            },
+            "speed": {
+              "en": "350–700",
+              "ar": "⁦350–700⁩"
+            },
+            "eff": {
+              "en": "50",
+              "ar": "50"
+            },
+            "impeller": {
+              "en": "610",
+              "ar": "610"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "18–1267 m³/h",
+        "ar": "⁦18⁠–⁠1267⁩ م³/ساعة"
+      },
+      "intro": {
+        "en": "(L) = extended shaft for deep sumps. Cantilever design with no shaft seal.",
+        "ar": "(⁦L⁩) = عمود ممدد للأحواض العميقة. تصميم معلّق بلا مانع تسرب للعمود."
+      },
+      "keyRows": [
+        "capacity",
+        "head",
+        "liner"
+      ]
+    },
+    {
+      "id": "vsb",
+      "label": {
+        "en": "High-head vertical sump pumps",
+        "ar": "مضخات أحواض رأسية برفع عالٍ"
+      },
+      "models": [
+        {
+          "code": "BX-0022-01-014",
+          "name": {
+            "en": "VSB high-head sump pump",
+            "ar": "مضخة أحواض ⁦VSB⁩ برفع عالٍ"
+          },
+          "specs": {
+            "sizes": {
+              "en": "40VSB, 50VSB, 65VSB, 80VSB and larger, to 250 mm outlet",
+              "ar": "⁦40VSB⁩ و⁦50VSB⁩ و⁦65VSB⁩ و⁦80VSB⁩ وأكبر، حتى مخرج ⁦250⁩ مم"
+            },
+            "capacity": {
+              "en": "6–1057",
+              "ar": "⁦6–1057⁩"
+            },
+            "head": {
+              "en": "2.4–80.5",
+              "ar": "⁦2.4–80.5⁩"
+            },
+            "outlet": {
+              "en": "40–250",
+              "ar": "⁦40–250⁩"
+            },
+            "notes": {
+              "en": "High-chrome parts; no shaft seal and no gland water; extended-shaft version for deep sumps",
+              "ar": "أجزاء عالية الكروم؛ بلا مانع تسرب للعمود وبلا ماء للحشوة؛ نسخة بعمود ممدد للأحواض العميقة"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "6–1057 m³/h",
+        "ar": "⁦6⁠–⁠1057⁩ م³/ساعة"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

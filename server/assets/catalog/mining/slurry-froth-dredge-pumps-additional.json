@@ -1,0 +1,253 @@
+{
+  "id": "slurry-froth-dredge-pumps-additional",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-07 Ed5⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-07 Ed5 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Slurry, froth and dredge pumps – additional series",
+        "ar": "مضخات لب ورغوة وكراكات – سلاسل إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0020-01-001",
+          "name": {
+            "en": "Heavy-duty horizontal slurry pumps NPAH / NPHH / NPAHPP",
+            "ar": "مضخات لب أفقية ثقيلة ⁦NPAH / NPHH / NPAHPP⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "NPAH; NPHH high head; NPAHPP multistage for long distances",
+              "ar": "⁦NPAH⁩؛ و⁦NPHH⁩ برفع عالٍ؛ و⁦NPAHPP⁩ متعددة المراحل للمسافات الطويلة"
+            },
+            "data": {
+              "en": "Up to 5400 m³/h; head to 100 m; outlet to 450 mm (18 in); pressure to 6900 kPa; max. particle 205 mm; metal or rubber liners; parts interchange with common AH / HH pumps",
+              "ar": "حتى ⁦5400⁩ م³/ساعة؛ رفع حتى ⁦100⁩ م؛ مخرج حتى ⁦450⁩ مم (⁦18⁩ بوصة)؛ ضغط حتى ⁦6900⁩ كيلوباسكال؛ أكبر حبيبة ⁦205⁩ مم؛ بطانات معدنية أو مطاطية؛ أجزاؤها تتبادل مع مضخات ⁦AH / HH⁩ الشائعة"
+            }
+          }
+        },
+        {
+          "code": "BX-0020-01-002",
+          "name": {
+            "en": "Light-duty horizontal slurry pumps NPL",
+            "ar": "مضخات لب أفقية خفيفة ⁦NPL⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "Outlet 3/4–26 in",
+              "ar": "مخرج ⁦3/4⁠–⁠26⁩ بوصة"
+            },
+            "data": {
+              "en": "Up to 12,200 m³/h; head to 55 m; outlet to 650 mm; pressure to 1725 kPa; max. particle 164 mm",
+              "ar": "حتى ⁦12,200⁩ م³/ساعة؛ رفع حتى ⁦55⁩ م؛ مخرج حتى ⁦650⁩ مم؛ ضغط حتى ⁦1725⁩ كيلوباسكال؛ أكبر حبيبة ⁦164⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0020-01-003",
+          "name": {
+            "en": "Mill-circuit slurry pumps NPMC (R)",
+            "ar": "مضخات لب لدائرة الطاحونة ⁦NPMC (R⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "Outlet 5–30 in",
+              "ar": "مخرج ⁦5⁠–⁠30⁩ بوصة"
+            },
+            "data": {
+              "en": "Up to 21,500 m³/h; head to 55 m; outlet to 750 mm; pressure to 830 kPa; max. particle 254 mm; metal or rubber liners",
+              "ar": "حتى ⁦21,500⁩ م³/ساعة؛ رفع حتى ⁦55⁩ م؛ مخرج حتى ⁦750⁩ مم؛ ضغط حتى ⁦830⁩ كيلوباسكال؛ أكبر حبيبة ⁦254⁩ مم؛ بطانات معدنية أو مطاطية"
+            }
+          }
+        },
+        {
+          "code": "BX-0020-01-004",
+          "name": {
+            "en": "Gravel and sand pumps NPG / NPGH",
+            "ar": "مضخات الحصى والرمل ⁦NPG / NPGH⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "Outlet 4–36 in; NPGH high head",
+              "ar": "مخرج ⁦4⁠–⁠36⁩ بوصة؛ ⁦NPGH⁩ برفع عالٍ"
+            },
+            "data": {
+              "en": "Up to 14,400 m³/h; head to 100 m; outlet to 900 mm; pressure to 2500 kPa; max. particle 500 mm",
+              "ar": "حتى ⁦14,400⁩ م³/ساعة؛ رفع حتى ⁦100⁩ م؛ مخرج حتى ⁦900⁩ مم؛ ضغط حتى ⁦2500⁩ كيلوباسكال؛ أكبر حبيبة ⁦500⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0020-01-005",
+          "name": {
+            "en": "Heavy-duty dredge pumps NPD",
+            "ar": "مضخات كراكات ثقيلة ⁦NPD⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "Outlet to 1000 mm (39 in)",
+              "ar": "مخرج حتى ⁦1000⁩ مم (⁦39⁩ بوصة)"
+            },
+            "data": {
+              "en": "Up to 25,000 m³/h; head to 85 m; NPSHr below 6 m; max. particle 350 mm; lighter than NPG",
+              "ar": "حتى ⁦25,000⁩ م³/ساعة؛ رفع حتى ⁦85⁩ م؛ ⁦NPSHr⁩ أقل من ⁦6⁩ م؛ أكبر حبيبة ⁦350⁩ مم؛ أخف من ⁦NPG⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0020-01-006",
+          "name": {
+            "en": "Froth pumps NPAHF / NPAF",
+            "ar": "مضخات الرغوة ⁦NPAHF / NPAF⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "Outlet 2–22 in; NPAHF horizontal, NPAF vertical",
+              "ar": "مخرج ⁦2⁠–⁠22⁩ بوصة؛ ⁦NPAHF⁩ أفقية و⁦NPAF⁩ رأسية"
+            },
+            "data": {
+              "en": "Up to 12,000 m³/h; head to 85 m; pressure to 3400 kPa; max. particle 205 mm; open impeller with inducer",
+              "ar": "حتى ⁦12,000⁩ م³/ساعة؛ رفع حتى ⁦85⁩ م؛ ضغط حتى ⁦3400⁩ كيلوباسكال؛ أكبر حبيبة ⁦205⁩ مم؛ دفّاعة مفتوحة بمحرّض"
+            }
+          }
+        },
+        {
+          "code": "BX-0020-01-007",
+          "name": {
+            "en": "Vertical sump pumps NPSP (R)",
+            "ar": "مضخات أحواض رأسية ⁦NPSP (R⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "Outlet 1.5–12 in; depth to 2.1 m with extension",
+              "ar": "مخرج ⁦1.5⁠–⁠12⁩ بوصة؛ عمق حتى ⁦2.1⁩ م بالتمديد"
+            },
+            "data": {
+              "en": "Up to 1730 m³/h; head to 34 m; pressure to 800 kPa; max. particle 80 mm; cantilever shaft, no submerged bearings",
+              "ar": "حتى ⁦1730⁩ م³/ساعة؛ رفع حتى ⁦34⁩ م؛ ضغط حتى ⁦800⁩ كيلوباسكال؛ أكبر حبيبة ⁦80⁩ مم؛ عمود معلّق بلا محامل مغمورة"
+            }
+          }
+        },
+        {
+          "code": "BX-0020-01-008",
+          "name": {
+            "en": "Single-casing slurry pumps NPXU",
+            "ar": "مضخات لب بغلاف واحد ⁦NPXU⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "NPXU",
+              "ar": "NPXU"
+            },
+            "data": {
+              "en": "Medium and low head; simple design, easy maintenance; for tailings and aggregate transfer",
+              "ar": "رفع متوسط ومنخفض؛ تصميم بسيط وصيانة سهلة؛ لنقل المخلفات والركام"
+            }
+          }
+        },
+        {
+          "code": "BX-0020-01-009",
+          "name": {
+            "en": "Vortex (recessed-impeller) pumps NPTC",
+            "ar": "مضخات دوامية (دفّاعة غائرة) ⁦NPTC⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "Horizontal and vertical",
+              "ar": "أفقية ورأسية"
+            },
+            "data": {
+              "en": "Low-shear transfer of activated carbon and fragile solids without breakage; for CIP / CIL circuits",
+              "ar": "نقل الكربون المنشط والمواد الهشة دون تكسيرها؛ لدوائر ⁦CIP / CIL⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0020-01-012",
+          "name": {
+            "en": "Interchangeable slurry pump wet-end parts",
+            "ar": "قطع الجزء الرطب القابلة للتبديل لمضخات اللب"
+          },
+          "specs": {
+            "models": {
+              "en": "Impellers, volute liners, throat bushes, frame-plate liners, rings",
+              "ar": "دفّاعات وبطانات الحلزون وجلب الحلق وبطانات لوح الإطار وحلقات"
+            },
+            "data": {
+              "en": "High-chrome A05, A07, A49, A61, rubber and ceramic; fit common AH-type pumps",
+              "ar": "عالية الكروم ⁦A05⁩ و⁦A07⁩ و⁦A49⁩ و⁦A61⁩، ومطاط وسيراميك؛ تناسب مضخات ⁦AH⁩ الشائعة"
+            }
+          }
+        },
+        {
+          "code": "BX-0020-01-013",
+          "name": {
+            "en": "Slurry pump sealing and rotating parts",
+            "ar": "قطع الإحكام والأجزاء الدوّارة لمضخات اللب"
+          },
+          "specs": {
+            "models": {
+              "en": "Expellers, packings, mechanical seals, shaft sleeves, bearing assemblies",
+              "ar": "طاردات وحشوات وموانع تسرب ميكانيكية وجلب أعمدة ومجموعات محامل"
+            },
+            "data": {
+              "en": "Gland and drive-end parts",
+              "ar": "قطع الحشوة وطرف الإدارة"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1730–25,000 m³/h",
+        "ar": "⁦1730⁠–⁠25,000⁩ م³/ساعة"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

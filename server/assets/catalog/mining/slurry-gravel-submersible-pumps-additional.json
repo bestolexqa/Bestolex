@@ -1,0 +1,185 @@
+{
+  "id": "slurry-gravel-submersible-pumps-additional",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-07 Ed5⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-07 Ed5 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Slurry, gravel, dredge and submersible pumps – additional series",
+        "ar": "مضخات لب وحصى وكراكات وغاطسة – سلاسل إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0024-02-001",
+          "name": {
+            "en": "AM / AMH / MM horizontal slurry pumps",
+            "ar": "مضخات لب أفقية ⁦AM / AMH / MM⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "1.5/1B-AM to 20/18TU-AM (20 sizes)",
+              "ar": "من ⁦1.5/1B-AM⁩ إلى ⁦20/18TU-AM⁩ ‏(⁦20⁩ مقاساً)"
+            },
+            "data": {
+              "en": "Cantilever; metal (M) or rubber (RU) liners and impellers; max. power 15–1200 kW; e.g. 3/2C-AM 39.6–86.4 m³/h, head 12–64 m; direct or belt drive",
+              "ar": "معلّقة؛ بطانات ودفّاعات معدنية (⁦M⁩) أو مطاطية (⁦RU⁩)؛ أقصى قدرة ⁦15⁠–⁠1200⁩ كيلوواط؛ مثال ⁦3/2C-AM⁩ ‏⁦39.6⁠–⁠86.4⁩ م³/ساعة ورفع ⁦12⁠–⁠64⁩ م؛ إدارة مباشرة أو بالسيور"
+            }
+          }
+        },
+        {
+          "code": "BX-0024-03-001",
+          "name": {
+            "en": "AMG / AMGH gravel and sand pumps",
+            "ar": "مضخات الحصى والرمل ⁦AMG / AMGH⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "6/4D-AMG to 16/14TU-AMGH (9 sizes)",
+              "ar": "من ⁦6/4D-AMG⁩ إلى ⁦16/14TU-AMGH⁩ ‏(⁦9⁩ مقاسات)"
+            },
+            "data": {
+              "en": "Outlet 100–350 mm; 36–2800 m³/h; head 7–90 m; particles up to 82–241 mm; 60–1200 kW",
+              "ar": "مخرج ⁦100⁠–⁠350⁩ مم؛ ⁦36⁠–⁠2800⁩ م³/ساعة؛ رفع ⁦7⁠–⁠90⁩ م؛ حبيبات حتى ⁦82⁠–⁠241⁩ مم؛ ⁦60⁠–⁠1200⁩ كيلوواط"
+            }
+          }
+        },
+        {
+          "code": "BX-0024-03-002",
+          "name": {
+            "en": "AWN dredging pumps",
+            "ar": "مضخات كراكات ⁦AWN⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "200AWN to 1000AWN",
+              "ar": "من ⁦200AWN⁩ إلى ⁦1000AWN⁩"
+            },
+            "data": {
+              "en": "Outlet 200–1000 mm; 600–12000 m³/h; head 20–85 m; particles up to 144–354 mm",
+              "ar": "مخرج ⁦200⁠–⁠1000⁩ مم؛ ⁦600⁠–⁠12000⁩ م³/ساعة؛ رفع ⁦20⁠–⁠85⁩ م؛ حبيبات حتى ⁦144⁠–⁠354⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0024-04-001",
+          "name": {
+            "en": "AZ double-casing horizontal slurry pumps",
+            "ar": "مضخات لب أفقية ⁦AZ⁩ بغلاف مزدوج"
+          },
+          "specs": {
+            "models": {
+              "en": "AZ40 to AZ300",
+              "ar": "من ⁦AZ40⁩ إلى ⁦AZ300⁩"
+            },
+            "data": {
+              "en": "40–300 mm; vertically split double casing; outlet turns in 45° steps; media up to 80 °C (110 °C special)",
+              "ar": "⁦40⁠–⁠300⁩ مم؛ غلاف مزدوج مشقوق رأسياً؛ المخرج يدور بخطوات ⁦45°⁩؛ حرارة الوسط حتى ⁦80 °⁩م (⁦110 °⁩م خاص)"
+            }
+          }
+        },
+        {
+          "code": "BX-0024-04-002",
+          "name": {
+            "en": "AZL vertical slurry pumps",
+            "ar": "مضخات لب رأسية ⁦AZL⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "AZL50, AZL65, AZL80, AZL100, AZL150",
+              "ar": "⁦AZL50, AZL65, AZL80, AZL100, AZL150⁩"
+            },
+            "data": {
+              "en": "Sump pumps, outlet 50–150 mm",
+              "ar": "مضخات أحواض، مخرج ⁦50⁠–⁠150⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0024-05-001",
+          "name": {
+            "en": "QSZ submersible slurry pumps",
+            "ar": "مضخات لب غاطسة ⁦QSZ⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "QSZ7-25-15 to QSZ2000-35-315",
+              "ar": "من ⁦QSZ7-25-15⁩ إلى ⁦QSZ2000-35-315⁩"
+            },
+            "data": {
+              "en": "Pump and motor on one shaft; 7–2000 m³/h; head 15–60 m; 4–315 kW; 380 V 50 Hz; rubber hose outlet",
+              "ar": "المضخة والمحرك على عمود واحد؛ ⁦7⁠–⁠2000⁩ م³/ساعة؛ رفع ⁦15⁠–⁠60⁩ م؛ ⁦4⁠–⁠315⁩ كيلوواط؛ ⁦380⁩ فولت ⁦50⁩ هرتز؛ مخرج لخرطوم مطاطي"
+            }
+          }
+        },
+        {
+          "code": "BX-0024-02-002",
+          "name": {
+            "en": "Wet-end wear parts and shaft seals",
+            "ar": "قطع تآكل الجزء الرطب وموانع تسرب العمود"
+          },
+          "specs": {
+            "models": {
+              "en": "For the series above",
+              "ar": "للسلاسل أعلاه"
+            },
+            "data": {
+              "en": "High-chrome or rubber liners and impellers; expeller, packing or mechanical seals",
+              "ar": "بطانات ودفّاعات عالية الكروم أو مطاطية؛ موانع تسرب طاردة أو بالحشوة أو ميكانيكية"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "7–12000 m³/h",
+        "ar": "⁦7⁠–⁠12000⁩ م³/ساعة"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

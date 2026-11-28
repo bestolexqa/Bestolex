@@ -22387,6 +22387,2480 @@
         ]
       },
       {
+        "id": "pumps-slurry-handling",
+        "title": {
+          "ar": "المضخات ونقل اللب",
+          "en": "Pumps & Slurry Handling"
+        },
+        "products": [
+          {
+            "id": "horizontal-slurry-pumps",
+            "name": {
+              "ar": "مضخات اللب الأفقية",
+              "en": "Horizontal Slurry Pumps"
+            },
+            "coverImage": "/products/horizontal-slurry-pumps/horizontal-slurry-pumps.webp",
+            "description": {
+              "ar": "مضخات طاردة مركزية أفقية للب الخام والمركّز والمخلفات، ببطانات من سبيكة مقاومة للتآكل أو من المطاط، من ⁦2.3⁩ إلى ⁦7920⁩ م³/ساعة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Horizontal centrifugal pumps for ore slurry, concentrate and tailings, with wear-resistant alloy or rubber liners, from 2.3 to 7920 m³/h.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "سلسلة ⁦DH(R⁩) الثقيلة بـ ⁦11⁩ مقاساً حتى ⁦5400⁩ م³/ساعة",
+                "⁦9⁩ مضخات ⁦DM(R⁩) من ⁦2.34⁩ إلى ⁦2800⁩ م³/ساعة",
+                "بطانات معدنية أو مطاطية",
+                "كفاءة قصوى حتى ⁦81%⁩"
+              ],
+              "en": [
+                "Heavy-duty DH(R) series in 11 sizes up to 5400 m³/h",
+                "9 DM(R) pumps from 2.34 to 2800 m³/h",
+                "Metal or rubber-lined wet ends",
+                "Maximum efficiency up to 81%"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "التدفق",
+                  "value": "⁦2.34⁠–⁠5400⁩ م³/ساعة"
+                },
+                {
+                  "label": "الرفع",
+                  "value": "⁦4⁠–⁠68⁩ م"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦7.5⁠–⁠1200⁩ كيلوواط"
+                },
+                {
+                  "label": "البطانة",
+                  "value": "معدنية أو مطاطية"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Flow",
+                  "value": "2.34–5400 m³/h"
+                },
+                {
+                  "label": "Head",
+                  "value": "4–68 m"
+                },
+                {
+                  "label": "Power",
+                  "value": "7.5–1200 kW"
+                },
+                {
+                  "label": "Liner",
+                  "value": "Metal or rubber"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/horizontal-slurry-pumps/horizontal-slurry-pumps.webp"
+            ],
+            "image": "/products/horizontal-slurry-pumps/horizontal-slurry-pumps.webp",
+            "cardImage": "/products/horizontal-slurry-pumps/horizontal-slurry-pumps.webp",
+            "seo": {
+              "title": {
+                "ar": "مضخات اللب الأفقية DH(R) وDM(R)",
+                "en": "Horizontal Slurry Pumps DH(R) and DM(R)"
+              },
+              "description": {
+                "ar": "مضخات لب أفقية ⁦DH(R⁩) و⁦DM(R⁩) من ⁦2.34⁩ إلى ⁦5400⁩ م³/ساعة ببطانات معدنية أو مطاطية للب الخام والمركّز والمخلفات. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "DH(R) and DM(R) horizontal slurry pumps from 2.34 to 5400 m³/h with metal or rubber liners for ore slurry, concentrate and tailings. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مضخات لب أفقية لدوائر الطحن والمخلفات. اختر من الجدول أدناه.",
+              "en": "Horizontal slurry pumps for mill circuits and tailings. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لاختيار المضخة؟",
+                  "a": "التدفق المطلوب بالمتر المكعب في الساعة، والرفع الكلي، وكثافة اللب ونسبة المواد الصلبة، وأكبر حجم للحبيبات، ومصدر الكهرباء في الموقع."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to choose the pump?",
+                  "a": "The flow you need in m³/h, the total head, the slurry density and solids content, the largest particle size and the power available on site."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "20",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦2.34⁠–⁠5400⁩ م³/ساعة",
+                  "label": "التدفق"
+                },
+                {
+                  "value": "⁦4⁠–⁠68⁩ م",
+                  "label": "الرفع"
+                }
+              ],
+              "en": [
+                {
+                  "value": "20",
+                  "label": "Models"
+                },
+                {
+                  "value": "2.34–5400 m³/h",
+                  "label": "Flow"
+                },
+                {
+                  "value": "4–68 m",
+                  "label": "Head"
+                }
+              ]
+            }
+          },
+          {
+            "id": "gravel-dredge-pumps",
+            "name": {
+              "ar": "مضخات الحصى والكراكات",
+              "en": "Gravel & Dredge Pumps"
+            },
+            "coverImage": "/products/gravel-dredge-pumps/gravel-dredge-pumps.webp",
+            "description": {
+              "ar": "مضخات بممرات واسعة للحصى والرمل والتجريف الغريني، تمرّر حبيبات حتى ⁦254⁩ مم، ومضخات كراكات حتى ⁦25,000⁩ م³/ساعة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Large-passage pumps for gravel, sand and alluvial dredging, passing particles up to 254 mm, and dredge pumps up to 25,000 m³/h.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦9⁩ مضخات حصى ⁦DG⁩ و⁦DGH⁩ منها موديلات برفع عالٍ",
+                "حبيبات حتى ⁦254⁩ مم",
+                "مضخات كراكات ⁦TZW⁩ بمخرج ⁦200⁠–⁠1000⁩ مم",
+                "تدفق حتى ⁦25,000⁩ م³/ساعة ورفع حتى ⁦85⁩ م"
+              ],
+              "en": [
+                "9 DG and DGH gravel pumps including high-head models",
+                "Particles up to 254 mm",
+                "TZW dredge pumps with 200–1000 mm outlets",
+                "Flow up to 25,000 m³/h and head up to 85 m"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "التدفق",
+                  "value": "⁦36⁠–⁠25000⁩ م³/ساعة"
+                },
+                {
+                  "label": "الرفع",
+                  "value": "⁦3.5⁠–⁠85⁩ م"
+                },
+                {
+                  "label": "أكبر حبيبة",
+                  "value": "⁦82⁠–⁠254⁩ مم"
+                },
+                {
+                  "label": "مخرج مضخة الكراكة",
+                  "value": "⁦200⁠–⁠1000⁩ مم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Flow",
+                  "value": "36–25000 m³/h"
+                },
+                {
+                  "label": "Head",
+                  "value": "3.5–85 m"
+                },
+                {
+                  "label": "Max. particle",
+                  "value": "82–254 mm"
+                },
+                {
+                  "label": "Dredge pump outlet",
+                  "value": "200–1000 mm"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/gravel-dredge-pumps/gravel-dredge-pumps.webp"
+            ],
+            "image": "/products/gravel-dredge-pumps/gravel-dredge-pumps.webp",
+            "cardImage": "/products/gravel-dredge-pumps/gravel-dredge-pumps.webp",
+            "seo": {
+              "title": {
+                "ar": "مضخات الحصى DG ومضخات الكراكات TZW",
+                "en": "DG Gravel Pumps and TZW Dredge Pumps"
+              },
+              "description": {
+                "ar": "مضخات حصى ⁦DG⁩ و⁦DGH⁩ تمرّر حبيبات حتى ⁦254⁩ مم، ومضخات كراكات ⁦TZW⁩ حتى ⁦25,000⁩ م³/ساعة للتجريف الغريني والرمل والحصى. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "DG and DGH gravel pumps passing particles up to 254 mm and TZW dredge pumps up to 25,000 m³/h for alluvial dredging, sand and gravel. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مضخات حصى وكراكات للتجريف الغريني. اختر من الجدول أدناه.",
+              "en": "Gravel and dredge pumps for alluvial dredging. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لاختيار المضخة؟",
+                  "a": "التدفق المطلوب بالمتر المكعب في الساعة، والرفع الكلي، وكثافة اللب ونسبة المواد الصلبة، وأكبر حجم للحبيبات، ومصدر الكهرباء في الموقع."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to choose the pump?",
+                  "a": "The flow you need in m³/h, the total head, the slurry density and solids content, the largest particle size and the power available on site."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "21",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦36⁠–⁠25000⁩ م³/ساعة",
+                  "label": "التدفق"
+                },
+                {
+                  "value": "⁦3.5⁠–⁠85⁩ م",
+                  "label": "الرفع"
+                }
+              ],
+              "en": [
+                {
+                  "value": "21",
+                  "label": "Models"
+                },
+                {
+                  "value": "36–25000 m³/h",
+                  "label": "Flow"
+                },
+                {
+                  "value": "3.5–85 m",
+                  "label": "Head"
+                }
+              ]
+            }
+          },
+          {
+            "id": "vertical-sump-pumps",
+            "name": {
+              "ar": "مضخات الأحواض الرأسية",
+              "en": "Vertical Sump Pumps"
+            },
+            "coverImage": "/products/vertical-sump-pumps/vertical-sump-pumps.webp",
+            "description": {
+              "ar": "مضخات رأسية معلّقة لأحواض وحفر المصنع بلا مانع تسرب للعمود، بنسخ معدنية ومبطنة بالمطاط، وموديلات بعمود ممدد للأحواض العميقة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Cantilever vertical pumps for plant sumps and pits, with no shaft seal, in metal and rubber-lined versions and extended-shaft models for deep sumps.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦10⁩ مضخات ⁦DV(R⁩) معدنية أو مطاطية حتى ⁦1267⁩ م³/ساعة",
+                "مضخات ⁦VSB⁩ برفع حتى ⁦80.5⁩ م",
+                "بلا مانع تسرب للعمود وبلا ماء للحشوة",
+                "نسخ (⁦L⁩) بعمود ممدد للأحواض العميقة"
+              ],
+              "en": [
+                "10 DV(R) metal or rubber pumps up to 1267 m³/h",
+                "VSB pumps with head up to 80.5 m",
+                "No shaft seal and no gland water",
+                "(L) extended-shaft versions for deep sumps"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "التدفق",
+                  "value": "⁦6⁠–⁠1267⁩ م³/ساعة"
+                },
+                {
+                  "label": "الرفع",
+                  "value": "⁦2.4⁠–⁠80.5⁩ م"
+                },
+                {
+                  "label": "البطانة",
+                  "value": "معدنية أو مطاطية"
+                },
+                {
+                  "label": "قطر الدفّاعة",
+                  "value": "⁦188⁠–⁠610⁩ مم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Flow",
+                  "value": "6–1267 m³/h"
+                },
+                {
+                  "label": "Head",
+                  "value": "2.4–80.5 m"
+                },
+                {
+                  "label": "Liner",
+                  "value": "Metal or rubber"
+                },
+                {
+                  "label": "Impeller Ø",
+                  "value": "188–610 mm"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/vertical-sump-pumps/vertical-sump-pumps.webp"
+            ],
+            "image": "/products/vertical-sump-pumps/vertical-sump-pumps.webp",
+            "cardImage": "/products/vertical-sump-pumps/vertical-sump-pumps.webp",
+            "seo": {
+              "title": {
+                "ar": "مضخات الأحواض الرأسية DV(R) وVSB",
+                "en": "Vertical Sump Pumps DV(R) and VSB"
+              },
+              "description": {
+                "ar": "مضخات أحواض رأسية معلّقة ⁦DV(R⁩) معدنية ومطاطية و⁦VSB⁩ برفع عالٍ، بلا مانع تسرب للعمود، لأحواض وحفر مصانع الذهب. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "DV(R) metal and rubber cantilever sump pumps and VSB high-head pumps, with no shaft seal, for gold plant sumps and pits. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مضخات أحواض رأسية بلا مانع تسرب للعمود. اختر من الجدول أدناه.",
+              "en": "Vertical sump pumps with no shaft seal. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا مضخة الحوض بلا مانع تسرب؟",
+                  "a": "تصميمها المعلّق يجعل المحامل فوق مستوى اللب، فلا تحتاج مانع تسرب ولا ماء للحشوة، وتقل أعطالها في الأحواض الموحلة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why a sump pump with no shaft seal?",
+                  "a": "The cantilever design keeps the bearings above the slurry, so there is no seal or gland water to fail in muddy sumps."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "11",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦6⁠–⁠1267⁩ م³/ساعة",
+                  "label": "التدفق"
+                },
+                {
+                  "value": "⁦2.4⁠–⁠80.5⁩ م",
+                  "label": "الرفع"
+                }
+              ],
+              "en": [
+                {
+                  "value": "11",
+                  "label": "Models"
+                },
+                {
+                  "value": "6–1267 m³/h",
+                  "label": "Flow"
+                },
+                {
+                  "value": "2.4–80.5 m",
+                  "label": "Head"
+                }
+              ]
+            }
+          },
+          {
+            "id": "slurry-gravel-submersible-pumps-additional",
+            "name": {
+              "ar": "مضخات اللب والحصى والغاطسة – سلاسل إضافية",
+              "en": "Slurry, Gravel & Submersible Pumps – Additional Series"
+            },
+            "coverImage": "/products/slurry-gravel-submersible-pumps-additional/slurry-gravel-submersible-pumps-additional.webp",
+            "description": {
+              "ar": "سلاسل إضافية من مضخات اللب الأفقية والحصى والكراكات والرأسية والغاطسة بأجزاء رطبة معدنية أو مطاطية، من ⁦7⁩ إلى ⁦12,000⁩ م³/ساعة، مع قطع التآكل وموانع التسرب المناسبة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Additional horizontal slurry, gravel, dredge, vertical and submersible pump series with metal or rubber wet ends, from 7 to 12,000 m³/h, with matching wear parts and seals.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "مضخات ⁦AM / AMH / MM⁩ الأفقية بـ ⁦20⁩ مقاساً",
+                "مضخات حصى ⁦AMG⁩ ومضخات كراكات ⁦AWN⁩ حتى ⁦12,000⁩ م³/ساعة",
+                "مضخات ⁦AZ⁩ بغلاف مزدوج و⁦AZL⁩ رأسية",
+                "مضخات ⁦QSZ⁩ غاطسة حتى ⁦315⁩ كيلوواط"
+              ],
+              "en": [
+                "AM / AMH / MM horizontal pumps in 20 sizes",
+                "AMG gravel and AWN dredging pumps up to 12,000 m³/h",
+                "AZ double-casing and AZL vertical pumps",
+                "QSZ submersible pumps up to 315 kW"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "التدفق",
+                  "value": "⁦7⁠–⁠12000⁩ م³/ساعة"
+                },
+                {
+                  "label": "الرفع",
+                  "value": "⁦7⁠–⁠90⁩ م"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦4⁠–⁠1200⁩ كيلوواط"
+                },
+                {
+                  "label": "الأجزاء الرطبة",
+                  "value": "معدنية أو مطاطية"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Flow",
+                  "value": "7–12000 m³/h"
+                },
+                {
+                  "label": "Head",
+                  "value": "7–90 m"
+                },
+                {
+                  "label": "Power",
+                  "value": "4–1200 kW"
+                },
+                {
+                  "label": "Wet ends",
+                  "value": "Metal or rubber"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/slurry-gravel-submersible-pumps-additional/slurry-gravel-submersible-pumps-additional.webp"
+            ],
+            "image": "/products/slurry-gravel-submersible-pumps-additional/slurry-gravel-submersible-pumps-additional.webp",
+            "cardImage": "/products/slurry-gravel-submersible-pumps-additional/slurry-gravel-submersible-pumps-additional.webp",
+            "seo": {
+              "title": {
+                "ar": "مضخات لب وحصى وكراكات وغاطسة – سلاسل إضافية",
+                "en": "Slurry, Gravel, Dredge and Submersible Pumps"
+              },
+              "description": {
+                "ar": "مضخات ⁦AM⁩ و⁦AMG⁩ و⁦AWN⁩ و⁦AZ⁩ و⁦AZL⁩ و⁦QSZ⁩ من ⁦7⁩ إلى ⁦12,000⁩ م³/ساعة، بأجزاء رطبة معدنية أو مطاطية، مع قطع التآكل وموانع التسرب. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "AM, AMG, AWN, AZ, AZL and QSZ pumps from 7 to 12,000 m³/h, with metal or rubber wet ends, wear parts and seals. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "ست سلاسل إضافية من المضخات مع قطع تآكلها. اختر من الجدول أدناه.",
+              "en": "Six more pump series with their wear parts. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لاختيار المضخة؟",
+                  "a": "التدفق المطلوب بالمتر المكعب في الساعة، والرفع الكلي، وكثافة اللب ونسبة المواد الصلبة، وأكبر حجم للحبيبات، ومصدر الكهرباء في الموقع."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to choose the pump?",
+                  "a": "The flow you need in m³/h, the total head, the slurry density and solids content, the largest particle size and the power available on site."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "6",
+                  "label": "سلاسل مضخات"
+                },
+                {
+                  "value": "⁦7⁠–⁠12000⁩ م³/ساعة",
+                  "label": "التدفق"
+                },
+                {
+                  "value": "⁦7⁠–⁠90⁩ م",
+                  "label": "الرفع"
+                }
+              ],
+              "en": [
+                {
+                  "value": "6",
+                  "label": "Pump series"
+                },
+                {
+                  "value": "7–12000 m³/h",
+                  "label": "Flow"
+                },
+                {
+                  "value": "7–90 m",
+                  "label": "Head"
+                }
+              ]
+            }
+          },
+          {
+            "id": "slurry-froth-dredge-pumps-additional",
+            "name": {
+              "ar": "مضخات اللب والرغوة والكراكات – سلاسل إضافية",
+              "en": "Slurry, Froth & Dredge Pumps – Additional Series"
+            },
+            "coverImage": "/products/slurry-froth-dredge-pumps-additional/slurry-froth-dredge-pumps-additional.webp",
+            "description": {
+              "ar": "مضخات لب أفقية ثقيلة وخفيفة، ومضخات دائرة الطاحونة والحصى والكراكات والرغوة حتى ⁦25,000⁩ م³/ساعة، ومضخات أحواض رأسية، ومضخات دوامية تنقل الكربون المنشط في دوائر ⁦CIP⁩ و⁦CIL⁩ دون تكسيره، مع قطع قابلة للتبديل.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Heavy- and light-duty horizontal slurry pumps, mill-circuit, gravel, dredge and froth pumps up to 25,000 m³/h, vertical sump pumps, and low-shear vortex pumps that move activated carbon in CIP and CIL circuits, with interchangeable wet-end and sealing parts.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "مضخات ⁦NPAH⁩ الثقيلة حتى ⁦5400⁩ م³/ساعة ورفع ⁦100⁩ م",
+                "مضخات كراكات ⁦NPD⁩ حتى ⁦25,000⁩ م³/ساعة",
+                "مضخات رغوة ⁦NPAHF / NPAF⁩ بدفّاعة مفتوحة",
+                "مضخات ⁦NPTC⁩ الدوامية لنقل الكربون في ⁦CIP / CIL⁩"
+              ],
+              "en": [
+                "NPAH heavy-duty pumps up to 5400 m³/h and 100 m head",
+                "NPD dredge pumps up to 25,000 m³/h",
+                "NPAHF / NPAF froth pumps with open impeller",
+                "NPTC vortex pumps for carbon transfer in CIP / CIL"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "أقصى تدفق",
+                  "value": "⁦1730⁠–⁠25,000⁩ م³/ساعة"
+                },
+                {
+                  "label": "أقصى رفع",
+                  "value": "⁦34⁠–⁠100⁩ م"
+                },
+                {
+                  "label": "أكبر حبيبة",
+                  "value": "حتى ⁦500⁩ مم"
+                },
+                {
+                  "label": "الضغط",
+                  "value": "حتى ⁦6900⁩ كيلوباسكال"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Max. flow",
+                  "value": "1730–25,000 m³/h"
+                },
+                {
+                  "label": "Max. head",
+                  "value": "34–100 m"
+                },
+                {
+                  "label": "Max. particle",
+                  "value": "Up to 500 mm"
+                },
+                {
+                  "label": "Pressure",
+                  "value": "Up to 6900 kPa"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/slurry-froth-dredge-pumps-additional/slurry-froth-dredge-pumps-additional.webp"
+            ],
+            "image": "/products/slurry-froth-dredge-pumps-additional/slurry-froth-dredge-pumps-additional.webp",
+            "cardImage": "/products/slurry-froth-dredge-pumps-additional/slurry-froth-dredge-pumps-additional.webp",
+            "seo": {
+              "title": {
+                "ar": "مضخات اللب والرغوة والكراكات NPAH وNPD وNPTC",
+                "en": "Slurry, Froth and Dredge Pumps: NPAH, NPD, NPTC"
+              },
+              "description": {
+                "ar": "مضخات لب ثقيلة وخفيفة ودائرة الطاحونة والحصى والكراكات والرغوة حتى ⁦25,000⁩ م³/ساعة، ومضخات دوامية لنقل الكربون في ⁦CIP⁩ و⁦CIL⁩. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Heavy and light slurry, mill-circuit, gravel, dredge and froth pumps up to 25,000 m³/h, and vortex pumps for carbon transfer in CIP and CIL. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "إحدى عشرة سلسلة إضافية للب والرغوة والكراكات. اختر من الجدول أدناه.",
+              "en": "Eleven more slurry, froth and dredge series. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا مضخة دوامية لنقل الكربون؟",
+                  "a": "الدفّاعة الغائرة تنقل الكربون المنشط والمواد الهشة دون تكسيرها، فيقل فقد الكربون والذهب المحمول عليه."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why a vortex pump to move carbon?",
+                  "a": "The recessed impeller moves activated carbon and fragile solids without breaking them, cutting the loss of carbon and the gold on it."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "11",
+                  "label": "سلسلة"
+                },
+                {
+                  "value": "⁦25,000⁩ م³/ساعة",
+                  "label": "أقصى تدفق"
+                },
+                {
+                  "value": "⁦100⁩ م",
+                  "label": "أقصى رفع"
+                }
+              ],
+              "en": [
+                {
+                  "value": "11",
+                  "label": "Series"
+                },
+                {
+                  "value": "25,000 m³/h",
+                  "label": "Max. flow"
+                },
+                {
+                  "value": "100 m",
+                  "label": "Max. head"
+                }
+              ]
+            }
+          },
+          {
+            "id": "submersible-hydraulic-slurry-pumps",
+            "name": {
+              "ar": "مضخات اللب الغاطسة والهيدروليكية",
+              "en": "Submersible & Hydraulic Slurry Pumps"
+            },
+            "coverImage": "/products/submersible-hydraulic-slurry-pumps/submersible-hydraulic-slurry-pumps.webp",
+            "description": {
+              "ar": "مضخات لب غاطسة كهربائية وهيدروليكية تعمل مباشرة في البرك والحفر ومناطق التجريف، منها مجموعات تُركّب على الحفار.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Electric and hydraulic submersible slurry pumps that work directly in ponds, pits and dredging areas, including excavator-mounted pump packages.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "مضخات ⁦DZQ(J⁩) الكهربائية بمحرّض سفلي وغمر حتى ⁦150⁩ م",
+                "مضخات ⁦YZQ⁩ و⁦YZQJ⁩ الهيدروليكية بمحرّضات جانبية",
+                "مجموعات تُركّب على حفارات ⁦1⁠–⁠80⁩ طن",
+                "تدفق حتى ⁦4000⁩ م³/ساعة"
+              ],
+              "en": [
+                "DZQ(J) electric pumps with bottom agitator, up to 150 m submergence",
+                "YZQ and YZQJ hydraulic pumps with side agitators",
+                "Packages for 1–80 t excavators",
+                "Flow up to 4000 m³/h"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "التدفق",
+                  "value": "⁦15⁠–⁠4000⁩ م³/ساعة"
+                },
+                {
+                  "label": "الرفع",
+                  "value": "⁦10⁠–⁠125⁩ م"
+                },
+                {
+                  "label": "الإدارة",
+                  "value": "كهربائية أو هيدروليكية"
+                },
+                {
+                  "label": "قدرة YZQJ",
+                  "value": "⁦18⁠–⁠295⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Flow",
+                  "value": "15–4000 m³/h"
+                },
+                {
+                  "label": "Head",
+                  "value": "10–125 m"
+                },
+                {
+                  "label": "Drive",
+                  "value": "Electric or hydraulic"
+                },
+                {
+                  "label": "YZQJ power",
+                  "value": "18–295 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/submersible-hydraulic-slurry-pumps/submersible-hydraulic-slurry-pumps.webp"
+            ],
+            "image": "/products/submersible-hydraulic-slurry-pumps/submersible-hydraulic-slurry-pumps.webp",
+            "cardImage": "/products/submersible-hydraulic-slurry-pumps/submersible-hydraulic-slurry-pumps.webp",
+            "seo": {
+              "title": {
+                "ar": "مضخات اللب الغاطسة والهيدروليكية للبرك والتجريف",
+                "en": "Submersible and Hydraulic Slurry Pumps for Ponds and Dredging"
+              },
+              "description": {
+                "ar": "مضخات لب غاطسة كهربائية ⁦DZQ(J⁩) وهيدروليكية ⁦YZQ⁩ و⁦YZQJ⁩، ومجموعات تُركّب على الحفار حتى ⁦4000⁩ م³/ساعة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "DZQ(J) electric and YZQ and YZQJ hydraulic submersible slurry pumps, and excavator-mounted packages up to 4000 m³/h. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مضخات لب تعمل داخل البرك والحفر مباشرة. اختر من الجدول أدناه.",
+              "en": "Slurry pumps that work right inside ponds and pits. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "متى أختار المضخة الهيدروليكية؟",
+                  "a": "حين لا تتوفر كهرباء في نقطة الضخ، أو حين تريد تركيبها على ذراع الحفار وتشغيلها من هيدروليكه."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "When should I choose a hydraulic pump?",
+                  "a": "When there is no power at the pumping point, or when you want to mount it on an excavator arm and run it from the excavator hydraulics."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "4",
+                  "label": "موديلات"
+                },
+                {
+                  "value": "⁦15⁠–⁠4000⁩ م³/ساعة",
+                  "label": "التدفق"
+                },
+                {
+                  "value": "⁦10⁠–⁠125⁩ م",
+                  "label": "الرفع"
+                }
+              ],
+              "en": [
+                {
+                  "value": "4",
+                  "label": "Models"
+                },
+                {
+                  "value": "15–4000 m³/h",
+                  "label": "Flow"
+                },
+                {
+                  "value": "10–125 m",
+                  "label": "Head"
+                }
+              ]
+            }
+          },
+          {
+            "id": "dewatering-water-deep-well-pumps",
+            "name": {
+              "ar": "مضخات النزح والمياه والآبار العميقة",
+              "en": "Dewatering, Water & Deep-Well Pumps"
+            },
+            "coverImage": "/products/dewatering-water-deep-well-pumps/dewatering-water-deep-well-pumps.webp",
+            "description": {
+              "ar": "مضخات ذاتية التحضير وغاطسة لنزح الحفر، ومضخات آبار عميقة لإمداد المياه، ومضخات بسحب طرفي لمياه المعالجة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Self-priming and submersible pumps for pit dewatering, deep-well pumps for water supply, and end-suction pumps for process water.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "مضخات ذاتية التحضير حتى ⁦15,000⁩ م³/ساعة، ونسخة على هيكل ديزل",
+                "مضخات نزح غاطسة ⁦TRZ⁩ حتى ⁦6000⁩ م³/ساعة",
+                "مضخات آبار عميقة ⁦TQJ⁩ برفع حتى ⁦450⁩ م",
+                "مضخات بسحب طرفي لمياه المعالجة"
+              ],
+              "en": [
+                "Self-priming pumps up to 15,000 m³/h, with a diesel skid version",
+                "TRZ submersible dewatering pumps up to 6000 m³/h",
+                "TQJ deep-well pumps with head up to 450 m",
+                "End-suction pumps for process water"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "التدفق",
+                  "value": "⁦3.8⁠–⁠15000⁩ م³/ساعة"
+                },
+                {
+                  "label": "الرفع",
+                  "value": "⁦3⁠–⁠450⁩ م"
+                },
+                {
+                  "label": "التحضير الذاتي",
+                  "value": "حتى ⁦8.8⁩ م"
+                },
+                {
+                  "label": "قطر البئر",
+                  "value": "⁦150⁠–⁠550⁩ مم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Flow",
+                  "value": "3.8–15000 m³/h"
+                },
+                {
+                  "label": "Head",
+                  "value": "3–450 m"
+                },
+                {
+                  "label": "Self-priming",
+                  "value": "Up to 8.8 m"
+                },
+                {
+                  "label": "Well diameter",
+                  "value": "150–550 mm"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/dewatering-water-deep-well-pumps/dewatering-water-deep-well-pumps.webp"
+            ],
+            "image": "/products/dewatering-water-deep-well-pumps/dewatering-water-deep-well-pumps.webp",
+            "cardImage": "/products/dewatering-water-deep-well-pumps/dewatering-water-deep-well-pumps.webp",
+            "seo": {
+              "title": {
+                "ar": "مضخات النزح والمياه والآبار العميقة للمناجم",
+                "en": "Dewatering, Water and Deep-Well Pumps for Mines"
+              },
+              "description": {
+                "ar": "مضخات ذاتية التحضير وغاطسة لنزح الحفر حتى ⁦15,000⁩ م³/ساعة، ومضخات آبار عميقة ⁦TQJ⁩، ومضخات بسحب طرفي لمياه المعالجة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Self-priming and submersible pit dewatering pumps up to 15,000 m³/h, TQJ deep-well pumps and end-suction pumps for process water. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مضخات لنزح الحفر وإمداد المياه. اختر من الجدول أدناه.",
+              "en": "Pumps for pit dewatering and water supply. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لاختيار المضخة؟",
+                  "a": "التدفق المطلوب بالمتر المكعب في الساعة، والرفع الكلي، وكثافة اللب ونسبة المواد الصلبة، وأكبر حجم للحبيبات، ومصدر الكهرباء في الموقع."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to choose the pump?",
+                  "a": "The flow you need in m³/h, the total head, the slurry density and solids content, the largest particle size and the power available on site."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "6",
+                  "label": "موديلات"
+                },
+                {
+                  "value": "⁦3.8⁠–⁠15000⁩ م³/ساعة",
+                  "label": "التدفق"
+                },
+                {
+                  "value": "⁦3⁠–⁠450⁩ م",
+                  "label": "الرفع"
+                }
+              ],
+              "en": [
+                {
+                  "value": "6",
+                  "label": "Models"
+                },
+                {
+                  "value": "3.8–15000 m³/h",
+                  "label": "Flow"
+                },
+                {
+                  "value": "3–450 m",
+                  "label": "Head"
+                }
+              ]
+            }
+          },
+          {
+            "id": "submersible-drainage-borehole-pumps",
+            "name": {
+              "ar": "المضخات الغاطسة والتصريف والآبار – سلاسل إضافية",
+              "en": "Submersible, Drainage & Borehole Pumps – Additional Series"
+            },
+            "coverImage": "/products/submersible-drainage-borehole-pumps/submersible-drainage-borehole-pumps.webp",
+            "description": {
+              "ar": "مضخات لب وحمأة غاطسة بمحرّضات، ومضخات تصريف برفع حتى ⁦140⁩ م للحفر العميقة، ومضخات صغيرة بمخرج ⁦50⁩ مم للمواقع الصغيرة، ومضخات صرف ومياه نقية، ومضخات آبار متعددة المراحل ولولبية، وأنظمة ضخ بالطاقة الشمسية.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Submersible slurry and sludge pumps with agitators, high-head drainage pumps to 140 m for deep pits, small 50 mm pumps for small sites, sewage and clear-water drainage pumps, multistage and screw borehole pumps, and solar pumping systems.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "مضخات لب غاطسة ⁦NQ⁩ و⁦KBS⁩ و⁦QNS⁩ بمحرّض",
+                "مضخات ⁦SH⁩ برفع حتى ⁦140⁩ م للمناجم العميقة",
+                "مضخات آبار غاطسة بمحركات مبرّدة بالزيت",
+                "أنظمة ضخ بالطاقة الشمسية للآبار والسطح"
+              ],
+              "en": [
+                "NQ, KBS and QNS submersible slurry pumps with agitator",
+                "SH pumps with head up to 140 m for deep mines",
+                "Submersible borehole pumps with oil-cooled motors",
+                "Solar pumping systems for boreholes and surface"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "أقصى رفع",
+                  "value": "⁦140⁩ م"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦0.12⁠–⁠110⁩ كيلوواط"
+                },
+                {
+                  "label": "الحماية",
+                  "value": "IP68"
+                },
+                {
+                  "label": "الطاقة",
+                  "value": "كهرباء أو طاقة شمسية"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Max. head",
+                  "value": "140 m"
+                },
+                {
+                  "label": "Power",
+                  "value": "0.12–110 kW"
+                },
+                {
+                  "label": "Protection",
+                  "value": "IP68"
+                },
+                {
+                  "label": "Power source",
+                  "value": "Electric or solar"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/submersible-drainage-borehole-pumps/submersible-drainage-borehole-pumps.webp"
+            ],
+            "image": "/products/submersible-drainage-borehole-pumps/submersible-drainage-borehole-pumps.webp",
+            "cardImage": "/products/submersible-drainage-borehole-pumps/submersible-drainage-borehole-pumps.webp",
+            "seo": {
+              "title": {
+                "ar": "المضخات الغاطسة ومضخات التصريف والآبار والطاقة الشمسية",
+                "en": "Submersible, Drainage, Borehole and Solar Pumps"
+              },
+              "description": {
+                "ar": "مضخات لب وحمأة غاطسة، ومضخات تصريف برفع حتى ⁦140⁩ م، ومضخات آبار ولولبية، وأنظمة ضخ بالطاقة الشمسية لمواقع التعدين. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Submersible slurry and sludge pumps, drainage pumps to 140 m head, borehole and screw pumps, and solar pumping systems for mine sites. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أربع عشرة سلسلة من المضخات الغاطسة ومضخات الآبار. اختر من الجدول أدناه.",
+              "en": "Fourteen submersible and borehole pump lines. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل تتوفر مضخات تعمل بالطاقة الشمسية؟",
+                  "a": "نعم. أنظمة ضخ شمسية لمضخات الآبار والمضخات السطحية مع وحدات التحكم، وتناسب المواقع البعيدة عن الشبكة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Are solar-powered pumps available?",
+                  "a": "Yes. Solar pumping systems for borehole and surface pumps with their controllers, suited to sites far from the grid."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "14",
+                  "label": "خط منتجات"
+                },
+                {
+                  "value": "⁦140⁩ م",
+                  "label": "أقصى رفع"
+                },
+                {
+                  "value": "⁦0.12⁠–⁠110⁩ كيلوواط",
+                  "label": "القدرة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "14",
+                  "label": "Product lines"
+                },
+                {
+                  "value": "140 m",
+                  "label": "Max. head"
+                },
+                {
+                  "value": "0.12–110 kW",
+                  "label": "Power"
+                }
+              ]
+            }
+          },
+          {
+            "id": "water-process-engine-driven-pumps",
+            "name": {
+              "ar": "مضخات المياه والمعالجة والمضخات بمحرك",
+              "en": "Water, Process & Engine-Driven Pumps"
+            },
+            "coverImage": "/products/water-process-engine-driven-pumps/water-process-engine-driven-pumps.webp",
+            "description": {
+              "ar": "مضخات بغلاف مشقوق وبسحب طرفي ومتعددة المراحل لمياه المعالجة والمخيمات، ومجموعات تعزيز من الستانلس بتحكم في السرعة، ومضخات صرف ذاتية التحضير، ومضخات مياه بالبنزين والديزل والكهرباء من ⁦2⁩ إلى ⁦6⁩ بوصات للغسيل والنزح في المواقع الصغيرة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Split-case, end-suction and multistage pumps for process and camp water, stainless booster sets with variable-speed control, self-priming sewage pumps, and petrol, diesel and electric 2–6 in water pumps for washing and dewatering at small sites.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "مضخات ⁦NS⁩ بسحب مزدوج لإمداد المياه",
+                "مضخات متعددة المراحل بمحركات ⁦IE3 / IE4 / IE5⁩",
+                "مجموعات تعزيز متغيرة التردد",
+                "مضخات مياه بالبنزين والديزل والكهرباء ⁦2⁠–⁠6⁩ بوصات"
+              ],
+              "en": [
+                "NS double-suction pumps for water supply",
+                "Multistage pumps with IE3 / IE4 / IE5 motors",
+                "Variable-frequency booster sets",
+                "Petrol, diesel and electric water pumps, 2–6 in"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "مضخات المحرك",
+                  "value": "⁦2⁠–⁠6⁩ بوصات"
+                },
+                {
+                  "label": "المحركات",
+                  "value": "⁦0.75⁠–⁠90⁩ كيلوواط"
+                },
+                {
+                  "label": "المواد",
+                  "value": "حديد زهر أو ستانلس ⁦304 / 316⁩"
+                },
+                {
+                  "label": "الوقود",
+                  "value": "بنزين أو ديزل أو كهرباء"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Engine pumps",
+                  "value": "2–6 in"
+                },
+                {
+                  "label": "Motors",
+                  "value": "0.75–90 kW"
+                },
+                {
+                  "label": "Materials",
+                  "value": "Cast iron or 304 / 316 stainless"
+                },
+                {
+                  "label": "Fuel",
+                  "value": "Petrol, diesel or electric"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/water-process-engine-driven-pumps/water-process-engine-driven-pumps.webp"
+            ],
+            "image": "/products/water-process-engine-driven-pumps/water-process-engine-driven-pumps.webp",
+            "cardImage": "/products/water-process-engine-driven-pumps/water-process-engine-driven-pumps.webp",
+            "seo": {
+              "title": {
+                "ar": "مضخات المياه والمعالجة ومضخات البنزين والديزل",
+                "en": "Water, Process, Petrol and Diesel Pumps"
+              },
+              "description": {
+                "ar": "مضخات بغلاف مشقوق وبسحب طرفي ومتعددة المراحل، ومجموعات تعزيز، ومضخات صرف، ومضخات مياه بالبنزين والديزل والكهرباء ⁦2⁠–⁠6⁩ بوصات. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Split-case, end-suction and multistage pumps, booster sets, sewage pumps and 2–6 in petrol, diesel and electric water pumps. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مضخات المياه للمصنع والمخيم والمواقع الصغيرة. اختر من الجدول أدناه.",
+              "en": "Water pumps for the plant, camp and small sites. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي مضخة تناسب موقعاً بلا كهرباء؟",
+                  "a": "مضخات المياه بالبنزين أو الديزل من ⁦2⁩ إلى ⁦6⁩ بوصات، أو أنظمة الضخ الشمسية في صفحة المضخات الغاطسة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which pump suits a site with no power?",
+                  "a": "The 2–6 in petrol or diesel water pumps, or the solar pumping systems on the submersible pumps page."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "12",
+                  "label": "سلسلة"
+                },
+                {
+                  "value": "⁦2⁠–⁠6⁩ بوصات",
+                  "label": "مضخات المحرك"
+                },
+                {
+                  "value": "⁦0.75⁠–⁠90⁩ كيلوواط",
+                  "label": "المحركات"
+                }
+              ],
+              "en": [
+                {
+                  "value": "12",
+                  "label": "Series"
+                },
+                {
+                  "value": "2–6 in",
+                  "label": "Engine pumps"
+                },
+                {
+                  "value": "0.75–90 kW",
+                  "label": "Motors"
+                }
+              ]
+            }
+          },
+          {
+            "id": "pump-wear-parts-slurry-hoses",
+            "name": {
+              "ar": "قطع تآكل المضخات وخراطيم اللب",
+              "en": "Pump Wear Parts & Slurry Hoses"
+            },
+            "coverImage": "/products/pump-wear-parts-slurry-hoses/pump-wear-parts-slurry-hoses.webp",
+            "description": {
+              "ar": "دفّاعات وبطانات وموانع تسرب من سبيكة عالية الكروم والمطاط والبولي يوريثان والسيراميك، وخراطيم لخطوط اللب والتجريف.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Impellers, liners and seals in high-chrome alloy, rubber, polyurethane and ceramic, and hoses for slurry and dredge lines.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "قطع عالية الكروم ⁦B05⁩ ‏(≥ ⁦56 HRC⁩) و⁦B07⁩ ‏(≥ ⁦59 HRC⁩)",
+                "قطع معدنية ومطاطية قابلة للتبادل مع مضخات اللب الشائعة",
+                "قطع للمضخات الغاطسة بصلادة ⁦650⁩+ برينل",
+                "خراطيم لب وتجريف بقطر ⁦50⁠–⁠1000⁩ مم"
+              ],
+              "en": [
+                "High-chrome B05 (≥ 56 HRC) and B07 (≥ 59 HRC) parts",
+                "Metal and rubber parts interchangeable with common slurry pumps",
+                "Submersible pump parts, 650+ Brinell",
+                "Slurry and dredge hose, 50–1000 mm"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المواد",
+                  "value": "كروم عالٍ، مطاط، بولي يوريثان، سيراميك"
+                },
+                {
+                  "label": "الصلادة",
+                  "value": "حتى ⁦650⁩+ برينل"
+                },
+                {
+                  "label": "قطر الخرطوم",
+                  "value": "⁦50⁠–⁠1000⁩ مم"
+                },
+                {
+                  "label": "ضغط الخرطوم",
+                  "value": "⁦3⁠–⁠30⁩ بار"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Materials",
+                  "value": "High-chrome, rubber, polyurethane, ceramic"
+                },
+                {
+                  "label": "Hardness",
+                  "value": "Up to 650+ Brinell"
+                },
+                {
+                  "label": "Hose diameter",
+                  "value": "50–1000 mm"
+                },
+                {
+                  "label": "Hose pressure",
+                  "value": "3–30 bar"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/pump-wear-parts-slurry-hoses/pump-wear-parts-slurry-hoses.webp"
+            ],
+            "image": "/products/pump-wear-parts-slurry-hoses/pump-wear-parts-slurry-hoses.webp",
+            "cardImage": "/products/pump-wear-parts-slurry-hoses/pump-wear-parts-slurry-hoses.webp",
+            "seo": {
+              "title": {
+                "ar": "قطع تآكل مضخات اللب وخراطيم اللب والتجريف",
+                "en": "Slurry Pump Wear Parts and Slurry and Dredge Hoses"
+              },
+              "description": {
+                "ar": "دفّاعات وبطانات وموانع تسرب عالية الكروم ومطاطية وبولي يوريثان وسيراميك، وخراطيم لب وتجريف ⁦50⁠–⁠1000⁩ مم. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "High-chrome, rubber, polyurethane and ceramic impellers, liners and seals, and 50–1000 mm slurry and dredge hoses. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "قطع غيار المضخات وخراطيم اللب. اختر من الجدول أدناه.",
+              "en": "Pump spare parts and slurry hoses. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لطلب قطع الغيار؟",
+                  "a": "موديل المضخة ومقاسها، ورقم القطعة أو صورتها، والمادة الحالية (كروم أو مطاط)، ووصف اللب الذي تضخه."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to order spare parts?",
+                  "a": "The pump model and size, the part number or a photo, the current material (chrome or rubber) and a description of the slurry it pumps."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "5",
+                  "label": "منتجات"
+                },
+                {
+                  "value": "⁦50⁠–⁠1000⁩ مم",
+                  "label": "قطر الخرطوم"
+                },
+                {
+                  "value": "⁦650⁩+ برينل",
+                  "label": "الصلادة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "5",
+                  "label": "Products"
+                },
+                {
+                  "value": "50–1000 mm",
+                  "label": "Hose diameter"
+                },
+                {
+                  "value": "650+ Brinell",
+                  "label": "Hardness"
+                }
+              ]
+            }
+          },
+          {
+            "id": "slurry-pipes-packings-gaskets",
+            "name": {
+              "ar": "أنابيب اللب وحشوات المضخات والجوانات",
+              "en": "Slurry Pipes, Pump Packings & Gaskets"
+            },
+            "coverImage": "/products/slurry-pipes-packings-gaskets/slurry-pipes-packings-gaskets.webp",
+            "description": {
+              "ar": "أنابيب ووصلات من ⁦UHMW-PE⁩ ومبطّنة بالخزف لخطوط اللب والمخلفات، مع حشوات ⁦PTFE⁩ والجرافيت وألواح جوانات خالية من الأسبستوس لإحكام المضخات والصمامات.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "UHMW-PE and ceramic-lined pipes and fittings for slurry and tailings lines, with PTFE and graphite gland packings and non-asbestos gasket sheet for pump and valve sealing.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "أنابيب ⁦UHMW-PE⁩ ذاتية التزييت وعالية المقاومة للتآكل",
+                "أنابيب ووصلات مبطّنة بألومينا ⁦92⁠–⁠99%⁩",
+                "حشوات ⁦PTFE⁩ من −⁦240⁩ إلى ⁦288 °⁩م",
+                "ألواح جوانات ⁦0.4⁠–⁠6⁩ مم حتى ⁦450 °⁩م"
+              ],
+              "en": [
+                "Self-lubricating, highly abrasion-resistant UHMW-PE pipe",
+                "Pipes and fittings lined with 92–99% alumina",
+                "PTFE packings from −240 to 288 °C",
+                "Gasket sheet 0.4–6 mm up to 450 °C"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "أنظمة الأنابيب",
+                  "value": "⁦UHMW-PE⁩ ومبطّنة بالخزف"
+                },
+                {
+                  "label": "حرارة الحشوة",
+                  "value": "−⁦240⁩ إلى ⁦288 °⁩م"
+                },
+                {
+                  "label": "سماكة الجوانات",
+                  "value": "⁦0.4⁠–⁠6⁩ مم"
+                },
+                {
+                  "label": "ضغط الحشوة",
+                  "value": "⁦2⁠–⁠25⁩ ميجاباسكال"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Pipe systems",
+                  "value": "UHMW-PE and ceramic-lined"
+                },
+                {
+                  "label": "Packing temp.",
+                  "value": "−240 to 288 °C"
+                },
+                {
+                  "label": "Gasket sheet",
+                  "value": "0.4–6 mm"
+                },
+                {
+                  "label": "Packing pressure",
+                  "value": "2–25 MPa"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/slurry-pipes-packings-gaskets/slurry-pipes-packings-gaskets.webp"
+            ],
+            "image": "/products/slurry-pipes-packings-gaskets/slurry-pipes-packings-gaskets.webp",
+            "cardImage": "/products/slurry-pipes-packings-gaskets/slurry-pipes-packings-gaskets.webp",
+            "seo": {
+              "title": {
+                "ar": "أنابيب اللب UHMW-PE والمبطّنة بالخزف وحشوات المضخات",
+                "en": "UHMW-PE and Ceramic-Lined Slurry Pipes, Pump Packings"
+              },
+              "description": {
+                "ar": "أنابيب ووصلات ⁦UHMW-PE⁩ ومبطّنة بالخزف لخطوط اللب والمخلفات، وحشوات ⁦PTFE⁩ والجرافيت، وألواح جوانات خالية من الأسبستوس. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "UHMW-PE and ceramic-lined pipes and fittings for slurry and tailings lines, PTFE and graphite packings and non-asbestos gasket sheet. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أنابيب لب مقاومة للتآكل ومواد الإحكام. اختر من الجدول أدناه.",
+              "en": "Wear-resistant slurry pipes and sealing materials. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "متى أختار الأنابيب المبطّنة بالخزف؟",
+                  "a": "للب شديد الكشط ونقل المواد السائبة، حيث يتآكل الفولاذ بسرعة، وخاصة في الأكواع."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "When should I choose ceramic-lined pipe?",
+                  "a": "For highly abrasive slurry and bulk transport, where steel wears quickly, especially at bends."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "2",
+                  "label": "نظاما أنابيب"
+                },
+                {
+                  "value": "⁦288 °⁩م",
+                  "label": "أقصى حرارة للحشوة"
+                },
+                {
+                  "value": "⁦0.4⁠–⁠6⁩ مم",
+                  "label": "ألواح الجوانات"
+                }
+              ],
+              "en": [
+                {
+                  "value": "2",
+                  "label": "Pipe systems"
+                },
+                {
+                  "value": "288 °C",
+                  "label": "Max. packing temp."
+                },
+                {
+                  "value": "0.4–6 mm",
+                  "label": "Gasket sheet"
+                }
+              ]
+            }
+          },
+          {
+            "id": "industrial-rubber-hydraulic-hoses",
+            "name": {
+              "ar": "الخراطيم المطاطية الصناعية والهيدروليكية",
+              "en": "Industrial Rubber & Hydraulic Hoses"
+            },
+            "coverImage": "/products/industrial-rubber-hydraulic-hoses/industrial-rubber-hydraulic-hoses.webp",
+            "description": {
+              "ar": "خراطيم للهواء والماء والوقود والكيماويات واللحام والمواد السائبة، وخراطيم تجريف مع وصلات تمدد وعوامات، وخراطيم مسطحة، وخراطيم هيدروليك ⁦SAE⁩ و⁦EN⁩ للحفارات والمضخات والمعدات الثقيلة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Air, water, fuel, chemical, welding and bulk-material hoses, dredging hoses with expansion joints and floaters, layflat hoses, and SAE / EN hydraulic hoses for drills, pumps, plant and heavy equipment.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "خراطيم هواء وماء ووقود حتى ⁦20⁩ بار",
+                "خراطيم تجريف حتى ⁦1300⁩ مم وعائمة ⁦11.8⁩ م",
+                "خراطيم هيدروليك مجدولة وحلزونية حتى ⁦45⁩ ميجاباسكال",
+                "خراطيم حريق وتصريف مسطحة ⁦1⁠–⁠10⁩ بوصات"
+              ],
+              "en": [
+                "Air, water and fuel hoses up to 20 bar",
+                "Dredging hoses to 1300 mm, floating lengths 11.8 m",
+                "Braided and spiral hydraulic hoses up to 45 MPa",
+                "Layflat fire and discharge hoses, 1–10 in"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "مدى المقاسات",
+                  "value": "⁦3/16⁩ بوصة–⁦1.3⁩ م"
+                },
+                {
+                  "label": "أقصى ضغط هيدروليكي",
+                  "value": "⁦45⁩ ميجاباسكال"
+                },
+                {
+                  "label": "خراطيم الهواء",
+                  "value": "⁦20⁩ بار، −⁦40⁩ إلى ⁦70 °⁩م"
+                },
+                {
+                  "label": "وصلات التمدد",
+                  "value": "⁦DN50–DN1500⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Bore",
+                  "value": "3/16 in–1.3 m"
+                },
+                {
+                  "label": "Max. hydraulic WP",
+                  "value": "45 MPa"
+                },
+                {
+                  "label": "Air hoses",
+                  "value": "20 bar, −40 to 70 °C"
+                },
+                {
+                  "label": "Expansion joints",
+                  "value": "DN50–DN1500"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/industrial-rubber-hydraulic-hoses/industrial-rubber-hydraulic-hoses.webp"
+            ],
+            "image": "/products/industrial-rubber-hydraulic-hoses/industrial-rubber-hydraulic-hoses.webp",
+            "cardImage": "/products/industrial-rubber-hydraulic-hoses/industrial-rubber-hydraulic-hoses.webp",
+            "seo": {
+              "title": {
+                "ar": "الخراطيم المطاطية الصناعية والهيدروليكية للتعدين",
+                "en": "Industrial Rubber and Hydraulic Hoses for Mining"
+              },
+              "description": {
+                "ar": "خراطيم هواء وماء ووقود وكيماويات ولحام ومواد سائبة وتجريف، ووصلات تمدد، وخراطيم مسطحة، وخراطيم هيدروليك حتى ⁦45⁩ ميجاباسكال. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Air, water, fuel, chemical, welding, bulk and dredging hoses, expansion joints, layflat hoses and hydraulic hoses up to 45 MPa. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "خراطيم صناعية وهيدروليكية للموقع والمصنع والكراكات. اختر من الجدول أدناه.",
+              "en": "Industrial and hydraulic hoses for site, plant and dredgers. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لطلب الخراطيم؟",
+                  "a": "نوع الوسط (هواء أو ماء أو وقود أو لب)، والقطر الداخلي، وضغط التشغيل، والطول، ونوع الأطراف."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to order hoses?",
+                  "a": "The medium (air, water, fuel or slurry), the bore, the working pressure, the length and the end fittings."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "12",
+                  "label": "مجموعة خراطيم"
+                },
+                {
+                  "value": "⁦1.3⁩ م",
+                  "label": "أكبر قطر"
+                },
+                {
+                  "value": "⁦45⁩ ميجاباسكال",
+                  "label": "أقصى ضغط هيدروليكي"
+                }
+              ],
+              "en": [
+                {
+                  "value": "12",
+                  "label": "Hose groups"
+                },
+                {
+                  "value": "1.3 m",
+                  "label": "Largest bore"
+                },
+                {
+                  "value": "45 MPa",
+                  "label": "Max. hydraulic WP"
+                }
+              ]
+            }
+          },
+          {
+            "id": "knife-gate-slurry-process-valves",
+            "name": {
+              "ar": "الصمامات السكينية وصمامات اللب والمعالجة",
+              "en": "Knife Gate, Slurry & Process Valves"
+            },
+            "coverImage": "/products/knife-gate-slurry-process-valves/knife-gate-slurry-process-valves.webp",
+            "description": {
+              "ar": "صمامات سكينية من ⁦DN50⁩ إلى ⁦DN1500⁩ للب والمخلفات ومياه المعالجة، بتصاميم مجلّدة وبممر كامل ورقاقية، مع صمامات عدم رجوع بلا طرق، وصمامات فراشة عالية الأداء، وصمامات مبطنة بالكامل لمحاليل الإذابة المسببة للتآكل.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Knife gate valves from DN50 to DN1500 for slurry, tailings and process water, with sleeved, through-conduit and wafer designs, plus non-slam check valves, high-performance butterfly valves and fully lined valves for corrosive leach solutions.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "صمامات سكينية مجلّدة بلا معدن ملامس للب",
+                "صمامات بممر كامل للخطوط عالية المواد الصلبة",
+                "صمامات عدم رجوع محورية وبقرص مائل حتى ⁦Class 2500⁩",
+                "صمامات مبطنة بالكامل لمحاليل الإذابة"
+              ],
+              "en": [
+                "Sleeved knife gates with no metal in contact with slurry",
+                "Through-conduit valves for high-solids lines",
+                "Axial and tilted-disc check valves up to Class 2500",
+                "Fully lined valves for leach solutions"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "مدى المقاسات",
+                  "value": "⁦DN15–DN2500⁩"
+                },
+                {
+                  "label": "أقصى فئة",
+                  "value": "CL2500"
+                },
+                {
+                  "label": "المواد",
+                  "value": "⁦CF8M⁩، ستانلس، حديد مطيلي، مطاط، ⁦PTFE⁩"
+                },
+                {
+                  "label": "التشغيل",
+                  "value": "يدوي أو كهربائي أو هوائي أو هيدروليكي"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Size range",
+                  "value": "DN15–DN2500"
+                },
+                {
+                  "label": "Max. class",
+                  "value": "CL2500"
+                },
+                {
+                  "label": "Materials",
+                  "value": "CF8M, stainless, ductile iron, rubber, PTFE"
+                },
+                {
+                  "label": "Operation",
+                  "value": "Manual, electric, pneumatic or hydraulic"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/knife-gate-slurry-process-valves/knife-gate-slurry-process-valves.webp"
+            ],
+            "image": "/products/knife-gate-slurry-process-valves/knife-gate-slurry-process-valves.webp",
+            "cardImage": "/products/knife-gate-slurry-process-valves/knife-gate-slurry-process-valves.webp",
+            "seo": {
+              "title": {
+                "ar": "الصمامات السكينية وصمامات اللب والمعالجة",
+                "en": "Knife Gate, Slurry and Process Valves"
+              },
+              "description": {
+                "ar": "صمامات سكينية مجلّدة وبممر كامل ورقاقية ⁦DN50–DN1500⁩، وصمامات عدم رجوع، وصمامات فراشة، وصمامات مبطنة لمحاليل الإذابة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Sleeved, through-conduit and wafer knife gate valves DN50–DN1500, check valves, butterfly valves and lined valves for leach solutions. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "صمامات لخطوط اللب والمخلفات ومحاليل المعالجة. اختر من الجدول أدناه.",
+              "en": "Valves for slurry, tailings and process lines. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي صمام سكيني للب الكاشط؟",
+                  "a": "الصمام المجلّد بجلبتين مطاطيتين، لأن اللب لا يلامس المعدن، والإغلاق محكم في الاتجاهين."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which knife gate valve suits abrasive slurry?",
+                  "a": "The sleeved valve with two rubber sleeves, because the slurry never touches metal and it shuts off tight in both directions."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "11",
+                  "label": "نوع صمام"
+                },
+                {
+                  "value": "⁦DN15–2500⁩",
+                  "label": "مدى المقاسات"
+                },
+                {
+                  "value": "CL2500",
+                  "label": "أقصى فئة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "11",
+                  "label": "Valve types"
+                },
+                {
+                  "value": "DN15–2500",
+                  "label": "Size range"
+                },
+                {
+                  "value": "CL2500",
+                  "label": "Max. class"
+                }
+              ]
+            }
+          },
+          {
+            "id": "water-line-valves-ductile-iron-steel",
+            "name": {
+              "ar": "صمامات خطوط المياه – حديد مطيلي وفولاذ",
+              "en": "Water-Line Valves – Ductile Iron & Steel"
+            },
+            "coverImage": "/products/water-line-valves-ductile-iron-steel/water-line-valves-ductile-iron-steel.webp",
+            "description": {
+              "ar": "صمامات بوابة وعدم رجوع وكروية الشكل وفراشة وكروية من الحديد المطيلي وفق ⁦AWWA⁩ و⁦BS⁩ و⁦EN⁩ و⁦DIN⁩، ومصافٍ وصمامات تنفيس الهواء وصمامات القدم، ووصلات تمدد وفك، وصمامات فولاذية مطروقة ومصبوبة حتى ⁦2500 LB⁩.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Ductile iron gate, check, globe, butterfly and ball valves to AWWA, BS, EN and DIN standards, strainers, air release and foot valves, expansion and dismantling joints, and forged and cast steel ball, check, gate and globe valves up to 2500 LB.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "صمامات بوابة من الحديد المطيلي ⁦AWWA C509 / C515⁩",
+                "صمامات فراشة وكروية وعدم رجوع للمياه",
+                "صمامات كروية فولاذية حتى ⁦6000 psi⁩",
+                "صمامات بوابة بإحكام ضغطي حتى ⁦2500 LB⁩"
+              ],
+              "en": [
+                "Ductile iron gate valves to AWWA C509 / C515",
+                "Butterfly, ball and check valves for water lines",
+                "Steel ball valves up to 6000 psi",
+                "Pressure-seal gate valves up to 2500 LB"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "فئات الفولاذ",
+                  "value": "⁦150–2500 LB⁩"
+                },
+                {
+                  "label": "أقصى صمام كروي",
+                  "value": "⁦6000 psi⁩"
+                },
+                {
+                  "label": "المعايير",
+                  "value": "⁦AWWA⁩، ⁦BS⁩، ⁦EN⁩، ⁦DIN⁩"
+                },
+                {
+                  "label": "المواد",
+                  "value": "حديد مطيلي، فولاذ كربوني، ستانلس"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Steel classes",
+                  "value": "150–2500 LB"
+                },
+                {
+                  "label": "Max. ball valve",
+                  "value": "6000 psi"
+                },
+                {
+                  "label": "Standards",
+                  "value": "AWWA, BS, EN, DIN"
+                },
+                {
+                  "label": "Materials",
+                  "value": "Ductile iron, carbon steel, stainless"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/water-line-valves-ductile-iron-steel/water-line-valves-ductile-iron-steel.webp"
+            ],
+            "image": "/products/water-line-valves-ductile-iron-steel/water-line-valves-ductile-iron-steel.webp",
+            "cardImage": "/products/water-line-valves-ductile-iron-steel/water-line-valves-ductile-iron-steel.webp",
+            "seo": {
+              "title": {
+                "ar": "صمامات خطوط المياه من الحديد المطيلي والفولاذ",
+                "en": "Ductile Iron and Steel Water-Line Valves"
+              },
+              "description": {
+                "ar": "صمامات بوابة وعدم رجوع وفراشة وكروية من الحديد المطيلي، ومصافٍ وصمامات هواء، وصمامات فولاذية حتى ⁦2500 LB⁩ لشبكات المياه. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Ductile iron gate, check, butterfly and ball valves, strainers and air valves, and steel valves up to 2500 LB for water networks. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "صمامات لشبكات مياه المصنع والمخيم. اختر من الجدول أدناه.",
+              "en": "Valves for plant and camp water networks. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل الصمامات وفق المعايير الأمريكية أو الأوروبية؟",
+                  "a": "كلاهما: صمامات الحديد المطيلي وفق ⁦AWWA⁩ و⁦BS⁩ و⁦EN⁩ و⁦DIN⁩، فاذكر المعيار المعتمد في مشروعك عند الطلب."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Are the valves to US or European standards?",
+                  "a": "Both: the ductile iron valves come to AWWA, BS, EN and DIN, so state the standard your project uses when you ask."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "10",
+                  "label": "مجموعات منتجات"
+                },
+                {
+                  "value": "⁦150–2500 LB⁩",
+                  "label": "فئات الفولاذ"
+                },
+                {
+                  "value": "⁦6000 psi⁩",
+                  "label": "أقصى صمام كروي"
+                }
+              ],
+              "en": [
+                {
+                  "value": "10",
+                  "label": "Product groups"
+                },
+                {
+                  "value": "150–2500 LB",
+                  "label": "Steel class"
+                },
+                {
+                  "value": "6000 psi",
+                  "label": "Max. ball valve"
+                }
+              ]
+            }
+          },
+          {
+            "id": "ductile-iron-steel-pipes-fittings-hoses",
+            "name": {
+              "ar": "أنابيب ووصلات الحديد المطيلي والفولاذ وخراطيم التعدين",
+              "en": "Ductile Iron & Steel Pipes, Fittings & Mining Hoses"
+            },
+            "coverImage": "/products/ductile-iron-steel-pipes-fittings-hoses/ductile-iron-steel-pipes-fittings-hoses.webp",
+            "description": {
+              "ar": "أنابيب ووصلات من الحديد المطيلي وفق ⁦ISO⁩ و⁦EN⁩ و⁦BS⁩ و⁦AWWA⁩، ووصلات شفاه وقارنات، ووصلات فولاذية باللحام التناكبي ⁦ASME B16.9⁩ ومجمّعات، مع خراطيم شفط الرمل وأخذ عينات المعادن المقاومة للتآكل.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Ductile iron pipes and fittings to ISO, EN, BS and AWWA standards, flange adaptors and couplings, ASME B16.9 steel butt-weld fittings and headers, plus abrasion-resistant sand suction and mineral sampling hoses.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "أنابيب حديد مطيلي ⁦ISO 2531 / EN 545 / EN 598⁩",
+                "وصلات وفق ⁦AWWA C110⁩ و⁦C153⁩",
+                "وصلات فولاذية ⁦ASME B16.9⁩ ووصلات خاصة حسب الطلب",
+                "خراطيم شفط الرمل وأخذ العينات حتى ⁦35⁩ بار"
+              ],
+              "en": [
+                "Ductile iron pipe to ISO 2531 / EN 545 / EN 598",
+                "Fittings to AWWA C110 and C153",
+                "ASME B16.9 steel fittings and special fittings to order",
+                "Sand suction and sampling hoses up to 35 bar"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "ضغط الخراطيم",
+                  "value": "⁦20⁠–⁠35⁩ بار"
+                },
+                {
+                  "label": "الوصلات الفولاذية",
+                  "value": "⁦ASME B16.9⁩"
+                },
+                {
+                  "label": "معايير الحديد المطيلي",
+                  "value": "⁦ISO⁩، ⁦EN⁩، ⁦BS⁩، ⁦AWWA⁩"
+                },
+                {
+                  "label": "طول خرطوم العينات",
+                  "value": "⁦61⁩ م"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Hose WP",
+                  "value": "20–35 bar"
+                },
+                {
+                  "label": "Steel fittings",
+                  "value": "ASME B16.9"
+                },
+                {
+                  "label": "Ductile iron standards",
+                  "value": "ISO, EN, BS, AWWA"
+                },
+                {
+                  "label": "Sampling hose length",
+                  "value": "61 m"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/ductile-iron-steel-pipes-fittings-hoses/ductile-iron-steel-pipes-fittings-hoses.webp"
+            ],
+            "image": "/products/ductile-iron-steel-pipes-fittings-hoses/ductile-iron-steel-pipes-fittings-hoses.webp",
+            "cardImage": "/products/ductile-iron-steel-pipes-fittings-hoses/ductile-iron-steel-pipes-fittings-hoses.webp",
+            "seo": {
+              "title": {
+                "ar": "أنابيب الحديد المطيلي والوصلات الفولاذية وخراطيم التعدين",
+                "en": "Ductile Iron Pipes, Steel Fittings and Mining Hoses"
+              },
+              "description": {
+                "ar": "أنابيب ووصلات حديد مطيلي وفق ⁦ISO⁩ و⁦EN⁩ و⁦AWWA⁩، ووصلات فولاذية ⁦ASME B16.9⁩، وخراطيم شفط الرمل وأخذ عينات المعادن. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Ductile iron pipes and fittings to ISO, EN and AWWA, ASME B16.9 steel fittings, and sand suction and mineral sampling hoses. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أنابيب ووصلات وخراطيم لخطوط المياه والمواد. اختر من الجدول أدناه.",
+              "en": "Pipes, fittings and hoses for water and material lines. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل تُصنع الوصلات الخاصة حسب الرسم؟",
+                  "a": "نعم. المجمّعات والتفرعات والوصلات بشفة تُصنع حسب الطلب؛ أرسل الرسم أو المقاسات والضغط."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Can special fittings be made to drawing?",
+                  "a": "Yes. Headers, laterals and flanged fittings are made to order; send the drawing or the sizes and pressure."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "9",
+                  "label": "مجموعات منتجات"
+                },
+                {
+                  "value": "⁦20⁠–⁠35⁩ بار",
+                  "label": "ضغط الخراطيم"
+                },
+                {
+                  "value": "⁦B16.9⁩",
+                  "label": "الوصلات الفولاذية"
+                }
+              ],
+              "en": [
+                {
+                  "value": "9",
+                  "label": "Product groups"
+                },
+                {
+                  "value": "20–35 bar",
+                  "label": "Hose WP"
+                },
+                {
+                  "value": "B16.9",
+                  "label": "Steel fittings"
+                }
+              ]
+            }
+          },
+          {
+            "id": "knife-gate-valves-diaphragm-pumps",
+            "name": {
+              "ar": "الصمامات السكينية المنقسمة والمضخات الغشائية",
+              "en": "Knife Gate Valves & Diaphragm Pumps"
+            },
+            "coverImage": "/products/knife-gate-valves-diaphragm-pumps/knife-gate-valves-diaphragm-pumps.webp",
+            "description": {
+              "ar": "صمامات سكينية لخطوط اللب والمخلفات والتجريف بأجسام منقسمة ومقاعد من المطاط أو البولي يوريثان أو المعدن، مع مضخات غشائية تعمل بالهواء لتغذية مكابس الترشيح ونقل اللب.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Knife gate valves for slurry lines, tailings and dredging in split-body designs with rubber, polyurethane or metal seats, plus air-operated diaphragm pumps for filter-press feed and slurry transfer.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦7⁩ سلاسل صمامات سكينية بجسم منقسم ⁦DN50–DN4000⁩",
+                "مقاعد بولي يوريثان قابلة للتبديل للب الكاشط",
+                "ضغوط حتى ⁦PN40⁩ وحرارة حتى ⁦250 °⁩م",
+                "مضخات غشائية هوائية لتغذية مكابس الترشيح"
+              ],
+              "en": [
+                "7 split-body knife gate series, DN50–DN4000",
+                "Replaceable polyurethane seats for abrasive slurry",
+                "Pressures to PN40 and temperatures to 250 °C",
+                "Air-operated diaphragm pumps for filter-press feed"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "مقاسات الصمامات",
+                  "value": "⁦DN50–DN4000⁩"
+                },
+                {
+                  "label": "فئات الضغط",
+                  "value": "⁦PN10–PN40⁩"
+                },
+                {
+                  "label": "تدفق المضخة الغشائية",
+                  "value": "⁦1.62⁠–⁠63.6⁩ م³/ساعة"
+                },
+                {
+                  "label": "مواد الأغشية",
+                  "value": "سانتوبرين، ⁦PTFE⁩، ⁦EPDM⁩، ⁦NBR⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Valve sizes",
+                  "value": "DN50–DN4000"
+                },
+                {
+                  "label": "Pressure classes",
+                  "value": "PN10–PN40"
+                },
+                {
+                  "label": "Diaphragm pump flow",
+                  "value": "1.62–63.6 m³/h"
+                },
+                {
+                  "label": "Diaphragms",
+                  "value": "Santoprene, PTFE, EPDM, NBR"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/knife-gate-valves-diaphragm-pumps/knife-gate-valves-diaphragm-pumps.webp"
+            ],
+            "image": "/products/knife-gate-valves-diaphragm-pumps/knife-gate-valves-diaphragm-pumps.webp",
+            "cardImage": "/products/knife-gate-valves-diaphragm-pumps/knife-gate-valves-diaphragm-pumps.webp",
+            "seo": {
+              "title": {
+                "ar": "الصمامات السكينية المنقسمة والمضخات الغشائية الهوائية",
+                "en": "Split-Body Knife Gate Valves and Air Diaphragm Pumps"
+              },
+              "description": {
+                "ar": "صمامات سكينية بجسم منقسم ⁦DN50–DN4000⁩ لخطوط اللب والمخلفات والتجريف، ومضخات غشائية هوائية لتغذية مكابس الترشيح. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Split-body knife gate valves DN50–DN4000 for slurry, tailings and dredging lines, and air diaphragm pumps for filter-press feed. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "صمامات سكينية منقسمة ومضخات غشائية للب. اختر من الجدول أدناه.",
+              "en": "Split-body knife gates and diaphragm pumps for slurry. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما ميزة الجسم المنقسم؟",
+                  "a": "يسهّل تبديل المقاعد والبطانات المتآكلة دون فك الصمام كاملاً من الخط، فتقل مدة التوقف."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the advantage of a split body?",
+                  "a": "It makes worn seats and liners easier to replace without taking the whole valve out of the line, so downtime is shorter."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "13",
+                  "label": "سلسلة وموديلاً"
+                },
+                {
+                  "value": "⁦DN50–DN4000⁩",
+                  "label": "مقاسات الصمامات"
+                },
+                {
+                  "value": "⁦PN10–PN40⁩",
+                  "label": "فئات الضغط"
+                }
+              ],
+              "en": [
+                {
+                  "value": "13",
+                  "label": "Series & models"
+                },
+                {
+                  "value": "DN50–DN4000",
+                  "label": "Valve sizes"
+                },
+                {
+                  "value": "PN10–PN40",
+                  "label": "Pressure classes"
+                }
+              ]
+            }
+          },
+          {
+            "id": "knife-gate-valves-through-gate-self-sealing",
+            "name": {
+              "ar": "الصمامات السكينية – البوابة النافذة والإحكام الذاتي",
+              "en": "Knife Gate Valves – Through-Gate & Self-Sealing"
+            },
+            "coverImage": "/products/knife-gate-valves-through-gate-self-sealing/knife-gate-valves-through-gate-self-sealing.webp",
+            "description": {
+              "ar": "صمامات بوابة نافذة تُبقي المواد الصلبة خارج تجويف الجسم، وصمامات بإحكام ذاتي بمقاعد مطاطية قابلة للتبديل لتغذية الهيدروسيكلونات وخطوط لب الخام والكراكات.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Through-type gate valves that keep solids out of the body cavity, and self-sealing valves with replaceable rubber seats for hydrocyclone feeds, ore slurry lines and dredgers.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦3⁩ سلاسل بوابة نافذة ⁦DFQCA / DFQCB / DFQCG⁩",
+                "⁦5⁩ سلاسل بإحكام ذاتي لتغذية الهيدروسيكلونات",
+                "أجسام من ⁦Q235⁩ أو ⁦304⁩ أو ⁦316L⁩ أو دوبلكس ⁦2205 / 2507⁩",
+                "حرارة تشغيل من −⁦40⁩ إلى ⁦120 °⁩م"
+              ],
+              "en": [
+                "3 through-gate series: DFQCA / DFQCB / DFQCG",
+                "5 self-sealing series for hydrocyclone feed",
+                "Q235, 304, 316L or duplex 2205 / 2507 bodies",
+                "Working temperature −40 to 120 °C"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المقاسات",
+                  "value": "⁦DN50–DN2000⁩"
+                },
+                {
+                  "label": "حرارة التشغيل",
+                  "value": "−⁦40⁩ إلى ⁦120 °⁩م"
+                },
+                {
+                  "label": "الضغط",
+                  "value": "⁦PN10 / PN16 / 150LB⁩"
+                },
+                {
+                  "label": "المقعد",
+                  "value": "مطاط طبيعي قابل للتبديل"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Sizes",
+                  "value": "DN50–DN2000"
+                },
+                {
+                  "label": "Working temperature",
+                  "value": "−40 to 120 °C"
+                },
+                {
+                  "label": "Pressure",
+                  "value": "PN10 / PN16 / 150LB"
+                },
+                {
+                  "label": "Seat",
+                  "value": "Replaceable natural rubber"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/knife-gate-valves-through-gate-self-sealing/knife-gate-valves-through-gate-self-sealing.webp"
+            ],
+            "image": "/products/knife-gate-valves-through-gate-self-sealing/knife-gate-valves-through-gate-self-sealing.webp",
+            "cardImage": "/products/knife-gate-valves-through-gate-self-sealing/knife-gate-valves-through-gate-self-sealing.webp",
+            "seo": {
+              "title": {
+                "ar": "الصمامات السكينية بالبوابة النافذة والإحكام الذاتي",
+                "en": "Through-Gate and Self-Sealing Knife Gate Valves"
+              },
+              "description": {
+                "ar": "صمامات سكينية بالبوابة النافذة وبإحكام ذاتي ⁦DN50–DN2000⁩ لتغذية الهيدروسيكلونات وخطوط لب الخام والكراكات. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Through-gate and self-sealing knife gate valves DN50–DN2000 for hydrocyclone feed, ore slurry lines and dredgers. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "صمامات سكينية للهيدروسيكلونات ولب الخام. اختر من الجدول أدناه.",
+              "en": "Knife gates for hydrocyclones and ore slurry. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا البوابة النافذة؟",
+                  "a": "لأن البوابة تبقى في مسار التدفق فلا تتجمع المواد الصلبة في تجويف الجسم، فتعمل الصمامات طويلاً في اللب الكثيف."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why a through-type gate?",
+                  "a": "The gate stays in the flow path so solids do not pack into the body cavity, and the valve keeps working in dense slurry."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "8",
+                  "label": "سلاسل صمامات"
+                },
+                {
+                  "value": "⁦DN50–DN2000⁩",
+                  "label": "المقاسات"
+                },
+                {
+                  "value": "⁦120 °⁩م",
+                  "label": "أقصى حرارة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "8",
+                  "label": "Valve series"
+                },
+                {
+                  "value": "DN50–DN2000",
+                  "label": "Sizes"
+                },
+                {
+                  "value": "120 °C",
+                  "label": "Max. temperature"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
         "id": "laboratory-assay",
         "title": {
           "ar": "المختبر والتحليل",

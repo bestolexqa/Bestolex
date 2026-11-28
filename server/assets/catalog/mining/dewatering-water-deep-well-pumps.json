@@ -1,0 +1,225 @@
+{
+  "id": "dewatering-water-deep-well-pumps",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-07 Ed5⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-07 Ed5 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "sizes",
+      "label": {
+        "en": "Sizes",
+        "ar": "المقاسات"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (m³/h)",
+        "ar": "الطاقة (م³/ساعة)"
+      }
+    },
+    {
+      "key": "head",
+      "label": {
+        "en": "Head (m)",
+        "ar": "الرفع (م)"
+      }
+    },
+    {
+      "key": "notes",
+      "label": {
+        "en": "Notes",
+        "ar": "ملاحظات"
+      }
+    }
+  ],
+  "keyRows": [
+    "sizes",
+    "capacity",
+    "head"
+  ],
+  "types": [
+    {
+      "id": "pumps",
+      "label": {
+        "en": "Dewatering, water and deep-well pumps",
+        "ar": "مضخات النزح والمياه والآبار العميقة"
+      },
+      "models": [
+        {
+          "code": "BX-0036-01-012",
+          "name": {
+            "en": "Self-priming trash pump TSP / TSPH",
+            "ar": "مضخة مخلفات ذاتية التحضير ⁦TSP / TSPH⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "2–12 in",
+              "ar": "⁦2⁠–⁠12⁩ بوصة"
+            },
+            "capacity": {
+              "en": "10–1275",
+              "ar": "⁦10–1275⁩"
+            },
+            "head": {
+              "en": "3–75",
+              "ar": "⁦3–75⁩"
+            },
+            "notes": {
+              "en": "Self-priming to 8 m",
+              "ar": "تحضير ذاتي حتى ⁦8⁩ م"
+            }
+          }
+        },
+        {
+          "code": "BX-0036-01-013",
+          "name": {
+            "en": "Self-priming dewatering pump TSPL / TSPM / TSPHH",
+            "ar": "مضخة نزح ذاتية التحضير ⁦TSPL / TSPM / TSPHH⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "4–42 in",
+              "ar": "⁦4⁠–⁠42⁩ بوصة"
+            },
+            "capacity": {
+              "en": "25–15000",
+              "ar": "⁦25–15000⁩"
+            },
+            "head": {
+              "en": "10–245",
+              "ar": "⁦10–245⁩"
+            },
+            "notes": {
+              "en": "Self-priming to 8.8 m; diesel skid version",
+              "ar": "تحضير ذاتي حتى ⁦8.8⁩ م؛ نسخة على هيكل بمحرك ديزل"
+            }
+          }
+        },
+        {
+          "code": "BX-0036-01-023",
+          "name": {
+            "en": "Submersible dewatering pump TRZ",
+            "ar": "مضخة نزح غاطسة ⁦TRZ⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "50–600 mm",
+              "ar": "⁦50⁠–⁠600⁩ مم"
+            },
+            "capacity": {
+              "en": "10–6000",
+              "ar": "⁦10–6000⁩"
+            },
+            "head": {
+              "en": "3–125",
+              "ar": "⁦3–125⁩"
+            },
+            "notes": {
+              "en": "Submersible dewatering",
+              "ar": "نزح غاطس"
+            }
+          }
+        },
+        {
+          "code": "BX-0036-01-024",
+          "name": {
+            "en": "Submersible drainage pump TBZ",
+            "ar": "مضخة تصريف غاطسة ⁦TBZ⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "50–200 mm",
+              "ar": "⁦50⁠–⁠200⁩ مم"
+            },
+            "capacity": {
+              "en": "10–372",
+              "ar": "⁦10–372⁩"
+            },
+            "head": {
+              "en": "5–50",
+              "ar": "⁦5–50⁩"
+            },
+            "notes": {
+              "en": "Compact drainage pump",
+              "ar": "مضخة تصريف مدمجة"
+            }
+          }
+        },
+        {
+          "code": "BX-0036-01-026",
+          "name": {
+            "en": "Deep-well pump TQJ",
+            "ar": "مضخة آبار عميقة ⁦TQJ⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "Well Ø 150–550 mm",
+              "ar": "قطر البئر ⁦150⁠–⁠550⁩ مم"
+            },
+            "capacity": {
+              "en": "5–900",
+              "ar": "⁦5–900⁩"
+            },
+            "head": {
+              "en": "10–450",
+              "ar": "⁦10–450⁩"
+            },
+            "notes": {
+              "en": "Water supply",
+              "ar": "إمداد المياه"
+            }
+          }
+        },
+        {
+          "code": "BX-0024-01-013",
+          "name": {
+            "en": "End-suction water pump",
+            "ar": "مضخة مياه بسحب طرفي"
+          },
+          "specs": {
+            "sizes": {
+              "en": "1.5–12 in",
+              "ar": "⁦1.5⁠–⁠12⁩ بوصة"
+            },
+            "capacity": {
+              "en": "3.8–1200",
+              "ar": "⁦3.8–1200⁩"
+            },
+            "head": {
+              "en": "4.6–133",
+              "ar": "⁦4.6–133⁩"
+            },
+            "notes": {
+              "en": "Process water",
+              "ar": "مياه المعالجة"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "3.8–15000 m³/h",
+        "ar": "⁦3.8⁠–⁠15000⁩ م³/ساعة"
+      },
+      "keyRows": [
+        "capacity",
+        "head",
+        "notes"
+      ]
+    }
+  ]
+}

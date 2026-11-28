@@ -1,0 +1,202 @@
+{
+  "id": "knife-gate-valves-through-gate-self-sealing",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-07 Ed5⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-07 Ed5 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Models / sizes",
+        "ar": "الموديلات والمقاسات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Through-gate & self-sealing series",
+        "ar": "سلاسل البوابة النافذة والإحكام الذاتي"
+      },
+      "models": [
+        {
+          "code": "BX-0754-01-017",
+          "name": {
+            "en": "Knife gate valve DFQCA – bi-directional, through-type gate, low pressure",
+            "ar": "صمام سكيني ⁦DFQCA⁩ – ثنائي الاتجاه، بوابة نافذة، ضغط منخفض"
+          },
+          "specs": {
+            "models": {
+              "en": "DN50–DN1000",
+              "ar": "⁦DN50–DN1000⁩"
+            },
+            "data": {
+              "en": "Low-pressure granules, dust, slag and mud",
+              "ar": "الحبيبات والغبار والخبث والطين بضغط منخفض"
+            }
+          }
+        },
+        {
+          "code": "BX-0754-01-018",
+          "name": {
+            "en": "Knife gate valve DFQCB – bi-directional, through-type gate, medium pressure",
+            "ar": "صمام سكيني ⁦DFQCB⁩ – ثنائي الاتجاه، بوابة نافذة، ضغط متوسط"
+          },
+          "specs": {
+            "models": {
+              "en": "DN50–DN1000",
+              "ar": "⁦DN50–DN1000⁩"
+            },
+            "data": {
+              "en": "Medium-pressure ore slurry",
+              "ar": "لب الخام بضغط متوسط"
+            }
+          }
+        },
+        {
+          "code": "BX-0754-01-019",
+          "name": {
+            "en": "Knife gate valve DFQCG – bi-directional, through-type gate, centre guide",
+            "ar": "صمام سكيني ⁦DFQCG⁩ – ثنائي الاتجاه، بوابة نافذة، توجيه مركزي"
+          },
+          "specs": {
+            "models": {
+              "en": "DN100–DN1200",
+              "ar": "⁦DN100–DN1200⁩"
+            },
+            "data": {
+              "en": "Medium-pressure ore slurry (copper, iron, nickel)",
+              "ar": "لب الخام (النحاس والحديد والنيكل) بضغط متوسط"
+            }
+          }
+        },
+        {
+          "code": "BX-0754-01-020",
+          "name": {
+            "en": "Knife gate valve DFQW – integral body, self-sealing, low pressure, replaceable seat",
+            "ar": "صمام سكيني ⁦DFQW⁩ – جسم متكامل، إحكام ذاتي، ضغط منخفض، مقعد قابل للتبديل"
+          },
+          "specs": {
+            "models": {
+              "en": "DN50–DN1000",
+              "ar": "⁦DN50–DN1000⁩"
+            },
+            "data": {
+              "en": "Hydrocyclone ore slurry (copper, iron, nickel)",
+              "ar": "لب الخام في الهيدروسيكلونات (النحاس والحديد والنيكل)"
+            }
+          }
+        },
+        {
+          "code": "BX-0754-01-021",
+          "name": {
+            "en": "Knife gate valve DFQWF – two-piece body, self-sealing, low pressure",
+            "ar": "صمام سكيني ⁦DFQWF⁩ – جسم من قطعتين، إحكام ذاتي، ضغط منخفض"
+          },
+          "specs": {
+            "models": {
+              "en": "DN50–DN1000",
+              "ar": "⁦DN50–DN1000⁩"
+            },
+            "data": {
+              "en": "PN10/PN16/150LB; body Q235, 304, 316L, 2205 or 2507; NR seat; −40 to 120 °C; flushing holes; hydrocyclone slurry",
+              "ar": "⁦PN10/PN16/150LB⁩؛ جسم ⁦Q235⁩ أو ⁦304⁩ أو ⁦316L⁩ أو ⁦2205⁩ أو ⁦2507⁩؛ مقعد مطاط طبيعي؛ من −⁦40⁩ إلى ⁦120 °⁩م؛ فتحات غسيل؛ لب الهيدروسيكلونات"
+            }
+          }
+        },
+        {
+          "code": "BX-0754-01-022",
+          "name": {
+            "en": "Knife gate valve DFQWLF – two-piece body, self-sealing, medium pressure",
+            "ar": "صمام سكيني ⁦DFQWLF⁩ – جسم من قطعتين، إحكام ذاتي، ضغط متوسط"
+          },
+          "specs": {
+            "models": {
+              "en": "DN100–DN2000",
+              "ar": "⁦DN100–DN2000⁩"
+            },
+            "data": {
+              "en": "PN10/PN16/150LB; body Q235, 304, 316L, 2205 or 2507; NR seat; −40 to 120 °C; hydrocyclone slurry",
+              "ar": "⁦PN10/PN16/150LB⁩؛ جسم ⁦Q235⁩ أو ⁦304⁩ أو ⁦316L⁩ أو ⁦2205⁩ أو ⁦2507⁩؛ مقعد مطاط طبيعي؛ من −⁦40⁩ إلى ⁦120 °⁩م؛ لب الهيدروسيكلونات"
+            }
+          }
+        },
+        {
+          "code": "BX-0754-01-023",
+          "name": {
+            "en": "Knife gate valve DFQWL – integral body, self-sealing, medium pressure",
+            "ar": "صمام سكيني ⁦DFQWL⁩ – جسم متكامل، إحكام ذاتي، ضغط متوسط"
+          },
+          "specs": {
+            "models": {
+              "en": "DN100–DN2000",
+              "ar": "⁦DN100–DN2000⁩"
+            },
+            "data": {
+              "en": "PN10/PN16/150LB; WCB body; NR seat; −40 to 120 °C; hydrocyclone slurry",
+              "ar": "⁦PN10/PN16/150LB⁩؛ جسم ⁦WCB⁩؛ مقعد مطاط طبيعي؛ من −⁦40⁩ إلى ⁦120 °⁩م؛ لب الهيدروسيكلونات"
+            }
+          }
+        },
+        {
+          "code": "BX-0754-01-024",
+          "name": {
+            "en": "Knife gate valve DFQWLY – integral body, replaceable rubber seat ring",
+            "ar": "صمام سكيني ⁦DFQWLY⁩ – جسم متكامل، حلقة مقعد مطاطية قابلة للتبديل"
+          },
+          "specs": {
+            "models": {
+              "en": "DN100–DN2000",
+              "ar": "⁦DN100–DN2000⁩"
+            },
+            "data": {
+              "en": "PN16/150LB; WCB body; NR seat; for cutter-suction dredgers, slurry and slag",
+              "ar": "⁦PN16/150LB⁩؛ جسم ⁦WCB⁩؛ مقعد مطاط طبيعي؛ لكراكات القطع والشفط واللب والخبث"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "DN50–DN2000",
+        "ar": "⁦DN50–DN2000⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

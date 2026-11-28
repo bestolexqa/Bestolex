@@ -1,0 +1,163 @@
+{
+  "id": "slurry-pipes-packings-gaskets",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-07 Ed5⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-07 Ed5 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "range",
+      "label": {
+        "en": "Range",
+        "ar": "المدى"
+      }
+    },
+    {
+      "key": "use",
+      "label": {
+        "en": "Use",
+        "ar": "الاستخدام"
+      }
+    },
+    {
+      "key": "spec",
+      "label": {
+        "en": "Specification",
+        "ar": "المواصفات"
+      }
+    }
+  ],
+  "keyRows": [
+    "range",
+    "use",
+    "spec"
+  ],
+  "types": [
+    {
+      "id": "pipes",
+      "label": {
+        "en": "Wear-resistant slurry pipes",
+        "ar": "أنابيب لب مقاومة للتآكل"
+      },
+      "models": [
+        {
+          "code": "BX-0062-01-006",
+          "name": {
+            "en": "UHMW-PE pipe & fittings",
+            "ar": "أنابيب ووصلات ⁦UHMW-PE⁩"
+          },
+          "specs": {
+            "range": {
+              "en": "Pipe, elbows, tees, Y-pieces, flanged joints",
+              "ar": "أنابيب وأكواع ووصلات ⁦T⁩ و⁦Y⁩ ووصلات بشفة"
+            },
+            "use": {
+              "en": "Slurry, tailings, mine water and dredging lines; self-lubricating, high abrasion resistance",
+              "ar": "خطوط اللب والمخلفات ومياه المناجم والتجريف؛ ذاتية التزييت وعالية المقاومة للتآكل"
+            }
+          }
+        },
+        {
+          "code": "BX-0174-01-009",
+          "name": {
+            "en": "Ceramic-lined pipes & fittings",
+            "ar": "أنابيب ووصلات مبطّنة بالخزف"
+          },
+          "specs": {
+            "range": {
+              "en": "Pipes, bends and ducts lined with 92–99% alumina",
+              "ar": "أنابيب وأكواع ومجارٍ مبطّنة بألومينا ⁦92⁠–⁠99%⁩"
+            },
+            "use": {
+              "en": "Highly abrasive slurry and bulk transport",
+              "ar": "نقل اللب والمواد شديدة الكشط"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    },
+    {
+      "id": "packings",
+      "label": {
+        "en": "Pump packings and gasket materials",
+        "ar": "حشوات المضخات ومواد الجوانات"
+      },
+      "models": [
+        {
+          "code": "BX-0043-02-016",
+          "name": {
+            "en": "PTFE braided packing",
+            "ar": "حشوة مجدولة من ⁦PTFE⁩"
+          },
+          "specs": {
+            "spec": {
+              "en": "With graphite or aramid fibre; 2–25 MPa; −240 to 288 °C; pH 0–14; 3.2–25.4 mm",
+              "ar": "مع الجرافيت أو ألياف الأراميد؛ ⁦2⁠–⁠25⁩ ميجاباسكال؛ من −⁦240⁩ إلى ⁦288 °⁩م؛ ⁦pH⁩ ‏⁦0⁠–⁠14⁩؛ ⁦3.2⁠–⁠25.4⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0043-02-018",
+          "name": {
+            "en": "Flexible graphite braided packing",
+            "ar": "حشوة مجدولة من الجرافيت المرن"
+          },
+          "specs": {
+            "spec": {
+              "en": "Plain or Inconel-wire reinforced",
+              "ar": "عادية أو مقوّاة بسلك إنكونيل"
+            }
+          }
+        },
+        {
+          "code": "BX-0043-02-021",
+          "name": {
+            "en": "Non-asbestos gasket sheet",
+            "ar": "ألواح جوانات خالية من الأسبستوس"
+          },
+          "specs": {
+            "spec": {
+              "en": "0.4–6 mm; 200–450 °C; 15–40 kg/cm²",
+              "ar": "⁦0.4⁠–⁠6⁩ مم؛ ⁦200⁠–⁠450 °⁩م؛ ⁦15⁠–⁠40⁩ كجم/سم²"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ]
+}

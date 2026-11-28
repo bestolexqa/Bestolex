@@ -1,0 +1,270 @@
+{
+  "id": "water-process-engine-driven-pumps",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-07 Ed5⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-07 Ed5 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Water, process and engine-driven pumps",
+        "ar": "مضخات المياه والمعالجة والمضخات بمحرك"
+      },
+      "models": [
+        {
+          "code": "BX-0020-01-011",
+          "name": {
+            "en": "Horizontal split-case pumps NS",
+            "ar": "مضخات أفقية بغلاف مشقوق ⁦NS⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "NS",
+              "ar": "NS"
+            },
+            "data": {
+              "en": "Double-suction clean-water pump; high flow, low vibration; for water supply and drainage",
+              "ar": "مضخة مياه نقية بسحب مزدوج؛ تدفق عالٍ واهتزاز منخفض؛ لإمداد المياه والتصريف"
+            }
+          }
+        },
+        {
+          "code": "BX-0026-01-004",
+          "name": {
+            "en": "End-suction centrifugal pumps",
+            "ar": "مضخات طاردة مركزية بسحب طرفي"
+          },
+          "specs": {
+            "models": {
+              "en": "FSE, FSBE, F (EN 733), FG / FGS / FGD, FS / FSD",
+              "ar": "⁦FSE, FSBE, F (EN 733), FG / FGS / FGD, FS / FSD⁩"
+            },
+            "data": {
+              "en": "Cast iron or CF8 / CF8M stainless; DIN flanges; up to DN350; IE2 / IE3 motors; FSBE speed controlled",
+              "ar": "حديد زهر أو ستانلس ⁦CF8 / CF8M⁩؛ شفاه ⁦DIN⁩؛ حتى ⁦DN350⁩؛ محركات ⁦IE2 / IE3⁩؛ ⁦FSBE⁩ بتحكم في السرعة"
+            }
+          }
+        },
+        {
+          "code": "BX-0026-01-003",
+          "name": {
+            "en": "Vertical and in-line multistage pumps",
+            "ar": "مضخات متعددة المراحل رأسية ومباشرة"
+          },
+          "specs": {
+            "models": {
+              "en": "CDL / CDLF, CRA / CRNA / CRLA, CRAE, CVA / CVFA / CVLA, CVM, WSF",
+              "ar": "⁦CDL / CDLF, CRA / CRNA / CRLA, CRAE, CVA / CVFA / CVLA, CVM, WSF⁩"
+            },
+            "data": {
+              "en": "304 / 316 stainless; IE3 / IE4 motors, IE5 variable-speed versions; permanent-magnet motors 0.75–90 kW",
+              "ar": "ستانلس ⁦304 / 316⁩؛ محركات ⁦IE3 / IE4⁩، ونسخ ⁦IE5⁩ متغيرة السرعة؛ محركات مغناطيس دائم ⁦0.75⁠–⁠90⁩ كيلوواط"
+            }
+          }
+        },
+        {
+          "code": "BX-0026-01-002",
+          "name": {
+            "en": "Stainless horizontal and booster pumps",
+            "ar": "مضخات أفقية ومضخات تعزيز من الستانلس"
+          },
+          "specs": {
+            "models": {
+              "en": "BK, MB, CM, SJZ, PLURI / PLURIJET, ASJZ, ACM, BP-CMA, BP-P",
+              "ar": "⁦BK, MB, CM, SJZ, PLURI / PLURIJET, ASJZ, ACM, BP-CMA, BP-P⁩"
+            },
+            "data": {
+              "en": "AISI 304 / 316 wet parts; self-priming and variable-frequency booster sets up to 4 kW",
+              "ar": "أجزاء رطبة من ستانلس ⁦AISI 304 / 316⁩؛ مجموعات تعزيز ذاتية التحضير ومتغيرة التردد حتى ⁦4⁩ كيلوواط"
+            }
+          }
+        },
+        {
+          "code": "BX-0026-01-005",
+          "name": {
+            "en": "Self-priming sewage pumps",
+            "ar": "مضخات صرف ذاتية التحضير"
+          },
+          "specs": {
+            "models": {
+              "en": "EJ / EJZ / EJD, EJT",
+              "ar": "⁦EJ / EJZ / EJD, EJT⁩"
+            },
+            "data": {
+              "en": "Cast or ductile iron casing; ductile iron, bronze or stainless impeller",
+              "ar": "غلاف من الحديد الزهر أو المطيلي؛ دفّاعة من الحديد المطيلي أو البرونز أو الستانلس"
+            }
+          }
+        },
+        {
+          "code": "BX-0026-01-014",
+          "name": {
+            "en": "Pump frequency converters and accessories",
+            "ar": "محوّلات تردد المضخات وملحقاتها"
+          },
+          "specs": {
+            "models": {
+              "en": "W191, W713B; pressure switches, pressure tanks, float switches",
+              "ar": "⁦W191⁩ و⁦W713B⁩؛ مفاتيح ضغط وخزانات ضغط ومفاتيح عوامة"
+            },
+            "data": {
+              "en": "Speed and pressure control for pumps",
+              "ar": "التحكم في سرعة المضخات وضغطها"
+            }
+          }
+        },
+        {
+          "code": "BX-0529-01-004",
+          "name": {
+            "en": "Petrol water pumps",
+            "ar": "مضخات مياه بالبنزين"
+          },
+          "specs": {
+            "models": {
+              "en": "YL20, YL30, YL40 (7.5 hp), YL40 (13 hp)",
+              "ar": "⁦YL20⁩ و⁦YL30⁩ و⁦YL40⁩ ‏(⁦7.5⁩ حصان) و⁦YL40⁩ ‏(⁦13⁩ حصاناً)"
+            },
+            "data": {
+              "en": "2, 3 and 4 in; 5.5–13 hp; head 26–30 m; suction 8 m; 36, 60 and 90 m³/h; 20–47 kg",
+              "ar": "⁦2⁩ و⁦3⁩ و⁦4⁩ بوصات؛ ⁦5.5⁠–⁠13⁩ حصاناً؛ رفع ⁦26⁠–⁠30⁩ م؛ سحب ⁦8⁩ م؛ ⁦36⁩ و⁦60⁩ و⁦90⁩ م³/ساعة؛ ⁦20⁠–⁠47⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0481-01-010",
+          "name": {
+            "en": "Petrol water pumps (PGW)",
+            "ar": "مضخات مياه بالبنزين (⁦PGW⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "PGW-20 (2 in), PGW-30 (3 in), PGW-20H (2 in high head)",
+              "ar": "⁦PGW-20⁩ ‏(⁦2⁩ بوصة) و⁦PGW-30⁩ ‏(⁦3⁩ بوصات) و⁦PGW-20H⁩ ‏(⁦2⁩ بوصة برفع عالٍ)"
+            },
+            "data": {
+              "en": "30 / 60 / 30 m³/h; head 28 / 26 / 65 m; suction 7–8 m; 23–27 kg",
+              "ar": "⁦30 / 60 / 30⁩ م³/ساعة؛ رفع ⁦28 / 26 / 65⁩ م؛ سحب ⁦7⁠–⁠8⁩ م؛ ⁦23⁠–⁠27⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0529-01-008",
+          "name": {
+            "en": "Diesel water pump",
+            "ar": "مضخة مياه بالديزل"
+          },
+          "specs": {
+            "models": {
+              "en": "YLD80",
+              "ar": "YLD80"
+            },
+            "data": {
+              "en": "3 in; 40 m³/h; head 26 m; suction 8 m; self-priming 120 s at 4 m; 4 kW engine; 10 h continuous",
+              "ar": "⁦3⁩ بوصات؛ ⁦40⁩ م³/ساعة؛ رفع ⁦26⁩ م؛ سحب ⁦8⁩ م؛ تحضير ذاتي ⁦120⁩ ثانية عند ⁦4⁩ م؛ محرك ⁦4⁩ كيلوواط؛ ⁦10⁩ ساعات متواصلة"
+            }
+          }
+        },
+        {
+          "code": "BX-0529-01-009",
+          "name": {
+            "en": "Electric water pumps",
+            "ar": "مضخات مياه كهربائية"
+          },
+          "specs": {
+            "models": {
+              "en": "YLWP20E, YLWP30E, YLWP40E",
+              "ar": "⁦YLWP20E, YLWP30E, YLWP40E⁩"
+            },
+            "data": {
+              "en": "2, 3 and 4 in; 2.2 / 3 / 4 kW; 220 / 380 V; head 25–27 m; 30 / 55 / 60 m³/h",
+              "ar": "⁦2⁩ و⁦3⁩ و⁦4⁩ بوصات؛ ⁦2.2 / 3 / 4⁩ كيلوواط؛ ⁦220 / 380⁩ فولت؛ رفع ⁦25⁠–⁠27⁩ م؛ ⁦30 / 55 / 60⁩ م³/ساعة"
+            }
+          }
+        },
+        {
+          "code": "BX-0492-01-004",
+          "name": {
+            "en": "Petrol, diesel, trash and fire pumps",
+            "ar": "مضخات بالبنزين والديزل ومضخات مخلفات وحريق"
+          },
+          "specs": {
+            "models": {
+              "en": "WL20XH, WB20XH, SEH-50X / 80X, YP40T, WHP15 / 20 / 30-E",
+              "ar": "⁦WL20XH, WB20XH, SEH-50X / 80X, YP40T, WHP15 / 20 / 30-E⁩"
+            },
+            "data": {
+              "en": "Petrol 2–3 in; diesel 2–6 in, 9–15 hp; 4 in trash pump",
+              "ar": "بنزين ⁦2⁠–⁠3⁩ بوصات؛ ديزل ⁦2⁠–⁠6⁩ بوصات، ⁦9⁠–⁠15⁩ حصاناً؛ مضخة مخلفات ⁦4⁩ بوصات"
+            }
+          }
+        },
+        {
+          "code": "BX-0485-01-003",
+          "name": {
+            "en": "Diesel water pumps",
+            "ar": "مضخات مياه بالديزل"
+          },
+          "specs": {
+            "models": {
+              "en": "2 and 3 in high pressure; 4 and 6 in electric start",
+              "ar": "⁦2⁩ و⁦3⁩ بوصات بضغط عالٍ؛ ⁦4⁩ و⁦6⁩ بوصات بتشغيل كهربائي"
+            },
+            "data": {
+              "en": "Site water and dewatering pumps",
+              "ar": "مضخات مياه ونزح للموقع"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "0.75–90 kW",
+        "ar": "⁦0.75⁠–⁠90⁩ كيلوواط"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

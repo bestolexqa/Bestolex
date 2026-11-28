@@ -93,5 +93,22 @@ export const FAMILY_IDS = new Set([
   'xrf-carbon-sulfur-analyzers',
   'spark-oes-carbon-sulphur-xrf-analyzers',
   'gold-purity-density-lab-testing',
-  'metallurgical-test-laboratory-equipment'
+  'metallurgical-test-laboratory-equipment',
+  'horizontal-slurry-pumps',
+  'gravel-dredge-pumps',
+  'vertical-sump-pumps',
+  'slurry-gravel-submersible-pumps-additional',
+  'slurry-froth-dredge-pumps-additional',
+  'submersible-hydraulic-slurry-pumps',
+  'dewatering-water-deep-well-pumps',
+  'submersible-drainage-borehole-pumps',
+  'water-process-engine-driven-pumps',
+  'pump-wear-parts-slurry-hoses',
+  'slurry-pipes-packings-gaskets',
+  'industrial-rubber-hydraulic-hoses',
+  'knife-gate-slurry-process-valves',
+  'water-line-valves-ductile-iron-steel',
+  'ductile-iron-steel-pipes-fittings-hoses',
+  'knife-gate-valves-diaphragm-pumps',
+  'knife-gate-valves-through-gate-self-sealing'
 ])

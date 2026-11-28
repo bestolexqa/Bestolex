@@ -1,0 +1,226 @@
+{
+  "id": "knife-gate-valves-diaphragm-pumps",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-07 Ed5⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-07 Ed5 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Models / sizes",
+        "ar": "الموديلات والمقاسات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "split",
+      "label": {
+        "en": "Knife gate valves – split-body series",
+        "ar": "الصمامات السكينية – سلاسل الجسم المنقسم"
+      },
+      "models": [
+        {
+          "code": "BX-0754-01-001",
+          "name": {
+            "en": "Knife gate valve DFQB – unidirectional sealing",
+            "ar": "صمام سكيني ⁦DFQB⁩ – إحكام أحادي الاتجاه"
+          },
+          "specs": {
+            "models": {
+              "en": "DN50–DN1200",
+              "ar": "⁦DN50–DN1200⁩"
+            },
+            "data": {
+              "en": "Slurry, sewage, pulp, chemicals, ore powder and slag",
+              "ar": "اللب والصرف ولب الورق والكيماويات ومسحوق الخام والخبث"
+            }
+          }
+        },
+        {
+          "code": "BX-0754-01-009",
+          "name": {
+            "en": "Knife gate valve DFQPA – split body, bi-directional, wear-resistant, replaceable PU seat",
+            "ar": "صمام سكيني ⁦DFQPA⁩ – جسم منقسم، ثنائي الاتجاه، مقاوم للتآكل، مقعد بولي يوريثان قابل للتبديل"
+          },
+          "specs": {
+            "models": {
+              "en": "DN50–DN600",
+              "ar": "⁦DN50–DN600⁩"
+            },
+            "data": {
+              "en": "Abrasive and highly alkaline ore slurry (copper, iron, nickel); −40 to 100 °C",
+              "ar": "لب خام كاشط وعالي القلوية (نحاس وحديد ونيكل)؛ من −⁦40⁩ إلى ⁦100 °⁩م"
+            }
+          }
+        },
+        {
+          "code": "BX-0754-01-010",
+          "name": {
+            "en": "Knife gate valve DFQJ – split body, bi-directional, fully rubber-lined, low pressure",
+            "ar": "صمام سكيني ⁦DFQJ⁩ – جسم منقسم، ثنائي الاتجاه، مبطن بالمطاط بالكامل، ضغط منخفض"
+          },
+          "specs": {
+            "models": {
+              "en": "DN50–DN400",
+              "ar": "⁦DN50–DN400⁩"
+            },
+            "data": {
+              "en": "Alkaline ore slurry, dilute acids and alkalis, slurries with solids; PN10",
+              "ar": "لب خام قلوي وأحماض وقلويات مخففة ولب بمواد صلبة؛ ⁦PN10⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0754-01-013",
+          "name": {
+            "en": "Knife gate valve DFQMD – split body, bi-directional, medium pressure",
+            "ar": "صمام سكيني ⁦DFQMD⁩ – جسم منقسم، ثنائي الاتجاه، ضغط متوسط"
+          },
+          "specs": {
+            "models": {
+              "en": "DN50–DN4000",
+              "ar": "⁦DN50–DN4000⁩"
+            },
+            "data": {
+              "en": "Alkaline slurries; PN10/PN16/150LB; −40 to 250 °C",
+              "ar": "لب قلوي؛ ⁦PN10/PN16/150LB⁩؛ من −⁦40⁩ إلى ⁦250 °⁩م"
+            }
+          }
+        },
+        {
+          "code": "BX-0754-01-014",
+          "name": {
+            "en": "Knife gate valve DFQMDY – split body, bi-directional, medium pressure, with cover",
+            "ar": "صمام سكيني ⁦DFQMDY⁩ – جسم منقسم، ثنائي الاتجاه، ضغط متوسط، بغطاء"
+          },
+          "specs": {
+            "models": {
+              "en": "DN100–DN2000",
+              "ar": "⁦DN100–DN2000⁩"
+            },
+            "data": {
+              "en": "Alkaline slurries; −40 to 120 °C",
+              "ar": "لب قلوي؛ من −⁦40⁩ إلى ⁦120 °⁩م"
+            }
+          }
+        },
+        {
+          "code": "BX-0754-01-015",
+          "name": {
+            "en": "Knife gate valve DFQMB – split body, bi-directional, wear-resistant, medium pressure",
+            "ar": "صمام سكيني ⁦DFQMB⁩ – جسم منقسم، ثنائي الاتجاه، مقاوم للتآكل، ضغط متوسط"
+          },
+          "specs": {
+            "models": {
+              "en": "DN50–DN2000",
+              "ar": "⁦DN50–DN2000⁩"
+            },
+            "data": {
+              "en": "Wear-resistant guide ring; ore slurry with bi-directional sealing at PN16 and above (to PN40)",
+              "ar": "حلقة توجيه مقاومة للتآكل؛ لب خام بإحكام ثنائي الاتجاه عند ⁦PN16⁩ فأعلى (حتى ⁦PN40⁩)"
+            }
+          }
+        },
+        {
+          "code": "BX-0754-01-016",
+          "name": {
+            "en": "Knife gate valve DFQMG – split body, bi-directional sealing",
+            "ar": "صمام سكيني ⁦DFQMG⁩ – جسم منقسم، إحكام ثنائي الاتجاه"
+          },
+          "specs": {
+            "models": {
+              "en": "DN50–DN400",
+              "ar": "⁦DN50–DN400⁩"
+            },
+            "data": {
+              "en": "Wastewater, sewage and stormwater; PN10",
+              "ar": "مياه الصرف والمجاري ومياه الأمطار؛ ⁦PN10⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "DN50–DN4000",
+        "ar": "⁦DN50–DN4000⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    },
+    {
+      "id": "diaphragm",
+      "label": {
+        "en": "Pneumatic diaphragm pumps",
+        "ar": "المضخات الغشائية الهوائية"
+      },
+      "models": [
+        {
+          "code": "BX-0422-01-020",
+          "name": {
+            "en": "Pneumatic diaphragm pumps (PP, aluminium, stainless steel)",
+            "ar": "مضخات غشائية هوائية (بولي بروبلين، ألومنيوم، ستانلس)"
+          },
+          "specs": {
+            "models": {
+              "en": "MK06/10, MK15, MK25, MK40, MK50, MK80",
+              "ar": "⁦MK06/10, MK15, MK25, MK40, MK50, MK80⁩"
+            },
+            "data": {
+              "en": "Flow 1.62–63.6 m³/h; head 70–84 m; solids to 9.4 mm; ports 3/8–3 in; Santoprene, PTFE, EPDM or NBR diaphragms; for filter-press feed and slurry transfer",
+              "ar": "تدفق ⁦1.62⁠–⁠63.6⁩ م³/ساعة؛ رفع ⁦70⁠–⁠84⁩ م؛ مواد صلبة حتى ⁦9.4⁩ مم؛ منافذ ⁦3/8⁠–⁠3⁩ بوصات؛ أغشية سانتوبرين أو ⁦PTFE⁩ أو ⁦EPDM⁩ أو ⁦NBR⁩؛ لتغذية مكابس الترشيح ونقل اللب"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1.62–63.6 m³/h",
+        "ar": "⁦1.62⁠–⁠63.6⁩ م³/ساعة"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}
