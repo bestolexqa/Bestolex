@@ -1,0 +1,791 @@
+{
+  "id": "induction-gold-smelting-furnaces",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-08 Ed7⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-08 Ed7 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "voltage",
+      "label": {
+        "en": "Voltage (V)",
+        "ar": "الجهد (فولت)"
+      }
+    },
+    {
+      "key": "hf",
+      "label": {
+        "en": "High frequency (kHz)",
+        "ar": "التردد العالي (كيلوهرتز)"
+      }
+    },
+    {
+      "key": "mf",
+      "label": {
+        "en": "Medium frequency (kHz)",
+        "ar": "التردد المتوسط (كيلوهرتز)"
+      }
+    },
+    {
+      "key": "weight",
+      "label": {
+        "en": "Weight (kg)",
+        "ar": "الوزن (كجم)"
+      }
+    },
+    {
+      "key": "melt",
+      "label": {
+        "en": "Melting capacity (kg)",
+        "ar": "سعة الصهر (كجم)"
+      }
+    },
+    {
+      "key": "time",
+      "label": {
+        "en": "Melting time (min)",
+        "ar": "زمن الصهر (دقيقة)"
+      }
+    },
+    {
+      "key": "supply",
+      "label": {
+        "en": "Supply",
+        "ar": "التغذية"
+      }
+    },
+    {
+      "key": "input",
+      "label": {
+        "en": "Input (V)",
+        "ar": "جهد الدخل (فولت)"
+      }
+    },
+    {
+      "key": "gold",
+      "label": {
+        "en": "Gold per melt (kg)",
+        "ar": "الذهب في الصهرة (كجم)"
+      }
+    },
+    {
+      "key": "current",
+      "label": {
+        "en": "Output current (A)",
+        "ar": "تيار الخرج (أمبير)"
+      }
+    },
+    {
+      "key": "freq",
+      "label": {
+        "en": "Frequency (kHz)",
+        "ar": "التردد (كيلوهرتز)"
+      }
+    },
+    {
+      "key": "water",
+      "label": {
+        "en": "Cooling water (MPa)",
+        "ar": "ماء التبريد (ميجاباسكال)"
+      }
+    },
+    {
+      "key": "time_min",
+      "label": {
+        "en": "Melting time (min)",
+        "ar": "زمن الصهر (دقيقة)"
+      }
+    },
+    {
+      "key": "rated_power",
+      "label": {
+        "en": "Rated power (kW)",
+        "ar": "القدرة المقننة (كيلوواط)"
+      }
+    },
+    {
+      "key": "supply_vhz",
+      "label": {
+        "en": "Supply voltage / frequency (V / Hz)",
+        "ar": "جهد وتردد التغذية (فولت / هرتز)"
+      }
+    },
+    {
+      "key": "phases",
+      "label": {
+        "en": "Phases",
+        "ar": "الأطوار"
+      }
+    },
+    {
+      "key": "consumption",
+      "label": {
+        "en": "Power consumption (kW/h)",
+        "ar": "استهلاك الطاقة (كيلوواط/ساعة)"
+      }
+    },
+    {
+      "key": "water_th",
+      "label": {
+        "en": "Water consumption (t/h)",
+        "ar": "استهلاك الماء (طن/ساعة)"
+      }
+    },
+    {
+      "key": "inverter",
+      "label": {
+        "en": "Inverter output (V/A)",
+        "ar": "خرج العاكس (فولت/أمبير)"
+      }
+    },
+    {
+      "key": "furnace_va",
+      "label": {
+        "en": "Furnace voltage / current (V/A)",
+        "ar": "جهد وتيار الفرن (فولت/أمبير)"
+      }
+    },
+    {
+      "key": "furnace_hz",
+      "label": {
+        "en": "Furnace frequency (Hz)",
+        "ar": "تردد الفرن (هرتز)"
+      }
+    },
+    {
+      "key": "capacity_kg",
+      "label": {
+        "en": "Rated capacity (kg)",
+        "ar": "السعة المقننة (كجم)"
+      }
+    },
+    {
+      "key": "temp",
+      "label": {
+        "en": "Rated temperature (°C)",
+        "ar": "الحرارة المقننة (°م)"
+      }
+    },
+    {
+      "key": "weight_kg",
+      "label": {
+        "en": "Weight excl. lining (kg)",
+        "ar": "الوزن دون البطانة (كجم)"
+      }
+    }
+  ],
+  "keyRows": [
+    "power",
+    "voltage",
+    "hf"
+  ],
+  "types": [
+    {
+      "id": "portable",
+      "label": {
+        "en": "Portable high/medium-frequency melting furnaces",
+        "ar": "أفران صهر محمولة عالية ومتوسطة التردد"
+      },
+      "models": [
+        {
+          "code": "BX-0029-01-006 / 15A",
+          "name": {
+            "en": "15A",
+            "ar": "15A"
+          },
+          "specs": {
+            "power": {
+              "en": "2",
+              "ar": "2"
+            },
+            "voltage": {
+              "en": "220",
+              "ar": "220"
+            },
+            "hf": {
+              "en": "30–50",
+              "ar": "⁦30–50⁩"
+            },
+            "mf": {
+              "en": "1–15",
+              "ar": "⁦1–15⁩"
+            },
+            "weight": {
+              "en": "15",
+              "ar": "15"
+            },
+            "melt": {
+              "en": "1–2",
+              "ar": "⁦1–2⁩"
+            },
+            "time": {
+              "en": "≤ 5",
+              "ar": "⁦≤ 5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0029-01-006 / 25A",
+          "name": {
+            "en": "25A",
+            "ar": "25A"
+          },
+          "specs": {
+            "power": {
+              "en": "5",
+              "ar": "5"
+            },
+            "voltage": {
+              "en": "380",
+              "ar": "380"
+            },
+            "hf": {
+              "en": "30–50",
+              "ar": "⁦30–50⁩"
+            },
+            "mf": {
+              "en": "1–15",
+              "ar": "⁦1–15⁩"
+            },
+            "weight": {
+              "en": "25",
+              "ar": "25"
+            },
+            "melt": {
+              "en": "1–4",
+              "ar": "⁦1–4⁩"
+            },
+            "time": {
+              "en": "≤ 5",
+              "ar": "⁦≤ 5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0029-01-006 / 35AB",
+          "name": {
+            "en": "35AB",
+            "ar": "35AB"
+          },
+          "specs": {
+            "power": {
+              "en": "10",
+              "ar": "10"
+            },
+            "voltage": {
+              "en": "380",
+              "ar": "380"
+            },
+            "hf": {
+              "en": "30–50",
+              "ar": "⁦30–50⁩"
+            },
+            "mf": {
+              "en": "1–15",
+              "ar": "⁦1–15⁩"
+            },
+            "weight": {
+              "en": "35",
+              "ar": "35"
+            },
+            "melt": {
+              "en": "1–8",
+              "ar": "⁦1–8⁩"
+            },
+            "time": {
+              "en": "≤ 10",
+              "ar": "⁦≤ 10⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0029-01-006 / 45AB",
+          "name": {
+            "en": "45AB",
+            "ar": "45AB"
+          },
+          "specs": {
+            "power": {
+              "en": "15",
+              "ar": "15"
+            },
+            "voltage": {
+              "en": "380",
+              "ar": "380"
+            },
+            "hf": {
+              "en": "30–50",
+              "ar": "⁦30–50⁩"
+            },
+            "mf": {
+              "en": "1–15",
+              "ar": "⁦1–15⁩"
+            },
+            "weight": {
+              "en": "70",
+              "ar": "70"
+            },
+            "melt": {
+              "en": "1–15",
+              "ar": "⁦1–15⁩"
+            },
+            "time": {
+              "en": "≤ 15",
+              "ar": "⁦≤ 15⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0029-01-006 / 60AB",
+          "name": {
+            "en": "60AB",
+            "ar": "60AB"
+          },
+          "specs": {
+            "power": {
+              "en": "20",
+              "ar": "20"
+            },
+            "voltage": {
+              "en": "380",
+              "ar": "380"
+            },
+            "hf": {
+              "en": "30–50",
+              "ar": "⁦30–50⁩"
+            },
+            "mf": {
+              "en": "1–15",
+              "ar": "⁦1–15⁩"
+            },
+            "weight": {
+              "en": "70",
+              "ar": "70"
+            },
+            "melt": {
+              "en": "1–25",
+              "ar": "⁦1–25⁩"
+            },
+            "time": {
+              "en": "≤ 20",
+              "ar": "⁦≤ 20⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0029-01-006 / 80AB",
+          "name": {
+            "en": "80AB",
+            "ar": "80AB"
+          },
+          "specs": {
+            "power": {
+              "en": "30",
+              "ar": "30"
+            },
+            "voltage": {
+              "en": "380",
+              "ar": "380"
+            },
+            "hf": {
+              "en": "30–50",
+              "ar": "⁦30–50⁩"
+            },
+            "mf": {
+              "en": "1–15",
+              "ar": "⁦1–15⁩"
+            },
+            "weight": {
+              "en": "90",
+              "ar": "90"
+            },
+            "melt": {
+              "en": "1–40",
+              "ar": "⁦1–40⁩"
+            },
+            "time": {
+              "en": "≤ 30",
+              "ar": "⁦≤ 30⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0029-01-006 / 100AB",
+          "name": {
+            "en": "100AB",
+            "ar": "100AB"
+          },
+          "specs": {
+            "power": {
+              "en": "45",
+              "ar": "45"
+            },
+            "voltage": {
+              "en": "380",
+              "ar": "380"
+            },
+            "hf": {
+              "en": "30–50",
+              "ar": "⁦30–50⁩"
+            },
+            "mf": {
+              "en": "1–15",
+              "ar": "⁦1–15⁩"
+            },
+            "weight": {
+              "en": "120",
+              "ar": "120"
+            },
+            "melt": {
+              "en": "1–50",
+              "ar": "⁦1–50⁩"
+            },
+            "time": {
+              "en": "≤ 40",
+              "ar": "⁦≤ 40⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0029-01-006 / 120AB",
+          "name": {
+            "en": "120AB",
+            "ar": "120AB"
+          },
+          "specs": {
+            "power": {
+              "en": "70",
+              "ar": "70"
+            },
+            "voltage": {
+              "en": "380",
+              "ar": "380"
+            },
+            "hf": {
+              "en": "30–50",
+              "ar": "⁦30–50⁩"
+            },
+            "mf": {
+              "en": "1–15",
+              "ar": "⁦1–15⁩"
+            },
+            "weight": {
+              "en": "150",
+              "ar": "150"
+            },
+            "melt": {
+              "en": "1–100",
+              "ar": "⁦1–100⁩"
+            },
+            "time": {
+              "en": "≤ 40",
+              "ar": "⁦≤ 40⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1–100 kg per melt",
+        "ar": "⁦1⁠–⁠100⁩ كجم للصهرة"
+      },
+      "keyRows": [
+        "power",
+        "melt",
+        "time"
+      ]
+    },
+    {
+      "id": "wgr",
+      "label": {
+        "en": "WGR high-frequency induction furnaces",
+        "ar": "أفران حث عالية التردد ⁦WGR⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0028-01-037 / WGR-1-5",
+          "name": {
+            "en": "WGR-1-5",
+            "ar": "⁦WGR-1-5⁩"
+          },
+          "specs": {
+            "supply": {
+              "en": "3-phase 380 V",
+              "ar": "⁦3⁩ أطوار ⁦380⁩ فولت"
+            },
+            "input": {
+              "en": "360–410",
+              "ar": "⁦360–410⁩"
+            },
+            "gold": {
+              "en": "1",
+              "ar": "1"
+            },
+            "current": {
+              "en": "180–700",
+              "ar": "⁦180–700⁩"
+            },
+            "freq": {
+              "en": "30–100",
+              "ar": "⁦30–100⁩"
+            },
+            "water": {
+              "en": "0.1–0.3",
+              "ar": "⁦0.1–0.3⁩"
+            },
+            "time_min": {
+              "en": "< 5",
+              "ar": "⁦< 5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0028-01-037 / WGR-1-10",
+          "name": {
+            "en": "WGR-1-10",
+            "ar": "⁦WGR-1-10⁩"
+          },
+          "specs": {
+            "supply": {
+              "en": "3-phase 380 V",
+              "ar": "⁦3⁩ أطوار ⁦380⁩ فولت"
+            },
+            "input": {
+              "en": "360–410",
+              "ar": "⁦360–410⁩"
+            },
+            "gold": {
+              "en": "3–4",
+              "ar": "⁦3–4⁩"
+            },
+            "current": {
+              "en": "180–1200",
+              "ar": "⁦180–1200⁩"
+            },
+            "freq": {
+              "en": "30–100",
+              "ar": "⁦30–100⁩"
+            },
+            "water": {
+              "en": "0.1–0.3",
+              "ar": "⁦0.1–0.3⁩"
+            },
+            "time_min": {
+              "en": "< 8",
+              "ar": "⁦< 8⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1–4 kg gold per melt",
+        "ar": "⁦1⁠–⁠4⁩ كجم ذهب للصهرة"
+      },
+      "keyRows": [
+        "gold",
+        "freq",
+        "time_min"
+      ]
+    },
+    {
+      "id": "gwj",
+      "label": {
+        "en": "GWJ medium-frequency coreless induction furnaces",
+        "ar": "أفران حث بلا قلب متوسطة التردد ⁦GWJ⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0028-01-037 / GWJ-0.15-100/1",
+          "name": {
+            "en": "GWJ-0.15-100/1",
+            "ar": "⁦GWJ-0.15-100/1⁩"
+          },
+          "specs": {
+            "rated_power": {
+              "en": "110",
+              "ar": "110"
+            },
+            "supply_vhz": {
+              "en": "380 / 50",
+              "ar": "⁦380 / 50⁩"
+            },
+            "phases": {
+              "en": "3",
+              "ar": "3"
+            },
+            "consumption": {
+              "en": "850",
+              "ar": "850"
+            },
+            "water_th": {
+              "en": "5",
+              "ar": "5"
+            },
+            "inverter": {
+              "en": "750 / 250",
+              "ar": "⁦750 / 250⁩"
+            },
+            "furnace_va": {
+              "en": "100 / 650",
+              "ar": "⁦100 / 650⁩"
+            },
+            "furnace_hz": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "capacity_kg": {
+              "en": "150",
+              "ar": "150"
+            },
+            "temp": {
+              "en": "1600",
+              "ar": "1600"
+            },
+            "weight_kg": {
+              "en": "540",
+              "ar": "540"
+            }
+          }
+        },
+        {
+          "code": "BX-0028-01-037 / GWJ-0.25-160/1",
+          "name": {
+            "en": "GWJ-0.25-160/1",
+            "ar": "⁦GWJ-0.25-160/1⁩"
+          },
+          "specs": {
+            "rated_power": {
+              "en": "170",
+              "ar": "170"
+            },
+            "supply_vhz": {
+              "en": "380 / 50",
+              "ar": "⁦380 / 50⁩"
+            },
+            "phases": {
+              "en": "3",
+              "ar": "3"
+            },
+            "consumption": {
+              "en": "800",
+              "ar": "800"
+            },
+            "water_th": {
+              "en": "5",
+              "ar": "5"
+            },
+            "inverter": {
+              "en": "750 / 350",
+              "ar": "⁦750 / 350⁩"
+            },
+            "furnace_va": {
+              "en": "160 / 750",
+              "ar": "⁦160 / 750⁩"
+            },
+            "furnace_hz": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "capacity_kg": {
+              "en": "250",
+              "ar": "250"
+            },
+            "temp": {
+              "en": "1600",
+              "ar": "1600"
+            },
+            "weight_kg": {
+              "en": "600",
+              "ar": "600"
+            }
+          }
+        },
+        {
+          "code": "BX-0028-01-037 / GWJ-0.5-250/1",
+          "name": {
+            "en": "GWJ-0.5-250/1",
+            "ar": "⁦GWJ-0.5-250/1⁩"
+          },
+          "specs": {
+            "rated_power": {
+              "en": "275",
+              "ar": "275"
+            },
+            "supply_vhz": {
+              "en": "380 / 50",
+              "ar": "⁦380 / 50⁩"
+            },
+            "phases": {
+              "en": "3",
+              "ar": "3"
+            },
+            "consumption": {
+              "en": "750",
+              "ar": "750"
+            },
+            "water_th": {
+              "en": "10",
+              "ar": "10"
+            },
+            "inverter": {
+              "en": "750 / 550",
+              "ar": "⁦750 / 550⁩"
+            },
+            "furnace_va": {
+              "en": "100 / 1300",
+              "ar": "⁦100 / 1300⁩"
+            },
+            "furnace_hz": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "capacity_kg": {
+              "en": "500",
+              "ar": "500"
+            },
+            "temp": {
+              "en": "1600",
+              "ar": "1600"
+            },
+            "weight_kg": {
+              "en": "1000",
+              "ar": "1000"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "150–500 kg",
+        "ar": "⁦150⁠–⁠500⁩ كجم"
+      },
+      "intro": {
+        "en": "Power consumption unit as stated by the manufacturer.",
+        "ar": "وحدة استهلاك الطاقة كما ذكرها المصنّع."
+      },
+      "keyRows": [
+        "capacity_kg",
+        "rated_power",
+        "temp"
+      ]
+    }
+  ]
+}

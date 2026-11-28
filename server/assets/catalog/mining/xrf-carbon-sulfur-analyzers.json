@@ -1,0 +1,198 @@
+{
+  "id": "xrf-carbon-sulfur-analyzers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-09 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-09 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "XRF and carbon-sulfur analyzers – additional models",
+        "ar": "محللات ⁦XRF⁩ والكربون والكبريت – موديلات إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0050-06-001",
+          "name": {
+            "en": "Handheld XRF ore analyzer",
+            "ar": "محلل خامات ⁦XRF⁩ محمول"
+          },
+          "specs": {
+            "models": {
+              "en": "EXPLORER 7000",
+              "ar": "⁦EXPLORER 7000⁩"
+            },
+            "data": {
+              "en": "Fast-SDD; miniature Rh tube 50 kV / 200 µA; Mg–U; GPS, Bluetooth, HD camera; 1.7 kg; battery up to 12 h",
+              "ar": "⁦Fast-SDD⁩؛ أنبوب روديوم مصغر ⁦50⁩ كيلوفولت / ⁦200⁩ ميكروأمبير؛ ⁦Mg–U⁩؛ ⁦GPS⁩ وبلوتوث وكاميرا عالية الدقة؛ ⁦1.7⁩ كجم؛ بطارية حتى ⁦12⁩ ساعة"
+            }
+          }
+        },
+        {
+          "code": "BX-0208-03-001",
+          "name": {
+            "en": "Handheld XRF analyzers",
+            "ar": "محللات ⁦XRF⁩ محمولة"
+          },
+          "specs": {
+            "models": {
+              "en": "Expert JX5 (Si-PIN), Expert JX6 (Fast-SDD)",
+              "ar": "⁦Expert JX5 (Si-PIN), Expert JX6 (Fast-SDD)⁩"
+            },
+            "data": {
+              "en": "50 kV, 200 µA, 4 W tube; JX5 Si-PIN 148 eV, Ca–U; JX6 Fast-SDD 123 eV, Mg–U incl. Au; 1–90 s; 1.5 kg; IP54",
+              "ar": "أنبوب ⁦50⁩ كيلوفولت، ⁦200⁩ ميكروأمبير، ⁦4⁩ واط؛ ⁦JX5⁩ ‏⁦Si-PIN⁩ ‏⁦148⁩ إلكترون فولت، ⁦Ca–U⁩؛ ⁦JX6⁩ ‏⁦Fast-SDD⁩ ‏⁦123⁩ إلكترون فولت، ⁦Mg–U⁩ منها الذهب؛ ⁦1⁠–⁠90⁩ ثانية؛ ⁦1.5⁩ كجم؛ ⁦IP54⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0208-01-010",
+          "name": {
+            "en": "Benchtop EDXRF, precious metals and coatings",
+            "ar": "⁦EDXRF⁩ مكتبي للمعادن الثمينة والطلاءات"
+          },
+          "specs": {
+            "models": {
+              "en": "TY-9800",
+              "ar": "⁦TY-9800⁩"
+            },
+            "data": {
+              "en": "Na–U; 1 ppm–99.99%; SDD 1–50 keV, 130 eV; std. dev. ≤ 0.05%; gold purity, RoHS and coating thickness",
+              "ar": "⁦Na–U⁩؛ ‏⁦1 ppm–99.99%⁩؛ ⁦SDD⁩ ‏⁦1⁠–⁠50⁩ كيلو إلكترون فولت، ⁦130⁩ إلكترون فولت؛ انحراف معياري ≤ ⁦0.05%⁩؛ نقاء الذهب و⁦RoHS⁩ وسماكة الطلاء"
+            }
+          }
+        },
+        {
+          "code": "BX-0208-01-011",
+          "name": {
+            "en": "Benchtop EDXRF for mining and minerals",
+            "ar": "⁦EDXRF⁩ مكتبي للتعدين والمعادن"
+          },
+          "specs": {
+            "models": {
+              "en": "P9800",
+              "ar": "P9800"
+            },
+            "data": {
+              "en": "F–U; 1 ppm–99.99%; Fast SDD 1–50 keV, 127 eV; std. dev. ≤ 0.05%; for pressed powder pellets",
+              "ar": "⁦F–U⁩؛ ‏⁦1 ppm–99.99%⁩؛ ⁦Fast SDD⁩ ‏⁦1⁠–⁠50⁩ كيلو إلكترون فولت، ⁦127⁩ إلكترون فولت؛ انحراف معياري ≤ ⁦0.05%⁩؛ لأقراص المسحوق المضغوط"
+            }
+          }
+        },
+        {
+          "code": "BX-0208-02-003",
+          "name": {
+            "en": "Benchtop EDXRF with 10-sample turntable",
+            "ar": "⁦EDXRF⁩ مكتبي بقرص دوّار لعشر عينات"
+          },
+          "specs": {
+            "models": {
+              "en": "JXT-6800",
+              "ar": "⁦JXT-6800⁩"
+            },
+            "data": {
+              "en": "F–U; Fast SDD, 127 eV; automatic setting of measuring conditions",
+              "ar": "⁦F–U⁩؛ ‏⁦Fast SDD⁩، ‏⁦127⁩ إلكترون فولت؛ ضبط آلي لظروف القياس"
+            }
+          }
+        },
+        {
+          "code": "BX-0208-02-004",
+          "name": {
+            "en": "Benchtop EDXRF with 31-sample robot arm",
+            "ar": "⁦EDXRF⁩ مكتبي بذراع آلية لـ ⁦31⁩ عينة"
+          },
+          "specs": {
+            "models": {
+              "en": "JXT6",
+              "ar": "JXT6"
+            },
+            "data": {
+              "en": "F–U; Fast SDD, 127 eV; 31 sample positions; for high-throughput mine labs",
+              "ar": "⁦F–U⁩؛ ‏⁦Fast SDD⁩، ‏⁦127⁩ إلكترون فولت؛ ⁦31⁩ موضع عينة؛ لمختبرات المناجم عالية الإنتاج"
+            }
+          }
+        },
+        {
+          "code": "BX-0208-01-008",
+          "name": {
+            "en": "Carbon-sulfur analyzer, wide range",
+            "ar": "محلل كربون وكبريت، مدى واسع"
+          },
+          "specs": {
+            "models": {
+              "en": "CS8800S",
+              "ar": "CS8800S"
+            },
+            "data": {
+              "en": "High-frequency furnace, infrared detection; C and S 0.000001–99.999999%; RSD C ≤ 0.5%, S ≤ 1.0%; ISO 9556 and ISO 4935",
+              "ar": "فرن عالي التردد، كشف بالأشعة تحت الحمراء؛ الكربون والكبريت ⁦0.000001⁠–⁠99.999999%⁩؛ الانحراف النسبي للكربون ≤ ⁦0.5%⁩ وللكبريت ≤ ⁦1.0%⁩؛ ⁦ISO 9556⁩ و⁦ISO 4935⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0208-04-002",
+          "name": {
+            "en": "Carbon-sulfur analyzer, high range",
+            "ar": "محلل كربون وكبريت، مدى مرتفع"
+          },
+          "specs": {
+            "models": {
+              "en": "CS8820T",
+              "ar": "CS8820T"
+            },
+            "data": {
+              "en": "C 5–95%, S 1–50%; sensitivity 0.1 ppm; 25–60 s per test; ISO 9556 and ISO 4935; for graphite, coke, coal and pyrite samples",
+              "ar": "الكربون ⁦5⁠–⁠95%⁩ والكبريت ⁦1⁠–⁠50%⁩؛ حساسية ⁦0.1 ppm⁩؛ ⁦25⁠–⁠60⁩ ثانية للاختبار؛ ⁦ISO 9556⁩ و⁦ISO 4935⁩؛ لعينات الجرافيت وفحم الكوك والفحم والبيريت"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

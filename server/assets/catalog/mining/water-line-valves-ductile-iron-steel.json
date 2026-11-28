@@ -1,0 +1,236 @@
+{
+  "id": "water-line-valves-ductile-iron-steel",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-07 Ed5⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-07 Ed5 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Water-line valves – ductile iron and steel",
+        "ar": "صمامات خطوط المياه – حديد مطيلي وفولاذ"
+      },
+      "models": [
+        {
+          "code": "BX-0648-02-001",
+          "name": {
+            "en": "Ductile iron gate valves, resilient and metal seated",
+            "ar": "صمامات بوابة من الحديد المطيلي بمقعد مرن أو معدني"
+          },
+          "specs": {
+            "models": {
+              "en": "AWWA C509 / C515, BS 5163, EN 1171, DIN 3352",
+              "ar": "⁦AWWA C509 / C515, BS 5163, EN 1171, DIN 3352⁩"
+            },
+            "data": {
+              "en": "Flanged or socket ends",
+              "ar": "أطراف بشفة أو بقابس"
+            }
+          }
+        },
+        {
+          "code": "BX-0648-02-002",
+          "name": {
+            "en": "Ductile iron check valves",
+            "ar": "صمامات عدم رجوع من الحديد المطيلي"
+          },
+          "specs": {
+            "models": {
+              "en": "Swing, ball, dual-plate, wafer and lift types",
+              "ar": "أنواع متأرجحة وكروية ومزدوجة الألواح ورقاقية ورافعة"
+            },
+            "data": {
+              "en": "Flanged or wafer",
+              "ar": "بشفة أو رقاقية"
+            }
+          }
+        },
+        {
+          "code": "BX-0648-02-003",
+          "name": {
+            "en": "Ductile iron globe valves",
+            "ar": "صمامات كروية الشكل من الحديد المطيلي"
+          },
+          "specs": {
+            "models": {
+              "en": "Straight and angle patterns, flanged",
+              "ar": "نمطان مستقيم وزاوي، بشفة"
+            },
+            "data": {
+              "en": "Cast and ductile iron",
+              "ar": "حديد زهر ومطيلي"
+            }
+          }
+        },
+        {
+          "code": "BX-0648-02-004",
+          "name": {
+            "en": "Butterfly valves",
+            "ar": "صمامات فراشة"
+          },
+          "specs": {
+            "models": {
+              "en": "Wafer, lug and double-flanged; lever or gearbox",
+              "ar": "رقاقية وبعروات وبشفتين؛ بذراع أو علبة تروس"
+            },
+            "data": {
+              "en": "Ductile iron bodies",
+              "ar": "أجسام من الحديد المطيلي"
+            }
+          }
+        },
+        {
+          "code": "BX-0648-02-005",
+          "name": {
+            "en": "Flanged ball valves",
+            "ar": "صمامات كروية بشفة"
+          },
+          "specs": {
+            "models": {
+              "en": "Two- and three-piece",
+              "ar": "من قطعتين أو ثلاث"
+            },
+            "data": {
+              "en": "Cast and ductile iron",
+              "ar": "حديد زهر ومطيلي"
+            }
+          }
+        },
+        {
+          "code": "BX-0648-02-006",
+          "name": {
+            "en": "Y-strainers, air release valves and foot valves",
+            "ar": "مصافٍ ⁦Y⁩ وصمامات تنفيس الهواء وصمامات القدم"
+          },
+          "specs": {
+            "models": {
+              "en": "Single and double air valves",
+              "ar": "صمامات هواء مفردة ومزدوجة"
+            },
+            "data": {
+              "en": "For pump suction and delivery lines",
+              "ar": "لخطوط سحب المضخات وطردها"
+            }
+          }
+        },
+        {
+          "code": "BX-0648-02-008",
+          "name": {
+            "en": "Flange adaptors, saddles, couplings, expansion and dismantling joints",
+            "ar": "وصلات شفاه وسروج وقارنات ووصلات تمدد وفك"
+          },
+          "specs": {
+            "models": {
+              "en": "Rubber expansion joints and dismantling joints",
+              "ar": "وصلات تمدد مطاطية ووصلات فك"
+            },
+            "data": {
+              "en": "For connecting pipes, pumps and valves",
+              "ar": "لوصل الأنابيب والمضخات والصمامات"
+            }
+          }
+        },
+        {
+          "code": "BX-0648-03-001",
+          "name": {
+            "en": "Steel ball valves",
+            "ar": "صمامات كروية فولاذية"
+          },
+          "specs": {
+            "models": {
+              "en": "1PC, 2PC, 3PC, wafer; forged 800 / 1500 LB; 6000 psi high pressure; flanged 2PC / 3PC; DBB",
+              "ar": "قطعة وقطعتان وثلاث ورقاقية؛ مطروقة ⁦800 / 1500 LB⁩؛ ضغط عالٍ ⁦6000 psi⁩؛ بشفة ⁦2PC / 3PC⁩؛ ⁦DBB⁩"
+            },
+            "data": {
+              "en": "Carbon and stainless steel",
+              "ar": "فولاذ كربوني وستانلس"
+            }
+          }
+        },
+        {
+          "code": "BX-0648-03-002",
+          "name": {
+            "en": "Steel check valves",
+            "ar": "صمامات عدم رجوع فولاذية"
+          },
+          "specs": {
+            "models": {
+              "en": "Wafer spring, dual-plate, forged 800 LB",
+              "ar": "رقاقية بنابض ومزدوجة الألواح ومطروقة ⁦800 LB⁩"
+            },
+            "data": {
+              "en": "Steel",
+              "ar": "فولاذ"
+            }
+          }
+        },
+        {
+          "code": "BX-0648-03-003",
+          "name": {
+            "en": "Steel gate and globe valves and strainers",
+            "ar": "صمامات بوابة وكروية الشكل فولاذية ومصافٍ"
+          },
+          "specs": {
+            "models": {
+              "en": "Forged 800 LB (1/2–2 in); pressure-seal gate 1500 / 2500 LB; flanged gate 150–1500 LB",
+              "ar": "مطروقة ⁦800 LB⁩ ‏(⁦1/2⁠–⁠2⁩ بوصة)؛ بوابة بإحكام ضغطي ⁦1500 / 2500 LB⁩؛ بوابة بشفة ⁦150⁠–⁠1500 LB⁩"
+            },
+            "data": {
+              "en": "Forged and cast steel",
+              "ar": "فولاذ مطروق ومصبوب"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "150–2500 LB",
+        "ar": "⁦150–2500 LB⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

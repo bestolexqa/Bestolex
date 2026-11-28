@@ -1,0 +1,168 @@
+{
+  "id": "high-visibility-workwear-helmets",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXS-01 Ed2⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXS-01 Ed2 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "spec",
+      "label": {
+        "en": "Specification",
+        "ar": "المواصفات"
+      }
+    },
+    {
+      "key": "models",
+      "label": {
+        "en": "Models",
+        "ar": "الموديلات"
+      }
+    }
+  ],
+  "keyRows": [
+    "spec",
+    "models"
+  ],
+  "types": [
+    {
+      "id": "hivis",
+      "label": {
+        "en": "High-visibility workwear and helmets",
+        "ar": "ملابس عالية الوضوح وخوذ"
+      },
+      "models": [
+        {
+          "code": "BX-0346-01-009",
+          "name": {
+            "en": "Hi-vis safety vests",
+            "ar": "سترات سلامة عاكسة"
+          },
+          "specs": {
+            "spec": {
+              "en": "EN ISO 20471; knitted or mesh polyester 60–130 g/m² or 300D Oxford; yellow, orange, lime; S–5XL; zip or hook-and-loop; 5 cm reflective tape; logo printing",
+              "ar": "⁦EN ISO 20471⁩؛ بوليستر محبوك أو شبكي ⁦60⁠–⁠130⁩ جم/م² أو أكسفورد ⁦300D⁩؛ أصفر أو برتقالي أو ليموني؛ ⁦S–5XL⁩؛ سحّاب أو لاصق؛ شريط عاكس ⁦5⁩ سم؛ طباعة الشعار"
+            },
+            "models": {
+              "en": "23",
+              "ar": "23"
+            }
+          }
+        },
+        {
+          "code": "BX-0327-01-030",
+          "name": {
+            "en": "Economy reflective vests",
+            "ar": "سترات عاكسة اقتصادية"
+          },
+          "specs": {
+            "spec": {
+              "en": "Polyester 60–120 g, EN 471 Class 2 tape, S–3XL",
+              "ar": "بوليستر ⁦60⁠–⁠120⁩ جم، شريط ⁦EN 471⁩ الفئة ⁦2⁩، ⁦S–3XL⁩"
+            },
+            "models": {
+              "en": "6",
+              "ar": "6"
+            }
+          }
+        },
+        {
+          "code": "BX-0346-01-010",
+          "name": {
+            "en": "Hi-vis T-shirts & polo shirts",
+            "ar": "قمصان وبولو عالية الوضوح"
+          },
+          "specs": {
+            "spec": {
+              "en": "EN 20471 with reflective tape",
+              "ar": "⁦EN 20471⁩ بشريط عاكس"
+            },
+            "models": {
+              "en": "9",
+              "ar": "9"
+            }
+          }
+        },
+        {
+          "code": "BX-0346-01-011",
+          "name": {
+            "en": "Hi-vis jackets",
+            "ar": "سترات (جاكيتات) عالية الوضوح"
+          },
+          "specs": {
+            "spec": {
+              "en": "EN 20471; hooded, soft-shell and rain styles",
+              "ar": "⁦EN 20471⁩؛ بقلنسوة وسوفت شل وللمطر"
+            },
+            "models": {
+              "en": "9",
+              "ar": "9"
+            }
+          }
+        },
+        {
+          "code": "BX-0346-01-012",
+          "name": {
+            "en": "Hi-vis caps & headwear",
+            "ar": "قبعات وأغطية رأس عالية الوضوح"
+          },
+          "specs": {
+            "spec": {
+              "en": "Reflective trim; made to order",
+              "ar": "حواف عاكسة؛ حسب الطلب"
+            }
+          }
+        },
+        {
+          "code": "BX-0327-01-035",
+          "name": {
+            "en": "Safety helmets",
+            "ar": "خوذ السلامة"
+          },
+          "specs": {
+            "spec": {
+              "en": "ABS or HDPE, CE; about 435 g; colours to order",
+              "ar": "⁦ABS⁩ أو ⁦HDPE⁩، ⁦CE⁩؛ نحو ⁦435⁩ جم؛ الألوان حسب الطلب"
+            },
+            "models": {
+              "en": "6",
+              "ar": "6"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "S–5XL",
+        "ar": "⁦S–5XL⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      },
+      "intro": {
+        "en": "Standards and certificates as stated by the manufacturers; customer logos printed on request.",
+        "ar": "المعايير والشهادات حسب بيانات المصنّعين؛ وتُطبع شعارات العملاء عند الطلب."
+      }
+    }
+  ]
+}

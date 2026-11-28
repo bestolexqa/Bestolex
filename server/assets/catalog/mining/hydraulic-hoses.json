@@ -1,0 +1,117 @@
+{
+  "id": "hydraulic-hoses",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-10 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-10 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "hoses",
+      "label": {
+        "en": "Hydraulic & air hoses",
+        "ar": "خراطيم الهيدروليك والهواء"
+      },
+      "models": [
+        {
+          "code": "BX-0295-01-001",
+          "name": {
+            "en": "Steel-wire hydraulic hoses",
+            "ar": "خراطيم هيدروليك بالسلك الفولاذي"
+          },
+          "specs": {
+            "models": {
+              "en": "SAE 100 R1AT, R2AT, R12, R13, R15, R16, R17; EN 853 1SN / 2SN; EN 856 4SP / 4SH",
+              "ar": "⁦SAE 100 R1AT, R2AT, R12, R13, R15, R16, R17; EN 853 1SN / 2SN; EN 856 4SP / 4SH⁩"
+            },
+            "data": {
+              "en": "Braided and spiral wire; high-pressure hydraulic lines",
+              "ar": "سلك مجدول وحلزوني؛ خطوط هيدروليك بضغط عالٍ"
+            }
+          }
+        },
+        {
+          "code": "BX-0295-01-002",
+          "name": {
+            "en": "Textile & thermoplastic hoses",
+            "ar": "خراطيم بالنسيج وحرارية اللدونة"
+          },
+          "specs": {
+            "models": {
+              "en": "SAE 100 R3, R4, R5, R6, R7, R8, R9, R10; EN 853 1ST / 2ST",
+              "ar": "⁦SAE 100 R3, R4, R5, R6, R7, R8, R9, R10; EN 853 1ST / 2ST⁩"
+            },
+            "data": {
+              "en": "Textile-reinforced lower-pressure hydraulic lines; thermoplastic types R7 / R8",
+              "ar": "خطوط هيدروليك مقوّاة بالنسيج بضغط أقل؛ الأنواع حرارية اللدونة ⁦R7 / R8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0295-01-003",
+          "name": {
+            "en": "Stainless & nylon hoses",
+            "ar": "خراطيم ستانلس ونايلون"
+          },
+          "specs": {
+            "models": {
+              "en": "Stainless metal hoses; nylon tubing to SAE J844 type B",
+              "ar": "خراطيم معدنية ستانلس؛ أنابيب نايلون وفق ⁦SAE J844⁩ النوع ⁦B⁩"
+            },
+            "data": {
+              "en": "SAE J844 is the air-brake tubing standard",
+              "ar": "⁦SAE J844⁩ هو معيار أنابيب فرامل الهواء"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "SAE · EN",
+        "ar": "⁦SAE · EN⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ]
+}

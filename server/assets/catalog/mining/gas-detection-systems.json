@@ -1,0 +1,117 @@
+{
+  "id": "gas-detection-systems",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXS-01 Ed2⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXS-01 Ed2 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "systems",
+      "label": {
+        "en": "Gas detectors & controllers",
+        "ar": "كواشف الغاز ووحدات التحكم"
+      },
+      "models": [
+        {
+          "code": "BX-0825-01-001",
+          "name": {
+            "en": "Portable gas detectors",
+            "ar": "كواشف غاز محمولة"
+          },
+          "specs": {
+            "models": {
+              "en": "Single-gas, 4-in-1, pump-suction",
+              "ar": "أحادية، وأربعة في واحد، وبمضخة شفط"
+            },
+            "data": {
+              "en": "O2, CO, EX (LEL), H2S and other gases; audible, visual and vibration alarms",
+              "ar": "⁦O2⁩ و⁦CO⁩ و⁦EX⁩ ‏(⁦LEL⁩) و⁦H2S⁩ وغازات أخرى؛ إنذار صوتي وضوئي واهتزازي"
+            }
+          }
+        },
+        {
+          "code": "BX-0825-01-002",
+          "name": {
+            "en": "Fixed / online gas detectors",
+            "ar": "كواشف غاز ثابتة / متصلة"
+          },
+          "specs": {
+            "models": {
+              "en": "Single-gas, 4-in-1, wireless, high-temperature",
+              "ar": "أحادية، وأربعة في واحد، ولاسلكية، وللحرارة العالية"
+            },
+            "data": {
+              "en": "For permanent installation in plants and stores",
+              "ar": "للتركيب الدائم في المصانع والمخازن"
+            }
+          }
+        },
+        {
+          "code": "BX-0825-01-003",
+          "name": {
+            "en": "Gas alarm controllers",
+            "ar": "وحدات التحكم بإنذار الغاز"
+          },
+          "specs": {
+            "models": {
+              "en": "Control panels",
+              "ar": "لوحات تحكم"
+            },
+            "data": {
+              "en": "Connect and monitor fixed detectors",
+              "ar": "تربط الكواشف الثابتة وتراقبها"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Portable · Fixed",
+        "ar": "محمولة · ثابتة"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "id": "centrifugal-concentrators",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-05 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-05 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "feed",
+      "label": {
+        "en": "Feed size (mm)",
+        "ar": "حجم التغذية (مم)"
+      }
+    },
+    {
+      "key": "density",
+      "label": {
+        "en": "Feed density (%)",
+        "ar": "كثافة التغذية (%)"
+      }
+    },
+    {
+      "key": "fluid",
+      "label": {
+        "en": "Fluidising water (t/h)",
+        "ar": "ماء التمييع (طن/ساعة)"
+      }
+    },
+    {
+      "key": "conc",
+      "label": {
+        "en": "Concentrate (kg/cycle)",
+        "ar": "المركّز (كجم/دورة)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "speed",
+      "label": {
+        "en": "Speed (r/min)",
+        "ar": "السرعة (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "water-p",
+      "label": {
+        "en": "Water pressure (MPa)",
+        "ar": "ضغط الماء (ميجاباسكال)"
+      }
+    },
+    {
+      "key": "weight",
+      "label": {
+        "en": "Weight (kg)",
+        "ar": "الوزن (كجم)"
+      }
+    },
+    {
+      "key": "max-feed",
+      "label": {
+        "en": "Max. feed size (mm)",
+        "ar": "أقصى حجم تغذية (مم)"
+      }
+    },
+    {
+      "key": "rec-feed",
+      "label": {
+        "en": "Recommended feed (mm)",
+        "ar": "التغذية الموصى بها (مم)"
+      }
+    },
+    {
+      "key": "air",
+      "label": {
+        "en": "Air pressure (MPa)",
+        "ar": "ضغط الهواء (ميجاباسكال)"
+      }
+    },
+    {
+      "key": "motor",
+      "label": {
+        "en": "Motor (kW)",
+        "ar": "المحرك (كيلوواط)"
+      }
+    },
+    {
+      "key": "water",
+      "label": {
+        "en": "Water use (m³/t)",
+        "ar": "استهلاك الماء (م³/طن)"
+      }
+    },
+    {
+      "key": "batch",
+      "label": {
+        "en": "Concentrate per batch (kg)",
+        "ar": "المركّز في الدفعة (كجم)"
+      }
+    }
+  ],
+  "keyRows": [
+    "capacity",
+    "feed",
+    "density"
+  ],
+  "types": [
+    {
+      "id": "bc",
+      "label": {
+        "en": "BC gold centrifugal concentrators",
+        "ar": "مركّزات الذهب الطاردة المركزية ⁦BC⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0016-01-015 / BC19",
+          "name": {
+            "en": "BC19",
+            "ar": "BC19"
+          },
+          "specs": {
+            "capacity": {
+              "en": "0.25–0.3",
+              "ar": "⁦0.25–0.3⁩"
+            },
+            "feed": {
+              "en": "0–3",
+              "ar": "⁦0–3⁩"
+            },
+            "density": {
+              "en": "0–50",
+              "ar": "⁦0–50⁩"
+            },
+            "fluid": {
+              "en": "1.5–2",
+              "ar": "⁦1.5–2⁩"
+            },
+            "conc": {
+              "en": "2–3",
+              "ar": "⁦2–3⁩"
+            },
+            "power": {
+              "en": "0.75",
+              "ar": "⁦0.75⁩"
+            },
+            "speed": {
+              "en": "800",
+              "ar": "800"
+            },
+            "water-p": {
+              "en": "0.04",
+              "ar": "⁦0.04⁩"
+            },
+            "weight": {
+              "en": "145",
+              "ar": "145"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-015 / BC30",
+          "name": {
+            "en": "BC30",
+            "ar": "BC30"
+          },
+          "specs": {
+            "capacity": {
+              "en": "2–3",
+              "ar": "⁦2–3⁩"
+            },
+            "feed": {
+              "en": "0–4",
+              "ar": "⁦0–4⁩"
+            },
+            "density": {
+              "en": "0–50",
+              "ar": "⁦0–50⁩"
+            },
+            "fluid": {
+              "en": "4–6",
+              "ar": "⁦4–6⁩"
+            },
+            "conc": {
+              "en": "10–20",
+              "ar": "⁦10–20⁩"
+            },
+            "power": {
+              "en": "1.5",
+              "ar": "⁦1.5⁩"
+            },
+            "speed": {
+              "en": "600",
+              "ar": "600"
+            },
+            "water-p": {
+              "en": "0.12",
+              "ar": "⁦0.12⁩"
+            },
+            "weight": {
+              "en": "400",
+              "ar": "400"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-015 / BC60",
+          "name": {
+            "en": "BC60",
+            "ar": "BC60"
+          },
+          "specs": {
+            "capacity": {
+              "en": "10–15",
+              "ar": "⁦10–15⁩"
+            },
+            "feed": {
+              "en": "0–6",
+              "ar": "⁦0–6⁩"
+            },
+            "density": {
+              "en": "0–50",
+              "ar": "⁦0–50⁩"
+            },
+            "fluid": {
+              "en": "10–15",
+              "ar": "⁦10–15⁩"
+            },
+            "conc": {
+              "en": "30–40",
+              "ar": "⁦30–40⁩"
+            },
+            "power": {
+              "en": "4",
+              "ar": "4"
+            },
+            "speed": {
+              "en": "460",
+              "ar": "460"
+            },
+            "water-p": {
+              "en": "0.25",
+              "ar": "⁦0.25⁩"
+            },
+            "weight": {
+              "en": "1300",
+              "ar": "1300"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-015 / BC80",
+          "name": {
+            "en": "BC80",
+            "ar": "BC80"
+          },
+          "specs": {
+            "capacity": {
+              "en": "35–40",
+              "ar": "⁦35–40⁩"
+            },
+            "feed": {
+              "en": "0–6",
+              "ar": "⁦0–6⁩"
+            },
+            "density": {
+              "en": "0–50",
+              "ar": "⁦0–50⁩"
+            },
+            "fluid": {
+              "en": "45–55",
+              "ar": "⁦45–55⁩"
+            },
+            "conc": {
+              "en": "60–70",
+              "ar": "⁦60–70⁩"
+            },
+            "power": {
+              "en": "11",
+              "ar": "11"
+            },
+            "speed": {
+              "en": "400",
+              "ar": "400"
+            },
+            "water-p": {
+              "en": "0.35",
+              "ar": "⁦0.35⁩"
+            },
+            "weight": {
+              "en": "1500",
+              "ar": "1500"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-015 / BC100",
+          "name": {
+            "en": "BC100",
+            "ar": "BC100"
+          },
+          "specs": {
+            "capacity": {
+              "en": "70–85",
+              "ar": "⁦70–85⁩"
+            },
+            "feed": {
+              "en": "0–6",
+              "ar": "⁦0–6⁩"
+            },
+            "density": {
+              "en": "0–50",
+              "ar": "⁦0–50⁩"
+            },
+            "fluid": {
+              "en": "60–70",
+              "ar": "⁦60–70⁩"
+            },
+            "conc": {
+              "en": "70–80",
+              "ar": "⁦70–80⁩"
+            },
+            "power": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            },
+            "speed": {
+              "en": "360",
+              "ar": "360"
+            },
+            "water-p": {
+              "en": "0.4",
+              "ar": "⁦0.4⁩"
+            },
+            "weight": {
+              "en": "2000",
+              "ar": "2000"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-015 / BC120",
+          "name": {
+            "en": "BC120",
+            "ar": "BC120"
+          },
+          "specs": {
+            "capacity": {
+              "en": "100–120",
+              "ar": "⁦100–120⁩"
+            },
+            "feed": {
+              "en": "0–6",
+              "ar": "⁦0–6⁩"
+            },
+            "density": {
+              "en": "0–50",
+              "ar": "⁦0–50⁩"
+            },
+            "fluid": {
+              "en": "70–80",
+              "ar": "⁦70–80⁩"
+            },
+            "conc": {
+              "en": "110–120",
+              "ar": "⁦110–120⁩"
+            },
+            "power": {
+              "en": "22",
+              "ar": "22"
+            },
+            "speed": {
+              "en": "360",
+              "ar": "360"
+            },
+            "water-p": {
+              "en": "0.5",
+              "ar": "⁦0.5⁩"
+            },
+            "weight": {
+              "en": "3000",
+              "ar": "3000"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "0.25–120 t/h",
+        "ar": "⁦0.25⁠–⁠120⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "capacity",
+        "conc",
+        "power"
+      ]
+    },
+    {
+      "id": "gxd",
+      "label": {
+        "en": "GXD centrifugal concentrators",
+        "ar": "مركّزات ⁦GXD⁩ الطاردة المركزية"
+      },
+      "models": [
+        {
+          "code": "BX-0021-02-023 / GXD30",
+          "name": {
+            "en": "GXD30",
+            "ar": "GXD30"
+          },
+          "specs": {
+            "capacity": {
+              "en": "3–10",
+              "ar": "⁦3–10⁩"
+            },
+            "max-feed": {
+              "en": "6",
+              "ar": "6"
+            },
+            "rec-feed": {
+              "en": "−2",
+              "ar": "⁦−2⁩"
+            },
+            "density": {
+              "en": "< 70",
+              "ar": "⁦< 70⁩"
+            },
+            "air": {
+              "en": "0.5–0.7",
+              "ar": "⁦0.5–0.7⁩"
+            },
+            "motor": {
+              "en": "2.2",
+              "ar": "⁦2.2⁩"
+            },
+            "water": {
+              "en": "4–6",
+              "ar": "⁦4–6⁩"
+            },
+            "batch": {
+              "en": "2–5",
+              "ar": "⁦2–5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-02-023 / GXD50",
+          "name": {
+            "en": "GXD50",
+            "ar": "GXD50"
+          },
+          "specs": {
+            "capacity": {
+              "en": "10–50",
+              "ar": "⁦10–50⁩"
+            },
+            "max-feed": {
+              "en": "6",
+              "ar": "6"
+            },
+            "rec-feed": {
+              "en": "−2",
+              "ar": "⁦−2⁩"
+            },
+            "density": {
+              "en": "< 70",
+              "ar": "⁦< 70⁩"
+            },
+            "air": {
+              "en": "0.5–0.7",
+              "ar": "⁦0.5–0.7⁩"
+            },
+            "motor": {
+              "en": "5.5",
+              "ar": "⁦5.5⁩"
+            },
+            "water": {
+              "en": "10–15",
+              "ar": "⁦10–15⁩"
+            },
+            "batch": {
+              "en": "8–15",
+              "ar": "⁦8–15⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-02-023 / GXD80",
+          "name": {
+            "en": "GXD80",
+            "ar": "GXD80"
+          },
+          "specs": {
+            "capacity": {
+              "en": "30–70",
+              "ar": "⁦30–70⁩"
+            },
+            "max-feed": {
+              "en": "6",
+              "ar": "6"
+            },
+            "rec-feed": {
+              "en": "−2",
+              "ar": "⁦−2⁩"
+            },
+            "density": {
+              "en": "< 70",
+              "ar": "⁦< 70⁩"
+            },
+            "air": {
+              "en": "0.5–0.7",
+              "ar": "⁦0.5–0.7⁩"
+            },
+            "motor": {
+              "en": "11",
+              "ar": "11"
+            },
+            "water": {
+              "en": "16–25",
+              "ar": "⁦16–25⁩"
+            },
+            "batch": {
+              "en": "20–30",
+              "ar": "⁦20–30⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-02-023 / GXD100",
+          "name": {
+            "en": "GXD100",
+            "ar": "GXD100"
+          },
+          "specs": {
+            "capacity": {
+              "en": "50–120",
+              "ar": "⁦50–120⁩"
+            },
+            "max-feed": {
+              "en": "6",
+              "ar": "6"
+            },
+            "rec-feed": {
+              "en": "−2",
+              "ar": "⁦−2⁩"
+            },
+            "density": {
+              "en": "< 70",
+              "ar": "⁦< 70⁩"
+            },
+            "air": {
+              "en": "0.5–0.7",
+              "ar": "⁦0.5–0.7⁩"
+            },
+            "motor": {
+              "en": "22",
+              "ar": "22"
+            },
+            "water": {
+              "en": "25–45",
+              "ar": "⁦25–45⁩"
+            },
+            "batch": {
+              "en": "25–60",
+              "ar": "⁦25–60⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-02-023 / GXD120",
+          "name": {
+            "en": "GXD120",
+            "ar": "GXD120"
+          },
+          "specs": {
+            "capacity": {
+              "en": "70–180",
+              "ar": "⁦70–180⁩"
+            },
+            "max-feed": {
+              "en": "6",
+              "ar": "6"
+            },
+            "rec-feed": {
+              "en": "−2",
+              "ar": "⁦−2⁩"
+            },
+            "density": {
+              "en": "< 70",
+              "ar": "⁦< 70⁩"
+            },
+            "air": {
+              "en": "0.5–0.7",
+              "ar": "⁦0.5–0.7⁩"
+            },
+            "motor": {
+              "en": "30",
+              "ar": "30"
+            },
+            "water": {
+              "en": "40–65",
+              "ar": "⁦40–65⁩"
+            },
+            "batch": {
+              "en": "45–70",
+              "ar": "⁦45–70⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "3–180 t/h",
+        "ar": "⁦3⁠–⁠180⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "60G, 90G and 120G versions; polyurethane inner cone; automatic control.",
+        "ar": "إصدارات ⁦60G⁩ و⁦90G⁩ و⁦120G⁩؛ مخروط داخلي من البولي يوريثان؛ تحكم آلي."
+      },
+      "keyRows": [
+        "capacity",
+        "batch",
+        "motor"
+      ]
+    }
+  ]
+}

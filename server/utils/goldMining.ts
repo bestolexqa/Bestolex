@@ -114,21 +114,52 @@ export const STAGES: Stage[] = [
     ]
   },
   {
-    id: 'washing-gold-concentration', n: 4, kind: 'line', code: 'BXC-05', edition: '4',
+    id: 'washing-gold-concentration', n: 4, kind: 'line', code: 'BXC-05', edition: '4', sub: 'washing-gold-concentration',
     title: L('الغسيل وتركيز الذهب', 'Washing & Gold Concentration'),
     short: L('غسالات الخام وأجهزة الجيج والمركّزات الطاردة المركزية والمجاري الحلزونية والطاولات الهزّازة والكراكات.', 'Ore washers, jigs, centrifugal concentrators, spirals, shaking tables and dredgers.'),
     lead: L('غسالات الخام وأجهزة الجيج والمركّزات الطاردة المركزية والمجاري الحلزونية والطاولات الهزّازة والكراكات، لفصل الذهب الحر وتركيزه.',
       'Ore washers, jigs, centrifugal concentrators, spirals, shaking tables and dredgers, to recover and concentrate free gold.'),
     families: 16, models: 200,
-    image: '/gold-mining/stages/washing-gold-concentration.webp', cover: '/gold-mining/covers/bxc-05.webp', cta: CTA_DEFAULT
+    image: '/gold-mining/stages/washing-gold-concentration.webp', cover: '/gold-mining/covers/bxc-05.webp',
+    cta: { title: L('لا تعرف أي معدة تناسب خامك؟', 'Not sure which equipment fits your ore?'),
+      text: L('أرسل نوع الرواسب (غريني أو طيني أو خام مطحون)، وحجم الذهب، والطاقة المطلوبة، ومصدر الماء في الموقع، ونقترح عليك خط الغسيل والتركيز.', 'Send us the deposit type (alluvial, clay-bound or ground ore), the gold particle size, the capacity you need and the water on site, and we suggest the washing and concentration line.') },
+    types: [
+      { id: 'washing', chip: L('الغسيل', 'Washing'), badge: L('غسيل الخام', 'Ore washing') },
+      { id: 'jigs', chip: L('الجيج', 'Jigs'), badge: L('أجهزة الجيج', 'Jigs') },
+      { id: 'concentration', chip: L('التركيز', 'Concentration'), badge: L('تركيز الذهب', 'Gold concentration') },
+      { id: 'magnetic', chip: L('الفصل المغناطيسي', 'Magnetic'), badge: L('فصل مغناطيسي', 'Magnetic separation') },
+      { id: 'placer', chip: L('الرواسب الغرينية', 'Placer & dredging'), badge: L('رواسب غرينية', 'Placer & dredging') }
+    ],
+    how: [
+      { title: L('نوع الرواسب', 'Deposit type'), text: L('الرواسب الطينية تحتاج غسالة أسطوانية أو غسالة طين أولاً، والرمل النظيف يذهب مباشرة إلى الغربلة والتركيز.', 'Clay-bound deposits need a scrubber or log washer first; clean sand goes straight to screening and concentration.') },
+      { title: L('حجم الذهب', 'Gold particle size'), text: L('الذهب الخشن والرقائقي للجيج ومجاري الغسيل، والناعم للمركّزات الطاردة والطاولات الهزّازة.', 'Coarse and flaky gold suits jigs and sluices; fine gold suits centrifugal concentrators and shaking tables.') },
+      { title: L('الطاقة المطلوبة', 'Capacity'), text: L('قارنها بعمود الطاقة في الجدول، واختر كل معدة في الخط بالطاقة نفسها.', 'Compare it with the capacity column, and size every machine in the line to the same throughput.') },
+      { title: L('الماء في الموقع', 'Water on site'), text: L('حيث الماء قليل اختر أجهزة جيج JT الموفرة والمركّزات الحلزونية التي لا تحتاج كهرباء.', 'Where water is scarce, choose water-saving JT jigs and spirals that need no power.') }
+    ]
   },
   {
-    id: 'ore-processing-plants', n: 5, kind: 'line', code: 'BXC-06', edition: '7',
+    id: 'ore-processing-plants', n: 5, kind: 'line', code: 'BXC-06', edition: '7', sub: 'ore-processing-plants',
     title: L('معالجة الخام والمصانع', 'Ore Processing & Plants'),
-    short: L('مصانع معالجة متكاملة، والتعويم، وأحواض الترشيح، واسترجاع الذهب، والمكثفات والمكابس.', 'Complete processing plants, flotation, leaching tanks, gold recovery, thickeners and filter presses.'),
-    lead: L('مصانع معالجة متكاملة، والتعويم، وأحواض الترشيح، واسترجاع الذهب، والمكثفات والمكابس.', 'Complete processing plants, flotation, leaching tanks, gold recovery, thickeners and filter presses.'),
+    short: L('مصانع معالجة متكاملة، والتعويم، وأحواض الإذابة، واسترجاع الذهب، والمكثّفات والمكابس.', 'Complete processing plants, flotation, leaching tanks, gold recovery, thickeners and filter presses.'),
+    lead: L('مصانع ذهب متكاملة بالجاذبية أو CIL / CIP أو التعويم، وآلات التعويم وأحواض التقليب والإذابة، ووحدات الاستخلاص والتحليل الكهربائي، والمجففات والأفران الدوّارة، والمكثّفات ومكابس الترشيح، من الطاحونة إلى الكعكة الجافة.',
+      'Complete gravity, CIL / CIP or flotation gold plants, flotation machines, agitation and leaching tanks, elution and electrowinning units, rotary dryers and kilns, thickeners and filter presses, from the mill to the dry cake.'),
     families: 12, models: 325,
-    image: '/gold-mining/stages/ore-processing-plants.webp', cover: '/gold-mining/covers/bxc-06.webp', cta: CTA_DEFAULT
+    image: '/gold-mining/stages/ore-processing-plants.webp', cover: '/gold-mining/covers/bxc-06.webp',
+    cta: { title: L('تخطط لمصنع ذهب؟', 'Planning a gold plant?'),
+      text: L('أرسل نوع الخام ورتبته، والطاقة المطلوبة بالطن في اليوم، ونتائج اختبار الخام إن وُجدت، ونقترح عليك المخطط والمعدات.', 'Send us the ore type and grade, the throughput in t/d and any ore test results, and we suggest the flowsheet and equipment.') },
+    types: [
+      { id: 'plants', chip: L('المصانع المتكاملة', 'Complete plants'), badge: L('مصنع متكامل', 'Complete plant') },
+      { id: 'flotation', chip: L('التعويم والتقليب', 'Flotation & agitation'), badge: L('التعويم والتقليب', 'Flotation & agitation') },
+      { id: 'leaching', chip: L('الإذابة والاسترجاع', 'Leaching & recovery'), badge: L('الإذابة والاسترجاع', 'Leaching & recovery') },
+      { id: 'thermal', chip: L('التجفيف والتحميص', 'Drying & roasting'), badge: L('التجفيف والتحميص', 'Drying & roasting') },
+      { id: 'dewatering', chip: L('التكثيف والترشيح', 'Thickening & filtration'), badge: L('التكثيف والترشيح', 'Thickening & filtration') }
+    ],
+    how: [
+      { title: L('اختبار الخام', 'Ore test'), text: L('رتبة الذهب وحجم حبيباته ونوع الخام تحدد الطريقة: جاذبية أو CIL / CIP أو تعويم.', 'Gold grade, grain size and ore type decide the route: gravity, CIL / CIP or flotation.') },
+      { title: L('الطاقة اليومية', 'Daily throughput'), text: L('الطاقة بالطن في اليوم تحدد مقاس الطاحونة وعدد خلايا التعويم وحجم أحواض الإذابة.', 'Throughput in t/d sets the mill size, the number of flotation cells and the leach tank volume.') },
+      { title: L('زمن البقاء', 'Residence time'), text: L('حجم أحواض الإذابة = تدفق اللب × زمن الإذابة من الاختبار، موزّعاً على أحواض السلسلة.', 'Leach volume = pulp flow × leach time from the test, split across the tanks in the train.') },
+      { title: L('الماء والكعكة', 'Water and cake'), text: L('المكثّف يسترجع الماء، ومكبس الترشيح يعطي كعكة جافة للتخزين أو الشحن.', 'The thickener recovers water, and the filter press gives a dry cake for storage or shipping.') }
+    ]
   },
   {
     id: 'process-chemicals', n: 6, kind: 'line', code: 'BXC-11', edition: '1', licensed: true,
@@ -139,49 +170,219 @@ export const STAGES: Stage[] = [
     image: '/gold-mining/stages/process-chemicals.webp', cover: '', cta: CTA_DEFAULT
   },
   {
-    id: 'smelting-refining', n: 7, kind: 'line', code: 'BXC-08', edition: '7',
+    id: 'smelting-refining', n: 7, kind: 'line', code: 'BXC-08', edition: '7', sub: 'smelting-refining',
     title: L('الصهر والتنقية', 'Smelting & Refining'),
     short: L('أفران صهر الذهب بالحث، والبوتقات، والطوب الحراري، والعوازل.', 'Induction gold-melting furnaces, crucibles, refractory bricks and insulation.'),
-    lead: L('أفران صهر الذهب بالحث، والبوتقات، والطوب الحراري، والعوازل.', 'Induction gold-melting furnaces, crucibles, refractory bricks and insulation.'),
+    lead: L('أفران صهر الذهب بالحث من 1 إلى 500 كجم، وبوتقات الكوارتز وكربيد السيليكون، والطوب والخرسانات الحرارية، والألياف الخزفية لعزل الأفران، من الصهرة الأولى إلى السبيكة.',
+      'Induction gold-melting furnaces from 1 to 500 kg, quartz and silicon-carbide crucibles, firebricks and castables, and ceramic fibre to insulate the furnace, from the first melt to the bar.'),
     families: 6, models: 144,
-    image: '/gold-mining/stages/smelting-refining.webp', cover: '/gold-mining/covers/bxc-08.webp', cta: CTA_DEFAULT
+    image: '/gold-mining/stages/smelting-refining.webp', cover: '/gold-mining/covers/bxc-08.webp',
+    cta: { title: L('لا تعرف أي فرن يناسب إنتاجك؟', 'Not sure which furnace fits your output?'),
+      text: L('أرسل كمية الذهب في كل صهرة، وعدد الصهرات في اليوم، ومصدر الكهرباء في الموقع، ونقترح عليك الفرن والبوتقة.', 'Send us the gold per melt, the melts per day and the power on site, and we suggest the furnace and crucible.') },
+    types: [
+      { id: 'furnaces', chip: L('أفران الصهر', 'Furnaces'), badge: L('أفران الصهر', 'Melting furnaces') },
+      { id: 'crucibles', chip: L('البوتقات', 'Crucibles'), badge: L('البوتقات', 'Crucibles') },
+      { id: 'refractories', chip: L('الحراريات والعزل', 'Refractories & insulation'), badge: L('الحراريات والعزل', 'Refractories & insulation') }
+    ],
+    how: [
+      { title: L('الكمية في كل صهرة', 'Gold per melt'), text: L('قارنها بعمود سعة الصهر في جدول الفرن، واترك هامشاً للبوتقة.', 'Compare it with the melting capacity column in the furnace table, with a margin for the crucible.') },
+      { title: L('الكهرباء في الموقع', 'Power on site'), text: L('الوحدات الصغيرة تعمل على 220 فولت، والأكبر تحتاج 380 فولت ثلاثية الأطوار أو مولداً بالقدرة نفسها.', 'Small units run on 220 V; larger ones need 380 V three-phase or a generator of the same rating.') },
+      { title: L('التبريد', 'Cooling'), text: L('أفران الحث مبرّدة بالماء: جهّز ماءً بالضغط المذكور أو مبرّداً هوائياً.', 'Induction furnaces are water cooled: plan water at the stated pressure, or an air-cooled chiller.') },
+      { title: L('البوتقة والبطانة', 'Crucible and lining'), text: L('اختر البوتقة بقطر الفرن وكمية الصهرة، والطوب أو الخرسانة الحرارية بحرارة التشغيل.', 'Choose the crucible by furnace diameter and melt size, and the bricks or castable by service temperature.') }
+    ]
   },
   {
-    id: 'pumps-slurry-handling', n: 0, kind: 'support', code: 'BXC-07', edition: '5',
+    id: 'pumps-slurry-handling', n: 0, kind: 'support', code: 'BXC-07', edition: '5', sub: 'pumps-slurry-handling',
     title: L('المضخات ونقل اللب', 'Pumps & Slurry Handling'),
     short: L('مضخات اللب والحصى والنزح، والصمامات والأنابيب والخراطيم.', 'Slurry, gravel and dewatering pumps, valves, pipes and hoses.'),
-    lead: L('مضخات اللب والحصى والنزح، والصمامات والأنابيب والخراطيم.', 'Slurry, gravel and dewatering pumps, valves, pipes and hoses.'),
+    lead: L('مضخات اللب والحصى والكراكات والأحواض، ومضخات النزح والآبار والمياه، وقطع التآكل، والأنابيب والخراطيم، والصمامات السكينية وصمامات المياه، من الطاحونة إلى بركة المخلفات.',
+      'Slurry, gravel, dredge and sump pumps, dewatering, borehole and water pumps, wear parts, pipes and hoses, and knife gate and water-line valves, from the mill to the tailings pond.'),
     families: 17, models: 174,
-    image: '/gold-mining/support/pumps-slurry-handling.webp', cover: '/gold-mining/covers/bxc-07.webp', cta: CTA_DEFAULT
+    image: '/gold-mining/support/pumps-slurry-handling.webp', cover: '/gold-mining/covers/bxc-07.webp',
+    cta: { title: L('لا تعرف أي مضخة تناسب خطك؟', 'Not sure which pump fits your line?'),
+      text: L('أرسل التدفق والرفع الكلي، وكثافة اللب وأكبر حبيبة فيه، ومصدر الكهرباء في الموقع، ونقترح عليك المضخة والصمامات والخراطيم.', 'Send us the flow and total head, the slurry density and largest particle, and the power on site, and we suggest the pump, valves and hoses.') },
+    types: [
+      { id: 'slurry', chip: L('مضخات اللب', 'Slurry pumps'), badge: L('مضخات اللب', 'Slurry pumps') },
+      { id: 'water', chip: L('النزح والمياه', 'Dewatering & water'), badge: L('النزح والمياه', 'Dewatering & water') },
+      { id: 'lines', chip: L('القطع والأنابيب والخراطيم', 'Parts, pipes & hoses'), badge: L('القطع والأنابيب', 'Parts & pipes') },
+      { id: 'valves', chip: L('الصمامات', 'Valves'), badge: L('الصمامات', 'Valves') }
+    ],
+    how: [
+      { title: L('التدفق والرفع', 'Flow and head'), text: L('احسب التدفق بالمتر المكعب في الساعة والرفع الكلي مع فقد الأنابيب، وقارنهما بعمودي الطاقة والرفع في الجدول.', 'Work out the flow in m³/h and the total head including pipe losses, and compare them with the capacity and head columns.') },
+      { title: L('اللب والحبيبات', 'Slurry and particles'), text: L('كثافة اللب وأكبر حبيبة تحددان نوع المضخة: لب أو حصى أو كراكات، وممرها.', 'Slurry density and the largest particle decide the pump type (slurry, gravel or dredge) and its passage.') },
+      { title: L('البطانة', 'Liner'), text: L('البطانة المعدنية عالية الكروم للحبيبات الخشنة، والمطاطية للحبيبات الناعمة والكشط الخفيف.', 'High-chrome metal liners suit coarse particles; rubber suits fine particles and lighter abrasion.') },
+      { title: L('الصمامات والخطوط', 'Valves and lines'), text: L('اختر الصمام السكيني والخرطوم بقطر الخط وضغطه، ومقعداً مطاطياً أو بولي يوريثان للب الكاشط.', 'Choose the knife gate and hose by line size and pressure, with a rubber or polyurethane seat for abrasive slurry.') }
+    ]
   },
   {
-    id: 'laboratory-assay', n: 0, kind: 'support', code: 'BXC-09', edition: '6',
+    id: 'laboratory-assay', n: 0, kind: 'support', code: 'BXC-09', edition: '6', sub: 'laboratory-assay',
     title: L('المختبر والتحليل', 'Laboratory & Assay'),
     short: L('تحضير العينات، والتحليل بالنار، والموازين، وأجهزة XRF وAAS.', 'Sample preparation, fire assay, balances, and XRF and AAS instruments.'),
     lead: L('تحضير العينات، والتحليل بالنار، والموازين، وأجهزة XRF وAAS.', 'Sample preparation, fire assay, balances, and XRF and AAS instruments.'),
     families: 16, models: 294,
-    image: '/gold-mining/support/laboratory-assay.webp', cover: '/gold-mining/covers/bxc-09.webp', cta: CTA_DEFAULT
+    image: '/gold-mining/support/laboratory-assay.webp', cover: '/gold-mining/covers/bxc-09.webp',
+    cta: { title: L('تجهّز مختبر تحليل لموقعك؟', 'Setting up an assay lab for your site?'),
+      text: L('أرسل عدد العينات في اليوم، وطريقة التحليل (بالنار أو AAS أو XRF)، والكهرباء المتاحة، ونقترح عليك قائمة المعدات أو مختبراً في حاوية.', 'Send us the samples per day, the assay method (fire assay, AAS or XRF) and the power available, and we suggest the equipment list or a containerised lab.') },
+    types: [
+      { id: 'prep', chip: L('تحضير العينات', 'Sample prep'), badge: L('تحضير العينات', 'Sample preparation') },
+      { id: 'fire', chip: L('التحليل بالنار', 'Fire assay'), badge: L('التحليل بالنار', 'Fire assay') },
+      { id: 'weighing', chip: L('الوزن', 'Weighing'), badge: L('الوزن', 'Weighing') },
+      { id: 'instruments', chip: L('أجهزة التحليل', 'Analysers'), badge: L('أجهزة التحليل', 'Instrumental analysis') },
+      { id: 'testing', chip: L('الاختبارات', 'Testing'), badge: L('الاختبارات', 'Testing') }
+    ],
+    how: [
+      { title: L('عدد العينات', 'Sample load'), text: L('عدد العينات في اليوم يحدد مقاس الكسارات والساحقات وعدد مواضع أفران الصهر والتكويب.', 'Samples per day set the size of the crushers and pulverisers and the number of fusion and cupellation positions.') },
+      { title: L('طريقة التحليل', 'Assay method'), text: L('التحليل بالنار مرجع الذهب، والامتصاص الذري لمحاليل الإذابة، وXRF للفحص السريع ورتبة الخام.', 'Fire assay is the gold reference, AAS suits leach solutions and XRF gives quick checks and ore grade.') },
+      { title: L('دقة الوزن', 'Weighing precision'), text: L('وزن حبات الذهب يحتاج 0.1 ملغ أو أدق، ووزن العينات والأكياس يكفيه ميزان دقيق أو منصة.', 'Gold beads need 0.1 mg or finer; samples and bags need a precision or platform balance.') },
+      { title: L('الكهرباء والمكان', 'Power and space'), text: L('أفران الصهر ثلاثية الأطوار حتى 40 كيلوواط؛ وفي المواقع البعيدة يُجهّز المختبر في حاوية.', 'Fusion furnaces run three-phase up to 40 kW; at remote sites the lab can come in a container.') }
+    ]
   },
   {
-    id: 'fleet-support', n: 0, kind: 'support', code: 'BXC-10', edition: '4',
+    id: 'fleet-support', n: 0, kind: 'support', code: 'BXC-10', edition: '4', sub: 'fleet-support',
     title: L('دعم الأسطول', 'Fleet Support'),
-    short: L('إطارات الشاحنات واللوادر، والورشة، والموازين الجسرية، وأبراج الإنارة.', 'Truck and loader tyres, workshop equipment, weighbridges and lighting towers.'),
-    lead: L('إطارات الشاحنات واللوادر، والورشة، والموازين الجسرية، وأبراج الإنارة.', 'Truck and loader tyres, workshop equipment, weighbridges and lighting towers.'),
+    short: L('إطارات الشاحنات واللوادر، وخدمة الإطارات، والورشة وقطع الغيار، وأبراج الإنارة.', 'Truck and loader tyres, tyre service, workshop and spares, and lighting towers.'),
+    lead: L('إطارات الشاحنات والقلابات واللوادر والجريدرات والمناجم تحت الأرض، وصمامات الإطارات وأدوات إصلاحها، ومحامل الكسارات وقطع المطاحن، وعدد الورشة ومقاعد المشغلين، وخراطيم الهيدروليك، وأبراج الإنارة للعمل الليلي.',
+      'Tyres for trucks, dump trucks, loaders, graders and underground mines, tyre valves and repair tools, crusher bearings and mill spares, workshop tools and operator seats, hydraulic hoses, and light towers for night work.'),
     families: 12, models: 201,
-    image: '/gold-mining/support/fleet-support.webp', cover: '/gold-mining/covers/bxc-10.webp', cta: CTA_DEFAULT
+    image: '/gold-mining/support/fleet-support.webp', cover: '/gold-mining/covers/bxc-10.webp',
+    cta: { title: L('تجهّز أسطول موقعك؟', 'Equipping your site fleet?'),
+      text: L('أرسل قائمة المعدات (النوع والموديل ومقاس الإطار)، وطبيعة الأرض، وساعات العمل الليلي، ونقترح عليك الإطارات وقطع الغيار والإنارة.', 'Send us your machine list (type, model and tyre size), the ground conditions and the night-shift hours, and we suggest the tyres, spares and lighting.') },
+    types: [
+      { id: 'haul', chip: L('إطارات الشاحنات', 'Truck tyres'), badge: L('إطارات الشاحنات', 'Truck tyres') },
+      { id: 'machine', chip: L('إطارات المعدات', 'Machine tyres'), badge: L('إطارات المعدات', 'Machine tyres') },
+      { id: 'service', chip: L('خدمة الإطارات', 'Tyre service'), badge: L('خدمة الإطارات', 'Tyre service') },
+      { id: 'workshop', chip: L('الورشة وقطع الغيار', 'Workshop & spares'), badge: L('الورشة وقطع الغيار', 'Workshop & spares') },
+      { id: 'lighting', chip: L('الإنارة', 'Lighting'), badge: L('الإنارة', 'Lighting') }
+    ],
+    how: [
+      { title: L('مقاس الإطار', 'Tyre size'), text: L('اقرأ المقاس وعدد الطبقات أو فئة الخدمة من جانب الإطار الحالي، وحدد بأنبوب أو بدونه.', 'Read the size and the ply rating or service class off the current sidewall, and note tube or tubeless.') },
+      { title: L('الأرض والحمولة', 'Ground and load'), text: L('الصخر المكسّر يحتاج نقشة L-4 أو L-5 مقاومة للقطع، والرمل إطاراً رملياً، والمسافات الطويلة إطاراً راديال.', 'Broken rock needs a cut-resistant L-4 or L-5 tread, sand needs a sand tyre, and long hauls need a radial.') },
+      { title: L('قطع الغيار', 'Spares'), text: L('اطلب المحامل والشدّادات والخراطيم برقم القطعة أو المعيار المكتوب عليها لتطابق المعدة.', 'Order bearings, tensioners and hoses by the part number or standard marked on them so they match the machine.') },
+      { title: L('العمل الليلي', 'Night work'), text: L('برج على مقطورة بصاري 11 م للحفرة وساحة التحميل، وأبراج يدوية للورش والمخيم.', 'A trailer tower with an 11 m mast for the pit and loading area, and hand-push towers for workshops and the camp.') }
+    ]
   },
   {
-    id: 'safety-site-facilities', n: 0, kind: 'support', code: 'BXS-01 · BXS-02', edition: '2 · 1',
+    id: 'safety-site-facilities', n: 0, kind: 'support', code: 'BXS-01 · BXS-02', edition: '2 · 1', sub: 'safety-site-facilities',
     title: L('السلامة ومرافق الموقع', 'Safety & Site Facilities'),
     short: L('معدات الوقاية، وكشف الغاز، والحريق، والكرفانات والأسوار.', 'Protective equipment, gas detection, fire safety, cabins and fencing.'),
-    lead: L('معدات الوقاية، وكشف الغاز، والحريق، والكرفانات والأسوار.', 'Protective equipment, gas detection, fire safety, cabins and fencing.'),
+    lead: L('معدات الوقاية الشخصية من الخوذة إلى الحذاء، وأجهزة التنفس وكشف الغاز وغسيل العين، والطفايات وشبكات مياه الحريق، وأدوات تنظيم المرور، وبيوت الحاويات والمرافق والأسوار لمخيم الموقع.',
+      'PPE from helmet to boots, breathing apparatus, gas detection and eyewash, extinguishers and fire-water networks, traffic control, and container houses, facilities and fencing for the site camp.'),
     families: 17, models: 227,
-    image: '/gold-mining/support/safety-site-facilities.webp', cover: '/gold-mining/covers/bxs-01.webp', cta: CTA_DEFAULT
+    image: '/gold-mining/support/safety-site-facilities.webp', cover: '/gold-mining/covers/bxs-01.webp',
+    cta: { title: L('تجهّز موقعاً أو مخيماً جديداً؟', 'Equipping a new site or camp?'),
+      text: L('أرسل عدد العمال وطبيعة العمل (حفر، أو مصنع، أو صهر، أو كيماويات) ومرافق المخيم المطلوبة، ونقترح عليك قائمة السلامة والمرافق.', 'Send us the headcount, the type of work (drilling, plant, smelting or chemicals) and the camp facilities you need, and we suggest the safety and facilities list.') },
+    types: [
+      { id: 'ppe', chip: L('معدات الوقاية', 'PPE'), badge: L('معدات الوقاية', 'PPE') },
+      { id: 'gas', chip: L('التنفس والغاز', 'Breathing & gas'), badge: L('التنفس والغاز', 'Breathing & gas') },
+      { id: 'fire', chip: L('الحريق', 'Fire'), badge: L('الحريق', 'Fire protection') },
+      { id: 'traffic', chip: L('المرور والتحذير', 'Traffic & warning'), badge: L('المرور والتحذير', 'Traffic & warning') },
+      { id: 'camp', chip: L('المخيم والأسوار', 'Camp & fencing'), badge: L('المخيم والأسوار', 'Camp & fencing') }
+    ],
+    how: [
+      { title: L('عدد العمال', 'Headcount'), text: L('عدد العمال وتوزيع المقاسات يحددان كميات الملابس والأحذية والقفازات والخوذ.', 'Headcount and the size split set the quantities of workwear, footwear, gloves and helmets.') },
+      { title: L('طبيعة العمل', 'Type of work'), text: L('الحفر يحتاج حماية السمع والغبار، والصهر حماية الحرارة، ومناطق السيانيد كشف الغاز وغسيل العين.', 'Drilling needs hearing and dust protection, smelting needs heat protection, and cyanide areas need gas detection and eyewash.') },
+      { title: L('الحريق', 'Fire'), text: L('طفايات لكل مبنى ومولد، وشبكة مياه ورغوة لمخازن الوقود، وإنذار للمخيم.', 'Extinguishers for every building and generator, a water and foam network for fuel stores, and alarms for the camp.') },
+      { title: L('المخيم', 'Camp'), text: L('عدد الأشخاص والمرافق ومخطط الأرض تحدد بيوت الحاويات ودورات المياه والأسوار.', 'People, facilities and the site plan set the container houses, toilets and fencing.') }
+    ]
   }
 ]
 
 // Family pages: their place in the stage (group tab) and their chip.
 const FAMILY_META: Record<string, { group?: string, type?: string }> = {
+  'truck-haulage-tyres': { type: 'haul' },
+  'loader-grader-underground-tyres': { type: 'machine' },
+  'loader-mining-underground-otr-tyres': { type: 'machine' },
+  'grader-roller-backhoe-truck-tyres': { type: 'machine' },
+  'solid-industrial-skid-steer-tyres': { type: 'machine' },
+  'tyre-service-valves-repair-tools': { type: 'service' },
+  'bearings-mill-spares': { type: 'workshop' },
+  'workshop-tools-operator-seats-belt-parts': { type: 'workshop' },
+  'hydraulic-hoses': { type: 'workshop' },
+  'mobile-light-towers': { type: 'lighting' },
+  'high-visibility-workwear-helmets': { type: 'ppe' },
+  'head-eye-face-respiratory-hearing-fall-protection': { type: 'ppe' },
+  'work-safety-gloves': { type: 'ppe' },
+  'work-safety-gloves-additional-range': { type: 'ppe' },
+  'safety-footwear': { type: 'ppe' },
+  'disposable-protective-coveralls': { type: 'ppe' },
+  'heat-fire-protection-smelting': { type: 'ppe' },
+  'breathing-apparatus-respirators-suits': { type: 'gas' },
+  'cap-lamps-ventilation-gas-detection': { type: 'gas' },
+  'gas-detectors-emergency-eyewash': { type: 'gas' },
+  'gas-detection-systems': { type: 'gas' },
+  'fire-extinguishers-hose-reels-fire-alarms': { type: 'fire' },
+  'fire-pumps-hydrants-sprinklers-foam': { type: 'fire' },
+  'traffic-cones-barriers-delineators': { type: 'traffic' },
+  'warning-lights-mirrors-tapes-wheel-stops': { type: 'traffic' },
+  'container-houses-prefab-buildings': { type: 'camp' },
+  'portable-toilets-fencing-mesh-grating': { type: 'camp' },
+  'complete-gold-processing-plants': { type: 'plants' },
+  'flotation-machines-agitation-tanks': { type: 'flotation' },
+  'flotation-agitation-thickening-additional': { type: 'flotation' },
+  'leaching-tanks': { type: 'leaching' },
+  'elution-electrowinning-heap-leaching': { type: 'leaching' },
+  'rotary-dryers': { type: 'thermal' },
+  'rotary-kilns': { type: 'thermal' },
+  'thickeners': { type: 'dewatering' },
+  'filter-presses-reagent-dosing': { type: 'dewatering' },
+  'membrane-chamber-filter-presses': { type: 'dewatering' },
+  'filter-plates-options-belt-press-dosing': { type: 'dewatering' },
+  'filter-press-parts-vacuum-filter-belts': { type: 'dewatering' },
+  'horizontal-slurry-pumps': { type: 'slurry' },
+  'gravel-dredge-pumps': { type: 'slurry' },
+  'vertical-sump-pumps': { type: 'slurry' },
+  'slurry-gravel-submersible-pumps-additional': { type: 'slurry' },
+  'slurry-froth-dredge-pumps-additional': { type: 'slurry' },
+  'submersible-hydraulic-slurry-pumps': { type: 'slurry' },
+  'dewatering-water-deep-well-pumps': { type: 'water' },
+  'submersible-drainage-borehole-pumps': { type: 'water' },
+  'water-process-engine-driven-pumps': { type: 'water' },
+  'pump-wear-parts-slurry-hoses': { type: 'lines' },
+  'slurry-pipes-packings-gaskets': { type: 'lines' },
+  'industrial-rubber-hydraulic-hoses': { type: 'lines' },
+  'ductile-iron-steel-pipes-fittings-hoses': { type: 'lines' },
+  'knife-gate-slurry-process-valves': { type: 'valves' },
+  'water-line-valves-ductile-iron-steel': { type: 'valves' },
+  'knife-gate-valves-diaphragm-pumps': { type: 'valves' },
+  'knife-gate-valves-through-gate-self-sealing': { type: 'valves' },
+  'sample-crushing-pulverizing': { type: 'prep' },
+  'sample-division-sieving-drying-digestion': { type: 'prep' },
+  'sample-preparation-additional-range': { type: 'prep' },
+  'fire-assay-furnaces-cupels': { type: 'fire' },
+  'fire-assay-fluxing-lab-utilities': { type: 'fire' },
+  'laboratory-balances-micropipettes': { type: 'weighing' },
+  'laboratory-balances-industrial-scales': { type: 'weighing' },
+  'xrf-analyzers-benchtop-handheld': { type: 'instruments' },
+  'atomic-absorption-fluorescence-spectrometers': { type: 'instruments' },
+  'icp-oes-spectrometer': { type: 'instruments' },
+  'benchtop-xrf-flame-aas-crucibles': { type: 'instruments' },
+  'atomic-absorption-additional-models': { type: 'instruments' },
+  'xrf-carbon-sulfur-analyzers': { type: 'instruments' },
+  'spark-oes-carbon-sulphur-xrf-analyzers': { type: 'instruments' },
+  'gold-purity-density-lab-testing': { type: 'testing' },
+  'metallurgical-test-laboratory-equipment': { type: 'testing' },
+  'trommel-scrubbers-log-washers': { type: 'washing' },
+  'spiral-washers-attrition-scrubbers': { type: 'washing' },
+  'trommels-scrubbers-additional-models': { type: 'washing' },
+  'alluvial-gold-jigs': { type: 'jigs' },
+  'heavy-duty-laboratory-jigs': { type: 'jigs' },
+  'centrifugal-concentrators': { type: 'concentration' },
+  'spiral-concentrators': { type: 'concentration' },
+  'shaking-tables': { type: 'concentration' },
+  'gravity-concentrators-additional-models': { type: 'concentration' },
+  'drum-magnetic-separators': { type: 'magnetic' },
+  'high-intensity-magnetic-separators': { type: 'magnetic' },
+  'magnetic-reclaimers-pulleys': { type: 'magnetic' },
+  'mobile-gold-washing-plants': { type: 'placer' },
+  'sluice-boxes-gold-carpets-pans': { type: 'placer' },
+  'dredgers': { type: 'placer' },
+  'amphibious-dredgers-excavators': { type: 'placer' },
+  'induction-gold-smelting-furnaces': { type: 'furnaces' },
+  'gold-melting-furnaces': { type: 'furnaces' },
+  'firebricks-electrodes-induction-units': { type: 'refractories' },
+  'fused-quartz-silicon-carbide-crucibles': { type: 'crucibles' },
+  'refractories-quartz-glass-ceramics': { type: 'refractories' },
+  'ceramic-fibre-furnace-insulation': { type: 'refractories' },
   'geophysical-survey-instruments': { type: 'survey' },
   'metal-detectors-water-well-drill-rigs': { type: 'survey' },
   'core-rc-exploration-drill-rigs': { type: 'rigs' },

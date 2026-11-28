@@ -1,0 +1,304 @@
+{
+  "id": "safety-footwear",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXS-01 Ed2⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXS-01 Ed2 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "footwear",
+      "label": {
+        "en": "Safety footwear",
+        "ar": "أحذية السلامة"
+      },
+      "models": [
+        {
+          "code": "BX-0349-02-001",
+          "name": {
+            "en": "Leather safety shoes and boots, rubber or PU/rubber sole",
+            "ar": "أحذية وبوت سلامة جلدية بنعل مطاطي أو بولي يوريثان/مطاط"
+          },
+          "specs": {
+            "models": {
+              "en": "13 models: 8013, 8005, 8003, 8007, 6029, 8034, 9002, 8062, 1004, 1009, 1016, 8039, 6038",
+              "ar": "⁦13⁩ موديلاً: ⁦8013⁩، ⁦8005⁩، ⁦8003⁩، ⁦8007⁩، ⁦6029⁩، ⁦8034⁩، ⁦9002⁩، ⁦8062⁩، ⁦1004⁩، ⁦1009⁩، ⁦1016⁩، ⁦8039⁩، ⁦6038⁩"
+            },
+            "data": {
+              "en": "Nubuck, suede, smooth, printed or microfibre leather; steel toe, puncture-resistant sole; SB to S3; heat, oil and slip resistant",
+              "ar": "جلد نوبوك أو شمواه أو أملس أو مطبوع أو ميكروفايبر؛ مقدمة فولاذية ونعل مقاوم للثقب؛ ⁦SB⁩ حتى ⁦S3⁩؛ مقاومة للحرارة والزيت والانزلاق"
+            }
+          }
+        },
+        {
+          "code": "BX-0349-02-002",
+          "name": {
+            "en": "Embossed cowhide safety shoes, PU sole (economy)",
+            "ar": "أحذية سلامة من جلد بقري منقوش بنعل بولي يوريثان (اقتصادية)"
+          },
+          "specs": {
+            "models": {
+              "en": "28 models: 8019, 8017, 8026, 8032, 8029, 9008, 1002, 1003, 1015, 8048, 1039 …",
+              "ar": "⁦28⁩ موديلاً: ⁦8019⁩، ⁦8017⁩، ⁦8026⁩، ⁦8032⁩، ⁦8029⁩، ⁦9008⁩، ⁦1002⁩، ⁦1003⁩، ⁦1015⁩، ⁦8048⁩، ⁦1039⁩ …"
+            },
+            "data": {
+              "en": "PU or PU/TPU sole; steel toe, puncture-resistant sole; SB to S3",
+              "ar": "نعل بولي يوريثان أو بولي يوريثان/⁦TPU⁩؛ مقدمة فولاذية ونعل مقاوم للثقب؛ ⁦SB⁩ حتى ⁦S3⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0349-02-003",
+          "name": {
+            "en": "Nubuck, suede and smooth leather safety shoes, PU or MD sole",
+            "ar": "أحذية سلامة من النوبوك والشمواه والجلد الأملس بنعل بولي يوريثان أو ⁦MD⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "21 models: 8011, 8014, 8008, 9001, 1006, 6001, 1025, 1024, 1030, 9016, 8057 …",
+              "ar": "⁦21⁩ موديلاً: ⁦8011⁩، ⁦8014⁩، ⁦8008⁩، ⁦9001⁩، ⁦1006⁩، ⁦6001⁩، ⁦1025⁩، ⁦1024⁩، ⁦1030⁩، ⁦9016⁩، ⁦8057⁩ …"
+            },
+            "data": {
+              "en": "Toe cap and puncture-resistant sole; SB to S3",
+              "ar": "مقدمة واقية ونعل مقاوم للثقب؛ ⁦SB⁩ حتى ⁦S3⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0349-02-004",
+          "name": {
+            "en": "Microfibre leather safety shoes, PU or EVA sole",
+            "ar": "أحذية سلامة من جلد الميكروفايبر بنعل بولي يوريثان أو ⁦EVA⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "1001, 1012, 1027, 6023, 6036, 8044",
+              "ar": "⁦1001, 1012, 1027, 6023, 6036, 8044⁩"
+            },
+            "data": {
+              "en": "Toe cap and puncture-resistant sole; SB to S3",
+              "ar": "مقدمة واقية ونعل مقاوم للثقب؛ ⁦SB⁩ حتى ⁦S3⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0349-02-005",
+          "name": {
+            "en": "Electrical safety shoes – dielectric, insulating, ESD",
+            "ar": "أحذية سلامة كهربائية – عازلة ومضادة للكهرباء الساكنة"
+          },
+          "specs": {
+            "models": {
+              "en": "1005, 1010, 6040, 8023",
+              "ar": "⁦1005, 1010, 6040, 8023⁩"
+            },
+            "data": {
+              "en": "Printed or microfibre leather, PU sole; for electricians and generator technicians",
+              "ar": "جلد مطبوع أو ميكروفايبر بنعل بولي يوريثان؛ للكهربائيين وفنيي المولدات"
+            }
+          }
+        },
+        {
+          "code": "BX-0349-01-001",
+          "name": {
+            "en": "Construction and industry safety shoes and boots",
+            "ar": "أحذية وبوت سلامة للإنشاءات والصناعة"
+          },
+          "specs": {
+            "models": {
+              "en": "23 models: 8128, 8128H, 8003, 8005, 8006, 8008, 8009, 6001, 6002, 6003, 6005, 8201 …",
+              "ar": "⁦23⁩ موديلاً: ⁦8128⁩، ⁦8128H⁩، ⁦8003⁩، ⁦8005⁩، ⁦8006⁩، ⁦8008⁩، ⁦8009⁩، ⁦6001⁩، ⁦6002⁩، ⁦6003⁩، ⁦6005⁩، ⁦8201⁩ …"
+            },
+            "data": {
+              "en": "Water-resistant cowhide, mesh lining, dual-density PU sole (8101 rubber); toe cap, puncture-resistant sole; EU 37–48",
+              "ar": "جلد بقري مقاوم للماء وبطانة شبكية ونعل بولي يوريثان مزدوج الكثافة (⁦8101⁩ مطاطي)؛ مقدمة واقية ونعل مقاوم للثقب؛ ⁦37⁠–⁠48⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0349-01-005",
+          "name": {
+            "en": "Goodyear-welted safety boots",
+            "ar": "بوت سلامة بخياطة غوديير"
+          },
+          "specs": {
+            "models": {
+              "en": "7001, 7002, 7003, 7005, 7006, 7007, 7009",
+              "ar": "⁦7001, 7002, 7003, 7005, 7006, 7007, 7009⁩"
+            },
+            "data": {
+              "en": "Crazy Horse or full-grain cowhide; stitched rubber sole, heat and abrasion resistant; EU 37–48",
+              "ar": "جلد بقري كريزي هورس أو كامل الحبيبات؛ نعل مطاطي مخيط مقاوم للحرارة والتآكل؛ ⁦37⁠–⁠48⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0349-01-006",
+          "name": {
+            "en": "Heavy-duty safety shoes and boots",
+            "ar": "أحذية وبوت سلامة للخدمة الشاقة"
+          },
+          "specs": {
+            "models": {
+              "en": "30 models: 8601, 8602, 8605–8611, 8701–8703, 8705–8713, 8715–8723",
+              "ar": "⁦30⁩ موديلاً: ⁦8601⁩، ⁦8602⁩، ⁦8605⁠–⁠8611⁩، ⁦8701⁠–⁠8703⁩، ⁦8705⁠–⁠8713⁩، ⁦8715⁠–⁠8723⁩"
+            },
+            "data": {
+              "en": "Nubuck, frosted or suede leather; PU/PU, PU/rubber or EVA/rubber sole; EU 37–48",
+              "ar": "جلد نوبوك أو مصنفر أو شمواه؛ نعل بولي يوريثان مزدوج أو بولي يوريثان/مطاط أو ⁦EVA⁩/مطاط؛ ⁦37⁠–⁠48⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0349-01-008",
+          "name": {
+            "en": "Rigger (high-leg) safety boots",
+            "ar": "بوت سلامة طويل (ريغر)"
+          },
+          "specs": {
+            "models": {
+              "en": "9002, 9003, 9006, 9018",
+              "ar": "⁦9002, 9003, 9006, 9018⁩"
+            },
+            "data": {
+              "en": "Water-resistant cowhide, dual-density PU sole; for mud and water at washing and dredging sites; EU 37–48",
+              "ar": "جلد بقري مقاوم للماء ونعل بولي يوريثان مزدوج الكثافة؛ للطين والماء في مواقع الغسيل والتجريف؛ ⁦37⁠–⁠48⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-030",
+          "name": {
+            "en": "Ultra-light safety shoes",
+            "ar": "أحذية سلامة خفيفة جداً"
+          },
+          "specs": {
+            "models": {
+              "en": "1607001–1607012",
+              "ar": "⁦1607001–1607012⁩"
+            },
+            "data": {
+              "en": "Steel or composite toe; impact and puncture resistant; Flyknit, microfibre or leather; rubber, EVA or PU sole",
+              "ar": "مقدمة فولاذية أو مركّبة؛ مقاومة للصدمات والثقب؛ فلاي نِت أو ميكروفايبر أو جلد؛ نعل مطاطي أو ⁦EVA⁩ أو بولي يوريثان"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-031",
+          "name": {
+            "en": "Electrical insulation safety shoes 6 / 10 / 15 kV",
+            "ar": "أحذية سلامة عازلة للكهرباء ⁦6 / 10 / 15⁩ كيلوفولت"
+          },
+          "specs": {
+            "models": {
+              "en": "1607101–1607112",
+              "ar": "⁦1607101–1607112⁩"
+            },
+            "data": {
+              "en": "Steel toe, dual-density PU sole",
+              "ar": "مقدمة فولاذية ونعل بولي يوريثان مزدوج الكثافة"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-033",
+          "name": {
+            "en": "Welder safety shoes",
+            "ar": "أحذية سلامة للحامين"
+          },
+          "specs": {
+            "models": {
+              "en": "1607301–1607306",
+              "ar": "⁦1607301–1607306⁩"
+            },
+            "data": {
+              "en": "Alcantara upper, steel toe, rubber sole",
+              "ar": "وجه ألكانتارا، مقدمة فولاذية، نعل مطاطي"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-035",
+          "name": {
+            "en": "Cowhide safety boots",
+            "ar": "بوت سلامة من الجلد البقري"
+          },
+          "specs": {
+            "models": {
+              "en": "1607501–1607512",
+              "ar": "⁦1607501–1607512⁩"
+            },
+            "data": {
+              "en": "Split cowhide, iron or steel toe, dual-density PU or rubber sole; wool-lined models",
+              "ar": "جلد بقري مشقوق، مقدمة حديدية أو فولاذية، نعل بولي يوريثان مزدوج أو مطاطي؛ موديلات مبطنة بالصوف"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-039",
+          "name": {
+            "en": "Steel-toe, steel-midsole rain boots",
+            "ar": "بوت مطر بمقدمة ونعل أوسط فولاذيين"
+          },
+          "specs": {
+            "models": {
+              "en": "1608501–1608512",
+              "ar": "⁦1608501–1608512⁩"
+            },
+            "data": {
+              "en": "Quick-dry lining; for wet washing and processing areas",
+              "ar": "بطانة سريعة الجفاف؛ لمناطق الغسيل والمعالجة الرطبة"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "SB–S3, EU 37–48",
+        "ar": "⁦SB–S3⁩، مقاسات ⁦37⁠–⁠48⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

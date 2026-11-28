@@ -1,0 +1,194 @@
+{
+  "id": "dredgers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-05 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-05 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Type",
+    "ar": "النوع"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Models",
+        "ar": "الموديلات"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity",
+        "ar": "الطاقة"
+      }
+    },
+    {
+      "key": "depth",
+      "label": {
+        "en": "Depth",
+        "ar": "العمق"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "capacity",
+    "depth"
+  ],
+  "types": [
+    {
+      "id": "types",
+      "label": {
+        "en": "Dredger types",
+        "ar": "أنواع الكراكات"
+      },
+      "models": [
+        {
+          "code": "BX-0183-01-001",
+          "name": {
+            "en": "Cutter suction",
+            "ar": "كراكة قطع وشفط"
+          },
+          "specs": {
+            "models": {
+              "en": "JLCSD-200 … JLCSD-700 (7)",
+              "ar": "⁦JLCSD-200 … JLCSD-700 ‏(7)⁩"
+            },
+            "capacity": {
+              "en": "500–7000 m³/h",
+              "ar": "⁦500⁠–⁠7000⁩ م³/ساعة"
+            },
+            "depth": {
+              "en": "1–20 m",
+              "ar": "⁦1⁠–⁠20⁩ م"
+            },
+            "data": {
+              "en": "Pipe Ø200–750 mm; 160–3500 kW; modular, dismountable",
+              "ar": "أنبوب قطر ⁦200⁠–⁠750⁩ مم؛ ⁦160⁠–⁠3500⁩ كيلوواط؛ وحدات قابلة للفك"
+            }
+          }
+        },
+        {
+          "code": "BX-0183-01-002",
+          "name": {
+            "en": "Bucket wheel",
+            "ar": "كراكة بعجلة دلاء"
+          },
+          "specs": {
+            "data": {
+              "en": "Wheel cuts hard soil, clay and compacted sand; cutter-suction platform",
+              "ar": "العجلة تقطع التربة الصلبة والطين والرمل المضغوط؛ على منصة قطع وشفط"
+            }
+          }
+        },
+        {
+          "code": "BX-0183-01-003",
+          "name": {
+            "en": "Bucket chain",
+            "ar": "كراكة بسلسلة دلاء"
+          },
+          "specs": {
+            "capacity": {
+              "en": "200 m³/h",
+              "ar": "⁦200⁩ م³/ساعة"
+            },
+            "depth": {
+              "en": "6–7 m",
+              "ar": "⁦6⁠–⁠7⁩ م"
+            },
+            "data": {
+              "en": "Hull 19.6×6.2×1.5 m; diesel, generator or electric; sand, gravel and alluvial gold",
+              "ar": "بدن ⁦19.6×6.2×1.5⁩ م؛ ديزل أو مولد أو كهرباء؛ للرمل والحصى والذهب الغريني"
+            }
+          }
+        },
+        {
+          "code": "BX-0183-01-005",
+          "name": {
+            "en": "Mining & screening",
+            "ar": "كراكة تعدين وغربلة"
+          },
+          "specs": {
+            "capacity": {
+              "en": "500–3000 m³/day",
+              "ar": "⁦500⁠–⁠3000⁩ م³/يوم"
+            },
+            "data": {
+              "en": "Dredging and screening in one unit",
+              "ar": "تجريف وغربلة في وحدة واحدة"
+            }
+          }
+        },
+        {
+          "code": "BX-0183-01-006",
+          "name": {
+            "en": "Auger head suction",
+            "ar": "كراكة شفط برأس حلزوني"
+          },
+          "specs": {
+            "capacity": {
+              "en": "200–2000 m³/h",
+              "ar": "⁦200⁠–⁠2000⁩ م³/ساعة"
+            },
+            "data": {
+              "en": "Small, easy to transport, remote operation; ponds and channels",
+              "ar": "صغيرة وسهلة النقل وتُشغّل عن بعد؛ للبرك والقنوات"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "200–7000 m³/h",
+        "ar": "⁦200⁠–⁠7000⁩ م³/ساعة"
+      },
+      "countUnit": {
+        "ar": [
+          "نوع واحد",
+          "نوعان",
+          "أنواع"
+        ],
+        "en": [
+          "type",
+          "types"
+        ]
+      },
+      "intro": {
+        "en": "Specifications are for guidance; each dredger is configured to the project.",
+        "ar": "المواصفات للاسترشاد؛ تُهيّأ كل كراكة حسب المشروع."
+      },
+      "keyRows": [
+        "capacity",
+        "depth",
+        "data"
+      ]
+    }
+  ],
+  "countUnit": {
+    "ar": [
+      "نوع واحد",
+      "نوعان",
+      "أنواع"
+    ],
+    "en": [
+      "type",
+      "types"
+    ]
+  }
+}

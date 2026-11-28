@@ -1,0 +1,591 @@
+{
+  "id": "spiral-washers-attrition-scrubbers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-05 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-05 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "spiral-d",
+      "label": {
+        "en": "Spiral Ø (mm)",
+        "ar": "قطر الحلزون (مم)"
+      }
+    },
+    {
+      "key": "spirals",
+      "label": {
+        "en": "Spirals",
+        "ar": "عدد الحلزونات"
+      }
+    },
+    {
+      "key": "trough",
+      "label": {
+        "en": "Trough length (mm)",
+        "ar": "طول الحوض (مم)"
+      }
+    },
+    {
+      "key": "max-feed",
+      "label": {
+        "en": "Max. feed size (mm)",
+        "ar": "أقصى حجم تغذية (مم)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "cells",
+      "label": {
+        "en": "Cells",
+        "ar": "الخلايا"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "volume",
+      "label": {
+        "en": "Cell volume (m³)",
+        "ar": "حجم الخلية (م³)"
+      }
+    },
+    {
+      "key": "impeller",
+      "label": {
+        "en": "Impeller Ø (mm)",
+        "ar": "قطر الدافع (مم)"
+      }
+    }
+  ],
+  "keyRows": [
+    "spiral-d",
+    "spirals",
+    "trough"
+  ],
+  "types": [
+    {
+      "id": "spiral",
+      "label": {
+        "en": "Spiral washers",
+        "ar": "غسالات حلزونية"
+      },
+      "models": [
+        {
+          "code": "BX-0021-01-026 / SW500",
+          "name": {
+            "en": "SW500",
+            "ar": "SW500"
+          },
+          "specs": {
+            "spiral-d": {
+              "en": "500",
+              "ar": "500"
+            },
+            "spirals": {
+              "en": "1",
+              "ar": "1"
+            },
+            "trough": {
+              "en": "4500",
+              "ar": "4500"
+            },
+            "max-feed": {
+              "en": "8",
+              "ar": "8"
+            },
+            "power": {
+              "en": "5.5",
+              "ar": "⁦5.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-026 / SW750",
+          "name": {
+            "en": "SW750",
+            "ar": "SW750"
+          },
+          "specs": {
+            "spiral-d": {
+              "en": "750",
+              "ar": "750"
+            },
+            "spirals": {
+              "en": "1",
+              "ar": "1"
+            },
+            "trough": {
+              "en": "5500",
+              "ar": "5500"
+            },
+            "max-feed": {
+              "en": "8",
+              "ar": "8"
+            },
+            "power": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-026 / SW750-2",
+          "name": {
+            "en": "SW750-2",
+            "ar": "⁦SW750-2⁩"
+          },
+          "specs": {
+            "spiral-d": {
+              "en": "750",
+              "ar": "750"
+            },
+            "spirals": {
+              "en": "2",
+              "ar": "2"
+            },
+            "trough": {
+              "en": "5500",
+              "ar": "5500"
+            },
+            "max-feed": {
+              "en": "8",
+              "ar": "8"
+            },
+            "power": {
+              "en": "7.5 × 2",
+              "ar": "⁦7.5 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-026 / SW1000",
+          "name": {
+            "en": "SW1000",
+            "ar": "SW1000"
+          },
+          "specs": {
+            "spiral-d": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "spirals": {
+              "en": "1",
+              "ar": "1"
+            },
+            "trough": {
+              "en": "6500",
+              "ar": "6500"
+            },
+            "max-feed": {
+              "en": "10",
+              "ar": "10"
+            },
+            "power": {
+              "en": "15",
+              "ar": "15"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-026 / SW1000-2",
+          "name": {
+            "en": "SW1000-2",
+            "ar": "⁦SW1000-2⁩"
+          },
+          "specs": {
+            "spiral-d": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "spirals": {
+              "en": "2",
+              "ar": "2"
+            },
+            "trough": {
+              "en": "8500",
+              "ar": "8500"
+            },
+            "max-feed": {
+              "en": "10",
+              "ar": "10"
+            },
+            "power": {
+              "en": "15 × 2",
+              "ar": "⁦15 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-026 / SW1200",
+          "name": {
+            "en": "SW1200",
+            "ar": "SW1200"
+          },
+          "specs": {
+            "spiral-d": {
+              "en": "1200",
+              "ar": "1200"
+            },
+            "spirals": {
+              "en": "1",
+              "ar": "1"
+            },
+            "trough": {
+              "en": "8500",
+              "ar": "8500"
+            },
+            "max-feed": {
+              "en": "10",
+              "ar": "10"
+            },
+            "power": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-026 / SW1200-2",
+          "name": {
+            "en": "SW1200-2",
+            "ar": "⁦SW1200-2⁩"
+          },
+          "specs": {
+            "spiral-d": {
+              "en": "1200",
+              "ar": "1200"
+            },
+            "spirals": {
+              "en": "2",
+              "ar": "2"
+            },
+            "trough": {
+              "en": "8500",
+              "ar": "8500"
+            },
+            "max-feed": {
+              "en": "10",
+              "ar": "10"
+            },
+            "power": {
+              "en": "18.5 × 2",
+              "ar": "⁦18.5 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-026 / SW1500",
+          "name": {
+            "en": "SW1500",
+            "ar": "SW1500"
+          },
+          "specs": {
+            "spiral-d": {
+              "en": "1500",
+              "ar": "1500"
+            },
+            "spirals": {
+              "en": "1",
+              "ar": "1"
+            },
+            "trough": {
+              "en": "8500",
+              "ar": "8500"
+            },
+            "max-feed": {
+              "en": "10",
+              "ar": "10"
+            },
+            "power": {
+              "en": "30",
+              "ar": "30"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-026 / SW1500-2",
+          "name": {
+            "en": "SW1500-2",
+            "ar": "⁦SW1500-2⁩"
+          },
+          "specs": {
+            "spiral-d": {
+              "en": "1500",
+              "ar": "1500"
+            },
+            "spirals": {
+              "en": "2",
+              "ar": "2"
+            },
+            "trough": {
+              "en": "8500",
+              "ar": "8500"
+            },
+            "max-feed": {
+              "en": "10",
+              "ar": "10"
+            },
+            "power": {
+              "en": "30 × 2",
+              "ar": "⁦30 × 2⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Ø500–1500 mm",
+        "ar": "قطر ⁦500⁠–⁠1500⁩ مم"
+      },
+      "keyRows": [
+        "spiral-d",
+        "spirals",
+        "power"
+      ]
+    },
+    {
+      "id": "attrition",
+      "label": {
+        "en": "Attrition scrubbers",
+        "ar": "خلايا الغسيل بالاحتكاك"
+      },
+      "models": [
+        {
+          "code": "BX-0021-02-013 / CX1-1",
+          "name": {
+            "en": "CX1-1",
+            "ar": "⁦CX1-1⁩"
+          },
+          "specs": {
+            "cells": {
+              "en": "1",
+              "ar": "1"
+            },
+            "max-feed": {
+              "en": "10",
+              "ar": "10"
+            },
+            "capacity": {
+              "en": "10–30",
+              "ar": "⁦10–30⁩"
+            },
+            "volume": {
+              "en": "1",
+              "ar": "1"
+            },
+            "impeller": {
+              "en": "480",
+              "ar": "480"
+            },
+            "power": {
+              "en": "15",
+              "ar": "15"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-02-013 / CX1-2",
+          "name": {
+            "en": "CX1-2",
+            "ar": "⁦CX1-2⁩"
+          },
+          "specs": {
+            "cells": {
+              "en": "2",
+              "ar": "2"
+            },
+            "max-feed": {
+              "en": "10",
+              "ar": "10"
+            },
+            "capacity": {
+              "en": "10–30",
+              "ar": "⁦10–30⁩"
+            },
+            "volume": {
+              "en": "1 × 2",
+              "ar": "⁦1 × 2⁩"
+            },
+            "impeller": {
+              "en": "480 × 2",
+              "ar": "⁦480 × 2⁩"
+            },
+            "power": {
+              "en": "15 × 2",
+              "ar": "⁦15 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-02-013 / CX2-1",
+          "name": {
+            "en": "CX2-1",
+            "ar": "⁦CX2-1⁩"
+          },
+          "specs": {
+            "cells": {
+              "en": "1",
+              "ar": "1"
+            },
+            "max-feed": {
+              "en": "10",
+              "ar": "10"
+            },
+            "capacity": {
+              "en": "20–50",
+              "ar": "⁦20–50⁩"
+            },
+            "volume": {
+              "en": "2",
+              "ar": "2"
+            },
+            "impeller": {
+              "en": "520",
+              "ar": "520"
+            },
+            "power": {
+              "en": "30",
+              "ar": "30"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-02-013 / CX2-2",
+          "name": {
+            "en": "CX2-2",
+            "ar": "⁦CX2-2⁩"
+          },
+          "specs": {
+            "cells": {
+              "en": "2",
+              "ar": "2"
+            },
+            "max-feed": {
+              "en": "10",
+              "ar": "10"
+            },
+            "capacity": {
+              "en": "20–50",
+              "ar": "⁦20–50⁩"
+            },
+            "volume": {
+              "en": "2 × 2",
+              "ar": "⁦2 × 2⁩"
+            },
+            "impeller": {
+              "en": "520 × 2",
+              "ar": "⁦520 × 2⁩"
+            },
+            "power": {
+              "en": "30 × 2",
+              "ar": "⁦30 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-02-013 / CX4-1",
+          "name": {
+            "en": "CX4-1",
+            "ar": "⁦CX4-1⁩"
+          },
+          "specs": {
+            "cells": {
+              "en": "1",
+              "ar": "1"
+            },
+            "max-feed": {
+              "en": "10",
+              "ar": "10"
+            },
+            "capacity": {
+              "en": "40–80",
+              "ar": "⁦40–80⁩"
+            },
+            "volume": {
+              "en": "4",
+              "ar": "4"
+            },
+            "impeller": {
+              "en": "770",
+              "ar": "770"
+            },
+            "power": {
+              "en": "55",
+              "ar": "55"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-02-013 / CX4-2",
+          "name": {
+            "en": "CX4-2",
+            "ar": "⁦CX4-2⁩"
+          },
+          "specs": {
+            "cells": {
+              "en": "2",
+              "ar": "2"
+            },
+            "max-feed": {
+              "en": "10",
+              "ar": "10"
+            },
+            "capacity": {
+              "en": "40–80",
+              "ar": "⁦40–80⁩"
+            },
+            "volume": {
+              "en": "4 × 2",
+              "ar": "⁦4 × 2⁩"
+            },
+            "impeller": {
+              "en": "770 × 2",
+              "ar": "⁦770 × 2⁩"
+            },
+            "power": {
+              "en": "55 × 2",
+              "ar": "⁦55 × 2⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "10–80 t/h",
+        "ar": "⁦10⁠–⁠80⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "Rubber-lined cells for intensive surface cleaning of fine sand.",
+        "ar": "خلايا مبطنة بالمطاط لتنظيف أسطح الرمل الناعم تنظيفاً مكثفاً."
+      },
+      "keyRows": [
+        "capacity",
+        "cells",
+        "power"
+      ]
+    }
+  ]
+}

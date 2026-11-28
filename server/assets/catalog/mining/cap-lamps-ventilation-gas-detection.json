@@ -1,0 +1,258 @@
+{
+  "id": "cap-lamps-ventilation-gas-detection",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXS-01 Ed2⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXS-01 Ed2 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "cap",
+      "label": {
+        "en": "Capacity (Ah)",
+        "ar": "السعة (أمبير ساعة)"
+      }
+    },
+    {
+      "key": "volt",
+      "label": {
+        "en": "Voltage (V)",
+        "ar": "الجهد (فولت)"
+      }
+    },
+    {
+      "key": "dis",
+      "label": {
+        "en": "Discharge time (h)",
+        "ar": "زمن التفريغ (ساعة)"
+      }
+    },
+    {
+      "key": "chg",
+      "label": {
+        "en": "Charging time (h)",
+        "ar": "زمن الشحن (ساعة)"
+      }
+    },
+    {
+      "key": "lux",
+      "label": {
+        "en": "Illuminance (lux)",
+        "ar": "شدة الإضاءة (لوكس)"
+      }
+    },
+    {
+      "key": "cycles",
+      "label": {
+        "en": "Battery cycles",
+        "ar": "دورات البطارية"
+      }
+    },
+    {
+      "key": "desc",
+      "label": {
+        "en": "Description",
+        "ar": "الوصف"
+      }
+    }
+  ],
+  "keyRows": [
+    "cap",
+    "volt",
+    "dis"
+  ],
+  "types": [
+    {
+      "id": "kl",
+      "label": {
+        "en": "KL LED mining cap lamps",
+        "ar": "مصابيح خوذ المناجم ⁦KL LED⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0005-01-027 / KL4LM(B)",
+          "name": {
+            "en": "KL4LM(B)",
+            "ar": "⁦KL4LM(B)⁩"
+          },
+          "specs": {
+            "cap": {
+              "en": "4",
+              "ar": "4"
+            },
+            "volt": {
+              "en": "3.7",
+              "ar": "⁦3.7⁩"
+            },
+            "dis": {
+              "en": "18–20",
+              "ar": "⁦18–20⁩"
+            },
+            "chg": {
+              "en": "6–8",
+              "ar": "⁦6–8⁩"
+            },
+            "lux": {
+              "en": "3500–4000",
+              "ar": "⁦3500–4000⁩"
+            },
+            "cycles": {
+              "en": "> 600",
+              "ar": "⁦> 600⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-027 / KL5LM(B)",
+          "name": {
+            "en": "KL5LM(B)",
+            "ar": "⁦KL5LM(B)⁩"
+          },
+          "specs": {
+            "cap": {
+              "en": "5",
+              "ar": "5"
+            },
+            "volt": {
+              "en": "3.7",
+              "ar": "⁦3.7⁩"
+            },
+            "dis": {
+              "en": "20–22",
+              "ar": "⁦20–22⁩"
+            },
+            "chg": {
+              "en": "6–8",
+              "ar": "⁦6–8⁩"
+            },
+            "lux": {
+              "en": "4500–5000",
+              "ar": "⁦4500–5000⁩"
+            },
+            "cycles": {
+              "en": "> 600",
+              "ar": "⁦> 600⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0005-01-027 / KL6LM(B)",
+          "name": {
+            "en": "KL6LM(B)",
+            "ar": "⁦KL6LM(B)⁩"
+          },
+          "specs": {
+            "cap": {
+              "en": "6",
+              "ar": "6"
+            },
+            "volt": {
+              "en": "3.7",
+              "ar": "⁦3.7⁩"
+            },
+            "dis": {
+              "en": "23–25",
+              "ar": "⁦23–25⁩"
+            },
+            "chg": {
+              "en": "6–8",
+              "ar": "⁦6–8⁩"
+            },
+            "lux": {
+              "en": "5500–6000",
+              "ar": "⁦5500–6000⁩"
+            },
+            "cycles": {
+              "en": "> 600",
+              "ar": "⁦> 600⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "4–6 Ah",
+        "ar": "⁦4⁠–⁠6⁩ أمبير ساعة"
+      },
+      "intro": {
+        "en": "High-power LED: one main and two auxiliary light sources.",
+        "ar": "⁦LED⁩ عالي القدرة: مصدر ضوء رئيسي ومصدران مساعدان."
+      },
+      "keyRows": [
+        "cap",
+        "dis",
+        "lux"
+      ]
+    },
+    {
+      "id": "vent",
+      "label": {
+        "en": "Ventilation and gas detection",
+        "ar": "التهوية وكشف الغاز"
+      },
+      "models": [
+        {
+          "code": "BX-0004-01-030",
+          "name": {
+            "en": "Local mine ventilation fans",
+            "ar": "مراوح تهوية موضعية للمناجم"
+          },
+          "specs": {
+            "desc": {
+              "en": "Local ventilation fans for tunnels: K, DK, FBD, FBCD and FBCDZ series; KCS wet dust-removal fan",
+              "ar": "مراوح تهوية موضعية للأنفاق: سلاسل ⁦K⁩ و⁦DK⁩ و⁦FBD⁩ و⁦FBCD⁩ و⁦FBCDZ⁩؛ ومروحة ⁦KCS⁩ لإزالة الغبار بالماء"
+            }
+          }
+        },
+        {
+          "code": "BX-0004-01-031",
+          "name": {
+            "en": "Flexible ventilation duct",
+            "ar": "مجرى تهوية مرن"
+          },
+          "specs": {
+            "desc": {
+              "en": "Tensile, water- and flame-resistant duct, −20 to +80 °C",
+              "ar": "مجرى متين مقاوم للماء واللهب، من −⁦20⁩ إلى +⁦80 °⁩م"
+            }
+          }
+        },
+        {
+          "code": "BX-0004-01-037",
+          "name": {
+            "en": "Gas detection instruments",
+            "ar": "أجهزة كشف الغاز"
+          },
+          "specs": {
+            "desc": {
+              "en": "Portable four-in-one gas detectors, methane and gas alarms, dust, temperature and smoke sensors, anemometers",
+              "ar": "كواشف غاز محمولة أربعة في واحد، وأجهزة إنذار الميثان والغاز، وحساسات الغبار والحرارة والدخان، وأجهزة قياس سرعة الهواء"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ]
+}

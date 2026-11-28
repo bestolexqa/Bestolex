@@ -1,0 +1,123 @@
+{
+  "id": "warning-lights-mirrors-tapes-wheel-stops",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXS-01 Ed2⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXS-01 Ed2 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "spec",
+      "label": {
+        "en": "Specification",
+        "ar": "المواصفات"
+      }
+    }
+  ],
+  "keyRows": [
+    "spec"
+  ],
+  "types": [
+    {
+      "id": "warning",
+      "label": {
+        "en": "Warning lights, mirrors, tapes and wheel stops",
+        "ar": "مصابيح التحذير والمرايا والأشرطة ومصدات العجلات"
+      },
+      "models": [
+        {
+          "code": "BX-0331-01-001",
+          "name": {
+            "en": "Battery warning lamps",
+            "ar": "مصابيح تحذير بالبطارية"
+          },
+          "specs": {
+            "spec": {
+              "en": "PC lens Ø 190–205 mm; 2–24 LEDs; flashing or steady; 4R25 6 V or D cells; visible beyond 500–1000 m",
+              "ar": "عدسة ⁦PC⁩ بقطر ⁦190⁠–⁠205⁩ مم؛ ⁦2⁠–⁠24 LED⁩؛ وميض أو ثابت؛ بطارية ⁦4R25⁩ ‏⁦6⁩ فولت أو ⁦D⁩؛ رؤية أبعد من ⁦500⁠–⁠1000⁩ م"
+            }
+          }
+        },
+        {
+          "code": "BX-0331-01-004",
+          "name": {
+            "en": "Solar warning lamps",
+            "ar": "مصابيح تحذير شمسية"
+          },
+          "specs": {
+            "spec": {
+              "en": "0.3–0.5 W 5.5 V panel; 3.7 V 2300 mAh lithium battery; visible beyond 1000–1500 m",
+              "ar": "لوح ⁦0.3⁠–⁠0.5⁩ واط ⁦5.5⁩ فولت؛ بطارية ليثيوم ⁦3.7⁩ فولت ⁦2300⁩ مللي أمبير ساعة؛ رؤية أبعد من ⁦1000⁠–⁠1500⁩ م"
+            }
+          }
+        },
+        {
+          "code": "BX-0327-01-023",
+          "name": {
+            "en": "Convex safety mirrors",
+            "ar": "مرايا أمان محدبة"
+          },
+          "specs": {
+            "spec": {
+              "en": "PC, Ø 450, 600, 800, 1000, 1200 mm; indoor and outdoor",
+              "ar": "⁦PC⁩ بقطر ⁦450⁩ و⁦600⁩ و⁦800⁩ و⁦1000⁩ و⁦1200⁩ مم؛ داخلية وخارجية"
+            }
+          }
+        },
+        {
+          "code": "BX-0327-01-028",
+          "name": {
+            "en": "Warning & barrier tapes",
+            "ar": "أشرطة التحذير والحواجز"
+          },
+          "specs": {
+            "spec": {
+              "en": "HDPE / PVC, 50–135 mm wide, 33–500 m; printed to order; 150 mm detectable underground tape",
+              "ar": "⁦HDPE / PVC⁩ بعرض ⁦50⁠–⁠135⁩ مم وطول ⁦33⁠–⁠500⁩ م؛ طباعة حسب الطلب؛ شريط كشف تحت الأرض ⁦150⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0327-01-008",
+          "name": {
+            "en": "Wheel stoppers",
+            "ar": "مصدات العجلات"
+          },
+          "specs": {
+            "spec": {
+              "en": "Rubber and plastic, up to 1830 mm long; custom logo",
+              "ar": "مطاط وبلاستيك بطول حتى ⁦1830⁩ مم؛ شعار حسب الطلب"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      },
+      "intro": {
+        "en": "Visibility distances as stated by the manufacturers.",
+        "ar": "مسافات الرؤية حسب بيانات المصنّعين."
+      }
+    }
+  ]
+}

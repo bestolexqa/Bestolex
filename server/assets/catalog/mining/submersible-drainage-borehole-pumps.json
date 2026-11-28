@@ -1,0 +1,308 @@
+{
+  "id": "submersible-drainage-borehole-pumps",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-07 Ed5⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-07 Ed5 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Submersible, drainage and borehole pumps – additional series",
+        "ar": "مضخات غاطسة وتصريف وآبار – سلاسل إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0020-01-010",
+          "name": {
+            "en": "Submersible slurry pumps NQ",
+            "ar": "مضخات لب غاطسة ⁦NQ⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "NQ with agitator",
+              "ar": "⁦NQ⁩ بمحرّض"
+            },
+            "data": {
+              "en": "Built-in motor, no priming; high-chrome wear parts; agitator stirs settled solids",
+              "ar": "محرك مدمج بلا تحضير؛ قطع تآكل عالية الكروم؛ المحرّض يقلّب المواد المترسبة"
+            }
+          }
+        },
+        {
+          "code": "BX-0407-01-002",
+          "name": {
+            "en": "KBS submersible slurry pumps",
+            "ar": "مضخات لب غاطسة ⁦KBS⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "KBS series, 4–37 kW",
+              "ar": "سلسلة ⁦KBS⁩، ‏⁦4⁠–⁠37⁩ كيلوواط"
+            },
+            "data": {
+              "en": "Up to 390 m³/h; head to 39 m; outlet 80–200 mm; 380 V; IP68; to 15 m depth",
+              "ar": "حتى ⁦390⁩ م³/ساعة؛ رفع حتى ⁦39⁩ م؛ مخرج ⁦80⁠–⁠200⁩ مم؛ ⁦380⁩ فولت؛ ⁦IP68⁩؛ حتى عمق ⁦15⁩ م"
+            }
+          }
+        },
+        {
+          "code": "BX-0407-01-006",
+          "name": {
+            "en": "QNS submersible slurry pumps",
+            "ar": "مضخات لب غاطسة ⁦QNS⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "80QNS42.2 to 200QNS475 (19 models)",
+              "ar": "من ⁦80QNS42.2⁩ إلى ⁦200QNS475⁩ ‏(⁦19⁩ موديلاً)"
+            },
+            "data": {
+              "en": "2.2–75 kW; up to 600 m³/h; head to 57 m; outlet 80–200 mm; slurry density to 1.3 g/cm³",
+              "ar": "⁦2.2⁠–⁠75⁩ كيلوواط؛ حتى ⁦600⁩ م³/ساعة؛ رفع حتى ⁦57⁩ م؛ مخرج ⁦80⁠–⁠200⁩ مم؛ كثافة اللب حتى ⁦1.3⁩ جم/سم³"
+            }
+          }
+        },
+        {
+          "code": "BX-0407-01-004",
+          "name": {
+            "en": "GMS submersible sludge pumps (vortex)",
+            "ar": "مضخات حمأة غاطسة ⁦GMS⁩ (دوامية)"
+          },
+          "specs": {
+            "models": {
+              "en": "GMS series, 4–22 kW",
+              "ar": "سلسلة ⁦GMS⁩، ‏⁦4⁠–⁠22⁩ كيلوواط"
+            },
+            "data": {
+              "en": "Up to 235 m³/h; head to 58 m; density to 1.3 g/cm³; up to 60 °C; pH 6–10",
+              "ar": "حتى ⁦235⁩ م³/ساعة؛ رفع حتى ⁦58⁩ م؛ كثافة حتى ⁦1.3⁩ جم/سم³؛ حتى ⁦60 °⁩م؛ ⁦pH⁩ ‏⁦6⁠–⁠10⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0407-01-001",
+          "name": {
+            "en": "KBZ submersible drainage pumps",
+            "ar": "مضخات تصريف غاطسة ⁦KBZ⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "KBZ series, 1.5–15 kW",
+              "ar": "سلسلة ⁦KBZ⁩، ‏⁦1.5⁠–⁠15⁩ كيلوواط"
+            },
+            "data": {
+              "en": "Up to 160 m³/h; head to 57 m; 400 V 50 Hz; IP68; to 25 m depth",
+              "ar": "حتى ⁦160⁩ م³/ساعة؛ رفع حتى ⁦57⁩ م؛ ⁦400⁩ فولت ⁦50⁩ هرتز؛ ⁦IP68⁩؛ حتى عمق ⁦25⁩ م"
+            }
+          }
+        },
+        {
+          "code": "BX-0407-01-003",
+          "name": {
+            "en": "SH high-head submersible drainage pumps",
+            "ar": "مضخات تصريف غاطسة برفع عالٍ ⁦SH⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH series, 22–110 kW",
+              "ar": "سلسلة ⁦SH⁩، ‏⁦22⁠–⁠110⁩ كيلوواط"
+            },
+            "data": {
+              "en": "Up to 408 m³/h; head to 140 m; 400 V; to 30 m depth; for deep mines and open pits",
+              "ar": "حتى ⁦408⁩ م³/ساعة؛ رفع حتى ⁦140⁩ م؛ ⁦400⁩ فولت؛ حتى عمق ⁦30⁩ م؛ للمناجم العميقة والحفر المفتوحة"
+            }
+          }
+        },
+        {
+          "code": "BX-0407-01-005",
+          "name": {
+            "en": "Small submersible drainage pumps",
+            "ar": "مضخات تصريف غاطسة صغيرة"
+          },
+          "specs": {
+            "models": {
+              "en": "FS(M)2.4(F), FS(M)2.75(F)",
+              "ar": "⁦FS(M)2.4(F), FS(M)2.75(F)⁩"
+            },
+            "data": {
+              "en": "50 mm outlet; 220 V single or 380 V three phase; IP68; 13.5–16.5 kg",
+              "ar": "مخرج ⁦50⁩ مم؛ ⁦220⁩ فولت أحادي الطور أو ⁦380⁩ فولت ثلاثي الأطوار؛ ⁦IP68⁩؛ ⁦13.5⁠–⁠16.5⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0407-01-007",
+          "name": {
+            "en": "QXN multistage submersible pumps",
+            "ar": "مضخات غاطسة متعددة المراحل ⁦QXN⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "QXN25-17/1-2.2 to QXN40-85/2-18.5 and larger",
+              "ar": "من ⁦QXN25-17/1-2.2⁩ إلى ⁦QXN40-85/2-18.5⁩ وأكبر"
+            },
+            "data": {
+              "en": "25–40 m³/h; head to 85 m; 2.2–18.5 kW and above; 380 V",
+              "ar": "⁦25⁠–⁠40⁩ م³/ساعة؛ رفع حتى ⁦85⁩ م؛ ⁦2.2⁠–⁠18.5⁩ كيلوواط فأكثر؛ ⁦380⁩ فولت"
+            }
+          }
+        },
+        {
+          "code": "BX-0026-01-009",
+          "name": {
+            "en": "Contractor dewatering pumps",
+            "ar": "مضخات نزح للمقاولين"
+          },
+          "specs": {
+            "models": {
+              "en": "HS, KBZ, KS, QXN, LBM; LBR residue pump",
+              "ar": "⁦HS⁩ و⁦KBZ⁩ و⁦KS⁩ و⁦QXN⁩ و⁦LBM⁩؛ ومضخة مخلفات ⁦LBR⁩"
+            },
+            "data": {
+              "en": "Submersible IP68 pumps for pit dewatering",
+              "ar": "مضخات غاطسة ⁦IP68⁩ لنزح الحفر"
+            }
+          }
+        },
+        {
+          "code": "BX-0026-01-010",
+          "name": {
+            "en": "Submersible slurry pumps with agitator",
+            "ar": "مضخات لب غاطسة بمحرّض"
+          },
+          "specs": {
+            "models": {
+              "en": "HSD, KBS",
+              "ar": "⁦HSD, KBS⁩"
+            },
+            "data": {
+              "en": "Lift sand and mud from ponds and pits",
+              "ar": "ترفع الرمل والطين من البرك والحفر"
+            }
+          }
+        },
+        {
+          "code": "BX-0026-01-007",
+          "name": {
+            "en": "Submersible sewage and wastewater pumps",
+            "ar": "مضخات صرف صحي ومياه مستعملة غاطسة"
+          },
+          "specs": {
+            "models": {
+              "en": "VB, HVS, V, VP, QWK / QWKF, U, B, WQ / WQ(D), V-D, CUT, C, WF, WP(D), LF",
+              "ar": "⁦VB, HVS, V, VP, QWK / QWKF, U, B, WQ / WQ(D), V-D, CUT, C, WF, WP(D), LF⁩"
+            },
+            "data": {
+              "en": "IP68 with float switch; vortex, channel or cutter impellers; stainless QWK; WQ up to 90 kW and DN600 outlet",
+              "ar": "⁦IP68⁩ بمفتاح عوامة؛ دفّاعات دوامية أو بقنوات أو قاطعة؛ ⁦QWK⁩ من الستانلس؛ ⁦WQ⁩ حتى ⁦90⁩ كيلوواط ومخرج ⁦DN600⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0026-01-011",
+          "name": {
+            "en": "Clear-water drainage pumps",
+            "ar": "مضخات تصريف المياه النقية"
+          },
+          "specs": {
+            "models": {
+              "en": "SPA multistage, SPT, SPSN stainless, QDX, QDXS",
+              "ar": "⁦SPA multistage, SPT, SPSN stainless, QDX, QDXS⁩"
+            },
+            "data": {
+              "en": "Submersible, float switch option; about 0.12–5.5 kW",
+              "ar": "غاطسة، بخيار مفتاح عوامة؛ نحو ⁦0.12⁠–⁠5.5⁩ كيلوواط"
+            }
+          }
+        },
+        {
+          "code": "BX-0026-01-012",
+          "name": {
+            "en": "Submersible borehole pumps",
+            "ar": "مضخات آبار غاطسة"
+          },
+          "specs": {
+            "models": {
+              "en": "3SKm / 4SKm, SD(M), SP(M), QGD screw pumps",
+              "ar": "⁦3SKm / 4SKm⁩ و⁦SD(M⁩) و⁦SP(M⁩) ومضخات لولبية ⁦QGD⁩"
+            },
+            "data": {
+              "en": "3 and 4 in wells; AISI 201 / 304 stainless casings; oil-cooled motors",
+              "ar": "لآبار ⁦3⁩ و⁦4⁩ بوصات؛ أغلفة ستانلس ⁦AISI 201 / 304⁩؛ محركات مبرّدة بالزيت"
+            }
+          }
+        },
+        {
+          "code": "BX-0026-01-013",
+          "name": {
+            "en": "Solar pumping systems",
+            "ar": "أنظمة ضخ بالطاقة الشمسية"
+          },
+          "specs": {
+            "models": {
+              "en": "3SQJ / 4SQJ, 3SSC / 4SSC (DC), SQG, SQY, SQD, SHFM, SMH, SJ, SQB",
+              "ar": "⁦3SQJ / 4SQJ, 3SSC / 4SSC (DC), SQG, SQY, SQD, SHFM, SMH, SJ, SQB⁩"
+            },
+            "data": {
+              "en": "Solar borehole and surface pumps with controllers",
+              "ar": "مضخات آبار وسطحية تعمل بالطاقة الشمسية مع وحدات تحكم"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "0.12–110 kW",
+        "ar": "⁦0.12⁠–⁠110⁩ كيلوواط"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      },
+      "intro": {
+        "en": "Includes small 50 mm drainage pumps for small sites.",
+        "ar": "تشمل مضخات تصريف صغيرة بمخرج ⁦50⁩ مم للمواقع الصغيرة."
+      }
+    }
+  ]
+}

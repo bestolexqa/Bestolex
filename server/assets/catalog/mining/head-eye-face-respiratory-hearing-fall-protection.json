@@ -1,0 +1,283 @@
+{
+  "id": "head-eye-face-respiratory-hearing-fall-protection",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXS-01 Ed2⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXS-01 Ed2 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "ppe",
+      "label": {
+        "en": "Head, eye, face, respiratory, hearing and fall protection",
+        "ar": "حماية الرأس والعين والوجه والتنفس والسمع والسقوط"
+      },
+      "models": [
+        {
+          "code": "BX-0326-01-001",
+          "name": {
+            "en": "Safety helmets",
+            "ar": "خوذ السلامة"
+          },
+          "specs": {
+            "models": {
+              "en": "1606001–1606025, 1606027, 1606028",
+              "ar": "⁦1606001–1606025, 1606027, 1606028⁩"
+            },
+            "data": {
+              "en": "PE, ABS, anti-static ABS and fibreglass (FRP); red, white, yellow, blue, orange; 235–510 g; vented, anti-slip",
+              "ar": "⁦PE⁩ و⁦ABS⁩ و⁦ABS⁩ مضاد للكهرباء الساكنة وألياف زجاجية (⁦FRP⁩)؛ أحمر وأبيض وأصفر وأزرق وبرتقالي؛ ⁦235⁠–⁠510⁩ جم؛ بفتحات تهوية ومانعة للانزلاق"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-02-001",
+          "name": {
+            "en": "Safety spectacles – CE",
+            "ar": "نظارات سلامة – ⁦CE⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "AS-01 to AS-10, AS-12 to AS-18, AS-20",
+              "ar": "من ⁦AS-01⁩ إلى ⁦AS-10⁩، ومن ⁦AS-12⁩ إلى ⁦AS-18⁩، و⁦AS-20⁩"
+            },
+            "data": {
+              "en": "CE; standard, anti-scratch (AS) or anti-fog (AF) lenses",
+              "ar": "⁦CE⁩؛ عدسات عادية أو مقاومة للخدش (⁦AS⁩) أو مانعة للضباب (⁦AF⁩)"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-02-002",
+          "name": {
+            "en": "Safety goggles – CE",
+            "ar": "نظارات واقية محكمة – ⁦CE⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "AS-50, AS-50V, AS-50W, AS-61, AS-61V, AS-61W, AS-80, AS-84",
+              "ar": "⁦AS-50, AS-50V, AS-50W, AS-61, AS-61V, AS-61W, AS-80, AS-84⁩"
+            },
+            "data": {
+              "en": "CE; sealed eye protection; vented and wide-view versions",
+              "ar": "⁦CE⁩؛ حماية محكمة للعين؛ نسخ بتهوية وبمجال رؤية واسع"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-003",
+          "name": {
+            "en": "Safety glasses",
+            "ar": "نظارات السلامة"
+          },
+          "specs": {
+            "models": {
+              "en": "1603001–1603033",
+              "ar": "⁦1603001–1603033⁩"
+            },
+            "data": {
+              "en": "Clear, anti-fog, anti-glare, laser and impact-resistant lenses",
+              "ar": "عدسات شفافة ومانعة للضباب ومضادة للوهج وللّيزر ومقاومة للصدمات"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-004",
+          "name": {
+            "en": "Protective goggles",
+            "ar": "نظارات واقية"
+          },
+          "specs": {
+            "models": {
+              "en": "1603201–1603224",
+              "ar": "⁦1603201–1603224⁩"
+            },
+            "data": {
+              "en": "Anti-fog, impact-resistant, foldable and closed types",
+              "ar": "مانعة للضباب ومقاومة للصدمات وقابلة للطي ومغلقة"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-005",
+          "name": {
+            "en": "Face shields",
+            "ar": "واقيات الوجه"
+          },
+          "specs": {
+            "models": {
+              "en": "1602001–1602011, 1602019–1602027",
+              "ar": "⁦1602001–1602011, 1602019–1602027⁩"
+            },
+            "data": {
+              "en": "Acrylic full-face, rotatable, insulating, helmet-mounted and explosion-proof",
+              "ar": "أكريليك للوجه كاملاً، دوّارة وعازلة وتُركّب على الخوذة ومقاومة للانفجار"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-006",
+          "name": {
+            "en": "Heat-resistant and welding face shields",
+            "ar": "واقيات وجه للحرارة واللحام"
+          },
+          "specs": {
+            "models": {
+              "en": "1602012–1602018",
+              "ar": "⁦1602012–1602018⁩"
+            },
+            "data": {
+              "en": "Heat- and impact-resistant, aluminised reflective layer, welding masks; for smelting rooms",
+              "ar": "مقاومة للحرارة والصدمات، بطبقة عاكسة مؤلمنة، وأقنعة لحام؛ لغرف الصهر"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-007",
+          "name": {
+            "en": "Dust masks, half-face respirators and gas masks",
+            "ar": "كمامات الغبار وأقنعة نصف الوجه والأقنعة الواقية من الغاز"
+          },
+          "specs": {
+            "models": {
+              "en": "1602201–1602235",
+              "ar": "⁦1602201–1602235⁩"
+            },
+            "data": {
+              "en": "Reusable dust masks, single or twin-filter half masks, full-face masks; for crushing and grinding dust",
+              "ar": "كمامات غبار قابلة لإعادة الاستخدام، وأقنعة نصف وجه بمرشح واحد أو مرشحين، وأقنعة للوجه كاملاً؛ لغبار التكسير والطحن"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-008",
+          "name": {
+            "en": "Disposable dust masks",
+            "ar": "كمامات غبار للاستعمال مرة واحدة"
+          },
+          "specs": {
+            "models": {
+              "en": "1602401–1602417",
+              "ar": "⁦1602401–1602417⁩"
+            },
+            "data": {
+              "en": "Cup-shape and foldable, with or without valve; filtration class on request",
+              "ar": "كأسية وقابلة للطي، بصمام أو بدونه؛ فئة الترشيح حسب الطلب"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-009",
+          "name": {
+            "en": "Earplugs",
+            "ar": "سدادات الأذن"
+          },
+          "specs": {
+            "models": {
+              "en": "1602601–1602612",
+              "ar": "⁦1602601–1602612⁩"
+            },
+            "data": {
+              "en": "Foam, PU and silicone, corded or uncorded; SNR 27–38 dB; NRR up to 31 dB; EN 352-2, ANSI S3.19",
+              "ar": "إسفنج وبولي يوريثان وسيليكون، بحبل أو بدونه؛ ⁦SNR⁩ ‏⁦27⁠–⁠38⁩ ديسيبل؛ ⁦NRR⁩ حتى ⁦31⁩ ديسيبل؛ ⁦EN 352-2⁩ و⁦ANSI S3.19⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-010",
+          "name": {
+            "en": "Earmuffs",
+            "ar": "واقيات الأذن"
+          },
+          "specs": {
+            "models": {
+              "en": "1602801–1602822 (adult models)",
+              "ar": "⁦1602801⁠–⁠1602822⁩ (موديلات للبالغين)"
+            },
+            "data": {
+              "en": "ABS cups, PU cushions; SNR 21–31 dB; EN 352-1, ANSI S3.19; Bluetooth and radio models",
+              "ar": "أكواب ⁦ABS⁩ ووسائد بولي يوريثان؛ ⁦SNR⁩ ‏⁦21⁠–⁠31⁩ ديسيبل؛ ⁦EN 352-1⁩ و⁦ANSI S3.19⁩؛ موديلات ببلوتوث وراديو"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-026",
+          "name": {
+            "en": "Full-body and half-body safety harnesses",
+            "ar": "أحزمة أمان للجسم كاملاً ولنصفه"
+          },
+          "specs": {
+            "models": {
+              "en": "1604401–1604412",
+              "ar": "⁦1604401–1604412⁩"
+            },
+            "data": {
+              "en": "45 mm polyester or flame-retardant aramid webbing; breaking strength ≥ 22 kN; 100 kg user; CE, ISO",
+              "ar": "حزام بوليستر ⁦45⁩ مم أو أراميد مقاوم للهب؛ قوة كسر ≥ ⁦22⁩ كيلونيوتن؛ لمستخدم ⁦100⁩ كجم؛ ⁦CE⁩ و⁦ISO⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-027",
+          "name": {
+            "en": "Lanyards and retractable lifelines",
+            "ar": "حبال الربط وخطوط الحياة القابلة للسحب"
+          },
+          "specs": {
+            "models": {
+              "en": "1604413–1604424",
+              "ar": "⁦1604413–1604424⁩"
+            },
+            "data": {
+              "en": "Elastic and retractable; breaking strength ≥ 22 kN; width and length to order; CE, ISO",
+              "ar": "مرنة وقابلة للسحب؛ قوة كسر ≥ ⁦22⁩ كيلونيوتن؛ العرض والطول حسب الطلب؛ ⁦CE⁩ و⁦ISO⁩"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

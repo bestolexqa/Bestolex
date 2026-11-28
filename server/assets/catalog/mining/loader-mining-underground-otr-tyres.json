@@ -1,0 +1,407 @@
+{
+  "id": "loader-mining-underground-otr-tyres",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-10 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-10 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "otr",
+      "label": {
+        "en": "Loader & dump truck OTR tyres",
+        "ar": "إطارات ⁦OTR⁩ للوادر والقلابات"
+      },
+      "models": [
+        {
+          "code": "BX-0290-01-001",
+          "name": {
+            "en": "Loader & dump truck OTR tyre, E-3/L-3",
+            "ar": "إطار ⁦OTR⁩ للوادر والقلابات، ⁦E-3/L-3⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH311: 7.50-16, 8.25-16, 12.00-16, 14/90-16, 14.00-24, 15.5-25, 16.00-24, 16.00-25, 16/70-20, 16/70-24, 17.5-25, 18.00-25, 20.5/70-16, 20.5-25, 23.5-25, 26.5-25, 29.5-25",
+              "ar": "⁦SH311: 7.50-16, 8.25-16, 12.00-16, 14/90-16, 14.00-24, 15.5-25, 16.00-24, 16.00-25, 16/70-20, 16/70-24, 17.5-25, 18.00-25, 20.5/70-16, 20.5-25, 23.5-25, 26.5-25, 29.5-25⁩"
+            },
+            "data": {
+              "en": "Bias; horizontal block, wide tread; 8–44 PR by size; TT / TL; construction, gravel roads and mining",
+              "ar": "عادي؛ نقشة كتل أفقية عريضة؛ ⁦8⁠–⁠44 PR⁩ حسب المقاس؛ بأنبوب أو بدونه؛ للإنشاءات والطرق الحصوية والتعدين"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-002",
+          "name": {
+            "en": "Wheel loader OTR tyre, E-3/L-3",
+            "ar": "إطار ⁦OTR⁩ للوادر، ⁦E-3/L-3⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH312: 14.00-24, 17.5-25, 20.5-25, 23.5-25",
+              "ar": "⁦SH312: 14.00-24, 17.5-25, 20.5-25, 23.5-25⁩"
+            },
+            "data": {
+              "en": "Bias; loaders and dump trucks; TT / TL",
+              "ar": "عادي؛ للوادر والقلابات؛ بأنبوب أو بدونه"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-003",
+          "name": {
+            "en": "Wheel loader OTR tyre, L-3",
+            "ar": "إطار ⁦OTR⁩ للوادر، ⁦L-3⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH313: 16/70-20, 20.5/70-16, 17.5-25, 20.5-25, 26.5-25",
+              "ar": "⁦SH313: 16/70-20, 20.5/70-16, 17.5-25, 20.5-25, 26.5-25⁩"
+            },
+            "data": {
+              "en": "Bias; loaders",
+              "ar": "عادي؛ للوادر"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-004",
+          "name": {
+            "en": "Wheel loader OTR tyre, L-3",
+            "ar": "إطار ⁦OTR⁩ للوادر، ⁦L-3⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH316: 17.5-25, 20.5-25, 23.5-25",
+              "ar": "⁦SH316: 17.5-25, 20.5-25, 23.5-25⁩"
+            },
+            "data": {
+              "en": "Bias; loaders",
+              "ar": "عادي؛ للوادر"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-005",
+          "name": {
+            "en": "Wheel loader OTR tyre, L-3",
+            "ar": "إطار ⁦OTR⁩ للوادر، ⁦L-3⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH318: 16/70-20, 20.5/70-16",
+              "ar": "⁦SH318: 16/70-20, 20.5/70-16⁩"
+            },
+            "data": {
+              "en": "Bias; loaders",
+              "ar": "عادي؛ للوادر"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-006",
+          "name": {
+            "en": "All-steel radial OTR tyre, E-3/L-3",
+            "ar": "إطار ⁦OTR⁩ راديال فولاذي ⁦E-3/L-3⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH391: 17.5R25, 20.5R25, 23.5R25, 26.5R25",
+              "ar": "⁦SH391: 17.5R25, 20.5R25, 23.5R25, 26.5R25⁩"
+            },
+            "data": {
+              "en": "Loaders and articulated trucks",
+              "ar": "للوادر والشاحنات المفصلية"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-007",
+          "name": {
+            "en": "All-steel radial OTR tyre, E-4/L-4",
+            "ar": "إطار ⁦OTR⁩ راديال فولاذي ⁦E-4/L-4⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH392: 26.5R25, 29.5R25",
+              "ar": "⁦SH392: 26.5R25, 29.5R25⁩"
+            },
+            "data": {
+              "en": "TL; load index 193B/209A2 (26.5R25), 200B/216A2 (29.5R25)",
+              "ar": "بدون أنبوب؛ مؤشر الحمولة ⁦193B/209A2⁩ ‏(⁦26.5R25⁩) و⁦200B/216A2⁩ ‏(⁦29.5R25⁩)"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-008",
+          "name": {
+            "en": "All-steel radial OTR tyre, E-2",
+            "ar": "إطار ⁦OTR⁩ راديال فولاذي ⁦E-2⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH393: 14.00R25 (385/95R25)",
+              "ar": "⁦SH393: 14.00R25 (385/95R25)⁩"
+            },
+            "data": {
+              "en": "3-star; tread 23 mm; 6,000 kg; TL; 170E / 170F",
+              "ar": "⁦3⁩ نجوم؛ نقشة ⁦23⁩ مم؛ ⁦6,000⁩ كجم؛ بدون أنبوب؛ ⁦170E / 170F⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-009",
+          "name": {
+            "en": "All-steel radial mining tyre, E-3",
+            "ar": "إطار تعدين راديال فولاذي ⁦E-3⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH395: 14.00R25 (385/95R25)",
+              "ar": "⁦SH395: 14.00R25 (385/95R25)⁩"
+            },
+            "data": {
+              "en": "Tread 26 mm; 6,050 / 10,000 kg; TT; 170B / 188A2",
+              "ar": "نقشة ⁦26⁩ مم؛ ⁦6,050 / 10,000⁩ كجم؛ بأنبوب؛ ⁦170B / 188A2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-010",
+          "name": {
+            "en": "All-steel radial mining tyre, E-4",
+            "ar": "إطار تعدين راديال فولاذي ⁦E-4⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH396: 14.00R25 (385/95R25)",
+              "ar": "⁦SH396: 14.00R25 (385/95R25)⁩"
+            },
+            "data": {
+              "en": "Tread 40 mm; 6,050 / 10,000 kg; TT; 170B / 188A2",
+              "ar": "نقشة ⁦40⁩ مم؛ ⁦6,050 / 10,000⁩ كجم؛ بأنبوب؛ ⁦170B / 188A2⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "E-2 to E-4",
+        "ar": "⁦E-2⁩ إلى ⁦E-4⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "نقشة واحدة",
+          "نقشتان",
+          "نقشات"
+        ],
+        "en": [
+          "tyre line",
+          "tyre lines"
+        ]
+      }
+    },
+    {
+      "id": "mining",
+      "label": {
+        "en": "Mining & underground tyres",
+        "ar": "إطارات التعدين والمناجم تحت الأرض"
+      },
+      "models": [
+        {
+          "code": "BX-0290-01-011",
+          "name": {
+            "en": "Mining loader tyre, L-4 deep tread",
+            "ar": "إطار لوادر تعدين ⁦L-4⁩ بنقشة عميقة"
+          },
+          "specs": {
+            "models": {
+              "en": "SH321: 23.5-25",
+              "ar": "⁦SH321: 23.5-25⁩"
+            },
+            "data": {
+              "en": "Bias",
+              "ar": "عادي (⁦Bias⁩)"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-012",
+          "name": {
+            "en": "Mining loader tyre, L-5 extra-deep tread",
+            "ar": "إطار لوادر تعدين ⁦L-5⁩ بنقشة عميقة جداً"
+          },
+          "specs": {
+            "models": {
+              "en": "SH322: 23.5-25",
+              "ar": "⁦SH322: 23.5-25⁩"
+            },
+            "data": {
+              "en": "Bias; cut-resistant",
+              "ar": "عادي؛ مقاوم للقطع"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-013",
+          "name": {
+            "en": "Mining tyre",
+            "ar": "إطار تعدين"
+          },
+          "specs": {
+            "models": {
+              "en": "SH325: 14.00-20",
+              "ar": "⁦SH325: 14.00-20⁩"
+            },
+            "data": {
+              "en": "Bias; mining category",
+              "ar": "عادي؛ فئة التعدين"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-014",
+          "name": {
+            "en": "Mining tyre",
+            "ar": "إطار تعدين"
+          },
+          "specs": {
+            "models": {
+              "en": "SH326: 12.00-20, 13.00-25",
+              "ar": "⁦SH326: 12.00-20, 13.00-25⁩"
+            },
+            "data": {
+              "en": "Bias; mining category",
+              "ar": "عادي؛ فئة التعدين"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-015",
+          "name": {
+            "en": "Mining loader tyre, L-4",
+            "ar": "إطار لوادر تعدين ⁦L-4⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH328: 17.5-25",
+              "ar": "⁦SH328: 17.5-25⁩"
+            },
+            "data": {
+              "en": "Bias",
+              "ar": "عادي (⁦Bias⁩)"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-016",
+          "name": {
+            "en": "Mining loader tyre, L-5",
+            "ar": "إطار لوادر تعدين ⁦L-5⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH329: 16/70-20, 20.5/70-16, 17.5-25, 20.5-25 and larger sizes",
+              "ar": "⁦SH329⁩: ‏⁦16/70-20⁩ و⁦20.5/70-16⁩ و⁦17.5-25⁩ و⁦20.5-25⁩ ومقاسات أكبر"
+            },
+            "data": {
+              "en": "Bias",
+              "ar": "عادي (⁦Bias⁩)"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-017",
+          "name": {
+            "en": "Underground mine tyre, E-4",
+            "ar": "إطار مناجم تحت الأرض ⁦E-4⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH368: 10.00-20",
+              "ar": "⁦SH368: 10.00-20⁩"
+            },
+            "data": {
+              "en": "Bias; underground trucks and loaders; 18 PR; 3,900 kg; TT",
+              "ar": "عادي؛ لشاحنات ولوادر المناجم تحت الأرض؛ ⁦18 PR⁩؛ ⁦3,900⁩ كجم؛ بأنبوب"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-018",
+          "name": {
+            "en": "Underground mine smooth tyre, L-5S",
+            "ar": "إطار أملس للمناجم تحت الأرض ⁦L-5S⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH369: 10.00-20, 12.00-24, 17.5-25",
+              "ar": "⁦SH369: 10.00-20, 12.00-24, 17.5-25⁩"
+            },
+            "data": {
+              "en": "Bias; underground LHD loaders",
+              "ar": "عادي؛ للوادر ⁦LHD⁩ تحت الأرض"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "L-4 to L-5S",
+        "ar": "⁦L-4⁩ إلى ⁦L-5S⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "نقشة واحدة",
+          "نقشتان",
+          "نقشات"
+        ],
+        "en": [
+          "tyre line",
+          "tyre lines"
+        ]
+      }
+    }
+  ],
+  "countUnit": {
+    "ar": [
+      "نقشة واحدة",
+      "نقشتان",
+      "نقشات"
+    ],
+    "en": [
+      "tyre line",
+      "tyre lines"
+    ]
+  }
+}

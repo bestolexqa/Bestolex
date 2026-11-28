@@ -1,0 +1,264 @@
+{
+  "id": "truck-haulage-tyres",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-10 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-10 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "truck",
+      "label": {
+        "en": "Truck and haulage tyres",
+        "ar": "إطارات الشاحنات والنقل"
+      },
+      "models": [
+        {
+          "code": "BX-0256-01-002",
+          "name": {
+            "en": "Mixed-road TBR tyres",
+            "ar": "إطارات شاحنات راديال للطرق المختلطة"
+          },
+          "specs": {
+            "models": {
+              "en": "A9, A805, A807, A958, B958, A803, A802, A812, A815, A928, A816",
+              "ar": "⁦A9, A805, A807, A958, B958, A803, A802, A812, A815, A928, A816⁩"
+            },
+            "data": {
+              "en": "Heavy load; drive and all-position; 10.00R20, 11.00R20, 12.00R20, 12.00R24, 12R22.5, 13R22.5, 295/80R22.5, 315/80R22.5; 16–22 PR; tread 18–25 mm",
+              "ar": "أحمال ثقيلة؛ للدفع وكل المواضع؛ ⁦10.00R20⁩ و⁦11.00R20⁩ و⁦12.00R20⁩ و⁦12.00R24⁩ و⁦12R22.5⁩ و⁦13R22.5⁩ و⁦295/80R22.5⁩ و⁦315/80R22.5⁩؛ ⁦16⁠–⁠22 PR⁩؛ عمق النقشة ⁦18⁠–⁠25⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0256-01-003",
+          "name": {
+            "en": "Rough-road & mining TBR tyres",
+            "ar": "إطارات شاحنات راديال للطرق الوعرة"
+          },
+          "specs": {
+            "models": {
+              "en": "A903, A906, A916, A66+ / A990, A907, A908, A913, A917, A918, A915",
+              "ar": "⁦A903, A906, A916, A66+ / A990, A907, A908, A913, A917, A918, A915⁩"
+            },
+            "data": {
+              "en": "Mining and overload service; 9.00R20 to 12.00R20, 12.00R24, 12R22.5, 13R22.5, 295/80R22.5; 16–22 PR; tread 21–33.5 mm",
+              "ar": "للتعدين والحمولة الزائدة؛ ⁦9.00R20⁩ إلى ⁦12.00R20⁩، و⁦12.00R24⁩ و⁦12R22.5⁩ و⁦13R22.5⁩ و⁦295/80R22.5⁩؛ ⁦16⁠–⁠22 PR⁩؛ عمق النقشة ⁦21⁠–⁠33.5⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-02-003",
+          "name": {
+            "en": "On / off-road radial TBR tyres",
+            "ar": "إطارات راديال للطرق المعبّدة والوعرة"
+          },
+          "specs": {
+            "models": {
+              "en": "SYT705, SYT706, SYT901, SYT902, SYT988, SYT733",
+              "ar": "⁦SYT705, SYT706, SYT901, SYT902, SYT988, SYT733⁩"
+            },
+            "data": {
+              "en": "11R22.5 to 13R22.5, 9.00R20 to 12.00R24, 295/75R22.5, 295/80R22.5, 17.5 in and 16 in LT sizes; 14–20 PR",
+              "ar": "⁦11R22.5⁩ إلى ⁦13R22.5⁩، و⁦9.00R20⁩ إلى ⁦12.00R24⁩، و⁦295/75R22.5⁩ و⁦295/80R22.5⁩، ومقاسات ⁦LT⁩ ‏⁦17.5⁩ و⁦16⁩ بوصة؛ ⁦14⁠–⁠20 PR⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-02-004",
+          "name": {
+            "en": "Off-road (mining) radial TBR tyres",
+            "ar": "إطارات راديال للتعدين والطرق الوعرة"
+          },
+          "specs": {
+            "models": {
+              "en": "SYT903, SYT908, SYT917, SYT928, SYT930, SYT996, SYT998, SYT990",
+              "ar": "⁦SYT903, SYT908, SYT917, SYT928, SYT930, SYT996, SYT998, SYT990⁩"
+            },
+            "data": {
+              "en": "10.00R20 to 12.00R24, 12R22.5, 13R22.5, 315/80R22.5, 8.25R16LT; up to 24 PR; tread 19–27 mm",
+              "ar": "⁦10.00R20⁩ إلى ⁦12.00R24⁩، و⁦12R22.5⁩ و⁦13R22.5⁩ و⁦315/80R22.5⁩ و⁦8.25R16LT⁩؛ حتى ⁦24 PR⁩؛ عمق النقشة ⁦19⁠–⁠27⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-03-002",
+          "name": {
+            "en": "Mining truck drive radial tyres",
+            "ar": "إطارات راديال لدفع شاحنات التعدين"
+          },
+          "specs": {
+            "models": {
+              "en": "M255, M253, M256, M257, M259",
+              "ar": "⁦M255, M253, M256, M257, M259⁩"
+            },
+            "data": {
+              "en": "12.00R20 22 PR, 12.00R24, 315/80R22.5 22 PR; tread 24–30 mm; low-speed drive wheels on poor roads",
+              "ar": "⁦12.00R20⁩ ‏⁦22 PR⁩، و⁦12.00R24⁩، و⁦315/80R22.5⁩ ‏⁦22 PR⁩؛ عمق النقشة ⁦24⁠–⁠30⁩ مم؛ لعجلات الدفع منخفضة السرعة على الطرق الرديئة"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-03-001",
+          "name": {
+            "en": "Haulage service radial tyres",
+            "ar": "إطارات راديال لخدمة النقل"
+          },
+          "specs": {
+            "models": {
+              "en": "TCM01, TCS01",
+              "ar": "⁦TCM01, TCS01⁩"
+            },
+            "data": {
+              "en": "TCM01: 14.00R20 and 16.00R20, 20 PR, tread 21.5 mm, rough and desert roads; TCS01: 525/65R20.5, 20 PR, E-7, 6500 kg at 50 km/h, for sand",
+              "ar": "⁦TCM01⁩: ‏⁦14.00R20⁩ و⁦16.00R20⁩، ‏⁦20 PR⁩، عمق ⁦21.5⁩ مم، للطرق الوعرة والصحراوية؛ ⁦TCS01⁩: ‏⁦525/65R20.5⁩، ‏⁦20 PR⁩، ‏⁦E-7⁩، ‏⁦6500⁩ كجم عند ⁦50⁩ كم/ساعة، للرمل"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-01-021",
+          "name": {
+            "en": "Mining truck bias tyres",
+            "ar": "إطارات عادية لشاحنات التعدين"
+          },
+          "specs": {
+            "models": {
+              "en": "AP-MNT, AP233, AP988, AP310, AP316, AP222, AP-MNR",
+              "ar": "⁦AP-MNT, AP233, AP988, AP310, AP316, AP222, AP-MNR⁩"
+            },
+            "data": {
+              "en": "6.50-16 to 16.00-25; 14–40 PR; TT; loads up to 14,500 kg",
+              "ar": "⁦6.50-16⁩ إلى ⁦16.00-25⁩؛ ⁦14⁠–⁠40 PR⁩؛ بأنبوب؛ أحمال حتى ⁦14,500⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-03-003",
+          "name": {
+            "en": "TC200 mining truck radials",
+            "ar": "إطارات تعدين راديال ⁦TC200⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "TC207, TC208, TC208 PRO, TC202, TC205, TC209",
+              "ar": "⁦TC207, TC208, TC208 PRO, TC202, TC205, TC209⁩"
+            },
+            "data": {
+              "en": "14.00R25 and 16.00R25; E3 / E4",
+              "ar": "⁦14.00R25⁩ و⁦16.00R25⁩؛ ⁦E3 / E4⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-03-004",
+          "name": {
+            "en": "Mining truck radial tyres",
+            "ar": "إطارات راديال لشاحنات التعدين"
+          },
+          "specs": {
+            "models": {
+              "en": "TC219, TC217",
+              "ar": "⁦TC219, TC217⁩"
+            },
+            "data": {
+              "en": "TC219: 16.00R25, E3, heat-resistant compound; TC217: 18.00R25, 480/95R29, 505/95R29, E3, groove-crack resistant",
+              "ar": "⁦TC219⁩: ‏⁦16.00R25⁩، ‏⁦E3⁩، خليط مقاوم للحرارة؛ ⁦TC217⁩: ‏⁦18.00R25⁩ و⁦480/95R29⁩ و⁦505/95R29⁩، ‏⁦E3⁩، مقاوم لتشقق الأخاديد"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-03-008",
+          "name": {
+            "en": "Articulated dump truck radial tyres",
+            "ar": "إطارات راديال للقلابات المفصلية"
+          },
+          "specs": {
+            "models": {
+              "en": "TAD01, TAD02",
+              "ar": "⁦TAD01, TAD02⁩"
+            },
+            "data": {
+              "en": "26.5R25, 29.5R25; E4 / L4; open tread for low heat build-up",
+              "ar": "⁦26.5R25⁩ و⁦29.5R25⁩؛ ⁦E4 / L4⁩؛ نقشة مفتوحة لحرارة أقل"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-03-009",
+          "name": {
+            "en": "Rigid dump truck radial tyres",
+            "ar": "إطارات راديال للقلابات الصلبة"
+          },
+          "specs": {
+            "models": {
+              "en": "TCD01, TCD04, TCD02, TCD03",
+              "ar": "⁦TCD01, TCD04, TCD02, TCD03⁩"
+            },
+            "data": {
+              "en": "18.00R33 to 46/90R57, incl. 21.00R35, 24.00R35, 27.00R49, 33.00R51, 37.00R57, 40.00R57; E4; extra-deep tread",
+              "ar": "⁦18.00R33⁩ إلى ⁦46/90R57⁩، منها ⁦21.00R35⁩ و⁦24.00R35⁩ و⁦27.00R49⁩ و⁦33.00R51⁩ و⁦37.00R57⁩ و⁦40.00R57⁩؛ ⁦E4⁩؛ نقشة عميقة جداً"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "16–57 in rims",
+        "ar": "جنوط ⁦16⁠–⁠57⁩ بوصة"
+      },
+      "countUnit": {
+        "ar": [
+          "نقشة واحدة",
+          "نقشتان",
+          "نقشات"
+        ],
+        "en": [
+          "tyre line",
+          "tyre lines"
+        ]
+      }
+    }
+  ],
+  "countUnit": {
+    "ar": [
+      "نقشة واحدة",
+      "نقشتان",
+      "نقشات"
+    ],
+    "en": [
+      "tyre line",
+      "tyre lines"
+    ]
+  }
+}

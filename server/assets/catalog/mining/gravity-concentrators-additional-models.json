@@ -1,0 +1,130 @@
+{
+  "id": "gravity-concentrators-additional-models",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-05 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-05 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Models",
+        "ar": "الموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Jigs, shaking tables, centrifuges and spirals – additional models",
+        "ar": "أجهزة جيج وطاولات هزّازة ومركّزات طاردة ومجارٍ حلزونية – موديلات إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0029-01-008",
+          "name": {
+            "en": "Sawtooth-wave jigs (JT)",
+            "ar": "أجهزة جيج بموجة سن المنشار (⁦JT⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "JT0.57-1, JT1-1, JT1.5-2, JT2-2, JT3-1, JT4-2, JT5-2, JT1.5-2S, JT2-2S, JT3-2S, JT4-2S, JT5-2S, JT5-3, JT6-3S, JT8-3",
+              "ar": "⁦JT0.57-1, JT1-1, JT1.5-2, JT2-2, JT3-1, JT4-2, JT5-2, JT1.5-2S, JT2-2S, JT3-2S, JT4-2S, JT5-2S, JT5-3, JT6-3S, JT8-3⁩"
+            },
+            "data": {
+              "en": "Jigging area 0.57–8 m²; feed 6–40 mm; 1–30 t/h; 1.5 to 7.5 × 3 kW; 610–6300 kg; uses one-third to two-thirds of the water of a conventional jig",
+              "ar": "مساحة الجيج ⁦0.57⁠–⁠8⁩ م²؛ تغذية ⁦6⁠–⁠40⁩ مم؛ ⁦1⁠–⁠30⁩ طن/ساعة؛ من ⁦1.5⁩ إلى ⁦7.5 × 3⁩ كيلوواط؛ ⁦610⁠–⁠6300⁩ كجم؛ يستهلك من ثلث إلى ثلثي ماء الجيج التقليدي"
+            }
+          }
+        },
+        {
+          "code": "BX-0029-01-009",
+          "name": {
+            "en": "6-S shaking tables (smaller decks)",
+            "ar": "طاولات هزّازة ⁦6-S⁩ (أسطح أصغر)"
+          },
+          "specs": {
+            "models": {
+              "en": "6-S 4.08, 6-S 1.95, 6-S 0.5 (laboratory)",
+              "ar": "⁦6-S 4.08⁩ و⁦6-S 1.95⁩ و⁦6-S 0.5⁩ (مخبرية)"
+            },
+            "data": {
+              "en": "Deck 0.5–4.08 m²; feed up to 2 mm; 1.1 kW (laboratory table 0.55 kW); decks with 46, 60, 88 or 110 riffles",
+              "ar": "سطح ⁦0.5⁠–⁠4.08⁩ م²؛ تغذية حتى ⁦2⁩ مم؛ ⁦1.1⁩ كيلوواط (الطاولة المخبرية ⁦0.55⁩ كيلوواط)؛ أسطح بـ ⁦46⁩ أو ⁦60⁩ أو ⁦88⁩ أو ⁦110⁩ حواجز"
+            }
+          }
+        },
+        {
+          "code": "BX-0029-01-010",
+          "name": {
+            "en": "STLB centrifugal concentrators",
+            "ar": "مركّزات طاردة ⁦STLB⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "STLB-70 (additional size); automatic-discharge versions",
+              "ar": "⁦STLB-70⁩ (مقاس إضافي)؛ ونسخ بتفريغ آلي"
+            },
+            "data": {
+              "en": "Series 0.25–120 t/h; feed 0–6 mm; back-flush water 1.5–80 t/h; 2–120 kg concentrate per batch; 0.75–22 kW; 145–3000 kg",
+              "ar": "السلسلة ⁦0.25⁠–⁠120⁩ طن/ساعة؛ تغذية ⁦0⁠–⁠6⁩ مم؛ ماء عكسي ⁦1.5⁠–⁠80⁩ طن/ساعة؛ مركّز ⁦2⁠–⁠120⁩ كجم لكل دفعة؛ ⁦0.75⁠–⁠22⁩ كيلوواط؛ ⁦145⁠–⁠3000⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0028-01-027",
+          "name": {
+            "en": "Large spiral chute",
+            "ar": "مجرى حلزوني كبير"
+          },
+          "specs": {
+            "models": {
+              "en": "DL2000",
+              "ar": "DL2000"
+            },
+            "data": {
+              "en": "Ø 2000 mm; feed 0.02–0.4 mm; no electric power",
+              "ar": "قطر ⁦2000⁩ مم؛ تغذية ⁦0.02⁠–⁠0.4⁩ مم؛ بلا طاقة كهربائية"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

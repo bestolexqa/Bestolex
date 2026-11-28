@@ -1,0 +1,215 @@
+{
+  "id": "ductile-iron-steel-pipes-fittings-hoses",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-07 Ed5⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-07 Ed5 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Ductile iron and steel pipes, fittings and mining hoses",
+        "ar": "أنابيب ووصلات من الحديد المطيلي والفولاذ وخراطيم التعدين"
+      },
+      "models": [
+        {
+          "code": "BX-0648-01-001",
+          "name": {
+            "en": "Ductile iron pipes (ISO 2531 / EN 545 / EN 598)",
+            "ar": "أنابيب حديد مطيلي (⁦ISO 2531 / EN 545 / EN 598⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "Push-on joint pipes",
+              "ar": "أنابيب بوصلات دفع"
+            },
+            "data": {
+              "en": "Push-on and restrained joints; for water and process lines",
+              "ar": "وصلات دفع ووصلات مقيّدة؛ لخطوط المياه والمعالجة"
+            }
+          }
+        },
+        {
+          "code": "BX-0648-01-002",
+          "name": {
+            "en": "Ductile iron fittings (ISO 2531 / EN 545 / EN 598 / BS 4772)",
+            "ar": "وصلات حديد مطيلي (⁦ISO 2531 / EN 545 / EN 598 / BS 4772⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "Bends, tees, crosses, tapers, collars, flanged and socket pieces",
+              "ar": "أكواع ووصلات ⁦T⁩ وصلبان ومخفّضات وأطواق وقطع بشفة وبقابس"
+            },
+            "data": {
+              "en": "Flanged or socket ends",
+              "ar": "أطراف بشفة أو بقابس"
+            }
+          }
+        },
+        {
+          "code": "BX-0648-01-003",
+          "name": {
+            "en": "Ductile iron fittings to ANSI / AWWA C110",
+            "ar": "وصلات حديد مطيلي وفق ⁦ANSI / AWWA C110⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "Bends, tees, reducers and flanges",
+              "ar": "أكواع ووصلات ⁦T⁩ ومخفّضات وشفاه"
+            },
+            "data": {
+              "en": "US standard fittings",
+              "ar": "وصلات بالمعيار الأمريكي"
+            }
+          }
+        },
+        {
+          "code": "BX-0648-01-004",
+          "name": {
+            "en": "Compact ductile iron fittings to ANSI / AWWA C153",
+            "ar": "وصلات حديد مطيلي مدمجة وفق ⁦ANSI / AWWA C153⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "Compact fittings",
+              "ar": "وصلات مدمجة"
+            },
+            "data": {
+              "en": "US standard compact fittings",
+              "ar": "وصلات مدمجة بالمعيار الأمريكي"
+            }
+          }
+        },
+        {
+          "code": "BX-0648-01-005",
+          "name": {
+            "en": "Flange adaptors, couplings and dismantling joints",
+            "ar": "وصلات شفاه وقارنات ووصلات فك"
+          },
+          "specs": {
+            "models": {
+              "en": "Wide-range and dedicated flange adaptors and couplings",
+              "ar": "وصلات شفاه وقارنات واسعة المدى ومخصصة"
+            },
+            "data": {
+              "en": "For pipes, pumps and valves",
+              "ar": "للأنابيب والمضخات والصمامات"
+            }
+          }
+        },
+        {
+          "code": "BX-0648-04-001",
+          "name": {
+            "en": "Steel butt-weld pipe fittings (ASME B16.9)",
+            "ar": "وصلات أنابيب فولاذية باللحام التناكبي (⁦ASME B16.9⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "Elbows incl. large diameter, equal, reducing and high-pressure tees, crosses, reducers, caps, flanges",
+              "ar": "أكواع منها كبيرة القطر، ووصلات ⁦T⁩ متساوية ومخفّضة وعالية الضغط، وصلبان ومخفّضات وأغطية وشفاه"
+            },
+            "data": {
+              "en": "Carbon and alloy steel, seamless and welded; ASME B16.9 and B36.10M / B36.19M",
+              "ar": "فولاذ كربوني وسبائكي، ملحوم وغير ملحوم؛ ⁦ASME B16.9⁩ و⁦B36.10M / B36.19M⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0648-04-002",
+          "name": {
+            "en": "Special steel fittings",
+            "ar": "وصلات فولاذية خاصة"
+          },
+          "specs": {
+            "models": {
+              "en": "Headers, laterals, flanged fittings",
+              "ar": "مجمّعات وتفرعات ووصلات بشفة"
+            },
+            "data": {
+              "en": "Made to order",
+              "ar": "حسب الطلب"
+            }
+          }
+        },
+        {
+          "code": "BX-0341-02-001",
+          "name": {
+            "en": "Sand suction hose (material handling)",
+            "ar": "خرطوم شفط الرمل (مناولة المواد)"
+          },
+          "specs": {
+            "models": {
+              "en": "ID 4–12 in (102–305 mm); 10 m lengths",
+              "ar": "قطر داخلي ⁦4⁠–⁠12⁩ بوصة (⁦102⁠–⁠305⁩ مم)؛ أطوال ⁦10⁩ م"
+            },
+            "data": {
+              "en": "WP 20 bar (300 psi), burst 60 bar; abrasion-resistant natural rubber; clamp or flange ends; −30 to +80 °C",
+              "ar": "ضغط تشغيل ⁦20⁩ بار (⁦300 psi⁩)، انفجار ⁦60⁩ بار؛ مطاط طبيعي مقاوم للتآكل؛ أطراف بمشبك أو شفة؛ من −⁦30⁩ إلى +⁦80 °⁩م"
+            }
+          }
+        },
+        {
+          "code": "BX-0341-02-002",
+          "name": {
+            "en": "Mineral sampling hose",
+            "ar": "خرطوم أخذ عينات المعادن"
+          },
+          "specs": {
+            "models": {
+              "en": "ID 2, 3, 4 in (51 / 76 / 102 mm); 61 m lengths",
+              "ar": "قطر داخلي ⁦2⁩ و⁦3⁩ و⁦4⁩ بوصات (⁦51 / 76 / 102⁩ مم)؛ أطوال ⁦61⁩ م"
+            },
+            "data": {
+              "en": "WP 35 bar (525 psi), burst 105 bar; conductive abrasion-resistant NR tube; textile cord and steel helix",
+              "ar": "ضغط تشغيل ⁦35⁩ بار (⁦525 psi⁩)، انفجار ⁦105⁩ بار؛ أنبوب مطاط طبيعي موصل ومقاوم للتآكل؛ حبال نسيجية ولولب فولاذي"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "مجموعة واحدة",
+          "مجموعتان",
+          "مجموعات"
+        ],
+        "en": [
+          "product group",
+          "product groups"
+        ]
+      }
+    }
+  ]
+}

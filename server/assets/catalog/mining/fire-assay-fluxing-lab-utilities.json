@@ -1,0 +1,215 @@
+{
+  "id": "fire-assay-fluxing-lab-utilities",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-09 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-09 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Fire assay furnaces, fluxing, consumables and lab utilities",
+        "ar": "أفران التحليل بالنار والمصهرات والمستهلكات ومرافق المختبر"
+      },
+      "models": [
+        {
+          "code": "BX-0421-01-017",
+          "name": {
+            "en": "Fire assay fusion furnaces",
+            "ar": "أفران الصهر للتحليل بالنار"
+          },
+          "specs": {
+            "models": {
+              "en": "YX-FF12, YX-FF25, YX-FF42P",
+              "ar": "⁦YX-FF12, YX-FF25, YX-FF42P⁩"
+            },
+            "data": {
+              "en": "1200 °C; 12–42 crucibles; silicon-carbide elements; pneumatic door; 18–40 kW three-phase",
+              "ar": "⁦1200 °⁩م؛ ⁦12⁠–⁠42⁩ بوتقة؛ عناصر تسخين من كربيد السيليكون؛ باب هوائي؛ ⁦18⁠–⁠40⁩ كيلوواط ثلاثي الأطوار"
+            }
+          }
+        },
+        {
+          "code": "BX-0421-01-018",
+          "name": {
+            "en": "Cupellation furnaces",
+            "ar": "أفران التكويب"
+          },
+          "specs": {
+            "models": {
+              "en": "YX-CF50, YX-CF100",
+              "ar": "⁦YX-CF50, YX-CF100⁩"
+            },
+            "data": {
+              "en": "1200 °C; 50 / 100 cupels; 18 / 35 kW",
+              "ar": "⁦1200 °⁩م؛ ⁦50 / 100⁩ كوب تكويب؛ ⁦18 / 35⁩ كيلوواط"
+            }
+          }
+        },
+        {
+          "code": "BX-0421-01-019",
+          "name": {
+            "en": "Roasting (pre-firing) furnace and muffle furnaces",
+            "ar": "فرن التحميص (الحرق المسبق) والأفران الكتمية"
+          },
+          "specs": {
+            "models": {
+              "en": "Roasting furnace 10.5 kW; MFLC-2/12 to 36/12 (D and P)",
+              "ar": "فرن تحميص ⁦10.5⁩ كيلوواط؛ ⁦MFLC-2/12⁩ إلى ⁦36/12 (D⁩ و⁦P⁩)"
+            },
+            "data": {
+              "en": "Up to 1000–1200 °C; chamber 2–36 L",
+              "ar": "حتى ⁦1000⁠–⁠1200 °⁩م؛ حجرة ⁦2⁠–⁠36⁩ لتر"
+            }
+          }
+        },
+        {
+          "code": "BX-0421-01-020",
+          "name": {
+            "en": "Flux mixers, automatic flux dosing and crucible mixers",
+            "ar": "خلاطات المصهر والجرعات الآلية وخلاطات البوتقات"
+          },
+          "specs": {
+            "models": {
+              "en": "YH-5L to YH-1200L (3D); YX-CM25, YX-CM50",
+              "ar": "⁦YH-5L⁩ إلى ⁦YH-1200L⁩ ‏(⁦3D⁩)؛ ⁦YX-CM25⁩ و⁦YX-CM50⁩"
+            },
+            "data": {
+              "en": "Mix flux and sample; 25 / 50 crucibles per batch",
+              "ar": "خلط المصهر والعينة؛ ⁦25 / 50⁩ بوتقة في الدفعة"
+            }
+          }
+        },
+        {
+          "code": "BX-0421-01-021",
+          "name": {
+            "en": "Fire assay clay crucibles",
+            "ar": "بوتقات طينية للتحليل بالنار"
+          },
+          "specs": {
+            "models": {
+              "en": "YAC0245 to YAC0750A (30 g to 75 g+ charges)",
+              "ar": "⁦YAC0245⁩ إلى ⁦YAC0750A⁩ (شحنات من ⁦30⁩ جم إلى ⁦75⁩ جم فأكثر)"
+            },
+            "data": {
+              "en": "Volume 245–760 mL",
+              "ar": "السعة ⁦245⁠–⁠760⁩ مل"
+            }
+          }
+        },
+        {
+          "code": "BX-0421-01-011",
+          "name": {
+            "en": "Bottle roller / rod mill",
+            "ar": "دوّار القوارير / طاحونة القضبان"
+          },
+          "specs": {
+            "models": {
+              "en": "YXRM-3A-300 to YXRM-5D-1500 (1–4 tiers, 2–20 rollers, 300–1800 mm)",
+              "ar": "⁦YXRM-3A-300⁩ إلى ⁦YXRM-5D-1500⁩ ‏(⁦1⁠–⁠4⁩ طبقات، ⁦2⁠–⁠20⁩ بكرة، ⁦300⁠–⁠1800⁩ مم)"
+            },
+            "data": {
+              "en": "Variable speed; for bottle-roll leach tests, mixing and rod grinding",
+              "ar": "سرعة متغيرة؛ لاختبارات الإذابة بالقوارير والخلط والطحن بالقضبان"
+            }
+          }
+        },
+        {
+          "code": "BX-0421-01-027",
+          "name": {
+            "en": "Hot plates (ceramic, graphite, stainless)",
+            "ar": "سخانات مسطحة (سيراميك، جرافيت، ستانلس)"
+          },
+          "specs": {
+            "models": {
+              "en": "YHP-300EX / 400EX / 500EX; YHP-DB-XS to 3S, XSGW to 3SGW; YHP-DB-2A to 6A",
+              "ar": "⁦YHP-300EX / 400EX / 500EX; YHP-DB-XS to 3S, XSGW to 3SGW; YHP-DB-2A to 6A⁩"
+            },
+            "data": {
+              "en": "300–500 °C; 1–5 kW; for sample digestion",
+              "ar": "⁦300⁠–⁠500 °⁩م؛ ⁦1⁠–⁠5⁩ كيلوواط؛ لهضم العينات"
+            }
+          }
+        },
+        {
+          "code": "BX-0421-01-028",
+          "name": {
+            "en": "Magnetic stirrers",
+            "ar": "خلاطات مغناطيسية"
+          },
+          "specs": {
+            "models": {
+              "en": "YXMS-901D, 1 to 10 positions",
+              "ar": "⁦YXMS-901D⁩، من ⁦1⁩ إلى ⁦10⁩ مواضع"
+            },
+            "data": {
+              "en": "3 L per position; 0–2500 r/min",
+              "ar": "⁦3⁩ لتر لكل موضع؛ ⁦0⁠–⁠2500⁩ دورة/دقيقة"
+            }
+          }
+        },
+        {
+          "code": "BX-0421-01-026",
+          "name": {
+            "en": "Mobile containerised laboratories",
+            "ar": "مختبرات متنقلة في حاويات"
+          },
+          "specs": {
+            "models": {
+              "en": "20 ft and 40 ft HQ containers",
+              "ar": "حاويات ⁦20⁩ قدماً و⁦40⁩ قدماً ⁦HQ⁩"
+            },
+            "data": {
+              "en": "Insulated units for sample preparation, fire assay, wet assay or two-level labs; for remote sites",
+              "ar": "وحدات معزولة لتحضير العينات أو التحليل بالنار أو التحليل الرطب أو مختبرات بطابقين؛ للمواقع البعيدة"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

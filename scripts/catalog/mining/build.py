@@ -1,11 +1,11 @@
 """Build the gold-mining section: family JSON files, product entries in data/products.json, images in
 public/products/<id>/ and the family registrations, one subpage per Bestolex catalogue. Run from this folder:
-    python3 build.py [BXC-02=<dir>] [BXC-03=<dir>] [BXC-04=<dir>]
+    python3 build.py [BXC-02=<dir>] [BXC-03=<dir>] [BXC-04=<dir>] [BXC-05=<dir>] [BXC-06=<dir>] [BXC-07=<dir>] [BXC-08=<dir>] [BXC-09=<dir>] [BXC-10=<dir>] [BXS-01=<dir>]
 Images are written only for the catalogues given (prepared cut-outs: prep_*.py); otherwise the files already in
 public/ are kept and only their paths are used."""
 import json, os, re, sys
 from lib import iso, write
-import bxc02_tables, bxc02_products, bxc03_tables, bxc03_products, bxc04_tables, bxc04_products
+import bxc02_tables, bxc02_products, bxc03_tables, bxc03_products, bxc04_tables, bxc04_products, bxc08_tables, bxc08_products, bxc05_tables, bxc05_products, bxc09_tables, bxc09_products, bxc07_tables, bxc07_products, bxc06_tables, bxc06_products, bxs01_tables, bxs02_tables, bxs_products, bxc10_tables, bxc10_products
 from bxc02_products import SERVICE_AR, SERVICE_EN
 
 REPO = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../..'))
@@ -14,7 +14,7 @@ IMGDIRS = dict(a.split('=', 1) for a in sys.argv[1:] if '=' in a)
 CATEGORY = {
     'id': 'gold-mining',
     'title': {'ar': 'تعدين الذهب', 'en': 'Gold Mining'},
-    'image': '/categories/gold-mining.webp',
+    'image': '/categories/gold-mining-site.webp',
     'description': {
         'ar': 'معدات تعدين الذهب على مراحل خط الإنتاج: التنقيب والحفر واستخراج الخام، ثم التكسير والطحن والغسيل والتركيز والمعالجة والصهر، مع المختبر ودعم الموقع. نورّد للمشاريع في الشرق الأوسط وأفريقيا بأكواد BX وجداول موديلات من كتالوجاتنا.',
         'en': 'Gold-mining equipment along the production line: exploration, drilling and ore extraction, then crushing, grinding, washing, concentration, processing and smelting, with laboratory and site support. We supply projects in the Middle East and Africa with BX codes and model tables from our catalogues.'},
@@ -30,6 +30,20 @@ SUBPAGES = [
      bxc03_tables.F, bxc03_products.P),
     ('BXC-04', {'id': 'crushing-grinding-screening', 'title': {'ar': 'التكسير والطحن والغربلة', 'en': 'Crushing, Grinding & Screening'}},
      bxc04_tables.F, bxc04_products.P),
+    ('BXC-05', {'id': 'washing-gold-concentration', 'title': {'ar': 'الغسيل وتركيز الذهب', 'en': 'Washing & Gold Concentration'}},
+     bxc05_tables.F, bxc05_products.P),
+    ('BXC-08', {'id': 'smelting-refining', 'title': {'ar': 'الصهر والتنقية', 'en': 'Smelting & Refining'}},
+     bxc08_tables.F, bxc08_products.P),
+    ('BXC-06', {'id': 'ore-processing-plants', 'title': {'ar': 'معالجة الخام والمصانع', 'en': 'Ore Processing & Plants'}},
+     bxc06_tables.F, bxc06_products.P),
+    ('BXC-07', {'id': 'pumps-slurry-handling', 'title': {'ar': 'المضخات ونقل اللب', 'en': 'Pumps & Slurry Handling'}},
+     bxc07_tables.F, bxc07_products.P),
+    ('BXC-09', {'id': 'laboratory-assay', 'title': {'ar': 'المختبر والتحليل', 'en': 'Laboratory & Assay'}},
+     bxc09_tables.F, bxc09_products.P),
+    ('BXC-10', {'id': 'fleet-support', 'title': {'ar': 'دعم الأسطول', 'en': 'Fleet Support'}},
+     bxc10_tables.F, bxc10_products.P),
+    ('BXS-01', {'id': 'safety-site-facilities', 'title': {'ar': 'السلامة ومرافق الموقع', 'en': 'Safety & Site Facilities'}},
+     {**bxs01_tables.F, **bxs02_tables.F}, bxs_products.P),
 ]
 
 def specs(rows):
@@ -44,12 +58,24 @@ def faq(rows):
     return {'ar': [{'q': q, 'a': iso(a)} for q, _, a, _ in rows], 'en': [{'q': q, 'a': a} for _, q, _, a in rows]}
 
 
-EXTRA = {'metal-detectors-water-well-drill-rigs': ['i-004-010'],
+EXTRA = {'filter-presses-reagent-dosing': ['i-011-017'], 'filter-plates-options-belt-press-dosing': ['i-013-020'],
+         'metal-detectors-water-well-drill-rigs': ['i-004-010'],
          # BXC-02 Ed4 has no photo of these rigs: photos from the supplier's own product pages (CAT-0098-01),
          # cut out of the factory background; Chinese stickers and the maker's name removed (sup/hw in the work dir)
-         'core-rc-exploration-drill-rigs': ['hw-gl', 'hw-b30', 'hw-rc']}
+         'core-rc-exploration-drill-rigs': ['hw-gl', 'hw-b30', 'hw-rc'],
+         # BXC-05: the other photos on the same catalogue page
+         'magnetic-reclaimers-pulleys': ['i-014-012'],
+         'mobile-gold-washing-plants': ['i-015-013', 'i-015-016', 'i-015-014'],
+         'sluice-boxes-gold-carpets-pans': ['i-016-019', 'i-016-020'],
+         'dredgers': ['i-017-022', 'i-017-024', 'i-017-023'],
+         'amphibious-dredgers-excavators': ['i-018-027', 'i-018-028'],
+         # BXC-09
+         'sample-crushing-pulverizing': ['i-003-001', 'i-003-002'],
+         'fire-assay-furnaces-cupels': ['i-006-008'],
+         'laboratory-balances-micropipettes': ['i-008-012', 'i-008-013'],
+         'atomic-absorption-fluorescence-spectrometers': ['i-011-017']}
 PLACEHOLDER = set()
-PHOTO = {'dth-hammers-bits', 'c-series-jaw-gyratory-impact-crushers'}                         # scene photo: centre-cropped to a square, not letterboxed
+PHOTO = {'leaching-tanks', 'thickeners', 'membrane-chamber-filter-presses', 'dth-hammers-bits', 'c-series-jaw-gyratory-impact-crushers', 'refractories-quartz-glass-ceramics', 'slurry-pipes-packings-gaskets', 'ductile-iron-steel-pipes-fittings-hoses', 'bearings-mill-spares'}                         # scene photo: centre-cropped to a square, not letterboxed
 
 
 def image_for(cat, pid, src, n=0):

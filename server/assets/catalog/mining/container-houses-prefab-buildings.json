@@ -1,0 +1,217 @@
+{
+  "id": "container-houses-prefab-buildings",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXS-02 Ed1⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXS-02 Ed1 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "houses",
+      "label": {
+        "en": "Container houses & prefab buildings",
+        "ar": "البيوت الجاهزة من الحاويات والمباني مسبقة الصنع"
+      },
+      "models": [
+        {
+          "code": "BX-0337-01-001",
+          "name": {
+            "en": "Flat-pack container house, 20 ft",
+            "ar": "بيت حاوية مفكك ⁦20⁩ قدماً"
+          },
+          "specs": {
+            "models": {
+              "en": "Layouts FC-01 to FC-16",
+              "ar": "مخططات ⁦FC-01⁩ إلى ⁦FC-16⁩"
+            },
+            "data": {
+              "en": "Steel frame, sandwich-panel walls; layouts for 1-, 2- and multi-room units, men's and women's toilets, kitchen and dining, hostel, clinic, classroom and two-storey blocks",
+              "ar": "هيكل فولاذي وجدران ألواح ساندويتش؛ مخططات لوحدات بغرفة وغرفتين وأكثر، ودورات مياه للرجال والنساء، ومطبخ وطعام، وسكن، وعيادة، وفصل، وكتل بطابقين"
+            }
+          }
+        },
+        {
+          "code": "BX-0337-01-002",
+          "name": {
+            "en": "Detachable container house",
+            "ar": "بيت حاوية قابل للفك"
+          },
+          "specs": {
+            "models": {
+              "en": "20 ft units; multi-storey",
+              "ar": "وحدات ⁦20⁩ قدماً؛ متعددة الطوابق"
+            },
+            "data": {
+              "en": "Worker camps, dormitories, offices and hostels",
+              "ar": "مخيمات العمال والمهاجع والمكاتب والسكن"
+            }
+          }
+        },
+        {
+          "code": "BX-0337-01-003",
+          "name": {
+            "en": "Expandable container house",
+            "ar": "بيت حاوية قابل للتمديد"
+          },
+          "specs": {
+            "models": {
+              "en": "20 ft, 30 ft, 40 ft",
+              "ar": "⁦20⁩ و⁦30⁩ و⁦40⁩ قدماً"
+            },
+            "data": {
+              "en": "Folds out to a larger living space",
+              "ar": "ينفتح إلى مساحة معيشة أكبر"
+            }
+          }
+        },
+        {
+          "code": "BX-0337-01-004",
+          "name": {
+            "en": "Folding container house, first generation",
+            "ar": "بيت حاوية قابل للطي – الجيل الأول"
+          },
+          "specs": {
+            "models": {
+              "en": "Folding unit",
+              "ar": "وحدة قابلة للطي"
+            },
+            "data": {
+              "en": "Installed in 4 steps in about 10 minutes",
+              "ar": "يُركّب في ⁦4⁩ خطوات خلال نحو ⁦10⁩ دقائق"
+            }
+          }
+        },
+        {
+          "code": "BX-0337-01-005",
+          "name": {
+            "en": "Folding container house, second generation",
+            "ar": "بيت حاوية قابل للطي – الجيل الثاني"
+          },
+          "specs": {
+            "models": {
+              "en": "L5,900 × W2,500 × H2,470 mm",
+              "ar": "⁦L5,900 × W2,500 × H2,470 mm⁩"
+            },
+            "data": {
+              "en": "10 sets per 40HQ container; saves about 80% of installation time",
+              "ar": "⁦10⁩ وحدات في حاوية ⁦40HQ⁩؛ يوفر نحو ⁦80%⁩ من وقت التركيب"
+            }
+          }
+        },
+        {
+          "code": "BX-0337-01-007",
+          "name": {
+            "en": "Prefabricated K-type house",
+            "ar": "مبنى جاهز طراز ⁦K⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "K-type; 1–2 storeys",
+              "ar": "طراز ⁦K⁩؛ طابق أو طابقان"
+            },
+            "data": {
+              "en": "Sandwich-panel camp buildings",
+              "ar": "مباني مخيمات من ألواح الساندويتش"
+            }
+          }
+        },
+        {
+          "code": "BX-0337-01-008",
+          "name": {
+            "en": "Prefabricated T-type house",
+            "ar": "مبنى جاهز طراز ⁦T⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "T-type",
+              "ar": "طراز ⁦T⁩"
+            },
+            "data": {
+              "en": "Camp and site buildings",
+              "ar": "مباني المخيمات والمواقع"
+            }
+          }
+        },
+        {
+          "code": "BX-0337-01-012",
+          "name": {
+            "en": "Sentry boxes & kiosks",
+            "ar": "أكشاك الحراسة والأكشاك"
+          },
+          "specs": {
+            "models": {
+              "en": "Post series",
+              "ar": "سلسلة ⁦Post⁩"
+            },
+            "data": {
+              "en": "Guard booths for site gates",
+              "ar": "أكشاك حراسة لبوابات المواقع"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "20–40 ft",
+        "ar": "⁦20⁠–⁠40⁩ قدماً"
+      },
+      "countUnit": {
+        "ar": [
+          "نوع واحد",
+          "نوعان",
+          "أنواع"
+        ],
+        "en": [
+          "type",
+          "types"
+        ]
+      },
+      "intro": {
+        "en": "Units ship flat or folded to cut freight and installation time.",
+        "ar": "تُشحن الوحدات مفككة أو مطوية لتقليل الشحن ووقت التركيب."
+      }
+    }
+  ],
+  "countUnit": {
+    "ar": [
+      "نوع واحد",
+      "نوعان",
+      "أنواع"
+    ],
+    "en": [
+      "type",
+      "types"
+    ]
+  }
+}

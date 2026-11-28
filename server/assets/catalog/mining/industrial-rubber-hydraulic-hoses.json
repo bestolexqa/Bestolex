@@ -1,0 +1,625 @@
+{
+  "id": "industrial-rubber-hydraulic-hoses",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-07 Ed5⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-07 Ed5 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Hose type",
+    "ar": "نوع الخرطوم"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "size",
+      "label": {
+        "en": "Size range",
+        "ar": "مدى المقاسات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Pressure / data",
+        "ar": "الضغط / البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "size",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "hoses",
+      "label": {
+        "en": "Industrial rubber and hydraulic hoses",
+        "ar": "الخراطيم المطاطية الصناعية والهيدروليكية"
+      },
+      "models": [
+        {
+          "code": "BX-0258-01-001",
+          "name": {
+            "en": "Textile-reinforced air hose",
+            "ar": "خرطوم هواء مقوّى بالنسيج"
+          },
+          "specs": {
+            "size": {
+              "en": "3/16–4 in (4.8–101.6 mm)",
+              "ar": "⁦3/16⁠–⁠4⁩ بوصة (⁦4.8⁠–⁠101.6⁩ مم)"
+            },
+            "data": {
+              "en": "WP 20 bar (300 psi); −40 to 70 °C",
+              "ar": "ضغط تشغيل ⁦20⁩ بار (⁦300 psi⁩)؛ من −⁦40⁩ إلى ⁦70 °⁩م"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-002",
+          "name": {
+            "en": "Jackhammer air hose",
+            "ar": "خرطوم هواء للمطارق"
+          },
+          "specs": {
+            "size": {
+              "en": "3/16–4 in (4.8–101.6 mm)",
+              "ar": "⁦3/16⁠–⁠4⁩ بوصة (⁦4.8⁠–⁠101.6⁩ مم)"
+            },
+            "data": {
+              "en": "WP 20 bar (300 psi); −40 to 70 °C",
+              "ar": "ضغط تشغيل ⁦20⁩ بار (⁦300 psi⁩)؛ من −⁦40⁩ إلى ⁦70 °⁩م"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-003",
+          "name": {
+            "en": "Multi-purpose hose",
+            "ar": "خرطوم متعدد الأغراض"
+          },
+          "specs": {
+            "size": {
+              "en": "3/16–4 in (4.8–101.6 mm)",
+              "ar": "⁦3/16⁠–⁠4⁩ بوصة (⁦4.8⁠–⁠101.6⁩ مم)"
+            },
+            "data": {
+              "en": "WP 20 bar (300 psi); −40 to 70 °C",
+              "ar": "ضغط تشغيل ⁦20⁩ بار (⁦300 psi⁩)؛ من −⁦40⁩ إلى ⁦70 °⁩م"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-004",
+          "name": {
+            "en": "Water discharge hose 150 PSI",
+            "ar": "خرطوم تصريف ماء ⁦150 PSI⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "3/16–12 in",
+              "ar": "⁦3/16⁠–⁠12⁩ بوصة"
+            },
+            "data": {
+              "en": "WP 10 bar",
+              "ar": "ضغط تشغيل ⁦10⁩ بار"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-006",
+          "name": {
+            "en": "Water discharge hose 300 PSI",
+            "ar": "خرطوم تصريف ماء ⁦300 PSI⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "3/16–12 in",
+              "ar": "⁦3/16⁠–⁠12⁩ بوصة"
+            },
+            "data": {
+              "en": "WP 20 bar",
+              "ar": "ضغط تشغيل ⁦20⁩ بار"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-005",
+          "name": {
+            "en": "Water suction hose 150 PSI",
+            "ar": "خرطوم شفط ماء ⁦150 PSI⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "3/4–14 in",
+              "ar": "⁦3/4⁠–⁠14⁩ بوصة"
+            },
+            "data": {
+              "en": "WP 10 bar; vacuum 0.8 bar",
+              "ar": "ضغط تشغيل ⁦10⁩ بار؛ تفريغ ⁦0.8⁩ بار"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-007",
+          "name": {
+            "en": "Water suction hose 300 PSI",
+            "ar": "خرطوم شفط ماء ⁦300 PSI⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "3/4–14 in",
+              "ar": "⁦3/4⁠–⁠14⁩ بوصة"
+            },
+            "data": {
+              "en": "WP 20 bar; vacuum 0.8 bar",
+              "ar": "ضغط تشغيل ⁦20⁩ بار؛ تفريغ ⁦0.8⁩ بار"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-009",
+          "name": {
+            "en": "Nitrile fuel transfer hose 300 PSI",
+            "ar": "خرطوم نقل وقود نتريل ⁦300 PSI⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "3/16–12 in",
+              "ar": "⁦3/16⁠–⁠12⁩ بوصة"
+            },
+            "data": {
+              "en": "WP 20 bar",
+              "ar": "ضغط تشغيل ⁦20⁩ بار"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-011",
+          "name": {
+            "en": "Nitrile fuel discharge hose 150 PSI",
+            "ar": "خرطوم تصريف وقود نتريل ⁦150 PSI⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "3/16–12 in",
+              "ar": "⁦3/16⁠–⁠12⁩ بوصة"
+            },
+            "data": {
+              "en": "WP 10 bar",
+              "ar": "ضغط تشغيل ⁦10⁩ بار"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-013",
+          "name": {
+            "en": "Nitrile fuel suction hose 150 PSI",
+            "ar": "خرطوم شفط وقود نتريل ⁦150 PSI⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "3/16–12 in",
+              "ar": "⁦3/16⁠–⁠12⁩ بوصة"
+            },
+            "data": {
+              "en": "WP 10 bar",
+              "ar": "ضغط تشغيل ⁦10⁩ بار"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-019",
+          "name": {
+            "en": "UHMWPE chemical discharge hose",
+            "ar": "خرطوم تصريف كيماويات ⁦UHMWPE⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "3/4–6 in",
+              "ar": "⁦3/4⁠–⁠6⁩ بوصات"
+            },
+            "data": {
+              "en": "WP 10–17 bar; for reagents and acids",
+              "ar": "ضغط تشغيل ⁦10⁠–⁠17⁩ بار؛ للكواشف والأحماض"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-020",
+          "name": {
+            "en": "UHMWPE chemical suction hose",
+            "ar": "خرطوم شفط كيماويات ⁦UHMWPE⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "3/4–6 in",
+              "ar": "⁦3/4⁠–⁠6⁩ بوصات"
+            },
+            "data": {
+              "en": "WP 10–17 bar; for reagents and acids",
+              "ar": "ضغط تشغيل ⁦10⁠–⁠17⁩ بار؛ للكواشف والأحماض"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-023",
+          "name": {
+            "en": "Oxygen hose",
+            "ar": "خرطوم أكسجين"
+          },
+          "specs": {
+            "size": {
+              "en": "3/16–1 in",
+              "ar": "⁦3/16⁠–⁠1⁩ بوصة"
+            },
+            "data": {
+              "en": "WP 20 bar",
+              "ar": "ضغط تشغيل ⁦20⁩ بار"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-024",
+          "name": {
+            "en": "Acetylene hose",
+            "ar": "خرطوم أسيتيلين"
+          },
+          "specs": {
+            "size": {
+              "en": "3/16–1 in",
+              "ar": "⁦3/16⁠–⁠1⁩ بوصة"
+            },
+            "data": {
+              "en": "WP 20 bar",
+              "ar": "ضغط تشغيل ⁦20⁩ بار"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-025",
+          "name": {
+            "en": "Twin welding hose",
+            "ar": "خرطوم لحام مزدوج"
+          },
+          "specs": {
+            "size": {
+              "en": "3/16–1 in",
+              "ar": "⁦3/16⁠–⁠1⁩ بوصة"
+            },
+            "data": {
+              "en": "WP 20 bar",
+              "ar": "ضغط تشغيل ⁦20⁩ بار"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-026",
+          "name": {
+            "en": "LPG / propane gas hose",
+            "ar": "خرطوم غاز ⁦LPG⁩ / بروبان"
+          },
+          "specs": {
+            "size": {
+              "en": "3/16–1 in",
+              "ar": "⁦3/16⁠–⁠1⁩ بوصة"
+            },
+            "data": {
+              "en": "WP 20 bar",
+              "ar": "ضغط تشغيل ⁦20⁩ بار"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-028",
+          "name": {
+            "en": "Bulk material suction hose",
+            "ar": "خرطوم شفط المواد السائبة"
+          },
+          "specs": {
+            "size": {
+              "en": "1-1/4–12 in",
+              "ar": "⁦1-1/4⁠–⁠12⁩ بوصة"
+            },
+            "data": {
+              "en": "WP 10 bar; abrasion-resistant",
+              "ar": "ضغط تشغيل ⁦10⁩ بار؛ مقاومة للتآكل"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-029",
+          "name": {
+            "en": "Bulk material discharge hose",
+            "ar": "خرطوم تصريف المواد السائبة"
+          },
+          "specs": {
+            "size": {
+              "en": "1-1/4–12 in",
+              "ar": "⁦1-1/4⁠–⁠12⁩ بوصة"
+            },
+            "data": {
+              "en": "WP 10 bar; abrasion-resistant",
+              "ar": "ضغط تشغيل ⁦10⁩ بار؛ مقاومة للتآكل"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-034",
+          "name": {
+            "en": "Suction dredging hose",
+            "ar": "خرطوم شفط للتجريف"
+          },
+          "specs": {
+            "size": {
+              "en": "150–1300 mm",
+              "ar": "⁦150⁠–⁠1300⁩ مم"
+            },
+            "data": {
+              "en": "WP 3–30 bar; lengths 1–3 m (floating 11.8 m)",
+              "ar": "ضغط تشغيل ⁦3⁠–⁠30⁩ بار؛ أطوال ⁦1⁠–⁠3⁩ م (العائم ⁦11.8⁩ م)"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-035",
+          "name": {
+            "en": "Discharge dredging hose",
+            "ar": "خرطوم تصريف للتجريف"
+          },
+          "specs": {
+            "size": {
+              "en": "150–1300 mm",
+              "ar": "⁦150⁠–⁠1300⁩ مم"
+            },
+            "data": {
+              "en": "WP 3–30 bar; lengths 1–3 m (floating 11.8 m)",
+              "ar": "ضغط تشغيل ⁦3⁠–⁠30⁩ بار؛ أطوال ⁦1⁠–⁠3⁩ م (العائم ⁦11.8⁩ م)"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-036",
+          "name": {
+            "en": "Floating dredging hose",
+            "ar": "خرطوم تجريف عائم"
+          },
+          "specs": {
+            "size": {
+              "en": "150–1300 mm",
+              "ar": "⁦150⁠–⁠1300⁩ مم"
+            },
+            "data": {
+              "en": "WP 3–30 bar; lengths 1–3 m (floating 11.8 m)",
+              "ar": "ضغط تشغيل ⁦3⁠–⁠30⁩ بار؛ أطوال ⁦1⁠–⁠3⁩ م (العائم ⁦11.8⁩ م)"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-037",
+          "name": {
+            "en": "Rubber expansion joints and floaters",
+            "ar": "وصلات تمدد مطاطية وعوامات"
+          },
+          "specs": {
+            "size": {
+              "en": "DN50–DN1500",
+              "ar": "⁦DN50–DN1500⁩"
+            },
+            "data": {
+              "en": "Single, double-arch, reducer and restrained joints; hose and cable floaters",
+              "ar": "وصلات بقوس مفرد ومزدوج ومخفّضة ومقيّدة؛ عوامات للخراطيم والكابلات"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-038",
+          "name": {
+            "en": "Hydraulic hose SAE100 R1AT / EN 853 1SN",
+            "ar": "خرطوم هيدروليك ⁦SAE100 R1AT / EN 853 1SN⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "3/16–2 in",
+              "ar": "⁦3/16⁠–⁠2⁩ بوصة"
+            },
+            "data": {
+              "en": "One steel-wire braid",
+              "ar": "طبقة واحدة من السلك الفولاذي المجدول"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-039",
+          "name": {
+            "en": "Hydraulic hose SAE100 R2AT / EN 853 2SN",
+            "ar": "خرطوم هيدروليك ⁦SAE100 R2AT / EN 853 2SN⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "3/16–2 in",
+              "ar": "⁦3/16⁠–⁠2⁩ بوصة"
+            },
+            "data": {
+              "en": "Two steel-wire braids",
+              "ar": "طبقتان من السلك الفولاذي المجدول"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-046",
+          "name": {
+            "en": "Spiral hydraulic hose R12",
+            "ar": "خرطوم هيدروليك حلزوني ⁦R12⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "1/4–2 in",
+              "ar": "⁦1/4⁠–⁠2⁩ بوصة"
+            },
+            "data": {
+              "en": "Four to six steel-wire spirals; WP up to 45 MPa",
+              "ar": "أربع إلى ست طبقات سلك فولاذي حلزوني؛ ضغط تشغيل حتى ⁦45⁩ ميجاباسكال"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-047",
+          "name": {
+            "en": "Spiral hydraulic hose R13",
+            "ar": "خرطوم هيدروليك حلزوني ⁦R13⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "1/4–2 in",
+              "ar": "⁦1/4⁠–⁠2⁩ بوصة"
+            },
+            "data": {
+              "en": "Four to six steel-wire spirals; WP up to 45 MPa",
+              "ar": "أربع إلى ست طبقات سلك فولاذي حلزوني؛ ضغط تشغيل حتى ⁦45⁩ ميجاباسكال"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-048",
+          "name": {
+            "en": "Spiral hydraulic hose R15",
+            "ar": "خرطوم هيدروليك حلزوني ⁦R15⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "1/4–2 in",
+              "ar": "⁦1/4⁠–⁠2⁩ بوصة"
+            },
+            "data": {
+              "en": "Four to six steel-wire spirals; WP up to 45 MPa",
+              "ar": "أربع إلى ست طبقات سلك فولاذي حلزوني؛ ضغط تشغيل حتى ⁦45⁩ ميجاباسكال"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-050",
+          "name": {
+            "en": "Spiral hydraulic hose EN856 4SP",
+            "ar": "خرطوم هيدروليك حلزوني ⁦EN856 4SP⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "1/4–2 in",
+              "ar": "⁦1/4⁠–⁠2⁩ بوصة"
+            },
+            "data": {
+              "en": "Four to six steel-wire spirals; WP up to 45 MPa",
+              "ar": "أربع إلى ست طبقات سلك فولاذي حلزوني؛ ضغط تشغيل حتى ⁦45⁩ ميجاباسكال"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-051",
+          "name": {
+            "en": "Spiral hydraulic hose EN856 4SH",
+            "ar": "خرطوم هيدروليك حلزوني ⁦EN856 4SH⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "1/4–2 in",
+              "ar": "⁦1/4⁠–⁠2⁩ بوصة"
+            },
+            "data": {
+              "en": "Four to six steel-wire spirals; WP up to 45 MPa",
+              "ar": "أربع إلى ست طبقات سلك فولاذي حلزوني؛ ضغط تشغيل حتى ⁦45⁩ ميجاباسكال"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-053",
+          "name": {
+            "en": "Rubber-lined layflat fire hose",
+            "ar": "خرطوم حريق مسطح مبطن بالمطاط"
+          },
+          "specs": {
+            "size": {
+              "en": "1–10 in",
+              "ar": "⁦1⁠–⁠10⁩ بوصات"
+            },
+            "data": {
+              "en": "For fire water and pump discharge lines",
+              "ar": "لمياه الإطفاء وخطوط تصريف المضخات"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-054",
+          "name": {
+            "en": "PVC-lined layflat fire hose",
+            "ar": "خرطوم حريق مسطح مبطن بـ ⁦PVC⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "1–10 in",
+              "ar": "⁦1⁠–⁠10⁩ بوصات"
+            },
+            "data": {
+              "en": "For fire water and pump discharge lines",
+              "ar": "لمياه الإطفاء وخطوط تصريف المضخات"
+            }
+          }
+        },
+        {
+          "code": "BX-0258-01-058",
+          "name": {
+            "en": "Rubber layflat discharge hose",
+            "ar": "خرطوم تصريف مسطح مطاطي"
+          },
+          "specs": {
+            "size": {
+              "en": "1–10 in",
+              "ar": "⁦1⁠–⁠10⁩ بوصات"
+            },
+            "data": {
+              "en": "For fire water and pump discharge lines",
+              "ar": "لمياه الإطفاء وخطوط تصريف المضخات"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "3/16 in–1.3 m",
+        "ar": "⁦3/16⁩ بوصة–⁦1.3⁩ م"
+      },
+      "countUnit": {
+        "ar": [
+          "خرطوم واحد",
+          "خرطومان",
+          "خراطيم"
+        ],
+        "en": [
+          "hose type",
+          "hose types"
+        ]
+      },
+      "keyRows": [
+        "size",
+        "data"
+      ]
+    }
+  ],
+  "countUnit": {
+    "ar": [
+      "خرطوم واحد",
+      "خرطومان",
+      "خراطيم"
+    ],
+    "en": [
+      "hose type",
+      "hose types"
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "id": "firebricks-electrodes-induction-units",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-08 Ed7⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-08 Ed7 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Models / sizes",
+        "ar": "الموديلات والمقاسات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "bricks",
+      "label": {
+        "en": "Firebricks, mortars & electrodes",
+        "ar": "الطوب الحراري والملاط والأقطاب"
+      },
+      "models": [
+        {
+          "code": "BX-0453-01-019",
+          "name": {
+            "en": "Insulating firebrick",
+            "ar": "طوب حراري عازل"
+          },
+          "specs": {
+            "models": {
+              "en": "9 grades, 1200–1730 °C",
+              "ar": "⁦9⁩ درجات، ⁦1200⁠–⁠1730 °⁩م"
+            },
+            "data": {
+              "en": "Al2O3 35–75%; density 480–1200 kg/m³; crushing strength 1.1–4.0 MPa",
+              "ar": "أكسيد الألومنيوم ⁦35⁠–⁠75%⁩؛ الكثافة ⁦480⁠–⁠1200⁩ كجم/م³؛ مقاومة السحق ⁦1.1⁠–⁠4.0⁩ ميجاباسكال"
+            }
+          }
+        },
+        {
+          "code": "BX-0453-01-022",
+          "name": {
+            "en": "Refractory mortars & binders",
+            "ar": "ملاط ومواد ربط حرارية"
+          },
+          "specs": {
+            "models": {
+              "en": "HJM2600, HJM2800, HJM3300",
+              "ar": "⁦HJM2600, HJM2800, HJM3300⁩"
+            },
+            "data": {
+              "en": "Classification 1430, 1650 and 1760 °C; laying firebrick and furnace repair",
+              "ar": "تصنيف ⁦1430⁩ و⁦1650⁩ و⁦1760 °⁩م؛ لرصّ الطوب الحراري وإصلاح الأفران"
+            }
+          }
+        },
+        {
+          "code": "BX-0453-01-023",
+          "name": {
+            "en": "Fire clay brick",
+            "ar": "طوب طيني حراري"
+          },
+          "specs": {
+            "models": {
+              "en": "SK30, SK32, SK34",
+              "ar": "⁦SK30, SK32, SK34⁩"
+            },
+            "data": {
+              "en": "Al2O3 40–50%",
+              "ar": "أكسيد الألومنيوم ⁦40⁠–⁠50%⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0453-01-024",
+          "name": {
+            "en": "High-alumina brick",
+            "ar": "طوب عالي الألومينا"
+          },
+          "specs": {
+            "models": {
+              "en": "SK36, SK38, SK40",
+              "ar": "⁦SK36, SK38, SK40⁩"
+            },
+            "data": {
+              "en": "Al2O3 55–80%",
+              "ar": "أكسيد الألومنيوم ⁦55⁠–⁠80%⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0453-01-027",
+          "name": {
+            "en": "Graphite electrodes",
+            "ar": "أقطاب جرافيت"
+          },
+          "specs": {
+            "models": {
+              "en": "RP, HP and UHP grades",
+              "ar": "درجات ⁦RP⁩ و⁦HP⁩ و⁦UHP⁩"
+            },
+            "data": {
+              "en": "To YB/T 4089; diameters to order; for electric-arc furnaces",
+              "ar": "وفق ⁦YB/T 4089⁩؛ الأقطار حسب الطلب؛ لأفران القوس الكهربائي"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1200–1760 °C",
+        "ar": "⁦1200⁠–⁠1760 °⁩م"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    },
+    {
+      "id": "induction",
+      "label": {
+        "en": "Induction heating & melting units, chillers",
+        "ar": "وحدات التسخين والصهر بالحث والمبرّدات"
+      },
+      "models": [
+        {
+          "code": "BX-0438-01-001",
+          "name": {
+            "en": "High-frequency induction heater (single unit)",
+            "ar": "جهاز تسخين حثي عالي التردد (وحدة واحدة)"
+          },
+          "specs": {
+            "models": {
+              "en": "GHF-15, GHF-15A, GHF-15B, GHF-15AB, GHF-25, GHF-25A, GHF-25B, GHF-25AB",
+              "ar": "⁦GHF-15, GHF-15A, GHF-15B, GHF-15AB, GHF-25, GHF-25A, GHF-25B, GHF-25AB⁩"
+            },
+            "data": {
+              "en": "8–15 kW; 30–100 kHz; GHF-15 single-phase 220 V, GHF-25 three-phase 380/415/440 V; 80% duty; water cooled; small-batch gold, silver and copper melting with crucible and coil",
+              "ar": "⁦8⁠–⁠15⁩ كيلوواط؛ ⁦30⁠–⁠100⁩ كيلوهرتز؛ ⁦GHF-15⁩ أحادي الطور ⁦220⁩ فولت، و⁦GHF-25⁩ ثلاثي الأطوار ⁦380/415/440⁩ فولت؛ دورة تشغيل ⁦80%⁩؛ تبريد مائي؛ لصهر كميات صغيرة من الذهب والفضة والنحاس ببوتقة وملف"
+            }
+          }
+        },
+        {
+          "code": "BX-0438-01-002",
+          "name": {
+            "en": "High-frequency induction heaters (split type)",
+            "ar": "أجهزة تسخين حثي عالية التردد (منفصلة)"
+          },
+          "specs": {
+            "models": {
+              "en": "GHF-25BD/25ABD, GHF-30B/30AB, GHF-40B/40AB, GHF-45B/45AB, GHF-50BD, GHF-70B/70AB, GHF-70BD, GHF-100B/100AB",
+              "ar": "⁦GHF-25BD/25ABD, GHF-30B/30AB, GHF-40B/40AB, GHF-45B/45AB, GHF-50BD, GHF-70B/70AB, GHF-70BD, GHF-100B/100AB⁩"
+            },
+            "data": {
+              "en": "20–100 kW; 30–80 kHz; three-phase 380/415/440 V; 100% duty; water cooling 0.2 MPa",
+              "ar": "⁦20⁠–⁠100⁩ كيلوواط؛ ⁦30⁠–⁠80⁩ كيلوهرتز؛ ثلاثي الأطوار ⁦380/415/440⁩ فولت؛ دورة تشغيل ⁦100%⁩؛ تبريد مائي ⁦0.2⁩ ميجاباسكال"
+            }
+          }
+        },
+        {
+          "code": "BX-0438-01-009",
+          "name": {
+            "en": "Medium-frequency induction melting units",
+            "ar": "وحدات صهر حثي متوسطة التردد"
+          },
+          "specs": {
+            "models": {
+              "en": "GMF-15, -25, -35, -45, -70, -90, -110, -160, -200, -300, -500",
+              "ar": "⁦GMF-15, -25, -35, -45, -70, -90, -110, -160, -200, -300, -500⁩"
+            },
+            "data": {
+              "en": "15–500 kW; 1–20 kHz; three-phase 380/415/440 V, 50/60 Hz; 100% duty (24 h); water 0.2 MPa, 10–30 L/min; top-open, tilting or vacuum furnaces",
+              "ar": "⁦15⁠–⁠500⁩ كيلوواط؛ ⁦1⁠–⁠20⁩ كيلوهرتز؛ ثلاثي الأطوار ⁦380/415/440⁩ فولت، ⁦50/60⁩ هرتز؛ دورة تشغيل ⁦100% (24⁩ ساعة)؛ ماء ⁦0.2⁩ ميجاباسكال و⁦10⁠–⁠30⁩ لتر/دقيقة؛ أفران مفتوحة من الأعلى أو قلّابة أو مفرّغة"
+            }
+          }
+        },
+        {
+          "code": "BX-0438-01-015",
+          "name": {
+            "en": "Air-cooled industrial chillers",
+            "ar": "مبرّدات صناعية بالهواء"
+          },
+          "specs": {
+            "models": {
+              "en": "CA-0.5, CA-1, CA-2, CA-3, CA-4, CA-5, CA-6, CA-8(D), CA-10(D)",
+              "ar": "⁦CA-0.5, CA-1, CA-2, CA-3, CA-4, CA-5, CA-6, CA-8(D), CA-10(D)⁩"
+            },
+            "data": {
+              "en": "Cooling capacity about 1.5–26 kW (50 Hz); hermetic compressor; R22 (R134a / R407C); tank and pump; for induction heating and melting",
+              "ar": "سعة تبريد نحو ⁦1.5⁠–⁠26⁩ كيلوواط (⁦50⁩ هرتز)؛ ضاغط محكم؛ ⁦R22⁩ ‏(⁦R134a / R407C⁩)؛ خزان ومضخة؛ لأجهزة التسخين والصهر بالحث"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "15–500 kW",
+        "ar": "⁦15⁠–⁠500⁩ كيلوواط"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

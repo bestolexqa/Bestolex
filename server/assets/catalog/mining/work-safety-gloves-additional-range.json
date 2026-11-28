@@ -1,0 +1,321 @@
+{
+  "id": "work-safety-gloves-additional-range",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXS-01 Ed2⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXS-01 Ed2 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "range",
+      "label": {
+        "en": "Work and safety gloves – additional range",
+        "ar": "قفازات العمل والسلامة – تشكيلة إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0342-01-001",
+          "name": {
+            "en": "Micro-foam nitrile coated gloves",
+            "ar": "قفازات مطلية بنتريل رغوي دقيق"
+          },
+          "specs": {
+            "models": {
+              "en": "15 G / 18 G",
+              "ar": "⁦15 G / 18 G⁩"
+            },
+            "data": {
+              "en": "Nylon-spandex liner; matt, breathable micro-foam nitrile; grip in dry, wet and oily conditions; EN 388 4121 or 4131",
+              "ar": "بطانة نايلون وسباندكس؛ نتريل رغوي دقيق مطفأ يسمح بالتنفس؛ قبضة في الجاف والرطب والزيتي؛ ⁦EN 388 4121⁩ أو ⁦4131⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0342-01-003",
+          "name": {
+            "en": "Sandy nitrile coated gloves",
+            "ar": "قفازات مطلية بنتريل رملي"
+          },
+          "specs": {
+            "models": {
+              "en": "15 G / 18 G",
+              "ar": "⁦15 G / 18 G⁩"
+            },
+            "data": {
+              "en": "Nylon-spandex liner; sandy nitrile for a stronger grip in oil and mud; EN 388 4121 or 4131",
+              "ar": "بطانة نايلون وسباندكس؛ نتريل رملي لقبضة أقوى في الزيت والطين؛ ⁦EN 388 4121⁩ أو ⁦4131⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0342-01-004",
+          "name": {
+            "en": "3/4 micro-foam nitrile coated gloves",
+            "ar": "قفازات مطلية بنتريل رغوي على ثلاثة أرباع اليد"
+          },
+          "specs": {
+            "models": {
+              "en": "15 G / 18 G",
+              "ar": "⁦15 G / 18 G⁩"
+            },
+            "data": {
+              "en": "Coating over three quarters of the hand to protect the finger backs; EN 388 4121 or 4131",
+              "ar": "طلاء على ثلاثة أرباع اليد لحماية ظهر الأصابع؛ ⁦EN 388 4121⁩ أو ⁦4131⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0342-01-007",
+          "name": {
+            "en": "Cut-resistant nitrile gloves",
+            "ar": "قفازات نتريل مقاومة للقطع"
+          },
+          "specs": {
+            "models": {
+              "en": "15 G / 18 G / 21 G; ANSI A2 to A8",
+              "ar": "⁦15 G / 18 G / 21 G⁩؛ ⁦ANSI⁩ من ⁦A2⁩ إلى ⁦A8⁩"
+            },
+            "data": {
+              "en": "Micro-foam or sandy nitrile; for mesh, sheet metal and sharp edges",
+              "ar": "نتريل رغوي أو رملي؛ للشبك والصفائح والحواف الحادة"
+            }
+          }
+        },
+        {
+          "code": "BX-0342-01-010",
+          "name": {
+            "en": "TPR heavy-duty impact gloves",
+            "ar": "قفازات صدمات ⁦TPR⁩ للخدمة الشاقة"
+          },
+          "specs": {
+            "models": {
+              "en": "13 G / 15 G cut-resistant liner",
+              "ar": "بطانة مقاومة للقطع ⁦13 G / 15 G⁩"
+            },
+            "data": {
+              "en": "Sandy nitrile palm, TPR knuckle guard, EVA-padded palm against vibration",
+              "ar": "كف نتريل رملي، وواقي مفاصل ⁦TPR⁩، وكف مبطن بـ ⁦EVA⁩ ضد الاهتزاز"
+            }
+          }
+        },
+        {
+          "code": "BX-0342-01-012",
+          "name": {
+            "en": "Latex coated gloves (economy)",
+            "ar": "قفازات مطلية باللاتكس (اقتصادية)"
+          },
+          "specs": {
+            "models": {
+              "en": "10 G / 13 G",
+              "ar": "⁦10 G / 13 G⁩"
+            },
+            "data": {
+              "en": "Polyester liner, latex coating; flexible grip; EN 388 1121",
+              "ar": "بطانة بوليستر وطلاء لاتكس؛ قبضة مرنة؛ ⁦EN 388 1121⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-011",
+          "name": {
+            "en": "Seamless knitted cotton and polycotton gloves",
+            "ar": "قفازات قطنية محبوكة بلا درزات"
+          },
+          "specs": {
+            "models": {
+              "en": "1601001–1601021",
+              "ar": "⁦1601001–1601021⁩"
+            },
+            "data": {
+              "en": "Sizes 8–10; 400–800 g per dozen",
+              "ar": "المقاسات ⁦8⁠–⁠10⁩؛ ⁦400⁠–⁠800⁩ جم للدزينة"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-013",
+          "name": {
+            "en": "Latex coated gloves (crinkle, foam, fully coated)",
+            "ar": "قفازات مطلية باللاتكس (مجعّدة ورغوية ومطلية بالكامل)"
+          },
+          "specs": {
+            "models": {
+              "en": "1601201–1601316, 1601321–1601324",
+              "ar": "⁦1601201–1601316, 1601321–1601324⁩"
+            },
+            "data": {
+              "en": "Cotton or polyester liner; tear- and water-resistant",
+              "ar": "بطانة قطن أو بوليستر؛ مقاومة للتمزق والماء"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-015",
+          "name": {
+            "en": "Nitrile coated gloves (palm and foam)",
+            "ar": "قفازات مطلية بالنتريل (الكف والرغوي)"
+          },
+          "specs": {
+            "models": {
+              "en": "1601401–1601413",
+              "ar": "⁦1601401–1601413⁩"
+            },
+            "data": {
+              "en": "13–15 G polyester or nylon liner; oil-resistant",
+              "ar": "بطانة بوليستر أو نايلون ⁦13⁠–⁠15 G⁩؛ مقاومة للزيت"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-016",
+          "name": {
+            "en": "Heavy-duty nitrile-dipped jersey gloves",
+            "ar": "قفازات جيرسيه مغموسة بالنتريل للخدمة الشاقة"
+          },
+          "specs": {
+            "models": {
+              "en": "1601414–1601418",
+              "ar": "⁦1601414–1601418⁩"
+            },
+            "data": {
+              "en": "Full or 3/4 nitrile on cotton jersey; safety cuff; oil- and abrasion-resistant",
+              "ar": "نتريل كامل أو ثلاثة أرباع على جيرسيه قطني؛ كُم أمان؛ مقاومة للزيت والتآكل"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-018",
+          "name": {
+            "en": "Industrial chemical gloves",
+            "ar": "قفازات كيماويات صناعية"
+          },
+          "specs": {
+            "models": {
+              "en": "1601605–1601607",
+              "ar": "⁦1601605–1601607⁩"
+            },
+            "data": {
+              "en": "Long latex and neoprene gloves for handling process chemicals",
+              "ar": "قفازات طويلة من اللاتكس والنيوبرين لمناولة كيماويات المعالجة"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-019",
+          "name": {
+            "en": "PVC-dipped gauntlet gloves",
+            "ar": "قفازات طويلة مغموسة بـ ⁦PVC⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "1601701–1601715",
+              "ar": "⁦1601701–1601715⁩"
+            },
+            "data": {
+              "en": "Full PVC on cotton liner; 27–35 cm long; oil, slip and chemical resistant",
+              "ar": "⁦PVC⁩ كامل على بطانة قطنية؛ طول ⁦27⁠–⁠35⁩ سم؛ مقاومة للزيت والانزلاق والكيماويات"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-020",
+          "name": {
+            "en": "HPPE cut-resistant gloves",
+            "ar": "قفازات ⁦HPPE⁩ مقاومة للقطع"
+          },
+          "specs": {
+            "models": {
+              "en": "1601801–1601810",
+              "ar": "⁦1601801–1601810⁩"
+            },
+            "data": {
+              "en": "Cut level 3–5; PU, nitrile or latex coating",
+              "ar": "مستوى القطع ⁦3⁠–⁠5⁩؛ طلاء بولي يوريثان أو نتريل أو لاتكس"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-021",
+          "name": {
+            "en": "Leather combination work gloves",
+            "ar": "قفازات عمل جلدية مركّبة"
+          },
+          "specs": {
+            "models": {
+              "en": "9 models",
+              "ar": "⁦9⁩ موديلات"
+            },
+            "data": {
+              "en": "Cowhide or pigskin split with canvas back; safety cuff; 10.5 in",
+              "ar": "جلد بقري أو خنزيري مشقوق بظهر قماشي؛ كُم أمان؛ ⁦10.5⁩ بوصة"
+            }
+          }
+        },
+        {
+          "code": "BX-0326-01-023",
+          "name": {
+            "en": "Leather welding gloves",
+            "ar": "قفازات لحام جلدية"
+          },
+          "specs": {
+            "models": {
+              "en": "18 models",
+              "ar": "⁦18⁩ موديلاً"
+            },
+            "data": {
+              "en": "Lined cowhide split; 14 and 16 in long",
+              "ar": "جلد بقري مشقوق مبطن؛ بطول ⁦14⁩ و⁦16⁩ بوصة"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "10–21 G",
+        "ar": "⁦10–21 G⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

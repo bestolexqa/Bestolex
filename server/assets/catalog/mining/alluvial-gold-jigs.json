@@ -1,0 +1,572 @@
+{
+  "id": "alluvial-gold-jigs",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-05 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-05 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "chambers",
+      "label": {
+        "en": "Chambers",
+        "ar": "الحجرات"
+      }
+    },
+    {
+      "key": "feed",
+      "label": {
+        "en": "Feed size (mm)",
+        "ar": "حجم التغذية (مم)"
+      }
+    },
+    {
+      "key": "stroke",
+      "label": {
+        "en": "Stroke (mm)",
+        "ar": "الشوط (مم)"
+      }
+    },
+    {
+      "key": "strokes",
+      "label": {
+        "en": "Strokes (r/min)",
+        "ar": "الأشواط (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    }
+  ],
+  "keyRows": [
+    "chambers",
+    "feed",
+    "stroke"
+  ],
+  "types": [
+    {
+      "id": "trapezoid",
+      "label": {
+        "en": "Trapezoid jigs – two rows, eight chambers",
+        "ar": "أجهزة جيج شبه منحرفة – صفّان وثماني حجرات"
+      },
+      "models": [
+        {
+          "code": "BX-0021-01-001 / 2LTC-6109/8T",
+          "name": {
+            "en": "2LTC-6109/8T",
+            "ar": "⁦2LTC-6109/8T⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "8",
+              "ar": "8"
+            },
+            "feed": {
+              "en": "0–10",
+              "ar": "⁦0–10⁩"
+            },
+            "stroke": {
+              "en": "0–50",
+              "ar": "⁦0–50⁩"
+            },
+            "strokes": {
+              "en": "0–300",
+              "ar": "⁦0–300⁩"
+            },
+            "capacity": {
+              "en": "25–40",
+              "ar": "⁦25–40⁩"
+            },
+            "power": {
+              "en": "2.2 × 4",
+              "ar": "⁦2.2 × 4⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-001 / 2LTC-366/8T",
+          "name": {
+            "en": "2LTC-366/8T",
+            "ar": "⁦2LTC-366/8T⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "8",
+              "ar": "8"
+            },
+            "feed": {
+              "en": "0–5",
+              "ar": "⁦0–5⁩"
+            },
+            "stroke": {
+              "en": "0–50",
+              "ar": "⁦0–50⁩"
+            },
+            "strokes": {
+              "en": "0–300",
+              "ar": "⁦0–300⁩"
+            },
+            "capacity": {
+              "en": "3–6",
+              "ar": "⁦3–6⁩"
+            },
+            "power": {
+              "en": "1.1 × 2",
+              "ar": "⁦1.1 × 2⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "3–40 t/h",
+        "ar": "⁦3⁠–⁠40⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "2LTC-6109/8T jigging area 5.76 m². Stroke and stroke rate set separately for each chamber.",
+        "ar": "مساحة الجيج في ⁦2LTC-6109/8T⁩ ‏⁦5.76⁩ م². يُضبط الشوط وعدد الأشواط لكل حجرة على حدة."
+      }
+    },
+    {
+      "id": "lta",
+      "label": {
+        "en": "LTA down-moving jigs",
+        "ar": "أجهزة جيج ⁦LTA⁩ بالحركة السفلية"
+      },
+      "models": [
+        {
+          "code": "BX-0021-01-002 / LTA55/2",
+          "name": {
+            "en": "LTA55/2",
+            "ar": "⁦LTA55/2⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "2",
+              "ar": "2"
+            },
+            "feed": {
+              "en": "0–5",
+              "ar": "⁦0–5⁩"
+            },
+            "stroke": {
+              "en": "0–25",
+              "ar": "⁦0–25⁩"
+            },
+            "strokes": {
+              "en": "0–350",
+              "ar": "⁦0–350⁩"
+            },
+            "capacity": {
+              "en": "3–5",
+              "ar": "⁦3–5⁩"
+            },
+            "power": {
+              "en": "1.5",
+              "ar": "⁦1.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-002 / LTA55/3",
+          "name": {
+            "en": "LTA55/3",
+            "ar": "⁦LTA55/3⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "3",
+              "ar": "3"
+            },
+            "feed": {
+              "en": "0–5",
+              "ar": "⁦0–5⁩"
+            },
+            "stroke": {
+              "en": "0–25",
+              "ar": "⁦0–25⁩"
+            },
+            "strokes": {
+              "en": "0–350",
+              "ar": "⁦0–350⁩"
+            },
+            "capacity": {
+              "en": "3–5",
+              "ar": "⁦3–5⁩"
+            },
+            "power": {
+              "en": "2.2",
+              "ar": "⁦2.2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-002 / LTA1010/2",
+          "name": {
+            "en": "LTA1010/2",
+            "ar": "⁦LTA1010/2⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "2",
+              "ar": "2"
+            },
+            "feed": {
+              "en": "0–8",
+              "ar": "⁦0–8⁩"
+            },
+            "stroke": {
+              "en": "0–25",
+              "ar": "⁦0–25⁩"
+            },
+            "strokes": {
+              "en": "0–350",
+              "ar": "⁦0–350⁩"
+            },
+            "capacity": {
+              "en": "8–10",
+              "ar": "⁦8–10⁩"
+            },
+            "power": {
+              "en": "3",
+              "ar": "3"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-002 / LTA1010/3",
+          "name": {
+            "en": "LTA1010/3",
+            "ar": "⁦LTA1010/3⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "3",
+              "ar": "3"
+            },
+            "feed": {
+              "en": "0–8",
+              "ar": "⁦0–8⁩"
+            },
+            "stroke": {
+              "en": "0–25",
+              "ar": "⁦0–25⁩"
+            },
+            "strokes": {
+              "en": "0–350",
+              "ar": "⁦0–350⁩"
+            },
+            "capacity": {
+              "en": "8–10",
+              "ar": "⁦8–10⁩"
+            },
+            "power": {
+              "en": "5.5",
+              "ar": "⁦5.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-002 / LTA1010/6",
+          "name": {
+            "en": "LTA1010/6",
+            "ar": "⁦LTA1010/6⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "6",
+              "ar": "6"
+            },
+            "feed": {
+              "en": "0–8",
+              "ar": "⁦0–8⁩"
+            },
+            "stroke": {
+              "en": "0–25",
+              "ar": "⁦0–25⁩"
+            },
+            "strokes": {
+              "en": "0–350",
+              "ar": "⁦0–350⁩"
+            },
+            "capacity": {
+              "en": "10–20",
+              "ar": "⁦10–20⁩"
+            },
+            "power": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-002 / LTA1515/2",
+          "name": {
+            "en": "LTA1515/2",
+            "ar": "⁦LTA1515/2⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "2",
+              "ar": "2"
+            },
+            "feed": {
+              "en": "0–10",
+              "ar": "⁦0–10⁩"
+            },
+            "stroke": {
+              "en": "0–50",
+              "ar": "⁦0–50⁩"
+            },
+            "strokes": {
+              "en": "0–300",
+              "ar": "⁦0–300⁩"
+            },
+            "capacity": {
+              "en": "20–25",
+              "ar": "⁦20–25⁩"
+            },
+            "power": {
+              "en": "5.5",
+              "ar": "⁦5.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-002 / LTA1515/3",
+          "name": {
+            "en": "LTA1515/3",
+            "ar": "⁦LTA1515/3⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "3",
+              "ar": "3"
+            },
+            "feed": {
+              "en": "0–10",
+              "ar": "⁦0–10⁩"
+            },
+            "stroke": {
+              "en": "0–50",
+              "ar": "⁦0–50⁩"
+            },
+            "strokes": {
+              "en": "0–300",
+              "ar": "⁦0–300⁩"
+            },
+            "capacity": {
+              "en": "20–30",
+              "ar": "⁦20–30⁩"
+            },
+            "power": {
+              "en": "11",
+              "ar": "11"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-002 / LTA1515/6",
+          "name": {
+            "en": "LTA1515/6",
+            "ar": "⁦LTA1515/6⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "6",
+              "ar": "6"
+            },
+            "feed": {
+              "en": "0–10",
+              "ar": "⁦0–10⁩"
+            },
+            "stroke": {
+              "en": "0–50",
+              "ar": "⁦0–50⁩"
+            },
+            "strokes": {
+              "en": "0–300",
+              "ar": "⁦0–300⁩"
+            },
+            "capacity": {
+              "en": "40–60",
+              "ar": "⁦40–60⁩"
+            },
+            "power": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "3–60 t/h",
+        "ar": "⁦3⁠–⁠60⁩ طن/ساعة"
+      }
+    },
+    {
+      "id": "jt-ltp",
+      "label": {
+        "en": "JT saw-tooth-wave and LTP side-moving jigs",
+        "ar": "أجهزة جيج ⁦JT⁩ بموجة سن المنشار و⁦LTP⁩ بالحركة الجانبية"
+      },
+      "models": [
+        {
+          "code": "BX-0021-01-003 / JT1070/2",
+          "name": {
+            "en": "JT1070/2",
+            "ar": "⁦JT1070/2⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "2",
+              "ar": "2"
+            },
+            "feed": {
+              "en": "0–5",
+              "ar": "⁦0–5⁩"
+            },
+            "stroke": {
+              "en": "0–12",
+              "ar": "⁦0–12⁩"
+            },
+            "strokes": {
+              "en": "0–170",
+              "ar": "⁦0–170⁩"
+            },
+            "capacity": {
+              "en": "6–8",
+              "ar": "⁦6–8⁩"
+            },
+            "power": {
+              "en": "3",
+              "ar": "3"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-003 / JT1515/2",
+          "name": {
+            "en": "JT1515/2",
+            "ar": "⁦JT1515/2⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "2",
+              "ar": "2"
+            },
+            "feed": {
+              "en": "0–8",
+              "ar": "⁦0–8⁩"
+            },
+            "stroke": {
+              "en": "0–25",
+              "ar": "⁦0–25⁩"
+            },
+            "strokes": {
+              "en": "0–150",
+              "ar": "⁦0–150⁩"
+            },
+            "capacity": {
+              "en": "16–24",
+              "ar": "⁦16–24⁩"
+            },
+            "power": {
+              "en": "4 × 2",
+              "ar": "⁦4 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-02-016",
+          "name": {
+            "en": "JT2020/2",
+            "ar": "⁦JT2020/2⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "2",
+              "ar": "2"
+            },
+            "feed": {
+              "en": "0–10",
+              "ar": "⁦0–10⁩"
+            },
+            "capacity": {
+              "en": "25–40",
+              "ar": "⁦25–40⁩"
+            },
+            "power": {
+              "en": "5.5 × 2",
+              "ar": "⁦5.5 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-004",
+          "name": {
+            "en": "LTP34/2",
+            "ar": "⁦LTP34/2⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "2",
+              "ar": "2"
+            },
+            "feed": {
+              "en": "0–12",
+              "ar": "⁦0–12⁩"
+            },
+            "stroke": {
+              "en": "0–27",
+              "ar": "⁦0–27⁩"
+            },
+            "strokes": {
+              "en": "0–340",
+              "ar": "⁦0–340⁩"
+            },
+            "capacity": {
+              "en": "1–2",
+              "ar": "⁦1–2⁩"
+            },
+            "power": {
+              "en": "1.1",
+              "ar": "⁦1.1⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1–40 t/h",
+        "ar": "⁦1⁠–⁠40⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "JT jigs suit flaky and fine gold. LTP34/2 is light and easy to move to remote sites.",
+        "ar": "أجهزة ⁦JT⁩ تناسب الذهب الرقائقي والناعم. وجهاز ⁦LTP34/2⁩ خفيف وسهل النقل إلى المواقع البعيدة."
+      }
+    }
+  ]
+}

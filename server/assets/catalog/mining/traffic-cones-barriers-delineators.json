@@ -1,0 +1,149 @@
+{
+  "id": "traffic-cones-barriers-delineators",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXS-01 Ed2⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXS-01 Ed2 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "spec",
+      "label": {
+        "en": "Specification",
+        "ar": "المواصفات"
+      }
+    }
+  ],
+  "keyRows": [
+    "spec"
+  ],
+  "types": [
+    {
+      "id": "traffic",
+      "label": {
+        "en": "Traffic cones, barriers and delineators",
+        "ar": "أقماع المرور والحواجز وعلامات التحديد"
+      },
+      "models": [
+        {
+          "code": "BX-0327-01-001",
+          "name": {
+            "en": "PVC traffic cones",
+            "ar": "أقماع مرور ⁦PVC⁩"
+          },
+          "specs": {
+            "spec": {
+              "en": "300–900 mm; reflective collars 100–150 mm; orange or black base; standard, wide and slim",
+              "ar": "⁦300⁠–⁠900⁩ مم؛ أطواق عاكسة ⁦100⁠–⁠150⁩ مم؛ قاعدة برتقالية أو سوداء؛ قياسية وعريضة ونحيفة"
+            }
+          }
+        },
+        {
+          "code": "BX-0327-01-027",
+          "name": {
+            "en": "Water-filled road barriers",
+            "ar": "حواجز طرق تُملأ بالماء"
+          },
+          "specs": {
+            "spec": {
+              "en": "Plastic, 800 mm and above; New Jersey type",
+              "ar": "بلاستيك، ⁦800⁩ مم فأكثر؛ طراز ⁦New Jersey⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0331-01-016",
+          "name": {
+            "en": "Folding plastic barricades",
+            "ar": "حواجز بلاستيكية قابلة للطي"
+          },
+          "specs": {
+            "spec": {
+              "en": "Reinforced plastic boards, galvanised legs, reflective sheeting",
+              "ar": "ألواح بلاستيك مقوّى وأرجل مجلفنة وشرائح عاكسة"
+            }
+          }
+        },
+        {
+          "code": "BX-0327-01-017",
+          "name": {
+            "en": "Flexible warning posts",
+            "ar": "أعمدة تحذير مرنة"
+          },
+          "specs": {
+            "spec": {
+              "en": "PU / PE, high-intensity reflective bands, 450 mm and above",
+              "ar": "⁦PU / PE⁩ بأشرطة عاكسة عالية الكثافة، ⁦450⁩ مم فأكثر"
+            }
+          }
+        },
+        {
+          "code": "BX-0331-01-011",
+          "name": {
+            "en": "Cone bars",
+            "ar": "قضبان الأقماع"
+          },
+          "specs": {
+            "spec": {
+              "en": "1.8–2.15 m; yellow/black or red/white",
+              "ar": "⁦1.8⁠–⁠2.15⁩ م؛ أصفر/أسود أو أحمر/أبيض"
+            }
+          }
+        },
+        {
+          "code": "BX-0327-01-020",
+          "name": {
+            "en": "Plastic chains & hooks",
+            "ar": "سلاسل بلاستيكية وخطافات"
+          },
+          "specs": {
+            "spec": {
+              "en": "HDPE Ø 6 and 8 mm, 25 m rolls; aluminium hooks",
+              "ar": "⁦HDPE⁩ بقطر ⁦6⁩ و⁦8⁩ مم، لفات ⁦25⁩ م؛ خطافات ألمنيوم"
+            }
+          }
+        },
+        {
+          "code": "BX-0327-01-014",
+          "name": {
+            "en": "Safety mesh fence & flags",
+            "ar": "شبك أسوار الأمان والأعلام"
+          },
+          "specs": {
+            "spec": {
+              "en": "Orange HDPE 1 × 50 m, 80 g/m²; warning bunting",
+              "ar": "⁦HDPE⁩ برتقالي ⁦1 × 50⁩ م، ⁦80⁩ جم/م²؛ أعلام تحذير"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "300–900 mm cones",
+        "ar": "أقماع ⁦300⁠–⁠900⁩ مم"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ]
+}

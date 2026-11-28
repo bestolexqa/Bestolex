@@ -1,0 +1,351 @@
+{
+  "id": "disposable-protective-coveralls",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXS-01 Ed2⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXS-01 Ed2 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Model",
+    "ar": "الموديل"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "type",
+      "label": {
+        "en": "Type",
+        "ar": "النوع"
+      }
+    },
+    {
+      "key": "fabric",
+      "label": {
+        "en": "Fabric",
+        "ar": "القماش"
+      }
+    },
+    {
+      "key": "colours",
+      "label": {
+        "en": "Colours",
+        "ar": "الألوان"
+      }
+    },
+    {
+      "key": "packing",
+      "label": {
+        "en": "Packing",
+        "ar": "التعبئة"
+      }
+    }
+  ],
+  "keyRows": [
+    "type",
+    "fabric",
+    "colours"
+  ],
+  "types": [
+    {
+      "id": "coveralls",
+      "label": {
+        "en": "Coverall range",
+        "ar": "تشكيلة الأوفرولات"
+      },
+      "models": [
+        {
+          "code": "BX-0340-02-001 / Type 500",
+          "name": {
+            "en": "Type 500",
+            "ar": "⁦Type 500⁩"
+          },
+          "specs": {
+            "type": {
+              "en": "1P / 2P",
+              "ar": "⁦1P / 2P⁩"
+            },
+            "fabric": {
+              "en": "PP 40 g/m²",
+              "ar": "⁦PP 40 g/m²⁩"
+            },
+            "colours": {
+              "en": "Grey",
+              "ar": "رمادي"
+            },
+            "packing": {
+              "en": "24 pcs/box",
+              "ar": "⁦24⁩ قطعة/صندوق"
+            }
+          }
+        },
+        {
+          "code": "BX-0340-02-001 / Type 1000",
+          "name": {
+            "en": "Type 1000",
+            "ar": "⁦Type 1000⁩"
+          },
+          "specs": {
+            "type": {
+              "en": "1P / 2P",
+              "ar": "⁦1P / 2P⁩"
+            },
+            "fabric": {
+              "en": "PP 50 g/m²",
+              "ar": "⁦PP 50 g/m²⁩"
+            },
+            "colours": {
+              "en": "Grey",
+              "ar": "رمادي"
+            },
+            "packing": {
+              "en": "24 pcs/box",
+              "ar": "⁦24⁩ قطعة/صندوق"
+            }
+          }
+        },
+        {
+          "code": "BX-0340-02-001 / Type 1200",
+          "name": {
+            "en": "Type 1200",
+            "ar": "⁦Type 1200⁩"
+          },
+          "specs": {
+            "type": {
+              "en": "1P / 2P",
+              "ar": "⁦1P / 2P⁩"
+            },
+            "fabric": {
+              "en": "PP 60 g/m²",
+              "ar": "⁦PP 60 g/m²⁩"
+            },
+            "colours": {
+              "en": "White / blue / pink",
+              "ar": "أبيض / أزرق / وردي"
+            },
+            "packing": {
+              "en": "24 pcs/box",
+              "ar": "⁦24⁩ قطعة/صندوق"
+            }
+          }
+        },
+        {
+          "code": "BX-0340-02-002 / SMS-2000",
+          "name": {
+            "en": "SMS-2000",
+            "ar": "⁦SMS-2000⁩"
+          },
+          "specs": {
+            "type": {
+              "en": "1P",
+              "ar": "1P"
+            },
+            "fabric": {
+              "en": "SMS 50 g/m²",
+              "ar": "⁦SMS 50 g/m²⁩"
+            },
+            "colours": {
+              "en": "White / grey / blue",
+              "ar": "أبيض / رمادي / أزرق"
+            },
+            "packing": {
+              "en": "24 pcs/box",
+              "ar": "⁦24⁩ قطعة/صندوق"
+            }
+          }
+        },
+        {
+          "code": "BX-0340-02-002 / SMS-2500",
+          "name": {
+            "en": "SMS-2500",
+            "ar": "⁦SMS-2500⁩"
+          },
+          "specs": {
+            "type": {
+              "en": "1P / 2P",
+              "ar": "⁦1P / 2P⁩"
+            },
+            "fabric": {
+              "en": "SMS 60 g/m²",
+              "ar": "⁦SMS 60 g/m²⁩"
+            },
+            "colours": {
+              "en": "Grey / blue / orange",
+              "ar": "رمادي / أزرق / برتقالي"
+            },
+            "packing": {
+              "en": "24–50 pcs/box",
+              "ar": "⁦24⁠–⁠50⁩ قطعة/صندوق"
+            }
+          }
+        },
+        {
+          "code": "BX-0340-02-003 / SF-4000",
+          "name": {
+            "en": "SF-4000",
+            "ar": "⁦SF-4000⁩"
+          },
+          "specs": {
+            "type": {
+              "en": "1P",
+              "ar": "1P"
+            },
+            "fabric": {
+              "en": "Laminated PP+PE 50 / 55 / 60 g/m²",
+              "ar": "⁦PP+PE⁩ مصفّح ⁦50 / 55 / 60⁩ جم/م²"
+            },
+            "colours": {
+              "en": "White",
+              "ar": "أبيض"
+            },
+            "packing": {
+              "en": "25 pcs/box",
+              "ar": "⁦25⁩ قطعة/صندوق"
+            }
+          }
+        },
+        {
+          "code": "BX-0340-02-003 / SF-4500",
+          "name": {
+            "en": "SF-4500",
+            "ar": "⁦SF-4500⁩"
+          },
+          "specs": {
+            "type": {
+              "en": "1P",
+              "ar": "1P"
+            },
+            "fabric": {
+              "en": "Laminated PP+PE 60 g/m²",
+              "ar": "⁦PP+PE⁩ مصفّح ⁦60⁩ جم/م²"
+            },
+            "colours": {
+              "en": "White",
+              "ar": "أبيض"
+            },
+            "packing": {
+              "en": "25 pcs/box",
+              "ar": "⁦25⁩ قطعة/صندوق"
+            }
+          }
+        },
+        {
+          "code": "BX-0340-02-003 / SF-5000",
+          "name": {
+            "en": "SF-5000",
+            "ar": "⁦SF-5000⁩"
+          },
+          "specs": {
+            "type": {
+              "en": "1P",
+              "ar": "1P"
+            },
+            "fabric": {
+              "en": "Laminated PP+PE 60 g/m²",
+              "ar": "⁦PP+PE⁩ مصفّح ⁦60⁩ جم/م²"
+            },
+            "colours": {
+              "en": "White",
+              "ar": "أبيض"
+            },
+            "packing": {
+              "en": "50 pcs/box",
+              "ar": "⁦50⁩ قطعة/صندوق"
+            }
+          }
+        },
+        {
+          "code": "BX-0340-02-004 / Type 6000",
+          "name": {
+            "en": "Type 6000",
+            "ar": "⁦Type 6000⁩"
+          },
+          "specs": {
+            "type": {
+              "en": "1P",
+              "ar": "1P"
+            },
+            "fabric": {
+              "en": "Laminated PP+PE 90 g/m²",
+              "ar": "⁦PP+PE⁩ مصفّح ⁦90⁩ جم/م²"
+            },
+            "colours": {
+              "en": "Yellow",
+              "ar": "أصفر"
+            },
+            "packing": {
+              "en": "25 pcs/box",
+              "ar": "⁦25⁩ قطعة/صندوق"
+            }
+          }
+        },
+        {
+          "code": "BX-0340-02-004 / Type 7000",
+          "name": {
+            "en": "Type 7000",
+            "ar": "⁦Type 7000⁩"
+          },
+          "specs": {
+            "type": {
+              "en": "1P",
+              "ar": "1P"
+            },
+            "fabric": {
+              "en": "Laminated PP+PE 90 g/m², double layer at knees and placket",
+              "ar": "⁦PP+PE⁩ مصفّح ⁦90⁩ جم/م²، طبقة مزدوجة عند الركبتين والسحّاب"
+            },
+            "colours": {
+              "en": "Yellow / grey",
+              "ar": "أصفر / رمادي"
+            },
+            "packing": {
+              "en": "20 pcs/box",
+              "ar": "⁦20⁩ قطعة/صندوق"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "40–90 g/m²",
+        "ar": "⁦40⁠–⁠90⁩ جم/م²"
+      },
+      "countUnit": {
+        "ar": [
+          "موديل واحد",
+          "موديلان",
+          "موديلات"
+        ],
+        "en": [
+          "model",
+          "models"
+        ]
+      },
+      "intro": {
+        "en": "1P = one-piece, 2P = two-piece. Sizes L / XL.",
+        "ar": "⁦1P⁩ = قطعة واحدة، ⁦2P⁩ = قطعتان. المقاسات ⁦L / XL⁩."
+      },
+      "keyRows": [
+        "fabric",
+        "type",
+        "colours"
+      ]
+    }
+  ],
+  "countUnit": {
+    "ar": [
+      "موديل واحد",
+      "موديلان",
+      "موديلات"
+    ],
+    "en": [
+      "model",
+      "models"
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "tyre-service-valves-repair-tools",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-10 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-10 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "range",
+      "label": {
+        "en": "Range",
+        "ar": "المدى"
+      }
+    },
+    {
+      "key": "purpose",
+      "label": {
+        "en": "Purpose",
+        "ar": "الغرض"
+      }
+    }
+  ],
+  "keyRows": [
+    "range",
+    "purpose"
+  ],
+  "types": [
+    {
+      "id": "service",
+      "label": {
+        "en": "Valves, repair materials and tyre tools",
+        "ar": "الصمامات ومواد الإصلاح وعدد الإطارات"
+      },
+      "models": [
+        {
+          "code": "BX-0254-01-003",
+          "name": {
+            "en": "Truck & bus tyre valves",
+            "ar": "صمامات إطارات الشاحنات والحافلات"
+          },
+          "specs": {
+            "range": {
+              "en": "TR570 series (TR500–TR575), V3-02 to V3-20 metal valves, TR75A–TR179A, TR543–TR547",
+              "ar": "⁦TR570 series (TR500–TR575), V3-02 to V3-20 metal valves, TR75A–TR179A, TR543–TR547⁩"
+            },
+            "purpose": {
+              "en": "Tubeless and tube-type valves for trucks, buses and tractors",
+              "ar": "صمامات للإطارات بدون أنبوب وبأنبوب للشاحنات والحافلات والجرارات"
+            }
+          }
+        },
+        {
+          "code": "BX-0254-01-005",
+          "name": {
+            "en": "OTR tyre valves",
+            "ar": "صمامات إطارات ⁦OTR⁩"
+          },
+          "specs": {
+            "range": {
+              "en": "TR618A, TR621A–TR623A, TRJ650-03 to TRJ658-03, TRJ691, TRJ694, TRJ1014A, TR218A / TR220A, TRJ1175C, TRJ661, TRJ662",
+              "ar": "⁦TR618A, TR621A–TR623A, TRJ650-03 to TRJ658-03, TRJ691, TRJ694, TRJ1014A, TR218A / TR220A, TRJ1175C, TRJ661, TRJ662⁩"
+            },
+            "purpose": {
+              "en": "Giant tyres on loaders and mining dump trucks, incl. air-water valves",
+              "ar": "للإطارات العملاقة على اللوادر وقلابات التعدين، منها صمامات الهواء والماء"
+            }
+          }
+        },
+        {
+          "code": "BX-0254-01-008",
+          "name": {
+            "en": "Repair strings & patches",
+            "ar": "أشرطة ورقع الإصلاح"
+          },
+          "specs": {
+            "range": {
+              "en": "Strings 100–200 mm; inner-tube, tubeless, radial and bias patches; mushroom plugs 3–6 mm",
+              "ar": "أشرطة ⁦100⁠–⁠200⁩ مم؛ رقع للأنبوب الداخلي وللإطارات بدون أنبوب والراديال والعادية؛ سدادات فطرية ⁦3⁠–⁠6⁩ مم"
+            },
+            "purpose": {
+              "en": "Puncture repair in the field and the workshop",
+              "ar": "إصلاح الثقوب في الموقع والورشة"
+            }
+          }
+        },
+        {
+          "code": "BX-0254-01-010",
+          "name": {
+            "en": "Tyre repair kits",
+            "ar": "أطقم إصلاح الإطارات"
+          },
+          "specs": {
+            "range": {
+              "en": "Cased kits with reamer, inserter, strings and cement",
+              "ar": "أطقم في حقائب بمثقاب ومُدخل وأشرطة ولاصق"
+            },
+            "purpose": {
+              "en": "Vehicle and fleet emergency kits",
+              "ar": "أطقم طوارئ للمركبات والأسطول"
+            }
+          }
+        },
+        {
+          "code": "BX-0254-01-012",
+          "name": {
+            "en": "Pneumatic impact wrenches",
+            "ar": "مفاتيح صدم هوائية"
+          },
+          "specs": {
+            "range": {
+              "en": "3880, 7032, 8810, 950 and 799 series; cased kits with sockets",
+              "ar": "سلاسل ⁦3880⁩ و⁦7032⁩ و⁦8810⁩ و⁦950⁩ و⁦799⁩؛ أطقم في حقائب مع لقم"
+            },
+            "purpose": {
+              "en": "Removing and fitting wheel nuts",
+              "ar": "فك صواميل العجلات وتركيبها"
+            }
+          }
+        },
+        {
+          "code": "BX-0254-01-013",
+          "name": {
+            "en": "Air jacks & bead seaters",
+            "ar": "روافع هوائية وأجهزة تثبيت حافة الإطار"
+          },
+          "specs": {
+            "range": {
+              "en": "Air-bag jacks and bead-blaster tanks",
+              "ar": "روافع بالوسائد الهوائية وخزانات نفخ الحافة"
+            },
+            "purpose": {
+              "en": "Lifting vehicles and seating tubeless tyres",
+              "ar": "رفع المركبات وتثبيت الإطارات بدون أنبوب"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      },
+      "intro": {
+        "en": "Valve codes follow the standard TR / TRJ designations.",
+        "ar": "أكواد الصمامات حسب تسميات ⁦TR / TRJ⁩ القياسية."
+      }
+    }
+  ]
+}

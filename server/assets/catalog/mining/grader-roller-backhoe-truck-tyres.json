@@ -1,0 +1,380 @@
+{
+  "id": "grader-roller-backhoe-truck-tyres",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-10 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-10 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "road",
+      "label": {
+        "en": "Road-building & excavator tyres",
+        "ar": "إطارات معدات الطرق والحفارات"
+      },
+      "models": [
+        {
+          "code": "BX-0290-01-019",
+          "name": {
+            "en": "Road roller tyre, C-1 smooth",
+            "ar": "إطار مدحلة أملس ⁦C-1⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH302: 9.00-20, 10.00-20, 11.00-20",
+              "ar": "⁦SH302: 9.00-20, 10.00-20, 11.00-20⁩"
+            },
+            "data": {
+              "en": "Bias; pneumatic rollers",
+              "ar": "عادي؛ للمداحل الهوائية"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-020",
+          "name": {
+            "en": "Roller / loader tyre, R-3",
+            "ar": "إطار مدحلة / لودر ⁦R-3⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH303: 23.1-26",
+              "ar": "⁦SH303: 23.1-26⁩"
+            },
+            "data": {
+              "en": "Bias; compactors and loaders",
+              "ar": "عادي؛ للمداحل واللوادر"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-021",
+          "name": {
+            "en": "Grader / roller tyre, G-2/L-2",
+            "ar": "إطار جريدر / مدحلة ⁦G-2/L-2⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH317: 15.5-25, 17.5-25",
+              "ar": "⁦SH317: 15.5-25, 17.5-25⁩"
+            },
+            "data": {
+              "en": "Bias; graders and rollers",
+              "ar": "عادي؛ للجريدرات والمداحل"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-022",
+          "name": {
+            "en": "Motor grader tyre, G-2/L-2",
+            "ar": "إطار جريدر ⁦G-2/L-2⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH319: 13.00-24, 14.00-24",
+              "ar": "⁦SH319: 13.00-24, 14.00-24⁩"
+            },
+            "data": {
+              "en": "Bias; motor graders",
+              "ar": "عادي؛ للجريدرات"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-023",
+          "name": {
+            "en": "Wheeled excavator tyre",
+            "ar": "إطار حفار بعجلات"
+          },
+          "specs": {
+            "models": {
+              "en": "SH331: 9.00-20, 10.00-20",
+              "ar": "⁦SH331: 9.00-20, 10.00-20⁩"
+            },
+            "data": {
+              "en": "Bias; wheeled excavators",
+              "ar": "عادي؛ للحفارات ذات العجلات"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "C-1 · G-2 · R-3",
+        "ar": "⁦C-1 · G-2 · R-3⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "نقشة واحدة",
+          "نقشتان",
+          "نقشات"
+        ],
+        "en": [
+          "tyre line",
+          "tyre lines"
+        ]
+      }
+    },
+    {
+      "id": "backhoe",
+      "label": {
+        "en": "Backhoe loader & industrial tyres",
+        "ar": "إطارات الحفارات اللودرية والإطارات الصناعية"
+      },
+      "models": [
+        {
+          "code": "BX-0290-01-037",
+          "name": {
+            "en": "Backhoe loader tyre, R-4",
+            "ar": "إطار حفار لودري ⁦R-4⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH211: 16.9-28",
+              "ar": "⁦SH211: 16.9-28⁩"
+            },
+            "data": {
+              "en": "Bias; backhoe loaders and industrial tractors",
+              "ar": "عادي؛ للحفارات اللودرية والجرارات الصناعية"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-038",
+          "name": {
+            "en": "Backhoe loader tyre, R-4",
+            "ar": "إطار حفار لودري ⁦R-4⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH215: 12.5/80-18",
+              "ar": "⁦SH215: 12.5/80-18⁩"
+            },
+            "data": {
+              "en": "Bias; backhoe loaders",
+              "ar": "عادي؛ للحفارات اللودرية"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-039",
+          "name": {
+            "en": "Backhoe loader tyre, R-4",
+            "ar": "إطار حفار لودري ⁦R-4⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH216: 16.9-24, 18.4-26",
+              "ar": "⁦SH216: 16.9-24, 18.4-26⁩"
+            },
+            "data": {
+              "en": "Bias; backhoe loaders",
+              "ar": "عادي؛ للحفارات اللودرية"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-040",
+          "name": {
+            "en": "Backhoe loader tyre, R-4A",
+            "ar": "إطار حفار لودري ⁦R-4A⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH217: 12.5/80-18",
+              "ar": "⁦SH217: 12.5/80-18⁩"
+            },
+            "data": {
+              "en": "Bias; backhoe loaders",
+              "ar": "عادي؛ للحفارات اللودرية"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-041",
+          "name": {
+            "en": "Industrial tyre, R-4B",
+            "ar": "إطار صناعي ⁦R-4B⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH218: 19.5L-24",
+              "ar": "⁦SH218: 19.5L-24⁩"
+            },
+            "data": {
+              "en": "Bias; DW16 rim; 16 PR; 4,035 kg; TL",
+              "ar": "عادي؛ جنط ⁦DW16⁩؛ ⁦16 PR⁩؛ ⁦4,035⁩ كجم؛ بدون أنبوب"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-042",
+          "name": {
+            "en": "Backhoe & telehandler tyre, R-4",
+            "ar": "إطار حفار لودري ورافعة تلسكوبية ⁦R-4⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH219: 10.5/80-18",
+              "ar": "⁦SH219: 10.5/80-18⁩"
+            },
+            "data": {
+              "en": "Bias; backhoe loaders and telehandlers",
+              "ar": "عادي؛ للحفارات اللودرية والرافعات التلسكوبية"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "R-4",
+        "ar": "⁦R-4⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "نقشة واحدة",
+          "نقشتان",
+          "نقشات"
+        ],
+        "en": [
+          "tyre line",
+          "tyre lines"
+        ]
+      }
+    },
+    {
+      "id": "truck",
+      "label": {
+        "en": "Truck & sand tyres",
+        "ar": "إطارات الشاحنات والرمال"
+      },
+      "models": [
+        {
+          "code": "BX-0311-01-001",
+          "name": {
+            "en": "Truck & bus radials, tube type",
+            "ar": "إطارات راديال للشاحنات بأنبوب"
+          },
+          "specs": {
+            "models": {
+              "en": "9.00R20, 10.00R20, 11.00R20, 12.00R20, 12.00R24",
+              "ar": "⁦9.00R20, 10.00R20, 11.00R20, 12.00R20, 12.00R24⁩"
+            },
+            "data": {
+              "en": "Trucks and buses; steer, drive, trailer and all-position patterns",
+              "ar": "للشاحنات والحافلات؛ نقشات للتوجيه والدفع والمقطورة وكل المواضع"
+            }
+          }
+        },
+        {
+          "code": "BX-0311-01-002",
+          "name": {
+            "en": "Truck & bus radials, tubeless",
+            "ar": "إطارات راديال للشاحنات بدون أنبوب"
+          },
+          "specs": {
+            "models": {
+              "en": "11R22.5, 12R22.5, 13R22.5, 275/80R22.5, 295/75R22.5, 295/80R22.5, 315/80R22.5, 385/65R22.5, 11R24.5, 325/95R24",
+              "ar": "⁦11R22.5, 12R22.5, 13R22.5, 275/80R22.5, 295/75R22.5, 295/80R22.5, 315/80R22.5, 385/65R22.5, 11R24.5, 325/95R24⁩"
+            },
+            "data": {
+              "en": "Trucks and buses; long-haul, regional and mixed service",
+              "ar": "للشاحنات والحافلات؛ للمسافات الطويلة والإقليمية والخدمة المختلطة"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-050",
+          "name": {
+            "en": "Heavy-duty bias truck tyres",
+            "ar": "إطارات شاحنات عادية للخدمة الشاقة"
+          },
+          "specs": {
+            "models": {
+              "en": "SH613, SH614, SH625: 7.00-20, 7.50-20, 8.25-20, 9.00-20, 10.00-20",
+              "ar": "⁦SH613, SH614, SH625: 7.00-20, 7.50-20, 8.25-20, 9.00-20, 10.00-20⁩"
+            },
+            "data": {
+              "en": "Dump and service trucks",
+              "ar": "للقلابات وشاحنات الخدمة"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-052",
+          "name": {
+            "en": "Sand / desert flotation tyres",
+            "ar": "إطارات رملية للصحراء"
+          },
+          "specs": {
+            "models": {
+              "en": "SH701, SH702, SH703, SH705, SH706: 9.00-16, 9.00-17, 12.00-20, 14.00-20, 16.00-20",
+              "ar": "⁦SH701, SH702, SH703, SH705, SH706: 9.00-16, 9.00-17, 12.00-20, 14.00-20, 16.00-20⁩"
+            },
+            "data": {
+              "en": "Bias; trucks and off-road vehicles on sand",
+              "ar": "عادي؛ للشاحنات والمركبات على الرمال"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "16–24 in",
+        "ar": "⁦16⁠–⁠24⁩ بوصة"
+      },
+      "countUnit": {
+        "ar": [
+          "نقشة واحدة",
+          "نقشتان",
+          "نقشات"
+        ],
+        "en": [
+          "tyre line",
+          "tyre lines"
+        ]
+      }
+    }
+  ],
+  "countUnit": {
+    "ar": [
+      "نقشة واحدة",
+      "نقشتان",
+      "نقشات"
+    ],
+    "en": [
+      "tyre line",
+      "tyre lines"
+    ]
+  }
+}

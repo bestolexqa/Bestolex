@@ -1,0 +1,198 @@
+{
+  "id": "submersible-hydraulic-slurry-pumps",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-07 Ed5⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-07 Ed5 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "sizes",
+      "label": {
+        "en": "Sizes",
+        "ar": "المقاسات"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (m³/h)",
+        "ar": "الطاقة (م³/ساعة)"
+      }
+    },
+    {
+      "key": "head",
+      "label": {
+        "en": "Head (m)",
+        "ar": "الرفع (م)"
+      }
+    },
+    {
+      "key": "drive",
+      "label": {
+        "en": "Drive",
+        "ar": "الإدارة"
+      }
+    },
+    {
+      "key": "notes",
+      "label": {
+        "en": "Notes",
+        "ar": "ملاحظات"
+      }
+    }
+  ],
+  "keyRows": [
+    "sizes",
+    "capacity",
+    "head"
+  ],
+  "types": [
+    {
+      "id": "pumps",
+      "label": {
+        "en": "Submersible and hydraulic slurry pumps",
+        "ar": "مضخات لب غاطسة وهيدروليكية"
+      },
+      "models": [
+        {
+          "code": "BX-0022-01-018",
+          "name": {
+            "en": "Electric submersible slurry pump DZQ(J)",
+            "ar": "مضخة لب غاطسة كهربائية ⁦DZQ(J⁩)"
+          },
+          "specs": {
+            "sizes": {
+              "en": "Outlet 80–400 mm",
+              "ar": "مخرج ⁦80⁠–⁠400⁩ مم"
+            },
+            "capacity": {
+              "en": "30–2400",
+              "ar": "⁦30–2400⁩"
+            },
+            "head": {
+              "en": "12–65",
+              "ar": "⁦12–65⁩"
+            },
+            "drive": {
+              "en": "Electric",
+              "ar": "كهربائية"
+            },
+            "notes": {
+              "en": "Bottom agitator; up to 150 m submergence; overheating protection",
+              "ar": "محرّض سفلي؛ غمر حتى ⁦150⁩ م؛ حماية من السخونة الزائدة"
+            }
+          }
+        },
+        {
+          "code": "BX-0022-01-019",
+          "name": {
+            "en": "Hydraulic submersible slurry pump YZQ",
+            "ar": "مضخة لب غاطسة هيدروليكية ⁦YZQ⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "50YZQ, 75YZQ, 100YZQ, 150YZQ, 200YZQ",
+              "ar": "⁦50YZQ, 75YZQ, 100YZQ, 150YZQ, 200YZQ⁩"
+            },
+            "capacity": {
+              "en": "max. 46–570",
+              "ar": "حتى ⁦46⁠–⁠570⁩"
+            },
+            "head": {
+              "en": "max. 14–32",
+              "ar": "حتى ⁦14⁠–⁠32⁩"
+            },
+            "drive": {
+              "en": "Hydraulic",
+              "ar": "هيدروليكية"
+            },
+            "notes": {
+              "en": "Ø 50–200 mm",
+              "ar": "قطر ⁦50⁠–⁠200⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0022-01-021",
+          "name": {
+            "en": "Hydraulic slurry pump with agitators YZQJ",
+            "ar": "مضخة لب هيدروليكية بمحرّضات ⁦YZQJ⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "YZQJ35 to YZQJ400 (A/B, HC versions)",
+              "ar": "من ⁦YZQJ35⁩ إلى ⁦YZQJ400⁩ (نسخ ⁦A/B⁩ و⁦HC⁩)"
+            },
+            "capacity": {
+              "en": "100–1200",
+              "ar": "⁦100–1200⁩"
+            },
+            "head": {
+              "en": "14–43",
+              "ar": "⁦14–43⁩"
+            },
+            "drive": {
+              "en": "Hydraulic, 18–295 kW",
+              "ar": "هيدروليكية، ⁦18⁠–⁠295⁩ كيلوواط"
+            },
+            "notes": {
+              "en": "Two side agitators",
+              "ar": "محرّضان جانبيان"
+            }
+          }
+        },
+        {
+          "code": "BX-0036-01-021",
+          "name": {
+            "en": "Excavator-mounted hydraulic pump package",
+            "ar": "مجموعة مضخة هيدروليكية تُركّب على الحفار"
+          },
+          "specs": {
+            "sizes": {
+              "en": "65–600 mm",
+              "ar": "⁦65⁠–⁠600⁩ مم"
+            },
+            "capacity": {
+              "en": "15–4000",
+              "ar": "⁦15–4000⁩"
+            },
+            "head": {
+              "en": "10–125",
+              "ar": "⁦10–125⁩"
+            },
+            "drive": {
+              "en": "Excavator hydraulics",
+              "ar": "هيدروليك الحفار"
+            },
+            "notes": {
+              "en": "For 1–80 t excavators",
+              "ar": "لحفارات ⁦1⁠–⁠80⁩ طن"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "15–4000 m³/h",
+        "ar": "⁦15⁠–⁠4000⁩ م³/ساعة"
+      },
+      "keyRows": [
+        "capacity",
+        "head",
+        "drive"
+      ]
+    }
+  ]
+}

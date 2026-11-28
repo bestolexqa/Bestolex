@@ -1,0 +1,278 @@
+{
+  "id": "sample-crushing-pulverizing",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-09 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-09 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "inlet",
+      "label": {
+        "en": "Inlet (mm)",
+        "ar": "المدخل (مم)"
+      }
+    },
+    {
+      "key": "max-feed",
+      "label": {
+        "en": "Max. feed (mm)",
+        "ar": "أقصى تغذية (مم)"
+      }
+    },
+    {
+      "key": "output",
+      "label": {
+        "en": "Output (mm)",
+        "ar": "الناتج (مم)"
+      }
+    },
+    {
+      "key": "cap-kg",
+      "label": {
+        "en": "Capacity (kg/h)",
+        "ar": "الطاقة (كجم/ساعة)"
+      }
+    },
+    {
+      "key": "speed",
+      "label": {
+        "en": "Speed (r/min)",
+        "ar": "السرعة (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "inlet",
+    "max-feed",
+    "output"
+  ],
+  "types": [
+    {
+      "id": "jaw",
+      "label": {
+        "en": "Sealed laboratory jaw crushers (negative-pressure, dust-free)",
+        "ar": "كسارات فكية مختبرية محكمة (ضغط سالب، بلا غبار)"
+      },
+      "models": [
+        {
+          "code": "BX-0047-01-001 / 100×60",
+          "name": {
+            "en": "100×60",
+            "ar": "⁦100×60⁩"
+          },
+          "specs": {
+            "inlet": {
+              "en": "100×60",
+              "ar": "⁦100×60⁩"
+            },
+            "max-feed": {
+              "en": "≤ 50",
+              "ar": "⁦≤ 50⁩"
+            },
+            "output": {
+              "en": "6–10",
+              "ar": "⁦6–10⁩"
+            },
+            "cap-kg": {
+              "en": "230–400",
+              "ar": "⁦230–400⁩"
+            },
+            "speed": {
+              "en": "650",
+              "ar": "650"
+            },
+            "power": {
+              "en": "1.5",
+              "ar": "⁦1.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-001 / 100×100",
+          "name": {
+            "en": "100×100",
+            "ar": "⁦100×100⁩"
+          },
+          "specs": {
+            "inlet": {
+              "en": "100×100",
+              "ar": "⁦100×100⁩"
+            },
+            "max-feed": {
+              "en": "≤ 100",
+              "ar": "⁦≤ 100⁩"
+            },
+            "output": {
+              "en": "5–25",
+              "ar": "⁦5–25⁩"
+            },
+            "cap-kg": {
+              "en": "400–1800",
+              "ar": "⁦400–1800⁩"
+            },
+            "speed": {
+              "en": "390",
+              "ar": "390"
+            },
+            "power": {
+              "en": "3",
+              "ar": "3"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-001 / 100×125",
+          "name": {
+            "en": "100×125",
+            "ar": "⁦100×125⁩"
+          },
+          "specs": {
+            "inlet": {
+              "en": "100×125",
+              "ar": "⁦100×125⁩"
+            },
+            "max-feed": {
+              "en": "≤ 100",
+              "ar": "⁦≤ 100⁩"
+            },
+            "output": {
+              "en": "3–25",
+              "ar": "⁦3–25⁩"
+            },
+            "cap-kg": {
+              "en": "400–1800",
+              "ar": "⁦400–1800⁩"
+            },
+            "speed": {
+              "en": "390",
+              "ar": "390"
+            },
+            "power": {
+              "en": "3",
+              "ar": "3"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-001 / 100×150",
+          "name": {
+            "en": "100×150",
+            "ar": "⁦100×150⁩"
+          },
+          "specs": {
+            "inlet": {
+              "en": "100×150",
+              "ar": "⁦100×150⁩"
+            },
+            "max-feed": {
+              "en": "≤ 90",
+              "ar": "⁦≤ 90⁩"
+            },
+            "output": {
+              "en": "5–25",
+              "ar": "⁦5–25⁩"
+            },
+            "cap-kg": {
+              "en": "400–1800",
+              "ar": "⁦400–1800⁩"
+            },
+            "speed": {
+              "en": "390",
+              "ar": "390"
+            },
+            "power": {
+              "en": "3",
+              "ar": "3"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "230–1800 kg/h",
+        "ar": "⁦230⁠–⁠1800⁩ كجم/ساعة"
+      },
+      "keyRows": [
+        "cap-kg",
+        "output",
+        "power"
+      ]
+    },
+    {
+      "id": "mills",
+      "label": {
+        "en": "Sealed pulverizer and jar mill",
+        "ar": "ساحقة محكمة وطاحونة جرار"
+      },
+      "models": [
+        {
+          "code": "BX-0047-01-003",
+          "name": {
+            "en": "GJ100-1A sealed pulverizer",
+            "ar": "ساحقة محكمة ⁦GJ100-1A⁩"
+          },
+          "specs": {
+            "data": {
+              "en": "High-manganese steel bowl; 1 × 100 g per run; feed < 13 mm; < 3 min; output 120–200 mesh; 1.1 kW, 380 V; 510×580×820 mm; noise < 60 dB",
+              "ar": "وعاء من فولاذ عالي المنغنيز؛ عينة واحدة ⁦100⁩ جم في الدورة؛ تغذية < ⁦13⁩ مم؛ < ⁦3⁩ دقائق؛ ناتج ⁦120⁠–⁠200⁩ ميش؛ ⁦1.1⁩ كيلوواط، ⁦380⁩ فولت؛ ⁦510×580×820⁩ مم؛ ضجيج < ⁦60⁩ ديسيبل"
+            }
+          }
+        },
+        {
+          "code": "BX-0047-01-002",
+          "name": {
+            "en": "GQM-2-5 jar (roller) ball mill",
+            "ar": "طاحونة جرار كروية ⁦GQM-2-5⁩"
+          },
+          "specs": {
+            "data": {
+              "en": "2 jars of 0.5–5 L; feed ≤ 10 mm; output 200–2000 mesh; 0.75 kW, 220 V, VFD; rollers 50–410 r/min; timer 0–6500 min; up to 35 kg per jar; 950×660×710 mm, 72 kg",
+              "ar": "جرّتان سعة ⁦0.5⁠–⁠5⁩ لتر؛ تغذية ≤ ⁦10⁩ مم؛ ناتج ⁦200⁠–⁠2000⁩ ميش؛ ⁦0.75⁩ كيلوواط، ⁦220⁩ فولت، محوّل تردد؛ البكرات ⁦50⁠–⁠410⁩ دورة/دقيقة؛ مؤقت ⁦0⁠–⁠6500⁩ دقيقة؛ حتى ⁦35⁩ كجم للجرة؛ ⁦950×660×710⁩ مم، ⁦72⁩ كجم"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "جهاز واحد",
+          "جهازان",
+          "أجهزة"
+        ],
+        "en": [
+          "instrument",
+          "instruments"
+        ]
+      },
+      "intro": {
+        "en": "Jars in stainless steel, nylon, polyurethane, PTFE, corundum or zirconia.",
+        "ar": "الجرار من الستانلس أو النايلون أو البولي يوريثان أو ⁦PTFE⁩ أو الكوراندوم أو الزركونيا."
+      }
+    }
+  ]
+}

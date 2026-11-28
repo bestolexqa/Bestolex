@@ -1,0 +1,298 @@
+{
+  "id": "loader-grader-underground-tyres",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-10 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-10 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "loader",
+      "label": {
+        "en": "Loader, dozer, grader, backhoe and underground tyres",
+        "ar": "إطارات اللوادر والجرافات والجريدرات والحفارات اللودرية والمناجم تحت الأرض"
+      },
+      "models": [
+        {
+          "code": "BX-0297-01-007",
+          "name": {
+            "en": "Loader & mini loader tyres",
+            "ar": "إطارات اللوادر الكبيرة والصغيرة"
+          },
+          "specs": {
+            "models": {
+              "en": "AT-LMAX",
+              "ar": "⁦AT-LMAX⁩"
+            },
+            "data": {
+              "en": "L-3 / E-3; 16/70-20 to 33.25-35, incl. 13.00-25, 17.5-25, 20.5-25, 23.5-25, 26.5-25, 29.5-25; 8–44 PR; cut-resistant",
+              "ar": "⁦L-3 / E-3⁩؛ ⁦16/70-20⁩ إلى ⁦33.25-35⁩، منها ⁦13.00-25⁩ و⁦17.5-25⁩ و⁦20.5-25⁩ و⁦23.5-25⁩ و⁦26.5-25⁩ و⁦29.5-25⁩؛ ⁦8⁠–⁠44 PR⁩؛ مقاومة للقطع"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-01-010",
+          "name": {
+            "en": "L-5 rock & semi-solid loader tyres",
+            "ar": "إطارات لوادر صخور ⁦L-5⁩ وشبه صلبة"
+          },
+          "specs": {
+            "models": {
+              "en": "AT-ML5, semi-solid",
+              "ar": "⁦AT-ML5⁩، شبه صلبة"
+            },
+            "data": {
+              "en": "AT-ML5: 16/70-16 to 35/65-33; 14–42 PR; tread up to 105 mm; semi-solid: 16/70-24, 16/70-20, 20.5/70-16, 16/70-16",
+              "ar": "⁦AT-ML5⁩: ‏⁦16/70-16⁩ إلى ⁦35/65-33⁩؛ ⁦14⁠–⁠42 PR⁩؛ نقشة حتى ⁦105⁩ مم؛ شبه الصلبة: ⁦16/70-24⁩ و⁦16/70-20⁩ و⁦20.5/70-16⁩ و⁦16/70-16⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-01-011",
+          "name": {
+            "en": "L-4 loader & dozer tyres",
+            "ar": "إطارات لوادر وجرافات ⁦L-4⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "AT-L4C, AT-ML4, AT-LMAX4, AT-ZLUG4",
+              "ar": "⁦AT-L4C, AT-ML4, AT-LMAX4, AT-ZLUG4⁩"
+            },
+            "data": {
+              "en": "Heavy-duty rock service; 17.5-25, 23.5-25, 26.5-25, 29.5-25, 29.5-29; 16–46 PR; tread 45–64 mm; TL",
+              "ar": "خدمة شاقة على الصخور؛ ⁦17.5-25⁩ و⁦23.5-25⁩ و⁦26.5-25⁩ و⁦29.5-25⁩ و⁦29.5-29⁩؛ ⁦16⁠–⁠46 PR⁩؛ نقشة ⁦45⁠–⁠64⁩ مم؛ بدون أنبوب"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-01-008",
+          "name": {
+            "en": "Loader, grader and dozer tyres",
+            "ar": "إطارات اللوادر والجريدرات والجرافات"
+          },
+          "specs": {
+            "models": {
+              "en": "AT-ZLUG",
+              "ar": "⁦AT-ZLUG⁩"
+            },
+            "data": {
+              "en": "20.5/70-16, 15.5-25 to 26.5-25; 12–36 PR; TT / TL",
+              "ar": "⁦20.5/70-16⁩، و⁦15.5-25⁩ إلى ⁦26.5-25⁩؛ ⁦12⁠–⁠36 PR⁩؛ بأنبوب أو بدونه"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-01-009",
+          "name": {
+            "en": "Loader tyres",
+            "ar": "إطارات اللوادر"
+          },
+          "specs": {
+            "models": {
+              "en": "AT-DURO",
+              "ar": "⁦AT-DURO⁩"
+            },
+            "data": {
+              "en": "17.5-25, 23.5-25, 23.1-26; 16–28 PR; TT / TL",
+              "ar": "⁦17.5-25⁩ و⁦23.5-25⁩ و⁦23.1-26⁩؛ ⁦16⁠–⁠28 PR⁩؛ بأنبوب أو بدونه"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-03-006",
+          "name": {
+            "en": "Loader and dozer radial tyres",
+            "ar": "إطارات راديال للوادر والجرافات"
+          },
+          "specs": {
+            "models": {
+              "en": "TCL01, TCL03, TCL04, TCL05",
+              "ar": "⁦TCL01, TCL03, TCL04, TCL05⁩"
+            },
+            "data": {
+              "en": "17.5R25 to 29.5R25; TCL01 E3 / L3, TCL03 and TCL04 L5, TCL05 E3 / L3 / G3",
+              "ar": "⁦17.5R25⁩ إلى ⁦29.5R25⁩؛ ⁦TCL01⁩ ‏⁦E3 / L3⁩، و⁦TCL03⁩ و⁦TCL04⁩ ‏⁦L5⁩، و⁦TCL05⁩ ‏⁦E3 / L3 / G3⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-01-012",
+          "name": {
+            "en": "Grader tyres",
+            "ar": "إطارات الجريدرات"
+          },
+          "specs": {
+            "models": {
+              "en": "AT-MGR",
+              "ar": "⁦AT-MGR⁩"
+            },
+            "data": {
+              "en": "13.00-24, 14.00-24, 16.00-24, 15.5-25, 17.5-25, 20.5-25, 23.5-25; 12–20 PR",
+              "ar": "⁦13.00-24⁩ و⁦14.00-24⁩ و⁦16.00-24⁩ و⁦15.5-25⁩ و⁦17.5-25⁩ و⁦20.5-25⁩ و⁦23.5-25⁩؛ ⁦12⁠–⁠20 PR⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-03-007",
+          "name": {
+            "en": "Grader radial tyres",
+            "ar": "إطارات راديال للجريدرات"
+          },
+          "specs": {
+            "models": {
+              "en": "TGR01",
+              "ar": "TGR01"
+            },
+            "data": {
+              "en": "14.00R24, 17.5R25; G2; open non-directional tread that sheds mud",
+              "ar": "⁦14.00R24⁩ و⁦17.5R25⁩؛ ⁦G2⁩؛ نقشة مفتوحة غير اتجاهية تطرد الطين"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-01-002",
+          "name": {
+            "en": "Backhoe loader rear tyres",
+            "ar": "إطارات خلفية للحفارات اللودرية"
+          },
+          "specs": {
+            "models": {
+              "en": "AT-BKR1, AT-BKR1A, AT-BKR1B, AT-BKR1C, AT-BKR1G, AT-BKRN, AT-BKR2",
+              "ar": "⁦AT-BKR1, AT-BKR1A, AT-BKR1B, AT-BKR1C, AT-BKR1G, AT-BKRN, AT-BKR2⁩"
+            },
+            "data": {
+              "en": "14.9-24, 16.9-24 / 28, 17.5L-24, 18.4-24 / 26 / 28, 19.5L-24, 21L-24; 10–16 PR; TL",
+              "ar": "⁦14.9-24⁩ و⁦16.9-24 / 28⁩ و⁦17.5L-24⁩ و⁦18.4-24 / 26 / 28⁩ و⁦19.5L-24⁩ و⁦21L-24⁩؛ ⁦10⁠–⁠16 PR⁩؛ بدون أنبوب"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-01-003",
+          "name": {
+            "en": "Backhoe loader front tyres",
+            "ar": "إطارات أمامية للحفارات اللودرية"
+          },
+          "specs": {
+            "models": {
+              "en": "AT-BKF1, AT-BKF1N, AT-BKF2",
+              "ar": "⁦AT-BKF1, AT-BKF1N, AT-BKF2⁩"
+            },
+            "data": {
+              "en": "10.5/80-18, 12.5/80-18, 11L-15, 11L-16; 10–16 PR; TL",
+              "ar": "⁦10.5/80-18⁩ و⁦12.5/80-18⁩ و⁦11L-15⁩ و⁦11L-16⁩؛ ⁦10⁠–⁠16 PR⁩؛ بدون أنبوب"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-01-005",
+          "name": {
+            "en": "Wheeled excavator tyres",
+            "ar": "إطارات الحفارات ذات العجلات"
+          },
+          "specs": {
+            "models": {
+              "en": "AT-EX1 to AT-EX6",
+              "ar": "⁦AT-EX1⁩ إلى ⁦AT-EX6⁩"
+            },
+            "data": {
+              "en": "7.50-16, 8.25-16, 8.25-20, 9.00-20, 10.00-20, 11.00-20; 14–18 PR; TT",
+              "ar": "⁦7.50-16⁩ و⁦8.25-16⁩ و⁦8.25-20⁩ و⁦9.00-20⁩ و⁦10.00-20⁩ و⁦11.00-20⁩؛ ⁦14⁠–⁠18 PR⁩؛ بأنبوب"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-01-018",
+          "name": {
+            "en": "Underground mining tyres",
+            "ar": "إطارات المناجم تحت الأرض"
+          },
+          "specs": {
+            "models": {
+              "en": "AT-UB1, AT-UB3, AT-US5L, AT-US5LA, AT-US5",
+              "ar": "⁦AT-UB1, AT-UB3, AT-US5L, AT-US5LA, AT-US5⁩"
+            },
+            "data": {
+              "en": "7.50-15 to 60×25-25, for LHD loaders and underground trucks; 6.5–40 PR; tread up to 100 mm",
+              "ar": "⁦7.50-15⁩ إلى ⁦60×25-25⁩، للوادر ⁦LHD⁩ وشاحنات المناجم تحت الأرض؛ ⁦6.5⁠–⁠40 PR⁩؛ نقشة حتى ⁦100⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0297-03-010",
+          "name": {
+            "en": "Underground vehicle radial tyres",
+            "ar": "إطارات راديال للمناجم تحت الأرض"
+          },
+          "specs": {
+            "models": {
+              "en": "TCU01",
+              "ar": "TCU01"
+            },
+            "data": {
+              "en": "17.5R25, 18.00R25, 23.5R25, 26.5R25; L5S extra-deep smooth tread",
+              "ar": "⁦17.5R25⁩ و⁦18.00R25⁩ و⁦23.5R25⁩ و⁦26.5R25⁩؛ ⁦L5S⁩ بنقشة ملساء عميقة جداً"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "L-3 to L-5",
+        "ar": "⁦L-3⁩ إلى ⁦L-5⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "نقشة واحدة",
+          "نقشتان",
+          "نقشات"
+        ],
+        "en": [
+          "tyre line",
+          "tyre lines"
+        ]
+      }
+    }
+  ],
+  "countUnit": {
+    "ar": [
+      "نقشة واحدة",
+      "نقشتان",
+      "نقشات"
+    ],
+    "en": [
+      "tyre line",
+      "tyre lines"
+    ]
+  }
+}

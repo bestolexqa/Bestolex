@@ -1,0 +1,431 @@
+{
+  "id": "work-safety-gloves",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXS-01 Ed2⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXS-01 Ed2 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Model",
+    "ar": "الموديل"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "use",
+      "label": {
+        "en": "Use",
+        "ar": "الاستخدام"
+      }
+    },
+    {
+      "key": "lining",
+      "label": {
+        "en": "Lining",
+        "ar": "البطانة"
+      }
+    },
+    {
+      "key": "coat",
+      "label": {
+        "en": "Coating / material",
+        "ar": "الطلاء أو المادة"
+      }
+    },
+    {
+      "key": "sizes",
+      "label": {
+        "en": "Sizes",
+        "ar": "المقاسات"
+      }
+    }
+  ],
+  "keyRows": [
+    "use",
+    "lining",
+    "coat"
+  ],
+  "types": [
+    {
+      "id": "gloves",
+      "label": {
+        "en": "Work and safety gloves",
+        "ar": "قفازات العمل والسلامة"
+      },
+      "models": [
+        {
+          "code": "BX-0069-01-001",
+          "name": {
+            "en": "MJFZ504",
+            "ar": "MJFZ504"
+          },
+          "specs": {
+            "use": {
+              "en": "Impact and cut resistant, anti-slip",
+              "ar": "مقاومة للصدمات والقطع ومانعة للانزلاق"
+            },
+            "lining": {
+              "en": "Nylon / HPPE + glass fibre + Lycra, 13 g",
+              "ar": "نايلون / ⁦HPPE⁩ + ألياف زجاجية + ليكرا، ⁦13 g⁩"
+            },
+            "coat": {
+              "en": "Silica dots on palm, TPR on back",
+              "ar": "نقاط سيليكا على الكف و⁦TPR⁩ على الظهر"
+            },
+            "sizes": {
+              "en": "8, 9, 10",
+              "ar": "⁦8, 9, 10⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0069-01-004",
+          "name": {
+            "en": "MJFZ502",
+            "ar": "MJFZ502"
+          },
+          "specs": {
+            "use": {
+              "en": "Impact and cut resistant",
+              "ar": "مقاومة للصدمات والقطع"
+            },
+            "lining": {
+              "en": "Nylon / HPPE + glass fibre + Lycra",
+              "ar": "نايلون / ⁦HPPE⁩ + ألياف زجاجية + ليكرا"
+            },
+            "coat": {
+              "en": "Sandy nitrile palm, TPR back; Velcro cuff",
+              "ar": "كف نتريل رملي وظهر ⁦TPR⁩؛ كُم بلاصق"
+            },
+            "sizes": {
+              "en": "8, 9, 10",
+              "ar": "⁦8, 9, 10⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0069-01-009",
+          "name": {
+            "en": "MJFZ509",
+            "ar": "MJFZ509"
+          },
+          "specs": {
+            "use": {
+              "en": "Impact resistant (economy)",
+              "ar": "مقاومة للصدمات (اقتصادية)"
+            },
+            "lining": {
+              "en": "Polyester",
+              "ar": "بوليستر"
+            },
+            "coat": {
+              "en": "Sandy nitrile palm, TPR back",
+              "ar": "كف نتريل رملي وظهر ⁦TPR⁩"
+            },
+            "sizes": {
+              "en": "8–12",
+              "ar": "⁦8–12⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0069-01-020",
+          "name": {
+            "en": "MJFG502",
+            "ar": "MJFG502"
+          },
+          "specs": {
+            "use": {
+              "en": "Cut resistant level 5",
+              "ar": "مقاومة للقطع المستوى ⁦5⁩"
+            },
+            "lining": {
+              "en": "HPPE + glass fibre + Lycra, 13 g",
+              "ar": "⁦HPPE⁩ + ألياف زجاجية + ليكرا، ⁦13 g⁩"
+            },
+            "coat": {
+              "en": "Sandy nitrile palm",
+              "ar": "كف نتريل رملي"
+            },
+            "sizes": {
+              "en": "8, 9, 10",
+              "ar": "⁦8, 9, 10⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0069-01-028",
+          "name": {
+            "en": "MJDJ001",
+            "ar": "MJDJ001"
+          },
+          "specs": {
+            "use": {
+              "en": "Heavy-duty work",
+              "ar": "عمل شاق"
+            },
+            "lining": {
+              "en": "Cotton jersey",
+              "ar": "جيرسيه قطني"
+            },
+            "coat": {
+              "en": "Smooth nitrile palm; safety cuff",
+              "ar": "كف نتريل أملس؛ كُم أمان"
+            },
+            "sizes": {
+              "en": "One size",
+              "ar": "مقاس واحد"
+            }
+          }
+        },
+        {
+          "code": "BX-0069-01-045",
+          "name": {
+            "en": "MJDJ016",
+            "ar": "MJDJ016"
+          },
+          "specs": {
+            "use": {
+              "en": "Heavy-duty work",
+              "ar": "عمل شاق"
+            },
+            "lining": {
+              "en": "Cotton jersey",
+              "ar": "جيرسيه قطني"
+            },
+            "coat": {
+              "en": "Sandy nitrile; safety cuff",
+              "ar": "نتريل رملي؛ كُم أمان"
+            }
+          }
+        },
+        {
+          "code": "BX-0069-01-055",
+          "name": {
+            "en": "MJZW005",
+            "ar": "MJZW005"
+          },
+          "specs": {
+            "use": {
+              "en": "General handling",
+              "ar": "مناولة عامة"
+            },
+            "lining": {
+              "en": "Polyester, 13 g",
+              "ar": "بوليستر، ⁦13 g⁩"
+            },
+            "coat": {
+              "en": "Crinkle latex palm",
+              "ar": "كف لاتكس مجعّد"
+            },
+            "sizes": {
+              "en": "8–11",
+              "ar": "⁦8–11⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0069-01-084",
+          "name": {
+            "en": "MJPS001",
+            "ar": "MJPS001"
+          },
+          "specs": {
+            "use": {
+              "en": "General handling (economy)",
+              "ar": "مناولة عامة (اقتصادية)"
+            },
+            "lining": {
+              "en": "Polycotton",
+              "ar": "قطن وبوليستر"
+            },
+            "coat": {
+              "en": "PVC dots, one side",
+              "ar": "نقاط ⁦PVC⁩ على وجه واحد"
+            },
+            "sizes": {
+              "en": "Length 21–25 cm",
+              "ar": "الطول ⁦21⁠–⁠25⁩ سم"
+            }
+          }
+        },
+        {
+          "code": "BX-0069-01-075",
+          "name": {
+            "en": "MJNC001",
+            "ar": "MJNC001"
+          },
+          "specs": {
+            "use": {
+              "en": "Chemical handling",
+              "ar": "مناولة الكيماويات"
+            },
+            "lining": {
+              "en": "Flocked",
+              "ar": "مبطّن بزغب"
+            },
+            "coat": {
+              "en": "Neoprene / latex, 320 mm",
+              "ar": "نيوبرين / لاتكس، ⁦320⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0069-01-077",
+          "name": {
+            "en": "MJNC003",
+            "ar": "MJNC003"
+          },
+          "specs": {
+            "use": {
+              "en": "Chemical handling",
+              "ar": "مناولة الكيماويات"
+            },
+            "lining": {
+              "en": "Unlined",
+              "ar": "بلا بطانة"
+            },
+            "coat": {
+              "en": "Nitrile, 320–380 mm",
+              "ar": "نتريل، ⁦320⁠–⁠380⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0069-01-078",
+          "name": {
+            "en": "MJPD001",
+            "ar": "MJPD001"
+          },
+          "specs": {
+            "use": {
+              "en": "Wet work, tanks",
+              "ar": "العمل الرطب والأحواض"
+            },
+            "lining": {
+              "en": "Cotton fleece",
+              "ar": "صوف قطني"
+            },
+            "coat": {
+              "en": "Sandy PVC, 65 cm with oversleeve",
+              "ar": "⁦PVC⁩ رملي، ⁦65⁩ سم بكُم إضافي"
+            }
+          }
+        },
+        {
+          "code": "BX-0069-01-018",
+          "name": {
+            "en": "MJLT002",
+            "ar": "MJLT002"
+          },
+          "specs": {
+            "use": {
+              "en": "Welding and workshop",
+              "ar": "اللحام والورشة"
+            },
+            "lining": {
+              "en": "Cotton",
+              "ar": "قطن"
+            },
+            "coat": {
+              "en": "Cow split leather + TPR",
+              "ar": "جلد بقري مشقوق + ⁦TPR⁩"
+            },
+            "sizes": {
+              "en": "8, 9, 10",
+              "ar": "⁦8, 9, 10⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0069-01-091",
+          "name": {
+            "en": "MJLP004",
+            "ar": "MJLP004"
+          },
+          "specs": {
+            "use": {
+              "en": "Heavy-duty, warm",
+              "ar": "عمل شاق، دافئة"
+            },
+            "lining": {
+              "en": "Cotton",
+              "ar": "قطن"
+            },
+            "coat": {
+              "en": "Cow split leather",
+              "ar": "جلد بقري مشقوق"
+            },
+            "sizes": {
+              "en": "10.5 and 13 in",
+              "ar": "⁦10.5⁩ و⁦13⁩ بوصة"
+            }
+          }
+        },
+        {
+          "code": "BX-0069-01-092",
+          "name": {
+            "en": "MJLP005",
+            "ar": "MJLP005"
+          },
+          "specs": {
+            "use": {
+              "en": "Welding and smelting",
+              "ar": "اللحام والصهر"
+            },
+            "lining": {
+              "en": "Cotton",
+              "ar": "قطن"
+            },
+            "coat": {
+              "en": "Cow split leather",
+              "ar": "جلد بقري مشقوق"
+            },
+            "sizes": {
+              "en": "10.5 and 13 in",
+              "ar": "⁦10.5⁩ و⁦13⁩ بوصة"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "موديل واحد",
+          "موديلان",
+          "موديلات"
+        ],
+        "en": [
+          "model",
+          "models"
+        ]
+      },
+      "intro": {
+        "en": "Packed 10–12 pairs per bag, 100–240 pairs per carton depending on model.",
+        "ar": "التعبئة ⁦10⁠–⁠12⁩ زوجاً في الكيس و⁦100⁠–⁠240⁩ زوجاً في الكرتونة حسب الموديل."
+      },
+      "keyRows": [
+        "use",
+        "coat",
+        "sizes"
+      ]
+    }
+  ],
+  "countUnit": {
+    "ar": [
+      "موديل واحد",
+      "موديلان",
+      "موديلات"
+    ],
+    "en": [
+      "model",
+      "models"
+    ]
+  }
+}

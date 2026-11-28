@@ -1,0 +1,463 @@
+{
+  "id": "horizontal-slurry-pumps",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-07 Ed5⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-07 Ed5 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "sizes",
+      "label": {
+        "en": "Sizes",
+        "ar": "المقاسات"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (m³/h)",
+        "ar": "الطاقة (م³/ساعة)"
+      }
+    },
+    {
+      "key": "head",
+      "label": {
+        "en": "Head (m)",
+        "ar": "الرفع (م)"
+      }
+    },
+    {
+      "key": "speed",
+      "label": {
+        "en": "Speed (r/min)",
+        "ar": "السرعة (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Max. power (kW)",
+        "ar": "أقصى قدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "impeller",
+      "label": {
+        "en": "Impeller Ø (mm)",
+        "ar": "قطر الدفّاعة (مم)"
+      }
+    },
+    {
+      "key": "eff",
+      "label": {
+        "en": "Max. efficiency (%)",
+        "ar": "أقصى كفاءة (%)"
+      }
+    }
+  ],
+  "keyRows": [
+    "sizes",
+    "capacity",
+    "head"
+  ],
+  "types": [
+    {
+      "id": "dhr",
+      "label": {
+        "en": "Heavy-duty slurry pumps DH(R)",
+        "ar": "مضخات لب ثقيلة ⁦DH(R⁩)"
+      },
+      "models": [
+        {
+          "code": "BX-0038-01-001",
+          "name": {
+            "en": "DH (metal) / DHR (rubber-lined)",
+            "ar": "⁦DH⁩ معدنية / ⁦DHR⁩ مبطنة بالمطاط"
+          },
+          "specs": {
+            "sizes": {
+              "en": "40X25DH(R)-B, 50X40DH(R)-B, 75X50DH(R)-C, 100X75DH(R)-C, 150X100DH(R)-D, 200X150DH(R)-R, 250X200DH(R)-ST, 300X250DH(R)-ST, 350X300DH(R)-ST, 400X350DH-TU, 500X450DH-TU",
+              "ar": "⁦40X25DH(R)-B, 50X40DH(R)-B, 75X50DH(R)-C, 100X75DH(R)-C, 150X100DH(R)-D, 200X150DH(R)-R, 250X200DH(R)-ST, 300X250DH(R)-ST, 350X300DH(R)-ST, 400X350DH-TU, 500X450DH-TU⁩"
+            },
+            "capacity": {
+              "en": "10.8–5400",
+              "ar": "⁦10.8–5400⁩"
+            },
+            "head": {
+              "en": "5.5–68",
+              "ar": "⁦5.5–68⁩"
+            },
+            "speed": {
+              "en": "200–3800",
+              "ar": "⁦200–3800⁩"
+            },
+            "power": {
+              "en": "15–1200",
+              "ar": "⁦15–1200⁩"
+            },
+            "impeller": {
+              "en": "152–1370",
+              "ar": "⁦152–1370⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "10.8–5400 m³/h",
+        "ar": "⁦10.8⁠–⁠5400⁩ م³/ساعة"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      },
+      "intro": {
+        "en": "Wear-resistant alloy or rubber liners and impellers.",
+        "ar": "بطانات ودفّاعات من سبيكة مقاومة للتآكل أو من المطاط."
+      },
+      "keyRows": [
+        "capacity",
+        "head",
+        "power"
+      ]
+    },
+    {
+      "id": "dm",
+      "label": {
+        "en": "Slurry pumps DM(R)",
+        "ar": "مضخات لب ⁦DM(R⁩)"
+      },
+      "models": [
+        {
+          "code": "BX-0038-01-002 / 25X20DM-A",
+          "name": {
+            "en": "25X20DM-A",
+            "ar": "⁦25X20DM-A⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "capacity": {
+              "en": "2.34–10.8",
+              "ar": "⁦2.34–10.8⁩"
+            },
+            "head": {
+              "en": "6–37",
+              "ar": "⁦6–37⁩"
+            },
+            "speed": {
+              "en": "1400–3000",
+              "ar": "⁦1400–3000⁩"
+            },
+            "eff": {
+              "en": "30",
+              "ar": "30"
+            },
+            "impeller": {
+              "en": "152.4",
+              "ar": "⁦152.4⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0038-01-002 / 75X50DM-B",
+          "name": {
+            "en": "75X50DM-B",
+            "ar": "⁦75X50DM-B⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "15",
+              "ar": "15"
+            },
+            "capacity": {
+              "en": "16.2–76",
+              "ar": "⁦16.2–76⁩"
+            },
+            "head": {
+              "en": "9–44",
+              "ar": "⁦9–44⁩"
+            },
+            "speed": {
+              "en": "1400–2800",
+              "ar": "⁦1400–2800⁩"
+            },
+            "eff": {
+              "en": "55",
+              "ar": "55"
+            },
+            "impeller": {
+              "en": "190",
+              "ar": "190"
+            }
+          }
+        },
+        {
+          "code": "BX-0038-01-002 / 100X75DM-C",
+          "name": {
+            "en": "100X75DM-C",
+            "ar": "⁦100X75DM-C⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "30",
+              "ar": "30"
+            },
+            "capacity": {
+              "en": "18–151",
+              "ar": "⁦18–151⁩"
+            },
+            "head": {
+              "en": "4–45",
+              "ar": "⁦4–45⁩"
+            },
+            "speed": {
+              "en": "900–2400",
+              "ar": "⁦900–2400⁩"
+            },
+            "eff": {
+              "en": "57",
+              "ar": "57"
+            },
+            "impeller": {
+              "en": "229",
+              "ar": "229"
+            }
+          }
+        },
+        {
+          "code": "BX-0038-01-002 / 150X100DM-D",
+          "name": {
+            "en": "150X100DM-D",
+            "ar": "⁦150X100DM-D⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "60",
+              "ar": "60"
+            },
+            "capacity": {
+              "en": "50–252",
+              "ar": "⁦50–252⁩"
+            },
+            "head": {
+              "en": "7–46",
+              "ar": "⁦7–46⁩"
+            },
+            "speed": {
+              "en": "800–1800",
+              "ar": "⁦800–1800⁩"
+            },
+            "eff": {
+              "en": "60",
+              "ar": "60"
+            },
+            "impeller": {
+              "en": "305",
+              "ar": "305"
+            }
+          }
+        },
+        {
+          "code": "BX-0038-01-002 / 200X150DM-E",
+          "name": {
+            "en": "200X150DM-E",
+            "ar": "⁦200X150DM-E⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "120",
+              "ar": "120"
+            },
+            "capacity": {
+              "en": "115–486",
+              "ar": "⁦115–486⁩"
+            },
+            "head": {
+              "en": "12–51.5",
+              "ar": "⁦12–51.5⁩"
+            },
+            "speed": {
+              "en": "800–1500",
+              "ar": "⁦800–1500⁩"
+            },
+            "eff": {
+              "en": "65",
+              "ar": "65"
+            },
+            "impeller": {
+              "en": "381",
+              "ar": "381"
+            }
+          }
+        },
+        {
+          "code": "BX-0038-01-002 / 250X200DM-E",
+          "name": {
+            "en": "250X200DM-E",
+            "ar": "⁦250X200DM-E⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "120",
+              "ar": "120"
+            },
+            "capacity": {
+              "en": "234–910",
+              "ar": "⁦234–910⁩"
+            },
+            "head": {
+              "en": "9.5–40",
+              "ar": "⁦9.5–40⁩"
+            },
+            "speed": {
+              "en": "600–1100",
+              "ar": "⁦600–1100⁩"
+            },
+            "eff": {
+              "en": "64",
+              "ar": "64"
+            },
+            "impeller": {
+              "en": "457",
+              "ar": "457"
+            }
+          }
+        },
+        {
+          "code": "BX-0038-01-002 / 300X250DM-S",
+          "name": {
+            "en": "300X250DM-S",
+            "ar": "⁦300X250DM-S⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "120",
+              "ar": "120"
+            },
+            "capacity": {
+              "en": "396–1425",
+              "ar": "⁦396–1425⁩"
+            },
+            "head": {
+              "en": "8–30",
+              "ar": "⁦8–30⁩"
+            },
+            "speed": {
+              "en": "500–800",
+              "ar": "⁦500–800⁩"
+            },
+            "eff": {
+              "en": "77",
+              "ar": "77"
+            },
+            "impeller": {
+              "en": "550",
+              "ar": "550"
+            }
+          }
+        },
+        {
+          "code": "BX-0038-01-002 / 350X300DM-S",
+          "name": {
+            "en": "350X300DM-S",
+            "ar": "⁦350X300DM-S⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "560",
+              "ar": "560"
+            },
+            "capacity": {
+              "en": "468–2538",
+              "ar": "⁦468–2538⁩"
+            },
+            "head": {
+              "en": "8–60",
+              "ar": "⁦8–60⁩"
+            },
+            "speed": {
+              "en": "400–950",
+              "ar": "⁦400–950⁩"
+            },
+            "eff": {
+              "en": "79",
+              "ar": "79"
+            },
+            "impeller": {
+              "en": "653",
+              "ar": "653"
+            }
+          }
+        },
+        {
+          "code": "BX-0038-01-002 / 400X350DM-S",
+          "name": {
+            "en": "400X350DM-S",
+            "ar": "⁦400X350DM-S⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "560",
+              "ar": "560"
+            },
+            "capacity": {
+              "en": "650–2800",
+              "ar": "⁦650–2800⁩"
+            },
+            "head": {
+              "en": "10–59",
+              "ar": "⁦10–59⁩"
+            },
+            "speed": {
+              "en": "400–840",
+              "ar": "⁦400–840⁩"
+            },
+            "eff": {
+              "en": "81",
+              "ar": "81"
+            },
+            "impeller": {
+              "en": "736",
+              "ar": "736"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "2.34–2800 m³/h",
+        "ar": "⁦2.34⁠–⁠2800⁩ م³/ساعة"
+      },
+      "intro": {
+        "en": "Clear-water performance, metal (M) liner and impeller. Also: 450X400DM(R)-ST, 500X450DM(R)-ST and 650X550DM(R)-TU, with rubber-lined versions.",
+        "ar": "الأداء بالماء النقي ببطانة ودفّاعة معدنية (⁦M⁩). وتتوفر أيضاً ⁦450X400DM(R)-ST⁩ و⁦500X450DM(R)-ST⁩ و⁦650X550DM(R)-TU⁩، مع نسخ مبطنة بالمطاط."
+      },
+      "keyRows": [
+        "capacity",
+        "head",
+        "power"
+      ]
+    }
+  ]
+}

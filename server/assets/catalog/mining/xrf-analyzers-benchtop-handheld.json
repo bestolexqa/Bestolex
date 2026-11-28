@@ -1,0 +1,381 @@
+{
+  "id": "xrf-analyzers-benchtop-handheld",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-09 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-09 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Model",
+    "ar": "الموديل"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "elements",
+      "label": {
+        "en": "Elements",
+        "ar": "العناصر"
+      }
+    },
+    {
+      "key": "samples",
+      "label": {
+        "en": "Samples",
+        "ar": "العينات"
+      }
+    },
+    {
+      "key": "time",
+      "label": {
+        "en": "Measuring time",
+        "ar": "زمن القياس"
+      }
+    },
+    {
+      "key": "detector",
+      "label": {
+        "en": "Detector",
+        "ar": "الكاشف"
+      }
+    },
+    {
+      "key": "tube",
+      "label": {
+        "en": "Tube voltage",
+        "ar": "جهد الأنبوب"
+      }
+    },
+    {
+      "key": "view",
+      "label": {
+        "en": "Sample view",
+        "ar": "رؤية العينة"
+      }
+    },
+    {
+      "key": "chamber",
+      "label": {
+        "en": "Chamber",
+        "ar": "الحجرة"
+      }
+    },
+    {
+      "key": "weight",
+      "label": {
+        "en": "Weight / supply",
+        "ar": "الوزن / التغذية"
+      }
+    },
+    {
+      "key": "use",
+      "label": {
+        "en": "Use",
+        "ar": "الاستخدام"
+      }
+    },
+    {
+      "key": "notes",
+      "label": {
+        "en": "Notes",
+        "ar": "ملاحظات"
+      }
+    }
+  ],
+  "keyRows": [
+    "elements",
+    "samples",
+    "time"
+  ],
+  "types": [
+    {
+      "id": "edx680",
+      "label": {
+        "en": "EDX 680 benchtop gold tester",
+        "ar": "جهاز فحص الذهب المكتبي ⁦EDX 680⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0047-02-001",
+          "name": {
+            "en": "EDX 680",
+            "ar": "⁦EDX 680⁩"
+          },
+          "specs": {
+            "elements": {
+              "en": "K–U",
+              "ar": "⁦K–U⁩"
+            },
+            "samples": {
+              "en": "Solid, liquid, powder",
+              "ar": "صلبة وسائلة ومسحوق"
+            },
+            "time": {
+              "en": "60–200 s",
+              "ar": "⁦60⁠–⁠200⁩ ثانية"
+            },
+            "detector": {
+              "en": "Si-PIN",
+              "ar": "⁦Si-PIN⁩"
+            },
+            "tube": {
+              "en": "5–50 kV",
+              "ar": "⁦5⁠–⁠50⁩ كيلوفولت"
+            },
+            "view": {
+              "en": "Built-in camera",
+              "ar": "كاميرا مدمجة"
+            },
+            "chamber": {
+              "en": "292×269×85 mm",
+              "ar": "⁦292×269×85⁩ مم"
+            },
+            "weight": {
+              "en": "26 kg / 110–220 V",
+              "ar": "⁦26⁩ كجم / ⁦110⁠–⁠220⁩ فولت"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "K–U",
+        "ar": "⁦K–U⁩"
+      },
+      "keyRows": [
+        "elements",
+        "time",
+        "detector"
+      ]
+    },
+    {
+      "id": "handheld",
+      "label": {
+        "en": "Handheld XRF analyzers",
+        "ar": "محللات ⁦XRF⁩ محمولة"
+      },
+      "models": [
+        {
+          "code": "BX-0048-04-001",
+          "name": {
+            "en": "DW-EX7000",
+            "ar": "⁦DW-EX7000⁩"
+          },
+          "specs": {
+            "use": {
+              "en": "Ore & minerals",
+              "ar": "الخامات والمعادن"
+            },
+            "detector": {
+              "en": "SDD, 128 eV (Fast-SDD opt.)",
+              "ar": "⁦SDD⁩، ‏⁦128⁩ إلكترون فولت (⁦Fast-SDD⁩ اختياري)"
+            },
+            "tube": {
+              "en": "Ag target, 200 µA",
+              "ar": "هدف فضة، ⁦200⁩ ميكروأمبير"
+            },
+            "elements": {
+              "en": "Mg–U, up to 40 at once incl. Au, Ag, Pt, Pd, Cu, Pb, Zn; ppm to 99.99%",
+              "ar": "⁦Mg–U⁩، حتى ⁦40⁩ عنصراً معاً منها ⁦Au⁩ و⁦Ag⁩ و⁦Pt⁩ و⁦Pd⁩ و⁦Cu⁩ و⁦Pb⁩ و⁦Zn⁩؛ من ⁦ppm⁩ إلى ⁦99.99%⁩"
+            },
+            "weight": {
+              "en": "1.7 kg",
+              "ar": "⁦1.7⁩ كجم"
+            },
+            "notes": {
+              "en": "5\" touch screen, camera, GPS; up to 12 h battery",
+              "ar": "شاشة لمس ⁦5⁩ بوصات، كاميرا، ⁦GPS⁩؛ بطارية حتى ⁦12⁩ ساعة"
+            }
+          }
+        },
+        {
+          "code": "BX-0048-04-002",
+          "name": {
+            "en": "TrueX 960",
+            "ar": "⁦TrueX 960⁩"
+          },
+          "specs": {
+            "use": {
+              "en": "Ore & minerals",
+              "ar": "الخامات والمعادن"
+            },
+            "detector": {
+              "en": "SDD",
+              "ar": "SDD"
+            },
+            "tube": {
+              "en": "Ag target, ≤ 50 kV / 200 µA",
+              "ar": "هدف فضة، ≤ ⁦50⁩ كيلوفولت / ⁦200⁩ ميكروأمبير"
+            },
+            "elements": {
+              "en": "Mg–U incl. Au, As, Hg; 15 s",
+              "ar": "⁦Mg–U⁩ منها ⁦Au⁩ و⁦As⁩ و⁦Hg⁩؛ ⁦15⁩ ثانية"
+            },
+            "weight": {
+              "en": "1.6 kg",
+              "ar": "⁦1.6⁩ كجم"
+            },
+            "notes": {
+              "en": "4.3\" screen; ~8 h; −20 to 50 °C",
+              "ar": "شاشة ⁦4.3⁩ بوصة؛ نحو ⁦8⁩ ساعات؛ من −⁦20⁩ إلى ⁦50 °⁩م"
+            }
+          }
+        },
+        {
+          "code": "BX-0048-04-003",
+          "name": {
+            "en": "TrueX 900",
+            "ar": "⁦TrueX 900⁩"
+          },
+          "specs": {
+            "use": {
+              "en": "Ore & minerals",
+              "ar": "الخامات والمعادن"
+            },
+            "detector": {
+              "en": "Si-PIN, 139 eV",
+              "ar": "⁦Si-PIN⁩، ‏⁦139⁩ إلكترون فولت"
+            },
+            "tube": {
+              "en": "Ag target",
+              "ar": "هدف فضة"
+            },
+            "elements": {
+              "en": "29 elements (standard mode) incl. Au, Ag, Cu, Pb, Zn, As, Hg; 15 s",
+              "ar": "⁦29⁩ عنصراً (الوضع القياسي) منها ⁦Au⁩ و⁦Ag⁩ و⁦Cu⁩ و⁦Pb⁩ و⁦Zn⁩ و⁦As⁩ و⁦Hg⁩؛ ⁦15⁩ ثانية"
+            },
+            "weight": {
+              "en": "1.6 kg",
+              "ar": "⁦1.6⁩ كجم"
+            },
+            "notes": {
+              "en": "32 GB; USB, Bluetooth, Wi-Fi, GPS",
+              "ar": "⁦32⁩ جيجابايت؛ ⁦USB⁩ وبلوتوث و⁦Wi-Fi⁩ و⁦GPS⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0048-04-004",
+          "name": {
+            "en": "DW-600 / 600S",
+            "ar": "⁦DW-600 / 600S⁩"
+          },
+          "specs": {
+            "use": {
+              "en": "Ore & minerals",
+              "ar": "الخامات والمعادن"
+            },
+            "detector": {
+              "en": "Si-PIN / SDD",
+              "ar": "⁦Si-PIN / SDD⁩"
+            },
+            "tube": {
+              "en": "W target, 50 kV, ≤ 100 µA; 8 filters",
+              "ar": "هدف تنغستن، ⁦50⁩ كيلوفولت، ≤ ⁦100⁩ ميكروأمبير؛ ⁦8⁩ مرشحات"
+            },
+            "elements": {
+              "en": "> 30 elements incl. Au, Ag, Cu, Pb, Zn, Mo; 600S adds Mg, Al, Si, P, S",
+              "ar": "> ⁦30⁩ عنصراً منها ⁦Au⁩ و⁦Ag⁩ و⁦Cu⁩ و⁦Pb⁩ و⁦Zn⁩ و⁦Mo⁩؛ ويضيف ⁦600S⁩ عناصر ⁦Mg⁩ و⁦Al⁩ و⁦Si⁩ و⁦P⁩ و⁦S⁩"
+            },
+            "notes": {
+              "en": "Two batteries",
+              "ar": "بطاريتان"
+            }
+          }
+        },
+        {
+          "code": "BX-0048-04-005",
+          "name": {
+            "en": "TrueX G5 / G7",
+            "ar": "⁦TrueX G5 / G7⁩"
+          },
+          "specs": {
+            "use": {
+              "en": "Gold & precious metals",
+              "ar": "الذهب والمعادن الثمينة"
+            },
+            "detector": {
+              "en": "Si-PIN / SDD",
+              "ar": "⁦Si-PIN / SDD⁩"
+            },
+            "tube": {
+              "en": "Ag target, ≤ 50 kV / 200 µA",
+              "ar": "هدف فضة، ≤ ⁦50⁩ كيلوفولت / ⁦200⁩ ميكروأمبير"
+            },
+            "elements": {
+              "en": "Au, Ag, Pt, Pd, Rh, Ir, Ru, Cu, Zn, Ni; karat 9–24 K and %",
+              "ar": "⁦Au⁩ و⁦Ag⁩ و⁦Pt⁩ و⁦Pd⁩ و⁦Rh⁩ و⁦Ir⁩ و⁦Ru⁩ و⁦Cu⁩ و⁦Zn⁩ و⁦Ni⁩؛ العيار ⁦9⁠–⁠24⁩ قيراطاً والنسبة المئوية"
+            },
+            "weight": {
+              "en": "1.5 kg",
+              "ar": "⁦1.5⁩ كجم"
+            },
+            "notes": {
+              "en": "~8 h battery",
+              "ar": "بطارية نحو ⁦8⁩ ساعات"
+            }
+          }
+        },
+        {
+          "code": "BX-0048-04-006",
+          "name": {
+            "en": "DW-8000",
+            "ar": "⁦DW-8000⁩"
+          },
+          "specs": {
+            "use": {
+              "en": "Gold & precious metals",
+              "ar": "الذهب والمعادن الثمينة"
+            },
+            "detector": {
+              "en": "Si-PIN, Peltier-cooled",
+              "ar": "⁦Si-PIN⁩ مبرّد بتأثير بلتييه"
+            },
+            "tube": {
+              "en": "35–50 kV, switchable targets",
+              "ar": "⁦35⁠–⁠50⁩ كيلوفولت، أهداف قابلة للتبديل"
+            },
+            "elements": {
+              "en": "Au, Pt, Ag, Pd, Rh, Ir and base metals",
+              "ar": "⁦Au⁩ و⁦Pt⁩ و⁦Ag⁩ و⁦Pd⁩ و⁦Rh⁩ و⁦Ir⁩ والمعادن الأساسية"
+            },
+            "weight": {
+              "en": "1.65 kg",
+              "ar": "⁦1.65⁩ كجم"
+            },
+            "notes": {
+              "en": "X-rays stop within 2 s without a sample",
+              "ar": "تتوقف الأشعة خلال ثانيتين دون عينة"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Mg–U",
+        "ar": "⁦Mg–U⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "جهاز واحد",
+          "جهازان",
+          "أجهزة"
+        ],
+        "en": [
+          "instrument",
+          "instruments"
+        ]
+      },
+      "keyRows": [
+        "use",
+        "elements",
+        "weight"
+      ]
+    }
+  ]
+}

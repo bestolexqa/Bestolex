@@ -1,0 +1,132 @@
+{
+  "id": "complete-gold-processing-plants",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-06 Ed7⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-06 Ed7 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Plant",
+    "ar": "المصنع"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "use",
+      "label": {
+        "en": "Ore and process",
+        "ar": "الخام والطريقة"
+      }
+    },
+    {
+      "key": "equipment",
+      "label": {
+        "en": "Main equipment",
+        "ar": "المعدات الرئيسية"
+      }
+    }
+  ],
+  "keyRows": [
+    "use",
+    "equipment"
+  ],
+  "types": [
+    {
+      "id": "plants",
+      "label": {
+        "en": "Complete gold processing plants",
+        "ar": "مصانع معالجة الذهب المتكاملة"
+      },
+      "models": [
+        {
+          "code": "BX-0016-01-032",
+          "name": {
+            "en": "Gravity plant",
+            "ar": "مصنع الفصل بالجاذبية"
+          },
+          "specs": {
+            "use": {
+              "en": "For free-milling gold: crushing, grinding, classification and shaking tables, with low running cost and no chemicals",
+              "ar": "للذهب الحر: تكسير وطحن وتصنيف وطاولات اهتزاز، بتكلفة تشغيل منخفضة وبلا كيماويات"
+            },
+            "equipment": {
+              "en": "Jaw crusher, vibrating feeder and conveyors, ball mill, spiral classifier, shaking tables",
+              "ar": "كسارة فكية، ومغذٍّ اهتزازي وسيور، وطاحونة كرات، ومصنّف حلزوني، وطاولات اهتزاز"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-029",
+          "name": {
+            "en": "CIL / CIP plant",
+            "ar": "مصنع ⁦CIL / CIP⁩"
+          },
+          "specs": {
+            "use": {
+              "en": "For fine and disseminated gold: leaching and carbon adsorption in the same tank train, then desorption, electrolysis and smelting",
+              "ar": "للذهب الناعم والمنتشر: الإذابة والامتزاز على الكربون في سلسلة الأحواض نفسها، ثم الاستخلاص والتحليل الكهربائي والصهر"
+            },
+            "equipment": {
+              "en": "Jaw crusher, vibrating screen, ball mill, hydrocyclone, thickener, leaching tanks, adsorption tanks, safety screens, desorption and electrolysis unit, filter press, melting furnace",
+              "ar": "كسارة فكية، وغربال اهتزازي، وطاحونة كرات، وهيدروسيكلون، ومكثّف، وأحواض إذابة، وأحواض امتزاز، وغرابيل أمان، ووحدة استخلاص وتحليل كهربائي، ومكبس ترشيح، وفرن صهر"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-030",
+          "name": {
+            "en": "Flotation plant",
+            "ar": "مصنع التعويم"
+          },
+          "specs": {
+            "use": {
+              "en": "For sulphide ores: grinding, conditioning with automatic reagent dosing and multi-stage flotation to a gold concentrate",
+              "ar": "للخامات الكبريتيدية: طحن، وتكييف بجرعات كواشف آلية، وتعويم متعدد المراحل حتى مركّز الذهب"
+            },
+            "equipment": {
+              "en": "Raw ore hopper, jaw and cone crushers, vibrating screen, belt conveyors, electromagnetic iron remover, vibrating feeder, energy-saving ball mill, hydrocyclone, agitation tanks, automatic reagent dosing, flotation machines, thickener, filter, dust collection for crushing and screening",
+              "ar": "قادوس الخام، وكسارتان فكية ومخروطية، وغربال اهتزازي، وسيور ناقلة، ومزيل حديد كهرومغناطيسي، ومغذٍّ اهتزازي، وطاحونة كرات موفرة للطاقة، وهيدروسيكلون، وأحواض تقليب، وجرعات كواشف آلية، وآلات تعويم، ومكثّف، ومرشح، وتجميع غبار للتكسير والغربلة"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Gravity, CIL / CIP, flotation",
+        "ar": "الجاذبية، ⁦CIL / CIP⁩، التعويم"
+      },
+      "countUnit": {
+        "ar": [
+          "نوع واحد",
+          "نوعان",
+          "أنواع"
+        ],
+        "en": [
+          "plant type",
+          "plant types"
+        ]
+      },
+      "intro": {
+        "en": "Plant capacity and flowsheet are designed after ore testing.",
+        "ar": "تُصمَّم طاقة المصنع ومخطط المعالجة بعد اختبار الخام."
+      }
+    }
+  ],
+  "countUnit": {
+    "ar": [
+      "نوع واحد",
+      "نوعان",
+      "أنواع"
+    ],
+    "en": [
+      "plant type",
+      "plant types"
+    ]
+  }
+}

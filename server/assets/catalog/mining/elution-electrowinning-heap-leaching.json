@@ -1,0 +1,336 @@
+{
+  "id": "elution-electrowinning-heap-leaching",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-06 Ed7⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-06 Ed7 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "scale",
+      "label": {
+        "en": "Mine scale (t/d)",
+        "ar": "حجم المنجم (طن/يوم)"
+      }
+    },
+    {
+      "key": "grade",
+      "label": {
+        "en": "Ore grade (g/t)",
+        "ar": "رتبة الخام (جم/طن)"
+      }
+    },
+    {
+      "key": "steps",
+      "label": {
+        "en": "Process",
+        "ar": "المراحل"
+      }
+    },
+    {
+      "key": "equipment",
+      "label": {
+        "en": "Circuit equipment",
+        "ar": "معدات الدائرة"
+      }
+    }
+  ],
+  "keyRows": [
+    "scale",
+    "grade",
+    "steps"
+  ],
+  "types": [
+    {
+      "id": "gkjd",
+      "label": {
+        "en": "GKJD elution & electrowinning sets",
+        "ar": "وحدات الاستخلاص والتحليل الكهربائي ⁦GKJD⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0028-01-035 / GKJD-200",
+          "name": {
+            "en": "GKJD-200",
+            "ar": "⁦GKJD-200⁩"
+          },
+          "specs": {
+            "scale": {
+              "en": "<150",
+              "ar": "⁦<150⁩"
+            },
+            "grade": {
+              "en": "2–8",
+              "ar": "⁦2–8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0028-01-035 / GKJD-300",
+          "name": {
+            "en": "GKJD-300",
+            "ar": "⁦GKJD-300⁩"
+          },
+          "specs": {
+            "scale": {
+              "en": "150–300",
+              "ar": "⁦150–300⁩"
+            },
+            "grade": {
+              "en": "2–8",
+              "ar": "⁦2–8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0028-01-035 / GKJD-500",
+          "name": {
+            "en": "GKJD-500",
+            "ar": "⁦GKJD-500⁩"
+          },
+          "specs": {
+            "scale": {
+              "en": "300–500",
+              "ar": "⁦300–500⁩"
+            },
+            "grade": {
+              "en": "2–8",
+              "ar": "⁦2–8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0028-01-035 / GKJD-700",
+          "name": {
+            "en": "GKJD-700",
+            "ar": "⁦GKJD-700⁩"
+          },
+          "specs": {
+            "scale": {
+              "en": "300–500",
+              "ar": "⁦300–500⁩"
+            },
+            "grade": {
+              "en": "2–8",
+              "ar": "⁦2–8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0028-01-035 / GKJD-1000",
+          "name": {
+            "en": "GKJD-1000",
+            "ar": "⁦GKJD-1000⁩"
+          },
+          "specs": {
+            "scale": {
+              "en": "500–1000",
+              "ar": "⁦500–1000⁩"
+            },
+            "grade": {
+              "en": "2–8",
+              "ar": "⁦2–8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0028-01-035 / GKJD-1500",
+          "name": {
+            "en": "GKJD-1500",
+            "ar": "⁦GKJD-1500⁩"
+          },
+          "specs": {
+            "scale": {
+              "en": "500–1000",
+              "ar": "⁦500–1000⁩"
+            },
+            "grade": {
+              "en": "2–8",
+              "ar": "⁦2–8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0028-01-035 / GKJD-2000",
+          "name": {
+            "en": "GKJD-2000",
+            "ar": "⁦GKJD-2000⁩"
+          },
+          "specs": {
+            "scale": {
+              "en": "1000–2000",
+              "ar": "⁦1000–2000⁩"
+            },
+            "grade": {
+              "en": "2–20",
+              "ar": "⁦2–20⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0028-01-035 / GKJD-2500",
+          "name": {
+            "en": "GKJD-2500",
+            "ar": "⁦GKJD-2500⁩"
+          },
+          "specs": {
+            "scale": {
+              "en": "1000–2000",
+              "ar": "⁦1000–2000⁩"
+            },
+            "grade": {
+              "en": "2–20",
+              "ar": "⁦2–20⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0028-01-035 / GKJD-3000",
+          "name": {
+            "en": "GKJD-3000",
+            "ar": "⁦GKJD-3000⁩"
+          },
+          "specs": {
+            "scale": {
+              "en": "1000–2000",
+              "ar": "⁦1000–2000⁩"
+            },
+            "grade": {
+              "en": "2–20",
+              "ar": "⁦2–20⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0028-01-035 / GKJD-3500",
+          "name": {
+            "en": "GKJD-3500",
+            "ar": "⁦GKJD-3500⁩"
+          },
+          "specs": {
+            "scale": {
+              "en": "2000–3000",
+              "ar": "⁦2000–3000⁩"
+            },
+            "grade": {
+              "en": "2–20",
+              "ar": "⁦2–20⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0028-01-035 / GKJD-4000",
+          "name": {
+            "en": "GKJD-4000",
+            "ar": "⁦GKJD-4000⁩"
+          },
+          "specs": {
+            "scale": {
+              "en": "2000–3000",
+              "ar": "⁦2000–3000⁩"
+            },
+            "grade": {
+              "en": "2–20",
+              "ar": "⁦2–20⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0028-01-035 / GKJD-5000",
+          "name": {
+            "en": "GKJD-5000",
+            "ar": "⁦GKJD-5000⁩"
+          },
+          "specs": {
+            "scale": {
+              "en": "2000–3000",
+              "ar": "⁦2000–3000⁩"
+            },
+            "grade": {
+              "en": "2–20",
+              "ar": "⁦2–20⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0028-01-035 / GKJD-8000",
+          "name": {
+            "en": "GKJD-8000",
+            "ar": "⁦GKJD-8000⁩"
+          },
+          "specs": {
+            "scale": {
+              "en": "3000–5000",
+              "ar": "⁦3000–5000⁩"
+            },
+            "grade": {
+              "en": "2–20",
+              "ar": "⁦2–20⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "<150–5000 t/d mines",
+        "ar": "مناجم <⁦150⁠–⁠5000⁩ طن/يوم"
+      },
+      "intro": {
+        "en": "Operating parameters: working temperature 150 ± 2 °C; solution (NaOH) pH ≥ 13.5; elution cell pressure 0.5 MPa; electrowinning cell pressure 0.45 MPa.",
+        "ar": "بيانات التشغيل: حرارة العمل ⁦150 ± 2 °⁩م؛ ودرجة ⁦pH⁩ للمحلول (⁦NaOH⁩) ‏≥ ⁦13.5⁩؛ وضغط خلية الاستخلاص ⁦0.5⁩ ميجاباسكال؛ وضغط خلية التحليل الكهربائي ⁦0.45⁩ ميجاباسكال."
+      },
+      "keyRows": [
+        "scale",
+        "grade"
+      ]
+    },
+    {
+      "id": "heap",
+      "label": {
+        "en": "Gold heap-leaching process (turnkey)",
+        "ar": "الإذابة الكومية للذهب (تسليم مفتاح)"
+      },
+      "models": [
+        {
+          "code": "BX-0028-01-047",
+          "name": {
+            "en": "Heap-leaching circuit",
+            "ar": "دائرة الإذابة الكومية"
+          },
+          "specs": {
+            "steps": {
+              "en": "Crushing (or agglomeration) of low-grade ore; stacking on an impermeable asphalt or plastic pad; dilute leaching solution sprayed over the heap; the gold-bearing solution pumped to carbon adsorption, then elution and electrowinning",
+              "ar": "تكسير الخام منخفض الرتبة (أو تكتيله)؛ ثم تكديسه على أرضية عازلة من الأسفلت أو البلاستيك؛ ثم رش محلول الإذابة المخفف فوق الكومة؛ ثم ضخ المحلول الحامل للذهب إلى أحواض الامتزاز على الكربون، ثم الاستخلاص والتحليل الكهربائي"
+            },
+            "equipment": {
+              "en": "Vibrating feeder, jaw and cone crushers, circular vibrating screen, belt conveyors, pregnant-solution pump, adsorption tanks with air lifters, carbon sieves and fine-carbon safety screen, spray pump",
+              "ar": "مغذٍّ اهتزازي، وكسارتان فكية ومخروطية، وغربال اهتزازي دائري، وسيور ناقلة، ومضخة المحلول الحامل، وأحواض امتزاز برافعات هوائية، ومناخل الكربون وغربال أمان للكربون الناعم، ومضخة رش"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ]
+}

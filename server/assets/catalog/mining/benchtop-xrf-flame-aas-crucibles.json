@@ -1,0 +1,182 @@
+{
+  "id": "benchtop-xrf-flame-aas-crucibles",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-09 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-09 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Model",
+    "ar": "الموديل"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "type",
+      "label": {
+        "en": "Type",
+        "ar": "النوع"
+      }
+    },
+    {
+      "key": "optics",
+      "label": {
+        "en": "Detector / optics",
+        "ar": "الكاشف / البصريات"
+      }
+    },
+    {
+      "key": "range",
+      "label": {
+        "en": "Range",
+        "ar": "المدى"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "type",
+    "optics",
+    "range"
+  ],
+  "types": [
+    {
+      "id": "models",
+      "label": {
+        "en": "Benchtop XRF, flame AAS and fire-assay crucibles – additional models",
+        "ar": "⁦XRF⁩ مكتبي ومطياف امتصاص ذري باللهب وبوتقات التحليل بالنار – موديلات إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0050-03-001",
+          "name": {
+            "en": "EDX3600H",
+            "ar": "EDX3600H"
+          },
+          "specs": {
+            "type": {
+              "en": "Benchtop EDXRF mineral analyzer (vacuum)",
+              "ar": "محلل خامات ⁦EDXRF⁩ مكتبي (تفريغ)"
+            },
+            "optics": {
+              "en": "SDD; thin-window tube 5–50 kV, 50–1000 µA",
+              "ar": "⁦SDD⁩؛ أنبوب بنافذة رقيقة ⁦5⁠–⁠50⁩ كيلوفولت، ⁦50⁠–⁠1000⁩ ميكروأمبير"
+            },
+            "range": {
+              "en": "Na–U; ppm–99.99%",
+              "ar": "⁦Na–U⁩؛ ‏⁦ppm–99.99%⁩"
+            },
+            "data": {
+              "en": "Ore grade checks; vacuum pump for light elements; auto collimators and filters; camera; 60–200 s; chamber 320 × 100 mm",
+              "ar": "فحص رتبة الخام؛ مضخة تفريغ للعناصر الخفيفة؛ مسدّدات ومرشحات آلية؛ كاميرا؛ ⁦60⁠–⁠200⁩ ثانية؛ حجرة ⁦320 × 100⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0050-04-001",
+          "name": {
+            "en": "EDX6000C",
+            "ar": "EDX6000C"
+          },
+          "specs": {
+            "type": {
+              "en": "Benchtop EDXRF spectrometer",
+              "ar": "مطياف ⁦EDXRF⁩ مكتبي"
+            },
+            "optics": {
+              "en": "SDD ≤ 129 eV; tube 5–50 kV, 0–1000 µA",
+              "ar": "⁦SDD ≤ 129⁩ إلكترون فولت؛ أنبوب ⁦5⁠–⁠50⁩ كيلوفولت، ⁦0⁠–⁠1000⁩ ميكروأمبير"
+            },
+            "range": {
+              "en": "F–U; ppm–99.99%",
+              "ar": "⁦F–U⁩؛ ‏⁦ppm–99.99%⁩"
+            },
+            "data": {
+              "en": "Single chamber or 9 / 12 / 20-sample changer; vacuum for powders, helium for liquids; detection limit to 0.2 ppm; 646 × 578 × 388 mm, 85 kg",
+              "ar": "حجرة واحدة أو مبدّل ⁦9 / 12 / 20⁩ عينة؛ تفريغ للمساحيق وهيليوم للسوائل؛ حد كشف حتى ⁦0.2 ppm⁩؛ ⁦646 × 578 × 388⁩ مم، ⁦85⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0050-01-001",
+          "name": {
+            "en": "AAS6000",
+            "ar": "AAS6000"
+          },
+          "specs": {
+            "type": {
+              "en": "Flame atomic absorption spectrometer",
+              "ar": "مطياف امتصاص ذري باللهب"
+            },
+            "optics": {
+              "en": "350 mm monochromator, 1800 l/mm grating",
+              "ar": "مقياس أحادي اللون ⁦350⁩ مم، محزز ⁦1800⁩ خط/مم"
+            },
+            "range": {
+              "en": "190–900 nm",
+              "ar": "⁦190⁠–⁠900⁩ نانومتر"
+            },
+            "data": {
+              "en": "8-lamp turret; air-acetylene and nitrous oxide-acetylene flame; D2 and self-reversal background correction; slit 0.1–1.4 nm; 68 elements",
+              "ar": "برج ⁦8⁩ مصابيح؛ لهب هواء-أسيتيلين وأكسيد النيتروز-أسيتيلين؛ تصحيح الخلفية بالديوتيريوم والانعكاس الذاتي؛ شق ⁦0.1⁠–⁠1.4⁩ نانومتر؛ ⁦68⁩ عنصراً"
+            }
+          }
+        },
+        {
+          "code": "BX-0046-04-001",
+          "name": {
+            "en": "Fire-clay crucibles",
+            "ar": "بوتقات طينية"
+          },
+          "specs": {
+            "type": {
+              "en": "Fire-assay crucibles",
+              "ar": "بوتقات التحليل بالنار"
+            },
+            "optics": {
+              "en": "Fire clay",
+              "ar": "طين حراري"
+            },
+            "range": {
+              "en": "30 g, 40 g",
+              "ar": "⁦30⁩ و⁦40⁩ جم"
+            },
+            "data": {
+              "en": "For fusion in fire assay",
+              "ar": "للصهر في التحليل بالنار"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      },
+      "keyRows": [
+        "type",
+        "range",
+        "data"
+      ]
+    }
+  ]
+}

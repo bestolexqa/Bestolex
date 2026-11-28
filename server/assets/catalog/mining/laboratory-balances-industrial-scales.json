@@ -1,0 +1,304 @@
+{
+  "id": "laboratory-balances-industrial-scales",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-09 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-09 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Laboratory balances and industrial scales",
+        "ar": "موازين المختبر والموازين الصناعية"
+      },
+      "models": [
+        {
+          "code": "BX-0456-01-001",
+          "name": {
+            "en": "Analytical and precision balances, WT-G series",
+            "ar": "موازين تحليلية ودقيقة، سلسلة ⁦WT-G⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "FA604–FA3004, WT2003GH–WT20003GH, WT1003G–WT5003G, WT2002G–WT100002G, WT60001GF–WT15000GF",
+              "ar": "⁦FA604–FA3004, WT2003GH–WT20003GH, WT1003G–WT5003G, WT2002G–WT100002G, WT60001GF–WT15000GF⁩"
+            },
+            "data": {
+              "en": "60 g to 15 kg; 0.1 mg to 1 g; electromagnetic (FA) or load cell; internal or external calibration; RS232",
+              "ar": "⁦60⁩ جم إلى ⁦15⁩ كجم؛ ⁦0.1⁩ ملغ إلى ⁦1⁩ جم؛ كهرومغناطيسي (⁦FA⁩) أو خلية حمل؛ معايرة داخلية أو خارجية؛ ⁦RS232⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-002",
+          "name": {
+            "en": "0.01 mg semi-micro balances",
+            "ar": "موازين شبه دقيقة ⁦0.01⁩ ملغ"
+          },
+          "specs": {
+            "models": {
+              "en": "ES1035B(A), ES1055B(A), ES1085B(A), ES2035B(A), ES2055B(A), ES2085B(A)",
+              "ar": "⁦ES1035B(A), ES1055B(A), ES1085B(A), ES2035B(A), ES2055B(A), ES2085B(A)⁩"
+            },
+            "data": {
+              "en": "120/31 g to 210/82 g; 0.1 / 0.01 mg; internal (A) or external (B) calibration; Ø90 mm pan",
+              "ar": "⁦120/31⁩ جم إلى ⁦210/82⁩ جم؛ ⁦0.1 / 0.01⁩ ملغ؛ معايرة داخلية (⁦A⁩) أو خارجية (⁦B⁩)؛ كفة قطر ⁦90⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-003",
+          "name": {
+            "en": "Auto internal-calibration balances",
+            "ar": "موازين بمعايرة داخلية آلية"
+          },
+          "specs": {
+            "models": {
+              "en": "JA6003N, JA10003N, FA1204N, FA2204N, FA3204N",
+              "ar": "⁦JA6003N, JA10003N, FA1204N, FA2204N, FA3204N⁩"
+            },
+            "data": {
+              "en": "120–320 g at 0.1 mg; 600–1000 g at 1 mg",
+              "ar": "⁦120⁠–⁠320⁩ جم بدقة ⁦0.1⁩ ملغ؛ ⁦600⁠–⁠1000⁩ جم بدقة ⁦1⁩ ملغ"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-004",
+          "name": {
+            "en": "Precision balances, WT-CH",
+            "ar": "موازين دقيقة، ⁦WT-CH⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "WT603CH to WT5003CH",
+              "ar": "⁦WT603CH⁩ إلى ⁦WT5003CH⁩"
+            },
+            "data": {
+              "en": "60–500 g at 1 mg; glass draft shield; RS232 / 485 / USB",
+              "ar": "⁦60⁠–⁠500⁩ جم بدقة ⁦1⁩ ملغ؛ واقٍ زجاجي من التيار الهوائي؛ ⁦RS232 / 485 / USB⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-005",
+          "name": {
+            "en": "Large-capacity precision balances, WT-CF",
+            "ar": "موازين دقيقة كبيرة السعة، ⁦WT-CF⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "WT10002CF to WT50002CF",
+              "ar": "⁦WT10002CF⁩ إلى ⁦WT50002CF⁩"
+            },
+            "data": {
+              "en": "1–5 kg at 0.01 g; Ø160 mm stainless pan; counting, % and dynamic weighing",
+              "ar": "⁦1⁠–⁠5⁩ كجم بدقة ⁦0.01⁩ جم؛ كفة ستانلس قطر ⁦160⁩ مم؛ العدّ والنسبة المئوية والوزن الديناميكي"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-006",
+          "name": {
+            "en": "Classic electronic balances, WT-N",
+            "ar": "موازين إلكترونية كلاسيكية، ⁦WT-N⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "WT603N–WT5003N, WT1002N–WT10002N, WT3001N–WT10001N, WT20001NF–WT50001NF",
+              "ar": "⁦WT603N–WT5003N, WT1002N–WT10002N, WT3001N–WT10001N, WT20001NF–WT50001NF⁩"
+            },
+            "data": {
+              "en": "60 g to 5 kg; 1 mg, 0.01 g or 0.1 g; below-hook weighing for density",
+              "ar": "⁦60⁩ جم إلى ⁦5⁩ كجم؛ ⁦1⁩ ملغ أو ⁦0.01⁩ جم أو ⁦0.1⁩ جم؛ وزن بخطاف سفلي لقياس الكثافة"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-007",
+          "name": {
+            "en": "Economy electronic balances, WT(B)-K",
+            "ar": "موازين إلكترونية اقتصادية، ⁦WT(B)-K⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "WT(B)603K–5003K, 1002K–20002K, 3001K–10001K, 20001KF–10001KF, 1000KF",
+              "ar": "⁦WT(B)603K–5003K, 1002K–20002K, 3001K–10001K, 20001KF–10001KF, 1000KF⁩"
+            },
+            "data": {
+              "en": "60 g to 10 kg; 1 mg to 1 g; LCD (WT) or LED (WTB)",
+              "ar": "⁦60⁩ جم إلى ⁦10⁩ كجم؛ ⁦1⁩ ملغ إلى ⁦1⁩ جم؛ شاشة ⁦LCD⁩ ‏(⁦WT⁩) أو ⁦LED⁩ ‏(⁦WTB⁩)"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-008",
+          "name": {
+            "en": "Double-display balances, WT-A",
+            "ar": "موازين بشاشتين، ⁦WT-A⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "WT1002A–WT10002A, WT3001AF–WT20001AF",
+              "ar": "⁦WT1002A–WT10002A, WT3001AF–WT20001AF⁩"
+            },
+            "data": {
+              "en": "100 g to 2 kg; 0.01 or 0.1 g; front and rear displays",
+              "ar": "⁦100⁩ جم إلى ⁦2⁩ كجم؛ ⁦0.01⁩ أو ⁦0.1⁩ جم؛ شاشتان أمامية وخلفية"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-009",
+          "name": {
+            "en": "Bench counting balances, WT-X",
+            "ar": "موازين عدّ منضدية، ⁦WT-X⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "WT64X–WT304X, WT63X–WT303X",
+              "ar": "⁦WT64X–WT304X, WT63X–WT303X⁩"
+            },
+            "data": {
+              "en": "6–30 kg; 0.1 or 1 g; stainless 25×19 cm pan",
+              "ar": "⁦6⁠–⁠30⁩ كجم؛ ⁦0.1⁩ أو ⁦1⁩ جم؛ كفة ستانلس ⁦25×19⁩ سم"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-017",
+          "name": {
+            "en": "Large-pan bench balances, WT-Y(C)",
+            "ar": "موازين منضدية بكفة كبيرة، ⁦WT-Y(C⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "WT203Y(C)–WT404Y(C)",
+              "ar": "⁦WT203Y(C)–WT404Y(C)⁩"
+            },
+            "data": {
+              "en": "20–40 kg; 1 or 0.1 g; 25×36 cm stainless pan",
+              "ar": "⁦20⁠–⁠40⁩ كجم؛ ⁦1⁩ أو ⁦0.1⁩ جم؛ كفة ستانلس ⁦25×36⁩ سم"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-018",
+          "name": {
+            "en": "Waterproof bench scales",
+            "ar": "موازين منضدية مقاومة للماء"
+          },
+          "specs": {
+            "models": {
+              "en": "WT31WP, WT62WP, WT155WP",
+              "ar": "⁦WT31WP, WT62WP, WT155WP⁩"
+            },
+            "data": {
+              "en": "3–15 kg; stainless 304; IP68; 17.5×21 cm pan",
+              "ar": "⁦3⁠–⁠15⁩ كجم؛ ستانلس ⁦304⁩؛ ⁦IP68⁩؛ كفة ⁦17.5×21⁩ سم"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-010",
+          "name": {
+            "en": "Split bench scales, WT-B and WT-LB",
+            "ar": "موازين منضدية بمؤشر منفصل، ⁦WT-B⁩ و⁦WT-LB⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "WT64B–WT304B, WT63B–WT303B, WT104LB–WT304LB, WT603LB–WT1503LB",
+              "ar": "⁦WT64B–WT304B, WT63B–WT303B, WT104LB–WT304LB, WT603LB–WT1503LB⁩"
+            },
+            "data": {
+              "en": "6–150 kg; separate indicator",
+              "ar": "⁦6⁠–⁠150⁩ كجم؛ مؤشر منفصل"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-011",
+          "name": {
+            "en": "Platform scales, WT-L",
+            "ar": "موازين منصة، ⁦WT-L⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "WT603L–WT1503L, WT602L–WT3002L",
+              "ar": "⁦WT603L–WT1503L, WT602L–WT3002L⁩"
+            },
+            "data": {
+              "en": "60–300 kg; 1 or 10 g; 50×40 cm platform; column indicator; battery; optional wheels",
+              "ar": "⁦60⁠–⁠300⁩ كجم؛ ⁦1⁩ أو ⁦10⁩ جم؛ منصة ⁦50×40⁩ سم؛ مؤشر على عمود؛ بطارية؛ عجلات اختيارية"
+            }
+          }
+        },
+        {
+          "code": "BX-0456-01-012",
+          "name": {
+            "en": "Electronic floor scales, WT-D",
+            "ar": "موازين أرضية إلكترونية، ⁦WT-D⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "WT10002D, WT20001D, WT30001D",
+              "ar": "⁦WT10002D, WT20001D, WT30001D⁩"
+            },
+            "data": {
+              "en": "1–3 t; 100×100 cm platform",
+              "ar": "⁦1⁠–⁠3⁩ طن؛ منصة ⁦100×100⁩ سم"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "31 g–3 t",
+        "ar": "⁦31⁩ جم–⁦3⁩ طن"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}
