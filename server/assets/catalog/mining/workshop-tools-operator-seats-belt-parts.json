@@ -1,0 +1,358 @@
+{
+  "id": "workshop-tools-operator-seats-belt-parts",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-10 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-10 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "tools",
+      "label": {
+        "en": "Workshop tools",
+        "ar": "عدد الورشة"
+      },
+      "models": [
+        {
+          "code": "BX-0711-01-008",
+          "name": {
+            "en": "Straight air drills",
+            "ar": "مثاقب هوائية مستقيمة"
+          },
+          "specs": {
+            "models": {
+              "en": "PS-L35T6 / T8 / T10, PS-L35A, PS-950 series",
+              "ar": "⁦PS-L35T6 / T8 / T10, PS-L35A, PS-950 series⁩"
+            },
+            "data": {
+              "en": "Chuck 6–10 mm (3/8–1/2 in); 700–35,000 r/min; 0.72–1.4 kg",
+              "ar": "ظرف ⁦6⁠–⁠10⁩ مم (⁦3/8⁠–⁠1/2⁩ بوصة)؛ ⁦700⁠–⁠35,000⁩ دورة/دقيقة؛ ⁦0.72⁠–⁠1.4⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0711-01-009",
+          "name": {
+            "en": "Pistol air drills",
+            "ar": "مثاقب هوائية مسدسية"
+          },
+          "specs": {
+            "models": {
+              "en": "PS-750T6 / T8 / T10, PS-750A and PS-750S series",
+              "ar": "⁦PS-750T6 / T8 / T10, PS-750A and PS-750S series⁩"
+            },
+            "data": {
+              "en": "Chuck 6–10 mm; 700–18,000 r/min; 0.75–1.15 kg",
+              "ar": "ظرف ⁦6⁠–⁠10⁩ مم؛ ⁦700⁠–⁠18,000⁩ دورة/دقيقة؛ ⁦0.75⁠–⁠1.15⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0711-01-010",
+          "name": {
+            "en": "Angle air drills",
+            "ar": "مثاقب هوائية زاوية"
+          },
+          "specs": {
+            "models": {
+              "en": "PS-550P45RB, PS-550P36RB, PS-550P20RB, PS-550P07RB",
+              "ar": "⁦PS-550P45RB, PS-550P36RB, PS-550P20RB, PS-550P07RB⁩"
+            },
+            "data": {
+              "en": "1/4 in-28 UNF head; 700–4500 r/min; 1.35–1.65 kg; for tight spaces",
+              "ar": "رأس ⁦1/4⁩ بوصة-⁦28 UNF⁩؛ ⁦700⁠–⁠4500⁩ دورة/دقيقة؛ ⁦1.35⁠–⁠1.65⁩ كجم؛ للأماكن الضيقة"
+            }
+          }
+        },
+        {
+          "code": "BX-0711-01-011",
+          "name": {
+            "en": "Air belt sanders",
+            "ar": "صنفرة هوائية بالسير"
+          },
+          "specs": {
+            "models": {
+              "en": "PS-10330, PS-20520, PS-30540, PS-6330A, PS-10330A, PS-20520A, PS-13457A, PS-13610A, PS-25260, PS-60260, PS-100260, PS-60260A",
+              "ar": "⁦PS-10330, PS-20520, PS-30540, PS-6330A, PS-10330A, PS-20520A, PS-13457A, PS-13610A, PS-25260, PS-60260, PS-100260, PS-60260A⁩"
+            },
+            "data": {
+              "en": "Belts 6×330 to 100×260 mm; 240 W; 7000–18,000 r/min",
+              "ar": "سيور ⁦6×330⁩ إلى ⁦100×260⁩ مم؛ ⁦240⁩ واط؛ ⁦7000⁠–⁠18,000⁩ دورة/دقيقة"
+            }
+          }
+        },
+        {
+          "code": "BX-0711-01-015",
+          "name": {
+            "en": "Air angle grinders",
+            "ar": "جلاخات زاوية هوائية"
+          },
+          "specs": {
+            "models": {
+              "en": "PS-2D-1, PS-2D-1F, PS-2D-1K, PS-2D-1KL, PS-180, PS-180F, PS-180L, PS-3D-1, PS-3D-2, PS-4CH-1, PS-4CH-2",
+              "ar": "⁦PS-2D-1, PS-2D-1F, PS-2D-1K, PS-2D-1KL, PS-180, PS-180F, PS-180L, PS-3D-1, PS-3D-2, PS-4CH-1, PS-4CH-2⁩"
+            },
+            "data": {
+              "en": "Discs 50, 75 / 100, 100 / 125 mm; 290–1100 W; 10,900–15,000 r/min",
+              "ar": "أقراص ⁦50⁩ و⁦75 / 100⁩ و⁦100 / 125⁩ مم؛ ⁦290⁠–⁠1100⁩ واط؛ ⁦10,900⁠–⁠15,000⁩ دورة/دقيقة"
+            }
+          }
+        },
+        {
+          "code": "BX-0711-01-018",
+          "name": {
+            "en": "Air die grinders",
+            "ar": "جلاخات هوائية للقوالب"
+          },
+          "specs": {
+            "models": {
+              "en": "PS-05-1F, PS-10-1F, PS-380, PS-480MT, PS-20H-2, PS-13-2, PS-26-20, PS-26-20F, PS-26-20L, PS-26-20LF",
+              "ar": "⁦PS-05-1F, PS-10-1F, PS-380, PS-480MT, PS-20H-2, PS-13-2, PS-26-20, PS-26-20F, PS-26-20L, PS-26-20LF⁩"
+            },
+            "data": {
+              "en": "Collet 3 and 6 mm; 20,000–30,000 r/min; 0.35–1.06 kg",
+              "ar": "ظرف ⁦3⁩ و⁦6⁩ مم؛ ⁦20,000⁠–⁠30,000⁩ دورة/دقيقة؛ ⁦0.35⁠–⁠1.06⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0711-01-020",
+          "name": {
+            "en": "Air impact wrench",
+            "ar": "مفتاح صدم هوائي"
+          },
+          "specs": {
+            "models": {
+              "en": "PS-D800P",
+              "ar": "⁦PS-D800P⁩"
+            },
+            "data": {
+              "en": "Bolts to 22 mm; 3/8 and 1/2 in square drive; 500 N·m; 1.4 kg",
+              "ar": "براغي حتى ⁦22⁩ مم؛ مربع ⁦3/8⁩ و⁦1/2⁩ بوصة؛ ⁦500⁩ نيوتن·م؛ ⁦1.4⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0529-01-011",
+          "name": {
+            "en": "Petrol high-pressure washers",
+            "ar": "غسالات ضغط عالٍ بالبنزين"
+          },
+          "specs": {
+            "models": {
+              "en": "YLHPW190, YLHTP200",
+              "ar": "⁦YLHPW190, YLHTP200⁩"
+            },
+            "data": {
+              "en": "190 and 200 bar; 9 L/min; 212 cm³ petrol engine; 30–34 kg",
+              "ar": "⁦190⁩ و⁦200⁩ بار؛ ⁦9⁩ لتر/دقيقة؛ محرك بنزين ⁦212⁩ سم³؛ ⁦30⁠–⁠34⁩ كجم"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    },
+    {
+      "id": "seats",
+      "label": {
+        "en": "Operator seats and engine belt parts",
+        "ar": "مقاعد المشغلين وقطع سيور المحركات"
+      },
+      "models": [
+        {
+          "code": "BX-0119-01-001",
+          "name": {
+            "en": "Operator seats, mechanical suspension",
+            "ar": "مقاعد مشغلين بتعليق ميكانيكي"
+          },
+          "specs": {
+            "models": {
+              "en": "KL02, KL02.10",
+              "ar": "⁦KL02, KL02.10⁩"
+            },
+            "data": {
+              "en": "Fore-aft travel 190 mm; 50–130 kg occupants; 70 mm suspension stroke; PVC or fabric",
+              "ar": "حركة أمامية خلفية ⁦190⁩ مم؛ لمستخدمين ⁦50⁠–⁠130⁩ كجم؛ شوط تعليق ⁦70⁩ مم؛ ⁦PVC⁩ أو قماش"
+            }
+          }
+        },
+        {
+          "code": "BX-0119-01-002",
+          "name": {
+            "en": "Heavy-duty operator seat",
+            "ar": "مقعد مشغل للخدمة الشاقة"
+          },
+          "specs": {
+            "models": {
+              "en": "YS15",
+              "ar": "YS15"
+            },
+            "data": {
+              "en": "Travel 176 mm; 50–130 kg; 40–110 mm stroke; options: air suspension, 360° swivel, armrest controls, heater",
+              "ar": "حركة ⁦176⁩ مم؛ ⁦50⁠–⁠130⁩ كجم؛ شوط ⁦40⁠–⁠110⁩ مم؛ خيارات: تعليق هوائي ودوران ⁦360°⁩ وأدوات تحكم في المسند وتدفئة"
+            }
+          }
+        },
+        {
+          "code": "BX-0119-01-003",
+          "name": {
+            "en": "Compact machine seats",
+            "ar": "مقاعد للمعدات الصغيرة"
+          },
+          "specs": {
+            "models": {
+              "en": "YS2-8, KL10",
+              "ar": "⁦YS2-8, KL10⁩"
+            },
+            "data": {
+              "en": "50–120 kg occupants; stroke 40–110 mm (YS2-8) or 50 mm (KL10)",
+              "ar": "لمستخدمين ⁦50⁠–⁠120⁩ كجم؛ شوط ⁦40⁠–⁠110⁩ مم (⁦YS2-8⁩) أو ⁦50⁩ مم (⁦KL10⁩)"
+            }
+          }
+        },
+        {
+          "code": "BX-0119-01-006",
+          "name": {
+            "en": "Air-suspension seats with 24 V compressor",
+            "ar": "مقاعد بتعليق هوائي وضاغط ⁦24⁩ فولت"
+          },
+          "specs": {
+            "models": {
+              "en": "KL03, YJ03",
+              "ar": "⁦KL03, YJ03⁩"
+            },
+            "data": {
+              "en": "KL03: 150 mm air stroke, 50–150 kg; YJ03: 80 mm air stroke, 50–130 kg; heater and head rest options",
+              "ar": "⁦KL03⁩: شوط هوائي ⁦150⁩ مم، ⁦50⁠–⁠150⁩ كجم؛ ⁦YJ03⁩: شوط هوائي ⁦80⁩ مم، ⁦50⁠–⁠130⁩ كجم؛ خيارات تدفئة ومسند رأس"
+            }
+          }
+        },
+        {
+          "code": "BX-0119-01-008",
+          "name": {
+            "en": "Seat suspension units",
+            "ar": "وحدات تعليق المقاعد"
+          },
+          "specs": {
+            "models": {
+              "en": "J03, J0303, J07, J08, J11, J0301, J0308, J12",
+              "ar": "⁦J03, J0303, J07, J08, J11, J0301, J0308, J12⁩"
+            },
+            "data": {
+              "en": "Mechanical and air suspension units for operator seats",
+              "ar": "وحدات تعليق ميكانيكية وهوائية لمقاعد المشغلين"
+            }
+          }
+        },
+        {
+          "code": "BX-0119-01-010",
+          "name": {
+            "en": "Operator seat belts",
+            "ar": "أحزمة مقاعد المشغلين"
+          },
+          "specs": {
+            "models": {
+              "en": "A01, A02, A03, A21",
+              "ar": "⁦A01, A02, A03, A21⁩"
+            },
+            "data": {
+              "en": "Seat belts for machine operator seats",
+              "ar": "أحزمة أمان لمقاعد مشغلي المعدات"
+            }
+          }
+        },
+        {
+          "code": "BX-0475-02-003",
+          "name": {
+            "en": "Machine engine belt tensioners",
+            "ar": "شدّادات سيور محركات المعدات"
+          },
+          "specs": {
+            "models": {
+              "en": "About 12 parts with OE numbers",
+              "ar": "نحو ⁦12⁩ قطعة بأرقام القطع الأصلية"
+            },
+            "data": {
+              "en": "Backhoe, excavator and tractor engines; match by OE number on request",
+              "ar": "محركات الحفارات اللودرية والحفارات والجرارات؛ المطابقة برقم القطعة الأصلية عند الطلب"
+            }
+          }
+        },
+        {
+          "code": "BX-0475-02-004",
+          "name": {
+            "en": "Truck engine belt tensioners",
+            "ar": "شدّادات سيور محركات الشاحنات"
+          },
+          "specs": {
+            "models": {
+              "en": "About 10 parts with OE numbers",
+              "ar": "نحو ⁦10⁩ قطع بأرقام القطع الأصلية"
+            },
+            "data": {
+              "en": "Heavy-truck diesel engines; match by OE number on request",
+              "ar": "محركات ديزل الشاحنات الثقيلة؛ المطابقة برقم القطعة الأصلية عند الطلب"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "50–150 kg",
+        "ar": "⁦50⁠–⁠150⁩ كجم"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ]
+}

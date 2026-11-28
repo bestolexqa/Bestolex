@@ -1,0 +1,322 @@
+{
+  "id": "solid-industrial-skid-steer-tyres",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-10 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-10 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "solid",
+      "label": {
+        "en": "Solid forklift & industrial tyres",
+        "ar": "إطارات صلبة للرافعات الشوكية والمركبات الصناعية"
+      },
+      "models": [
+        {
+          "code": "BX-0290-01-024",
+          "name": {
+            "en": "Solid forklift tyre",
+            "ar": "إطار صلب للرافعات الشوكية"
+          },
+          "specs": {
+            "models": {
+              "en": "SH268 A: 8.25-15 and other sizes",
+              "ar": "⁦SH268 A⁩: ‏⁦8.25-15⁩ ومقاسات أخرى"
+            },
+            "data": {
+              "en": "Press-on / pneumatic-shaped solid tyre",
+              "ar": "إطار صلب بالضغط أو بشكل الإطار الهوائي"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-025",
+          "name": {
+            "en": "Solid forklift tyre",
+            "ar": "إطار صلب للرافعات الشوكية"
+          },
+          "specs": {
+            "models": {
+              "en": "SH268 B: 4.00-8, 21x8-9 and other sizes",
+              "ar": "⁦SH268 B⁩: ‏⁦4.00-8⁩ و⁦21x8-9⁩ ومقاسات أخرى"
+            },
+            "data": {
+              "en": "Solid tyre",
+              "ar": "إطار صلب"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-026",
+          "name": {
+            "en": "Solid forklift tyre",
+            "ar": "إطار صلب للرافعات الشوكية"
+          },
+          "specs": {
+            "models": {
+              "en": "SH268 C: 5.00-8, 8.15-15, 28x9-15 and other sizes",
+              "ar": "⁦SH268 C⁩: ‏⁦5.00-8⁩ و⁦8.15-15⁩ و⁦28x9-15⁩ ومقاسات أخرى"
+            },
+            "data": {
+              "en": "Solid tyre",
+              "ar": "إطار صلب"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-027",
+          "name": {
+            "en": "Solid forklift tyre",
+            "ar": "إطار صلب للرافعات الشوكية"
+          },
+          "specs": {
+            "models": {
+              "en": "SH278: 5.00-8, 6.00-9, 7.00-9, 6.50-10, 7.00-12, 8.25-12, 7.00-15, 7.50-15, 28x9-15, 8.25-15",
+              "ar": "⁦SH278: 5.00-8, 6.00-9, 7.00-9, 6.50-10, 7.00-12, 8.25-12, 7.00-15, 7.50-15, 28x9-15, 8.25-15⁩"
+            },
+            "data": {
+              "en": "Solid tyre",
+              "ar": "إطار صلب"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-028",
+          "name": {
+            "en": "Solid industrial tyre",
+            "ar": "إطار صناعي صلب"
+          },
+          "specs": {
+            "models": {
+              "en": "SH288: 10.00-20, 12.00-20",
+              "ar": "⁦SH288: 10.00-20, 12.00-20⁩"
+            },
+            "data": {
+              "en": "Heavy forklifts, port and industrial vehicles",
+              "ar": "للرافعات الشوكية الثقيلة ومركبات الموانئ والمصانع"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-029",
+          "name": {
+            "en": "Solid forklift tyre",
+            "ar": "إطار صلب للرافعات الشوكية"
+          },
+          "specs": {
+            "models": {
+              "en": "SH298: 5.00-8, 6.00-9, 6.50-10, 7.00-12, 7.00-15, 7.50-15, 7.50-16, 8.25-15, 18x7-8, 23x10-12, 28x9-15",
+              "ar": "⁦SH298: 5.00-8, 6.00-9, 6.50-10, 7.00-12, 7.00-15, 7.50-15, 7.50-16, 8.25-15, 18x7-8, 23x10-12, 28x9-15⁩"
+            },
+            "data": {
+              "en": "Solid tyre",
+              "ar": "إطار صلب"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Solid",
+        "ar": "صلبة"
+      },
+      "countUnit": {
+        "ar": [
+          "نقشة واحدة",
+          "نقشتان",
+          "نقشات"
+        ],
+        "en": [
+          "tyre line",
+          "tyre lines"
+        ]
+      }
+    },
+    {
+      "id": "skid",
+      "label": {
+        "en": "Skid steer loader tyres",
+        "ar": "إطارات اللوادر الانزلاقية"
+      },
+      "models": [
+        {
+          "code": "BX-0290-01-030",
+          "name": {
+            "en": "Skid steer loader tyre, SKS-1",
+            "ar": "إطار لودر انزلاقي ⁦SKS-1⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH231: 10-16.5",
+              "ar": "⁦SH231: 10-16.5⁩"
+            },
+            "data": {
+              "en": "Bias",
+              "ar": "عادي (⁦Bias⁩)"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-031",
+          "name": {
+            "en": "Skid steer loader tyre, SKS-2",
+            "ar": "إطار لودر انزلاقي ⁦SKS-2⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH232: 10-16.5, 12-16.5",
+              "ar": "⁦SH232: 10-16.5, 12-16.5⁩"
+            },
+            "data": {
+              "en": "Bias",
+              "ar": "عادي (⁦Bias⁩)"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-032",
+          "name": {
+            "en": "Skid steer loader tyre, SKS-4",
+            "ar": "إطار لودر انزلاقي ⁦SKS-4⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH234: 10-16.5, 12-16.5",
+              "ar": "⁦SH234: 10-16.5, 12-16.5⁩"
+            },
+            "data": {
+              "en": "Bias",
+              "ar": "عادي (⁦Bias⁩)"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-033",
+          "name": {
+            "en": "Skid steer loader tyre, SKS-L5",
+            "ar": "إطار لودر انزلاقي ⁦SKS-L5⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH235: 10-16.5, 12-16.5",
+              "ar": "⁦SH235: 10-16.5, 12-16.5⁩"
+            },
+            "data": {
+              "en": "Bias; deep tread",
+              "ar": "عادي؛ نقشة عميقة"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-034",
+          "name": {
+            "en": "Skid steer loader tyre, SKS-5",
+            "ar": "إطار لودر انزلاقي ⁦SKS-5⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH236: 10-16.5, 12-16.5, 12.5/80-18",
+              "ar": "⁦SH236: 10-16.5, 12-16.5, 12.5/80-18⁩"
+            },
+            "data": {
+              "en": "Bias",
+              "ar": "عادي (⁦Bias⁩)"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-035",
+          "name": {
+            "en": "Skid steer / loader tyre, G-2/L-2",
+            "ar": "إطار لودر انزلاقي / لودر ⁦G-2/L-2⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH237: 10-16.5, 12-16.5, 15-19.5",
+              "ar": "⁦SH237: 10-16.5, 12-16.5, 15-19.5⁩"
+            },
+            "data": {
+              "en": "Bias",
+              "ar": "عادي (⁦Bias⁩)"
+            }
+          }
+        },
+        {
+          "code": "BX-0290-01-036",
+          "name": {
+            "en": "Skid steer / loader tyre, G-2/L-2",
+            "ar": "إطار لودر انزلاقي / لودر ⁦G-2/L-2⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SH239: 14-17.5",
+              "ar": "⁦SH239: 14-17.5⁩"
+            },
+            "data": {
+              "en": "Bias",
+              "ar": "عادي (⁦Bias⁩)"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "SKS-1 to SKS-5",
+        "ar": "⁦SKS-1⁩ إلى ⁦SKS-5⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "نقشة واحدة",
+          "نقشتان",
+          "نقشات"
+        ],
+        "en": [
+          "tyre line",
+          "tyre lines"
+        ]
+      }
+    }
+  ],
+  "countUnit": {
+    "ar": [
+      "نقشة واحدة",
+      "نقشتان",
+      "نقشات"
+    ],
+    "en": [
+      "tyre line",
+      "tyre lines"
+    ]
+  }
+}

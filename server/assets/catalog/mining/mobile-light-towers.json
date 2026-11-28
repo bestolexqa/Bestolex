@@ -1,0 +1,390 @@
+{
+  "id": "mobile-light-towers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-10 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-10 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "type",
+      "label": {
+        "en": "Type",
+        "ar": "النوع"
+      }
+    },
+    {
+      "key": "engine",
+      "label": {
+        "en": "Engine",
+        "ar": "المحرك"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Rated power (kW)",
+        "ar": "القدرة المقننة (كيلوواط)"
+      }
+    },
+    {
+      "key": "lamps",
+      "label": {
+        "en": "Lamps",
+        "ar": "المصابيح"
+      }
+    },
+    {
+      "key": "lm",
+      "label": {
+        "en": "Luminous flux (lm)",
+        "ar": "التدفق الضوئي (لومن)"
+      }
+    },
+    {
+      "key": "runtime",
+      "label": {
+        "en": "Runtime (h)",
+        "ar": "مدة التشغيل (ساعة)"
+      }
+    },
+    {
+      "key": "tank",
+      "label": {
+        "en": "Fuel tank (L)",
+        "ar": "خزان الوقود (لتر)"
+      }
+    },
+    {
+      "key": "mast",
+      "label": {
+        "en": "Mast height (m)",
+        "ar": "ارتفاع الصاري (م)"
+      }
+    }
+  ],
+  "keyRows": [
+    "type",
+    "engine",
+    "power"
+  ],
+  "types": [
+    {
+      "id": "towers",
+      "label": {
+        "en": "Mobile light towers",
+        "ar": "أبراج الإنارة المتنقلة"
+      },
+      "models": [
+        {
+          "code": "BX-0004-02-007 / MO-400A",
+          "name": {
+            "en": "MO-400A",
+            "ar": "⁦MO-400A⁩"
+          },
+          "specs": {
+            "type": {
+              "en": "Hand-push",
+              "ar": "يدوي الدفع"
+            },
+            "engine": {
+              "en": "Honda GX160K1",
+              "ar": "⁦Honda GX160K1⁩"
+            },
+            "power": {
+              "en": "2",
+              "ar": "2"
+            },
+            "lamps": {
+              "en": "2 × 400 W",
+              "ar": "⁦2 × 400 W⁩"
+            },
+            "lm": {
+              "en": "72 000",
+              "ar": "⁦72 000⁩"
+            },
+            "runtime": {
+              "en": "12.1",
+              "ar": "⁦12.1⁩"
+            },
+            "tank": {
+              "en": "15",
+              "ar": "15"
+            },
+            "mast": {
+              "en": "1.7–4.8",
+              "ar": "⁦1.7–4.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0004-02-007 / MO-400B",
+          "name": {
+            "en": "MO-400B",
+            "ar": "⁦MO-400B⁩"
+          },
+          "specs": {
+            "type": {
+              "en": "Hand-push",
+              "ar": "يدوي الدفع"
+            },
+            "engine": {
+              "en": "Honda GX240K1",
+              "ar": "⁦Honda GX240K1⁩"
+            },
+            "power": {
+              "en": "2.8",
+              "ar": "⁦2.8⁩"
+            },
+            "lamps": {
+              "en": "4 × 400 W",
+              "ar": "⁦4 × 400 W⁩"
+            },
+            "lm": {
+              "en": "144 000",
+              "ar": "⁦144 000⁩"
+            },
+            "runtime": {
+              "en": "13",
+              "ar": "13"
+            },
+            "tank": {
+              "en": "25",
+              "ar": "25"
+            },
+            "mast": {
+              "en": "1.7–4.8",
+              "ar": "⁦1.7–4.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0004-02-007 / MO-1000A",
+          "name": {
+            "en": "MO-1000A",
+            "ar": "⁦MO-1000A⁩"
+          },
+          "specs": {
+            "type": {
+              "en": "Hand-push",
+              "ar": "يدوي الدفع"
+            },
+            "engine": {
+              "en": "Honda GX270H1",
+              "ar": "⁦Honda GX270H1⁩"
+            },
+            "power": {
+              "en": "3.2",
+              "ar": "⁦3.2⁩"
+            },
+            "lamps": {
+              "en": "2 × 1 kW",
+              "ar": "⁦2 × 1 kW⁩"
+            },
+            "lm": {
+              "en": "220 000",
+              "ar": "⁦220 000⁩"
+            },
+            "runtime": {
+              "en": "11.9",
+              "ar": "⁦11.9⁩"
+            },
+            "tank": {
+              "en": "24",
+              "ar": "24"
+            },
+            "mast": {
+              "en": "1.7–4.8",
+              "ar": "⁦1.7–4.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0004-02-007 / MO-1000B",
+          "name": {
+            "en": "MO-1000B",
+            "ar": "⁦MO-1000B⁩"
+          },
+          "specs": {
+            "type": {
+              "en": "Hand-push",
+              "ar": "يدوي الدفع"
+            },
+            "engine": {
+              "en": "Honda GX390K1",
+              "ar": "⁦Honda GX390K1⁩"
+            },
+            "power": {
+              "en": "5",
+              "ar": "5"
+            },
+            "lamps": {
+              "en": "4 × 1 kW",
+              "ar": "⁦4 × 1 kW⁩"
+            },
+            "lm": {
+              "en": "440 000",
+              "ar": "⁦440 000⁩"
+            },
+            "runtime": {
+              "en": "9",
+              "ar": "9"
+            },
+            "tank": {
+              "en": "25",
+              "ar": "25"
+            },
+            "mast": {
+              "en": "1.7–4.8",
+              "ar": "⁦1.7–4.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0004-02-007 / MO-1000QA",
+          "name": {
+            "en": "MO-1000QA",
+            "ar": "⁦MO-1000QA⁩"
+          },
+          "specs": {
+            "type": {
+              "en": "Hand-push",
+              "ar": "يدوي الدفع"
+            },
+            "engine": {
+              "en": "Honda GX270H1",
+              "ar": "⁦Honda GX270H1⁩"
+            },
+            "power": {
+              "en": "3.2",
+              "ar": "⁦3.2⁩"
+            },
+            "lamps": {
+              "en": "2 × 1 kW",
+              "ar": "⁦2 × 1 kW⁩"
+            },
+            "lm": {
+              "en": "220 000",
+              "ar": "⁦220 000⁩"
+            },
+            "runtime": {
+              "en": "11.9",
+              "ar": "⁦11.9⁩"
+            },
+            "tank": {
+              "en": "24",
+              "ar": "24"
+            },
+            "mast": {
+              "en": "1.7–4.8",
+              "ar": "⁦1.7–4.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0004-02-007 / 4VA4000",
+          "name": {
+            "en": "4VA4000",
+            "ar": "4VA4000"
+          },
+          "specs": {
+            "type": {
+              "en": "Trailer",
+              "ar": "مقطورة"
+            },
+            "engine": {
+              "en": "Kohler KD440 / Kipor 186F / Changchai 186F",
+              "ar": "⁦Kohler KD440 / Kipor 186F / Changchai 186F⁩"
+            },
+            "power": {
+              "en": "5",
+              "ar": "5"
+            },
+            "lamps": {
+              "en": "4 × 1000 W",
+              "ar": "⁦4 × 1000 W⁩"
+            },
+            "lm": {
+              "en": "440 000",
+              "ar": "⁦440 000⁩"
+            },
+            "runtime": {
+              "en": "25",
+              "ar": "25"
+            },
+            "tank": {
+              "en": "38",
+              "ar": "38"
+            },
+            "mast": {
+              "en": "5–11",
+              "ar": "⁦5–11⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0004-02-007 / 4TN4000",
+          "name": {
+            "en": "4TN4000",
+            "ar": "4TN4000"
+          },
+          "specs": {
+            "type": {
+              "en": "Trailer",
+              "ar": "مقطورة"
+            },
+            "engine": {
+              "en": "Kubota D1105",
+              "ar": "⁦Kubota D1105⁩"
+            },
+            "power": {
+              "en": "8",
+              "ar": "8"
+            },
+            "lamps": {
+              "en": "4 × 1000 W",
+              "ar": "⁦4 × 1000 W⁩"
+            },
+            "lm": {
+              "en": "440 000",
+              "ar": "⁦440 000⁩"
+            },
+            "runtime": {
+              "en": "120",
+              "ar": "120"
+            },
+            "tank": {
+              "en": "170",
+              "ar": "170"
+            },
+            "mast": {
+              "en": "7–11",
+              "ar": "⁦7–11⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "72,000–440,000 lm",
+        "ar": "⁦72,000⁠–⁠440,000⁩ لومن"
+      },
+      "keyRows": [
+        "lm",
+        "runtime",
+        "mast"
+      ]
+    }
+  ]
+}

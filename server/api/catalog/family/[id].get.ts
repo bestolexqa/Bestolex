@@ -141,7 +141,17 @@ const FAMILY_FILES: Record<string, string> = {
   'traffic-cones-barriers-delineators': 'catalog/mining/traffic-cones-barriers-delineators.json',
   'warning-lights-mirrors-tapes-wheel-stops': 'catalog/mining/warning-lights-mirrors-tapes-wheel-stops.json',
   'container-houses-prefab-buildings': 'catalog/mining/container-houses-prefab-buildings.json',
-  'portable-toilets-fencing-mesh-grating': 'catalog/mining/portable-toilets-fencing-mesh-grating.json'
+  'portable-toilets-fencing-mesh-grating': 'catalog/mining/portable-toilets-fencing-mesh-grating.json',
+  'truck-haulage-tyres': 'catalog/mining/truck-haulage-tyres.json',
+  'loader-grader-underground-tyres': 'catalog/mining/loader-grader-underground-tyres.json',
+  'loader-mining-underground-otr-tyres': 'catalog/mining/loader-mining-underground-otr-tyres.json',
+  'grader-roller-backhoe-truck-tyres': 'catalog/mining/grader-roller-backhoe-truck-tyres.json',
+  'solid-industrial-skid-steer-tyres': 'catalog/mining/solid-industrial-skid-steer-tyres.json',
+  'tyre-service-valves-repair-tools': 'catalog/mining/tyre-service-valves-repair-tools.json',
+  'bearings-mill-spares': 'catalog/mining/bearings-mill-spares.json',
+  'workshop-tools-operator-seats-belt-parts': 'catalog/mining/workshop-tools-operator-seats-belt-parts.json',
+  'hydraulic-hoses': 'catalog/mining/hydraulic-hoses.json',
+  'mobile-light-towers': 'catalog/mining/mobile-light-towers.json'
 }
 
 const cache = new Map<string, any>()

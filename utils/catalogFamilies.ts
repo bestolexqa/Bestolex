@@ -139,5 +139,15 @@ export const FAMILY_IDS = new Set([
   'traffic-cones-barriers-delineators',
   'warning-lights-mirrors-tapes-wheel-stops',
   'container-houses-prefab-buildings',
-  'portable-toilets-fencing-mesh-grating'
+  'portable-toilets-fencing-mesh-grating',
+  'truck-haulage-tyres',
+  'loader-grader-underground-tyres',
+  'loader-mining-underground-otr-tyres',
+  'grader-roller-backhoe-truck-tyres',
+  'solid-industrial-skid-steer-tyres',
+  'tyre-service-valves-repair-tools',
+  'bearings-mill-spares',
+  'workshop-tools-operator-seats-belt-parts',
+  'hydraulic-hoses',
+  'mobile-light-towers'
 ])

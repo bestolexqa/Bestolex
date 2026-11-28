@@ -1,0 +1,80 @@
+{
+  "id": "bearings-mill-spares",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-10 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-10 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "desc",
+      "label": {
+        "en": "Description",
+        "ar": "الوصف"
+      }
+    }
+  ],
+  "keyRows": [
+    "desc"
+  ],
+  "types": [
+    {
+      "id": "spares",
+      "label": {
+        "en": "Bearings and mill spares",
+        "ar": "المحامل وقطع غيار المطاحن"
+      },
+      "models": [
+        {
+          "code": "BX-0061-02-001",
+          "name": {
+            "en": "Spherical roller bearings",
+            "ar": "محامل أسطوانية كروية (دحروجية متمركزة ذاتياً)"
+          },
+          "specs": {
+            "desc": {
+              "en": "Types CA, CC, MA, MB, E1, toroidal, SAC, sealed 2CS, BS/SB, split, extended inner ring, and mixer bearings; for crushers, screens and mills",
+              "ar": "أنواع ⁦CA⁩ و⁦CC⁩ و⁦MA⁩ و⁦MB⁩ و⁦E1⁩ وحلقية و⁦SAC⁩ ومحكمة ⁦2CS⁩ و⁦BS/SB⁩ ومنقسمة وبحلقة داخلية ممتدة ومحامل الخلاطات؛ للكسارات والغرابيل والمطاحن"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-05-002",
+          "name": {
+            "en": "Ball mill components",
+            "ar": "مكونات طاحونة الكرات"
+          },
+          "specs": {
+            "desc": {
+              "en": "Steel and ceramic grinding balls, liner plates, girth gear, reducer and electrical control box",
+              "ar": "كرات طحن فولاذية وخزفية، وألواح تبطين، وترس محيطي، ومخفّض سرعة، وصندوق تحكم كهربائي"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ]
+}

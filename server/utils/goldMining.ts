@@ -238,12 +238,28 @@ export const STAGES: Stage[] = [
     ]
   },
   {
-    id: 'fleet-support', n: 0, kind: 'support', code: 'BXC-10', edition: '4',
+    id: 'fleet-support', n: 0, kind: 'support', code: 'BXC-10', edition: '4', sub: 'fleet-support',
     title: L('دعم الأسطول', 'Fleet Support'),
-    short: L('إطارات الشاحنات واللوادر، والورشة، والموازين الجسرية، وأبراج الإنارة.', 'Truck and loader tyres, workshop equipment, weighbridges and lighting towers.'),
-    lead: L('إطارات الشاحنات واللوادر، والورشة، والموازين الجسرية، وأبراج الإنارة.', 'Truck and loader tyres, workshop equipment, weighbridges and lighting towers.'),
+    short: L('إطارات الشاحنات واللوادر، وخدمة الإطارات، والورشة وقطع الغيار، وأبراج الإنارة.', 'Truck and loader tyres, tyre service, workshop and spares, and lighting towers.'),
+    lead: L('إطارات الشاحنات والقلابات واللوادر والجريدرات والمناجم تحت الأرض، وصمامات الإطارات وأدوات إصلاحها، ومحامل الكسارات وقطع المطاحن، وعدد الورشة ومقاعد المشغلين، وخراطيم الهيدروليك، وأبراج الإنارة للعمل الليلي.',
+      'Tyres for trucks, dump trucks, loaders, graders and underground mines, tyre valves and repair tools, crusher bearings and mill spares, workshop tools and operator seats, hydraulic hoses, and light towers for night work.'),
     families: 12, models: 201,
-    image: '/gold-mining/support/fleet-support.webp', cover: '/gold-mining/covers/bxc-10.webp', cta: CTA_DEFAULT
+    image: '/gold-mining/support/fleet-support.webp', cover: '/gold-mining/covers/bxc-10.webp',
+    cta: { title: L('تجهّز أسطول موقعك؟', 'Equipping your site fleet?'),
+      text: L('أرسل قائمة المعدات (النوع والموديل ومقاس الإطار)، وطبيعة الأرض، وساعات العمل الليلي، ونقترح عليك الإطارات وقطع الغيار والإنارة.', 'Send us your machine list (type, model and tyre size), the ground conditions and the night-shift hours, and we suggest the tyres, spares and lighting.') },
+    types: [
+      { id: 'haul', chip: L('إطارات الشاحنات', 'Truck tyres'), badge: L('إطارات الشاحنات', 'Truck tyres') },
+      { id: 'machine', chip: L('إطارات المعدات', 'Machine tyres'), badge: L('إطارات المعدات', 'Machine tyres') },
+      { id: 'service', chip: L('خدمة الإطارات', 'Tyre service'), badge: L('خدمة الإطارات', 'Tyre service') },
+      { id: 'workshop', chip: L('الورشة وقطع الغيار', 'Workshop & spares'), badge: L('الورشة وقطع الغيار', 'Workshop & spares') },
+      { id: 'lighting', chip: L('الإنارة', 'Lighting'), badge: L('الإنارة', 'Lighting') }
+    ],
+    how: [
+      { title: L('مقاس الإطار', 'Tyre size'), text: L('اقرأ المقاس وعدد الطبقات أو فئة الخدمة من جانب الإطار الحالي، وحدد بأنبوب أو بدونه.', 'Read the size and the ply rating or service class off the current sidewall, and note tube or tubeless.') },
+      { title: L('الأرض والحمولة', 'Ground and load'), text: L('الصخر المكسّر يحتاج نقشة L-4 أو L-5 مقاومة للقطع، والرمل إطاراً رملياً، والمسافات الطويلة إطاراً راديال.', 'Broken rock needs a cut-resistant L-4 or L-5 tread, sand needs a sand tyre, and long hauls need a radial.') },
+      { title: L('قطع الغيار', 'Spares'), text: L('اطلب المحامل والشدّادات والخراطيم برقم القطعة أو المعيار المكتوب عليها لتطابق المعدة.', 'Order bearings, tensioners and hoses by the part number or standard marked on them so they match the machine.') },
+      { title: L('العمل الليلي', 'Night work'), text: L('برج على مقطورة بصاري 11 م للحفرة وساحة التحميل، وأبراج يدوية للورش والمخيم.', 'A trailer tower with an 11 m mast for the pit and loading area, and hand-push towers for workshops and the camp.') }
+    ]
   },
   {
     id: 'safety-site-facilities', n: 0, kind: 'support', code: 'BXS-01 · BXS-02', edition: '2 · 1', sub: 'safety-site-facilities',
@@ -273,6 +289,16 @@ export const STAGES: Stage[] = [
 
 // Family pages: their place in the stage (group tab) and their chip.
 const FAMILY_META: Record<string, { group?: string, type?: string }> = {
+  'truck-haulage-tyres': { type: 'haul' },
+  'loader-grader-underground-tyres': { type: 'machine' },
+  'loader-mining-underground-otr-tyres': { type: 'machine' },
+  'grader-roller-backhoe-truck-tyres': { type: 'machine' },
+  'solid-industrial-skid-steer-tyres': { type: 'machine' },
+  'tyre-service-valves-repair-tools': { type: 'service' },
+  'bearings-mill-spares': { type: 'workshop' },
+  'workshop-tools-operator-seats-belt-parts': { type: 'workshop' },
+  'hydraulic-hoses': { type: 'workshop' },
+  'mobile-light-towers': { type: 'lighting' },
   'high-visibility-workwear-helmets': { type: 'ppe' },
   'head-eye-face-respiratory-hearing-fall-protection': { type: 'ppe' },
   'work-safety-gloves': { type: 'ppe' },

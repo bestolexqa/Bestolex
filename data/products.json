@@ -28963,6 +28963,1513 @@
         ]
       },
       {
+        "id": "fleet-support",
+        "title": {
+          "ar": "دعم الأسطول",
+          "en": "Fleet Support"
+        },
+        "products": [
+          {
+            "id": "truck-haulage-tyres",
+            "name": {
+              "ar": "إطارات الشاحنات والنقل",
+              "en": "Truck & Haulage Tyres"
+            },
+            "coverImage": "/products/truck-haulage-tyres/truck-haulage-tyres.webp",
+            "description": {
+              "ar": "إطارات عادية وراديال للقلابات وشاحنات الخدمة وناقلات التعدين: إطارات شاحنات راديال للطرق المختلطة والوعرة، وراديال التعدين للطرق الوعرة، وإطارات الصحراء والرمال، وإطارات راديال للمعدات الترابية حتى ⁦57⁩ بوصة للقلابات الصلبة والمفصلية.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Bias and radial tyres for dump trucks, service trucks and mining haulers: mixed-road and rough-road TBR tyres, off-road mining radials, desert and sand tyres, and earthmover radials up to 57 in for rigid and articulated dump trucks.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦63⁩ نقشة للطرق المختلطة والوعرة والتعدين",
+                "جنوط من ⁦16⁩ إلى ⁦57⁩ بوصة",
+                "إطارات راديال للقلابات الصلبة حتى ⁦46/90R57⁩",
+                "نقشات عميقة حتى ⁦33.5⁩ مم للحمولة الزائدة"
+              ],
+              "en": [
+                "63 tread patterns for mixed, rough and mining roads",
+                "Rims from 16 to 57 in",
+                "Rigid dump truck radials up to 46/90R57",
+                "Deep treads up to 33.5 mm for overload service"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المقاسات",
+                  "value": "⁦6.50-16⁩ إلى ⁦46/90R57⁩"
+                },
+                {
+                  "label": "الطبقات",
+                  "value": "حتى ⁦40 PR⁩"
+                },
+                {
+                  "label": "الفئة",
+                  "value": "⁦E3–E4⁩ للمعدات الترابية"
+                },
+                {
+                  "label": "التركيب",
+                  "value": "عادي وراديال"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Sizes",
+                  "value": "6.50-16 to 46/90R57"
+                },
+                {
+                  "label": "Ply rating",
+                  "value": "Up to 40 PR"
+                },
+                {
+                  "label": "Class",
+                  "value": "E3–E4 earthmover"
+                },
+                {
+                  "label": "Construction",
+                  "value": "Bias and radial"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/truck-haulage-tyres/truck-haulage-tyres.webp"
+            ],
+            "image": "/products/truck-haulage-tyres/truck-haulage-tyres.webp",
+            "cardImage": "/products/truck-haulage-tyres/truck-haulage-tyres.webp",
+            "seo": {
+              "title": {
+                "ar": "إطارات الشاحنات والقلابات وشاحنات التعدين",
+                "en": "Truck, Dump Truck and Mining Haul Tyres"
+              },
+              "description": {
+                "ar": "إطارات شاحنات راديال وعادية للطرق المختلطة والوعرة والتعدين، وإطارات راديال للقلابات حتى ⁦46/90R57⁩، بـ ⁦63⁩ نقشة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Radial and bias truck tyres for mixed, rough and mining roads, and dump truck radials up to 46/90R57, in 63 tread patterns. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "إطارات لكل شاحنة في الموقع، من شاحنة الخدمة إلى القلاب الصلب. اختر من الجدول أدناه.",
+              "en": "Tyres for every truck on site, from service trucks to rigid dump trucks. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لطلب الإطارات؟",
+                  "a": "المقاس المكتوب على جانب الإطار، وعدد الطبقات (⁦PR⁩) أو فئة الخدمة، وبأنبوب أو بدونه، ونوع المعدة وطبيعة الأرض (صخر أو رمل أو طين)، والكمية."
+                },
+                {
+                  "q": "ما الفرق بين الإطار العادي والراديال؟",
+                  "a": "الإطار العادي (⁦Bias⁩) أمتن في الجوانب وأرخص ويناسب المسافات القصيرة والأرض الوعرة، والراديال أبرد في التشغيل وأطول عمراً على المسافات الطويلة والسرعات الأعلى."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to order tyres?",
+                  "a": "The size on the sidewall, the ply rating or service class, tube or tubeless, the machine and the ground (rock, sand or mud), and the quantity."
+                },
+                {
+                  "q": "What is the difference between bias and radial tyres?",
+                  "a": "Bias tyres have tougher sidewalls, cost less and suit short runs on rough ground; radials run cooler and last longer over long distances and higher speeds."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "63",
+                  "label": "نقشة"
+                },
+                {
+                  "value": "⁦16–57⁩",
+                  "label": "قطر الجنط (بوصة)"
+                },
+                {
+                  "value": "⁦E3–E4⁩",
+                  "label": "فئة المعدات الترابية"
+                }
+              ],
+              "en": [
+                {
+                  "value": "63",
+                  "label": "Tread patterns"
+                },
+                {
+                  "value": "16–57",
+                  "label": "Rim (in)"
+                },
+                {
+                  "value": "E3–E4",
+                  "label": "Earthmover class"
+                }
+              ]
+            }
+          },
+          {
+            "id": "loader-grader-underground-tyres",
+            "name": {
+              "ar": "إطارات اللوادر والجريدرات والمناجم تحت الأرض",
+              "en": "Loader, Grader & Underground Tyres"
+            },
+            "coverImage": "/products/loader-grader-underground-tyres/loader-grader-underground-tyres.webp",
+            "description": {
+              "ar": "إطارات عادية وراديال للوادر والجرافات والجريدرات والحفارات اللودرية والحفارات ذات العجلات، وإطارات خدمة الصخور ⁦L-4⁩ و⁦L-5⁩ بنقشات حتى ⁦105⁩ مم، وإطارات شبه صلبة، وإطارات ملساء عميقة النقشة للوادر ⁦LHD⁩ وشاحنات المناجم تحت الأرض.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Bias and radial tyres for wheel loaders, dozers, graders, backhoe loaders and wheeled excavators, rock-service L-4 and L-5 tyres with treads up to 105 mm, semi-solid tyres, and smooth deep-tread tyres for LHD loaders and underground trucks.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "نقشات ⁦L-4⁩ و⁦L-5⁩ مقاومة للقطع لخدمة الصخور",
+                "نقشة حتى ⁦105⁩ مم",
+                "إطارات أمامية وخلفية للحفارات اللودرية",
+                "إطارات ملساء ⁦L5S⁩ للمناجم تحت الأرض"
+              ],
+              "en": [
+                "Cut-resistant L-4 and L-5 rock-service treads",
+                "Tread depth up to 105 mm",
+                "Front and rear backhoe loader tyres",
+                "Smooth L5S tyres for underground mines"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المقاسات",
+                  "value": "⁦7.50-15⁩ إلى ⁦60×25-25⁩"
+                },
+                {
+                  "label": "الطبقات",
+                  "value": "⁦6.5–46 PR⁩"
+                },
+                {
+                  "label": "الفئة",
+                  "value": "⁦L-3⁩ إلى ⁦L-5⁩، و⁦G2⁩ للجريدرات"
+                },
+                {
+                  "label": "الأنبوب",
+                  "value": "بأنبوب أو بدونه"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Sizes",
+                  "value": "7.50-15 to 60×25-25"
+                },
+                {
+                  "label": "Ply rating",
+                  "value": "6.5–46 PR"
+                },
+                {
+                  "label": "Class",
+                  "value": "L-3 to L-5, G2 for graders"
+                },
+                {
+                  "label": "Tube",
+                  "value": "Tube type or tubeless"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/loader-grader-underground-tyres/loader-grader-underground-tyres.webp"
+            ],
+            "image": "/products/loader-grader-underground-tyres/loader-grader-underground-tyres.webp",
+            "cardImage": "/products/loader-grader-underground-tyres/loader-grader-underground-tyres.webp",
+            "seo": {
+              "title": {
+                "ar": "إطارات اللوادر والجريدرات والحفارات اللودرية والمناجم تحت الأرض",
+                "en": "Loader, Grader, Backhoe and Underground Mining Tyres"
+              },
+              "description": {
+                "ar": "إطارات لوادر وجرافات وجريدرات وحفارات لودرية، وإطارات صخور ⁦L-4⁩ و⁦L-5⁩ بنقشة حتى ⁦105⁩ مم، وإطارات للوادر ⁦LHD⁩ تحت الأرض. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Tyres for loaders, dozers, graders and backhoe loaders, L-4 and L-5 rock tyres with treads up to 105 mm, and underground LHD tyres. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "إطارات لمعدات التحميل والتسوية، فوق الأرض وتحتها. اختر من الجدول أدناه.",
+              "en": "Tyres for loading and grading machines, above and below ground. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "متى أحتاج إطار L-5 بدل L-3؟",
+                  "a": "عند التحميل على صخر مكسّر أو حواف حادة كما في المحاجر وساحات الكسارات، فنقشة ⁦L-5⁩ أعمق وأقوى ضد القطع. للتربة والحصى يكفي ⁦L-3⁩."
+                },
+                {
+                  "q": "ما المطلوب لطلب الإطارات؟",
+                  "a": "المقاس المكتوب على جانب الإطار، وعدد الطبقات (⁦PR⁩) أو فئة الخدمة، وبأنبوب أو بدونه، ونوع المعدة وطبيعة الأرض (صخر أو رمل أو طين)، والكمية."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "When do I need an L-5 tyre instead of L-3?",
+                  "a": "When loading broken rock or sharp edges, as in quarries and crusher yards: the L-5 tread is deeper and stands up better to cuts. L-3 is enough for soil and gravel."
+                },
+                {
+                  "q": "What do you need to order tyres?",
+                  "a": "The size on the sidewall, the ply rating or service class, tube or tubeless, the machine and the ground (rock, sand or mud), and the quantity."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "37",
+                  "label": "نقشة"
+                },
+                {
+                  "value": "⁦L-3 – L-5⁩",
+                  "label": "فئة الخدمة"
+                },
+                {
+                  "value": "⁦105⁩ مم",
+                  "label": "أقصى عمق نقشة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "37",
+                  "label": "Tread patterns"
+                },
+                {
+                  "value": "L-3 – L-5",
+                  "label": "Service class"
+                },
+                {
+                  "value": "105 mm",
+                  "label": "Max tread depth"
+                }
+              ]
+            }
+          },
+          {
+            "id": "loader-mining-underground-otr-tyres",
+            "name": {
+              "ar": "إطارات OTR للوادر والتعدين والمناجم تحت الأرض",
+              "en": "Loader, Mining & Underground OTR Tyres"
+            },
+            "coverImage": "/products/loader-mining-underground-otr-tyres/loader-mining-underground-otr-tyres.webp",
+            "description": {
+              "ar": "إطارات للطرق الوعرة (⁦OTR⁩) للوادر والقلابات والشاحنات المفصلية ولوادر ⁦LHD⁩ تحت الأرض: إطارات عادية من ⁦E-3/L-3⁩ إلى نقشات التعدين العميقة ⁦L-5⁩، وإطارات راديال فولاذية بالكامل حتى ⁦29.5R25⁩.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Off-the-road tyres for wheel loaders, dump trucks, articulated trucks and underground LHD loaders: bias tyres from E-3/L-3 to L-5 deep-tread mining patterns, and all-steel radial tyres up to 29.5R25.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "نقشات عادية من ⁦E-3/L-3⁩ إلى ⁦L-5⁩",
+                "راديال فولاذي بالكامل حتى ⁦29.5R25⁩",
+                "إطارات ملساء ⁦L-5S⁩ للوادر ⁦LHD⁩",
+                "مقاسات من ⁦7.50-16⁩ إلى ⁦29.5-25⁩"
+              ],
+              "en": [
+                "Bias patterns from E-3/L-3 to L-5",
+                "All-steel radials up to 29.5R25",
+                "Smooth L-5S tyres for LHD loaders",
+                "Sizes from 7.50-16 to 29.5-25"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "التركيب",
+                  "value": "عادي وراديال فولاذي"
+                },
+                {
+                  "label": "الفئات",
+                  "value": "⁦E-2⁩ إلى ⁦L-5S⁩"
+                },
+                {
+                  "label": "الطبقات",
+                  "value": "⁦8⁠–⁠44 PR⁩ حسب المقاس"
+                },
+                {
+                  "label": "الأنبوب",
+                  "value": "بأنبوب أو بدونه"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Construction",
+                  "value": "Bias and all-steel radial"
+                },
+                {
+                  "label": "Classes",
+                  "value": "E-2 to L-5S"
+                },
+                {
+                  "label": "Ply rating",
+                  "value": "8–44 PR by size"
+                },
+                {
+                  "label": "Tube",
+                  "value": "Tube type or tubeless"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/loader-mining-underground-otr-tyres/loader-mining-underground-otr-tyres.webp"
+            ],
+            "image": "/products/loader-mining-underground-otr-tyres/loader-mining-underground-otr-tyres.webp",
+            "cardImage": "/products/loader-mining-underground-otr-tyres/loader-mining-underground-otr-tyres.webp",
+            "seo": {
+              "title": {
+                "ar": "إطارات OTR للوادر والقلابات والتعدين تحت الأرض",
+                "en": "OTR Tyres for Loaders, Dump Trucks and Underground Mining"
+              },
+              "description": {
+                "ar": "إطارات ⁦OTR⁩ عادية من ⁦E-3/L-3⁩ إلى ⁦L-5⁩، وراديال فولاذي بالكامل حتى ⁦29.5R25⁩، وإطارات ⁦L-5S⁩ للوادر ⁦LHD⁩ تحت الأرض. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Bias OTR tyres from E-3/L-3 to L-5, all-steel radials up to 29.5R25, and L-5S tyres for underground LHD loaders. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "نقشات ⁦OTR⁩ من الإنشاءات إلى التعدين تحت الأرض. اختر من الجدول أدناه.",
+              "en": "OTR patterns from construction to underground mining. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لطلب الإطارات؟",
+                  "a": "المقاس المكتوب على جانب الإطار، وعدد الطبقات (⁦PR⁩) أو فئة الخدمة، وبأنبوب أو بدونه، ونوع المعدة وطبيعة الأرض (صخر أو رمل أو طين)، والكمية."
+                },
+                {
+                  "q": "ما الفرق بين الإطار العادي والراديال؟",
+                  "a": "الإطار العادي (⁦Bias⁩) أمتن في الجوانب وأرخص ويناسب المسافات القصيرة والأرض الوعرة، والراديال أبرد في التشغيل وأطول عمراً على المسافات الطويلة والسرعات الأعلى."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to order tyres?",
+                  "a": "The size on the sidewall, the ply rating or service class, tube or tubeless, the machine and the ground (rock, sand or mud), and the quantity."
+                },
+                {
+                  "q": "What is the difference between bias and radial tyres?",
+                  "a": "Bias tyres have tougher sidewalls, cost less and suit short runs on rough ground; radials run cooler and last longer over long distances and higher speeds."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "18",
+                  "label": "نقشة"
+                },
+                {
+                  "value": "عادي · راديال",
+                  "label": "التركيب"
+                },
+                {
+                  "value": "⁦E-2 – L-5S⁩",
+                  "label": "فئات الخدمة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "18",
+                  "label": "Patterns"
+                },
+                {
+                  "value": "Bias · Radial",
+                  "label": "Construction"
+                },
+                {
+                  "value": "E-2 – L-5S",
+                  "label": "Service classes"
+                }
+              ]
+            }
+          },
+          {
+            "id": "grader-roller-backhoe-truck-tyres",
+            "name": {
+              "ar": "إطارات الجريدرات والمداحل والحفارات اللودرية والشاحنات",
+              "en": "Grader, Roller, Backhoe & Truck Tyres"
+            },
+            "coverImage": "/products/grader-roller-backhoe-truck-tyres/grader-roller-backhoe-truck-tyres.webp",
+            "description": {
+              "ar": "إطارات لمعدات شق الطرق ومركبات الدعم في الموقع: إطارات المداحل والجريدرات والحفارات ذات العجلات، وإطارات ⁦R-4⁩ للحفارات اللودرية والرافعات التلسكوبية، وإطارات شاحنات راديال وعادية، وإطارات رملية لمواقع الصحراء.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Tyres for site road-building and support vehicles: roller, grader and wheeled-excavator tyres, R-4 backhoe and telehandler tyres, radial and bias truck tyres, and sand tyres for desert sites.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "إطارات مداحل ملساء ⁦C-1⁩",
+                "إطارات جريدرات ⁦G-2/L-2⁩",
+                "إطارات ⁦R-4⁩ للحفارات اللودرية والرافعات التلسكوبية",
+                "إطارات رملية من ⁦9.00-16⁩ إلى ⁦16.00-20⁩"
+              ],
+              "en": [
+                "Smooth C-1 roller tyres",
+                "G-2/L-2 grader tyres",
+                "R-4 backhoe and telehandler tyres",
+                "Sand tyres from 9.00-16 to 16.00-20"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الفئات",
+                  "value": "⁦C-1⁩ و⁦G-2⁩ و⁦R-3⁩ و⁦R-4⁩"
+                },
+                {
+                  "label": "قطر الجنط",
+                  "value": "⁦16⁠–⁠28⁩ بوصة"
+                },
+                {
+                  "label": "إطارات الشاحنات",
+                  "value": "راديال بأنبوب وبدونه، وعادي"
+                },
+                {
+                  "label": "الإطارات الرملية",
+                  "value": "عادي للرمال"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Classes",
+                  "value": "C-1, G-2, R-3, R-4"
+                },
+                {
+                  "label": "Rim diameter",
+                  "value": "16–28 in"
+                },
+                {
+                  "label": "Truck tyres",
+                  "value": "Radial tube and tubeless, and bias"
+                },
+                {
+                  "label": "Sand tyres",
+                  "value": "Bias for sand"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/grader-roller-backhoe-truck-tyres/grader-roller-backhoe-truck-tyres.webp"
+            ],
+            "image": "/products/grader-roller-backhoe-truck-tyres/grader-roller-backhoe-truck-tyres.webp",
+            "cardImage": "/products/grader-roller-backhoe-truck-tyres/grader-roller-backhoe-truck-tyres.webp",
+            "seo": {
+              "title": {
+                "ar": "إطارات المداحل والجريدرات والحفارات اللودرية والشاحنات والرمال",
+                "en": "Roller, Grader, Backhoe, Truck and Sand Tyres"
+              },
+              "description": {
+                "ar": "إطارات مداحل ⁦C-1⁩ وجريدرات ⁦G-2⁩ وحفارات لودرية ⁦R-4⁩، وإطارات شاحنات راديال وعادية، وإطارات رملية للصحراء. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "C-1 roller, G-2 grader and R-4 backhoe tyres, radial and bias truck tyres, and sand tyres for desert sites. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "إطارات لمعدات الطرق ومركبات الدعم. اختر من الجدول أدناه.",
+              "en": "Tyres for road-building machines and support vehicles. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لطلب الإطارات؟",
+                  "a": "المقاس المكتوب على جانب الإطار، وعدد الطبقات (⁦PR⁩) أو فئة الخدمة، وبأنبوب أو بدونه، ونوع المعدة وطبيعة الأرض (صخر أو رمل أو طين)، والكمية."
+                },
+                {
+                  "q": "ما الفرق بين الإطار العادي والراديال؟",
+                  "a": "الإطار العادي (⁦Bias⁩) أمتن في الجوانب وأرخص ويناسب المسافات القصيرة والأرض الوعرة، والراديال أبرد في التشغيل وأطول عمراً على المسافات الطويلة والسرعات الأعلى."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to order tyres?",
+                  "a": "The size on the sidewall, the ply rating or service class, tube or tubeless, the machine and the ground (rock, sand or mud), and the quantity."
+                },
+                {
+                  "q": "What is the difference between bias and radial tyres?",
+                  "a": "Bias tyres have tougher sidewalls, cost less and suit short runs on rough ground; radials run cooler and last longer over long distances and higher speeds."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "21",
+                  "label": "نقشة وخطاً"
+                },
+                {
+                  "value": "⁦C-1 · G-2 · R-4⁩",
+                  "label": "فئات الخدمة"
+                },
+                {
+                  "value": "⁦16–28⁩",
+                  "label": "قطر الجنط (بوصة)"
+                }
+              ],
+              "en": [
+                {
+                  "value": "21",
+                  "label": "Patterns & lines"
+                },
+                {
+                  "value": "C-1 · G-2 · R-4",
+                  "label": "Service classes"
+                },
+                {
+                  "value": "16–28",
+                  "label": "Rim (in)"
+                }
+              ]
+            }
+          },
+          {
+            "id": "solid-industrial-skid-steer-tyres",
+            "name": {
+              "ar": "الإطارات الصلبة الصناعية وإطارات اللوادر الانزلاقية",
+              "en": "Solid Industrial & Skid-Steer Tyres"
+            },
+            "coverImage": "/products/solid-industrial-skid-steer-tyres/solid-industrial-skid-steer-tyres.webp",
+            "description": {
+              "ar": "إطارات صلبة لا تُثقب للرافعات الشوكية ومركبات الموانئ والمصانع في مخازن الموقع وساحاته، وإطارات عادية للوادر الانزلاقية من ⁦SKS-1⁩ إلى ⁦SKS-5⁩.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Puncture-proof solid tyres for forklifts and port or industrial vehicles in site stores and yards, and bias tyres for skid steer loaders from SKS-1 to SKS-5.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "إطارات صلبة لا تُثقب",
+                "مقاسات من ⁦4.00-8⁩ إلى ⁦12.00-20⁩",
+                "إطارات لوادر انزلاقية ⁦SKS-1⁩ إلى ⁦SKS-5⁩",
+                "نقشة عميقة ⁦SKS-L5⁩"
+              ],
+              "en": [
+                "Puncture-proof solid tyres",
+                "Sizes from 4.00-8 to 12.00-20",
+                "Skid steer tyres SKS-1 to SKS-5",
+                "Deep-tread SKS-L5"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الإطارات الصلبة",
+                  "value": "⁦4.00-8⁩ إلى ⁦12.00-20⁩"
+                },
+                {
+                  "label": "إطارات اللوادر الانزلاقية",
+                  "value": "⁦10-16.5⁩ إلى ⁦15-19.5⁩"
+                },
+                {
+                  "label": "فئات اللوادر الانزلاقية",
+                  "value": "⁦SKS-1⁩ إلى ⁦SKS-5⁩"
+                },
+                {
+                  "label": "التركيب",
+                  "value": "صلب، وعادي"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Solid tyres",
+                  "value": "4.00-8 to 12.00-20"
+                },
+                {
+                  "label": "Skid steer tyres",
+                  "value": "10-16.5 to 15-19.5"
+                },
+                {
+                  "label": "Skid steer classes",
+                  "value": "SKS-1 to SKS-5"
+                },
+                {
+                  "label": "Construction",
+                  "value": "Solid, and bias"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/solid-industrial-skid-steer-tyres/solid-industrial-skid-steer-tyres.webp"
+            ],
+            "image": "/products/solid-industrial-skid-steer-tyres/solid-industrial-skid-steer-tyres.webp",
+            "cardImage": "/products/solid-industrial-skid-steer-tyres/solid-industrial-skid-steer-tyres.webp",
+            "seo": {
+              "title": {
+                "ar": "إطارات صلبة للرافعات الشوكية وإطارات اللوادر الانزلاقية",
+                "en": "Solid Forklift Tyres and Skid Steer Loader Tyres"
+              },
+              "description": {
+                "ar": "إطارات صلبة لا تُثقب من ⁦4.00-8⁩ إلى ⁦12.00-20⁩ للرافعات الشوكية والمركبات الصناعية، وإطارات لوادر انزلاقية ⁦SKS-1⁩ إلى ⁦SKS-5⁩. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Puncture-proof solid tyres from 4.00-8 to 12.00-20 for forklifts and industrial vehicles, and SKS-1 to SKS-5 skid steer tyres. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "إطارات لمعدات المخازن والساحات. اختر من الجدول أدناه.",
+              "en": "Tyres for store and yard machines. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا الإطار الصلب للرافعة الشوكية؟",
+                  "a": "لأنه لا يُثقب ولا يحتاج ضبط ضغط، فيناسب الساحات التي فيها حديد وحجارة حادة ويقلل التوقف."
+                },
+                {
+                  "q": "ما المطلوب لطلب الإطارات؟",
+                  "a": "المقاس المكتوب على جانب الإطار، وعدد الطبقات (⁦PR⁩) أو فئة الخدمة، وبأنبوب أو بدونه، ونوع المعدة وطبيعة الأرض (صخر أو رمل أو طين)، والكمية."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why a solid tyre for a forklift?",
+                  "a": "It cannot puncture and needs no pressure checks, so it suits yards with scrap and sharp stones and cuts downtime."
+                },
+                {
+                  "q": "What do you need to order tyres?",
+                  "a": "The size on the sidewall, the ply rating or service class, tube or tubeless, the machine and the ground (rock, sand or mud), and the quantity."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "13",
+                  "label": "نقشة"
+                },
+                {
+                  "value": "صلبة",
+                  "label": "للرافعات والمصانع"
+                },
+                {
+                  "value": "⁦SKS-1 – SKS-5⁩",
+                  "label": "فئات اللوادر الانزلاقية"
+                }
+              ],
+              "en": [
+                {
+                  "value": "13",
+                  "label": "Patterns"
+                },
+                {
+                  "value": "Solid",
+                  "label": "Forklift & industrial"
+                },
+                {
+                  "value": "SKS-1 – SKS-5",
+                  "label": "Skid steer classes"
+                }
+              ]
+            }
+          },
+          {
+            "id": "tyre-service-valves-repair-tools",
+            "name": {
+              "ar": "صمامات الإطارات ومواد الإصلاح والعدد",
+              "en": "Tyre Valves, Repair Materials & Tools"
+            },
+            "coverImage": "/products/tyre-service-valves-repair-tools/tyre-service-valves-repair-tools.webp",
+            "description": {
+              "ar": "صمامات إطارات الشاحنات والحافلات وإطارات ⁦OTR⁩ العملاقة، وأشرطة ورقع وأطقم إصلاح، ومفاتيح صدم هوائية وروافع هوائية لإبقاء اللوادر وشاحنات النقل في العمل.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Truck, bus and giant OTR tyre valves, repair strings, patches and kits, pneumatic impact wrenches and air jacks to keep loaders and haul trucks moving.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "صمامات ⁦TR⁩ و⁦TRJ⁩ للإطارات بدون أنبوب وبأنبوب",
+                "صمامات هواء وماء للإطارات العملاقة",
+                "أطقم إصلاح للموقع والورشة",
+                "مفاتيح صدم وروافع هوائية"
+              ],
+              "en": [
+                "TR and TRJ valves for tubeless and tube-type tyres",
+                "Air-water valves for giant tyres",
+                "Repair kits for the field and the workshop",
+                "Impact wrenches and air jacks"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الصمامات",
+                  "value": "⁦TR⁩ و⁦TRJ⁩ و⁦V3⁩"
+                },
+                {
+                  "label": "السدادات الفطرية",
+                  "value": "⁦3⁠–⁠6⁩ مم"
+                },
+                {
+                  "label": "أشرطة الإصلاح",
+                  "value": "⁦100⁠–⁠200⁩ مم"
+                },
+                {
+                  "label": "العدد",
+                  "value": "مفاتيح صدم وروافع ونافخات حافة"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Valves",
+                  "value": "TR, TRJ and V3"
+                },
+                {
+                  "label": "Mushroom plugs",
+                  "value": "3–6 mm"
+                },
+                {
+                  "label": "Repair strings",
+                  "value": "100–200 mm"
+                },
+                {
+                  "label": "Tools",
+                  "value": "Impact wrenches, jacks, bead seaters"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/tyre-service-valves-repair-tools/tyre-service-valves-repair-tools.webp"
+            ],
+            "image": "/products/tyre-service-valves-repair-tools/tyre-service-valves-repair-tools.webp",
+            "cardImage": "/products/tyre-service-valves-repair-tools/tyre-service-valves-repair-tools.webp",
+            "seo": {
+              "title": {
+                "ar": "صمامات الإطارات وأطقم الإصلاح ومفاتيح الصدم الهوائية",
+                "en": "Tyre Valves, Repair Kits and Pneumatic Impact Wrenches"
+              },
+              "description": {
+                "ar": "صمامات ⁦TR⁩ و⁦TRJ⁩ للشاحنات وإطارات ⁦OTR⁩، وأشرطة ورقع وأطقم إصلاح، ومفاتيح صدم وروافع هوائية ونافخات حافة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "TR and TRJ valves for truck and OTR tyres, repair strings, patches and kits, impact wrenches, air jacks and bead seaters. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كل ما تحتاجه ورشة الإطارات في الموقع. اختر من الجدول أدناه.",
+              "en": "Everything a site tyre shop needs. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كيف أطلب الصمام الصحيح؟",
+                  "a": "أرسل رقم الصمام المكتوب عليه (مثل ⁦TR570⁩ أو ⁦TRJ650-03⁩) أو صورته، مع مقاس الإطار والجنط."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How do I order the right valve?",
+                  "a": "Send the number stamped on the valve (such as TR570 or TRJ650-03) or a photo of it, with the tyre and rim size."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "6",
+                  "label": "مجموعات منتجات"
+                },
+                {
+                  "value": "⁦TR · TRJ⁩",
+                  "label": "الصمامات"
+                },
+                {
+                  "value": "⁦3⁠–⁠6⁩ مم",
+                  "label": "السدادات الفطرية"
+                }
+              ],
+              "en": [
+                {
+                  "value": "6",
+                  "label": "Product groups"
+                },
+                {
+                  "value": "TR · TRJ",
+                  "label": "Valves"
+                },
+                {
+                  "value": "3–6 mm",
+                  "label": "Mushroom plugs"
+                }
+              ]
+            }
+          },
+          {
+            "id": "bearings-mill-spares",
+            "name": {
+              "ar": "المحامل وقطع غيار المطاحن",
+              "en": "Bearings & Mill Spares"
+            },
+            "coverImage": "/products/bearings-mill-spares/bearings-mill-spares.webp",
+            "description": {
+              "ar": "محامل أسطوانية كروية للكسارات والغرابيل والمطاحن، وقطع غيار طاحونة الكرات: كرات الطحن، والتبطين، والترس المحيطي، ومخفّض السرعة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Spherical roller bearings for crushers, screens and mills, and ball mill spares: grinding balls, liners, girth gear and reducer.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "محامل كروية بأنواع ⁦CA⁩ و⁦CC⁩ و⁦MA⁩ و⁦MB⁩ و⁦E1⁩",
+                "محامل منقسمة ومحكمة ⁦2CS⁩",
+                "كرات طحن فولاذية وخزفية",
+                "ترس محيطي ومخفّض وألواح تبطين"
+              ],
+              "en": [
+                "Spherical roller bearings in CA, CC, MA, MB and E1 types",
+                "Split and sealed 2CS bearings",
+                "Steel and ceramic grinding balls",
+                "Girth gear, reducer and liner plates"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المحامل",
+                  "value": "أسطوانية كروية"
+                },
+                {
+                  "label": "الاستخدام",
+                  "value": "الكسارات والغرابيل والمطاحن"
+                },
+                {
+                  "label": "كرات الطحن",
+                  "value": "فولاذية وخزفية"
+                },
+                {
+                  "label": "قطع المطحنة",
+                  "value": "تبطين، ترس محيطي، مخفّض، صندوق تحكم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Bearings",
+                  "value": "Spherical roller"
+                },
+                {
+                  "label": "Use",
+                  "value": "Crushers, screens and mills"
+                },
+                {
+                  "label": "Grinding balls",
+                  "value": "Steel and ceramic"
+                },
+                {
+                  "label": "Mill parts",
+                  "value": "Liners, girth gear, reducer, control box"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/bearings-mill-spares/bearings-mill-spares.webp"
+            ],
+            "image": "/products/bearings-mill-spares/bearings-mill-spares.webp",
+            "cardImage": "/products/bearings-mill-spares/bearings-mill-spares.webp",
+            "seo": {
+              "title": {
+                "ar": "محامل الكسارات والمطاحن وقطع غيار طاحونة الكرات",
+                "en": "Crusher and Mill Bearings and Ball Mill Spares"
+              },
+              "description": {
+                "ar": "محامل أسطوانية كروية للكسارات والغرابيل والمطاحن، وكرات طحن فولاذية وخزفية وتبطين وترس محيطي ومخفّض لطاحونة الكرات. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Spherical roller bearings for crushers, screens and mills, plus steel and ceramic grinding balls, liners, girth gear and reducer for ball mills. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "قطع الغيار التي تبقي خط التكسير والطحن يعمل. اختر من الجدول أدناه.",
+              "en": "The spares that keep the crushing and grinding line running. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لطلب قطع المطحنة أو المحامل؟",
+                  "a": "رقم المحمل المكتوب عليه، أو مقاس المطحنة (القطر × الطول) وصورة اللوحة، مع الكمية المطلوبة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to order mill spares or bearings?",
+                  "a": "The number marked on the bearing, or the mill size (diameter × length) and a photo of its plate, with the quantity."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "2",
+                  "label": "مجموعتا منتجات"
+                },
+                {
+                  "value": "كروية",
+                  "label": "نوع المحامل"
+                },
+                {
+                  "value": "كرات · تبطين",
+                  "label": "قطع المطحنة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "2",
+                  "label": "Product groups"
+                },
+                {
+                  "value": "Spherical",
+                  "label": "Bearing type"
+                },
+                {
+                  "value": "Balls · liners",
+                  "label": "Mill spares"
+                }
+              ]
+            }
+          },
+          {
+            "id": "workshop-tools-operator-seats-belt-parts",
+            "name": {
+              "ar": "عدد الورشة ومقاعد المشغلين وقطع سيور المحركات",
+              "en": "Workshop Tools, Operator Seats & Engine Belt Parts"
+            },
+            "coverImage": "/products/workshop-tools-operator-seats-belt-parts/workshop-tools-operator-seats-belt-parts.webp",
+            "description": {
+              "ar": "مثاقب وصنفرة وجلاخات ومفاتيح صدم هوائية لورشة الموقع، وغسالات ضغط بالبنزين لتنظيف المعدات، ومقاعد مشغلين بتعليق ميكانيكي أو هوائي ووحدات تعليق بديلة، وشدّادات سيور لمحركات الحفارات والجرارات والشاحنات.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Air drills, sanders, grinders and impact wrenches for the site workshop, petrol pressure washers for cleaning machines, operator seats with mechanical or air suspension and spare suspension units, and belt tensioners for excavator, tractor and truck engines.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "عدد هوائية من ⁦700⁩ إلى ⁦35,000⁩ دورة/دقيقة",
+                "غسالات ضغط ⁦190⁩ و⁦200⁩ بار",
+                "مقاعد بتعليق ميكانيكي أو هوائي لمستخدمين ⁦50⁠–⁠150⁩ كجم",
+                "شدّادات سيور برقم القطعة الأصلية"
+              ],
+              "en": [
+                "Air tools from 700 to 35,000 r/min",
+                "190 and 200 bar pressure washers",
+                "Mechanical or air-suspension seats for 50–150 kg occupants",
+                "Belt tensioners by OE number"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "العدد الهوائية",
+                  "value": "مثاقب، صنفرة، جلاخات، مفاتيح صدم"
+                },
+                {
+                  "label": "مفتاح الصدم",
+                  "value": "⁦500⁩ نيوتن·م"
+                },
+                {
+                  "label": "غسالات الضغط",
+                  "value": "⁦190⁠–⁠200⁩ بار، ⁦9⁩ لتر/دقيقة"
+                },
+                {
+                  "label": "المقاعد",
+                  "value": "شوط تعليق ⁦40⁠–⁠150⁩ مم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Air tools",
+                  "value": "Drills, sanders, grinders, impact wrenches"
+                },
+                {
+                  "label": "Impact wrench",
+                  "value": "500 N·m"
+                },
+                {
+                  "label": "Pressure washers",
+                  "value": "190–200 bar, 9 L/min"
+                },
+                {
+                  "label": "Seats",
+                  "value": "40–150 mm suspension stroke"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/workshop-tools-operator-seats-belt-parts/workshop-tools-operator-seats-belt-parts.webp"
+            ],
+            "image": "/products/workshop-tools-operator-seats-belt-parts/workshop-tools-operator-seats-belt-parts.webp",
+            "cardImage": "/products/workshop-tools-operator-seats-belt-parts/workshop-tools-operator-seats-belt-parts.webp",
+            "seo": {
+              "title": {
+                "ar": "العدد الهوائية وغسالات الضغط ومقاعد المشغلين وشدّادات السيور",
+                "en": "Air Tools, Pressure Washers, Operator Seats and Belt Tensioners"
+              },
+              "description": {
+                "ar": "مثاقب وجلاخات ومفاتيح صدم هوائية، وغسالات ضغط ⁦200⁩ بار، ومقاعد مشغلين بتعليق ميكانيكي أو هوائي، وشدّادات سيور برقم القطعة الأصلية. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Air drills, grinders and impact wrenches, 200 bar pressure washers, mechanical and air-suspension operator seats, and belt tensioners by OE number. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "عدد الورشة وقطع الراحة والصيانة للمعدات. اختر من الجدول أدناه.",
+              "en": "Workshop tools and comfort and service parts for the fleet. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل تناسب المقاعد معداتي؟",
+                  "a": "أرسل نوع المعدة وموديلها وصورة قاعدة المقعد الحالي أو مسافات ثقوب التثبيت، ونطابق المقعد أو وحدة التعليق."
+                },
+                {
+                  "q": "كيف أطلب شدّاد السير؟",
+                  "a": "برقم القطعة الأصلية (⁦OE⁩) المكتوب على القطعة أو في دليل المحرك، ونؤكد المطابقة قبل التوريد."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Will the seats fit my machines?",
+                  "a": "Send the machine type and model and a photo of the current seat base or its mounting hole spacing, and we match the seat or suspension unit."
+                },
+                {
+                  "q": "How do I order a belt tensioner?",
+                  "a": "By the OE part number on the part or in the engine manual; we confirm the match before supply."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "70",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "200",
+                  "label": "ضغط الغسالة (بار)"
+                },
+                {
+                  "value": "⁦50–150⁩",
+                  "label": "وزن المستخدم (كجم)"
+                }
+              ],
+              "en": [
+                {
+                  "value": "70",
+                  "label": "Models"
+                },
+                {
+                  "value": "200",
+                  "label": "Washer pressure (bar)"
+                },
+                {
+                  "value": "50–150",
+                  "label": "Seat occupant (kg)"
+                }
+              ]
+            }
+          },
+          {
+            "id": "hydraulic-hoses",
+            "name": {
+              "ar": "خراطيم الهيدروليك",
+              "en": "Hydraulic Hoses"
+            },
+            "coverImage": "/products/hydraulic-hoses/hydraulic-hoses.webp",
+            "description": {
+              "ar": "خراطيم هيدروليك بديلة لمعدات الموقع والشاحنات: خراطيم ضغط عالٍ مجدولة وحلزونية بالسلك الفولاذي، وخراطيم مقوّاة بالنسيج وحرارية اللدونة، وخراطيم معدنية من الستانلس، وأنابيب نايلون لفرامل الهواء.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Replacement hydraulic hoses for site machines and trucks: steel-wire braided and spiral high-pressure hoses, textile-reinforced and thermoplastic hoses, stainless metal hoses and nylon air-brake tubing.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "خراطيم ⁦SAE 100 R1AT⁩ إلى ⁦R17⁩",
+                "خراطيم ⁦EN 853⁩ و⁦EN 856⁩ حلزونية ⁦4SP / 4SH⁩",
+                "خراطيم حرارية اللدونة ⁦R7 / R8⁩",
+                "أنابيب نايلون ⁦SAE J844⁩ لفرامل الهواء"
+              ],
+              "en": [
+                "SAE 100 R1AT to R17 hoses",
+                "EN 853 and EN 856 4SP / 4SH spiral hoses",
+                "R7 / R8 thermoplastic hoses",
+                "SAE J844 nylon air-brake tubing"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المعايير",
+                  "value": "⁦SAE 100⁩ و⁦EN 853⁩ و⁦EN 856⁩"
+                },
+                {
+                  "label": "التقوية",
+                  "value": "سلك فولاذي مجدول أو حلزوني، أو نسيج"
+                },
+                {
+                  "label": "أنابيب الفرامل",
+                  "value": "⁦SAE J844⁩ النوع ⁦B⁩"
+                },
+                {
+                  "label": "الأنواع",
+                  "value": "⁦23⁩ نوعاً"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Standards",
+                  "value": "SAE 100, EN 853, EN 856"
+                },
+                {
+                  "label": "Reinforcement",
+                  "value": "Braided or spiral steel wire, or textile"
+                },
+                {
+                  "label": "Brake tubing",
+                  "value": "SAE J844 type B"
+                },
+                {
+                  "label": "Types",
+                  "value": "23"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/hydraulic-hoses/hydraulic-hoses.webp"
+            ],
+            "image": "/products/hydraulic-hoses/hydraulic-hoses.webp",
+            "cardImage": "/products/hydraulic-hoses/hydraulic-hoses.webp",
+            "seo": {
+              "title": {
+                "ar": "خراطيم الهيدروليك SAE وEN وأنابيب فرامل الهواء",
+                "en": "SAE and EN Hydraulic Hoses and Air-Brake Tubing"
+              },
+              "description": {
+                "ar": "خراطيم هيدروليك ⁦SAE 100⁩ من ⁦R1AT⁩ إلى ⁦R17⁩ و⁦EN 853⁩ و⁦EN 856⁩، وخراطيم حرارية اللدونة وستانلس، وأنابيب نايلون ⁦SAE J844⁩. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "SAE 100 R1AT to R17, EN 853 and EN 856 hydraulic hoses, thermoplastic and stainless hoses, and SAE J844 nylon tubing. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "الخرطوم المناسب لكل خط هيدروليك في المعدات. اختر من الجدول أدناه.",
+              "en": "The right hose for every hydraulic line on the fleet. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لطلب خرطوم هيدروليك؟",
+                  "a": "المعيار المكتوب على الخرطوم (مثل ⁦R2AT⁩ أو ⁦4SP⁩)، والقطر الداخلي، وضغط التشغيل، والطول ونوع الوصلات في الطرفين."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to order a hydraulic hose?",
+                  "a": "The standard printed on the hose (such as R2AT or 4SP), the inside diameter, the working pressure, and the length and end fittings."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "23",
+                  "label": "نوعاً"
+                },
+                {
+                  "value": "⁦SAE · EN⁩",
+                  "label": "معايير الخراطيم"
+                },
+                {
+                  "value": "J844",
+                  "label": "أنابيب فرامل الهواء"
+                }
+              ],
+              "en": [
+                {
+                  "value": "23",
+                  "label": "Types"
+                },
+                {
+                  "value": "SAE · EN",
+                  "label": "Hose standards"
+                },
+                {
+                  "value": "J844",
+                  "label": "Air-brake tubing"
+                }
+              ]
+            }
+          },
+          {
+            "id": "mobile-light-towers",
+            "name": {
+              "ar": "أبراج الإنارة المتنقلة",
+              "en": "Mobile Light Towers"
+            },
+            "coverImage": "/products/mobile-light-towers/mobile-light-towers.webp",
+            "description": {
+              "ar": "أبراج إنارة يدوية الدفع وعلى مقطورة للعمل الليلي في الحُفر والمصانع والمخيمات، بتدفق ضوئي حتى ⁦440,000⁩ لومن وتشغيل متواصل حتى ⁦120⁩ ساعة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Hand-push and trailer light towers for night work at pits, plants and camps, with up to 440,000 lumens and up to 120 hours of continuous running.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "حتى ⁦440,000⁩ لومن",
+                "تشغيل حتى ⁦120⁩ ساعة بخزان ⁦170⁩ لتر",
+                "صاري حتى ⁦11⁩ م",
+                "محركات ⁦Honda⁩ و⁦Kubota⁩ وغيرها"
+              ],
+              "en": [
+                "Up to 440,000 lumens",
+                "Up to 120 hours on a 170 L tank",
+                "Masts up to 11 m",
+                "Honda, Kubota and other engines"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "التدفق الضوئي",
+                  "value": "⁦72,000⁠–⁠440,000⁩ لومن"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦2⁠–⁠8⁩ كيلوواط"
+                },
+                {
+                  "label": "الصاري",
+                  "value": "⁦1.7⁠–⁠11⁩ م"
+                },
+                {
+                  "label": "النوع",
+                  "value": "يدوي الدفع أو مقطورة"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Luminous flux",
+                  "value": "72,000–440,000 lm"
+                },
+                {
+                  "label": "Power",
+                  "value": "2–8 kW"
+                },
+                {
+                  "label": "Mast",
+                  "value": "1.7–11 m"
+                },
+                {
+                  "label": "Type",
+                  "value": "Hand-push or trailer"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/mobile-light-towers/mobile-light-towers.webp"
+            ],
+            "image": "/products/mobile-light-towers/mobile-light-towers.webp",
+            "cardImage": "/products/mobile-light-towers/mobile-light-towers.webp",
+            "seo": {
+              "title": {
+                "ar": "أبراج الإنارة المتنقلة بالديزل والبنزين",
+                "en": "Mobile Light Towers"
+              },
+              "description": {
+                "ar": "أبراج إنارة يدوية وعلى مقطورة من ⁦72,000⁩ إلى ⁦440,000⁩ لومن، بصاري حتى ⁦11⁩ م وتشغيل حتى ⁦120⁩ ساعة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Hand-push and trailer light towers from 72,000 to 440,000 lm, with masts up to 11 m and up to 120 hours of running. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "إنارة متنقلة للعمل الليلي في الموقع. اختر من الجدول أدناه.",
+              "en": "Mobile lighting for night work on site. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي برج يناسب الحفرة الليلية؟",
+                  "a": "برج على مقطورة بأربعة مصابيح ⁦1000⁩ واط وصاري ⁦11⁩ م يغطي مساحة أوسع، والأبراج اليدوية للورش والمخيمات والمساحات الصغيرة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which tower suits a pit at night?",
+                  "a": "A trailer tower with four 1000 W lamps and an 11 m mast covers a wider area; hand-push towers suit workshops, camps and small areas."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "7",
+                  "label": "موديلات"
+                },
+                {
+                  "value": "⁦440,000⁩",
+                  "label": "لومن كحد أقصى"
+                },
+                {
+                  "value": "⁦120⁩ ساعة",
+                  "label": "أقصى مدة تشغيل"
+                }
+              ],
+              "en": [
+                {
+                  "value": "7",
+                  "label": "Models"
+                },
+                {
+                  "value": "440,000",
+                  "label": "Max lumens"
+                },
+                {
+                  "value": "120 h",
+                  "label": "Max runtime"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
         "id": "safety-site-facilities",
         "title": {
           "ar": "السلامة ومرافق الموقع",

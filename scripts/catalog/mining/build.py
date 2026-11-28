@@ -1,11 +1,11 @@
 """Build the gold-mining section: family JSON files, product entries in data/products.json, images in
 public/products/<id>/ and the family registrations, one subpage per Bestolex catalogue. Run from this folder:
-    python3 build.py [BXC-02=<dir>] [BXC-03=<dir>] [BXC-04=<dir>] [BXC-05=<dir>] [BXC-06=<dir>] [BXC-07=<dir>] [BXC-08=<dir>] [BXC-09=<dir>] [BXS-01=<dir>]
+    python3 build.py [BXC-02=<dir>] [BXC-03=<dir>] [BXC-04=<dir>] [BXC-05=<dir>] [BXC-06=<dir>] [BXC-07=<dir>] [BXC-08=<dir>] [BXC-09=<dir>] [BXC-10=<dir>] [BXS-01=<dir>]
 Images are written only for the catalogues given (prepared cut-outs: prep_*.py); otherwise the files already in
 public/ are kept and only their paths are used."""
 import json, os, re, sys
 from lib import iso, write
-import bxc02_tables, bxc02_products, bxc03_tables, bxc03_products, bxc04_tables, bxc04_products, bxc08_tables, bxc08_products, bxc05_tables, bxc05_products, bxc09_tables, bxc09_products, bxc07_tables, bxc07_products, bxc06_tables, bxc06_products, bxs01_tables, bxs02_tables, bxs_products
+import bxc02_tables, bxc02_products, bxc03_tables, bxc03_products, bxc04_tables, bxc04_products, bxc08_tables, bxc08_products, bxc05_tables, bxc05_products, bxc09_tables, bxc09_products, bxc07_tables, bxc07_products, bxc06_tables, bxc06_products, bxs01_tables, bxs02_tables, bxs_products, bxc10_tables, bxc10_products
 from bxc02_products import SERVICE_AR, SERVICE_EN
 
 REPO = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../..'))
@@ -40,6 +40,8 @@ SUBPAGES = [
      bxc07_tables.F, bxc07_products.P),
     ('BXC-09', {'id': 'laboratory-assay', 'title': {'ar': 'المختبر والتحليل', 'en': 'Laboratory & Assay'}},
      bxc09_tables.F, bxc09_products.P),
+    ('BXC-10', {'id': 'fleet-support', 'title': {'ar': 'دعم الأسطول', 'en': 'Fleet Support'}},
+     bxc10_tables.F, bxc10_products.P),
     ('BXS-01', {'id': 'safety-site-facilities', 'title': {'ar': 'السلامة ومرافق الموقع', 'en': 'Safety & Site Facilities'}},
      {**bxs01_tables.F, **bxs02_tables.F}, bxs_products.P),
 ]
@@ -73,7 +75,7 @@ EXTRA = {'filter-presses-reagent-dosing': ['i-011-017'], 'filter-plates-options-
          'laboratory-balances-micropipettes': ['i-008-012', 'i-008-013'],
          'atomic-absorption-fluorescence-spectrometers': ['i-011-017']}
 PLACEHOLDER = set()
-PHOTO = {'leaching-tanks', 'thickeners', 'membrane-chamber-filter-presses', 'dth-hammers-bits', 'c-series-jaw-gyratory-impact-crushers', 'refractories-quartz-glass-ceramics', 'slurry-pipes-packings-gaskets', 'ductile-iron-steel-pipes-fittings-hoses'}                         # scene photo: centre-cropped to a square, not letterboxed
+PHOTO = {'leaching-tanks', 'thickeners', 'membrane-chamber-filter-presses', 'dth-hammers-bits', 'c-series-jaw-gyratory-impact-crushers', 'refractories-quartz-glass-ceramics', 'slurry-pipes-packings-gaskets', 'ductile-iron-steel-pipes-fittings-hoses', 'bearings-mill-spares'}                         # scene photo: centre-cropped to a square, not letterboxed
 
 
 def image_for(cat, pid, src, n=0):
