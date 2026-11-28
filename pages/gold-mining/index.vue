@@ -85,7 +85,7 @@
                 <span v-if="s.licensed" class="text-sm font-bold border border-[#191919] dark:border-gray-300 rounded-md px-2.5 py-0.5">{{ isAr ? 'للجهات المرخّصة فقط' : 'Licensed buyers only' }}</span>
               </div>
               <!-- Mobile: a small photo beside the title keeps each stage row short -->
-              <img :src="s.image" alt="" aria-hidden="true" loading="lazy" class="md:hidden flex-none w-[84px] h-[64px] rounded-[10px] bg-[#EEF0F0]" :class="s.id === 'process-chemicals' ? 'object-cover' : 'object-contain p-1.5 mix-blend-multiply'">
+              <img :src="s.image" alt="" aria-hidden="true" loading="lazy" class="md:hidden flex-none w-[84px] h-[64px] rounded-[10px] bg-[#EEF0F0] object-cover">
               </div>
               <p class="m-0 text-[16px] md:text-[17px] leading-[1.8] text-[#444545] dark:text-gray-300 max-w-[560px]">{{ t(s.short) }}</p>
               <div class="flex flex-wrap items-baseline gap-x-7 gap-y-3">
@@ -96,7 +96,7 @@
               </div>
             </div>
             <div class="hidden md:block flex-[0_1_320px] aspect-[16/10] rounded-[14px] overflow-hidden bg-[#EEF0F0]">
-              <img :src="s.image" :alt="t(s.title)" loading="lazy" class="w-full h-full" :class="s.id === 'process-chemicals' ? 'object-cover' : 'object-contain p-3.5 mix-blend-multiply'">
+              <img :src="s.image" :alt="t(s.title)" loading="lazy" class="w-full h-full object-cover">
             </div>
           </li>
         </ol>

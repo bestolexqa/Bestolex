@@ -122,7 +122,7 @@
         <div class="grid gap-7 grid-cols-[repeat(auto-fit,minmax(min(340px,100%),1fr))]">
           <NuxtLink v-for="s in stage.next" :key="s.id" :to="localePath(`/gold-mining/${s.id}`)" class="gm-card flex items-center gap-[18px] text-[#191919] dark:text-white">
             <div class="gm-frame flex-[0_0_132px] aspect-[4/3] border border-[#E1E3E3] dark:border-gray-600 rounded-xl overflow-hidden bg-white transition">
-              <img :src="s.image" :alt="t(s.title)" loading="lazy" class="w-full h-full object-contain block">
+              <img :src="s.image" :alt="t(s.title)" loading="lazy" class="w-full h-full object-cover block">
             </div>
             <div class="flex flex-col gap-1.5 min-w-0">
               <h3 class="m-0 font-display font-semibold text-xl">{{ t(s.title) }}</h3>
