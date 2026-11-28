@@ -52,6 +52,20 @@
         "en": "Capacity (t/h)",
         "ar": "الطاقة (طن/ساعة)"
       }
+    },
+    {
+      "key": "models",
+      "label": {
+        "en": "Models",
+        "ar": "الموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
     }
   ],
   "keyRows": [
@@ -664,6 +678,43 @@
       "key": {
         "en": "5–1000 t/h",
         "ar": "⁦5⁠–⁠1000⁩ طن/ساعة"
+      }
+    },
+    {
+      "id": "cs-additional",
+      "label": {
+        "en": "CS cone crushers – additional sizes",
+        "ar": "كسارات مخروطية ⁦CS⁩ – مقاسات إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0018-03-005",
+          "name": {
+            "en": "CS cone crusher (coarse, medium or fine cavity)",
+            "ar": "كسارة مخروطية ⁦CS⁩ (تجويف خشن أو متوسط أو ناعم)"
+          },
+          "specs": {
+            "models": {
+              "en": "CS130, CS200, CS240",
+              "ar": "⁦CS130, CS200, CS240⁩"
+            },
+            "data": {
+              "en": "Series range 27–725 t/h; max. feed 41–267 mm; 75–250 kW",
+              "ar": "نطاق السلسلة ⁦27⁠–⁠725⁩ طن/ساعة؛ أقصى تغذية ⁦41⁠–⁠267⁩ مم؛ ⁦75⁠–⁠250⁩ كيلوواط"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "بند واحد",
+          "بندان",
+          "بنود"
+        ],
+        "en": [
+          "line",
+          "lines"
+        ]
       }
     }
   ]

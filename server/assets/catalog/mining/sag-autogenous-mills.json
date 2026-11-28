@@ -1,0 +1,121 @@
+{
+  "id": "sag-autogenous-mills",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Type",
+    "ar": "النوع"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "use",
+      "label": {
+        "en": "Use",
+        "ar": "الاستخدام"
+      }
+    },
+    {
+      "key": "supply",
+      "label": {
+        "en": "Supply",
+        "ar": "التوريد"
+      }
+    }
+  ],
+  "keyRows": [
+    "use",
+    "supply"
+  ],
+  "types": [
+    {
+      "id": "types",
+      "label": {
+        "en": "Mill types and liners",
+        "ar": "أنواع الطواحين والبطانات"
+      },
+      "models": [
+        {
+          "code": "BX-0034-01-004 / SAG mill (semi-autogenous)",
+          "name": {
+            "en": "SAG mill (semi-autogenous)",
+            "ar": "طاحونة شبه ذاتية (⁦SAG⁩)"
+          },
+          "specs": {
+            "use": {
+              "en": "Primary grinding of run-of-mine or crushed ore in one stage, with a small ball charge",
+              "ar": "طحن أولي لخام المنجم أو الخام المكسّر في مرحلة واحدة، مع شحنة كرات صغيرة"
+            },
+            "supply": {
+              "en": "Mill size, drive and liners selected to the ore and plant tonnage",
+              "ar": "مقاس الطاحونة ونظام الدفع والبطانات حسب الخام وطاقة المصنع"
+            }
+          }
+        },
+        {
+          "code": "BX-0034-01-004 / AG mill (autogenous)",
+          "name": {
+            "en": "AG mill (autogenous)",
+            "ar": "طاحونة ذاتية (⁦AG⁩)"
+          },
+          "specs": {
+            "use": {
+              "en": "Primary grinding with the ore as its own grinding media",
+              "ar": "طحن أولي يكون فيه الخام نفسه وسط الطحن"
+            },
+            "supply": {
+              "en": "Mill size, drive and liners selected to the ore and plant tonnage",
+              "ar": "مقاس الطاحونة ونظام الدفع والبطانات حسب الخام وطاقة المصنع"
+            }
+          }
+        },
+        {
+          "code": "BX-0034-01-004 / Mill liners",
+          "name": {
+            "en": "Mill liners",
+            "ar": "بطانات الطاحونة"
+          },
+          "specs": {
+            "use": {
+              "en": "Shell, end and grid (discharge) liners",
+              "ar": "بطانات الجسم والنهاية والشبكة (التفريغ)"
+            },
+            "supply": {
+              "en": "With the mill and as spares; shells, heads and trunnions fabricated",
+              "ar": "مع الطاحونة وكقطع غيار؛ وتصنيع الأسطوانات والرؤوس والمحاور"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Sized to the plant duty",
+        "ar": "حسب طاقة المصنع"
+      },
+      "countUnit": {
+        "ar": [
+          "بند واحد",
+          "بندان",
+          "بنود"
+        ],
+        "en": [
+          "line",
+          "lines"
+        ]
+      },
+      "intro": {
+        "en": "Mill sizes and capacities are quoted per project: send the ore data and plant tonnage with the enquiry.",
+        "ar": "تُسعَّر مقاسات الطواحين وطاقاتها لكل مشروع: أرسل بيانات الخام وطاقة المصنع مع الطلب."
+      }
+    }
+  ]
+}

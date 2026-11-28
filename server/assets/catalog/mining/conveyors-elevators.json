@@ -1,0 +1,644 @@
+{
+  "id": "conveyors-elevators",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "short-conveyor-length-power",
+      "label": {
+        "en": "Short conveyor: length / power",
+        "ar": "سير قصير: الطول / القدرة"
+      }
+    },
+    {
+      "key": "medium-conveyor-length-power",
+      "label": {
+        "en": "Medium conveyor: length / power",
+        "ar": "سير متوسط: الطول / القدرة"
+      }
+    },
+    {
+      "key": "long-conveyor-length-power",
+      "label": {
+        "en": "Long conveyor: length / power",
+        "ar": "سير طويل: الطول / القدرة"
+      }
+    },
+    {
+      "key": "speed-m-s",
+      "label": {
+        "en": "Speed (m/s)",
+        "ar": "السرعة (م/ث)"
+      }
+    },
+    {
+      "key": "capacity-t-h",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "bucket-width-mm",
+      "label": {
+        "en": "Bucket width (mm)",
+        "ar": "عرض الدلو (مم)"
+      }
+    },
+    {
+      "key": "bucket-pitch-mm",
+      "label": {
+        "en": "Bucket pitch (mm)",
+        "ar": "خطوة الدلاء (مم)"
+      }
+    },
+    {
+      "key": "max-lump-size-mm",
+      "label": {
+        "en": "Max. lump size (mm)",
+        "ar": "أقصى حجم كتلة (مم)"
+      }
+    },
+    {
+      "key": "overall-height-m",
+      "label": {
+        "en": "Overall height (m)",
+        "ar": "الارتفاع الكلي (م)"
+      }
+    },
+    {
+      "key": "capacity-m3-h",
+      "label": {
+        "en": "Capacity (m³/h)",
+        "ar": "الطاقة (م³/ساعة)"
+      }
+    },
+    {
+      "key": "tube-dia-mm",
+      "label": {
+        "en": "Tube Ø (mm)",
+        "ar": "قطر الأنبوب (مم)"
+      }
+    },
+    {
+      "key": "working-angle-deg",
+      "label": {
+        "en": "Working angle (°)",
+        "ar": "زاوية العمل (°)"
+      }
+    },
+    {
+      "key": "max-length-m",
+      "label": {
+        "en": "Max. length (m)",
+        "ar": "أقصى طول (م)"
+      }
+    },
+    {
+      "key": "motor-kw",
+      "label": {
+        "en": "Motor (kW)",
+        "ar": "المحرك (كيلوواط)"
+      }
+    }
+  ],
+  "keyRows": [
+    "short-conveyor-length-power",
+    "medium-conveyor-length-power",
+    "long-conveyor-length-power"
+  ],
+  "types": [
+    {
+      "id": "belt",
+      "label": {
+        "en": "B belt conveyors",
+        "ar": "سيور ناقلة ⁦B⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0016-01-025 / B500",
+          "name": {
+            "en": "B500",
+            "ar": "B500"
+          },
+          "specs": {
+            "short-conveyor-length-power": {
+              "en": "≤ 12 / 4",
+              "ar": "⁦≤ 12 / 4⁩"
+            },
+            "medium-conveyor-length-power": {
+              "en": "12–30 / 5.5–7.5",
+              "ar": "⁦12–30 / 5.5–7.5⁩"
+            },
+            "long-conveyor-length-power": {
+              "en": "30–40 / 11",
+              "ar": "⁦30–40 / 11⁩"
+            },
+            "speed-m-s": {
+              "en": "1.3–1.6",
+              "ar": "⁦1.3–1.6⁩"
+            },
+            "capacity-t-h": {
+              "en": "40–100",
+              "ar": "⁦40–100⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-025 / B650",
+          "name": {
+            "en": "B650",
+            "ar": "B650"
+          },
+          "specs": {
+            "short-conveyor-length-power": {
+              "en": "≤ 12 / 4",
+              "ar": "⁦≤ 12 / 4⁩"
+            },
+            "medium-conveyor-length-power": {
+              "en": "12–30 / 5.5–7.5",
+              "ar": "⁦12–30 / 5.5–7.5⁩"
+            },
+            "long-conveyor-length-power": {
+              "en": "30–40 / 15",
+              "ar": "⁦30–40 / 15⁩"
+            },
+            "speed-m-s": {
+              "en": "1.3–1.6",
+              "ar": "⁦1.3–1.6⁩"
+            },
+            "capacity-t-h": {
+              "en": "80–120",
+              "ar": "⁦80–120⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-025 / B800",
+          "name": {
+            "en": "B800",
+            "ar": "B800"
+          },
+          "specs": {
+            "short-conveyor-length-power": {
+              "en": "≤ 10 / 5.5",
+              "ar": "⁦≤ 10 / 5.5⁩"
+            },
+            "medium-conveyor-length-power": {
+              "en": "10–20 / 7.5–11",
+              "ar": "⁦10–20 / 7.5–11⁩"
+            },
+            "long-conveyor-length-power": {
+              "en": "20–40 / 15–18.5",
+              "ar": "⁦20–40 / 15–18.5⁩"
+            },
+            "speed-m-s": {
+              "en": "1.3–1.6",
+              "ar": "⁦1.3–1.6⁩"
+            },
+            "capacity-t-h": {
+              "en": "120–200",
+              "ar": "⁦120–200⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-025 / B1000",
+          "name": {
+            "en": "B1000",
+            "ar": "B1000"
+          },
+          "specs": {
+            "short-conveyor-length-power": {
+              "en": "≤ 10 / 7.5",
+              "ar": "⁦≤ 10 / 7.5⁩"
+            },
+            "medium-conveyor-length-power": {
+              "en": "10–23 / 11–15",
+              "ar": "⁦10–23 / 11–15⁩"
+            },
+            "long-conveyor-length-power": {
+              "en": "23–40 / 22–30",
+              "ar": "⁦23–40 / 22–30⁩"
+            },
+            "speed-m-s": {
+              "en": "1.3–2.0",
+              "ar": "⁦1.3–2.0⁩"
+            },
+            "capacity-t-h": {
+              "en": "200–320",
+              "ar": "⁦200–320⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-025 / B1200",
+          "name": {
+            "en": "B1200",
+            "ar": "B1200"
+          },
+          "specs": {
+            "short-conveyor-length-power": {
+              "en": "≤ 10 / 11",
+              "ar": "⁦≤ 10 / 11⁩"
+            },
+            "medium-conveyor-length-power": {
+              "en": "10–22 / 15–18.5",
+              "ar": "⁦10–22 / 15–18.5⁩"
+            },
+            "long-conveyor-length-power": {
+              "en": "22–35 / 22–30",
+              "ar": "⁦22–35 / 22–30⁩"
+            },
+            "speed-m-s": {
+              "en": "1.3–2.0",
+              "ar": "⁦1.3–2.0⁩"
+            },
+            "capacity-t-h": {
+              "en": "300–500",
+              "ar": "⁦300–500⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "40–500 t/h",
+        "ar": "⁦40⁠–⁠500⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "Length in metres / motor power in kW for each conveyor length; B = belt width in mm.",
+        "ar": "الطول بالمتر / قدرة المحرك بالكيلوواط لكل طول سير؛ ⁦B⁩ = عرض السير بالملّيمتر."
+      },
+      "keyRows": [
+        "capacity-t-h",
+        "speed-m-s",
+        "short-conveyor-length-power"
+      ]
+    },
+    {
+      "id": "th",
+      "label": {
+        "en": "TH bucket elevators",
+        "ar": "روافع دلوية ⁦TH⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0016-01-026 / TH160",
+          "name": {
+            "en": "TH160",
+            "ar": "TH160"
+          },
+          "specs": {
+            "bucket-width-mm": {
+              "en": "160",
+              "ar": "160"
+            },
+            "bucket-pitch-mm": {
+              "en": "300",
+              "ar": "300"
+            },
+            "speed-m-s": {
+              "en": "1.4",
+              "ar": "⁦1.4⁩"
+            },
+            "max-lump-size-mm": {
+              "en": "25",
+              "ar": "25"
+            },
+            "overall-height-m": {
+              "en": "H + 0.9",
+              "ar": "⁦H + 0.9⁩"
+            },
+            "capacity-m3-h": {
+              "en": "15–30",
+              "ar": "⁦15–30⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-026 / TH250",
+          "name": {
+            "en": "TH250",
+            "ar": "TH250"
+          },
+          "specs": {
+            "bucket-width-mm": {
+              "en": "250",
+              "ar": "250"
+            },
+            "bucket-pitch-mm": {
+              "en": "420",
+              "ar": "420"
+            },
+            "speed-m-s": {
+              "en": "1.6",
+              "ar": "⁦1.6⁩"
+            },
+            "max-lump-size-mm": {
+              "en": "35",
+              "ar": "35"
+            },
+            "overall-height-m": {
+              "en": "H + 1.2",
+              "ar": "⁦H + 1.2⁩"
+            },
+            "capacity-m3-h": {
+              "en": "31–48",
+              "ar": "⁦31–48⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-026 / TH315",
+          "name": {
+            "en": "TH315",
+            "ar": "TH315"
+          },
+          "specs": {
+            "bucket-width-mm": {
+              "en": "315",
+              "ar": "315"
+            },
+            "bucket-pitch-mm": {
+              "en": "500",
+              "ar": "500"
+            },
+            "speed-m-s": {
+              "en": "1.6",
+              "ar": "⁦1.6⁩"
+            },
+            "max-lump-size-mm": {
+              "en": "45",
+              "ar": "45"
+            },
+            "overall-height-m": {
+              "en": "H + 1.2",
+              "ar": "⁦H + 1.2⁩"
+            },
+            "capacity-m3-h": {
+              "en": "35–60",
+              "ar": "⁦35–60⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-026 / TH400",
+          "name": {
+            "en": "TH400",
+            "ar": "TH400"
+          },
+          "specs": {
+            "bucket-width-mm": {
+              "en": "400",
+              "ar": "400"
+            },
+            "bucket-pitch-mm": {
+              "en": "560",
+              "ar": "560"
+            },
+            "speed-m-s": {
+              "en": "1.8",
+              "ar": "⁦1.8⁩"
+            },
+            "max-lump-size-mm": {
+              "en": "55",
+              "ar": "55"
+            },
+            "overall-height-m": {
+              "en": "H + 1.5",
+              "ar": "⁦H + 1.5⁩"
+            },
+            "capacity-m3-h": {
+              "en": "60–94",
+              "ar": "⁦60–94⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-026 / TH500",
+          "name": {
+            "en": "TH500",
+            "ar": "TH500"
+          },
+          "specs": {
+            "bucket-width-mm": {
+              "en": "500",
+              "ar": "500"
+            },
+            "bucket-pitch-mm": {
+              "en": "625",
+              "ar": "625"
+            },
+            "speed-m-s": {
+              "en": "1.8",
+              "ar": "⁦1.8⁩"
+            },
+            "max-lump-size-mm": {
+              "en": "60",
+              "ar": "60"
+            },
+            "overall-height-m": {
+              "en": "H + 1.5",
+              "ar": "⁦H + 1.5⁩"
+            },
+            "capacity-m3-h": {
+              "en": "75–118",
+              "ar": "⁦75–118⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "15–118 m³/h",
+        "ar": "⁦15⁠–⁠118⁩ م³/ساعة"
+      },
+      "intro": {
+        "en": "H = lifting height.",
+        "ar": "⁦H⁩ = ارتفاع الرفع."
+      },
+      "keyRows": [
+        "bucket-width-mm",
+        "max-lump-size-mm",
+        "capacity-m3-h"
+      ]
+    },
+    {
+      "id": "lsy",
+      "label": {
+        "en": "LSY screw conveyors",
+        "ar": "ناقلات حلزونية ⁦LSY⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0016-01-027 / LSY165",
+          "name": {
+            "en": "LSY165",
+            "ar": "LSY165"
+          },
+          "specs": {
+            "tube-dia-mm": {
+              "en": "165",
+              "ar": "165"
+            },
+            "working-angle-deg": {
+              "en": "0–60",
+              "ar": "⁦0–60⁩"
+            },
+            "max-length-m": {
+              "en": "12",
+              "ar": "12"
+            },
+            "capacity-m3-h": {
+              "en": "3–10",
+              "ar": "⁦3–10⁩"
+            },
+            "motor-kw": {
+              "en": "2.2–15",
+              "ar": "⁦2.2–15⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-027 / LSY219",
+          "name": {
+            "en": "LSY219",
+            "ar": "LSY219"
+          },
+          "specs": {
+            "tube-dia-mm": {
+              "en": "219",
+              "ar": "219"
+            },
+            "working-angle-deg": {
+              "en": "0–60",
+              "ar": "⁦0–60⁩"
+            },
+            "max-length-m": {
+              "en": "13",
+              "ar": "13"
+            },
+            "capacity-m3-h": {
+              "en": "5–20",
+              "ar": "⁦5–20⁩"
+            },
+            "motor-kw": {
+              "en": "2.2–22",
+              "ar": "⁦2.2–22⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-027 / LSY273",
+          "name": {
+            "en": "LSY273",
+            "ar": "LSY273"
+          },
+          "specs": {
+            "tube-dia-mm": {
+              "en": "273",
+              "ar": "273"
+            },
+            "working-angle-deg": {
+              "en": "0–60",
+              "ar": "⁦0–60⁩"
+            },
+            "max-length-m": {
+              "en": "15",
+              "ar": "15"
+            },
+            "capacity-m3-h": {
+              "en": "12–40",
+              "ar": "⁦12–40⁩"
+            },
+            "motor-kw": {
+              "en": "3–22",
+              "ar": "⁦3–22⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-027 / LSY325",
+          "name": {
+            "en": "LSY325",
+            "ar": "LSY325"
+          },
+          "specs": {
+            "tube-dia-mm": {
+              "en": "325",
+              "ar": "325"
+            },
+            "working-angle-deg": {
+              "en": "0–60",
+              "ar": "⁦0–60⁩"
+            },
+            "max-length-m": {
+              "en": "15",
+              "ar": "15"
+            },
+            "capacity-m3-h": {
+              "en": "20–65",
+              "ar": "⁦20–65⁩"
+            },
+            "motor-kw": {
+              "en": "5.5–22",
+              "ar": "⁦5.5–22⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-027 / LSY425",
+          "name": {
+            "en": "LSY425",
+            "ar": "LSY425"
+          },
+          "specs": {
+            "tube-dia-mm": {
+              "en": "425",
+              "ar": "425"
+            },
+            "working-angle-deg": {
+              "en": "0–60",
+              "ar": "⁦0–60⁩"
+            },
+            "max-length-m": {
+              "en": "18",
+              "ar": "18"
+            },
+            "capacity-m3-h": {
+              "en": "35–100",
+              "ar": "⁦35–100⁩"
+            },
+            "motor-kw": {
+              "en": "5.5–22",
+              "ar": "⁦5.5–22⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "3–100 m³/h",
+        "ar": "⁦3⁠–⁠100⁩ م³/ساعة"
+      },
+      "keyRows": [
+        "tube-dia-mm",
+        "capacity-m3-h",
+        "motor-kw"
+      ]
+    }
+  ]
+}

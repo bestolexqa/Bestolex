@@ -1,0 +1,209 @@
+{
+  "id": "ceramic-grinding-media",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Media type",
+    "ar": "نوع الوسط"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "grade",
+      "label": {
+        "en": "Grade / model",
+        "ar": "الدرجة / الموديل"
+      }
+    },
+    {
+      "key": "size",
+      "label": {
+        "en": "Size (mm)",
+        "ar": "المقاس (مم)"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "grade",
+    "size",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "media",
+      "label": {
+        "en": "Ceramic grinding media",
+        "ar": "كرات الطحن الخزفية"
+      },
+      "models": [
+        {
+          "code": "BX-0174-01-001",
+          "name": {
+            "en": "Alumina grinding balls",
+            "ar": "كرات طحن ألومينا"
+          },
+          "specs": {
+            "grade": {
+              "en": "60, 75, 92 or 99 % Al2O3",
+              "ar": "ألومينا ⁦60⁩ أو ⁦75⁩ أو ⁦92⁩ أو ⁦99%⁩"
+            },
+            "size": {
+              "en": "0.5–30 (92 % to 70)",
+              "ar": "⁦0.5⁠–⁠30 (92%⁩ حتى ⁦70⁩)"
+            },
+            "data": {
+              "en": "Density ≥ 2.8–3.8 g/cm³; hardness ≥ 7–14 GPa",
+              "ar": "الكثافة ≥ ⁦2.8⁠–⁠3.8⁩ غ/سم³؛ الصلادة ≥ ⁦7⁠–⁠14⁩ جيجاباسكال"
+            }
+          }
+        },
+        {
+          "code": "BX-0174-01-002",
+          "name": {
+            "en": "ZTA grinding media",
+            "ar": "وسط طحن ⁦ZTA⁩"
+          },
+          "specs": {
+            "grade": {
+              "en": "Zirconia-toughened alumina",
+              "ar": "ألومينا مقوّاة بالزركونيا"
+            },
+            "size": {
+              "en": "1–30",
+              "ar": "⁦1–30⁩"
+            },
+            "data": {
+              "en": "Density ≥ 3.7–5.0 g/cm³",
+              "ar": "الكثافة ≥ ⁦3.7⁠–⁠5.0⁩ غ/سم³"
+            }
+          }
+        },
+        {
+          "code": "BX-0174-01-005",
+          "name": {
+            "en": "Balls for horizontal stirred mills",
+            "ar": "كرات للطواحين الأفقية ذات التقليب"
+          },
+          "specs": {
+            "grade": {
+              "en": "HCTA370A · HCTA450",
+              "ar": "⁦HCTA370A · HCTA450⁩"
+            },
+            "size": {
+              "en": "3 · 3.5 · 5",
+              "ar": "⁦3 · 3.5 · 5⁩"
+            },
+            "data": {
+              "en": "Density 3.75 / 4.45 g/cm³",
+              "ar": "الكثافة ⁦3.75 / 4.45⁩ غ/سم³"
+            }
+          }
+        },
+        {
+          "code": "BX-0174-01-006",
+          "name": {
+            "en": "Balls for tower (vertical) mills",
+            "ar": "كرات للطواحين البرجية (الرأسية)"
+          },
+          "specs": {
+            "grade": {
+              "en": "HCTA370 · HCTA450",
+              "ar": "⁦HCTA370 · HCTA450⁩"
+            },
+            "size": {
+              "en": "5–20",
+              "ar": "⁦5–20⁩"
+            },
+            "data": {
+              "en": "Self-wear ≤ 0.03 g/kg·h",
+              "ar": "التآكل الذاتي ≤ ⁦0.03⁩ غ/كغ·ساعة"
+            }
+          }
+        },
+        {
+          "code": "BX-0174-01-007",
+          "name": {
+            "en": "Balls for ball mills (regrind)",
+            "ar": "كرات للطواحين الكروية (إعادة الطحن)"
+          },
+          "specs": {
+            "grade": {
+              "en": "HCGA360 · HCTA450",
+              "ar": "⁦HCGA360 · HCTA450⁩"
+            },
+            "size": {
+              "en": "20 · 25 · 30 · 35",
+              "ar": "⁦20 · 25 · 30 · 35⁩"
+            },
+            "data": {
+              "en": "Density 3.7 / 4.5 g/cm³; self-wear ≤ 0.025–0.03 g/kg·h",
+              "ar": "الكثافة ⁦3.7 / 4.5⁩ غ/سم³؛ التآكل الذاتي ≤ ⁦0.025⁠–⁠0.03⁩ غ/كغ·ساعة"
+            }
+          }
+        },
+        {
+          "code": "BX-0629-01-001",
+          "name": {
+            "en": "92 % alumina balls – larger sizes",
+            "ar": "كرات ألومينا ⁦92%⁩ – مقاسات أكبر"
+          },
+          "specs": {
+            "grade": {
+              "en": "92 % Al2O3",
+              "ar": "ألومينا ⁦92%⁩"
+            },
+            "size": {
+              "en": "30–80",
+              "ar": "⁦30–80⁩"
+            },
+            "data": {
+              "en": "High-alumina ceramic",
+              "ar": "خزف عالي الألومينا"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "0.5–80 mm",
+        "ar": "⁦0.5⁠–⁠80⁩ مم"
+      },
+      "countUnit": {
+        "ar": [
+          "نوع واحد",
+          "نوعان",
+          "أنواع"
+        ],
+        "en": [
+          "type",
+          "types"
+        ]
+      },
+      "intro": {
+        "en": "Iron-free media for fine grinding and regrinding; size and grade are selected to the mill and the target grind.",
+        "ar": "وسط طحن خالٍ من الحديد للطحن الناعم وإعادة الطحن؛ يُختار المقاس والدرجة حسب الطاحونة ونعومة الطحن المطلوبة."
+      },
+      "keyRows": [
+        "grade",
+        "size",
+        "data"
+      ]
+    }
+  ]
+}

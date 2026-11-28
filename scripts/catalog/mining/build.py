@@ -5,7 +5,7 @@ Images are written only for the catalogues given (prepared cut-outs: prep_*.py);
 public/ are kept and only their paths are used."""
 import json, os, re, sys
 from lib import iso, write
-import bxc02_tables, bxc02_products, bxc03_tables, bxc03_products, bxc04_tables, bxc04_products, bxc08_tables, bxc08_products, bxc05_tables, bxc05_products, bxc09_tables, bxc09_products, bxc07_tables, bxc07_products, bxc06_tables, bxc06_products, bxs01_tables, bxs02_tables, bxs_products, bxc10_tables, bxc10_products
+import bxc02_tables, bxc02_products, bxc03_tables, bxc03_products, bxc04_tables, bxc04_products, bxc04b_tables, bxc04b_products, bxc08_tables, bxc08_products, bxc05_tables, bxc05_products, bxc09_tables, bxc09_products, bxc07_tables, bxc07_products, bxc06_tables, bxc06_products, bxs01_tables, bxs02_tables, bxs_products, bxc10_tables, bxc10_products
 from bxc02_products import SERVICE_AR, SERVICE_EN
 
 REPO = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../..'))
@@ -29,7 +29,7 @@ SUBPAGES = [
     ('BXC-03', {'id': 'drilling-consumables', 'title': {'ar': 'مستهلكات الحفر', 'en': 'Drilling Consumables'}},
      bxc03_tables.F, bxc03_products.P),
     ('BXC-04', {'id': 'crushing-grinding-screening', 'title': {'ar': 'التكسير والطحن والغربلة', 'en': 'Crushing, Grinding & Screening'}},
-     bxc04_tables.F, bxc04_products.P),
+     {**bxc04_tables.F, **bxc04b_tables.F}, bxc04_products.P + bxc04b_products.P),
     ('BXC-05', {'id': 'washing-gold-concentration', 'title': {'ar': 'الغسيل وتركيز الذهب', 'en': 'Washing & Gold Concentration'}},
      bxc05_tables.F, bxc05_products.P),
     ('BXC-08', {'id': 'smelting-refining', 'title': {'ar': 'الصهر والتنقية', 'en': 'Smelting & Refining'}},
@@ -73,9 +73,14 @@ EXTRA = {'filter-presses-reagent-dosing': ['i-011-017'], 'filter-plates-options-
          'sample-crushing-pulverizing': ['i-003-001', 'i-003-002'],
          'fire-assay-furnaces-cupels': ['i-006-008'],
          'laboratory-balances-micropipettes': ['i-008-012', 'i-008-013'],
-         'atomic-absorption-fluorescence-spectrometers': ['i-011-017']}
+         'atomic-absorption-fluorescence-spectrometers': ['i-011-017'],
+         # BXC-04 part 2: liners and part photos on the same catalogue page
+         'sag-autogenous-mills': ['i-027-007', 'i-027-009', 'i-027-008'],
+         'hydrocyclones': ['i-028-012'],
+         'inclined-vibrating-screens': ['i-036-020'],
+         'crusher-wear-spare-parts': ['i-049-035', 'i-049-036', 'i-049-037']}
 PLACEHOLDER = set()
-PHOTO = {'leaching-tanks', 'thickeners', 'membrane-chamber-filter-presses', 'dth-hammers-bits', 'c-series-jaw-gyratory-impact-crushers', 'refractories-quartz-glass-ceramics', 'slurry-pipes-packings-gaskets', 'ductile-iron-steel-pipes-fittings-hoses', 'bearings-mill-spares'}                         # scene photo: centre-cropped to a square, not letterboxed
+PHOTO = {'leaching-tanks', 'thickeners', 'membrane-chamber-filter-presses', 'dth-hammers-bits', 'c-series-jaw-gyratory-impact-crushers', 'refractories-quartz-glass-ceramics', 'slurry-pipes-packings-gaskets', 'ductile-iron-steel-pipes-fittings-hoses', 'bearings-mill-spares', 'sag-autogenous-mills', 'ceramic-grinding-media', 'crusher-wear-spare-parts', 'ceramic-wear-protection'}                         # scene photo: centre-cropped to a square, not letterboxed
 
 
 def image_for(cat, pid, src, n=0):
@@ -86,7 +91,8 @@ def image_for(cat, pid, src, n=0):
     name = pid if n == 0 else f'{pid}-{n + 1}'
     dst = f'{out_dir}/{name}.webp'
     d = IMGDIRS.get(cat)
-    if d and pid not in PLACEHOLDER:
+    # A catalogue folder may hold only the families being added; the others keep the files already in public/.
+    if d and pid not in PLACEHOLDER and (os.path.exists(f'{d}/{src}.png') or not os.path.exists(dst)):
         im = Image.open(f'{d}/{src}.png').convert('RGB')
         if pid in PHOTO:
             e = min(im.size)

@@ -1,0 +1,293 @@
+{
+  "id": "drive-v-belts-industrial-rubber",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "sections",
+      "label": {
+        "en": "Sections / grades",
+        "ar": "المقاطع / الدرجات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    },
+    {
+      "key": "sizes",
+      "label": {
+        "en": "Sizes / grades",
+        "ar": "المقاسات / الدرجات"
+      }
+    }
+  ],
+  "keyRows": [
+    "sections",
+    "data",
+    "sizes"
+  ],
+  "types": [
+    {
+      "id": "vbelts",
+      "label": {
+        "en": "Drive V-belts",
+        "ar": "سيور ⁦V⁩ لنقل الحركة"
+      },
+      "models": [
+        {
+          "code": "BX-0684-03-001",
+          "name": {
+            "en": "Classical wrapped V-belt",
+            "ar": "سير ⁦V⁩ كلاسيكي ملفوف"
+          },
+          "specs": {
+            "sections": {
+              "en": "K, Z, A, AB, B, BC, C, CD, D, CE, CL, E, F",
+              "ar": "⁦K, Z, A, AB, B, BC, C, CD, D, CE, CL, E, F⁩"
+            },
+            "data": {
+              "en": "Top width 8–50 mm; 40°; lengths about 356–21,000 mm; high strength, low stretch",
+              "ar": "العرض العلوي ⁦8⁠–⁠50⁩ مم؛ ⁦40°⁩؛ أطوال نحو ⁦356⁠–⁠21,000⁩ مم؛ متانة عالية واستطالة قليلة"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-03-002",
+          "name": {
+            "en": "Wrapped narrow (wedge) V-belt",
+            "ar": "سير ⁦V⁩ ضيق (إسفيني) ملفوف"
+          },
+          "specs": {
+            "sections": {
+              "en": "3V (9N), 5V (15N), 8V (25N), SPZ, SPA, SPB, SPC",
+              "ar": "⁦3V (9N), 5V (15N), 8V (25N), SPZ, SPA, SPB, SPC⁩"
+            },
+            "data": {
+              "en": "Top width 9.5–25.5 mm; lengths 508–20,955 mm; up to 40 m/s; efficiency above 95 %",
+              "ar": "العرض العلوي ⁦9.5⁠–⁠25.5⁩ مم؛ أطوال ⁦508⁠–⁠20,955⁩ مم؛ حتى ⁦40⁩ م/ث؛ كفاءة أعلى من ⁦95%⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-03-004",
+          "name": {
+            "en": "Banded classical V-belt",
+            "ar": "سير ⁦V⁩ كلاسيكي مجمّع"
+          },
+          "specs": {
+            "sections": {
+              "en": "AJ, BJ, CJ, DJ",
+              "ar": "⁦AJ, BJ, CJ, DJ⁩"
+            },
+            "data": {
+              "en": "Top width 13.6–32.8 mm; lengths 1549–15,748 mm; stops belt whip and turn-over",
+              "ar": "العرض العلوي ⁦13.6⁠–⁠32.8⁩ مم؛ أطوال ⁦1549⁠–⁠15,748⁩ مم؛ يمنع اهتزاز السير وانقلابه"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-03-005",
+          "name": {
+            "en": "Banded wedge V-belt",
+            "ar": "سير ⁦V⁩ إسفيني مجمّع"
+          },
+          "specs": {
+            "sections": {
+              "en": "3V (9J), 5V (15J), 8V (25J), SPZ, SPA, SPB, SPC",
+              "ar": "⁦3V (9J), 5V (15J), 8V (25J), SPZ, SPA, SPB, SPC⁩"
+            },
+            "data": {
+              "en": "For heavy and shock loads",
+              "ar": "للأحمال الثقيلة والصدمات"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-04-007",
+          "name": {
+            "en": "Raw-edge cogged V-belt",
+            "ar": "سير ⁦V⁩ مسنّن بحافة خام"
+          },
+          "specs": {
+            "sections": {
+              "en": "AVX, ZX, AX, BX, CX, DX, XPZ, XPA, XPB, XPC, 3VX, 5VX, 8VX, RECMF",
+              "ar": "⁦AVX, ZX, AX, BX, CX, DX, XPZ, XPA, XPB, XPC, 3VX, 5VX, 8VX, RECMF⁩"
+            },
+            "data": {
+              "en": "Top width 9.5–32 mm; for small pulleys and high speeds; heat-, oil- and wear-resistant",
+              "ar": "العرض العلوي ⁦9.5⁠–⁠32⁩ مم؛ للبكرات الصغيرة والسرعات العالية؛ مقاوم للحرارة والزيت والتآكل"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-03-009",
+          "name": {
+            "en": "Aramid-cord V-belt",
+            "ar": "سير ⁦V⁩ بحبال أراميد"
+          },
+          "specs": {
+            "sections": {
+              "en": "Made to section and length",
+              "ar": "حسب المقطع والطول"
+            },
+            "data": {
+              "en": "High tensile strength, very low stretch; no re-tensioning; for severe shock loads",
+              "ar": "مقاومة شد عالية واستطالة قليلة جداً؛ لا يحتاج إعادة شد؛ للصدمات الشديدة"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Top width 8–50 mm",
+        "ar": "العرض العلوي ⁦8⁠–⁠50⁩ مم"
+      },
+      "countUnit": {
+        "ar": [
+          "نوع واحد",
+          "نوعان",
+          "أنواع"
+        ],
+        "en": [
+          "type",
+          "types"
+        ]
+      },
+      "keyRows": [
+        "sections",
+        "data"
+      ]
+    },
+    {
+      "id": "rubber",
+      "label": {
+        "en": "Industrial rubber for conveyors and wear lining",
+        "ar": "المطاط الصناعي للسيور وتبطين التآكل"
+      },
+      "models": [
+        {
+          "code": "BX-0717-01-016",
+          "name": {
+            "en": "High tear-resistant rubber sheet NR40",
+            "ar": "لوح مطاط عالي مقاومة التمزق ⁦NR40⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "1–30 mm thick; up to 2 m wide",
+              "ar": "سماكة ⁦1⁠–⁠30⁩ مم؛ عرض حتى ⁦2⁩ م"
+            },
+            "data": {
+              "en": "Shore A 40 ± 5; tensile ≥ 22 MPa; elongation ≥ 700 %; tear ≥ 60 N/mm; −40 to 80 °C",
+              "ar": "صلادة ⁦40 ± 5⁩ شور ⁦A⁩؛ شد ≥ ⁦22⁩ ميجاباسكال؛ استطالة ≥ ⁦700%⁩؛ تمزق ≥ ⁦60⁩ نيوتن/مم؛ من −⁦40⁩ إلى ⁦80°⁩م"
+            }
+          }
+        },
+        {
+          "code": "BX-0717-01-017",
+          "name": {
+            "en": "Abrasion-resistant rubber sheet for mines",
+            "ar": "لوح مطاط مقاوم للتآكل للمناجم"
+          },
+          "specs": {
+            "sizes": {
+              "en": "Grades 6, 8, 10, 12, 15 MPa; 1–30 mm thick; ≤ 2 m wide; ≤ 10 m long",
+              "ar": "درجات ⁦6⁩ و⁦8⁩ و⁦10⁩ و⁦12⁩ و⁦15⁩ ميجاباسكال؛ سماكة ⁦1⁠–⁠30⁩ مم؛ عرض ≤ ⁦2⁩ م؛ طول ≤ ⁦10⁩ م"
+            },
+            "data": {
+              "en": "Shore A 65 ± 5 (or 60 ± 5); abrasion ≤ 90–350 mm³ by grade",
+              "ar": "صلادة ⁦65 ± 5⁩ شور ⁦A⁩ (أو ⁦60 ± 5⁩)؛ تآكل ≤ ⁦90⁠–⁠350⁩ مم³ حسب الدرجة"
+            }
+          }
+        },
+        {
+          "code": "BX-0717-01-018",
+          "name": {
+            "en": "Rubber pulley lagging",
+            "ar": "تكسية البكرات بالمطاط"
+          },
+          "specs": {
+            "sizes": {
+              "en": "10, 12, 15 mm thick; 0.6–2 m wide; 1–20 m long",
+              "ar": "سماكة ⁦10⁩ و⁦12⁩ و⁦15⁩ مم؛ عرض ⁦0.6⁠–⁠2⁩ م؛ طول ⁦1⁠–⁠20⁩ م"
+            },
+            "data": {
+              "en": "Shore A 60 ± 5; tensile ≥ 10 MPa; abrasion ≤ 150 mm³; CN bonding layer available",
+              "ar": "صلادة ⁦60 ± 5⁩ شور ⁦A⁩؛ شد ≥ ⁦10⁩ ميجاباسكال؛ تآكل ≤ ⁦150⁩ مم³؛ طبقة لصق ⁦CN⁩ متوفرة"
+            }
+          }
+        },
+        {
+          "code": "BX-0717-01-019",
+          "name": {
+            "en": "Sandwich rubber for belt cleaners",
+            "ar": "مطاط متعدد الطبقات لمنظفات السيور"
+          },
+          "specs": {
+            "sizes": {
+              "en": "Shore A 55, 60, 65",
+              "ar": "صلادة ⁦55⁩ و⁦60⁩ و⁦65⁩ شور ⁦A⁩"
+            },
+            "data": {
+              "en": "Tensile 4–15 MPa; scraper blades for dust and wet slurry",
+              "ar": "شد ⁦4⁠–⁠15⁩ ميجاباسكال؛ شفرات كشط للغبار واللب الرطب"
+            }
+          }
+        },
+        {
+          "code": "BX-0717-01-020",
+          "name": {
+            "en": "Rubber skirt board",
+            "ar": "ألواح مطاط جانبية للسيور"
+          },
+          "specs": {
+            "sizes": {
+              "en": "6–50 mm thick; 0.6–2 m wide; 1–20 m long",
+              "ar": "سماكة ⁦6⁠–⁠50⁩ مم؛ عرض ⁦0.6⁠–⁠2⁩ م؛ طول ⁦1⁠–⁠20⁩ م"
+            },
+            "data": {
+              "en": "NR / SBR, Shore A 40–60; −40 to +100 °C; seals belt edges against spillage and dust",
+              "ar": "⁦NR / SBR⁩ بصلادة ⁦40⁠–⁠60⁩ شور ⁦A⁩؛ من −⁦40⁩ إلى +⁦100°⁩م؛ تحكم حواف السير ضد الانسكاب والغبار"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1–50 mm thick",
+        "ar": "سماكة ⁦1⁠–⁠50⁩ مم"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      },
+      "keyRows": [
+        "sizes",
+        "data"
+      ]
+    }
+  ]
+}

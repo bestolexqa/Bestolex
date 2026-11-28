@@ -17730,12 +17730,14 @@
               "ar": [
                 "⁦6⁩ كسارات ⁦CS⁩ بقطر مخروط حتى ⁦7⁩ أقدام وطاقة ⁦27⁠–⁠1814⁩ طن/ساعة",
                 "⁦14⁩ كسارة ⁦PY⁩ نابضية بتجويف ⁦B⁩ خشن و⁦Z⁩ متوسط و⁦D⁩ ناعم",
+                "⁦3⁩ مقاسات ⁦CS⁩ إضافية: ⁦CS130⁩ و⁦CS200⁩ و⁦CS240⁩",
                 "فتحة تفريغ من ⁦3⁩ إلى ⁦64⁩ مم",
                 "تصميم بسيط سهل الصيانة في المواقع البعيدة"
               ],
               "en": [
                 "6 CS crushers with cone diameter up to 7 ft, 27–1814 t/h",
                 "14 PY spring cone crushers with B coarse, Z medium and D fine cavities",
+                "3 additional CS sizes: CS130, CS200 and CS240",
                 "Discharge setting from 3 to 64 mm",
                 "Simple design, easy to maintain on remote sites"
               ]
@@ -17832,7 +17834,7 @@
             "stats": {
               "ar": [
                 {
-                  "value": "20",
+                  "value": "23",
                   "label": "موديلاً"
                 },
                 {
@@ -17846,7 +17848,7 @@
               ],
               "en": [
                 {
-                  "value": "20",
+                  "value": "23",
                   "label": "Models"
                 },
                 {
@@ -19161,6 +19163,3639 @@
                 {
                   "value": "8",
                   "label": "Plant types"
+                }
+              ]
+            }
+          },
+          {
+            "id": "wet-pan-mills",
+            "name": {
+              "ar": "الطواحين الرطبة (الطاحونة الدائرية)",
+              "en": "Wet Pan Mills"
+            },
+            "coverImage": "/products/wet-pan-mills/wet-pan-mills.webp",
+            "description": {
+              "ar": "طاحونة دائرية تطحن الخام المكسّر مع الماء لتحرير الذهب الحر قبل استخلاصه بالجاذبية. عشرة موديلات من ⁦1100⁩ إلى ⁦1600⁩.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "A pan mill that grinds crushed ore with water to release free gold for gravity recovery. Ten models from 1100 to 1600.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦10⁩ موديلات من ⁦1100B⁩ إلى ⁦1600A⁩",
+                "حجم تغذية حتى ⁦25⁩ مم",
+                "قدرة ⁦5.5⁠–⁠30⁩ كيلوواط ووزن ⁦4⁠–⁠14.5⁩ طن",
+                "نسختان ⁦A⁩ و⁦B⁩ لمعظم المقاسات تختلفان في السرعة والوزن"
+              ],
+              "en": [
+                "10 models from 1100B to 1600A",
+                "Feed size up to 25 mm",
+                "5.5–30 kW power, 4–14.5 t weight",
+                "A and B versions for most sizes, differing in speed and weight"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الموديلات",
+                  "value": "⁦1100B – 1600A⁩"
+                },
+                {
+                  "label": "حجم التغذية",
+                  "value": "≤ ⁦25⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦5.5⁠–⁠30⁩ كيلوواط"
+                },
+                {
+                  "label": "السرعة",
+                  "value": "⁦16⁠–⁠25⁩ دورة/دقيقة"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Models",
+                  "value": "1100B – 1600A"
+                },
+                {
+                  "label": "Feed size",
+                  "value": "≤ 25 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "5.5–30 kW"
+                },
+                {
+                  "label": "Speed",
+                  "value": "16–25 r/min"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/wet-pan-mills/wet-pan-mills.webp"
+            ],
+            "image": "/products/wet-pan-mills/wet-pan-mills.webp",
+            "cardImage": "/products/wet-pan-mills/wet-pan-mills.webp",
+            "seo": {
+              "title": {
+                "ar": "الطواحين الرطبة الدائرية 1100–1600 مم",
+                "en": "Wet Pan Mills 1100–1600 mm"
+              },
+              "description": {
+                "ar": "طواحين رطبة دائرية لطحن خام الذهب المكسّر وتحرير الذهب الحر: ⁦10⁩ موديلات بقدرة ⁦5.5⁠–⁠30⁩ كيلوواط وتغذية حتى ⁦25⁩ مم. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Wet pan mills for grinding crushed gold ore and releasing free gold: 10 models, 5.5–30 kW, feed up to 25 mm. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "طواحين رطبة دائرية من ⁦1100⁩ إلى ⁦1600⁩ مم لطحن الخام المكسّر وتحرير الذهب الحر. اختر من الجدول أدناه.",
+              "en": "Wet pan mills from 1100 to 1600 mm for grinding crushed ore and releasing free gold. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما حجم الخام الذي تقبله الطاحونة الرطبة؟",
+                  "a": "حتى ⁦25⁩ مم في كل الموديلات، لذلك تأتي بعد كسارة فكية أو مطرقية. اختر المقاس حسب الطاقة المطلوبة: الموديلات الكبيرة ⁦1500⁩ و⁦1600⁩ بقدرة ⁦18.5⁠–⁠30⁩ كيلوواط."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What ore size does a wet pan mill take?",
+                  "a": "Up to 25 mm on every model, so it follows a jaw or hammer crusher. Choose the size by the throughput you need: the large 1500 and 1600 models have 18.5–30 kW."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "10",
+                  "label": "موديلات"
+                },
+                {
+                  "value": "⁦5.5⁠–⁠30⁩ كيلوواط",
+                  "label": "القدرة"
+                },
+                {
+                  "value": "≤ ⁦25⁩ مم",
+                  "label": "حجم التغذية"
+                }
+              ],
+              "en": [
+                {
+                  "value": "10",
+                  "label": "Models"
+                },
+                {
+                  "value": "5.5–30 kW",
+                  "label": "Power"
+                },
+                {
+                  "value": "≤ 25 mm",
+                  "label": "Feed size"
+                }
+              ]
+            }
+          },
+          {
+            "id": "ball-mills-small-medium",
+            "name": {
+              "ar": "الطواحين الكروية – صغيرة ومتوسطة",
+              "en": "Ball Mills – Small to Medium"
+            },
+            "coverImage": "/products/ball-mills-small-medium/ball-mills-small-medium.webp",
+            "description": {
+              "ar": "طواحين كروية رطبة بتفريغ الفيضان من ⁦1.1⁩ طن/ساعة للمصانع التجريبية حتى ⁦91⁩ طن/ساعة لدوائر ⁦CIL⁩ الكاملة، بنعومة حتى ⁦0.074⁩ مم، مع طواحين كروية مخروطية ⁦GZM⁩ من ⁦0.2⁩ طن/ساعة للمصانع الصغيرة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Wet overflow ball mills from 1.1 t/h for pilot plants up to 91 t/h for full CIL circuits, grinding to 0.074 mm, with GZM cone ball mills from 0.2 t/h for small plants.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦20⁩ طاحونة رطبة من Ø⁦1.2×3.0⁩ إلى Ø⁦4.0×5.0⁩ م بطاقة ⁦1.1⁠–⁠91⁩ طن/ساعة",
+                "⁦11⁩ طاحونة مخروطية ⁦GZM⁩ بطاقة ⁦0.2⁠–⁠70⁩ طن/ساعة",
+                "ناتج ⁦0.074⁠–⁠0.6⁩ مم وتغذية حتى ⁦25⁩ مم",
+                "مقاسان إضافيان رطب أو جاف: ⁦2200 × 5500⁩ و⁦2400 × 3000⁩ مم"
+              ],
+              "en": [
+                "20 wet mills from Ø1.2×3.0 to Ø4.0×5.0 m, 1.1–91 t/h",
+                "11 GZM cone ball mills, 0.2–70 t/h",
+                "0.074–0.6 mm product, feed up to 25 mm",
+                "Two additional wet or dry sizes: 2200 × 5500 and 2400 × 3000 mm"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦0.2⁠–⁠91⁩ طن/ساعة"
+                },
+                {
+                  "label": "حجم الناتج",
+                  "value": "⁦0.074⁠–⁠0.8⁩ مم"
+                },
+                {
+                  "label": "حجم التغذية",
+                  "value": "≤ ⁦10⁠–⁠25⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦5.5⁠–⁠1600⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "0.2–91 t/h"
+                },
+                {
+                  "label": "Product size",
+                  "value": "0.074–0.8 mm"
+                },
+                {
+                  "label": "Feed size",
+                  "value": "≤ 10–25 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "5.5–1600 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/ball-mills-small-medium/ball-mills-small-medium.webp"
+            ],
+            "image": "/products/ball-mills-small-medium/ball-mills-small-medium.webp",
+            "cardImage": "/products/ball-mills-small-medium/ball-mills-small-medium.webp",
+            "seo": {
+              "title": {
+                "ar": "الطواحين الكروية الرطبة 0.2–91 طن/ساعة",
+                "en": "Wet Ball Mills 0.2–91 t/h for Gold Plants"
+              },
+              "description": {
+                "ar": "طواحين كروية رطبة للمصانع الصغيرة والمتوسطة: ⁦20⁩ مقاساً حتى ⁦91⁩ طن/ساعة بنعومة ⁦0.074⁩ مم، وطواحين مخروطية ⁦GZM⁩ من ⁦0.2⁩ طن/ساعة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Wet ball mills for small and medium plants: 20 sizes up to 91 t/h grinding to 0.074 mm, and GZM cone ball mills from 0.2 t/h. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "طواحين كروية رطبة صغيرة ومتوسطة حتى ⁦91⁩ طن/ساعة، وطواحين مخروطية ⁦GZM⁩ للمصانع الصغيرة. اختر من الجدول أدناه.",
+              "en": "Small and medium wet ball mills up to 91 t/h, and GZM cone ball mills for small plants. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كيف أختار مقاس الطاحونة الكروية؟",
+                  "a": "حسب الطاقة المطلوبة بالطن في الساعة ونعومة الطحن قبل التركيز أو الإذابة. أرسل لنا طاقة المصنع وحجم الخام بعد التكسير والنعومة المطلوبة لنحدد المقاس."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How do I choose the ball mill size?",
+                  "a": "By the tonnage you need per hour and the grind required before concentration or leaching. Send us the plant capacity, the ore size after crushing and the target grind and we set the size."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "33",
+                  "label": "مقاساً"
+                },
+                {
+                  "value": "⁦0.2⁠–⁠91⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦0.074⁩ مم",
+                  "label": "أنعم طحن"
+                }
+              ],
+              "en": [
+                {
+                  "value": "33",
+                  "label": "Sizes"
+                },
+                {
+                  "value": "0.2–91 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "0.074 mm",
+                  "label": "Finest grind"
+                }
+              ]
+            }
+          },
+          {
+            "id": "ball-mills-large",
+            "name": {
+              "ar": "الطواحين الكروية – كبيرة",
+              "en": "Ball Mills – Large"
+            },
+            "coverImage": "/products/ball-mills-large/ball-mills-large.webp",
+            "description": {
+              "ar": "طواحين كروية بتفريغ شبكي (⁦MQS⁩ و⁦MQG⁩) وبتفريغ الفيضان (⁦MQY⁩) حتى قطر ⁦6.0⁩ م لمصانع التركيز الكبيرة، بقدرة حتى ⁦6000⁩ كيلوواط.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Grate-discharge (MQS, MQG) and overflow (MQY) ball mills up to 6.0 m diameter for large concentrators, with up to 6000 kW.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦13⁩ طاحونة ⁦MQS⁩ بتفريغ شبكي من ⁦1500⁩ إلى ⁦5500⁩ مم",
+                "⁦22⁩ طاحونة ⁦MQY⁩ بالفيضان من ⁦1200⁩ إلى ⁦6000⁩ مم",
+                "⁦24⁩ مقاساً إضافياً ⁦MQG⁩ بتفريغ شبكي من ⁦0.6⁩ إلى ⁦4.5⁩ م",
+                "حجم فعّال حتى ⁦249.7⁩ م³ وحمولة كرات حتى ⁦374⁩ طناً"
+              ],
+              "en": [
+                "13 MQS grate-discharge mills from 1500 to 5500 mm",
+                "22 MQY overflow mills from 1200 to 6000 mm",
+                "24 additional MQG grate-discharge sizes from 0.6 to 4.5 m",
+                "Effective volume up to 249.7 m³ and ball load up to 374 t"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "قطر الأسطوانة",
+                  "value": "⁦600⁠–⁠6000⁩ مم"
+                },
+                {
+                  "label": "الحجم الفعّال",
+                  "value": "⁦2.4⁠–⁠249.7⁩ م³"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦7.5⁠–⁠6000⁩ كيلوواط"
+                },
+                {
+                  "label": "التفريغ",
+                  "value": "شبكي أو بالفيضان"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Shell diameter",
+                  "value": "600–6000 mm"
+                },
+                {
+                  "label": "Effective volume",
+                  "value": "2.4–249.7 m³"
+                },
+                {
+                  "label": "Power",
+                  "value": "7.5–6000 kW"
+                },
+                {
+                  "label": "Discharge",
+                  "value": "Grate or overflow"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/ball-mills-large/ball-mills-large.webp"
+            ],
+            "image": "/products/ball-mills-large/ball-mills-large.webp",
+            "cardImage": "/products/ball-mills-large/ball-mills-large.webp",
+            "seo": {
+              "title": {
+                "ar": "طواحين كروية كبيرة MQS وMQY وMQG حتى 6 م",
+                "en": "Large Ball Mills MQS, MQY and MQG up to 6 m"
+              },
+              "description": {
+                "ar": "طواحين كروية كبيرة لمصانع تركيز الذهب: بتفريغ شبكي ⁦MQS⁩ و⁦MQG⁩ وبالفيضان ⁦MQY⁩ حتى قطر ⁦6.0⁩ م وقدرة ⁦6000⁩ كيلوواط. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Large ball mills for gold concentrators: MQS and MQG grate-discharge and MQY overflow mills up to 6.0 m diameter and 6000 kW. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "طواحين كروية كبيرة بتفريغ شبكي ⁦MQS⁩ و⁦MQG⁩ وبالفيضان ⁦MQY⁩ حتى قطر ⁦6.0⁩ م. اختر من الجدول أدناه.",
+              "en": "Large MQS and MQG grate-discharge and MQY overflow ball mills up to 6.0 m diameter. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين التفريغ الشبكي والتفريغ بالفيضان؟",
+                  "a": "الطاحونة الشبكية تفرّغ عبر شبكة عند طرف المخرج فيخرج اللب أسرع بطحن زائد أقل، وطاحونة الفيضان يخرج منها اللب من فوهة المحور فتعطي منتجاً أنعم. نختار النوع حسب الطحن المطلوب ودائرة التصنيف."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the difference between grate and overflow discharge?",
+                  "a": "A grate mill discharges through a grate at the outlet end, so slurry leaves faster with less over-grinding; an overflow mill discharges through the trunnion and gives a finer product. We choose the type by the target grind and the classifying circuit."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "59",
+                  "label": "مقاساً"
+                },
+                {
+                  "value": "حتى ⁦6.0⁩ م",
+                  "label": "القطر"
+                },
+                {
+                  "value": "حتى ⁦6000⁩ كيلوواط",
+                  "label": "القدرة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "59",
+                  "label": "Sizes"
+                },
+                {
+                  "value": "Up to 6.0 m",
+                  "label": "Diameter"
+                },
+                {
+                  "value": "Up to 6000 kW",
+                  "label": "Power"
+                }
+              ]
+            }
+          },
+          {
+            "id": "rod-mills",
+            "name": {
+              "ar": "طواحين القضبان",
+              "en": "Rod Mills"
+            },
+            "coverImage": "/products/rod-mills/rod-mills.webp",
+            "description": {
+              "ar": "طواحين قضبان رطبة بتفريغ الفيضان من ⁦3⁩ إلى ⁦200⁩ طن/ساعة تعطي منتجاً متجانساً ⁦0⁠–⁠3⁩ مم بقليل من الطحن الزائد، وكثيراً ما تكون مرحلة الطحن الأولى.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Wet overflow rod mills from 3 to 200 t/h giving an even 0–3 mm product with little over-grinding, often used as the first grinding stage.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦13⁩ طاحونة ⁦MB⁩ من ⁦1200 × 3000⁩ إلى ⁦2700 × 4500⁩ مم",
+                "⁦6⁩ مقاسات إضافية من ⁦900 × 1800⁩ مم",
+                "تغذية أقل من ⁦25⁩ مم وناتج ⁦0⁠–⁠3⁩ مم",
+                "قدرة ⁦22⁠–⁠430⁩ كيلوواط"
+              ],
+              "en": [
+                "13 MB mills from 1200 × 3000 to 2700 × 4500 mm",
+                "6 additional sizes from 900 × 1800 mm",
+                "Feed below 25 mm, 0–3 mm product",
+                "22–430 kW power"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦3.2⁠–⁠200⁩ طن/ساعة"
+                },
+                {
+                  "label": "حجم الناتج",
+                  "value": "⁦0⁠–⁠3⁩ مم"
+                },
+                {
+                  "label": "حجم التغذية",
+                  "value": "< ⁦25⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦22⁠–⁠430⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "3.2–200 t/h"
+                },
+                {
+                  "label": "Product size",
+                  "value": "0–3 mm"
+                },
+                {
+                  "label": "Feed size",
+                  "value": "< 25 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "22–430 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/rod-mills/rod-mills.webp"
+            ],
+            "image": "/products/rod-mills/rod-mills.webp",
+            "cardImage": "/products/rod-mills/rod-mills.webp",
+            "seo": {
+              "title": {
+                "ar": "طواحين القضبان MB حتى 200 طن/ساعة",
+                "en": "MB Rod Mills up to 200 t/h"
+              },
+              "description": {
+                "ar": "طواحين قضبان رطبة ⁦MB⁩ بتفريغ الفيضان من ⁦3.2⁩ إلى ⁦200⁩ طن/ساعة بناتج متجانس ⁦0⁠–⁠3⁩ مم وقدرة ⁦22⁠–⁠430⁩ كيلوواط. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "MB wet overflow rod mills from 3.2 to 200 t/h with an even 0–3 mm product and 22–430 kW. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "طواحين قضبان رطبة ⁦MB⁩ من ⁦0.9⁩ م قطراً وحتى ⁦200⁩ طن/ساعة بناتج متجانس ⁦0⁠–⁠3⁩ مم. اختر من الجدول أدناه.",
+              "en": "MB wet rod mills from 0.9 m diameter up to 200 t/h with an even 0–3 mm product. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "متى أختار طاحونة القضبان بدل الطاحونة الكروية؟",
+                  "a": "حين تريد ناتجاً متجانساً ⁦0⁠–⁠3⁩ مم بقليل من الحبيبات الناعمة جداً، مثل مرحلة الطحن الأولى قبل التركيز بالجاذبية. للطحن الناعم حتى ⁦0.074⁩ مم تبقى الطاحونة الكروية هي الخيار."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "When do I choose a rod mill instead of a ball mill?",
+                  "a": "When you want an even 0–3 mm product with few very fine particles, for example as the first grinding stage before gravity concentration. For fine grinding down to 0.074 mm a ball mill is the choice."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "19",
+                  "label": "مقاساً"
+                },
+                {
+                  "value": "⁦3.2⁠–⁠200⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦0⁠–⁠3⁩ مم",
+                  "label": "الناتج"
+                }
+              ],
+              "en": [
+                {
+                  "value": "19",
+                  "label": "Sizes"
+                },
+                {
+                  "value": "3.2–200 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "0–3 mm",
+                  "label": "Product"
+                }
+              ]
+            }
+          },
+          {
+            "id": "spiral-classifiers",
+            "name": {
+              "ar": "المصنّفات الحلزونية",
+              "en": "Spiral Classifiers"
+            },
+            "coverImage": "/products/spiral-classifiers/spiral-classifiers.webp",
+            "description": {
+              "ar": "مصنّفات للدائرة المغلقة مع الطواحين الكروية: تعيد الرمل الخشن إلى الطاحونة وترسل اللب الناعم إلى المرحلة التالية. حلزون مفرد أو مزدوج من ⁦500⁩ إلى ⁦3000⁩ مم.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Closed-circuit classifiers for ball mills: they return coarse sand to the mill and send fine slurry forward. Single or double spiral from 500 to 3000 mm.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦21⁩ مصنّفاً ⁦FG⁩ بفائض مرتفع و⁦FC⁩ بحلزون مغمور",
+                "حلزون مفرد أو مزدوج بقطر ⁦750⁠–⁠3000⁩ مم",
+                "إرجاع رمل حتى ⁦23,300⁩ طن/يوم",
+                "مصنّف ⁦FLG-5⁩ صغير بحلزون ⁦500⁩ مم وقدرة ⁦1.1⁩ كيلوواط"
+              ],
+              "en": [
+                "21 FG high-weir and FC submerged-spiral classifiers",
+                "Single or double spiral, 750–3000 mm diameter",
+                "Sand return up to 23,300 t/d",
+                "Compact FLG-5 classifier with a 500 mm spiral and 1.1 kW"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "قطر الحلزون",
+                  "value": "⁦500⁠–⁠3000⁩ مم"
+                },
+                {
+                  "label": "إرجاع الرمل",
+                  "value": "⁦143⁠–⁠23,300⁩ طن/يوم"
+                },
+                {
+                  "label": "طول الحوض",
+                  "value": "⁦4500⁠–⁠14,300⁩ مم"
+                },
+                {
+                  "label": "محرك الدوران",
+                  "value": "⁦1.1⁠–⁠60⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Spiral diameter",
+                  "value": "500–3000 mm"
+                },
+                {
+                  "label": "Sand return",
+                  "value": "143–23,300 t/d"
+                },
+                {
+                  "label": "Tank length",
+                  "value": "4500–14,300 mm"
+                },
+                {
+                  "label": "Drive",
+                  "value": "1.1–60 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/spiral-classifiers/spiral-classifiers.webp"
+            ],
+            "image": "/products/spiral-classifiers/spiral-classifiers.webp",
+            "cardImage": "/products/spiral-classifiers/spiral-classifiers.webp",
+            "seo": {
+              "title": {
+                "ar": "المصنّفات الحلزونية FG وFC للطواحين الكروية",
+                "en": "FG and FC Spiral Classifiers for Ball Mills"
+              },
+              "description": {
+                "ar": "مصنّفات حلزونية ⁦FG⁩ و⁦FC⁩ و⁦FLG-5⁩ للدائرة المغلقة مع الطواحين الكروية: حلزون مفرد أو مزدوج ⁦500⁠–⁠3000⁩ مم وإرجاع رمل حتى ⁦23,300⁩ طن/يوم. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "FG, FC and FLG-5 spiral classifiers for ball-mill circuits: single or double spiral, 500–3000 mm, sand return up to 23,300 t/d. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مصنّفات حلزونية ⁦FG⁩ و⁦FC⁩ و⁦FLG-5⁩ للدائرة المغلقة مع الطواحين الكروية. اختر من الجدول أدناه.",
+              "en": "FG, FC and FLG-5 spiral classifiers for closed circuit with ball mills. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين FG وFC؟",
+                  "a": "⁦FG⁩ مصنّف بفائض مرتفع يعطي فصلاً أخشن، و⁦FC⁩ بحلزون مغمور وحوض أطول يعطي فيضاً أنعم. والرقم ⁦2⁩ في أول الموديل يعني حلزوناً مزدوجاً لطاقة مضاعفة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the difference between FG and FC?",
+                  "a": "FG is a high-weir classifier for a coarser cut; FC has a submerged spiral and a longer tank for a finer overflow. A 2 at the start of the model means a double spiral for twice the capacity."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "22",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦500⁠–⁠3000⁩ مم",
+                  "label": "قطر الحلزون"
+                },
+                {
+                  "value": "حتى ⁦23,300⁩ طن/يوم",
+                  "label": "إرجاع الرمل"
+                }
+              ],
+              "en": [
+                {
+                  "value": "22",
+                  "label": "Models"
+                },
+                {
+                  "value": "500–3000 mm",
+                  "label": "Spiral diameter"
+                },
+                {
+                  "value": "Up to 23,300 t/d",
+                  "label": "Sand return"
+                }
+              ]
+            }
+          },
+          {
+            "id": "powder-grinding-mills",
+            "name": {
+              "ar": "طواحين المساحيق",
+              "en": "Powder Grinding Mills"
+            },
+            "coverImage": "/products/powder-grinding-mills/powder-grinding-mills.webp",
+            "description": {
+              "ar": "طواحين أسطوانية للمساحيق المعدنية الناعمة والفائقة النعومة من ⁦1.6⁩ مم حتى ⁦3000⁩ مش، للمعادن الصناعية وتحضير عينات التحليل.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Roller mills for fine and ultra-fine mineral powders, from 1.6 mm down to 3000 mesh, for industrial minerals and assay preparation.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦5⁩ طواحين عالية الضغط ⁦YGM⁩ بطاقة ⁦1⁠–⁠36⁩ طن/ساعة",
+                "⁦4⁩ طواحين شبه منحرفة ⁦MTW⁩ بطاقة ⁦3⁠–⁠50⁩ طن/ساعة",
+                "⁦4⁩ طواحين مساحيق دقيقة ⁦HGM⁩ بنعومة ⁦150⁠–⁠3000⁩ مش",
+                "ناتج من ⁦1.6⁩ مم حتى ⁦4⁩ ميكرون"
+              ],
+              "en": [
+                "5 YGM high-pressure mills, 1–36 t/h",
+                "4 MTW trapezium mills, 3–50 t/h",
+                "4 HGM micro-powder mills, 150–3000 mesh",
+                "Product from 1.6 mm down to 4 µm"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦0.5⁠–⁠50⁩ طن/ساعة"
+                },
+                {
+                  "label": "النعومة",
+                  "value": "حتى ⁦3000⁩ مش"
+                },
+                {
+                  "label": "الطاحونة الرئيسية",
+                  "value": "⁦18.5⁠–⁠280⁩ كيلوواط"
+                },
+                {
+                  "label": "أقصى تغذية",
+                  "value": "⁦10⁠–⁠50⁩ مم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "0.5–50 t/h"
+                },
+                {
+                  "label": "Fineness",
+                  "value": "Down to 3000 mesh"
+                },
+                {
+                  "label": "Main mill",
+                  "value": "18.5–280 kW"
+                },
+                {
+                  "label": "Max. feed",
+                  "value": "10–50 mm"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/powder-grinding-mills/powder-grinding-mills.webp"
+            ],
+            "image": "/products/powder-grinding-mills/powder-grinding-mills.webp",
+            "cardImage": "/products/powder-grinding-mills/powder-grinding-mills.webp",
+            "seo": {
+              "title": {
+                "ar": "طواحين المساحيق YGM وMTW وHGM",
+                "en": "YGM, MTW and HGM Powder Grinding Mills"
+              },
+              "description": {
+                "ar": "طواحين مساحيق معدنية ناعمة وفائقة النعومة: ⁦YGM⁩ و⁦MTW⁩ و⁦HGM⁩ من ⁦0.5⁩ إلى ⁦50⁩ طن/ساعة وبنعومة حتى ⁦3000⁩ مش. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Fine and ultra-fine mineral powder mills: YGM, MTW and HGM from 0.5 to 50 t/h and down to 3000 mesh. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "طواحين مساحيق ⁦YGM⁩ و⁦MTW⁩ و⁦HGM⁩ من ⁦0.5⁩ إلى ⁦50⁩ طن/ساعة. اختر من الجدول أدناه.",
+              "en": "YGM, MTW and HGM powder mills from 0.5 to 50 t/h. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي طاحونة مساحيق تناسب النعومة التي أحتاجها؟",
+                  "a": "⁦YGM⁩ و⁦MTW⁩ للمساحيق بطاقات أكبر (⁦MTW⁩ حتى ⁦0.038⁩ مم)، و⁦HGM⁩ للمساحيق الدقيقة من ⁦150⁩ إلى ⁦3000⁩ مش. أرسل لنا المادة والنعومة والطاقة المطلوبة لنحدد الموديل."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which powder mill suits the fineness I need?",
+                  "a": "YGM and MTW for powders at higher tonnage (MTW down to 0.038 mm), and HGM for micro-powders from 150 to 3000 mesh. Send us the material, the fineness and the capacity you need and we set the model."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "13",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦0.5⁠–⁠50⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦3000⁩ مش",
+                  "label": "أنعم منتج"
+                }
+              ],
+              "en": [
+                {
+                  "value": "13",
+                  "label": "Models"
+                },
+                {
+                  "value": "0.5–50 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "3000 mesh",
+                  "label": "Finest product"
+                }
+              ]
+            }
+          },
+          {
+            "id": "sag-autogenous-mills",
+            "name": {
+              "ar": "الطواحين شبه الذاتية والذاتية",
+              "en": "SAG & Autogenous Mills"
+            },
+            "coverImage": "/products/sag-autogenous-mills/sag-autogenous-mills.webp",
+            "description": {
+              "ar": "طواحين كبيرة شبه ذاتية (⁦SAG⁩) وذاتية (⁦AG⁩) للطحن الأولي في مصانع الذهب عالية الطاقة، تُصمَّم حسب طاقة المصنع، مع توريد البطانات وقطع التآكل طوال عمر الطاحونة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Large semi-autogenous (SAG) and autogenous (AG) mills for primary grinding in high-tonnage gold plants, engineered to the plant duty, with liners and wear parts supplied for the life of the mill.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "طحن أولي لخام المنجم أو الخام المكسّر في مرحلة واحدة، فيقل عدد مراحل التكسير",
+                "مقاس الطاحونة ونظام الدفع وتصميم البطانات حسب الخام وطاقة المصنع",
+                "بطانات الجسم والنهاية والشبكة مع الطاحونة وكقطع غيار",
+                "تصنيع ثقيل للأسطوانات والرؤوس والمحاور"
+              ],
+              "en": [
+                "Primary grinding of run-of-mine or crushed ore in one stage, reducing the crushing circuit",
+                "Mill size, drive and liner design selected to the ore and plant tonnage",
+                "Shell, end and grid liners with the mill and as spares",
+                "Heavy fabrication of shells, heads and trunnions"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الأنواع",
+                  "value": "⁦SAG · AG⁩"
+                },
+                {
+                  "label": "المقاس",
+                  "value": "حسب طاقة المصنع"
+                },
+                {
+                  "label": "البطانات",
+                  "value": "جسم ونهاية وشبكة"
+                },
+                {
+                  "label": "التسعير",
+                  "value": "لكل مشروع"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Types",
+                  "value": "SAG · AG"
+                },
+                {
+                  "label": "Size",
+                  "value": "To the plant duty"
+                },
+                {
+                  "label": "Liners",
+                  "value": "Shell, end and grid"
+                },
+                {
+                  "label": "Pricing",
+                  "value": "Per project"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/sag-autogenous-mills/sag-autogenous-mills.webp",
+              "/products/sag-autogenous-mills/sag-autogenous-mills-2.webp",
+              "/products/sag-autogenous-mills/sag-autogenous-mills-3.webp",
+              "/products/sag-autogenous-mills/sag-autogenous-mills-4.webp"
+            ],
+            "image": "/products/sag-autogenous-mills/sag-autogenous-mills.webp",
+            "cardImage": "/products/sag-autogenous-mills/sag-autogenous-mills.webp",
+            "seo": {
+              "title": {
+                "ar": "الطواحين شبه الذاتية SAG والذاتية AG",
+                "en": "SAG and Autogenous (AG) Grinding Mills"
+              },
+              "description": {
+                "ar": "طواحين ⁦SAG⁩ و⁦AG⁩ للطحن الأولي في مصانع الذهب الكبيرة، تُصمَّم حسب طاقة المصنع مع بطانات الجسم والنهاية والشبكة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "SAG and AG mills for primary grinding in large gold plants, engineered to the plant duty, with shell, end and grid liners. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "طواحين ⁦SAG⁩ و⁦AG⁩ للطحن الأولي تُصمَّم لكل مشروع، مع البطانات وقطع التآكل.",
+              "en": "SAG and AG mills for primary grinding, engineered per project, with liners and wear parts."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كيف أحصل على عرض سعر لطاحونة SAG؟",
+                  "a": "تُسعَّر مقاسات الطواحين وطاقاتها لكل مشروع. أرسل لنا بيانات الخام (الصلادة ونتائج الاختبارات إن وُجدت) وطاقة المصنع المطلوبة وحجم التغذية لنحدد المقاس ونظام الدفع."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How do I get a quotation for a SAG mill?",
+                  "a": "Mill sizes and capacities are quoted per project. Send us the ore data (hardness and any test results), the plant tonnage and the feed size and we set the mill size and drive."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦SAG · AG⁩",
+                  "label": "أنواع الطواحين"
+                },
+                {
+                  "value": "حسب الطلب",
+                  "label": "المقاس"
+                },
+                {
+                  "value": "3",
+                  "label": "أنواع بطانات"
+                }
+              ],
+              "en": [
+                {
+                  "value": "SAG · AG",
+                  "label": "Mill types"
+                },
+                {
+                  "value": "Custom",
+                  "label": "Sizing"
+                },
+                {
+                  "value": "3",
+                  "label": "Liner types"
+                }
+              ]
+            }
+          },
+          {
+            "id": "hydrocyclones",
+            "name": {
+              "ar": "الهيدروسيكلونات",
+              "en": "Hydrocyclones"
+            },
+            "coverImage": "/products/hydrocyclones/hydrocyclones.webp",
+            "description": {
+              "ar": "هيدروسيكلونات من المطاط ومواد أخرى مقاومة للتآكل لتصنيف اللب في الدائرة المغلقة مع الطواحين الكروية، ولإزالة الطين واسترجاع الحبيبات الناعمة. بسيطة ومدمجة بطاقة عالية ومساحة صغيرة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Hydrocyclones built from rubber and other wear-resistant materials, for classifying slurry in closed circuit with ball mills, desliming and fine-particle recovery. Simple, compact and high-capacity, with a small footprint.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦20⁩ هيدروسيكلوناً ⁦FX⁩ بقطر ⁦150⁠–⁠660⁩ مم وزوايا مخروط ⁦10⁠–⁠45°⁩",
+                "هيدروسيكلونان صغيران ⁦FX-125⁩ و⁦FX-100⁩",
+                "طاقة ⁦5⁠–⁠350⁩ م³/ساعة وحجم فصل ⁦10⁠–⁠220⁩ ميكرون",
+                "وحدات مفردة أو مجموعات على مشعب حسب تدفق اللب"
+              ],
+              "en": [
+                "20 FX hydrocyclones, 150–660 mm, cone angles 10–45°",
+                "Two small FX-125 and FX-100 units",
+                "5–350 m³/h capacity, 10–220 µm cut size",
+                "Single units or manifold clusters sized to the slurry flow"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "قطر الأسطوانة",
+                  "value": "⁦100⁠–⁠660⁩ مم"
+                },
+                {
+                  "label": "الطاقة",
+                  "value": "⁦5⁠–⁠350⁩ م³/ساعة"
+                },
+                {
+                  "label": "حجم الفصل",
+                  "value": "⁦10⁠–⁠220⁩ ميكرون"
+                },
+                {
+                  "label": "الضغط",
+                  "value": "⁦0.03⁠–⁠0.4⁩ ميجاباسكال"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Cylinder diameter",
+                  "value": "100–660 mm"
+                },
+                {
+                  "label": "Capacity",
+                  "value": "5–350 m³/h"
+                },
+                {
+                  "label": "Cut size",
+                  "value": "10–220 µm"
+                },
+                {
+                  "label": "Pressure",
+                  "value": "0.03–0.4 MPa"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/hydrocyclones/hydrocyclones.webp",
+              "/products/hydrocyclones/hydrocyclones-2.webp"
+            ],
+            "image": "/products/hydrocyclones/hydrocyclones.webp",
+            "cardImage": "/products/hydrocyclones/hydrocyclones.webp",
+            "seo": {
+              "title": {
+                "ar": "الهيدروسيكلونات FX للطواحين الكروية",
+                "en": "FX Hydrocyclones for Ball-Mill Circuits"
+              },
+              "description": {
+                "ar": "هيدروسيكلونات ⁦FX⁩ من ⁦100⁩ إلى ⁦660⁩ مم بطاقة ⁦5⁠–⁠350⁩ م³/ساعة وحجم فصل ⁦10⁠–⁠220⁩ ميكرون، مفردة أو في مجموعات. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "FX hydrocyclones from 100 to 660 mm, 5–350 m³/h, 10–220 µm cut size, single or in clusters. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "هيدروسيكلونات ⁦FX⁩ من ⁦100⁩ إلى ⁦660⁩ مم لتصنيف اللب مع الطواحين الكروية. اختر من الجدول أدناه.",
+              "en": "FX hydrocyclones from 100 to 660 mm for classifying slurry with ball mills. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كيف أختار مقاس الهيدروسيكلون؟",
+                  "a": "حسب تدفق اللب بالمتر المكعب في الساعة وحجم الفصل المطلوب: الأسطوانة الأصغر والمخروط الأضيق يعطيان فصلاً أنعم. للتدفقات الكبيرة نورّد مجموعة هيدروسيكلونات على مشعب واحد."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How do I choose the hydrocyclone size?",
+                  "a": "By the slurry flow in m³/h and the cut size you need: a smaller cylinder and a narrower cone give a finer cut. For large flows we supply a cluster of cyclones on one manifold."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "22",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦5⁠–⁠350⁩ م³/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦10⁠–⁠220⁩ ميكرون",
+                  "label": "حجم الفصل"
+                }
+              ],
+              "en": [
+                {
+                  "value": "22",
+                  "label": "Models"
+                },
+                {
+                  "value": "5–350 m³/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "10–220 µm",
+                  "label": "Cut size"
+                }
+              ]
+            }
+          },
+          {
+            "id": "ceramic-grinding-media",
+            "name": {
+              "ar": "كرات الطحن الخزفية",
+              "en": "Ceramic Grinding Media"
+            },
+            "coverImage": "/products/ceramic-grinding-media/ceramic-grinding-media.webp",
+            "description": {
+              "ar": "كرات ألومينا و⁦ZTA⁩ وكرات خزفية خاصة للطواحين الكروية والبرجية والأفقية: وسط طحن خفيف وصلب وخالٍ من الحديد للطحن الناعم وإعادة طحن خامات الذهب.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Alumina, ZTA and special ceramic balls for ball mills, tower mills and horizontal stirred mills: light, hard, iron-free media for fine grinding and regrinding of gold ores.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "كرات ألومينا ⁦60⁠–⁠99%⁩ بمقاس ⁦0.5⁠–⁠30⁩ مم",
+                "وسط ⁦ZTA⁩ بكثافة ⁦3.7⁠–⁠5.0⁩ غ/سم³",
+                "كرات خاصة للطواحين البرجية والأفقية والكروية بتآكل ذاتي ≤ ⁦0.03⁩ غ/كغ·ساعة",
+                "كرات ألومينا ⁦92%⁩ بمقاسات أكبر ⁦30⁠–⁠80⁩ مم"
+              ],
+              "en": [
+                "Alumina balls, 60–99 %, 0.5–30 mm",
+                "ZTA media, 3.7–5.0 g/cm³",
+                "Special balls for tower, stirred and ball mills, self-wear ≤ 0.03 g/kg·h",
+                "92 % alumina balls in larger sizes, 30–80 mm"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المقاس",
+                  "value": "⁦0.5⁠–⁠80⁩ مم"
+                },
+                {
+                  "label": "الألومينا",
+                  "value": "⁦60–99%⁩"
+                },
+                {
+                  "label": "الكثافة",
+                  "value": "⁦2.8⁠–⁠5.0⁩ غ/سم³"
+                },
+                {
+                  "label": "التآكل الذاتي",
+                  "value": "≤ ⁦0.03⁩ غ/كغ·ساعة"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Size",
+                  "value": "0.5–80 mm"
+                },
+                {
+                  "label": "Alumina",
+                  "value": "60–99 %"
+                },
+                {
+                  "label": "Density",
+                  "value": "2.8–5.0 g/cm³"
+                },
+                {
+                  "label": "Self-wear",
+                  "value": "≤ 0.03 g/kg·h"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/ceramic-grinding-media/ceramic-grinding-media.webp"
+            ],
+            "image": "/products/ceramic-grinding-media/ceramic-grinding-media.webp",
+            "cardImage": "/products/ceramic-grinding-media/ceramic-grinding-media.webp",
+            "seo": {
+              "title": {
+                "ar": "كرات الطحن الخزفية من الألومينا وZTA",
+                "en": "Alumina and ZTA Ceramic Grinding Media"
+              },
+              "description": {
+                "ar": "كرات طحن خزفية خالية من الحديد: ألومينا ⁦60⁠–⁠99%⁩ و⁦ZTA⁩ وكرات خاصة للطواحين البرجية والأفقية، بمقاس ⁦0.5⁠–⁠80⁩ مم. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Iron-free ceramic grinding media: 60–99 % alumina, ZTA and special balls for tower and stirred mills, 0.5–80 mm. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كرات طحن خزفية من الألومينا و⁦ZTA⁩ للطحن الناعم وإعادة الطحن. اختر من الجدول أدناه.",
+              "en": "Alumina and ZTA ceramic grinding media for fine grinding and regrinding. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا أستخدم كرات خزفية بدل كرات الفولاذ؟",
+                  "a": "الكرات الخزفية خالية من الحديد وأخف وأصلب، فتناسب الطحن الناعم وإعادة الطحن حين يجب تجنّب تلوث المنتج بالحديد. نختار المقاس والدرجة حسب الطاحونة ونعومة الطحن المطلوبة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why use ceramic balls instead of steel balls?",
+                  "a": "Ceramic balls are iron-free, lighter and harder, so they suit fine grinding and regrinding where iron contamination of the product must be avoided. We choose size and grade by the mill and the target grind."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "6",
+                  "label": "أنواع"
+                },
+                {
+                  "value": "⁦0.5⁠–⁠80⁩ مم",
+                  "label": "المقاس"
+                },
+                {
+                  "value": "⁦≤ 0.03⁩",
+                  "label": "التآكل الذاتي (غ/كغ·ساعة)"
+                }
+              ],
+              "en": [
+                {
+                  "value": "6",
+                  "label": "Media types"
+                },
+                {
+                  "value": "0.5–80 mm",
+                  "label": "Ball size"
+                },
+                {
+                  "value": "≤ 0.03",
+                  "label": "Self-wear (g/kg·h)"
+                }
+              ]
+            }
+          },
+          {
+            "id": "vibrating-feeders",
+            "name": {
+              "ar": "المغذيات الاهتزازية",
+              "en": "Vibrating Feeders"
+            },
+            "coverImage": "/products/vibrating-feeders/vibrating-feeders.webp",
+            "description": {
+              "ar": "مغذيات اهتزازية بقضبان تفصل الناعم قبل الكسارة الأولية، ومغذيات اهتزازية لمحطات التكسير حتى ⁦1800⁩ طن/ساعة، ومغذيات كهرومغناطيسية لتغذية ثابتة إلى الطاحونة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Grizzly feeders that scalp fines ahead of the primary crusher, vibrating feeders for crushing stations up to 1800 t/h, and electromagnetic feeders for a steady mill feed.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦4⁩ مغذيات ⁦MVF⁩ بقضبان بطاقة ⁦450⁠–⁠1800⁩ طن/ساعة",
+                "⁦8⁩ مغذيات ⁦GZD⁩ و⁦ZSW⁩ و⁦10⁩ مقاسات ⁦GZD⁩ أكبر حتى ⁦1400⁩ طن/ساعة",
+                "⁦6⁩ مغذيات ⁦GZT⁩ بقضبان بطاقة ⁦30⁠–⁠600⁩ طن/ساعة",
+                "⁦5⁩ مغذيات كهرومغناطيسية ⁦GZ⁩ بطاقة ⁦5⁠–⁠100⁩ طن/ساعة"
+              ],
+              "en": [
+                "4 MVF grizzly feeders, 450–1800 t/h",
+                "8 GZD and ZSW feeders and 10 larger GZD sizes up to 1400 t/h",
+                "6 GZT grizzly feeders, 30–600 t/h",
+                "5 GZ electromagnetic feeders, 5–100 t/h"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦5⁠–⁠1800⁩ طن/ساعة"
+                },
+                {
+                  "label": "أقصى حجم تغذية",
+                  "value": "⁦50⁠–⁠1500⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦0.06⁠–⁠55⁩ كيلوواط"
+                },
+                {
+                  "label": "الأنواع",
+                  "value": "بقضبان، اهتزازي، كهرومغناطيسي"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "5–1800 t/h"
+                },
+                {
+                  "label": "Max. feed size",
+                  "value": "50–1500 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "0.06–55 kW"
+                },
+                {
+                  "label": "Types",
+                  "value": "Grizzly, vibrating, electromagnetic"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/vibrating-feeders/vibrating-feeders.webp"
+            ],
+            "image": "/products/vibrating-feeders/vibrating-feeders.webp",
+            "cardImage": "/products/vibrating-feeders/vibrating-feeders.webp",
+            "seo": {
+              "title": {
+                "ar": "المغذيات الاهتزازية بالقضبان والكهرومغناطيسية",
+                "en": "Grizzly, Vibrating and Electromagnetic Feeders"
+              },
+              "description": {
+                "ar": "مغذيات اهتزازية بقضبان ⁦MVF⁩ و⁦GZT⁩، ومغذيات ⁦GZD⁩ و⁦ZSW⁩، ومغذيات كهرومغناطيسية ⁦GZ⁩ من ⁦5⁩ إلى ⁦1800⁩ طن/ساعة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "MVF and GZT grizzly feeders, GZD and ZSW vibrating feeders and GZ electromagnetic feeders from 5 to 1800 t/h. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مغذيات اهتزازية ⁦MVF⁩ و⁦GZD⁩ و⁦ZSW⁩ و⁦GZT⁩ وكهرومغناطيسية ⁦GZ⁩ من ⁦5⁩ إلى ⁦1800⁩ طن/ساعة. اختر من الجدول أدناه.",
+              "en": "MVF, GZD, ZSW, GZT and GZ electromagnetic vibrating feeders from 5 to 1800 t/h. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما فائدة المغذي الاهتزازي بالقضبان قبل الكسارة؟",
+                  "a": "يغذي الكسارة الأولية بانتظام ويفصل الحبيبات الناعمة بين القضبان قبل دخولها، فتقل الحمولة على الكسارة ويقل تآكلها. اختر المقاس حسب الطاقة وأكبر حجم حجر يصل من المنجم."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why use a grizzly feeder ahead of the crusher?",
+                  "a": "It feeds the primary crusher evenly and lets fines drop through the bars before the crusher, which lowers the crusher load and wear. Choose the size by the capacity and the largest rock from the mine."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "33",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦5⁠–⁠1800⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦0.06⁠–⁠55⁩ كيلوواط",
+                  "label": "القدرة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "33",
+                  "label": "Models"
+                },
+                {
+                  "value": "5–1800 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "0.06–55 kW",
+                  "label": "Power"
+                }
+              ]
+            }
+          },
+          {
+            "id": "apron-reciprocating-feeders",
+            "name": {
+              "ar": "المغذيات الصفائحية والترددية",
+              "en": "Apron & Reciprocating Feeders"
+            },
+            "coverImage": "/products/apron-reciprocating-feeders/apron-reciprocating-feeders.webp",
+            "description": {
+              "ar": "مغذيات صفائحية ثقيلة لخام المنجم اللزج أو الكبير، ومغذيات صندوقية بسيطة للمصانع الصغيرة، ومغذيات بندولية تُدخل الخام المكسّر بمعدل منتظم إلى الطواحين الكروية الصغيرة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Heavy apron feeders for sticky or large run-of-mine ore, simple box-type feeders for small plants, and pendulum feeders that meter crushed ore into small ball mills.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦17⁩ مغذياً صفائحياً ⁦GBZ⁩ بعرض ⁦1000⁠–⁠3400⁩ مم وتدفق ⁦16.6⁠–⁠1900⁩ م³/ساعة",
+                "حجم تغذية حتى ⁦1500⁩ مم",
+                "⁦4⁩ مغذيات صندوقية بطاقة ⁦2.5⁠–⁠50⁩ طن/ساعة",
+                "⁦4⁩ مغذيات بندولية للطواحين الصغيرة بطاقة ⁦4.5⁠–⁠25⁩ طن/ساعة"
+              ],
+              "en": [
+                "17 GBZ apron feeders, 1000–3400 mm wide, 16.6–1900 m³/h",
+                "Feed size up to 1500 mm",
+                "4 box-type feeders, 2.5–50 t/h",
+                "4 pendulum feeders for small mills, 4.5–25 t/h"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "التدفق (صفائحي)",
+                  "value": "⁦16.6⁠–⁠1900⁩ م³/ساعة"
+                },
+                {
+                  "label": "الطاقة (صندوقي وبندولي)",
+                  "value": "⁦2.5⁠–⁠50⁩ طن/ساعة"
+                },
+                {
+                  "label": "حجم التغذية",
+                  "value": "⁦25⁠–⁠1500⁩ مم"
+                },
+                {
+                  "label": "المحرك",
+                  "value": "⁦0.55⁩ حتى ⁦2 × 55⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Flow (apron)",
+                  "value": "16.6–1900 m³/h"
+                },
+                {
+                  "label": "Capacity (box and pendulum)",
+                  "value": "2.5–50 t/h"
+                },
+                {
+                  "label": "Feed size",
+                  "value": "25–1500 mm"
+                },
+                {
+                  "label": "Motor",
+                  "value": "0.55 to 2 × 55 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/apron-reciprocating-feeders/apron-reciprocating-feeders.webp"
+            ],
+            "image": "/products/apron-reciprocating-feeders/apron-reciprocating-feeders.webp",
+            "cardImage": "/products/apron-reciprocating-feeders/apron-reciprocating-feeders.webp",
+            "seo": {
+              "title": {
+                "ar": "المغذيات الصفائحية GBZ والصندوقية والبندولية",
+                "en": "GBZ Apron, Box-Type and Pendulum Feeders"
+              },
+              "description": {
+                "ar": "مغذيات صفائحية ثقيلة ⁦GBZ⁩ حتى ⁦1900⁩ م³/ساعة لخام المنجم، ومغذيات صندوقية وبندولية للمصانع والطواحين الصغيرة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "GBZ heavy apron feeders up to 1900 m³/h for run-of-mine ore, and box-type and pendulum feeders for small plants and mills. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مغذيات صفائحية ⁦GBZ⁩ ومغذيات صندوقية وبندولية للمصانع الصغيرة. اختر من الجدول أدناه.",
+              "en": "GBZ apron feeders and box-type and pendulum feeders for small plants. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "متى أختار المغذي الصفائحي؟",
+                  "a": "حين يكون خام المنجم كبيراً أو لزجاً أو يسقط من ارتفاع على المغذي تحت القادوس، لأن الألواح الفولاذية تتحمل الصدمات وتسحب الخام بسرعة منخفضة ثابتة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "When do I choose an apron feeder?",
+                  "a": "When the run-of-mine ore is large or sticky, or drops from height onto the feeder under the hopper: the steel pans take the impact and draw the ore at a low, steady speed."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "25",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "حتى ⁦1900⁩ م³/ساعة",
+                  "label": "التدفق"
+                },
+                {
+                  "value": "حتى ⁦1500⁩ مم",
+                  "label": "حجم التغذية"
+                }
+              ],
+              "en": [
+                {
+                  "value": "25",
+                  "label": "Models"
+                },
+                {
+                  "value": "Up to 1900 m³/h",
+                  "label": "Flow"
+                },
+                {
+                  "value": "Up to 1500 mm",
+                  "label": "Feed size"
+                }
+              ]
+            }
+          },
+          {
+            "id": "inclined-vibrating-screens",
+            "name": {
+              "ar": "الغرابيل الاهتزازية المائلة والدائرية",
+              "en": "Inclined & Circular Vibrating Screens"
+            },
+            "coverImage": "/products/inclined-vibrating-screens/inclined-vibrating-screens.webp",
+            "description": {
+              "ar": "غرابيل بحركة دائرية من طابق إلى أربعة طوابق لتصنيف الخام المكسّر: غرابيل مائلة ⁦MYA⁩، وغرابيل دائرية ⁦YK⁩ و⁦YZS⁩ حتى ⁦2250⁩ طن/ساعة، وغرابيل ذاتية التمركز ⁦SZZ⁩ للمصانع الصغيرة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Circular-motion screens with one to four decks for sizing crushed ore: MYA inclined screens, YK and YZS circular screens up to 2250 t/h, and SZZ self-centering screens for small plants.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦5⁩ غرابيل ⁦MYA⁩ مائلة بطاقة ⁦120⁠–⁠1360⁩ طن/ساعة",
+                "⁦38⁩ غربال ⁦YK⁩ دائرياً من طابق إلى ⁦4⁩ طوابق",
+                "⁦22⁩ غربال ⁦YZS⁩ دائرياً بطاقة ⁦25⁠–⁠2250⁩ طن/ساعة",
+                "⁦9⁩ غرابيل ⁦SZZ⁩ ذاتية التمركز بطاقة ⁦20⁠–⁠245⁩ طن/ساعة"
+              ],
+              "en": [
+                "5 MYA inclined screens, 120–1360 t/h",
+                "38 YK circular screens, 1 to 4 decks",
+                "22 YZS circular screens, 25–2250 t/h",
+                "9 SZZ self-centering screens, 20–245 t/h"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦20⁠–⁠2250⁩ طن/ساعة"
+                },
+                {
+                  "label": "الطوابق",
+                  "value": "⁦1–4⁩"
+                },
+                {
+                  "label": "الفتحة",
+                  "value": "⁦1⁠–⁠150⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦2.2⁩ حتى ⁦2 × 37⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "20–2250 t/h"
+                },
+                {
+                  "label": "Decks",
+                  "value": "1–4"
+                },
+                {
+                  "label": "Aperture",
+                  "value": "1–150 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "2.2 to 2 × 37 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/inclined-vibrating-screens/inclined-vibrating-screens.webp",
+              "/products/inclined-vibrating-screens/inclined-vibrating-screens-2.webp"
+            ],
+            "image": "/products/inclined-vibrating-screens/inclined-vibrating-screens.webp",
+            "cardImage": "/products/inclined-vibrating-screens/inclined-vibrating-screens.webp",
+            "seo": {
+              "title": {
+                "ar": "الغرابيل الاهتزازية المائلة والدائرية 1–4 طوابق",
+                "en": "Inclined and Circular Vibrating Screens, 1–4 Decks"
+              },
+              "description": {
+                "ar": "غرابيل اهتزازية مائلة ⁦MYA⁩ ودائرية ⁦YK⁩ و⁦YZS⁩ وذاتية التمركز ⁦SZZ⁩ لتصنيف الخام المكسّر من ⁦20⁩ إلى ⁦2250⁩ طن/ساعة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "MYA inclined, YK and YZS circular and SZZ self-centering vibrating screens for sizing crushed ore from 20 to 2250 t/h. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "غرابيل اهتزازية مائلة ودائرية ⁦MYA⁩ و⁦YK⁩ و⁦YZS⁩ و⁦SZZ⁩ من طابق إلى أربعة طوابق. اختر من الجدول أدناه.",
+              "en": "MYA, YK, YZS and SZZ inclined and circular vibrating screens with one to four decks. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كم طابقاً أحتاج في الغربال؟",
+                  "a": "طابق لكل حد فصل: غربال بطابقين يعطي ثلاثة مقاسات، وبثلاثة طوابق أربعة مقاسات. أرسل لنا الطاقة وأكبر حجم تغذية والمقاسات المطلوبة لنحدد الموديل وعدد الطوابق."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How many decks do I need?",
+                  "a": "One deck per cut: a two-deck screen gives three products and a three-deck screen four. Send us the capacity, the largest feed size and the product sizes you need and we set the model and decks."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "74",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦20⁠–⁠2250⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦1–4⁩",
+                  "label": "الطوابق"
+                }
+              ],
+              "en": [
+                {
+                  "value": "74",
+                  "label": "Models"
+                },
+                {
+                  "value": "20–2250 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "1–4",
+                  "label": "Decks"
+                }
+              ]
+            }
+          },
+          {
+            "id": "horizontal-linear-screens",
+            "name": {
+              "ar": "الغرابيل الأفقية والخطية",
+              "en": "Horizontal & Linear Screens"
+            },
+            "coverImage": "/products/horizontal-linear-screens/horizontal-linear-screens.webp",
+            "description": {
+              "ar": "غرابيل أفقية منخفضة الارتفاع للمحطات المتنقلة والمعيارية، وغرابيل خطية خفيفة للتصنيف الناعم.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Low-profile horizontal screens for mobile and modular plants and light linear screens for fine sizing.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦10⁩ غرابيل ⁦MFS⁩ أفقية بطابقين أو ثلاثة بطاقة ⁦300⁠–⁠800⁩ طن/ساعة",
+                "أقصى تغذية ⁦75⁩ مم للغرابيل الأفقية",
+                "⁦6⁩ غرابيل ⁦SZF⁩ خطية بطاقة ⁦1⁠–⁠35⁩ طن/ساعة",
+                "من طابق إلى ⁦6⁩ طوابق في الغرابيل الخطية"
+              ],
+              "en": [
+                "10 MFS horizontal screens, two or three decks, 300–800 t/h",
+                "Max. feed 75 mm on the horizontal screens",
+                "6 SZF linear screens, 1–35 t/h",
+                "1 to 6 decks on the linear screens"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦1⁠–⁠800⁩ طن/ساعة"
+                },
+                {
+                  "label": "الطوابق",
+                  "value": "⁦1–6⁩"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦0.8⁠–⁠55⁩ كيلوواط"
+                },
+                {
+                  "label": "مقاس الغربال",
+                  "value": "⁦500×2000 – 1960×6100⁩ مم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "1–800 t/h"
+                },
+                {
+                  "label": "Decks",
+                  "value": "1–6"
+                },
+                {
+                  "label": "Power",
+                  "value": "0.8–55 kW"
+                },
+                {
+                  "label": "Screen size",
+                  "value": "500×2000 – 1960×6100 mm"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/horizontal-linear-screens/horizontal-linear-screens.webp"
+            ],
+            "image": "/products/horizontal-linear-screens/horizontal-linear-screens.webp",
+            "cardImage": "/products/horizontal-linear-screens/horizontal-linear-screens.webp",
+            "seo": {
+              "title": {
+                "ar": "الغرابيل الأفقية MFS والخطية SZF",
+                "en": "MFS Horizontal and SZF Linear Vibrating Screens"
+              },
+              "description": {
+                "ar": "غرابيل أفقية ⁦MFS⁩ منخفضة الارتفاع حتى ⁦800⁩ طن/ساعة للمحطات المتنقلة، وغرابيل خطية ⁦SZF⁩ من ⁦1⁩ إلى ⁦35⁩ طن/ساعة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Low-profile MFS horizontal screens up to 800 t/h for mobile plants, and SZF linear screens from 1 to 35 t/h. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "غرابيل أفقية ⁦MFS⁩ للمحطات المتنقلة وغرابيل خطية ⁦SZF⁩ للتصنيف الناعم. اختر من الجدول أدناه.",
+              "en": "MFS horizontal screens for mobile plants and SZF linear screens for fine sizing. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا يُستخدم الغربال الأفقي في المحطات المتنقلة؟",
+                  "a": "ارتفاعه المنخفض يناسب الهياكل المتنقلة والمعيارية، ويعطي تصنيفاً دقيقاً بطابقين أو ثلاثة. الغرابيل الخطية ⁦SZF⁩ أخف وتناسب الطاقات الصغيرة والتصنيف الناعم."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why use a horizontal screen in mobile plants?",
+                  "a": "Its low height suits mobile and modular frames and gives accurate sizing on two or three decks. The lighter SZF linear screens suit small capacities and fine sizing."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "16",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦1⁠–⁠800⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦0.8⁠–⁠55⁩ كيلوواط",
+                  "label": "القدرة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "16",
+                  "label": "Models"
+                },
+                {
+                  "value": "1–800 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "0.8–55 kW",
+                  "label": "Power"
+                }
+              ]
+            }
+          },
+          {
+            "id": "trommel-dewatering-screens",
+            "name": {
+              "ar": "الغرابيل الأسطوانية وغرابيل نزع الماء",
+              "en": "Trommel & Dewatering Screens"
+            },
+            "coverImage": "/products/trommel-dewatering-screens/trommel-dewatering-screens.webp",
+            "description": {
+              "ar": "غرابيل أسطوانية دوّارة لغسل وتصنيف الخام الغريني أو المتجوّي، وغرابيل ⁦ZSD⁩ لنزع الماء من المخلفات والرمل، منها مقاسات بسطح بولي يوريثان.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Rotary trommels for washing and sizing alluvial or weathered ore, and ZSD dewatering screens for tailings and sand, including sizes with a polyurethane deck.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦9⁩ غرابيل أسطوانية ⁦GT⁩ بطاقة ⁦10⁠–⁠600⁩ طن/ساعة",
+                "⁦7⁩ غرابيل أسطوانية ⁦GS⁩ بطاقة ⁦8⁠–⁠230⁩ طن/ساعة",
+                "⁦7⁩ غرابيل ⁦ZSD⁩ لنزع الماء بطاقة ⁦30⁠–⁠250⁩ طن/ساعة",
+                "⁦6⁩ مقاسات ⁦ZSD⁩ إضافية بسطح بولي يوريثان"
+              ],
+              "en": [
+                "9 GT trommels, 10–600 t/h",
+                "7 GS trommels, 8–230 t/h",
+                "7 ZSD dewatering screens, 30–250 t/h",
+                "6 additional ZSD sizes with a polyurethane deck"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦8⁠–⁠600⁩ طن/ساعة"
+                },
+                {
+                  "label": "قطر الأسطوانة",
+                  "value": "⁦600⁠–⁠2500⁩ مم"
+                },
+                {
+                  "label": "تغذية غرابيل نزع الماء",
+                  "value": "≤ ⁦10⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦2.2⁩ حتى ⁦2 × 22⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "8–600 t/h"
+                },
+                {
+                  "label": "Drum diameter",
+                  "value": "600–2500 mm"
+                },
+                {
+                  "label": "Dewatering feed",
+                  "value": "≤ 10 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "2.2 to 2 × 22 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/trommel-dewatering-screens/trommel-dewatering-screens.webp"
+            ],
+            "image": "/products/trommel-dewatering-screens/trommel-dewatering-screens.webp",
+            "cardImage": "/products/trommel-dewatering-screens/trommel-dewatering-screens.webp",
+            "seo": {
+              "title": {
+                "ar": "الغرابيل الأسطوانية GT وGS وغرابيل نزع الماء ZSD",
+                "en": "GT and GS Trommels and ZSD Dewatering Screens"
+              },
+              "description": {
+                "ar": "غرابيل أسطوانية ⁦GT⁩ و⁦GS⁩ لغسل وتصنيف الخام الغريني حتى ⁦600⁩ طن/ساعة، وغرابيل ⁦ZSD⁩ لنزع الماء من المخلفات والرمل. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "GT and GS trommels for washing and sizing alluvial ore up to 600 t/h, and ZSD screens for dewatering tailings and sand. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "غرابيل أسطوانية ⁦GT⁩ و⁦GS⁩ وغرابيل نزع الماء ⁦ZSD⁩. اختر من الجدول أدناه.",
+              "en": "GT and GS trommels and ZSD dewatering screens. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "متى أحتاج غربالاً أسطوانياً؟",
+                  "a": "للخام الغريني أو المتجوّي الذي فيه طين وحصى: الأسطوانة الدوّارة تغسل الخام وتفصل الحجم الكبير قبل التركيز. ويمكن تصنيع طول الأسطوانة حسب الطلب."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "When do I need a trommel screen?",
+                  "a": "For alluvial or weathered ore with clay and gravel: the rotating drum washes the ore and rejects the oversize before concentration. The drum length can be made to order."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "29",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦8⁠–⁠600⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦600⁠–⁠2500⁩ مم",
+                  "label": "قطر الأسطوانة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "29",
+                  "label": "Models"
+                },
+                {
+                  "value": "8–600 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "600–2500 mm",
+                  "label": "Drum diameter"
+                }
+              ]
+            }
+          },
+          {
+            "id": "linear-high-frequency-dewatering-screens",
+            "name": {
+              "ar": "غرابيل نزع الماء الخطية وعالية التردد",
+              "en": "Linear & High-Frequency Dewatering Screens"
+            },
+            "coverImage": "/products/linear-high-frequency-dewatering-screens/linear-high-frequency-dewatering-screens.webp",
+            "description": {
+              "ar": "غرابيل خطية وعالية التردد تنزع الماء من الرمل والمركّزات الناعمة والمخلفات، فتقل خسارة الماء ويسهل تكديس المخلفات جافة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Linear and high-frequency screens that remove water from sand, fine concentrates and tailings, cutting water loss and easing dry stacking.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦8⁩ غرابيل ⁦ZSM⁩ خطية بطاقة ⁦7.2⁠–⁠420⁩ طن/ساعة",
+                "⁦10⁩ غرابيل ⁦TSS⁩ عالية التردد للمواد ≤ ⁦10⁩ مم",
+                "⁦5⁩ غرابيل ⁦GP⁩ للمخلفات مع مضخة لب وهيدروسيكلونات",
+                "فتحة ⁦0.2⁠–⁠50⁩ مم"
+              ],
+              "en": [
+                "8 ZSM linear dewatering screens, 7.2–420 t/h",
+                "10 TSS high-frequency screens for material ≤ 10 mm",
+                "5 GP tailings screens with slurry pump and hydrocyclones",
+                "Aperture 0.2–50 mm"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦7.2⁠–⁠420⁩ طن/ساعة"
+                },
+                {
+                  "label": "الفتحة",
+                  "value": "⁦0.2⁠–⁠50⁩ مم"
+                },
+                {
+                  "label": "حجم التغذية",
+                  "value": "≤ ⁦8 – < 250⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦2 × 1.5⁩ حتى ⁦2 × 15⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "7.2–420 t/h"
+                },
+                {
+                  "label": "Aperture",
+                  "value": "0.2–50 mm"
+                },
+                {
+                  "label": "Feed size",
+                  "value": "≤ 8 – < 250 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "2 × 1.5 to 2 × 15 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/linear-high-frequency-dewatering-screens/linear-high-frequency-dewatering-screens.webp"
+            ],
+            "image": "/products/linear-high-frequency-dewatering-screens/linear-high-frequency-dewatering-screens.webp",
+            "cardImage": "/products/linear-high-frequency-dewatering-screens/linear-high-frequency-dewatering-screens.webp",
+            "seo": {
+              "title": {
+                "ar": "غرابيل نزع الماء ZSM وTSS وGP",
+                "en": "ZSM, TSS and GP Dewatering Screens"
+              },
+              "description": {
+                "ar": "غرابيل نزع ماء خطية ⁦ZSM⁩ وعالية التردد ⁦TSS⁩ وغرابيل مخلفات ⁦GP⁩ من ⁦7.2⁩ إلى ⁦420⁩ طن/ساعة لتقليل خسارة الماء. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "ZSM linear, TSS high-frequency and GP tailings dewatering screens from 7.2 to 420 t/h to cut water loss. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "غرابيل نزع ماء خطية ⁦ZSM⁩ وعالية التردد ⁦TSS⁩ وغرابيل مخلفات ⁦GP⁩. اختر من الجدول أدناه.",
+              "en": "ZSM linear, TSS high-frequency and GP tailings dewatering screens. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما فائدة غربال نزع الماء من المخلفات؟",
+                  "a": "يفصل الماء عن المخلفات والرمل الناعم ليُعاد استخدامه في المصنع، ويخرج المخلفات أجف فيسهل تكديسها. الطراز ⁦GP⁩ يأتي مع مضخة لب وهيدروسيكلونات تسبق الغربال."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What does a tailings dewatering screen do?",
+                  "a": "It separates water from tailings and fine sand so the water can be reused in the plant, and discharges drier tailings that are easier to stack. The GP type comes with a slurry pump and hydrocyclones ahead of the screen."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "23",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦7.2⁠–⁠420⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦0.2⁠–⁠50⁩ مم",
+                  "label": "الفتحة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "23",
+                  "label": "Models"
+                },
+                {
+                  "value": "7.2–420 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "0.2–50 mm",
+                  "label": "Aperture"
+                }
+              ]
+            }
+          },
+          {
+            "id": "conveyors-elevators",
+            "name": {
+              "ar": "السيور الناقلة والروافع",
+              "en": "Conveyors & Elevators"
+            },
+            "coverImage": "/products/conveyors-elevators/conveyors-elevators.webp",
+            "description": {
+              "ar": "سيور ناقلة وروافع دلوية وناقلات حلزونية تربط مراحل التكسير والطحن والمعالجة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Belt conveyors, bucket elevators and screw conveyors to link the crushing, grinding and processing stages.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦5⁩ سيور ناقلة ⁦B⁩ بعرض ⁦500⁠–⁠1200⁩ مم وطاقة ⁦40⁠–⁠500⁩ طن/ساعة",
+                "طول حتى ⁦40⁩ م ومحرك حسب الطول",
+                "⁦5⁩ روافع دلوية ⁦TH⁩ بتدفق ⁦15⁠–⁠118⁩ م³/ساعة",
+                "⁦5⁩ ناقلات حلزونية ⁦LSY⁩ بزاوية عمل ⁦0⁠–⁠60°⁩"
+              ],
+              "en": [
+                "5 B belt conveyors, 500–1200 mm wide, 40–500 t/h",
+                "Lengths up to 40 m with the motor set by length",
+                "5 TH bucket elevators, 15–118 m³/h",
+                "5 LSY screw conveyors, 0–60° working angle"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة (سيور)",
+                  "value": "⁦40⁠–⁠500⁩ طن/ساعة"
+                },
+                {
+                  "label": "التدفق (روافع وحلزونية)",
+                  "value": "⁦3⁠–⁠118⁩ م³/ساعة"
+                },
+                {
+                  "label": "عرض السير",
+                  "value": "⁦500⁠–⁠1200⁩ مم"
+                },
+                {
+                  "label": "سرعة السير",
+                  "value": "⁦1.3⁠–⁠2.0⁩ م/ث"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity (belts)",
+                  "value": "40–500 t/h"
+                },
+                {
+                  "label": "Flow (elevators and screws)",
+                  "value": "3–118 m³/h"
+                },
+                {
+                  "label": "Belt width",
+                  "value": "500–1200 mm"
+                },
+                {
+                  "label": "Belt speed",
+                  "value": "1.3–2.0 m/s"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/conveyors-elevators/conveyors-elevators.webp"
+            ],
+            "image": "/products/conveyors-elevators/conveyors-elevators.webp",
+            "cardImage": "/products/conveyors-elevators/conveyors-elevators.webp",
+            "seo": {
+              "title": {
+                "ar": "السيور الناقلة والروافع الدلوية والناقلات الحلزونية",
+                "en": "Belt Conveyors, Bucket Elevators and Screw Conveyors"
+              },
+              "description": {
+                "ar": "سيور ناقلة ⁦B⁩ من ⁦40⁩ إلى ⁦500⁩ طن/ساعة، وروافع دلوية ⁦TH⁩ وناقلات حلزونية ⁦LSY⁩ حتى ⁦118⁩ م³/ساعة لربط مراحل المصنع. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "B belt conveyors from 40 to 500 t/h, and TH bucket elevators and LSY screw conveyors up to 118 m³/h to link the plant stages. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "سيور ناقلة ⁦B⁩ وروافع دلوية ⁦TH⁩ وناقلات حلزونية ⁦LSY⁩. اختر من الجدول أدناه.",
+              "en": "B belt conveyors, TH bucket elevators and LSY screw conveyors. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كيف تُحدَّد قدرة محرك السير الناقل؟",
+                  "a": "حسب عرض السير وطوله: الجدول يعطي الطول والقدرة لثلاثة أطوال لكل عرض، مثل ⁦B800⁩ بقدرة ⁦5.5⁩ كيلوواط حتى ⁦10⁩ م و⁦15⁠–⁠18.5⁩ كيلوواط بين ⁦20⁩ و⁦40⁩ م. أرسل لنا الطول والارتفاع والطاقة لنحدد الموديل."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How is the belt conveyor motor sized?",
+                  "a": "By belt width and length: the table gives the length and power for three conveyor lengths per width, for example B800 with 5.5 kW up to 10 m and 15–18.5 kW from 20 to 40 m. Send us the length, lift and capacity and we set the model."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "15",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦40⁠–⁠500⁩ طن/ساعة",
+                  "label": "السيور"
+                },
+                {
+                  "value": "⁦3⁠–⁠118⁩ م³/ساعة",
+                  "label": "الروافع والحلزونية"
+                }
+              ],
+              "en": [
+                {
+                  "value": "15",
+                  "label": "Models"
+                },
+                {
+                  "value": "40–500 t/h",
+                  "label": "Belts"
+                },
+                {
+                  "value": "3–118 m³/h",
+                  "label": "Elevators & screws"
+                }
+              ]
+            }
+          },
+          {
+            "id": "screen-mesh",
+            "name": {
+              "ar": "شبك الغرابيل",
+              "en": "Screen Mesh"
+            },
+            "coverImage": "/products/screen-mesh/screen-mesh.webp",
+            "description": {
+              "ar": "شبك سلكي مجعّد ومنسوج من فولاذ المنغنيز وغرابيل مشقوقة تُقص حسب سطح الغربال الاهتزازي والأسطواني، مع ألواح مثقبة وشبك وتدي وشبك ستانلس ناعم حتى ⁦635⁩ مش.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Crimped and woven manganese-steel wire mesh and slotted screens cut to the deck size of vibrating screens and trommels, with perforated plate, wedge-wire screens and fine stainless mesh up to 635 mesh.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "شبك مجعّد ثقيل بسلك ⁦1.5⁠–⁠22⁩ مم وفتحة حتى ⁦150⁩ مم",
+                "شبك ⁦65Mn⁩ للغرابيل الاهتزازية بفتحة ⁦1⁠–⁠120⁩ مم",
+                "ألواح مثقبة ⁦0.5⁠–⁠15⁩ مم وشبك وتدي بشق من ⁦0.02⁩ مم",
+                "شبك ستانلس من ⁦2⁩ إلى ⁦635⁩ مش"
+              ],
+              "en": [
+                "Heavy crimped mesh, wire 1.5–22 mm, aperture up to 150 mm",
+                "65Mn vibrating-screen mesh, aperture 1–120 mm",
+                "Perforated plate 0.5–15 mm and wedge wire with slots from 0.02 mm",
+                "Stainless mesh from 2 to 635 mesh"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الفتحة",
+                  "value": "⁦0.02⁠–⁠150⁩ مم"
+                },
+                {
+                  "label": "قطر السلك",
+                  "value": "⁦0.02⁠–⁠22⁩ مم"
+                },
+                {
+                  "label": "الخامة",
+                  "value": "⁦65Mn⁩، فولاذ عالي الشد، ستانلس"
+                },
+                {
+                  "label": "أقصى لوح",
+                  "value": "⁦4 × 30⁩ م"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Aperture",
+                  "value": "0.02–150 mm"
+                },
+                {
+                  "label": "Wire diameter",
+                  "value": "0.02–22 mm"
+                },
+                {
+                  "label": "Material",
+                  "value": "65Mn, high-tensile steel, stainless"
+                },
+                {
+                  "label": "Max. panel",
+                  "value": "4 × 30 m"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/screen-mesh/screen-mesh.webp"
+            ],
+            "image": "/products/screen-mesh/screen-mesh.webp",
+            "cardImage": "/products/screen-mesh/screen-mesh.webp",
+            "seo": {
+              "title": {
+                "ar": "شبك الغرابيل المجعّد والمنسوج والألواح المثقبة",
+                "en": "Crimped and Woven Screen Mesh and Perforated Plate"
+              },
+              "description": {
+                "ar": "شبك غرابيل مجعّد من فولاذ ⁦65Mn⁩ بفتحة ⁦1⁠–⁠150⁩ مم، وألواح مثقبة وشبك وتدي وشبك ستانلس حتى ⁦635⁩ مش، حسب سطح الغربال. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Crimped 65Mn screen mesh with 1–150 mm apertures, perforated plate, wedge wire and stainless mesh up to 635 mesh, made to the screen deck. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "شبك غرابيل مجعّد ومنسوج وألواح مثقبة وشبك وتدي حسب مقاس سطح الغربال. اختر من الجدول أدناه.",
+              "en": "Crimped and woven screen mesh, perforated plate and wedge wire made to the screen deck. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما البيانات المطلوبة لطلب شبك الغربال؟",
+                  "a": "موديل الغربال ومقاس السطح، والفتحة المطلوبة وقطر السلك أو السماكة، ونوع التجعيد والحواف (عادية أو بخطاف). نقص الشبك حسب مقاس السطح."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to quote screen mesh?",
+                  "a": "The screen model and deck size, the aperture and wire diameter or thickness, and the crimp and edge type (plain or hooked). We cut the mesh to the deck size."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "11",
+                  "label": "منتجاً"
+                },
+                {
+                  "value": "⁦1⁠–⁠150⁩ مم",
+                  "label": "فتحة الشبك المجعّد"
+                },
+                {
+                  "value": "حتى ⁦635⁩ مش",
+                  "label": "الشبك الناعم"
+                }
+              ],
+              "en": [
+                {
+                  "value": "11",
+                  "label": "Products"
+                },
+                {
+                  "value": "1–150 mm",
+                  "label": "Crimped mesh aperture"
+                },
+                {
+                  "value": "Up to 635 mesh",
+                  "label": "Fine mesh"
+                }
+              ]
+            }
+          },
+          {
+            "id": "conveyor-rollers-belts-cleaners",
+            "name": {
+              "ar": "رولات السيور والسيور الناقلة ومنظفاتها",
+              "en": "Conveyor Rollers, Belts & Cleaners"
+            },
+            "coverImage": "/products/conveyor-rollers-belts-cleaners/conveyor-rollers-belts-cleaners.webp",
+            "description": {
+              "ar": "رولات ⁦UHMW-PE⁩ خفيفة ومقاومة للتآكل ورولات للمناجم، وسيور ناقلة نسيجية وبقلب حبال فولاذية حتى ⁦ST7500⁩ ومقاومة للهب والتآكل والصدم، وسيور شيفرون وبجوانب للميل الشديد، ومنظفات سيور وأسرّة صدمات وجوانب منع التسرب.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Light, corrosion-resistant UHMW-PE rollers and mining rollers; fabric and steel-cord belts up to ST7500 with flame-, abrasion- and impact-resistant covers; chevron and sidewall belts for steep inclines; and belt cleaners, impact beds and skirting.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "رولات ⁦UHMW-PE⁩ بقطر ⁦63.5⁠–⁠219⁩ مم ورولات مناجم مقاومة للحريق",
+                "سيور ⁦EP⁩ و⁦NN⁩ بعرض ⁦300⁠–⁠2500⁩ مم وسيور بقلب حبال فولاذية ⁦ST630–ST7500⁩",
+                "سيور شيفرون حتى ⁦45°⁩ وسيور بجوانب مموجة حتى ⁦90°⁩",
+                "منظفات أولية وثانوية بشفرة بولي يوريثان أو كربيد لسيور ⁦650⁠–⁠2200⁩ مم"
+              ],
+              "en": [
+                "UHMW-PE rollers 63.5–219 mm and fire-resistant mining rollers",
+                "EP and NN belts 300–2500 mm wide and ST630–ST7500 steel-cord belts",
+                "Chevron belts up to 45° and corrugated sidewall belts up to 90°",
+                "Primary and secondary cleaners with PU or carbide blades for 650–2200 mm belts"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "عرض السير",
+                  "value": "⁦300⁠–⁠2500⁩ مم"
+                },
+                {
+                  "label": "متانة السير",
+                  "value": "حتى ⁦7500⁩ نيوتن/مم"
+                },
+                {
+                  "label": "قطر الرول",
+                  "value": "⁦63.5⁠–⁠219⁩ مم"
+                },
+                {
+                  "label": "الميل",
+                  "value": "حتى ⁦90°⁩ (سيور بجوانب)"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Belt width",
+                  "value": "300–2500 mm"
+                },
+                {
+                  "label": "Belt strength",
+                  "value": "Up to 7500 N/mm"
+                },
+                {
+                  "label": "Roller diameter",
+                  "value": "63.5–219 mm"
+                },
+                {
+                  "label": "Incline",
+                  "value": "Up to 90° (sidewall belts)"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/conveyor-rollers-belts-cleaners/conveyor-rollers-belts-cleaners.webp"
+            ],
+            "image": "/products/conveyor-rollers-belts-cleaners/conveyor-rollers-belts-cleaners.webp",
+            "cardImage": "/products/conveyor-rollers-belts-cleaners/conveyor-rollers-belts-cleaners.webp",
+            "seo": {
+              "title": {
+                "ar": "رولات السيور والسيور الناقلة ومنظفاتها",
+                "en": "Conveyor Rollers, Belts and Belt Cleaners"
+              },
+              "description": {
+                "ar": "رولات ⁦UHMW-PE⁩ ورولات مناجم، وسيور ⁦EP⁩ وبقلب فولاذي حتى ⁦ST7500⁩ وسيور شيفرون وبجوانب، ومنظفات سيور وأسرّة صدمات. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "UHMW-PE and mining rollers, EP and steel-cord belts up to ST7500, chevron and sidewall belts, and belt cleaners and impact beds. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "رولات وسيور ناقلة ومنظفات سيور وأسرّة صدمات لمصانع الخام. اختر من الجدول أدناه.",
+              "en": "Conveyor rollers, belts, belt cleaners and impact beds for ore plants. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي سير ناقل يناسب الميل الشديد؟",
+                  "a": "سيور الشيفرون المنقوشة تنقل حتى نحو ⁦30⁠–⁠45°⁩ حسب المادة، والسيور بجوانب مموجة وفواصل تنقل حتى ⁦90°⁩. أرسل لنا زاوية الميل والمادة والطاقة وعرض السير لنحدد النوع."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which conveyor belt suits a steep incline?",
+                  "a": "Chevron belts carry up to about 30–45° depending on the material, and corrugated sidewall belts with cleats up to 90°. Send us the incline, material, capacity and belt width and we set the type."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "26",
+                  "label": "منتجاً"
+                },
+                {
+                  "value": "حتى ⁦ST7500⁩",
+                  "label": "السيور الفولاذية"
+                },
+                {
+                  "value": "⁦300⁠–⁠2500⁩ مم",
+                  "label": "عرض السير"
+                }
+              ],
+              "en": [
+                {
+                  "value": "26",
+                  "label": "Products"
+                },
+                {
+                  "value": "Up to ST7500",
+                  "label": "Steel-cord belts"
+                },
+                {
+                  "value": "300–2500 mm",
+                  "label": "Belt width"
+                }
+              ]
+            }
+          },
+          {
+            "id": "polyurethane-rubber-screen-panels",
+            "name": {
+              "ar": "ألواح الغربلة من البولي يوريثان والمطاط",
+              "en": "Polyurethane & Rubber Screen Panels"
+            },
+            "coverImage": "/products/polyurethane-rubber-screen-panels/polyurethane-rubber-screen-panels.webp",
+            "description": {
+              "ar": "وسائط غربلة من البولي يوريثان والمطاط للغرابيل الاهتزازية وعالية التردد وغرابيل نزع الماء: ألواح معيارية ومشدودة، وألواح مشقوقة، وغرابيل ذاتية التنظيف تدوم أضعاف الشبك السلكي في الغربلة الرطبة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Polyurethane and rubber screen media for vibrating, high-frequency and dewatering screens: modular and tensioned panels, slot panels and self-cleaning screens that last several times longer than wire mesh in wet screening.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "ألواح يوريثان ناعمة بفتحات ⁦0.045⁠–⁠8⁩ مم ومساحة مفتوحة ⁦32⁠–⁠43%⁩",
+                "ألواح بولي يوريثان أو مطاط مقوّاة بحبال فولاذية بصلادة ⁦80⁠–⁠95⁩ شور ⁦A⁩",
+                "ألواح مشقوقة لنزع الماء بشقوق ⁦0.1⁠–⁠2.5⁩ مم",
+                "مسامير وجلب التثبيت ومقاطع ⁦WS85⁩ ومحركات اهتزاز بديلة"
+              ],
+              "en": [
+                "Fine urethane panels, 0.045–8 mm apertures, 32–43 % open area",
+                "PU or rubber panels with steel-rope reinforcement, 80–95 Shore A",
+                "Dewatering slot panels with 0.1–2.5 mm slots",
+                "Fixing pins and sleeves, WS85 profiles and replacement vibration motors"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الفتحة (ألواح ناعمة)",
+                  "value": "⁦0.045⁠–⁠8⁩ مم"
+                },
+                {
+                  "label": "الصلادة",
+                  "value": "⁦80⁠–⁠95⁩ شور ⁦A⁩"
+                },
+                {
+                  "label": "عمر التآكل",
+                  "value": "⁦3⁠–⁠8⁩ أضعاف الشبك السلكي"
+                },
+                {
+                  "label": "التثبيت",
+                  "value": "خطاف، براغٍ، مسامير، سكك"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Aperture (fine panels)",
+                  "value": "0.045–8 mm"
+                },
+                {
+                  "label": "Hardness",
+                  "value": "80–95 Shore A"
+                },
+                {
+                  "label": "Wear life",
+                  "value": "3–8 × wire mesh"
+                },
+                {
+                  "label": "Fixing",
+                  "value": "Hook, screw, pin, rail"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/polyurethane-rubber-screen-panels/polyurethane-rubber-screen-panels.webp"
+            ],
+            "image": "/products/polyurethane-rubber-screen-panels/polyurethane-rubber-screen-panels.webp",
+            "cardImage": "/products/polyurethane-rubber-screen-panels/polyurethane-rubber-screen-panels.webp",
+            "seo": {
+              "title": {
+                "ar": "ألواح الغربلة من البولي يوريثان والمطاط",
+                "en": "Polyurethane and Rubber Screen Panels"
+              },
+              "description": {
+                "ar": "ألواح غربلة من البولي يوريثان والمطاط: ألواح ناعمة ⁦0.045⁠–⁠8⁩ مم، وألواح مشقوقة لنزع الماء، وغرابيل ذاتية التنظيف، وقطع التثبيت. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Polyurethane and rubber screen panels: fine 0.045–8 mm panels, dewatering slot panels, self-cleaning screens and fixing parts. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "ألواح غربلة من البولي يوريثان والمطاط وقطع تثبيتها. اختر من الجدول أدناه.",
+              "en": "Polyurethane and rubber screen panels and their fixing parts. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا أختار ألواح البولي يوريثان بدل الشبك السلكي؟",
+                  "a": "في الغربلة الرطبة تدوم ألواح البولي يوريثان والمطاط أضعاف الشبك السلكي، وتقل فيها الضوضاء وانسداد الفتحات. يعتمد السعر على مقاس اللوح والفتحة، فاذكر موديل الغربال ومقاس السطح."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why choose polyurethane panels over wire mesh?",
+                  "a": "In wet screening polyurethane and rubber panels last several times longer than wire mesh, with less noise and blinding. The price depends on the panel size and aperture, so quote the screen model and deck size."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "15",
+                  "label": "منتجاً"
+                },
+                {
+                  "value": "⁦0.045⁠–⁠8⁩ مم",
+                  "label": "الفتحة"
+                },
+                {
+                  "value": "⁦3–8 ×⁩",
+                  "label": "عمر التآكل مقارنة بالشبك"
+                }
+              ],
+              "en": [
+                {
+                  "value": "15",
+                  "label": "Products"
+                },
+                {
+                  "value": "0.045–8 mm",
+                  "label": "Aperture"
+                },
+                {
+                  "value": "3–8 ×",
+                  "label": "Wear life vs wire"
+                }
+              ]
+            }
+          },
+          {
+            "id": "tramp-iron-separators-metal-detectors",
+            "name": {
+              "ar": "فواصل الحديد الشارد وكواشف المعادن للسيور",
+              "en": "Tramp-Iron Separators & Belt Metal Detectors"
+            },
+            "coverImage": "/products/tramp-iron-separators-metal-detectors/tramp-iron-separators-metal-detectors.webp",
+            "description": {
+              "ar": "حماية من الحديد الشارد للسيور التي تغذي الكسارات والطواحين: كواشف معادن للسيور، وفواصل معلّقة بمغناطيس دائم أو كهرومغناطيسية، يدوية أو ذاتية التنظيف، مبرّدة بالهواء أو بالزيت، لسيور بعرض ⁦400⁠–⁠2000⁩ مم.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Tramp-iron protection for conveyors feeding crushers and mills: belt metal detectors, and suspended permanent-magnet and electromagnetic separators, manual or self-cleaning, air- or oil-cooled, for belts 400–2000 mm wide.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "كاشف معادن ⁦JYG-B⁩ بتسعة مقاسات لسيور ⁦500⁠–⁠1800⁩ مم",
+                "فواصل مغناطيس دائم ⁦RCYB⁩ بارتفاع تعليق ⁦75⁠–⁠450⁩ مم وبلا كهرباء",
+                "فواصل ذاتية التنظيف ⁦RCYD(C⁩) و⁦RCYP II⁩ و⁦RCDD⁩",
+                "فواصل كهرومغناطيسية مبرّدة بالزيت ⁦RCDEJ⁩ و⁦RCDFJ⁩ للخدمة الشاقة"
+              ],
+              "en": [
+                "JYG-B belt metal detector in 9 sizes for 500–1800 mm belts",
+                "RCYB permanent-magnet separators, 75–450 mm suspension height, no power",
+                "Self-cleaning RCYD(C), RCYP II and RCDD separators",
+                "Oil-cooled RCDEJ and RCDFJ electromagnetic separators for heavy duty"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "عرض السير",
+                  "value": "⁦400⁠–⁠2000⁩ مم"
+                },
+                {
+                  "label": "ارتفاع التعليق (RCYB)",
+                  "value": "⁦75⁠–⁠450⁩ مم"
+                },
+                {
+                  "label": "المغناطيس",
+                  "value": "دائم أو كهربائي"
+                },
+                {
+                  "label": "التبريد",
+                  "value": "هواء أو زيت"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Belt width",
+                  "value": "400–2000 mm"
+                },
+                {
+                  "label": "Suspension height (RCYB)",
+                  "value": "75–450 mm"
+                },
+                {
+                  "label": "Magnet",
+                  "value": "Permanent or electromagnet"
+                },
+                {
+                  "label": "Cooling",
+                  "value": "Air or oil"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/tramp-iron-separators-metal-detectors/tramp-iron-separators-metal-detectors.webp"
+            ],
+            "image": "/products/tramp-iron-separators-metal-detectors/tramp-iron-separators-metal-detectors.webp",
+            "cardImage": "/products/tramp-iron-separators-metal-detectors/tramp-iron-separators-metal-detectors.webp",
+            "seo": {
+              "title": {
+                "ar": "فواصل الحديد الشارد وكواشف المعادن للسيور",
+                "en": "Tramp-Iron Separators and Belt Metal Detectors"
+              },
+              "description": {
+                "ar": "كواشف معادن ⁦JYG-B⁩ وفواصل حديد مغناطيسية دائمة وكهرومغناطيسية، يدوية أو ذاتية التنظيف، لسيور ⁦400⁠–⁠2000⁩ مم. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "JYG-B belt metal detectors and permanent-magnet and electromagnetic iron separators, manual or self-cleaning, for 400–2000 mm belts. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كواشف معادن للسيور وفواصل حديد مغناطيسية دائمة وكهرومغناطيسية. اختر من الجدول أدناه.",
+              "en": "Belt metal detectors and permanent-magnet and electromagnetic iron separators. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين كاشف المعادن وفاصل الحديد؟",
+                  "a": "الفاصل المغناطيسي يرفع الحديد الشارد عن السير قبل الكسارة، والكاشف يكتشف المعادن غير المغناطيسية أيضاً ويعطي إشارة لإيقاف السير. كثيراً ما يُركَّبان معاً لحماية الكسارات."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the difference between a metal detector and an iron separator?",
+                  "a": "A magnetic separator lifts tramp iron off the belt before the crusher; a metal detector also finds non-magnetic metal and gives a signal to stop the belt. They are often fitted together to protect crushers."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "93",
+                  "label": "موديلاً ونوعاً"
+                },
+                {
+                  "value": "⁦400⁠–⁠2000⁩ مم",
+                  "label": "عرض السير"
+                },
+                {
+                  "value": "11",
+                  "label": "سلسلة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "93",
+                  "label": "Models & types"
+                },
+                {
+                  "value": "400–2000 mm",
+                  "label": "Belt width"
+                },
+                {
+                  "value": "11",
+                  "label": "Series"
+                }
+              ]
+            }
+          },
+          {
+            "id": "crusher-wear-spare-parts",
+            "name": {
+              "ar": "قطع التآكل والغيار للكسارات",
+              "en": "Crusher Wear & Spare Parts"
+            },
+            "coverImage": "/products/crusher-wear-spare-parts/crusher-wear-spare-parts.webp",
+            "description": {
+              "ar": "قطع تآكل مصبوبة وقطع غيار للكسارات الفكية والمخروطية والصدمية والدوّارة و⁦VSI⁩: ألواح الفك والألواح الجانبية، والبطانات الداخلية والخارجية، وقضبان الضرب، والقطع الميكانيكية الرئيسية، من فولاذ عالي المنغنيز أو سبائكي أو كربوني، مع إدخالات كربيد التيتانيوم لعمر أطول، وسلاسل بديلة مطابقة للقطع الأصلية.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Cast wear parts and spares for jaw, cone, impact, gyratory and VSI crushers: jaw and cheek plates, mantles and concaves, blow bars and the major mechanical spares, in high-manganese, alloy or carbon steel, with titanium-carbide (TiC) inserts for longer life, and replacement series matched to the original parts.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "ألواح فك وبطانات مخروطية بإدخالات كربيد التيتانيوم",
+                "قضبان ضرب من فولاذ مارتنسيتي مع خيار مركّب بالسيراميك",
+                "فولاذ عالي المنغنيز ⁦Mn13Cr2⁩ و⁦Mn18Cr2⁩ و⁦Mn22Cr2⁩",
+                "أعمدة وجلب برونزية وإطارات وتروس وأذرع توصيل"
+              ],
+              "en": [
+                "Jaw plates and cone liners with TiC inserts",
+                "Martensitic-steel blow bars with a ceramic composite option",
+                "High-manganese steel Mn13Cr2, Mn18Cr2 and Mn22Cr2",
+                "Shafts, bronze bushings, frames, gears and pitmans"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "أنواع الكسارات",
+                  "value": "فكية، مخروطية، صدمية، دوّارة، ⁦VSI⁩"
+                },
+                {
+                  "label": "الخامة",
+                  "value": "⁦Mn13–Mn22⁩، سبائكي، كربوني"
+                },
+                {
+                  "label": "الخيارات",
+                  "value": "إدخالات ⁦TiC⁩، مركّب سيراميك"
+                },
+                {
+                  "label": "المطابقة",
+                  "value": "رقم القطعة الأصلية أو الرسم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Crusher types",
+                  "value": "Jaw, cone, impact, gyratory, VSI"
+                },
+                {
+                  "label": "Material",
+                  "value": "Mn13–Mn22, alloy, carbon steel"
+                },
+                {
+                  "label": "Options",
+                  "value": "TiC inserts, ceramic composite"
+                },
+                {
+                  "label": "Matching",
+                  "value": "Original part number or drawing"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/crusher-wear-spare-parts/crusher-wear-spare-parts.webp",
+              "/products/crusher-wear-spare-parts/crusher-wear-spare-parts-2.webp",
+              "/products/crusher-wear-spare-parts/crusher-wear-spare-parts-3.webp",
+              "/products/crusher-wear-spare-parts/crusher-wear-spare-parts-4.webp"
+            ],
+            "image": "/products/crusher-wear-spare-parts/crusher-wear-spare-parts.webp",
+            "cardImage": "/products/crusher-wear-spare-parts/crusher-wear-spare-parts.webp",
+            "seo": {
+              "title": {
+                "ar": "قطع التآكل والغيار للكسارات الفكية والمخروطية",
+                "en": "Crusher Wear and Spare Parts: Jaw, Cone, Impact"
+              },
+              "description": {
+                "ar": "قطع تآكل وغيار للكسارات الفكية والمخروطية والصدمية والدوّارة و⁦VSI⁩ من فولاذ المنغنيز، مع إدخالات كربيد التيتانيوم وسلاسل بديلة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Wear and spare parts for jaw, cone, impact, gyratory and VSI crushers in manganese steel, with TiC inserts and replacement series. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "قطع تآكل وغيار للكسارات، وسلاسل بديلة حسب موديل الكسارة. اختر من الجدول أدناه.",
+              "en": "Crusher wear and spare parts, and replacement series by crusher model. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لطلب قطعة تآكل لكسارتي؟",
+                  "a": "موديل الكسارة، ورقم القطعة الأصلية أو رسمها، والخامة المطلوبة إن وُجدت. نطابق القطعة البديلة مع الأصلية ونقترح إدخالات كربيد التيتانيوم حين يكون التآكل سريعاً."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to quote a wear part for my crusher?",
+                  "a": "The crusher model, the original part number or drawing, and the material you need if any. We match the replacement to the original part and suggest TiC inserts where wear is fast."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "19",
+                  "label": "بنداً"
+                },
+                {
+                  "value": "5",
+                  "label": "أنواع كسارات"
+                },
+                {
+                  "value": "⁦Mn13–Mn22⁩",
+                  "label": "فولاذ المنغنيز"
+                }
+              ],
+              "en": [
+                {
+                  "value": "19",
+                  "label": "Part lines"
+                },
+                {
+                  "value": "5",
+                  "label": "Crusher types"
+                },
+                {
+                  "value": "Mn13–Mn22",
+                  "label": "Manganese steel"
+                }
+              ]
+            }
+          },
+          {
+            "id": "ceramic-wear-protection",
+            "name": {
+              "ar": "الحماية الخزفية من التآكل",
+              "en": "Ceramic Wear Protection"
+            },
+            "coverImage": "/products/ceramic-wear-protection/ceramic-wear-protection.webp",
+            "description": {
+              "ar": "ألواح مركّبة من السيراميك والمطاط، وبلاطات ألومينا، وهيدروسيكلونات مبطّنة بالسيراميك، ومعجون مقاوم للتآكل، وبطانات ⁦UHMW-PE⁩ للمزالق ونقاط النقل والسيكلونات والمجاري التي يتآكل فيها الفولاذ بسرعة بفعل الخام الكاشط.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Ceramic-rubber panels, alumina tiles, ceramic-lined cyclones, wear compound and UHMW-PE liners for chutes, transfer points, cyclones and launders where abrasive ore wears steel quickly.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "بلاطات ألومينا ⁦92⁩ و⁦95⁩ و⁦99%⁩ أو ⁦ZTA⁩ أو كربيد السيليكون مفلكنة في المطاط",
+                "بلاطات تآكل ⁦HC90⁩ حتى ⁦HCZTA⁩ بأشكال متعددة",
+                "هيدروسيكلونات وبطانات بقطر ⁦350⁠–⁠1400⁩ مم",
+                "معجون سيراميك للإصلاح وبطانات ⁦UHMW-PE⁩ تمنع التصاق المادة"
+              ],
+              "en": [
+                "Alumina 92 / 95 / 99 %, ZTA or SiC tiles vulcanised in rubber",
+                "HC90 to HCZTA wear tiles in many shapes",
+                "Hydrocyclones and liners, 350–1400 mm",
+                "Ceramic repair compound and UHMW-PE liners that stop hang-up"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الألومينا",
+                  "value": "⁦92–99%⁩"
+                },
+                {
+                  "label": "قطر السيكلونات",
+                  "value": "⁦350⁠–⁠1400⁩ مم"
+                },
+                {
+                  "label": "حرارة المعجون",
+                  "value": "−⁦60⁩ حتى ⁦120°⁩م"
+                },
+                {
+                  "label": "التوريد",
+                  "value": "حسب الرسم أو القياس"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Alumina",
+                  "value": "92–99 %"
+                },
+                {
+                  "label": "Cyclone diameter",
+                  "value": "350–1400 mm"
+                },
+                {
+                  "label": "Compound temperature",
+                  "value": "−60 to 120 °C"
+                },
+                {
+                  "label": "Supply",
+                  "value": "To drawing or site measurement"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/ceramic-wear-protection/ceramic-wear-protection.webp"
+            ],
+            "image": "/products/ceramic-wear-protection/ceramic-wear-protection.webp",
+            "cardImage": "/products/ceramic-wear-protection/ceramic-wear-protection.webp",
+            "seo": {
+              "title": {
+                "ar": "الحماية الخزفية من التآكل للمزالق والسيكلونات",
+                "en": "Ceramic Wear Protection for Chutes and Cyclones"
+              },
+              "description": {
+                "ar": "ألواح سيراميك ومطاط، وبلاطات ألومينا ⁦92⁠–⁠99%⁩، وهيدروسيكلونات مبطّنة، ومعجون مقاوم للتآكل، وبطانات ⁦UHMW-PE⁩. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Ceramic-rubber panels, 92–99 % alumina tiles, ceramic-lined hydrocyclones, wear compound and UHMW-PE liners. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "حماية من التآكل بالسيراميك والبوليمر للمزالق والسيكلونات والمجاري. اختر من الجدول أدناه.",
+              "en": "Ceramic and polymer wear protection for chutes, cyclones and launders. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أين أستخدم ألواح السيراميك والمطاط؟",
+                  "a": "في المزالق ونقاط النقل والسيكلونات والمجاري حيث يتآكل الفولاذ بسرعة: السيراميك يقاوم الاحتكاك والمطاط يمتص الصدمة. وحيث يتعذر التبليط يُستخدم معجون السيراميك للإصلاح."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Where do I use ceramic-rubber panels?",
+                  "a": "In chutes, transfer points, cyclones and launders where steel wears fast: the ceramic resists abrasion and the rubber absorbs impact. Where tiling is not possible, the ceramic compound is used for repairs."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "5",
+                  "label": "منتجات"
+                },
+                {
+                  "value": "⁦92–99%⁩",
+                  "label": "الألومينا"
+                },
+                {
+                  "value": "⁦350⁠–⁠1400⁩ مم",
+                  "label": "السيكلونات"
+                }
+              ],
+              "en": [
+                {
+                  "value": "5",
+                  "label": "Product types"
+                },
+                {
+                  "value": "92–99 %",
+                  "label": "Alumina"
+                },
+                {
+                  "value": "350–1400 mm",
+                  "label": "Cyclones"
+                }
+              ]
+            }
+          },
+          {
+            "id": "mill-gears-heavy-castings",
+            "name": {
+              "ar": "تروس الطواحين والمسبوكات الثقيلة",
+              "en": "Mill Gears & Heavy Castings"
+            },
+            "coverImage": "/products/mill-gears-heavy-castings/mill-gears-heavy-castings.webp",
+            "description": {
+              "ar": "تروس محيطية ومحاور ورؤوس طواحين وأغلفة كسارات مخروطية مصبوبة ومشغّلة حسب الرسم، لاستبدال القطع المتآكلة أو المكسورة في الطواحين والأفران والكسارات الكبيرة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Girth gears, trunnions, mill heads and cone-crusher shells cast and machined to drawing, for replacing worn or broken parts of large mills, kilns and crushers.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "تروس محيطية للطواحين الكروية والأفران الدوارة",
+                "محاور وأغطية نهاية الطواحين",
+                "أطقم محور وترس محيطي وترس صغير للطواحين الكبيرة",
+                "أغلفة ومخاريط ثابتة وحلقات ضبط للكسارات المخروطية"
+              ],
+              "en": [
+                "Girth gears for ball mills and rotary kilns",
+                "Mill trunnions and end covers",
+                "Trunnion, girth gear and pinion sets for large mills",
+                "Cone-crusher shells, fixed cones and adjusting rings"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "وزن المسبوكات",
+                  "value": "من نحو ⁦5⁩ أطنان"
+                },
+                {
+                  "label": "الصنع",
+                  "value": "صب وتشغيل آلي"
+                },
+                {
+                  "label": "التوريد",
+                  "value": "حسب الرسم والمقاس"
+                },
+                {
+                  "label": "الاستخدام",
+                  "value": "طواحين، أفران، كسارات"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Casting weight",
+                  "value": "From about 5 t"
+                },
+                {
+                  "label": "Construction",
+                  "value": "Cast and machined"
+                },
+                {
+                  "label": "Supply",
+                  "value": "To drawing and size"
+                },
+                {
+                  "label": "Use",
+                  "value": "Mills, kilns, crushers"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/mill-gears-heavy-castings/mill-gears-heavy-castings.webp"
+            ],
+            "image": "/products/mill-gears-heavy-castings/mill-gears-heavy-castings.webp",
+            "cardImage": "/products/mill-gears-heavy-castings/mill-gears-heavy-castings.webp",
+            "seo": {
+              "title": {
+                "ar": "تروس الطواحين والمسبوكات الفولاذية الثقيلة",
+                "en": "Mill Girth Gears, Trunnions and Heavy Castings"
+              },
+              "description": {
+                "ar": "تروس محيطية ومحاور ورؤوس طواحين وأغلفة كسارات مخروطية مصبوبة ومشغّلة حسب الرسم، من نحو ⁦5⁩ أطنان. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Girth gears, trunnions, mill heads and cone-crusher shells, cast and machined to drawing, from about 5 t. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "تروس الطواحين والمحاور والمسبوكات الثقيلة حسب الرسم. اختر من الجدول أدناه.",
+              "en": "Mill gears, trunnions and heavy castings made to drawing. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ماذا أرسل لطلب ترس محيطي أو محور طاحونة؟",
+                  "a": "رسم القطعة، أو أبعاد القطعة القديمة مع موديل الطاحونة وقطرها. نصب القطعة ونشغّلها حسب الرسم، والمسبوكات الفولاذية الثقيلة من نحو ⁦5⁩ أطنان."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do I send to quote a girth gear or mill trunnion?",
+                  "a": "The part drawing, or the old part dimensions with the mill model and diameter. We cast and machine the part to drawing; heavy steel castings start from about 5 t."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "4",
+                  "label": "مجموعات قطع"
+                },
+                {
+                  "value": "≥ ⁦5⁩ طن",
+                  "label": "وزن المسبوكات"
+                },
+                {
+                  "value": "⁦100%⁩",
+                  "label": "حسب الرسم"
+                }
+              ],
+              "en": [
+                {
+                  "value": "4",
+                  "label": "Part groups"
+                },
+                {
+                  "value": "≥ 5 t",
+                  "label": "Casting weight"
+                },
+                {
+                  "value": "100 %",
+                  "label": "Made to drawing"
+                }
+              ]
+            }
+          },
+          {
+            "id": "drive-v-belts-industrial-rubber",
+            "name": {
+              "ar": "سيور V لنقل الحركة والمطاط الصناعي",
+              "en": "Drive V-Belts & Industrial Rubber"
+            },
+            "coverImage": "/products/drive-v-belts-industrial-rubber/drive-v-belts-industrial-rubber.webp",
+            "description": {
+              "ar": "سيور ⁦V⁩ كلاسيكية وضيقة ومجمّعة ومسنّنة بحافة خام وبحبال أراميد للكسارات والغرابيل والمضخات، مع ألواح مطاط لتبطين التآكل وتكسية البكرات ومطاط منظفات السيور والألواح الجانبية للسيور.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Classical, narrow, banded, raw-edge cogged and aramid-cord V-belts for crushers, screens and pumps, with rubber sheet for wear lining, pulley lagging, belt-cleaner rubber and skirt boards for conveyors.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "سيور ⁦V⁩ كلاسيكية من ⁦K⁩ إلى ⁦F⁩ بعرض علوي ⁦8⁠–⁠50⁩ مم",
+                "سيور ضيقة ومجمّعة لنقل الحركة الثقيلة والصدمات",
+                "سيور مسنّنة بحافة خام للبكرات الصغيرة والسرعات العالية",
+                "ألواح مطاط بسماكة ⁦1⁠–⁠50⁩ مم لتبطين التآكل وتكسية البكرات"
+              ],
+              "en": [
+                "Classical V-belts from K to F, 8–50 mm top width",
+                "Narrow and banded belts for heavy and shock loads",
+                "Raw-edge cogged belts for small pulleys and high speeds",
+                "Rubber sheet 1–50 mm thick for wear lining and pulley lagging"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "العرض العلوي",
+                  "value": "⁦8⁠–⁠50⁩ مم"
+                },
+                {
+                  "label": "طول السير",
+                  "value": "حتى نحو ⁦21⁩ م"
+                },
+                {
+                  "label": "سماكة المطاط",
+                  "value": "⁦1⁠–⁠50⁩ مم"
+                },
+                {
+                  "label": "صلادة المطاط",
+                  "value": "⁦40⁠–⁠65⁩ شور ⁦A⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Top width",
+                  "value": "8–50 mm"
+                },
+                {
+                  "label": "Belt length",
+                  "value": "Up to about 21 m"
+                },
+                {
+                  "label": "Rubber thickness",
+                  "value": "1–50 mm"
+                },
+                {
+                  "label": "Rubber hardness",
+                  "value": "40–65 Shore A"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/drive-v-belts-industrial-rubber/drive-v-belts-industrial-rubber.webp"
+            ],
+            "image": "/products/drive-v-belts-industrial-rubber/drive-v-belts-industrial-rubber.webp",
+            "cardImage": "/products/drive-v-belts-industrial-rubber/drive-v-belts-industrial-rubber.webp",
+            "seo": {
+              "title": {
+                "ar": "سيور V لنقل الحركة والمطاط الصناعي للتعدين",
+                "en": "Drive V-Belts and Industrial Rubber for Mining"
+              },
+              "description": {
+                "ar": "سيور ⁦V⁩ كلاسيكية وضيقة ومجمّعة ومسنّنة وبحبال أراميد للكسارات والغرابيل، وألواح مطاط وتكسية بكرات ومطاط منظفات السيور. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Classical, narrow, banded, cogged and aramid V-belts for crushers and screens, plus rubber sheet, pulley lagging and belt-cleaner rubber. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "سيور ⁦V⁩ لنقل الحركة ومطاط صناعي للسيور وتبطين التآكل. اختر من الجدول أدناه.",
+              "en": "Drive V-belts and industrial rubber for conveyors and wear lining. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كيف أطلب سير V بديلاً؟",
+                  "a": "أرسل المقطع (مثل ⁦B⁩ أو ⁦SPB⁩ أو ⁦5V⁩) والطول المكتوب على السير القديم وعدد السيور في المجموعة. للصدمات الشديدة أو البكرات الصغيرة نقترح السيور المجمّعة أو المسنّنة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How do I order a replacement V-belt?",
+                  "a": "Send the section (for example B, SPB or 5V), the length printed on the old belt and the number of belts in the set. For severe shock loads or small pulleys we suggest banded or cogged belts."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "11",
+                  "label": "منتجاً"
+                },
+                {
+                  "value": "⁦8⁠–⁠50⁩ مم",
+                  "label": "العرض العلوي"
+                },
+                {
+                  "value": "⁦1⁠–⁠50⁩ مم",
+                  "label": "سماكة المطاط"
+                }
+              ],
+              "en": [
+                {
+                  "value": "11",
+                  "label": "Products"
+                },
+                {
+                  "value": "8–50 mm",
+                  "label": "Top width"
+                },
+                {
+                  "value": "1–50 mm",
+                  "label": "Rubber thickness"
+                }
+              ]
+            }
+          },
+          {
+            "id": "bearings-housed-bearing-units",
+            "name": {
+              "ar": "المحامل ووحدات الكراسي",
+              "en": "Bearings & Housed Bearing Units"
+            },
+            "coverImage": "/products/bearings-housed-bearing-units/bearings-housed-bearing-units.webp",
+            "description": {
+              "ar": "محامل كروية أخدودية وأسطوانية ومخروطية وكروية الدحاريج للكسارات والغرابيل والسيور والمضخات، ومحامل إدخال ⁦UC⁩ مع كراسٍ قائمة وبفلنجة ووحدات شد.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Deep-groove ball, cylindrical, tapered and spherical roller bearings for crushers, screens, conveyors and pumps, and UC insert bearings with pillow-block, flange and take-up housings.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "محامل كروية أخدودية من السلاسل ⁦60⁩ و⁦62⁩ و⁦63⁩ و⁦64⁩",
+                "محامل مخروطية من السلاسل ⁦302⁩ حتى ⁦332⁩",
+                "محامل كروية الدحاريج بصفين وثقب أسطواني أو مخروطي",
+                "وحدات ⁦UC⁩ من ⁦201⁩ إلى ⁦328⁩: قائمة ⁦UCP⁩ وبفلنجة ⁦UCF⁩ و⁦UCFL⁩ وشد ⁦UCT⁩"
+              ],
+              "en": [
+                "Deep-groove ball bearings in the 60, 62, 63 and 64 series",
+                "Tapered roller bearings from the 302 to the 332 series",
+                "Double-row spherical roller bearings with cylindrical or tapered bore",
+                "UC units 201 to 328: UCP pillow blocks, UCF and UCFL flanges, UCT take-ups"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "القطر الداخلي",
+                  "value": "⁦4⁠–⁠170⁩ مم"
+                },
+                {
+                  "label": "وحدات UC",
+                  "value": "⁦201–328⁩"
+                },
+                {
+                  "label": "الأنواع",
+                  "value": "كروية، أسطوانية، مخروطية، كروية الدحاريج"
+                },
+                {
+                  "label": "الأغطية",
+                  "value": "مفتوحة، ⁦Z⁩، ⁦2RS⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Bore",
+                  "value": "4–170 mm"
+                },
+                {
+                  "label": "UC units",
+                  "value": "201–328"
+                },
+                {
+                  "label": "Types",
+                  "value": "Ball, cylindrical, tapered, spherical"
+                },
+                {
+                  "label": "Seals",
+                  "value": "Open, Z, 2RS"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/bearings-housed-bearing-units/bearings-housed-bearing-units.webp"
+            ],
+            "image": "/products/bearings-housed-bearing-units/bearings-housed-bearing-units.webp",
+            "cardImage": "/products/bearings-housed-bearing-units/bearings-housed-bearing-units.webp",
+            "seo": {
+              "title": {
+                "ar": "المحامل ووحدات الكراسي UC للتعدين",
+                "en": "Bearings and UC Housed Bearing Units for Mining"
+              },
+              "description": {
+                "ar": "محامل كروية وأسطوانية ومخروطية وكروية الدحاريج بقطر داخلي ⁦4⁠–⁠170⁩ مم، ووحدات كراسٍ ⁦UC⁩ من ⁦201⁩ إلى ⁦328⁩. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Ball, cylindrical, tapered and spherical roller bearings with 4–170 mm bore, and UC housed units from 201 to 328. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "محامل دحرجة ووحدات كراسٍ للكسارات والغرابيل والسيور. اختر من الجدول أدناه.",
+              "en": "Rolling bearings and housed units for crushers, screens and conveyors. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كيف أطلب محملاً بديلاً؟",
+                  "a": "أرسل رقم المحمل المكتوب على الحلقة الخارجية (مثل ⁦6205⁩ أو ⁦22220⁩ أو ⁦UC210⁩) ونوع الغطاء والكمية. للوحدات الكاملة اذكر نوع الكرسي: قائم أو بفلنجة أو وحدة شد."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How do I order a replacement bearing?",
+                  "a": "Send the bearing number marked on the outer ring (for example 6205, 22220 or UC210), the seal type and the quantity. For complete units, give the housing type: pillow block, flange or take-up."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "17",
+                  "label": "سلسلة"
+                },
+                {
+                  "value": "⁦4⁠–⁠170⁩ مم",
+                  "label": "القطر الداخلي"
+                },
+                {
+                  "value": "⁦201–328⁩",
+                  "label": "وحدات UC"
+                }
+              ],
+              "en": [
+                {
+                  "value": "17",
+                  "label": "Series"
+                },
+                {
+                  "value": "4–170 mm",
+                  "label": "Bore"
+                },
+                {
+                  "value": "201–328",
+                  "label": "UC unit sizes"
                 }
               ]
             }

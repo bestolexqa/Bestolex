@@ -153,7 +153,32 @@ const FAMILY_FILES: Record<string, string> = {
   'hydraulic-hoses': 'catalog/mining/hydraulic-hoses.json',
   'mobile-light-towers': 'catalog/mining/mobile-light-towers.json',
   'weighbridges-axle-scales': 'catalog/mining/weighbridges-axle-scales.json',
-  'weighbridges-platform-scales-load-cells': 'catalog/mining/weighbridges-platform-scales-load-cells.json'
+  'weighbridges-platform-scales-load-cells': 'catalog/mining/weighbridges-platform-scales-load-cells.json',
+  'wet-pan-mills': 'catalog/mining/wet-pan-mills.json',
+  'ball-mills-small-medium': 'catalog/mining/ball-mills-small-medium.json',
+  'ball-mills-large': 'catalog/mining/ball-mills-large.json',
+  'rod-mills': 'catalog/mining/rod-mills.json',
+  'spiral-classifiers': 'catalog/mining/spiral-classifiers.json',
+  'powder-grinding-mills': 'catalog/mining/powder-grinding-mills.json',
+  'sag-autogenous-mills': 'catalog/mining/sag-autogenous-mills.json',
+  'hydrocyclones': 'catalog/mining/hydrocyclones.json',
+  'ceramic-grinding-media': 'catalog/mining/ceramic-grinding-media.json',
+  'vibrating-feeders': 'catalog/mining/vibrating-feeders.json',
+  'apron-reciprocating-feeders': 'catalog/mining/apron-reciprocating-feeders.json',
+  'inclined-vibrating-screens': 'catalog/mining/inclined-vibrating-screens.json',
+  'horizontal-linear-screens': 'catalog/mining/horizontal-linear-screens.json',
+  'trommel-dewatering-screens': 'catalog/mining/trommel-dewatering-screens.json',
+  'linear-high-frequency-dewatering-screens': 'catalog/mining/linear-high-frequency-dewatering-screens.json',
+  'conveyors-elevators': 'catalog/mining/conveyors-elevators.json',
+  'screen-mesh': 'catalog/mining/screen-mesh.json',
+  'conveyor-rollers-belts-cleaners': 'catalog/mining/conveyor-rollers-belts-cleaners.json',
+  'polyurethane-rubber-screen-panels': 'catalog/mining/polyurethane-rubber-screen-panels.json',
+  'tramp-iron-separators-metal-detectors': 'catalog/mining/tramp-iron-separators-metal-detectors.json',
+  'crusher-wear-spare-parts': 'catalog/mining/crusher-wear-spare-parts.json',
+  'ceramic-wear-protection': 'catalog/mining/ceramic-wear-protection.json',
+  'mill-gears-heavy-castings': 'catalog/mining/mill-gears-heavy-castings.json',
+  'drive-v-belts-industrial-rubber': 'catalog/mining/drive-v-belts-industrial-rubber.json',
+  'bearings-housed-bearing-units': 'catalog/mining/bearings-housed-bearing-units.json'
 }
 
 const cache = new Map<string, any>()

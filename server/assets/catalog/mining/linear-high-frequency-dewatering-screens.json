@@ -1,0 +1,851 @@
+{
+  "id": "linear-high-frequency-dewatering-screens",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "screen-area-m2",
+      "label": {
+        "en": "Screen area (m²)",
+        "ar": "مساحة الغربلة (م²)"
+      }
+    },
+    {
+      "key": "aperture-mm",
+      "label": {
+        "en": "Aperture (mm)",
+        "ar": "الفتحة (مم)"
+      }
+    },
+    {
+      "key": "feed-size-mm",
+      "label": {
+        "en": "Feed size (mm)",
+        "ar": "حجم التغذية (مم)"
+      }
+    },
+    {
+      "key": "capacity-t-h",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "power-kw",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "screen-size-mm",
+      "label": {
+        "en": "Screen size (mm)",
+        "ar": "مقاس الغربال (مم)"
+      }
+    },
+    {
+      "key": "decks",
+      "label": {
+        "en": "Decks",
+        "ar": "الطوابق"
+      }
+    }
+  ],
+  "keyRows": [
+    "screen-area-m2",
+    "aperture-mm",
+    "feed-size-mm"
+  ],
+  "types": [
+    {
+      "id": "zsm",
+      "label": {
+        "en": "ZSM linear dewatering screens",
+        "ar": "غرابيل نزع ماء خطية ⁦ZSM⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0021-01-022 / ZSM1230",
+          "name": {
+            "en": "ZSM1230",
+            "ar": "ZSM1230"
+          },
+          "specs": {
+            "screen-area-m2": {
+              "en": "3.6",
+              "ar": "⁦3.6⁩"
+            },
+            "aperture-mm": {
+              "en": "0.25–50",
+              "ar": "⁦0.25–50⁩"
+            },
+            "feed-size-mm": {
+              "en": "<250",
+              "ar": "⁦<250⁩"
+            },
+            "capacity-t-h": {
+              "en": "7.2–144",
+              "ar": "⁦7.2–144⁩"
+            },
+            "power-kw": {
+              "en": "3 × 2",
+              "ar": "⁦3 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-022 / 2ZSM1230",
+          "name": {
+            "en": "2ZSM1230",
+            "ar": "2ZSM1230"
+          },
+          "specs": {
+            "screen-area-m2": {
+              "en": "7.2",
+              "ar": "⁦7.2⁩"
+            },
+            "aperture-mm": {
+              "en": "0.25–50",
+              "ar": "⁦0.25–50⁩"
+            },
+            "feed-size-mm": {
+              "en": "<250",
+              "ar": "⁦<250⁩"
+            },
+            "capacity-t-h": {
+              "en": "7.2–144",
+              "ar": "⁦7.2–144⁩"
+            },
+            "power-kw": {
+              "en": "3 × 2",
+              "ar": "⁦3 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-022 / ZSM1530",
+          "name": {
+            "en": "ZSM1530",
+            "ar": "ZSM1530"
+          },
+          "specs": {
+            "screen-area-m2": {
+              "en": "4.5",
+              "ar": "⁦4.5⁩"
+            },
+            "aperture-mm": {
+              "en": "0.25–50",
+              "ar": "⁦0.25–50⁩"
+            },
+            "feed-size-mm": {
+              "en": "<250",
+              "ar": "⁦<250⁩"
+            },
+            "capacity-t-h": {
+              "en": "9–180",
+              "ar": "⁦9–180⁩"
+            },
+            "power-kw": {
+              "en": "5.5 × 2",
+              "ar": "⁦5.5 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-022 / 2ZSM1530",
+          "name": {
+            "en": "2ZSM1530",
+            "ar": "2ZSM1530"
+          },
+          "specs": {
+            "screen-area-m2": {
+              "en": "9",
+              "ar": "9"
+            },
+            "aperture-mm": {
+              "en": "0.25–50",
+              "ar": "⁦0.25–50⁩"
+            },
+            "feed-size-mm": {
+              "en": "<250",
+              "ar": "⁦<250⁩"
+            },
+            "capacity-t-h": {
+              "en": "9–180",
+              "ar": "⁦9–180⁩"
+            },
+            "power-kw": {
+              "en": "5.5 × 2",
+              "ar": "⁦5.5 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-022 / ZSM1845",
+          "name": {
+            "en": "ZSM1845",
+            "ar": "ZSM1845"
+          },
+          "specs": {
+            "screen-area-m2": {
+              "en": "8.1",
+              "ar": "⁦8.1⁩"
+            },
+            "aperture-mm": {
+              "en": "0.25–50",
+              "ar": "⁦0.25–50⁩"
+            },
+            "feed-size-mm": {
+              "en": "<250",
+              "ar": "⁦<250⁩"
+            },
+            "capacity-t-h": {
+              "en": "16.4–324",
+              "ar": "⁦16.4–324⁩"
+            },
+            "power-kw": {
+              "en": "11 × 2",
+              "ar": "⁦11 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-022 / 2ZSM1845",
+          "name": {
+            "en": "2ZSM1845",
+            "ar": "2ZSM1845"
+          },
+          "specs": {
+            "screen-area-m2": {
+              "en": "16.2",
+              "ar": "⁦16.2⁩"
+            },
+            "aperture-mm": {
+              "en": "0.25–50",
+              "ar": "⁦0.25–50⁩"
+            },
+            "feed-size-mm": {
+              "en": "<250",
+              "ar": "⁦<250⁩"
+            },
+            "capacity-t-h": {
+              "en": "16.4–324",
+              "ar": "⁦16.4–324⁩"
+            },
+            "power-kw": {
+              "en": "11 × 2",
+              "ar": "⁦11 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-022 / ZSM2045",
+          "name": {
+            "en": "ZSM2045",
+            "ar": "ZSM2045"
+          },
+          "specs": {
+            "screen-area-m2": {
+              "en": "9",
+              "ar": "9"
+            },
+            "aperture-mm": {
+              "en": "0.25–50",
+              "ar": "⁦0.25–50⁩"
+            },
+            "feed-size-mm": {
+              "en": "<250",
+              "ar": "⁦<250⁩"
+            },
+            "capacity-t-h": {
+              "en": "21–420",
+              "ar": "⁦21–420⁩"
+            },
+            "power-kw": {
+              "en": "15 × 2",
+              "ar": "⁦15 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-022 / 2ZSM2045",
+          "name": {
+            "en": "2ZSM2045",
+            "ar": "2ZSM2045"
+          },
+          "specs": {
+            "screen-area-m2": {
+              "en": "18",
+              "ar": "18"
+            },
+            "aperture-mm": {
+              "en": "0.25–50",
+              "ar": "⁦0.25–50⁩"
+            },
+            "feed-size-mm": {
+              "en": "<250",
+              "ar": "⁦<250⁩"
+            },
+            "capacity-t-h": {
+              "en": "21–420",
+              "ar": "⁦21–420⁩"
+            },
+            "power-kw": {
+              "en": "15 × 2",
+              "ar": "⁦15 × 2⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "7.2–420 t/h",
+        "ar": "⁦7.2⁠–⁠420⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "The 2 prefix means a double deck.",
+        "ar": "الرقم ⁦2⁩ في أول الموديل يعني طابقين."
+      },
+      "keyRows": [
+        "screen-area-m2",
+        "capacity-t-h",
+        "power-kw"
+      ]
+    },
+    {
+      "id": "tss",
+      "label": {
+        "en": "TSS high-frequency dewatering screens",
+        "ar": "غرابيل نزع ماء عالية التردد ⁦TSS⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0021-01-023 / TSS1530",
+          "name": {
+            "en": "TSS1530",
+            "ar": "TSS1530"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "3000 × 1500",
+              "ar": "⁦3000 × 1500⁩"
+            },
+            "decks": {
+              "en": "1",
+              "ar": "1"
+            },
+            "aperture-mm": {
+              "en": "0.2–6",
+              "ar": "⁦0.2–6⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤8",
+              "ar": "⁦≤8⁩"
+            },
+            "capacity-t-h": {
+              "en": "15–40",
+              "ar": "⁦15–40⁩"
+            },
+            "power-kw": {
+              "en": "1.5 × 2",
+              "ar": "⁦1.5 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-023 / TSS1530/2",
+          "name": {
+            "en": "TSS1530/2",
+            "ar": "⁦TSS1530/2⁩"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "3000 × 1500",
+              "ar": "⁦3000 × 1500⁩"
+            },
+            "decks": {
+              "en": "2",
+              "ar": "2"
+            },
+            "aperture-mm": {
+              "en": "0.2–6",
+              "ar": "⁦0.2–6⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤8",
+              "ar": "⁦≤8⁩"
+            },
+            "capacity-t-h": {
+              "en": "15–40",
+              "ar": "⁦15–40⁩"
+            },
+            "power-kw": {
+              "en": "1.5 × 2",
+              "ar": "⁦1.5 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-023 / TSS1540",
+          "name": {
+            "en": "TSS1540",
+            "ar": "TSS1540"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "4000 × 1500",
+              "ar": "⁦4000 × 1500⁩"
+            },
+            "decks": {
+              "en": "1",
+              "ar": "1"
+            },
+            "aperture-mm": {
+              "en": "0.2–8",
+              "ar": "⁦0.2–8⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤8",
+              "ar": "⁦≤8⁩"
+            },
+            "capacity-t-h": {
+              "en": "25–60",
+              "ar": "⁦25–60⁩"
+            },
+            "power-kw": {
+              "en": "2.2 × 2",
+              "ar": "⁦2.2 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-023 / TSS1540/2",
+          "name": {
+            "en": "TSS1540/2",
+            "ar": "⁦TSS1540/2⁩"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "4000 × 1500",
+              "ar": "⁦4000 × 1500⁩"
+            },
+            "decks": {
+              "en": "2",
+              "ar": "2"
+            },
+            "aperture-mm": {
+              "en": "0.2–8",
+              "ar": "⁦0.2–8⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤8",
+              "ar": "⁦≤8⁩"
+            },
+            "capacity-t-h": {
+              "en": "25–60",
+              "ar": "⁦25–60⁩"
+            },
+            "power-kw": {
+              "en": "2.2 × 2",
+              "ar": "⁦2.2 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-023 / TSS1548",
+          "name": {
+            "en": "TSS1548",
+            "ar": "TSS1548"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "4800 × 1500",
+              "ar": "⁦4800 × 1500⁩"
+            },
+            "decks": {
+              "en": "1",
+              "ar": "1"
+            },
+            "aperture-mm": {
+              "en": "0.2–8",
+              "ar": "⁦0.2–8⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤8",
+              "ar": "⁦≤8⁩"
+            },
+            "capacity-t-h": {
+              "en": "30–70",
+              "ar": "⁦30–70⁩"
+            },
+            "power-kw": {
+              "en": "2.2 × 2",
+              "ar": "⁦2.2 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-023 / TSS1548/2",
+          "name": {
+            "en": "TSS1548/2",
+            "ar": "⁦TSS1548/2⁩"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "4800 × 1500",
+              "ar": "⁦4800 × 1500⁩"
+            },
+            "decks": {
+              "en": "2",
+              "ar": "2"
+            },
+            "aperture-mm": {
+              "en": "0.2–8",
+              "ar": "⁦0.2–8⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤8",
+              "ar": "⁦≤8⁩"
+            },
+            "capacity-t-h": {
+              "en": "30–70",
+              "ar": "⁦30–70⁩"
+            },
+            "power-kw": {
+              "en": "2.2 × 2",
+              "ar": "⁦2.2 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-023 / TSS1848",
+          "name": {
+            "en": "TSS1848",
+            "ar": "TSS1848"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "4800 × 1800",
+              "ar": "⁦4800 × 1800⁩"
+            },
+            "decks": {
+              "en": "1",
+              "ar": "1"
+            },
+            "aperture-mm": {
+              "en": "0.2–10",
+              "ar": "⁦0.2–10⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤10",
+              "ar": "⁦≤10⁩"
+            },
+            "capacity-t-h": {
+              "en": "35–80",
+              "ar": "⁦35–80⁩"
+            },
+            "power-kw": {
+              "en": "3.7 × 2",
+              "ar": "⁦3.7 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-023 / TSS1848/2",
+          "name": {
+            "en": "TSS1848/2",
+            "ar": "⁦TSS1848/2⁩"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "4800 × 1800",
+              "ar": "⁦4800 × 1800⁩"
+            },
+            "decks": {
+              "en": "2",
+              "ar": "2"
+            },
+            "aperture-mm": {
+              "en": "0.2–10",
+              "ar": "⁦0.2–10⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤10",
+              "ar": "⁦≤10⁩"
+            },
+            "capacity-t-h": {
+              "en": "35–80",
+              "ar": "⁦35–80⁩"
+            },
+            "power-kw": {
+              "en": "3.7 × 2",
+              "ar": "⁦3.7 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-023 / TSS1860",
+          "name": {
+            "en": "TSS1860",
+            "ar": "TSS1860"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "6000 × 1800",
+              "ar": "⁦6000 × 1800⁩"
+            },
+            "decks": {
+              "en": "1",
+              "ar": "1"
+            },
+            "aperture-mm": {
+              "en": "0.2–10",
+              "ar": "⁦0.2–10⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤10",
+              "ar": "⁦≤10⁩"
+            },
+            "capacity-t-h": {
+              "en": "40–100",
+              "ar": "⁦40–100⁩"
+            },
+            "power-kw": {
+              "en": "3.7 × 2",
+              "ar": "⁦3.7 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-023 / TSS1860/2",
+          "name": {
+            "en": "TSS1860/2",
+            "ar": "⁦TSS1860/2⁩"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "6000 × 1800",
+              "ar": "⁦6000 × 1800⁩"
+            },
+            "decks": {
+              "en": "2",
+              "ar": "2"
+            },
+            "aperture-mm": {
+              "en": "0.2–10",
+              "ar": "⁦0.2–10⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤10",
+              "ar": "⁦≤10⁩"
+            },
+            "capacity-t-h": {
+              "en": "40–100",
+              "ar": "⁦40–100⁩"
+            },
+            "power-kw": {
+              "en": "3.7 × 2",
+              "ar": "⁦3.7 × 2⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "15–100 t/h",
+        "ar": "⁦15⁠–⁠100⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "For fine material ≤ 10 mm; /2 = two decks.",
+        "ar": "للمواد الناعمة ≤ ⁦10⁩ مم؛ ‎/⁦2⁩ = طابقان."
+      },
+      "keyRows": [
+        "aperture-mm",
+        "capacity-t-h",
+        "power-kw"
+      ]
+    },
+    {
+      "id": "gp",
+      "label": {
+        "en": "GP tailings dewatering screens",
+        "ar": "غرابيل نزع ماء المخلفات ⁦GP⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0021-01-024 / GP1530",
+          "name": {
+            "en": "GP1530",
+            "ar": "GP1530"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "3000 × 1500",
+              "ar": "⁦3000 × 1500⁩"
+            },
+            "aperture-mm": {
+              "en": "0.2–6",
+              "ar": "⁦0.2–6⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤8",
+              "ar": "⁦≤8⁩"
+            },
+            "capacity-t-h": {
+              "en": "15–40",
+              "ar": "⁦15–40⁩"
+            },
+            "power-kw": {
+              "en": "5.5 × 2",
+              "ar": "⁦5.5 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-024 / GP1540",
+          "name": {
+            "en": "GP1540",
+            "ar": "GP1540"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "4000 × 1500",
+              "ar": "⁦4000 × 1500⁩"
+            },
+            "aperture-mm": {
+              "en": "0.2–8",
+              "ar": "⁦0.2–8⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤8",
+              "ar": "⁦≤8⁩"
+            },
+            "capacity-t-h": {
+              "en": "25–60",
+              "ar": "⁦25–60⁩"
+            },
+            "power-kw": {
+              "en": "7.5 × 2",
+              "ar": "⁦7.5 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-024 / GP1548",
+          "name": {
+            "en": "GP1548",
+            "ar": "GP1548"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "4800 × 1500",
+              "ar": "⁦4800 × 1500⁩"
+            },
+            "aperture-mm": {
+              "en": "0.2–8",
+              "ar": "⁦0.2–8⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤8",
+              "ar": "⁦≤8⁩"
+            },
+            "capacity-t-h": {
+              "en": "30–70",
+              "ar": "⁦30–70⁩"
+            },
+            "power-kw": {
+              "en": "7.5 × 2",
+              "ar": "⁦7.5 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-024 / GP1848",
+          "name": {
+            "en": "GP1848",
+            "ar": "GP1848"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "4800 × 1800",
+              "ar": "⁦4800 × 1800⁩"
+            },
+            "aperture-mm": {
+              "en": "0.2–10",
+              "ar": "⁦0.2–10⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤10",
+              "ar": "⁦≤10⁩"
+            },
+            "capacity-t-h": {
+              "en": "35–80",
+              "ar": "⁦35–80⁩"
+            },
+            "power-kw": {
+              "en": "11 × 2",
+              "ar": "⁦11 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-024 / GP1860",
+          "name": {
+            "en": "GP1860",
+            "ar": "GP1860"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "6000 × 1800",
+              "ar": "⁦6000 × 1800⁩"
+            },
+            "aperture-mm": {
+              "en": "0.2–10",
+              "ar": "⁦0.2–10⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤10",
+              "ar": "⁦≤10⁩"
+            },
+            "capacity-t-h": {
+              "en": "40–100",
+              "ar": "⁦40–100⁩"
+            },
+            "power-kw": {
+              "en": "15 × 2",
+              "ar": "⁦15 × 2⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "15–100 t/h",
+        "ar": "⁦15⁠–⁠100⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "Supplied with a slurry pump and hydrocyclones.",
+        "ar": "تُورَّد مع مضخة لب وهيدروسيكلونات."
+      },
+      "keyRows": [
+        "aperture-mm",
+        "capacity-t-h",
+        "power-kw"
+      ]
+    }
+  ]
+}

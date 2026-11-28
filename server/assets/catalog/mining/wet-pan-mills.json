@@ -1,0 +1,372 @@
+{
+  "id": "wet-pan-mills",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Model",
+    "ar": "الموديل"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "specification-mm",
+      "label": {
+        "en": "Specification (mm)",
+        "ar": "المواصفة (مم)"
+      }
+    },
+    {
+      "key": "feed-size-mm",
+      "label": {
+        "en": "Feed size (mm)",
+        "ar": "حجم التغذية (مم)"
+      }
+    },
+    {
+      "key": "power-kw",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "speed-rpm",
+      "label": {
+        "en": "Speed (rpm)",
+        "ar": "السرعة (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "weight-t",
+      "label": {
+        "en": "Weight (t)",
+        "ar": "الوزن (طن)"
+      }
+    }
+  ],
+  "keyRows": [
+    "specification-mm",
+    "feed-size-mm",
+    "power-kw"
+  ],
+  "types": [
+    {
+      "id": "wet-pan",
+      "label": {
+        "en": "Wet pan mills",
+        "ar": "الطواحين الرطبة (الطاحونة الدائرية)"
+      },
+      "models": [
+        {
+          "code": "BX-0016-01-012 / 1600A",
+          "name": {
+            "en": "1600A",
+            "ar": "1600A"
+          },
+          "specs": {
+            "specification-mm": {
+              "en": "1600×400×200×500 ±20",
+              "ar": "⁦1600×400×200×500 ±20⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "power-kw": {
+              "en": "30",
+              "ar": "30"
+            },
+            "speed-rpm": {
+              "en": "19–21",
+              "ar": "⁦19–21⁩"
+            },
+            "weight-t": {
+              "en": "14.5",
+              "ar": "⁦14.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-012 / 1500A",
+          "name": {
+            "en": "1500A",
+            "ar": "1500A"
+          },
+          "specs": {
+            "specification-mm": {
+              "en": "1500×350×200×460 ±20",
+              "ar": "⁦1500×350×200×460 ±20⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "power-kw": {
+              "en": "22",
+              "ar": "22"
+            },
+            "speed-rpm": {
+              "en": "19–21",
+              "ar": "⁦19–21⁩"
+            },
+            "weight-t": {
+              "en": "12.3",
+              "ar": "⁦12.3⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-012 / 1500B",
+          "name": {
+            "en": "1500B",
+            "ar": "1500B"
+          },
+          "specs": {
+            "specification-mm": {
+              "en": "1500×350×150×460 ±20",
+              "ar": "⁦1500×350×150×460 ±20⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "power-kw": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            },
+            "speed-rpm": {
+              "en": "20–22",
+              "ar": "⁦20–22⁩"
+            },
+            "weight-t": {
+              "en": "11.3",
+              "ar": "⁦11.3⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-012 / 1400A",
+          "name": {
+            "en": "1400A",
+            "ar": "1400A"
+          },
+          "specs": {
+            "specification-mm": {
+              "en": "1400×250×150×350 ±20",
+              "ar": "⁦1400×250×150×350 ±20⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "power-kw": {
+              "en": "15",
+              "ar": "15"
+            },
+            "speed-rpm": {
+              "en": "16–18",
+              "ar": "⁦16–18⁩"
+            },
+            "weight-t": {
+              "en": "10",
+              "ar": "10"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-012 / 1400B",
+          "name": {
+            "en": "1400B",
+            "ar": "1400B"
+          },
+          "specs": {
+            "specification-mm": {
+              "en": "1400×250×150×350 ±20",
+              "ar": "⁦1400×250×150×350 ±20⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "power-kw": {
+              "en": "15",
+              "ar": "15"
+            },
+            "speed-rpm": {
+              "en": "21–23",
+              "ar": "⁦21–23⁩"
+            },
+            "weight-t": {
+              "en": "8.5",
+              "ar": "⁦8.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-012 / 1300A",
+          "name": {
+            "en": "1300A",
+            "ar": "1300A"
+          },
+          "specs": {
+            "specification-mm": {
+              "en": "1300×250×150×350 ±20",
+              "ar": "⁦1300×250×150×350 ±20⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "power-kw": {
+              "en": "11",
+              "ar": "11"
+            },
+            "speed-rpm": {
+              "en": "16–18",
+              "ar": "⁦16–18⁩"
+            },
+            "weight-t": {
+              "en": "8.5",
+              "ar": "⁦8.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-012 / 1300B",
+          "name": {
+            "en": "1300B",
+            "ar": "1300B"
+          },
+          "specs": {
+            "specification-mm": {
+              "en": "1300×200×150×350 ±20",
+              "ar": "⁦1300×200×150×350 ±20⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "power-kw": {
+              "en": "11",
+              "ar": "11"
+            },
+            "speed-rpm": {
+              "en": "21–23",
+              "ar": "⁦21–23⁩"
+            },
+            "weight-t": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-012 / 1200A",
+          "name": {
+            "en": "1200A",
+            "ar": "1200A"
+          },
+          "specs": {
+            "specification-mm": {
+              "en": "1200×220×80×270 ±20",
+              "ar": "⁦1200×220×80×270 ±20⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "power-kw": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "speed-rpm": {
+              "en": "17–19",
+              "ar": "⁦17–19⁩"
+            },
+            "weight-t": {
+              "en": "5.5",
+              "ar": "⁦5.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-012 / 1200B",
+          "name": {
+            "en": "1200B",
+            "ar": "1200B"
+          },
+          "specs": {
+            "specification-mm": {
+              "en": "1200×200×80×250 ±20",
+              "ar": "⁦1200×200×80×250 ±20⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "power-kw": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "speed-rpm": {
+              "en": "23–25",
+              "ar": "⁦23–25⁩"
+            },
+            "weight-t": {
+              "en": "5.0",
+              "ar": "⁦5.0⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-012 / 1100B",
+          "name": {
+            "en": "1100B",
+            "ar": "1100B"
+          },
+          "specs": {
+            "specification-mm": {
+              "en": "1100×180×80×250 ±20",
+              "ar": "⁦1100×180×80×250 ±20⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "power-kw": {
+              "en": "5.5",
+              "ar": "⁦5.5⁩"
+            },
+            "speed-rpm": {
+              "en": "23–25",
+              "ar": "⁦23–25⁩"
+            },
+            "weight-t": {
+              "en": "4.0",
+              "ar": "⁦4.0⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "5.5–30 kW",
+        "ar": "⁦5.5⁠–⁠30⁩ كيلوواط"
+      },
+      "keyRows": [
+        "specification-mm",
+        "power-kw",
+        "weight-t"
+      ]
+    }
+  ]
+}

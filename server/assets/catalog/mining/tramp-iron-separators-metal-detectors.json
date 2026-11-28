@@ -1,0 +1,261 @@
+{
+  "id": "tramp-iron-separators-metal-detectors",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Models / sizes",
+        "ar": "الموديلات / المقاسات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "separators",
+      "label": {
+        "en": "Belt metal detectors and magnetic iron separators",
+        "ar": "كواشف المعادن للسيور وفواصل الحديد المغناطيسية"
+      },
+      "models": [
+        {
+          "code": "BX-0386-01-001",
+          "name": {
+            "en": "Belt metal detector JYG-B",
+            "ar": "كاشف معادن للسيور ⁦JYG-B⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "JYG-B-500 … JYG-B-1800 (9 sizes)",
+              "ar": "⁦JYG-B-500 … JYG-B-1800 (9 sizes)⁩"
+            },
+            "data": {
+              "en": "Detects tramp metal on belts 500–1800 mm wide to protect crushers",
+              "ar": "يكشف المعادن الشاردة على سيور بعرض ⁦500⁠–⁠1800⁩ مم لحماية الكسارات"
+            }
+          }
+        },
+        {
+          "code": "BX-0386-02-001",
+          "name": {
+            "en": "Suspended permanent-magnet separator RCYB",
+            "ar": "فاصل مغناطيس دائم معلّق ⁦RCYB⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "RCYB-4 … RCYB-16 (13 sizes)",
+              "ar": "⁦RCYB-4 … RCYB-16 (13 sizes)⁩"
+            },
+            "data": {
+              "en": "Belts 400–1600 mm; suspension height 75–450 mm; NdFeB magnets; no power needed",
+              "ar": "سيور ⁦400⁠–⁠1600⁩ مم؛ ارتفاع التعليق ⁦75⁠–⁠450⁩ مم؛ مغانط نيوديميوم؛ بلا كهرباء"
+            }
+          }
+        },
+        {
+          "code": "BX-0386-02-002",
+          "name": {
+            "en": "Self-cleaning permanent-magnet separator RCYD(C)",
+            "ar": "فاصل مغناطيس دائم ذاتي التنظيف ⁦RCYD(C⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "RCYD(C)-5 … -20 (10 sizes)",
+              "ar": "⁦RCYD(C)-5 … -20 (10 sizes)⁩"
+            },
+            "data": {
+              "en": "Belts 500–2000 mm; self-cleaning discharge belt",
+              "ar": "سيور ⁦500⁠–⁠2000⁩ مم؛ سير تفريغ ذاتي التنظيف"
+            }
+          }
+        },
+        {
+          "code": "BX-0386-02-003",
+          "name": {
+            "en": "Permanent-magnet iron separator RCYP",
+            "ar": "فاصل حديد بمغناطيس دائم ⁦RCYP⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "RCYP-4 … -14 (8 sizes)",
+              "ar": "⁦RCYP-4 … -14 (8 sizes)⁩"
+            },
+            "data": {
+              "en": "Suspended permanent-magnet type",
+              "ar": "نوع معلّق بمغناطيس دائم"
+            }
+          }
+        },
+        {
+          "code": "BX-0386-02-004",
+          "name": {
+            "en": "Self-cleaning permanent-magnet separator RCYP II",
+            "ar": "فاصل مغناطيس دائم ذاتي التنظيف ⁦RCYP II⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "RCYPII-5 … -18 (9 sizes)",
+              "ar": "⁦RCYPII-5 … -18 (9 sizes)⁩"
+            },
+            "data": {
+              "en": "Self-cleaning permanent-magnet type",
+              "ar": "نوع ذاتي التنظيف بمغناطيس دائم"
+            }
+          }
+        },
+        {
+          "code": "BX-0386-02-005",
+          "name": {
+            "en": "Light-duty permanent-magnet separator RCY-Q",
+            "ar": "فاصل مغناطيس دائم خفيف ⁦RCY-Q⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "RCY-Q40 … Q120 (6 sizes)",
+              "ar": "⁦RCY-Q40 … Q120 (6 sizes)⁩"
+            },
+            "data": {
+              "en": "Light-duty permanent-magnet type",
+              "ar": "نوع خفيف بمغناطيس دائم"
+            }
+          }
+        },
+        {
+          "code": "BX-0386-02-006",
+          "name": {
+            "en": "Armoured permanent-magnet separator RCYK",
+            "ar": "فاصل مغناطيس دائم مدرّع ⁦RCYK⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "RCYK-5 … -14 (6 sizes)",
+              "ar": "⁦RCYK-5 … -14 (6 sizes)⁩"
+            },
+            "data": {
+              "en": "Armoured permanent-magnet type",
+              "ar": "نوع مدرّع بمغناطيس دائم"
+            }
+          }
+        },
+        {
+          "code": "BX-0386-02-007",
+          "name": {
+            "en": "Dry electromagnetic separator RCDB",
+            "ar": "فاصل كهرومغناطيسي جاف ⁦RCDB⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "RCDB-4 … -18 (10 sizes)",
+              "ar": "⁦RCDB-4 … -18 (10 sizes)⁩"
+            },
+            "data": {
+              "en": "Air-cooled electromagnet",
+              "ar": "مغناطيس كهربائي مبرّد بالهواء"
+            }
+          }
+        },
+        {
+          "code": "BX-0386-02-008",
+          "name": {
+            "en": "Self-cleaning electromagnetic separator RCDD",
+            "ar": "فاصل كهرومغناطيسي ذاتي التنظيف ⁦RCDD⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "RCDD-6 … -18 (8 sizes)",
+              "ar": "⁦RCDD-6 … -18 (8 sizes)⁩"
+            },
+            "data": {
+              "en": "Self-cleaning electromagnet",
+              "ar": "مغناطيس كهربائي ذاتي التنظيف"
+            }
+          }
+        },
+        {
+          "code": "BX-0386-02-009",
+          "name": {
+            "en": "Oil-cooled electromagnetic separator RCDEJ",
+            "ar": "فاصل كهرومغناطيسي مبرّد بالزيت ⁦RCDEJ⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "RCDEJ-12 … -24 (7 sizes)",
+              "ar": "⁦RCDEJ-12 … -24 (7 sizes)⁩"
+            },
+            "data": {
+              "en": "Forced oil circulation; heavy duty",
+              "ar": "دوران زيت قسري؛ للخدمة الشاقة"
+            }
+          }
+        },
+        {
+          "code": "BX-0386-02-010",
+          "name": {
+            "en": "Oil-cooled self-cleaning separator RCDFJ",
+            "ar": "فاصل مبرّد بالزيت ذاتي التنظيف ⁦RCDFJ⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "RCDFJ-12 … -24 (7 sizes)",
+              "ar": "⁦RCDFJ-12 … -24 (7 sizes)⁩"
+            },
+            "data": {
+              "en": "Oil-cooled, self-cleaning",
+              "ar": "مبرّد بالزيت وذاتي التنظيف"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Belts 400–2000 mm",
+        "ar": "سيور ⁦400⁠–⁠2000⁩ مم"
+      },
+      "countUnit": {
+        "ar": [
+          "نوع واحد",
+          "نوعان",
+          "أنواع"
+        ],
+        "en": [
+          "type",
+          "types"
+        ]
+      },
+      "intro": {
+        "en": "Tramp-iron protection for conveyors feeding crushers and mills.",
+        "ar": "حماية من الحديد الشارد للسيور التي تغذي الكسارات والطواحين."
+      },
+      "keyRows": [
+        "models",
+        "data"
+      ]
+    }
+  ]
+}
