@@ -1,0 +1,565 @@
+{
+  "id": "c-series-jaw-gyratory-impact-crushers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "feed-opening",
+      "label": {
+        "en": "Feed opening (mm)",
+        "ar": "فتحة التغذية (مم)"
+      }
+    },
+    {
+      "key": "max-feed-size",
+      "label": {
+        "en": "Max. feed size (mm)",
+        "ar": "أقصى حجم تغذية (مم)"
+      }
+    },
+    {
+      "key": "discharge-opening",
+      "label": {
+        "en": "Discharge opening (mm)",
+        "ar": "فتحة التفريغ (مم)"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "models",
+      "label": {
+        "en": "Models",
+        "ar": "الموديلات"
+      }
+    }
+  ],
+  "keyRows": [
+    "feed-opening",
+    "max-feed-size",
+    "discharge-opening"
+  ],
+  "types": [
+    {
+      "id": "c-jaw",
+      "label": {
+        "en": "C-series jaw crushers",
+        "ar": "كسارات فكية من السلسلة ⁦C⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0018-03-001 / C80",
+          "name": {
+            "en": "C80",
+            "ar": "C80"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "520 × 800",
+              "ar": "⁦520 × 800⁩"
+            },
+            "max-feed-size": {
+              "en": "420",
+              "ar": "420"
+            },
+            "discharge-opening": {
+              "en": "60–150",
+              "ar": "⁦60–150⁩"
+            },
+            "capacity": {
+              "en": "80–290",
+              "ar": "⁦80–290⁩"
+            },
+            "power": {
+              "en": "75",
+              "ar": "75"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-001 / C100",
+          "name": {
+            "en": "C100",
+            "ar": "C100"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "760 × 1000",
+              "ar": "⁦760 × 1000⁩"
+            },
+            "max-feed-size": {
+              "en": "650",
+              "ar": "650"
+            },
+            "discharge-opening": {
+              "en": "70–200",
+              "ar": "⁦70–200⁩"
+            },
+            "capacity": {
+              "en": "140–400",
+              "ar": "⁦140–400⁩"
+            },
+            "power": {
+              "en": "110",
+              "ar": "110"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-001 / C106",
+          "name": {
+            "en": "C106",
+            "ar": "C106"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "700 × 1060",
+              "ar": "⁦700 × 1060⁩"
+            },
+            "max-feed-size": {
+              "en": "600",
+              "ar": "600"
+            },
+            "discharge-opening": {
+              "en": "70–200",
+              "ar": "⁦70–200⁩"
+            },
+            "capacity": {
+              "en": "140–420",
+              "ar": "⁦140–420⁩"
+            },
+            "power": {
+              "en": "110",
+              "ar": "110"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-001 / C110",
+          "name": {
+            "en": "C110",
+            "ar": "C110"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "850 × 1100",
+              "ar": "⁦850 × 1100⁩"
+            },
+            "max-feed-size": {
+              "en": "720",
+              "ar": "720"
+            },
+            "discharge-opening": {
+              "en": "80–200",
+              "ar": "⁦80–200⁩"
+            },
+            "capacity": {
+              "en": "160–550",
+              "ar": "⁦160–550⁩"
+            },
+            "power": {
+              "en": "160",
+              "ar": "160"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-001 / C120",
+          "name": {
+            "en": "C120",
+            "ar": "C120"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "870 × 1200",
+              "ar": "⁦870 × 1200⁩"
+            },
+            "max-feed-size": {
+              "en": "740",
+              "ar": "740"
+            },
+            "discharge-opening": {
+              "en": "100–200",
+              "ar": "⁦100–200⁩"
+            },
+            "capacity": {
+              "en": "200–650",
+              "ar": "⁦200–650⁩"
+            },
+            "power": {
+              "en": "160",
+              "ar": "160"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-001 / C125",
+          "name": {
+            "en": "C125",
+            "ar": "C125"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "950 × 1250",
+              "ar": "⁦950 × 1250⁩"
+            },
+            "max-feed-size": {
+              "en": "800",
+              "ar": "800"
+            },
+            "discharge-opening": {
+              "en": "100–250",
+              "ar": "⁦100–250⁩"
+            },
+            "capacity": {
+              "en": "230–760",
+              "ar": "⁦230–760⁩"
+            },
+            "power": {
+              "en": "160",
+              "ar": "160"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-001 / C145",
+          "name": {
+            "en": "C145",
+            "ar": "C145"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1100 × 1450",
+              "ar": "⁦1100 × 1450⁩"
+            },
+            "max-feed-size": {
+              "en": "920",
+              "ar": "920"
+            },
+            "discharge-opening": {
+              "en": "125–275",
+              "ar": "⁦125–275⁩"
+            },
+            "capacity": {
+              "en": "320–950",
+              "ar": "⁦320–950⁩"
+            },
+            "power": {
+              "en": "200",
+              "ar": "200"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-001 / C160",
+          "name": {
+            "en": "C160",
+            "ar": "C160"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1200 × 1600",
+              "ar": "⁦1200 × 1600⁩"
+            },
+            "max-feed-size": {
+              "en": "1020",
+              "ar": "1020"
+            },
+            "discharge-opening": {
+              "en": "150–300",
+              "ar": "⁦150–300⁩"
+            },
+            "capacity": {
+              "en": "410–1150",
+              "ar": "⁦410–1150⁩"
+            },
+            "power": {
+              "en": "250",
+              "ar": "250"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-001 / C200",
+          "name": {
+            "en": "C200",
+            "ar": "C200"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1500 × 2000",
+              "ar": "⁦1500 × 2000⁩"
+            },
+            "max-feed-size": {
+              "en": "1200",
+              "ar": "1200"
+            },
+            "discharge-opening": {
+              "en": "175–300",
+              "ar": "⁦175–300⁩"
+            },
+            "capacity": {
+              "en": "610–1510",
+              "ar": "⁦610–1510⁩"
+            },
+            "power": {
+              "en": "400",
+              "ar": "400"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-001 / CJ6310",
+          "name": {
+            "en": "CJ6310",
+            "ar": "CJ6310"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "630 × 1000",
+              "ar": "⁦630 × 1000⁩"
+            },
+            "max-feed-size": {
+              "en": "580",
+              "ar": "580"
+            },
+            "discharge-opening": {
+              "en": "80–180",
+              "ar": "⁦80–180⁩"
+            },
+            "capacity": {
+              "en": "100–195",
+              "ar": "⁦100–195⁩"
+            },
+            "power": {
+              "en": "75",
+              "ar": "75"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-001 / CJ8711",
+          "name": {
+            "en": "CJ8711",
+            "ar": "CJ8711"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "870 × 1100",
+              "ar": "⁦870 × 1100⁩"
+            },
+            "max-feed-size": {
+              "en": "720",
+              "ar": "720"
+            },
+            "discharge-opening": {
+              "en": "85–220",
+              "ar": "⁦85–220⁩"
+            },
+            "capacity": {
+              "en": "130–360",
+              "ar": "⁦130–360⁩"
+            },
+            "power": {
+              "en": "110",
+              "ar": "110"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-001 / CJ1113",
+          "name": {
+            "en": "CJ1113",
+            "ar": "CJ1113"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1100 × 1300",
+              "ar": "⁦1100 × 1300⁩"
+            },
+            "max-feed-size": {
+              "en": "940",
+              "ar": "940"
+            },
+            "discharge-opening": {
+              "en": "120–260",
+              "ar": "⁦120–260⁩"
+            },
+            "capacity": {
+              "en": "360–780",
+              "ar": "⁦360–780⁩"
+            },
+            "power": {
+              "en": "160",
+              "ar": "160"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-001 / CJ1216",
+          "name": {
+            "en": "CJ1216",
+            "ar": "CJ1216"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1200 × 1600",
+              "ar": "⁦1200 × 1600⁩"
+            },
+            "max-feed-size": {
+              "en": "1050",
+              "ar": "1050"
+            },
+            "discharge-opening": {
+              "en": "165–320",
+              "ar": "⁦165–320⁩"
+            },
+            "capacity": {
+              "en": "450–1100",
+              "ar": "⁦450–1100⁩"
+            },
+            "power": {
+              "en": "220",
+              "ar": "220"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "80–1510 t/h",
+        "ar": "⁦80⁠–⁠1510⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "capacity",
+        "feed-opening",
+        "power"
+      ]
+    },
+    {
+      "id": "gyratory-impact",
+      "label": {
+        "en": "Gyratory and impact crushers",
+        "ar": "الكسارات الدوّارة والصدمية"
+      },
+      "models": [
+        {
+          "code": "BX-0018-03-008",
+          "name": {
+            "en": "PXZ gyratory crusher",
+            "ar": "كسارة دوّارة ⁦PXZ⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "PXZ0710, PXZ0909, PXZ0913, PXZ0917, PXZ1216, PXZ1221",
+              "ar": "⁦PXZ0710, PXZ0909, PXZ0913, PXZ0917, PXZ1216, PXZ1221⁩"
+            },
+            "capacity": {
+              "en": "310–1720",
+              "ar": "⁦310–1720⁩"
+            },
+            "max-feed-size": {
+              "en": "580–1000",
+              "ar": "⁦580–1000⁩"
+            },
+            "power": {
+              "en": "132–355",
+              "ar": "⁦132–355⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-006",
+          "name": {
+            "en": "P6S hydraulic impact crusher",
+            "ar": "كسارة صدمية هيدروليكية ⁦P6S⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "P6S1010, P6S1210, P6S1214, P6S1315, P6S1317, P6S1420, P6S1520, P6S1620",
+              "ar": "⁦P6S1010, P6S1210, P6S1214, P6S1315, P6S1317, P6S1420, P6S1520, P6S1620⁩"
+            },
+            "capacity": {
+              "en": "100–700",
+              "ar": "⁦100–700⁩"
+            },
+            "max-feed-size": {
+              "en": "400–1200",
+              "ar": "⁦400–1200⁩"
+            },
+            "power": {
+              "en": "90–500",
+              "ar": "⁦90–500⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-007",
+          "name": {
+            "en": "PF impact crusher",
+            "ar": "كسارة صدمية ⁦PF⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "PF-1007, PF-1010, PF-1210, PF-1214, PF-1315, PF-1318, PF-1320, PF-1520, PF-1620, PF-1820",
+              "ar": "⁦PF-1007, PF-1010, PF-1210, PF-1214, PF-1315, PF-1318, PF-1320, PF-1520, PF-1620, PF-1820⁩"
+            },
+            "capacity": {
+              "en": "15–800",
+              "ar": "⁦15–800⁩"
+            },
+            "max-feed-size": {
+              "en": "250–700",
+              "ar": "⁦250–700⁩"
+            },
+            "power": {
+              "en": "37–710",
+              "ar": "⁦37–710⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "15–1720 t/h",
+        "ar": "⁦15⁠–⁠1720⁩ طن/ساعة"
+      },
+      "countUnit": {
+        "ar": [
+          "سلسلة واحدة",
+          "سلسلتان",
+          "سلاسل"
+        ],
+        "en": [
+          "series",
+          "series"
+        ]
+      }
+    }
+  ]
+}

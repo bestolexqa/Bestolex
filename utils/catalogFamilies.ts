@@ -40,5 +40,20 @@ export const FAMILY_IDS = new Set([
   'tricone-pdc-core-drilling-tools',
   'tapered-threaded-drilling-tools',
   'button-bit-grinders',
-  'cutter-picks-additional-cir-hammers'
+  'cutter-picks-additional-cir-hammers',
+  'jaw-crushers',
+  'gyratory-impact-crushers',
+  'c-series-jaw-gyratory-impact-crushers',
+  'hydraulic-cone-crushers',
+  'single-cylinder-cone-crushers',
+  'symons-spring-cone-crushers',
+  'gp-hps-hydraulic-cone-crushers',
+  'vertical-shaft-impact-crushers',
+  'sand-makers-fine-crushers',
+  'hammer-crushers',
+  'fine-double-rotor-crushers',
+  'impact-fine-crushers',
+  'roller-crushers',
+  'mobile-crushing-plants',
+  'tyre-crawler-mounted-crushing-plants'
 ])

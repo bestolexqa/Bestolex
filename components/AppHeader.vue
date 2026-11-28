@@ -24,18 +24,34 @@
             <!-- Left Side: Main Categories -->
             <div class="w-1/3 bg-white dark:bg-gray-800 py-3 border-l rtl:border-l rtl:border-r-0 ltr:border-r border-gray-100 dark:border-gray-700">
               <div
-                v-for="category in productsData"
+                v-for="category in qatarCategories"
                 :key="category.id"
                 class="px-4 py-3 cursor-pointer flex justify-between items-center transition-colors group/item"
                 :class="{ 'bg-gray-50 dark:bg-gray-700 text-primary': activeProductCategory?.id === category.id, 'text-gray-800 dark:text-gray-200 hover:bg-gray-50 dark:hover:bg-gray-700 hover:text-primary': activeProductCategory?.id !== category.id }"
                 @mouseenter="activeProductCategory = category"
               >
-                <NuxtLink :to="localePath(`/products/category/${category.id}`)" class="font-bold text-sm w-full text-start group-hover/item:text-primary transition-colors">
+                <NuxtLink :to="localePath(categoryLink(category.id))" class="font-bold text-sm w-full text-start group-hover/item:text-primary transition-colors">
                   {{ category.title[locale] }}
                 </NuxtLink>
                 <span class="rtl:rotate-180 text-gray-400 group-hover/item:text-primary transition-colors text-xs opacity-70">
                   &rarr;
                 </span>
+              </div>
+              <!-- Export and international projects (structure of 27 Nov 2026): gold mining -->
+              <div v-if="exportCategories.length" class="mt-2 pt-2 border-t border-gray-100 dark:border-gray-700 bg-[#F4F5F5] dark:bg-gray-900/60">
+                <div class="px-4 pt-1 pb-1 text-[11px] font-black text-gray-500 dark:text-gray-400 uppercase tracking-wider">{{ locale === 'ar' ? 'التصدير والمشاريع الدولية' : 'Export & international projects' }}</div>
+                <div
+                  v-for="category in exportCategories"
+                  :key="category.id"
+                  class="px-4 py-3 cursor-pointer flex justify-between items-center transition-colors group/item"
+                  :class="{ 'bg-white dark:bg-gray-700 text-primary': activeProductCategory?.id === category.id, 'text-gray-800 dark:text-gray-200 hover:bg-white dark:hover:bg-gray-700 hover:text-primary': activeProductCategory?.id !== category.id }"
+                  @mouseenter="activeProductCategory = category"
+                >
+                  <NuxtLink :to="localePath(categoryLink(category.id))" class="font-bold text-sm w-full text-start group-hover/item:text-primary transition-colors">
+                    {{ category.title[locale] }}
+                  </NuxtLink>
+                  <span class="rtl:rotate-180 text-gray-400 group-hover/item:text-primary transition-colors text-xs opacity-70">&rarr;</span>
+                </div>
               </div>
             </div>
 
@@ -43,7 +59,10 @@
             <div class="w-2/3 p-6 bg-gray-50 dark:bg-gray-900 overflow-y-auto max-h-[420px]">
               <div v-if="activeProductCategory?.subcategories" class="grid grid-cols-2 gap-6">
                 <div v-for="sub in activeProductCategory.subcategories" :key="sub.id">
-                  <p class="font-black text-xs text-primary uppercase tracking-wider mb-2 border-b border-gray-200 dark:border-gray-700 pb-1">{{ sub.title[locale] }}</p>
+                  <p class="font-black text-xs text-primary uppercase tracking-wider mb-2 border-b border-gray-200 dark:border-gray-700 pb-1">
+                    <NuxtLink v-if="activeProductCategory.id === 'gold-mining'" :to="localePath(`/gold-mining/${sub.id}`)" class="hover:underline">{{ sub.title[locale] }}</NuxtLink>
+                    <template v-else>{{ sub.title[locale] }}</template>
+                  </p>
                   <ul class="space-y-1.5">
                     <li v-for="prod in sub.products" :key="prod.id">
                       <NuxtLink :to="localePath(`/products/${prod.id}`)" class="text-xs text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition block font-medium">
@@ -218,6 +237,10 @@
 
       <!-- Desktop Actions (Language & Theme) -->
       <div class="hidden lg:flex items-center gap-4">
+        <NuxtLink :to="localePath('/quote')" class="flex items-center gap-2 border border-gray-300 dark:border-gray-600 rounded-lg px-3 py-1.5 font-bold text-sm hover:border-primary transition whitespace-nowrap" :aria-label="(locale === 'ar' ? 'طلب العرض، ' : 'Quote request, ') + quoteCount">
+          {{ locale === 'ar' ? 'طلب العرض' : 'Quote' }}
+          <span class="min-w-[22px] h-[22px] px-1.5 rounded-full bg-primary text-[#191919] inline-flex items-center justify-center font-display text-xs font-bold">{{ quoteCount }}</span>
+        </NuxtLink>
         <button @click="isBookingModalOpen = true" class="group flex items-center gap-2 bg-gradient-to-r from-primary to-orange-500 hover:from-orange-500 hover:to-orange-600 text-white font-bold py-2 px-5 rounded-xl transition-all duration-300 shadow-lg shadow-primary/30 hover:shadow-primary/50 hover:-translate-y-0.5">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 group-hover:scale-110 transition-transform duration-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
@@ -241,6 +264,12 @@
           </template>
         </ClientOnly>
       </div>
+
+      <!-- Mobile quote request -->
+      <NuxtLink :to="localePath('/quote')" class="lg:hidden relative ms-auto me-1 w-11 h-11 flex items-center justify-center text-gray-700 dark:text-gray-200 z-50" :aria-label="(locale === 'ar' ? 'طلب العرض، ' : 'Quote request, ') + quoteCount">
+        <svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 4h6l1 2h3v14H5V6h3z" /><path d="M9 11h6M9 15h4" /></svg>
+        <span v-if="quoteCount" class="absolute top-0.5 end-0.5 min-w-[18px] h-[18px] px-1 rounded-full bg-primary text-[#191919] text-[11px] font-bold inline-flex items-center justify-center">{{ quoteCount }}</span>
+      </NuxtLink>
 
       <!-- Mobile Hamburger Button -->
       <button @click="isMobileMenuOpen = !isMobileMenuOpen" class="lg:hidden p-2 text-gray-600 dark:text-gray-300 hover:text-primary transition z-50 relative">
@@ -272,7 +301,8 @@
           </div>
           
           <div v-show="isMobileProductsOpen" class="mt-3 space-y-2 ltr:pl-4 rtl:pr-4 border-l-2 rtl:border-l-0 rtl:border-r-2 border-primary/30">
-            <div v-for="category in productsData" :key="category.id" class="border-b border-gray-100 dark:border-gray-800 last:border-0 pb-2 last:pb-0">
+            <div v-for="category in [...qatarCategories, ...exportCategories]" :key="category.id" class="border-b border-gray-100 dark:border-gray-800 last:border-0 pb-2 last:pb-0">
+              <div v-if="category.id === 'gold-mining'" class="pt-2 text-[11px] font-black text-gray-500 dark:text-gray-400">{{ locale === 'ar' ? 'التصدير والمشاريع الدولية' : 'Export & international projects' }}</div>
               <div 
                 class="flex items-center justify-between cursor-pointer py-2 font-bold text-xs text-gray-800 dark:text-gray-200"
                 @click="expandedMobileCategoryId = expandedMobileCategoryId === category.id ? null : category.id"
@@ -300,7 +330,7 @@
                   </NuxtLink>
                 </div>
                 
-                <NuxtLink @click="isMobileMenuOpen = false" :to="localePath(`/products/category/${category.id}`)" class="block ltr:pl-3 rtl:pr-3 text-xs font-bold text-primary hover:underline mt-2">
+                <NuxtLink @click="isMobileMenuOpen = false" :to="localePath(categoryLink(category.id))" class="block ltr:pl-3 rtl:pr-3 text-xs font-bold text-primary hover:underline mt-2">
                   {{ locale === 'ar' ? 'عرض كل منتجات القسم &larr;' : 'View all category products &rarr;' }}
                 </NuxtLink>
               </div>
@@ -441,6 +471,12 @@ const toggleTheme = useToggle(isDark)
 
 // Products Data
 const { data: productsData } = useCatalogNav()
+// Qatar products first; gold mining sits under "export and international projects" and has its own section page.
+const qatarCategories = computed(() => (productsData.value || []).filter(c => c.id !== 'gold-mining'))
+const exportCategories = computed(() => (productsData.value || []).filter(c => c.id === 'gold-mining'))
+const categoryLink = (id) => (id === 'gold-mining' ? '/gold-mining' : `/products/category/${id}`)
+const quoteCart = useQuoteCart()
+const quoteCount = computed(() => quoteCart.count.value)
 // The first category is open until the visitor hovers another; a computed keeps server and client in step.
 const hoveredCategory = ref(null)
 const activeProductCategory = computed({

@@ -1,6 +1,7 @@
 import productCategories from '~~/data/products.json'
 import { getCachedArticles } from '~~/server/utils/blogStorage'
 import { withRepoArticles } from '~~/server/utils/repoArticles'
+import { STAGES, stageView } from '~~/server/utils/goldMining'
 
 const BASE = 'https://www.bestolex.com'
 
@@ -32,8 +33,15 @@ function entry(path: string, lastmod?: string): string {
 export default defineEventHandler(async (event) => {
   const paths: Array<{ path: string, lastmod?: string }> = STATIC_PATHS.map(path => ({ path }))
 
+  // Gold mining: its section page and the stage pages that already list families (the others are noindex).
+  paths.push({ path: '/gold-mining' })
+  for (const st of STAGES) {
+    if ((stageView(st.id)?.cards.length || 0) > 0) paths.push({ path: `/gold-mining/${st.id}` })
+  }
+
   for (const category of productCategories as any[]) {
-    paths.push({ path: `/products/category/${category.id}` })
+    // The old gold-mining category URL redirects to /gold-mining.
+    if (category.id !== 'gold-mining') paths.push({ path: `/products/category/${category.id}` })
     const products = [
       ...(category.products || []),
       ...((category.subcategories || []).flatMap((sub: any) => sub.products || []))

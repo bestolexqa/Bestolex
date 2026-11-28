@@ -8,6 +8,7 @@ import { isAdminRequest } from '~~/server/utils/adminAuth'
 const PUBLIC_RULES: Array<{ method: string, test: (path: string) => boolean }> = [
   { method: 'GET', test: p => p === '/api/blog' || p.startsWith('/api/blog/') },
   { method: 'GET', test: p => p === '/api/catalog/nav' || p.startsWith('/api/catalog/category/') || p.startsWith('/api/catalog/product/') || p.startsWith('/api/catalog/family/') },
+  { method: 'GET', test: p => p === '/api/gold-mining' || p.startsWith('/api/gold-mining/') },
   { method: 'POST', test: p => p === '/api/contact' },
   { method: 'POST', test: p => p === '/api/book-appointment' },
   { method: 'POST', test: p => p === '/api/analytics/track' },

@@ -139,7 +139,7 @@
             <NuxtLink :to="localePath('/contact')" class="inline-block w-full sm:w-auto text-center bg-[#191919] text-white font-bold px-6 py-3 rounded-lg hover:bg-black transition">
               {{ t('اطلب عرض سعر لمشروعك', 'Request a quote for your project') }}
             </NuxtLink>
-            <NuxtLink :to="localePath('/products/category/gold-mining')" class="inline-block w-full sm:w-auto text-center mt-3 sm:mt-0 sm:ms-3 border border-[#191919] dark:border-gray-500 font-bold px-6 py-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition">
+            <NuxtLink :to="localePath('/gold-mining')" class="inline-block w-full sm:w-auto text-center mt-3 sm:mt-0 sm:ms-3 border border-[#191919] dark:border-gray-500 font-bold px-6 py-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition">
               {{ t('تصفّح معدات تعدين الذهب', 'Browse gold-mining equipment') }}
             </NuxtLink>
           </div>

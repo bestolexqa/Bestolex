@@ -1,0 +1,482 @@
+{
+  "id": "vertical-shaft-impact-crushers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "max-feed-size",
+      "label": {
+        "en": "Max. feed size (mm)",
+        "ar": "أقصى حجم تغذية (مم)"
+      }
+    },
+    {
+      "key": "rotor-speed",
+      "label": {
+        "en": "Rotor speed (m/s)",
+        "ar": "سرعة الدوّار (م/ث)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "weight",
+      "label": {
+        "en": "Weight (t)",
+        "ar": "الوزن (طن)"
+      }
+    },
+    {
+      "key": "cap-cascade",
+      "label": {
+        "en": "Capacity – cascade & centre feed (t/h)",
+        "ar": "الطاقة – تغذية شلالية ومركزية (طن/ساعة)"
+      }
+    },
+    {
+      "key": "cap-centre",
+      "label": {
+        "en": "Capacity – full centre feed (t/h)",
+        "ar": "الطاقة – تغذية مركزية كاملة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "feed",
+      "label": {
+        "en": "Feed size soft / hard (mm)",
+        "ar": "حجم التغذية لين / صلب (مم)"
+      }
+    },
+    {
+      "key": "rpm",
+      "label": {
+        "en": "Rotor speed (r/min)",
+        "ar": "سرعة الدوّار (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "motors",
+      "label": {
+        "en": "Motors (kW)",
+        "ar": "المحركات (كيلوواط)"
+      }
+    }
+  ],
+  "keyRows": [
+    "max-feed-size",
+    "rotor-speed",
+    "power"
+  ],
+  "types": [
+    {
+      "id": "mvs",
+      "label": {
+        "en": "MVS vertical shaft impact crushers",
+        "ar": "كسارات صدمية رأسية العمود ⁦MVS⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0014-01-008 / MVS7150",
+          "name": {
+            "en": "MVS7150",
+            "ar": "MVS7150"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "50",
+              "ar": "50"
+            },
+            "rotor-speed": {
+              "en": "45–70",
+              "ar": "⁦45–70⁩"
+            },
+            "power": {
+              "en": "264–320",
+              "ar": "⁦264–320⁩"
+            },
+            "capacity": {
+              "en": "165–375",
+              "ar": "⁦165–375⁩"
+            },
+            "weight": {
+              "en": "13.6",
+              "ar": "⁦13.6⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-008 / MVS9100",
+          "name": {
+            "en": "MVS9100",
+            "ar": "MVS9100"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "60",
+              "ar": "60"
+            },
+            "rotor-speed": {
+              "en": "45–70",
+              "ar": "⁦45–70⁩"
+            },
+            "power": {
+              "en": "440–630",
+              "ar": "⁦440–630⁩"
+            },
+            "capacity": {
+              "en": "305–600",
+              "ar": "⁦305–600⁩"
+            },
+            "weight": {
+              "en": "17",
+              "ar": "17"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "165–600 t/h",
+        "ar": "⁦165⁠–⁠600⁩ طن/ساعة"
+      }
+    },
+    {
+      "id": "vsi",
+      "label": {
+        "en": "VSI5X and VSI sand-making crushers",
+        "ar": "كسارات صنع الرمل ⁦VSI5X⁩ و⁦VSI⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0016-03-011 / VSI5X7615",
+          "name": {
+            "en": "VSI5X7615",
+            "ar": "VSI5X7615"
+          },
+          "specs": {
+            "cap-cascade": {
+              "en": "150–280",
+              "ar": "⁦150–280⁩"
+            },
+            "cap-centre": {
+              "en": "70–140",
+              "ar": "⁦70–140⁩"
+            },
+            "feed": {
+              "en": "< 40 / < 35",
+              "ar": "⁦< 40 / < 35⁩"
+            },
+            "rpm": {
+              "en": "1700–1900",
+              "ar": "⁦1700–1900⁩"
+            },
+            "motors": {
+              "en": "2 × 75",
+              "ar": "⁦2 × 75⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-011 / VSI5X8522",
+          "name": {
+            "en": "VSI5X8522",
+            "ar": "VSI5X8522"
+          },
+          "specs": {
+            "cap-cascade": {
+              "en": "240–380",
+              "ar": "⁦240–380⁩"
+            },
+            "cap-centre": {
+              "en": "120–200",
+              "ar": "⁦120–200⁩"
+            },
+            "feed": {
+              "en": "< 45 / < 40",
+              "ar": "⁦< 45 / < 40⁩"
+            },
+            "rpm": {
+              "en": "1500–1700",
+              "ar": "⁦1500–1700⁩"
+            },
+            "motors": {
+              "en": "2 × 110",
+              "ar": "⁦2 × 110⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-011 / VSI5X9532",
+          "name": {
+            "en": "VSI5X9532",
+            "ar": "VSI5X9532"
+          },
+          "specs": {
+            "cap-cascade": {
+              "en": "350–450",
+              "ar": "⁦350–450⁩"
+            },
+            "cap-centre": {
+              "en": "180–290",
+              "ar": "⁦180–290⁩"
+            },
+            "feed": {
+              "en": "< 50 / < 45",
+              "ar": "⁦< 50 / < 45⁩"
+            },
+            "rpm": {
+              "en": "1330–1510",
+              "ar": "⁦1330–1510⁩"
+            },
+            "motors": {
+              "en": "2 × 160",
+              "ar": "⁦2 × 160⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-011 / VSI5X1150",
+          "name": {
+            "en": "VSI5X1150",
+            "ar": "VSI5X1150"
+          },
+          "specs": {
+            "cap-cascade": {
+              "en": "413–644",
+              "ar": "⁦413–644⁩"
+            },
+            "cap-centre": {
+              "en": "344–368",
+              "ar": "⁦344–368⁩"
+            },
+            "feed": {
+              "en": "< 55 / < 45",
+              "ar": "⁦< 55 / < 45⁩"
+            },
+            "rpm": {
+              "en": "1000–1300",
+              "ar": "⁦1000–1300⁩"
+            },
+            "motors": {
+              "en": "2 × 250",
+              "ar": "⁦2 × 250⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-011 / VSI5X1263",
+          "name": {
+            "en": "VSI5X1263",
+            "ar": "VSI5X1263"
+          },
+          "specs": {
+            "cap-cascade": {
+              "en": "545–849",
+              "ar": "⁦545–849⁩"
+            },
+            "cap-centre": {
+              "en": "454–498",
+              "ar": "⁦454–498⁩"
+            },
+            "feed": {
+              "en": "< 60 / < 50",
+              "ar": "⁦< 60 / < 50⁩"
+            },
+            "rpm": {
+              "en": "900–1200",
+              "ar": "⁦900–1200⁩"
+            },
+            "motors": {
+              "en": "2 × 315",
+              "ar": "⁦2 × 315⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-012 / VSI7611",
+          "name": {
+            "en": "VSI7611",
+            "ar": "VSI7611"
+          },
+          "specs": {
+            "cap-cascade": {
+              "en": "120–180",
+              "ar": "⁦120–180⁩"
+            },
+            "cap-centre": {
+              "en": "60–90",
+              "ar": "⁦60–90⁩"
+            },
+            "feed": {
+              "en": "< 35 / < 30",
+              "ar": "⁦< 35 / < 30⁩"
+            },
+            "rpm": {
+              "en": "1700–1890",
+              "ar": "⁦1700–1890⁩"
+            },
+            "motors": {
+              "en": "2 × 55",
+              "ar": "⁦2 × 55⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-012 / VSI8518",
+          "name": {
+            "en": "VSI8518",
+            "ar": "VSI8518"
+          },
+          "specs": {
+            "cap-cascade": {
+              "en": "200–260",
+              "ar": "⁦200–260⁩"
+            },
+            "cap-centre": {
+              "en": "100–130",
+              "ar": "⁦100–130⁩"
+            },
+            "feed": {
+              "en": "< 40 / < 35",
+              "ar": "⁦< 40 / < 35⁩"
+            },
+            "rpm": {
+              "en": "1520–1690",
+              "ar": "⁦1520–1690⁩"
+            },
+            "motors": {
+              "en": "2 × 90",
+              "ar": "⁦2 × 90⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-012 / VSI9526",
+          "name": {
+            "en": "VSI9526",
+            "ar": "VSI9526"
+          },
+          "specs": {
+            "cap-cascade": {
+              "en": "300–360",
+              "ar": "⁦300–360⁩"
+            },
+            "cap-centre": {
+              "en": "150–190",
+              "ar": "⁦150–190⁩"
+            },
+            "feed": {
+              "en": "< 45 / < 40",
+              "ar": "⁦< 45 / < 40⁩"
+            },
+            "rpm": {
+              "en": "1360–1510",
+              "ar": "⁦1360–1510⁩"
+            },
+            "motors": {
+              "en": "2 × 132",
+              "ar": "⁦2 × 132⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-012 / VSI1140",
+          "name": {
+            "en": "VSI1140",
+            "ar": "VSI1140"
+          },
+          "specs": {
+            "cap-cascade": {
+              "en": "450–520",
+              "ar": "⁦450–520⁩"
+            },
+            "cap-centre": {
+              "en": "225–260",
+              "ar": "⁦225–260⁩"
+            },
+            "feed": {
+              "en": "< 50 / < 45",
+              "ar": "⁦< 50 / < 45⁩"
+            },
+            "rpm": {
+              "en": "1180–1310",
+              "ar": "⁦1180–1310⁩"
+            },
+            "motors": {
+              "en": "2 × 200",
+              "ar": "⁦2 × 200⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-012 / VSI1145",
+          "name": {
+            "en": "VSI1145",
+            "ar": "VSI1145"
+          },
+          "specs": {
+            "cap-cascade": {
+              "en": "500–600",
+              "ar": "⁦500–600⁩"
+            },
+            "cap-centre": {
+              "en": "250–360",
+              "ar": "⁦250–360⁩"
+            },
+            "feed": {
+              "en": "< 50 / < 45",
+              "ar": "⁦< 50 / < 45⁩"
+            },
+            "rpm": {
+              "en": "1180–1280",
+              "ar": "⁦1180–1280⁩"
+            },
+            "motors": {
+              "en": "2 × 220",
+              "ar": "⁦2 × 220⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Dual motors",
+        "ar": "محركان"
+      },
+      "intro": {
+        "en": "Dual-pump hydraulic lubrication station with vibration monitoring (0.1–20 mm/s).",
+        "ar": "محطة تزييت هيدروليكية بمضختين مع مراقبة الاهتزاز (⁦0.1⁠–⁠20⁩ مم/ث)."
+      },
+      "keyRows": [
+        "cap-cascade",
+        "feed",
+        "motors"
+      ]
+    }
+  ]
+}

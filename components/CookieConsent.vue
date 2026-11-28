@@ -13,7 +13,7 @@
         v-if="!showBanner && !showModal"
         @click="openModal"
         type="button"
-        class="fixed bottom-4 left-4 md:bottom-6 md:left-6 z-40 bg-gray-900/90 dark:bg-gray-800/90 backdrop-blur-md text-amber-400 hover:text-white border border-amber-500/40 hover:border-amber-400 p-2 md:p-3 rounded-full shadow-2xl hover:shadow-amber-500/30 hover:scale-110 transition-all duration-300 group flex items-center justify-center"
+        class="bx-float fixed bottom-4 left-4 md:bottom-6 md:left-6 z-40 bg-gray-900/90 dark:bg-gray-800/90 backdrop-blur-md text-amber-400 hover:text-white border border-amber-500/40 hover:border-amber-400 p-2 md:p-3 rounded-full shadow-2xl hover:shadow-amber-500/30 hover:scale-110 transition-all duration-300 group flex items-center justify-center"
         :title="isAr ? 'إعدادات ملفات الارتباط والخصوصية' : 'Cookie & Privacy Settings'"
         :aria-label="isAr ? 'إعدادات ملفات الارتباط' : 'Cookie Settings'"
       >

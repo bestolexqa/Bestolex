@@ -1,0 +1,327 @@
+{
+  "id": "gp-hps-hydraulic-cone-crushers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "max-feed-size",
+      "label": {
+        "en": "Max. feed size (mm)",
+        "ar": "أقصى حجم تغذية (مم)"
+      }
+    },
+    {
+      "key": "discharge-setting",
+      "label": {
+        "en": "Discharge setting (mm)",
+        "ar": "ضبط التفريغ (مم)"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "models",
+      "label": {
+        "en": "Models",
+        "ar": "الموديلات"
+      }
+    }
+  ],
+  "keyRows": [
+    "max-feed-size",
+    "discharge-setting",
+    "capacity"
+  ],
+  "types": [
+    {
+      "id": "gp-s",
+      "label": {
+        "en": "GP single-cylinder cone crushers – extra-coarse (S) cavity",
+        "ar": "كسارات مخروطية أحادية الأسطوانة ⁦GP⁩ – تجويف خشن جداً (⁦S⁩)"
+      },
+      "models": [
+        {
+          "code": "BX-0018-03-003 / GP100S",
+          "name": {
+            "en": "GP100S",
+            "ar": "GP100S"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "200",
+              "ar": "200"
+            },
+            "discharge-setting": {
+              "en": "25–50",
+              "ar": "⁦25–50⁩"
+            },
+            "capacity": {
+              "en": "80–190",
+              "ar": "⁦80–190⁩"
+            },
+            "power": {
+              "en": "90",
+              "ar": "90"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-003 / GP200S",
+          "name": {
+            "en": "GP200S",
+            "ar": "GP200S"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "250",
+              "ar": "250"
+            },
+            "discharge-setting": {
+              "en": "30–70",
+              "ar": "⁦30–70⁩"
+            },
+            "capacity": {
+              "en": "160–280",
+              "ar": "⁦160–280⁩"
+            },
+            "power": {
+              "en": "160",
+              "ar": "160"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-003 / GP300S",
+          "name": {
+            "en": "GP300S",
+            "ar": "GP300S"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "300",
+              "ar": "300"
+            },
+            "discharge-setting": {
+              "en": "35–75",
+              "ar": "⁦35–75⁩"
+            },
+            "capacity": {
+              "en": "260–500",
+              "ar": "⁦260–500⁩"
+            },
+            "power": {
+              "en": "250",
+              "ar": "250"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-003 / GP400S",
+          "name": {
+            "en": "GP400S",
+            "ar": "GP400S"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "400",
+              "ar": "400"
+            },
+            "discharge-setting": {
+              "en": "50–95",
+              "ar": "⁦50–95⁩"
+            },
+            "capacity": {
+              "en": "380–650",
+              "ar": "⁦380–650⁩"
+            },
+            "power": {
+              "en": "315",
+              "ar": "315"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-003 / GP500S",
+          "name": {
+            "en": "GP500S",
+            "ar": "GP500S"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "480",
+              "ar": "480"
+            },
+            "discharge-setting": {
+              "en": "60–115",
+              "ar": "⁦60–115⁩"
+            },
+            "capacity": {
+              "en": "500–900",
+              "ar": "⁦500–900⁩"
+            },
+            "power": {
+              "en": "355",
+              "ar": "355"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-003 / GP650S",
+          "name": {
+            "en": "GP650S",
+            "ar": "GP650S"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "500",
+              "ar": "500"
+            },
+            "discharge-setting": {
+              "en": "70–120",
+              "ar": "⁦70–120⁩"
+            },
+            "capacity": {
+              "en": "600–1050",
+              "ar": "⁦600–1050⁩"
+            },
+            "power": {
+              "en": "450",
+              "ar": "450"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-003 / GP800S",
+          "name": {
+            "en": "GP800S",
+            "ar": "GP800S"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "560",
+              "ar": "560"
+            },
+            "discharge-setting": {
+              "en": "80–130",
+              "ar": "⁦80–130⁩"
+            },
+            "capacity": {
+              "en": "710–1200",
+              "ar": "⁦710–1200⁩"
+            },
+            "power": {
+              "en": "630",
+              "ar": "630"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "80–1200 t/h",
+        "ar": "⁦80⁠–⁠1200⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "capacity",
+        "discharge-setting",
+        "power"
+      ]
+    },
+    {
+      "id": "standard",
+      "label": {
+        "en": "GP and HPS cone crushers – standard cavities",
+        "ar": "كسارات مخروطية ⁦GP⁩ و⁦HPS⁩ – التجاويف القياسية"
+      },
+      "models": [
+        {
+          "code": "BX-0018-03-003",
+          "name": {
+            "en": "GP single-cylinder (coarse, medium, fine)",
+            "ar": "⁦GP⁩ أحادية الأسطوانة (خشن، متوسط، ناعم)"
+          },
+          "specs": {
+            "models": {
+              "en": "GP100, GP200, GP300, GP400, GP500, GP650, GP800",
+              "ar": "⁦GP100, GP200, GP300, GP400, GP500, GP650, GP800⁩"
+            },
+            "capacity": {
+              "en": "up to 1200",
+              "ar": "حتى ⁦1200⁩"
+            },
+            "max-feed-size": {
+              "en": "60–560",
+              "ar": "⁦60–560⁩"
+            },
+            "power": {
+              "en": "90–630",
+              "ar": "⁦90–630⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-004",
+          "name": {
+            "en": "HPS multi-cylinder",
+            "ar": "⁦HPS⁩ متعددة الأسطوانات"
+          },
+          "specs": {
+            "models": {
+              "en": "HPS200, HPS300, HPS400, HPS500, HPS800",
+              "ar": "⁦HPS200, HPS300, HPS400, HPS500, HPS800⁩"
+            },
+            "capacity": {
+              "en": "90–1200",
+              "ar": "⁦90–1200⁩"
+            },
+            "power": {
+              "en": "132–630",
+              "ar": "⁦132–630⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Up to 1200 t/h",
+        "ar": "حتى ⁦1200⁩ طن/ساعة"
+      },
+      "countUnit": {
+        "ar": [
+          "سلسلة واحدة",
+          "سلسلتان",
+          "سلاسل"
+        ],
+        "en": [
+          "series",
+          "series"
+        ]
+      }
+    }
+  ]
+}

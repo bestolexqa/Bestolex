@@ -110,3 +110,52 @@ summary:focus-visible {
   outline: 3px solid #e99e05;
   outline-offset: 2px;
 }
+
+/* Gold-mining section: dark ground with the gold contour lines of the catalogue covers. */
+.ct-gold {
+  background-color: #191919;
+  background-image: url('/gold-mining/contour.svg'), radial-gradient(ellipse 70% 60% at 40% 75%, rgba(233, 158, 5, 0.14), rgba(233, 158, 5, 0) 70%);
+  background-size: 1600px auto, 100% 100%;
+  background-position: center top, center;
+  background-repeat: repeat, no-repeat;
+}
+.gm-cut-64 { clip-path: polygon(0 0, 100% 0, 100% 100%, 0 calc(100% - 64px)); }
+.gm-cut-48 { clip-path: polygon(0 0, 100% 0, 100% 100%, 0 calc(100% - 48px)); }
+.gm-hero-copy { min-width: 0; max-width: 100%;
+  box-sizing: border-box;
+  padding-block: 56px 112px;
+  padding-inline-start: max(24px, calc((100% - 1200px) / 2 + 24px));
+  padding-inline-end: 24px;
+}
+@media (min-width: 768px) { .gm-hero-copy { padding-block: 64px 128px; } }
+.gm-mask {
+  -webkit-mask-image: radial-gradient(ellipse 72% 80% at 45% 58%, #000 58%, transparent 100%);
+  mask-image: radial-gradient(ellipse 72% 80% at 45% 58%, #000 58%, transparent 100%);
+}
+.gm-btn-gold {
+  display: inline-flex; align-items: center; justify-content: center; min-height: 52px; box-sizing: border-box; padding: 0 24px;
+  border-radius: 10px; background: #E99E05; color: #191919; font-size: 17px; font-weight: 800; text-decoration: none;
+}
+.gm-btn-gold:hover { background: #F2B23A; }
+.gm-btn-ghost {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 52px; box-sizing: border-box; padding: 0 22px;
+  border-radius: 10px; border: 1px solid #6B6C6C; color: #FFFFFF; font-size: 17px; font-weight: 700; text-decoration: none;
+}
+.gm-btn-ghost:hover { border-color: #E99E05; }
+.gm-btn-line {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 52px; box-sizing: border-box; padding: 0 22px;
+  border-radius: 10px; border: 1px solid #191919; color: #191919; font-size: 17px; font-weight: 700; text-decoration: none;
+}
+.dark .gm-btn-line { border-color: #A9AAAA; color: #fff; }
+.gm-link {
+  font-size: 16px; font-weight: 700; color: inherit; text-decoration: underline; text-decoration-color: #E99E05;
+  text-decoration-thickness: 2px; text-underline-offset: 8px;
+}
+.gm-chip { font-size: 15px; min-height: 44px; padding: 0 16px; border-radius: 22px; display: inline-flex; align-items: center; gap: 8px; cursor: pointer; background: #fff; color: #191919; border: 1px solid #A9AAAA; font-weight: 500; }
+.gm-chip[aria-pressed='true'] { background: #191919; color: #fff; border-color: #191919; font-weight: 700; }
+.dark .gm-chip { background: #1f2937; color: #fff; border-color: #4b5563; }
+.dark .gm-chip[aria-pressed='true'] { background: #E99E05; color: #191919; border-color: #E99E05; }
+.gm-card:hover .gm-frame { border-color: #191919; }
+
+/* Family pages: when the mobile "review the request" bar shows, the floating buttons move above it. */
+@media (max-width: 767px) { html.bx-has-bar .bx-float { transform: translateY(-84px); } }

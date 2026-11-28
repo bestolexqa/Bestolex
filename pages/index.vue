@@ -48,13 +48,13 @@
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           <div v-for="(category, index) in products" :key="category.id" class="bg-gray-50 dark:bg-gray-800 rounded-xl overflow-hidden shadow hover:shadow-xl transition group flex flex-col justify-between" :data-aos="'fade-up'" :data-aos-delay="index * 100">
             <div>
-              <NuxtLink :to="localePath(`/products/category/${category.id}`)" class="block h-52 overflow-hidden relative">
+              <NuxtLink :to="localePath(categoryPath(category.id))" class="block h-52 overflow-hidden relative">
                 <NuxtImg :src="category.image" :alt="category.title[locale]" class="w-full h-full object-cover group-hover:scale-110 transition duration-500" format="webp" loading="lazy" />
                 <div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
               </NuxtLink>
               <div class="p-6 pb-2">
                 <h3 class="font-bold text-xl mb-2 text-primary">
-                  <NuxtLink :to="localePath(`/products/category/${category.id}`)" class="hover:underline">
+                  <NuxtLink :to="localePath(categoryPath(category.id))" class="hover:underline">
                     {{ category.title[locale] }}
                   </NuxtLink>
                 </h3>
@@ -62,7 +62,7 @@
               </div>
             </div>
             <div class="p-6 pt-0">
-              <NuxtLink :to="localePath(`/products/category/${category.id}`)" class="text-primary font-bold hover:text-orange-600 transition inline-flex items-center gap-2">
+              <NuxtLink :to="localePath(categoryPath(category.id))" class="text-primary font-bold hover:text-orange-600 transition inline-flex items-center gap-2">
                 {{ locale === 'ar' ? 'عرض منتجات القسم' : 'View Category Products' }} &rarr;
               </NuxtLink>
             </div>
@@ -251,6 +251,7 @@
 </template>
 
 <script setup>
+import { categoryPath } from '~/utils/miningUi'
 import { ref, computed } from 'vue'
 import { whatsappLink } from '~/utils/leads'
 import { SOURCING_SECTORS } from '~/utils/sourcing'

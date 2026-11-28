@@ -1,0 +1,1056 @@
+{
+  "id": "gyratory-impact-crushers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "weight",
+      "label": {
+        "en": "Weight (t)",
+        "ar": "الوزن (طن)"
+      }
+    },
+    {
+      "key": "max-feed-size",
+      "label": {
+        "en": "Max. feed size (mm)",
+        "ar": "أقصى حجم تغذية (مم)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "max-capacity",
+      "label": {
+        "en": "Max. capacity (t/h)",
+        "ar": "أقصى طاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "feed-opening",
+      "label": {
+        "en": "Feed opening (mm)",
+        "ar": "فتحة التغذية (مم)"
+      }
+    },
+    {
+      "key": "rotor-length",
+      "label": {
+        "en": "Rotor Ø × length (mm)",
+        "ar": "قطر الدوّار × الطول (مم)"
+      }
+    },
+    {
+      "key": "max-speed",
+      "label": {
+        "en": "Max. speed (rpm)",
+        "ar": "أقصى سرعة (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "max-installed-power",
+      "label": {
+        "en": "Max. installed power (kW)",
+        "ar": "أقصى قدرة مركّبة (كيلوواط)"
+      }
+    },
+    {
+      "key": "rotor",
+      "label": {
+        "en": "Rotor (mm)",
+        "ar": "الدوّار (مم)"
+      }
+    },
+    {
+      "key": "max-feed",
+      "label": {
+        "en": "Max. feed (mm)",
+        "ar": "أقصى تغذية (مم)"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "rotor-l",
+      "label": {
+        "en": "Rotor Ø × L (mm)",
+        "ar": "قطر الدوّار × الطول (مم)"
+      }
+    },
+    {
+      "key": "discharge-size",
+      "label": {
+        "en": "Discharge size (mm)",
+        "ar": "حجم التفريغ (مم)"
+      }
+    }
+  ],
+  "keyRows": [
+    "weight",
+    "max-feed-size",
+    "power"
+  ],
+  "types": [
+    {
+      "id": "mg",
+      "label": {
+        "en": "MG gyratory crushers",
+        "ar": "كسارات دوّارة ⁦MG⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0014-01-001 / MG 42-65",
+          "name": {
+            "en": "MG 42-65",
+            "ar": "⁦MG 42-65⁩"
+          },
+          "specs": {
+            "weight": {
+              "en": "120",
+              "ar": "120"
+            },
+            "max-feed-size": {
+              "en": "1066",
+              "ar": "1066"
+            },
+            "power": {
+              "en": "450",
+              "ar": "450"
+            },
+            "max-capacity": {
+              "en": "5250",
+              "ar": "5250"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-001 / MG 50-65",
+          "name": {
+            "en": "MG 50-65",
+            "ar": "⁦MG 50-65⁩"
+          },
+          "specs": {
+            "weight": {
+              "en": "153",
+              "ar": "153"
+            },
+            "max-feed-size": {
+              "en": "1270",
+              "ar": "1270"
+            },
+            "power": {
+              "en": "450",
+              "ar": "450"
+            },
+            "max-capacity": {
+              "en": "6375",
+              "ar": "6375"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-001 / MG 54-75",
+          "name": {
+            "en": "MG 54-75",
+            "ar": "⁦MG 54-75⁩"
+          },
+          "specs": {
+            "weight": {
+              "en": "242",
+              "ar": "242"
+            },
+            "max-feed-size": {
+              "en": "1370",
+              "ar": "1370"
+            },
+            "power": {
+              "en": "600",
+              "ar": "600"
+            },
+            "max-capacity": {
+              "en": "7500",
+              "ar": "7500"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-001 / MG 60-89",
+          "name": {
+            "en": "MG 60-89",
+            "ar": "⁦MG 60-89⁩"
+          },
+          "specs": {
+            "weight": {
+              "en": "365",
+              "ar": "365"
+            },
+            "max-feed-size": {
+              "en": "1525",
+              "ar": "1525"
+            },
+            "power": {
+              "en": "750",
+              "ar": "750"
+            },
+            "max-capacity": {
+              "en": "12500",
+              "ar": "12500"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-001 / MG 60-110",
+          "name": {
+            "en": "MG 60-110",
+            "ar": "⁦MG 60-110⁩"
+          },
+          "specs": {
+            "weight": {
+              "en": "553",
+              "ar": "553"
+            },
+            "max-feed-size": {
+              "en": "1525",
+              "ar": "1525"
+            },
+            "power": {
+              "en": "1500",
+              "ar": "1500"
+            },
+            "max-capacity": {
+              "en": "17000",
+              "ar": "17000"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Up to 17,000 t/h",
+        "ar": "حتى ⁦17,000⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "max-capacity",
+        "max-feed-size",
+        "power"
+      ]
+    },
+    {
+      "id": "mim",
+      "label": {
+        "en": "MIM horizontal-shaft impact crushers",
+        "ar": "كسارات صدمية أفقية العمود ⁦MIM⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0014-01-007 / MIM1213",
+          "name": {
+            "en": "MIM1213",
+            "ar": "MIM1213"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1320×880",
+              "ar": "⁦1320×880⁩"
+            },
+            "max-feed-size": {
+              "en": "600",
+              "ar": "600"
+            },
+            "rotor-length": {
+              "en": "1200 × 1300",
+              "ar": "⁦1200 × 1300⁩"
+            },
+            "max-speed": {
+              "en": "700",
+              "ar": "700"
+            },
+            "max-installed-power": {
+              "en": "220",
+              "ar": "220"
+            },
+            "weight": {
+              "en": "13.1",
+              "ar": "⁦13.1⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-007 / MIM1315",
+          "name": {
+            "en": "MIM1315",
+            "ar": "MIM1315"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1540×930",
+              "ar": "⁦1540×930⁩"
+            },
+            "max-feed-size": {
+              "en": "600",
+              "ar": "600"
+            },
+            "rotor-length": {
+              "en": "1300 × 1500",
+              "ar": "⁦1300 × 1500⁩"
+            },
+            "max-speed": {
+              "en": "700",
+              "ar": "700"
+            },
+            "max-installed-power": {
+              "en": "315",
+              "ar": "315"
+            },
+            "weight": {
+              "en": "16.6",
+              "ar": "⁦16.6⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-007 / MIM1520",
+          "name": {
+            "en": "MIM1520",
+            "ar": "MIM1520"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "2040×995",
+              "ar": "⁦2040×995⁩"
+            },
+            "max-feed-size": {
+              "en": "700",
+              "ar": "700"
+            },
+            "rotor-length": {
+              "en": "1500 × 2000",
+              "ar": "⁦1500 × 2000⁩"
+            },
+            "max-speed": {
+              "en": "600",
+              "ar": "600"
+            },
+            "max-installed-power": {
+              "en": "500",
+              "ar": "500"
+            },
+            "weight": {
+              "en": "27.6",
+              "ar": "⁦27.6⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-007 / MIM1522",
+          "name": {
+            "en": "MIM1522",
+            "ar": "MIM1522"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "2240×995",
+              "ar": "⁦2240×995⁩"
+            },
+            "max-feed-size": {
+              "en": "700",
+              "ar": "700"
+            },
+            "rotor-length": {
+              "en": "1500 × 2200",
+              "ar": "⁦1500 × 2200⁩"
+            },
+            "max-speed": {
+              "en": "600",
+              "ar": "600"
+            },
+            "max-installed-power": {
+              "en": "630",
+              "ar": "630"
+            },
+            "weight": {
+              "en": "31.7",
+              "ar": "⁦31.7⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-007 / MIM1313",
+          "name": {
+            "en": "MIM1313",
+            "ar": "MIM1313"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1320×1200",
+              "ar": "⁦1320×1200⁩"
+            },
+            "max-feed-size": {
+              "en": "900",
+              "ar": "900"
+            },
+            "rotor-length": {
+              "en": "1300 × 1300",
+              "ar": "⁦1300 × 1300⁩"
+            },
+            "max-speed": {
+              "en": "700",
+              "ar": "700"
+            },
+            "max-installed-power": {
+              "en": "220",
+              "ar": "220"
+            },
+            "weight": {
+              "en": "18.4",
+              "ar": "⁦18.4⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-007 / MIM1415",
+          "name": {
+            "en": "MIM1415",
+            "ar": "MIM1415"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1540×1320",
+              "ar": "⁦1540×1320⁩"
+            },
+            "max-feed-size": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "rotor-length": {
+              "en": "1400 × 1500",
+              "ar": "⁦1400 × 1500⁩"
+            },
+            "max-speed": {
+              "en": "600",
+              "ar": "600"
+            },
+            "max-installed-power": {
+              "en": "315",
+              "ar": "315"
+            },
+            "weight": {
+              "en": "22.5",
+              "ar": "⁦22.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-007 / MIM1620",
+          "name": {
+            "en": "MIM1620",
+            "ar": "MIM1620"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "2040×1630",
+              "ar": "⁦2040×1630⁩"
+            },
+            "max-feed-size": {
+              "en": "1300",
+              "ar": "1300"
+            },
+            "rotor-length": {
+              "en": "1600 × 2000",
+              "ar": "⁦1600 × 2000⁩"
+            },
+            "max-speed": {
+              "en": "500",
+              "ar": "500"
+            },
+            "max-installed-power": {
+              "en": "500",
+              "ar": "500"
+            },
+            "weight": {
+              "en": "41.5",
+              "ar": "⁦41.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-007 / MIM2023",
+          "name": {
+            "en": "MIM2023",
+            "ar": "MIM2023"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "2310×1980",
+              "ar": "⁦2310×1980⁩"
+            },
+            "max-feed-size": {
+              "en": "1500",
+              "ar": "1500"
+            },
+            "rotor-length": {
+              "en": "2000 × 2300",
+              "ar": "⁦2000 × 2300⁩"
+            },
+            "max-speed": {
+              "en": "400",
+              "ar": "400"
+            },
+            "max-installed-power": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "weight": {
+              "en": "75.6",
+              "ar": "⁦75.6⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "220–1000 kW",
+        "ar": "⁦220⁠–⁠1000⁩ كيلوواط"
+      },
+      "keyRows": [
+        "max-feed-size",
+        "max-installed-power",
+        "weight"
+      ]
+    },
+    {
+      "id": "pf-pfw",
+      "label": {
+        "en": "PF / PFW impact crushers",
+        "ar": "كسارات صدمية ⁦PF / PFW⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0016-03-005 / PF1007",
+          "name": {
+            "en": "PF1007",
+            "ar": "PF1007"
+          },
+          "specs": {
+            "rotor": {
+              "en": "Ø1000×700",
+              "ar": "⁦Ø1000×700⁩"
+            },
+            "feed-opening": {
+              "en": "400×730",
+              "ar": "⁦400×730⁩"
+            },
+            "max-feed": {
+              "en": "≤ 250",
+              "ar": "⁦≤ 250⁩"
+            },
+            "capacity": {
+              "en": "15–60",
+              "ar": "⁦15–60⁩"
+            },
+            "power": {
+              "en": "45",
+              "ar": "45"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-005 / PF1010",
+          "name": {
+            "en": "PF1010",
+            "ar": "PF1010"
+          },
+          "specs": {
+            "rotor": {
+              "en": "Ø1000×1050",
+              "ar": "⁦Ø1000×1050⁩"
+            },
+            "feed-opening": {
+              "en": "400×1080",
+              "ar": "⁦400×1080⁩"
+            },
+            "max-feed": {
+              "en": "≤ 300",
+              "ar": "⁦≤ 300⁩"
+            },
+            "capacity": {
+              "en": "50–90",
+              "ar": "⁦50–90⁩"
+            },
+            "power": {
+              "en": "55",
+              "ar": "55"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-005 / PF1210",
+          "name": {
+            "en": "PF1210",
+            "ar": "PF1210"
+          },
+          "specs": {
+            "rotor": {
+              "en": "Ø1250×1050",
+              "ar": "⁦Ø1250×1050⁩"
+            },
+            "feed-opening": {
+              "en": "450×1150",
+              "ar": "⁦450×1150⁩"
+            },
+            "max-feed": {
+              "en": "≤ 400",
+              "ar": "⁦≤ 400⁩"
+            },
+            "capacity": {
+              "en": "70–130",
+              "ar": "⁦70–130⁩"
+            },
+            "power": {
+              "en": "90",
+              "ar": "90"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-005 / PFW1210",
+          "name": {
+            "en": "PFW1210",
+            "ar": "PFW1210"
+          },
+          "specs": {
+            "rotor": {
+              "en": "Ø1250×1050",
+              "ar": "⁦Ø1250×1050⁩"
+            },
+            "feed-opening": {
+              "en": "450×1150",
+              "ar": "⁦450×1150⁩"
+            },
+            "max-feed": {
+              "en": "≤ 400",
+              "ar": "⁦≤ 400⁩"
+            },
+            "capacity": {
+              "en": "75–140",
+              "ar": "⁦75–140⁩"
+            },
+            "power": {
+              "en": "90",
+              "ar": "90"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-005 / PFW1214",
+          "name": {
+            "en": "PFW1214",
+            "ar": "PFW1214"
+          },
+          "specs": {
+            "rotor": {
+              "en": "Ø1250×1400",
+              "ar": "⁦Ø1250×1400⁩"
+            },
+            "feed-opening": {
+              "en": "480×1500",
+              "ar": "⁦480×1500⁩"
+            },
+            "max-feed": {
+              "en": "≤ 430",
+              "ar": "⁦≤ 430⁩"
+            },
+            "capacity": {
+              "en": "100–180",
+              "ar": "⁦100–180⁩"
+            },
+            "power": {
+              "en": "132",
+              "ar": "132"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-005 / PFW1315",
+          "name": {
+            "en": "PFW1315",
+            "ar": "PFW1315"
+          },
+          "specs": {
+            "rotor": {
+              "en": "Ø1320×1500",
+              "ar": "⁦Ø1320×1500⁩"
+            },
+            "feed-opening": {
+              "en": "860×1520",
+              "ar": "⁦860×1520⁩"
+            },
+            "max-feed": {
+              "en": "≤ 500",
+              "ar": "⁦≤ 500⁩"
+            },
+            "capacity": {
+              "en": "130–220",
+              "ar": "⁦130–220⁩"
+            },
+            "power": {
+              "en": "200",
+              "ar": "200"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-005 / PFW1320",
+          "name": {
+            "en": "PFW1320",
+            "ar": "PFW1320"
+          },
+          "specs": {
+            "rotor": {
+              "en": "Ø1320×2000",
+              "ar": "⁦Ø1320×2000⁩"
+            },
+            "feed-opening": {
+              "en": "900×2000",
+              "ar": "⁦900×2000⁩"
+            },
+            "max-feed": {
+              "en": "≤ 500",
+              "ar": "⁦≤ 500⁩"
+            },
+            "capacity": {
+              "en": "160–350",
+              "ar": "⁦160–350⁩"
+            },
+            "power": {
+              "en": "250",
+              "ar": "250"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-005 / PFW1515",
+          "name": {
+            "en": "PFW1515",
+            "ar": "PFW1515"
+          },
+          "specs": {
+            "rotor": {
+              "en": "Ø1500×1500",
+              "ar": "⁦Ø1500×1500⁩"
+            },
+            "feed-opening": {
+              "en": "930×1550",
+              "ar": "⁦930×1550⁩"
+            },
+            "max-feed": {
+              "en": "≤ 600",
+              "ar": "⁦≤ 600⁩"
+            },
+            "capacity": {
+              "en": "200–400",
+              "ar": "⁦200–400⁩"
+            },
+            "power": {
+              "en": "280",
+              "ar": "280"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-005 / PFW1520",
+          "name": {
+            "en": "PFW1520",
+            "ar": "PFW1520"
+          },
+          "specs": {
+            "rotor": {
+              "en": "Ø1512×2000",
+              "ar": "⁦Ø1512×2000⁩"
+            },
+            "feed-opening": {
+              "en": "930×2040",
+              "ar": "⁦930×2040⁩"
+            },
+            "max-feed": {
+              "en": "≤ 700",
+              "ar": "⁦≤ 700⁩"
+            },
+            "capacity": {
+              "en": "300–450",
+              "ar": "⁦300–450⁩"
+            },
+            "power": {
+              "en": "355",
+              "ar": "355"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-005 / PFW1820",
+          "name": {
+            "en": "PFW1820",
+            "ar": "PFW1820"
+          },
+          "specs": {
+            "rotor": {
+              "en": "Ø1800×2000",
+              "ar": "⁦Ø1800×2000⁩"
+            },
+            "feed-opening": {
+              "en": "1620×2040",
+              "ar": "⁦1620×2040⁩"
+            },
+            "max-feed": {
+              "en": "≤ 700",
+              "ar": "⁦≤ 700⁩"
+            },
+            "capacity": {
+              "en": "500–800",
+              "ar": "⁦500–800⁩"
+            },
+            "power": {
+              "en": "2 × 315",
+              "ar": "⁦2 × 315⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "15–800 t/h",
+        "ar": "⁦15⁠–⁠800⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "capacity",
+        "max-feed",
+        "power"
+      ]
+    },
+    {
+      "id": "pf-mfd-additional",
+      "label": {
+        "en": "PF and MFD impact crushers – additional sizes",
+        "ar": "كسارات صدمية ⁦PF⁩ و⁦MFD⁩ – مقاسات إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0033-01-005 / PF-0504",
+          "name": {
+            "en": "PF-0504",
+            "ar": "⁦PF-0504⁩"
+          },
+          "specs": {
+            "rotor-l": {
+              "en": "500 × 400",
+              "ar": "⁦500 × 400⁩"
+            },
+            "feed-opening": {
+              "en": "320×500",
+              "ar": "⁦320×500⁩"
+            },
+            "max-feed-size": {
+              "en": "100",
+              "ar": "100"
+            },
+            "discharge-size": {
+              "en": "< 20",
+              "ar": "⁦< 20⁩"
+            },
+            "capacity": {
+              "en": "4–8",
+              "ar": "⁦4–8⁩"
+            },
+            "power": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "weight": {
+              "en": "1.6",
+              "ar": "⁦1.6⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-005 / PF-0807",
+          "name": {
+            "en": "PF-0807",
+            "ar": "⁦PF-0807⁩"
+          },
+          "specs": {
+            "rotor-l": {
+              "en": "800 × 700",
+              "ar": "⁦800 × 700⁩"
+            },
+            "feed-opening": {
+              "en": "400×730",
+              "ar": "⁦400×730⁩"
+            },
+            "max-feed-size": {
+              "en": "100",
+              "ar": "100"
+            },
+            "discharge-size": {
+              "en": "< 40",
+              "ar": "⁦< 40⁩"
+            },
+            "capacity": {
+              "en": "15–30",
+              "ar": "⁦15–30⁩"
+            },
+            "power": {
+              "en": "22",
+              "ar": "22"
+            },
+            "weight": {
+              "en": "3.5",
+              "ar": "⁦3.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-005 / PF-1108",
+          "name": {
+            "en": "PF-1108",
+            "ar": "⁦PF-1108⁩"
+          },
+          "specs": {
+            "rotor-l": {
+              "en": "1100 × 850",
+              "ar": "⁦1100 × 850⁩"
+            },
+            "feed-opening": {
+              "en": "400×1080",
+              "ar": "⁦400×1080⁩"
+            },
+            "max-feed-size": {
+              "en": "300",
+              "ar": "300"
+            },
+            "discharge-size": {
+              "en": "< 50",
+              "ar": "⁦< 50⁩"
+            },
+            "capacity": {
+              "en": "60–100",
+              "ar": "⁦60–100⁩"
+            },
+            "power": {
+              "en": "110",
+              "ar": "110"
+            },
+            "weight": {
+              "en": "13.5",
+              "ar": "⁦13.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-005 / PF-1310",
+          "name": {
+            "en": "PF-1310",
+            "ar": "⁦PF-1310⁩"
+          },
+          "specs": {
+            "rotor-l": {
+              "en": "1300 × 1050",
+              "ar": "⁦1300 × 1050⁩"
+            },
+            "feed-opening": {
+              "en": "490×1170",
+              "ar": "⁦490×1170⁩"
+            },
+            "max-feed-size": {
+              "en": "400",
+              "ar": "400"
+            },
+            "discharge-size": {
+              "en": "< 20",
+              "ar": "⁦< 20⁩"
+            },
+            "capacity": {
+              "en": "120–220",
+              "ar": "⁦120–220⁩"
+            },
+            "power": {
+              "en": "160",
+              "ar": "160"
+            },
+            "weight": {
+              "en": "24.3",
+              "ar": "⁦24.3⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-005 / MFD-20",
+          "name": {
+            "en": "MFD-20",
+            "ar": "⁦MFD-20⁩"
+          },
+          "specs": {
+            "rotor-l": {
+              "en": "750 × 500",
+              "ar": "⁦750 × 500⁩"
+            },
+            "max-feed-size": {
+              "en": "200",
+              "ar": "200"
+            },
+            "discharge-size": {
+              "en": "< 15",
+              "ar": "⁦< 15⁩"
+            },
+            "capacity": {
+              "en": "8–20",
+              "ar": "⁦8–20⁩"
+            },
+            "power": {
+              "en": "30",
+              "ar": "30"
+            },
+            "weight": {
+              "en": "1.9",
+              "ar": "⁦1.9⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "4–220 t/h",
+        "ar": "⁦4⁠–⁠220⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "For medium-hard, non-abrasive ores.",
+        "ar": "للخامات متوسطة الصلابة غير الكاشطة."
+      },
+      "keyRows": [
+        "capacity",
+        "discharge-size",
+        "power"
+      ]
+    }
+  ]
+}
