@@ -149,5 +149,7 @@ export const FAMILY_IDS = new Set([
   'bearings-mill-spares',
   'workshop-tools-operator-seats-belt-parts',
   'hydraulic-hoses',
-  'mobile-light-towers'
+  'mobile-light-towers',
+  'weighbridges-axle-scales',
+  'weighbridges-platform-scales-load-cells'
 ])

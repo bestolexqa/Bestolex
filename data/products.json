@@ -30466,6 +30466,312 @@
                 }
               ]
             }
+          },
+          {
+            "id": "weighbridges-axle-scales",
+            "name": {
+              "ar": "موازين الشاحنات وموازين المحاور",
+              "en": "Weighbridges & Axle Scales"
+            },
+            "coverImage": "/products/weighbridges-axle-scales/weighbridges-axle-scales.webp",
+            "description": {
+              "ar": "موازين شاحنات رقمية كاملة بطول ⁦7⁩ إلى ⁦24⁩ م لشاحنات ⁦30⁠–⁠120⁩ طناً، مع خلايا الوزن والمؤشر وصندوق التوصيل وأدوات التثبيت، وموازين محاور محمولة للتحقق من حمولات الخام والمركّز عند بوابة المنجم.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Complete digital weighbridges 7 to 24 m long for 30–120 t trucks, with load cells, indicator, junction box and fixings, plus portable axle weighing pads for checking ore and concentrate loads at the mine gate.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "طقم كامل بمنصة ⁦12⁩ مم من ⁦2⁩ إلى ⁦4⁩ أقسام",
+                "خلايا وزن رقمية ⁦30⁩ طن (⁦OIML R76⁩، ⁦CE⁩)",
+                "كابل ⁦50⁩ م في أنبوب فولاذي وصندوق توصيل ⁦IP68⁩",
+                "وسائد محاور محمولة مع عربة نقل"
+              ],
+              "en": [
+                "Complete set with a 12 mm deck in 2–4 sections",
+                "30 t digital load cells (OIML R76, CE)",
+                "50 m cable in steel conduit and IP68 junction box",
+                "Portable axle pads with a carrying trolley"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "السعة",
+                  "value": "⁦30⁠–⁠120⁩ طن"
+                },
+                {
+                  "label": "طول المنصة",
+                  "value": "⁦7⁠–⁠24⁩ م"
+                },
+                {
+                  "label": "خلايا الوزن",
+                  "value": "رقمية ⁦30⁩ طن، ⁦OIML R76⁩"
+                },
+                {
+                  "label": "موازين المحاور",
+                  "value": "⁦OP-923⁩ و⁦OP-928⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "30–120 t"
+                },
+                {
+                  "label": "Deck length",
+                  "value": "7–24 m"
+                },
+                {
+                  "label": "Load cells",
+                  "value": "Digital 30 t, OIML R76"
+                },
+                {
+                  "label": "Axle scales",
+                  "value": "OP-923 and OP-928"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/weighbridges-axle-scales/weighbridges-axle-scales.webp"
+            ],
+            "image": "/products/weighbridges-axle-scales/weighbridges-axle-scales.webp",
+            "cardImage": "/products/weighbridges-axle-scales/weighbridges-axle-scales.webp",
+            "seo": {
+              "title": {
+                "ar": "موازين الشاحنات الرقمية وموازين المحاور المحمولة",
+                "en": "Digital Weighbridges and Portable Axle Scales"
+              },
+              "description": {
+                "ar": "موازين شاحنات رقمية كاملة ⁦30⁠–⁠120⁩ طناً بطول ⁦7⁠–⁠24⁩ م، مع خلايا الوزن والمؤشر، ووسائد وزن محاور محمولة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Complete digital weighbridges for 30–120 t trucks, 7–24 m long, with load cells and indicator, plus portable axle weighing pads. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "وزن شاحنات الخام عند بوابة الموقع. اختر من الجدول أدناه.",
+              "en": "Weighing ore trucks at the site gate. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لاختيار ميزان الشاحنات؟",
+                  "a": "أثقل شاحنة محمّلة تزنها، وأطول شاحنة، وعدد الشاحنات في اليوم، وهل يُركّب في حفرة أو فوق الأرض، ونوع التربة ومصدر الكهرباء في الموقع."
+                },
+                {
+                  "q": "متى أختار وسائد المحاور بدل الميزان الثابت؟",
+                  "a": "حين يتنقل الوزن بين مواقع، أو يلزم التحقق من الحمولة قبل تركيب ميزان ثابت. الوسائد تُحمل وتُفرد على أرض مستوية، والميزان الثابت أنسب للوزن اليومي الكثيف."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to choose a weighbridge?",
+                  "a": "The heaviest loaded truck, the longest truck, the trucks per day, pit or pitless installation, and the ground and power on site."
+                },
+                {
+                  "q": "When do I choose axle pads instead of a fixed weighbridge?",
+                  "a": "When weighing moves between sites, or loads must be checked before a fixed weighbridge is installed. The pads are carried and laid on level ground; a fixed weighbridge suits heavy daily weighing."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "14",
+                  "label": "موديلاً ومقاساً"
+                },
+                {
+                  "value": "⁦30–120⁩",
+                  "label": "السعة (طن)"
+                },
+                {
+                  "value": "⁦7–24⁩",
+                  "label": "طول المنصة (م)"
+                }
+              ],
+              "en": [
+                {
+                  "value": "14",
+                  "label": "Models and sizes"
+                },
+                {
+                  "value": "30–120",
+                  "label": "Capacity (t)"
+                },
+                {
+                  "value": "7–24",
+                  "label": "Deck length (m)"
+                }
+              ]
+            }
+          },
+          {
+            "id": "weighbridges-platform-scales-load-cells",
+            "name": {
+              "ar": "موازين الشاحنات وموازين المنصة وخلايا الوزن",
+              "en": "Weighbridges, Platform Scales & Load Cells"
+            },
+            "coverImage": "/products/weighbridges-platform-scales-load-cells/weighbridges-platform-scales-load-cells.webp",
+            "description": {
+              "ar": "موازين شاحنات رقمية من ⁦30⁩ إلى ⁦200⁩ طن بمنصات حتى ⁦30⁩ م لوزن شاحنات الخام، وخلايا وزن رقمية للموازين الجديدة والقائمة، وموازين منصة من ⁦1⁩ إلى ⁦5⁩ أطنان لأكياس الخام والمواد في المخازن.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Digital weighbridges from 30 to 200 t with decks up to 30 m for weighing ore trucks, digital load cells for new and existing weighbridges, and 1–5 t platform scales for ore bags and materials in stores.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "منصة فولاذ ⁦Q235⁩ بعوارض ⁦U⁩ ولوح ⁦8⁠–⁠14⁩ مم",
+                "⁦OIML R76⁩ الفئة ⁦III⁩ وحمل زائد آمن ⁦125%⁩",
+                "خلايا ⁦QS-D⁩ و⁦QSA⁩ بمخرج ⁦RS485⁩",
+                "موازين منصة ⁦1⁠–⁠5⁩ طن بلوح مضلّع"
+              ],
+              "en": [
+                "Q235 steel deck with U-beams and 8–14 mm plate",
+                "OIML R76 Class III and 125% safe overload",
+                "QS-D and QSA cells with RS485 output",
+                "1–5 t platform scales with checker plate"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "السعة",
+                  "value": "⁦30⁠–⁠200⁩ طن"
+                },
+                {
+                  "label": "المنصة",
+                  "value": "عرض ⁦3⁠–⁠6⁩ م، طول ⁦4⁠–⁠30⁩ م"
+                },
+                {
+                  "label": "التدريج",
+                  "value": "⁦10 / 20 / 50⁩ كجم"
+                },
+                {
+                  "label": "خلايا الوزن",
+                  "value": "⁦C3⁩، ±⁦0.02%⁩، ⁦IP68⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "30–200 t"
+                },
+                {
+                  "label": "Deck",
+                  "value": "3–6 m wide, 4–30 m long"
+                },
+                {
+                  "label": "Division",
+                  "value": "10 / 20 / 50 kg"
+                },
+                {
+                  "label": "Load cells",
+                  "value": "C3, ±0.02%, IP68"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/weighbridges-platform-scales-load-cells/weighbridges-platform-scales-load-cells.webp"
+            ],
+            "image": "/products/weighbridges-platform-scales-load-cells/weighbridges-platform-scales-load-cells.webp",
+            "cardImage": "/products/weighbridges-platform-scales-load-cells/weighbridges-platform-scales-load-cells.webp",
+            "seo": {
+              "title": {
+                "ar": "موازين الشاحنات حتى 200 طن وخلايا الوزن وموازين المنصة",
+                "en": "Weighbridges up to 200 t, Load Cells and Platform Scales"
+              },
+              "description": {
+                "ar": "موازين شاحنات رقمية ⁦30⁠–⁠200⁩ طن بمنصات حتى ⁦30⁩ م (⁦OIML R76⁩)، وخلايا وزن ⁦QS-D⁩ و⁦QSA⁩، وموازين منصة ⁦1⁠–⁠5⁩ طن. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Digital weighbridges from 30 to 200 t with decks up to 30 m (OIML R76), QS-D and QSA load cells, and 1–5 t platform scales. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "من ميزان الشاحنات إلى ميزان المخزن. اختر من الجدول أدناه.",
+              "en": "From the weighbridge to the store scale. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لاختيار ميزان الشاحنات؟",
+                  "a": "أثقل شاحنة محمّلة تزنها، وأطول شاحنة، وعدد الشاحنات في اليوم، وهل يُركّب في حفرة أو فوق الأرض، ونوع التربة ومصدر الكهرباء في الموقع."
+                },
+                {
+                  "q": "هل تناسب الخلايا الرقمية ميزاناً قائماً؟",
+                  "a": "نعم في الغالب، بخلايا ⁦QS-D⁩ أو ⁦QSA⁩ من ⁦20⁩ إلى ⁦50⁩ طناً. أرسل عدد الخلايا وسعتها وطريقة تركيبها، أو صورة لها، ونؤكد المطابقة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to choose a weighbridge?",
+                  "a": "The heaviest loaded truck, the longest truck, the trucks per day, pit or pitless installation, and the ground and power on site."
+                },
+                {
+                  "q": "Do the digital load cells fit an existing weighbridge?",
+                  "a": "Usually yes, with QS-D or QSA cells from 20 to 50 t. Send the number of cells, their capacity and mounting, or a photo, and we confirm the match."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "3",
+                  "label": "خطوط منتجات"
+                },
+                {
+                  "value": "⁦30⁠–⁠200⁩ طن",
+                  "label": "سعة ميزان الشاحنات"
+                },
+                {
+                  "value": "⁦4⁠–⁠30⁩ م",
+                  "label": "طول المنصة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "3",
+                  "label": "Product lines"
+                },
+                {
+                  "value": "30–200 t",
+                  "label": "Truck scale capacity"
+                },
+                {
+                  "value": "4–30 m",
+                  "label": "Deck length"
+                }
+              ]
+            }
           }
         ]
       },
