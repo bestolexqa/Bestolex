@@ -1,0 +1,726 @@
+{
+  "id": "hammer-crushers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "max-feed-size",
+      "label": {
+        "en": "Max. feed size (mm)",
+        "ar": "أقصى حجم تغذية (مم)"
+      }
+    },
+    {
+      "key": "output-size",
+      "label": {
+        "en": "Output size (mm)",
+        "ar": "حجم الناتج (مم)"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "weight",
+      "label": {
+        "en": "Weight (t)",
+        "ar": "الوزن (طن)"
+      }
+    },
+    {
+      "key": "feed-opening",
+      "label": {
+        "en": "Feed opening (mm)",
+        "ar": "فتحة التغذية (مم)"
+      }
+    },
+    {
+      "key": "rotor-l",
+      "label": {
+        "en": "Rotor Ø × L (mm)",
+        "ar": "قطر الدوّار × الطول (مم)"
+      }
+    },
+    {
+      "key": "max-feed",
+      "label": {
+        "en": "Max. feed (mm)",
+        "ar": "أقصى تغذية (مم)"
+      }
+    },
+    {
+      "key": "discharge-size",
+      "label": {
+        "en": "Discharge size (mm)",
+        "ar": "حجم التفريغ (مم)"
+      }
+    }
+  ],
+  "keyRows": [
+    "max-feed-size",
+    "output-size",
+    "capacity"
+  ],
+  "types": [
+    {
+      "id": "pc",
+      "label": {
+        "en": "PC hammer crushers",
+        "ar": "كسارات مطرقية ⁦PC⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0016-01-002 / PC400×300",
+          "name": {
+            "en": "PC400×300",
+            "ar": "⁦PC400×300⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "< 100",
+              "ar": "⁦< 100⁩"
+            },
+            "output-size": {
+              "en": "< 15",
+              "ar": "⁦< 15⁩"
+            },
+            "capacity": {
+              "en": "5–10",
+              "ar": "⁦5–10⁩"
+            },
+            "power": {
+              "en": "11",
+              "ar": "11"
+            },
+            "weight": {
+              "en": "0.8",
+              "ar": "⁦0.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-002 / PC600×400",
+          "name": {
+            "en": "PC600×400",
+            "ar": "⁦PC600×400⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "< 220",
+              "ar": "⁦< 220⁩"
+            },
+            "output-size": {
+              "en": "< 15",
+              "ar": "⁦< 15⁩"
+            },
+            "capacity": {
+              "en": "10–25",
+              "ar": "⁦10–25⁩"
+            },
+            "power": {
+              "en": "22",
+              "ar": "22"
+            },
+            "weight": {
+              "en": "1.5",
+              "ar": "⁦1.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-002 / PC800×600",
+          "name": {
+            "en": "PC800×600",
+            "ar": "⁦PC800×600⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "< 350",
+              "ar": "⁦< 350⁩"
+            },
+            "output-size": {
+              "en": "< 15",
+              "ar": "⁦< 15⁩"
+            },
+            "capacity": {
+              "en": "20–40",
+              "ar": "⁦20–40⁩"
+            },
+            "power": {
+              "en": "55",
+              "ar": "55"
+            },
+            "weight": {
+              "en": "3.8",
+              "ar": "⁦3.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-002 / PC800×800",
+          "name": {
+            "en": "PC800×800",
+            "ar": "⁦PC800×800⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "< 350",
+              "ar": "⁦< 350⁩"
+            },
+            "output-size": {
+              "en": "< 15",
+              "ar": "⁦< 15⁩"
+            },
+            "capacity": {
+              "en": "20–60",
+              "ar": "⁦20–60⁩"
+            },
+            "power": {
+              "en": "75",
+              "ar": "75"
+            },
+            "weight": {
+              "en": "5.5",
+              "ar": "⁦5.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-002 / PC1000×800",
+          "name": {
+            "en": "PC1000×800",
+            "ar": "⁦PC1000×800⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "< 400",
+              "ar": "⁦< 400⁩"
+            },
+            "output-size": {
+              "en": "< 15",
+              "ar": "⁦< 15⁩"
+            },
+            "capacity": {
+              "en": "25–80",
+              "ar": "⁦25–80⁩"
+            },
+            "power": {
+              "en": "110",
+              "ar": "110"
+            },
+            "weight": {
+              "en": "7.9",
+              "ar": "⁦7.9⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-002 / PC1000×1000",
+          "name": {
+            "en": "PC1000×1000",
+            "ar": "⁦PC1000×1000⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "< 400",
+              "ar": "⁦< 400⁩"
+            },
+            "output-size": {
+              "en": "< 15",
+              "ar": "⁦< 15⁩"
+            },
+            "capacity": {
+              "en": "30–85",
+              "ar": "⁦30–85⁩"
+            },
+            "power": {
+              "en": "132",
+              "ar": "132"
+            },
+            "weight": {
+              "en": "8.6",
+              "ar": "⁦8.6⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "5–85 t/h",
+        "ar": "⁦5⁠–⁠85⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "capacity",
+        "output-size",
+        "power"
+      ]
+    },
+    {
+      "id": "pcz",
+      "label": {
+        "en": "PCZ heavy hammer crushers",
+        "ar": "كسارات مطرقية ثقيلة ⁦PCZ⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0016-03-013 / PCZ0808",
+          "name": {
+            "en": "PCZ0808",
+            "ar": "PCZ0808"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "800×500",
+              "ar": "⁦800×500⁩"
+            },
+            "rotor-l": {
+              "en": "850×790",
+              "ar": "⁦850×790⁩"
+            },
+            "max-feed": {
+              "en": "≤ 450",
+              "ar": "⁦≤ 450⁩"
+            },
+            "power": {
+              "en": "2 × 37",
+              "ar": "⁦2 × 37⁩"
+            },
+            "capacity": {
+              "en": "50–90",
+              "ar": "⁦50–90⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-013 / PCZ1308",
+          "name": {
+            "en": "PCZ1308",
+            "ar": "PCZ1308"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "850×800",
+              "ar": "⁦850×800⁩"
+            },
+            "rotor-l": {
+              "en": "1310×790",
+              "ar": "⁦1310×790⁩"
+            },
+            "max-feed": {
+              "en": "≤ 600",
+              "ar": "⁦≤ 600⁩"
+            },
+            "power": {
+              "en": "2 × 55",
+              "ar": "⁦2 × 55⁩"
+            },
+            "capacity": {
+              "en": "100–160",
+              "ar": "⁦100–160⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-013 / PCZ1310",
+          "name": {
+            "en": "PCZ1310",
+            "ar": "PCZ1310"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1000×800",
+              "ar": "⁦1000×800⁩"
+            },
+            "rotor-l": {
+              "en": "1310×1000",
+              "ar": "⁦1310×1000⁩"
+            },
+            "max-feed": {
+              "en": "≤ 600",
+              "ar": "⁦≤ 600⁩"
+            },
+            "power": {
+              "en": "2 × 75",
+              "ar": "⁦2 × 75⁩"
+            },
+            "capacity": {
+              "en": "120–180",
+              "ar": "⁦120–180⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-013 / PCZ1510",
+          "name": {
+            "en": "PCZ1510",
+            "ar": "PCZ1510"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1000×850",
+              "ar": "⁦1000×850⁩"
+            },
+            "rotor-l": {
+              "en": "1500×950",
+              "ar": "⁦1500×950⁩"
+            },
+            "max-feed": {
+              "en": "≤ 700",
+              "ar": "⁦≤ 700⁩"
+            },
+            "power": {
+              "en": "2 × 132",
+              "ar": "⁦2 × 132⁩"
+            },
+            "capacity": {
+              "en": "160–210",
+              "ar": "⁦160–210⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-013 / PCZ1512",
+          "name": {
+            "en": "PCZ1512",
+            "ar": "PCZ1512"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1210×900",
+              "ar": "⁦1210×900⁩"
+            },
+            "rotor-l": {
+              "en": "1500×1160",
+              "ar": "⁦1500×1160⁩"
+            },
+            "max-feed": {
+              "en": "≤ 750",
+              "ar": "⁦≤ 750⁩"
+            },
+            "power": {
+              "en": "2 × 160",
+              "ar": "⁦2 × 160⁩"
+            },
+            "capacity": {
+              "en": "220–350",
+              "ar": "⁦220–350⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-013 / PCZ1615",
+          "name": {
+            "en": "PCZ1615",
+            "ar": "PCZ1615"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1500×1200",
+              "ar": "⁦1500×1200⁩"
+            },
+            "rotor-l": {
+              "en": "1650×1452",
+              "ar": "⁦1650×1452⁩"
+            },
+            "max-feed": {
+              "en": "≤ 1000",
+              "ar": "⁦≤ 1000⁩"
+            },
+            "power": {
+              "en": "2 × 200",
+              "ar": "⁦2 × 200⁩"
+            },
+            "capacity": {
+              "en": "350–500",
+              "ar": "⁦350–500⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-013 / PCZ2016",
+          "name": {
+            "en": "PCZ2016",
+            "ar": "PCZ2016"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1500×1400",
+              "ar": "⁦1500×1400⁩"
+            },
+            "rotor-l": {
+              "en": "2000×1500",
+              "ar": "⁦2000×1500⁩"
+            },
+            "max-feed": {
+              "en": "≤ 1200",
+              "ar": "⁦≤ 1200⁩"
+            },
+            "power": {
+              "en": "2 × 315",
+              "ar": "⁦2 × 315⁩"
+            },
+            "capacity": {
+              "en": "500–800",
+              "ar": "⁦500–800⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "50–800 t/h",
+        "ar": "⁦50⁠–⁠800⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "capacity",
+        "max-feed",
+        "power"
+      ]
+    },
+    {
+      "id": "pc-additional",
+      "label": {
+        "en": "PC hammer crushers – additional sizes",
+        "ar": "كسارات مطرقية ⁦PC⁩ – مقاسات إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0033-01-003 / PC600×600",
+          "name": {
+            "en": "PC600×600",
+            "ar": "⁦PC600×600⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "≤ 100",
+              "ar": "⁦≤ 100⁩"
+            },
+            "discharge-size": {
+              "en": "≤ 15",
+              "ar": "⁦≤ 15⁩"
+            },
+            "capacity": {
+              "en": "12–16",
+              "ar": "⁦12–16⁩"
+            },
+            "power": {
+              "en": "37",
+              "ar": "37"
+            },
+            "weight": {
+              "en": "3.1",
+              "ar": "⁦3.1⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-003 / PC600×1200",
+          "name": {
+            "en": "PC600×1200",
+            "ar": "⁦PC600×1200⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "≤ 350",
+              "ar": "⁦≤ 350⁩"
+            },
+            "discharge-size": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "capacity": {
+              "en": "15–20",
+              "ar": "⁦15–20⁩"
+            },
+            "power": {
+              "en": "37",
+              "ar": "37"
+            },
+            "weight": {
+              "en": "3.8",
+              "ar": "⁦3.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-003 / PC1200×1000",
+          "name": {
+            "en": "PC1200×1000",
+            "ar": "⁦PC1200×1000⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "≤ 200",
+              "ar": "⁦≤ 200⁩"
+            },
+            "discharge-size": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "capacity": {
+              "en": "75–150",
+              "ar": "⁦75–150⁩"
+            },
+            "power": {
+              "en": "160",
+              "ar": "160"
+            },
+            "weight": {
+              "en": "12.5",
+              "ar": "⁦12.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-003 / PC1200×1200",
+          "name": {
+            "en": "PC1200×1200",
+            "ar": "⁦PC1200×1200⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "≤ 200",
+              "ar": "⁦≤ 200⁩"
+            },
+            "discharge-size": {
+              "en": "≤ 20",
+              "ar": "⁦≤ 20⁩"
+            },
+            "capacity": {
+              "en": "80–160",
+              "ar": "⁦80–160⁩"
+            },
+            "power": {
+              "en": "185",
+              "ar": "185"
+            },
+            "weight": {
+              "en": "14",
+              "ar": "14"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-003 / PC1250×1250",
+          "name": {
+            "en": "PC1250×1250",
+            "ar": "⁦PC1250×1250⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "≤ 200",
+              "ar": "⁦≤ 200⁩"
+            },
+            "discharge-size": {
+              "en": "≤ 20",
+              "ar": "⁦≤ 20⁩"
+            },
+            "capacity": {
+              "en": "80–160",
+              "ar": "⁦80–160⁩"
+            },
+            "power": {
+              "en": "180",
+              "ar": "180"
+            },
+            "weight": {
+              "en": "14.5",
+              "ar": "⁦14.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-003 / PC1400×1400",
+          "name": {
+            "en": "PC1400×1400",
+            "ar": "⁦PC1400×1400⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "≤ 250",
+              "ar": "⁦≤ 250⁩"
+            },
+            "discharge-size": {
+              "en": "≤ 20",
+              "ar": "⁦≤ 20⁩"
+            },
+            "capacity": {
+              "en": "120–170",
+              "ar": "⁦120–170⁩"
+            },
+            "power": {
+              "en": "280",
+              "ar": "280"
+            },
+            "weight": {
+              "en": "17.2",
+              "ar": "⁦17.2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-003 / PC1600×1600",
+          "name": {
+            "en": "PC1600×1600",
+            "ar": "⁦PC1600×1600⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "≤ 350",
+              "ar": "⁦≤ 350⁩"
+            },
+            "discharge-size": {
+              "en": "≤ 20",
+              "ar": "⁦≤ 20⁩"
+            },
+            "capacity": {
+              "en": "220–290",
+              "ar": "⁦220–290⁩"
+            },
+            "power": {
+              "en": "500",
+              "ar": "500"
+            },
+            "weight": {
+              "en": "32.5",
+              "ar": "⁦32.5⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "12–290 t/h",
+        "ar": "⁦12⁠–⁠290⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "capacity",
+        "discharge-size",
+        "power"
+      ]
+    }
+  ]
+}

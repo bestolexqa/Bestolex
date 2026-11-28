@@ -1,0 +1,1159 @@
+{
+  "id": "jaw-crushers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "feed-opening",
+      "label": {
+        "en": "Feed opening (mm)",
+        "ar": "فتحة التغذية (مم)"
+      }
+    },
+    {
+      "key": "max-feed-size",
+      "label": {
+        "en": "Max. feed size (mm)",
+        "ar": "أقصى حجم تغذية (مم)"
+      }
+    },
+    {
+      "key": "output-size",
+      "label": {
+        "en": "Output size (mm)",
+        "ar": "حجم الناتج (مم)"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "overall-dimensions",
+      "label": {
+        "en": "Overall dimensions (mm)",
+        "ar": "الأبعاد الكلية (مم)"
+      }
+    },
+    {
+      "key": "discharge-opening",
+      "label": {
+        "en": "Discharge opening (mm)",
+        "ar": "فتحة التفريغ (مم)"
+      }
+    },
+    {
+      "key": "weight",
+      "label": {
+        "en": "Weight (t)",
+        "ar": "الوزن (طن)"
+      }
+    },
+    {
+      "key": "discharge-size",
+      "label": {
+        "en": "Discharge size (mm)",
+        "ar": "حجم التفريغ (مم)"
+      }
+    }
+  ],
+  "keyRows": [
+    "feed-opening",
+    "max-feed-size",
+    "output-size"
+  ],
+  "types": [
+    {
+      "id": "small",
+      "label": {
+        "en": "Small jaw crushers (electric or diesel drive)",
+        "ar": "كسارات فكية صغيرة (محرك كهربائي أو ديزل)"
+      },
+      "models": [
+        {
+          "code": "BX-0016-04-002 / PE150×250",
+          "name": {
+            "en": "PE150×250",
+            "ar": "⁦PE150×250⁩"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "150×250",
+              "ar": "⁦150×250⁩"
+            },
+            "max-feed-size": {
+              "en": "130",
+              "ar": "130"
+            },
+            "output-size": {
+              "en": "15–45",
+              "ar": "⁦15–45⁩"
+            },
+            "capacity": {
+              "en": "1–4",
+              "ar": "⁦1–4⁩"
+            },
+            "power": {
+              "en": "5.5",
+              "ar": "⁦5.5⁩"
+            },
+            "overall-dimensions": {
+              "en": "896×745×935",
+              "ar": "⁦896×745×935⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-04-002 / PE200×300",
+          "name": {
+            "en": "PE200×300",
+            "ar": "⁦PE200×300⁩"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "200×300",
+              "ar": "⁦200×300⁩"
+            },
+            "max-feed-size": {
+              "en": "180",
+              "ar": "180"
+            },
+            "output-size": {
+              "en": "15–50",
+              "ar": "⁦15–50⁩"
+            },
+            "capacity": {
+              "en": "2–6",
+              "ar": "⁦2–6⁩"
+            },
+            "power": {
+              "en": "5.5",
+              "ar": "⁦5.5⁩"
+            },
+            "overall-dimensions": {
+              "en": "910×750×990",
+              "ar": "⁦910×750×990⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-04-002 / PE200×350",
+          "name": {
+            "en": "PE200×350",
+            "ar": "⁦PE200×350⁩"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "200×350",
+              "ar": "⁦200×350⁩"
+            },
+            "max-feed-size": {
+              "en": "180",
+              "ar": "180"
+            },
+            "output-size": {
+              "en": "18–70",
+              "ar": "⁦18–70⁩"
+            },
+            "capacity": {
+              "en": "3–10",
+              "ar": "⁦3–10⁩"
+            },
+            "power": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "overall-dimensions": {
+              "en": "1000×870×990",
+              "ar": "⁦1000×870×990⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1–10 t/h",
+        "ar": "⁦1⁠–⁠10⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "capacity",
+        "output-size",
+        "power"
+      ]
+    },
+    {
+      "id": "pe-pex",
+      "label": {
+        "en": "PE / PEX jaw crushers",
+        "ar": "كسارات فكية ⁦PE / PEX⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0016-01-001 / PE250×400",
+          "name": {
+            "en": "PE250×400",
+            "ar": "⁦PE250×400⁩"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "250×400",
+              "ar": "⁦250×400⁩"
+            },
+            "max-feed-size": {
+              "en": "210",
+              "ar": "210"
+            },
+            "output-size": {
+              "en": "25–60",
+              "ar": "⁦25–60⁩"
+            },
+            "capacity": {
+              "en": "5–20",
+              "ar": "⁦5–20⁩"
+            },
+            "power": {
+              "en": "15",
+              "ar": "15"
+            },
+            "overall-dimensions": {
+              "en": "1215×1240×1210",
+              "ar": "⁦1215×1240×1210⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-001 / PE400×600",
+          "name": {
+            "en": "PE400×600",
+            "ar": "⁦PE400×600⁩"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "400×600",
+              "ar": "⁦400×600⁩"
+            },
+            "max-feed-size": {
+              "en": "350",
+              "ar": "350"
+            },
+            "output-size": {
+              "en": "40–90",
+              "ar": "⁦40–90⁩"
+            },
+            "capacity": {
+              "en": "15–60",
+              "ar": "⁦15–60⁩"
+            },
+            "power": {
+              "en": "30",
+              "ar": "30"
+            },
+            "overall-dimensions": {
+              "en": "1700×1750×1680",
+              "ar": "⁦1700×1750×1680⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-001 / PE500×750",
+          "name": {
+            "en": "PE500×750",
+            "ar": "⁦PE500×750⁩"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "500×750",
+              "ar": "⁦500×750⁩"
+            },
+            "max-feed-size": {
+              "en": "425",
+              "ar": "425"
+            },
+            "output-size": {
+              "en": "50–100",
+              "ar": "⁦50–100⁩"
+            },
+            "capacity": {
+              "en": "40–130",
+              "ar": "⁦40–130⁩"
+            },
+            "power": {
+              "en": "45",
+              "ar": "45"
+            },
+            "overall-dimensions": {
+              "en": "2150×1900×1950",
+              "ar": "⁦2150×1900×1950⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-001 / PE600×900",
+          "name": {
+            "en": "PE600×900",
+            "ar": "⁦PE600×900⁩"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "600×900",
+              "ar": "⁦600×900⁩"
+            },
+            "max-feed-size": {
+              "en": "500",
+              "ar": "500"
+            },
+            "output-size": {
+              "en": "60–125",
+              "ar": "⁦60–125⁩"
+            },
+            "capacity": {
+              "en": "90–180",
+              "ar": "⁦90–180⁩"
+            },
+            "power": {
+              "en": "55",
+              "ar": "55"
+            },
+            "overall-dimensions": {
+              "en": "2500×2010×2350",
+              "ar": "⁦2500×2010×2350⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-001 / PE750×1060",
+          "name": {
+            "en": "PE750×1060",
+            "ar": "⁦PE750×1060⁩"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "750×1060",
+              "ar": "⁦750×1060⁩"
+            },
+            "max-feed-size": {
+              "en": "630",
+              "ar": "630"
+            },
+            "output-size": {
+              "en": "60–150",
+              "ar": "⁦60–150⁩"
+            },
+            "capacity": {
+              "en": "110–380",
+              "ar": "⁦110–380⁩"
+            },
+            "power": {
+              "en": "110",
+              "ar": "110"
+            },
+            "overall-dimensions": {
+              "en": "2630×2310×3110",
+              "ar": "⁦2630×2310×3110⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-001 / PEX250×750",
+          "name": {
+            "en": "PEX250×750",
+            "ar": "⁦PEX250×750⁩"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "250×750",
+              "ar": "⁦250×750⁩"
+            },
+            "max-feed-size": {
+              "en": "210",
+              "ar": "210"
+            },
+            "output-size": {
+              "en": "15–50",
+              "ar": "⁦15–50⁩"
+            },
+            "capacity": {
+              "en": "15–30",
+              "ar": "⁦15–30⁩"
+            },
+            "power": {
+              "en": "22",
+              "ar": "22"
+            },
+            "overall-dimensions": {
+              "en": "1440×1751×1515",
+              "ar": "⁦1440×1751×1515⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-001 / PEX250×1000",
+          "name": {
+            "en": "PEX250×1000",
+            "ar": "⁦PEX250×1000⁩"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "250×1000",
+              "ar": "⁦250×1000⁩"
+            },
+            "max-feed-size": {
+              "en": "210",
+              "ar": "210"
+            },
+            "output-size": {
+              "en": "15–60",
+              "ar": "⁦15–60⁩"
+            },
+            "capacity": {
+              "en": "15–52",
+              "ar": "⁦15–52⁩"
+            },
+            "power": {
+              "en": "30",
+              "ar": "30"
+            },
+            "overall-dimensions": {
+              "en": "1730×1950×1400",
+              "ar": "⁦1730×1950×1400⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-001 / PEX250×1200",
+          "name": {
+            "en": "PEX250×1200",
+            "ar": "⁦PEX250×1200⁩"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "250×1200",
+              "ar": "⁦250×1200⁩"
+            },
+            "max-feed-size": {
+              "en": "210",
+              "ar": "210"
+            },
+            "output-size": {
+              "en": "15–60",
+              "ar": "⁦15–60⁩"
+            },
+            "capacity": {
+              "en": "20–80",
+              "ar": "⁦20–80⁩"
+            },
+            "power": {
+              "en": "37",
+              "ar": "37"
+            },
+            "overall-dimensions": {
+              "en": "1730×2150×1400",
+              "ar": "⁦1730×2150×1400⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "5–380 t/h",
+        "ar": "⁦5⁠–⁠380⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "capacity",
+        "output-size",
+        "power"
+      ]
+    },
+    {
+      "id": "mc",
+      "label": {
+        "en": "MC heavy jaw crushers",
+        "ar": "كسارات فكية ثقيلة ⁦MC⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0014-01-002 / MC80",
+          "name": {
+            "en": "MC80",
+            "ar": "MC80"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "800×510",
+              "ar": "⁦800×510⁩"
+            },
+            "max-feed-size": {
+              "en": "420",
+              "ar": "420"
+            },
+            "discharge-opening": {
+              "en": "40–175",
+              "ar": "⁦40–175⁩"
+            },
+            "power": {
+              "en": "75",
+              "ar": "75"
+            },
+            "capacity": {
+              "en": "65–365",
+              "ar": "⁦65–365⁩"
+            },
+            "weight": {
+              "en": "9.5",
+              "ar": "⁦9.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-002 / MC96",
+          "name": {
+            "en": "MC96",
+            "ar": "MC96"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "930×580",
+              "ar": "⁦930×580⁩"
+            },
+            "max-feed-size": {
+              "en": "480",
+              "ar": "480"
+            },
+            "discharge-opening": {
+              "en": "60–175",
+              "ar": "⁦60–175⁩"
+            },
+            "power": {
+              "en": "90",
+              "ar": "90"
+            },
+            "capacity": {
+              "en": "120–410",
+              "ar": "⁦120–410⁩"
+            },
+            "weight": {
+              "en": "11.9",
+              "ar": "⁦11.9⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-002 / MC100",
+          "name": {
+            "en": "MC100",
+            "ar": "MC100"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1000×760",
+              "ar": "⁦1000×760⁩"
+            },
+            "max-feed-size": {
+              "en": "630",
+              "ar": "630"
+            },
+            "discharge-opening": {
+              "en": "70–200",
+              "ar": "⁦70–200⁩"
+            },
+            "power": {
+              "en": "110",
+              "ar": "110"
+            },
+            "capacity": {
+              "en": "140–510",
+              "ar": "⁦140–510⁩"
+            },
+            "weight": {
+              "en": "23.5",
+              "ar": "⁦23.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-002 / MC106",
+          "name": {
+            "en": "MC106",
+            "ar": "MC106"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1060×700",
+              "ar": "⁦1060×700⁩"
+            },
+            "max-feed-size": {
+              "en": "580",
+              "ar": "580"
+            },
+            "discharge-opening": {
+              "en": "70–200",
+              "ar": "⁦70–200⁩"
+            },
+            "power": {
+              "en": "110",
+              "ar": "110"
+            },
+            "capacity": {
+              "en": "165–520",
+              "ar": "⁦165–520⁩"
+            },
+            "weight": {
+              "en": "17.1",
+              "ar": "⁦17.1⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-002 / MC116",
+          "name": {
+            "en": "MC116",
+            "ar": "MC116"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1150×800",
+              "ar": "⁦1150×800⁩"
+            },
+            "max-feed-size": {
+              "en": "650",
+              "ar": "650"
+            },
+            "discharge-opening": {
+              "en": "70–200",
+              "ar": "⁦70–200⁩"
+            },
+            "power": {
+              "en": "132",
+              "ar": "132"
+            },
+            "capacity": {
+              "en": "180–540",
+              "ar": "⁦180–540⁩"
+            },
+            "weight": {
+              "en": "21.5",
+              "ar": "⁦21.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-002 / MC120",
+          "name": {
+            "en": "MC120",
+            "ar": "MC120"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1200×870",
+              "ar": "⁦1200×870⁩"
+            },
+            "max-feed-size": {
+              "en": "700",
+              "ar": "700"
+            },
+            "discharge-opening": {
+              "en": "70–175",
+              "ar": "⁦70–175⁩"
+            },
+            "power": {
+              "en": "160",
+              "ar": "160"
+            },
+            "capacity": {
+              "en": "190–560",
+              "ar": "⁦190–560⁩"
+            },
+            "weight": {
+              "en": "30.5",
+              "ar": "⁦30.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-002 / MC125",
+          "name": {
+            "en": "MC125",
+            "ar": "MC125"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1250×950",
+              "ar": "⁦1250×950⁩"
+            },
+            "max-feed-size": {
+              "en": "760",
+              "ar": "760"
+            },
+            "discharge-opening": {
+              "en": "100–250",
+              "ar": "⁦100–250⁩"
+            },
+            "power": {
+              "en": "185",
+              "ar": "185"
+            },
+            "capacity": {
+              "en": "260–775",
+              "ar": "⁦260–775⁩"
+            },
+            "weight": {
+              "en": "44.0",
+              "ar": "⁦44.0⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-002 / MC130",
+          "name": {
+            "en": "MC130",
+            "ar": "MC130"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1300×1000",
+              "ar": "⁦1300×1000⁩"
+            },
+            "max-feed-size": {
+              "en": "800",
+              "ar": "800"
+            },
+            "discharge-opening": {
+              "en": "100–250",
+              "ar": "⁦100–250⁩"
+            },
+            "power": {
+              "en": "185",
+              "ar": "185"
+            },
+            "capacity": {
+              "en": "285–850",
+              "ar": "⁦285–850⁩"
+            },
+            "weight": {
+              "en": "45.8",
+              "ar": "⁦45.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-002 / MC140",
+          "name": {
+            "en": "MC140",
+            "ar": "MC140"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1400×1070",
+              "ar": "⁦1400×1070⁩"
+            },
+            "max-feed-size": {
+              "en": "860",
+              "ar": "860"
+            },
+            "discharge-opening": {
+              "en": "125–250",
+              "ar": "⁦125–250⁩"
+            },
+            "power": {
+              "en": "200",
+              "ar": "200"
+            },
+            "capacity": {
+              "en": "345–870",
+              "ar": "⁦345–870⁩"
+            },
+            "weight": {
+              "en": "54.2",
+              "ar": "⁦54.2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-002 / MC150",
+          "name": {
+            "en": "MC150",
+            "ar": "MC150"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1400×1200",
+              "ar": "⁦1400×1200⁩"
+            },
+            "max-feed-size": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "discharge-opening": {
+              "en": "125–250",
+              "ar": "⁦125–250⁩"
+            },
+            "power": {
+              "en": "220",
+              "ar": "220"
+            },
+            "capacity": {
+              "en": "355–900",
+              "ar": "⁦355–900⁩"
+            },
+            "weight": {
+              "en": "51.0",
+              "ar": "⁦51.0⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-002 / MC160",
+          "name": {
+            "en": "MC160",
+            "ar": "MC160"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1600×1200",
+              "ar": "⁦1600×1200⁩"
+            },
+            "max-feed-size": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "discharge-opening": {
+              "en": "150–300",
+              "ar": "⁦150–300⁩"
+            },
+            "power": {
+              "en": "250",
+              "ar": "250"
+            },
+            "capacity": {
+              "en": "445–1170",
+              "ar": "⁦445–1170⁩"
+            },
+            "weight": {
+              "en": "83.5",
+              "ar": "⁦83.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-002 / MC200",
+          "name": {
+            "en": "MC200",
+            "ar": "MC200"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "2000×1500",
+              "ar": "⁦2000×1500⁩"
+            },
+            "max-feed-size": {
+              "en": "1200",
+              "ar": "1200"
+            },
+            "discharge-opening": {
+              "en": "175–300",
+              "ar": "⁦175–300⁩"
+            },
+            "power": {
+              "en": "400",
+              "ar": "400"
+            },
+            "capacity": {
+              "en": "645–1460",
+              "ar": "⁦645–1460⁩"
+            },
+            "weight": {
+              "en": "137.0",
+              "ar": "⁦137.0⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "65–1460 t/h",
+        "ar": "⁦65⁠–⁠1460⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "capacity",
+        "discharge-opening",
+        "power"
+      ]
+    },
+    {
+      "id": "pef-pex-additional",
+      "label": {
+        "en": "PEF / PEX jaw crushers – additional sizes",
+        "ar": "كسارات فكية ⁦PEF / PEX⁩ – مقاسات إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0033-01-001 / PEF-100×150",
+          "name": {
+            "en": "PEF-100×150",
+            "ar": "⁦PEF-100×150⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "90",
+              "ar": "90"
+            },
+            "discharge-size": {
+              "en": "5–20",
+              "ar": "⁦5–20⁩"
+            },
+            "capacity": {
+              "en": "0.4–1.8",
+              "ar": "⁦0.4–1.8⁩"
+            },
+            "power": {
+              "en": "2.2",
+              "ar": "⁦2.2⁩"
+            },
+            "weight": {
+              "en": "0.4",
+              "ar": "⁦0.4⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-001 / PEF-900×1200",
+          "name": {
+            "en": "PEF-900×1200",
+            "ar": "⁦PEF-900×1200⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "750",
+              "ar": "750"
+            },
+            "discharge-size": {
+              "en": "100–220",
+              "ar": "⁦100–220⁩"
+            },
+            "capacity": {
+              "en": "150–330",
+              "ar": "⁦150–330⁩"
+            },
+            "power": {
+              "en": "160",
+              "ar": "160"
+            },
+            "weight": {
+              "en": "48",
+              "ar": "48"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-001 / PEF-1000×1200",
+          "name": {
+            "en": "PEF-1000×1200",
+            "ar": "⁦PEF-1000×1200⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "780",
+              "ar": "780"
+            },
+            "discharge-size": {
+              "en": "195–270",
+              "ar": "⁦195–270⁩"
+            },
+            "capacity": {
+              "en": "190–280",
+              "ar": "⁦190–280⁩"
+            },
+            "power": {
+              "en": "160",
+              "ar": "160"
+            },
+            "weight": {
+              "en": "54.7",
+              "ar": "⁦54.7⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-001 / PEF-1200×1500",
+          "name": {
+            "en": "PEF-1200×1500",
+            "ar": "⁦PEF-1200×1500⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "1020",
+              "ar": "1020"
+            },
+            "discharge-size": {
+              "en": "150–300",
+              "ar": "⁦150–300⁩"
+            },
+            "capacity": {
+              "en": "270–500",
+              "ar": "⁦270–500⁩"
+            },
+            "power": {
+              "en": "200",
+              "ar": "200"
+            },
+            "weight": {
+              "en": "96.8",
+              "ar": "⁦96.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-001 / PEX-100×500",
+          "name": {
+            "en": "PEX-100×500",
+            "ar": "⁦PEX-100×500⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "80",
+              "ar": "80"
+            },
+            "discharge-size": {
+              "en": "7–20",
+              "ar": "⁦7–20⁩"
+            },
+            "capacity": {
+              "en": "3–15",
+              "ar": "⁦3–15⁩"
+            },
+            "power": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "weight": {
+              "en": "1.5",
+              "ar": "⁦1.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-001 / PEX-150×750",
+          "name": {
+            "en": "PEX-150×750",
+            "ar": "⁦PEX-150×750⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "120",
+              "ar": "120"
+            },
+            "discharge-size": {
+              "en": "10–40",
+              "ar": "⁦10–40⁩"
+            },
+            "capacity": {
+              "en": "8–35",
+              "ar": "⁦8–35⁩"
+            },
+            "power": {
+              "en": "15",
+              "ar": "15"
+            },
+            "weight": {
+              "en": "3.7",
+              "ar": "⁦3.7⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-001 / PEX-200×1000",
+          "name": {
+            "en": "PEX-200×1000",
+            "ar": "⁦PEX-200×1000⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "210",
+              "ar": "210"
+            },
+            "discharge-size": {
+              "en": "13–50",
+              "ar": "⁦13–50⁩"
+            },
+            "capacity": {
+              "en": "15–50",
+              "ar": "⁦15–50⁩"
+            },
+            "power": {
+              "en": "30",
+              "ar": "30"
+            },
+            "weight": {
+              "en": "6.3",
+              "ar": "⁦6.3⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-001 / PEX-300×1300",
+          "name": {
+            "en": "PEX-300×1300",
+            "ar": "⁦PEX-300×1300⁩"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "250",
+              "ar": "250"
+            },
+            "discharge-size": {
+              "en": "20–90",
+              "ar": "⁦20–90⁩"
+            },
+            "capacity": {
+              "en": "20–130",
+              "ar": "⁦20–130⁩"
+            },
+            "power": {
+              "en": "75",
+              "ar": "75"
+            },
+            "weight": {
+              "en": "12.6",
+              "ar": "⁦12.6⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "0.4–500 t/h",
+        "ar": "⁦0.4⁠–⁠500⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "PEF for coarse (primary) crushing, PEX for fine (secondary) crushing.",
+        "ar": "⁦PEF⁩ للتكسير الخشن (الأولي)، و⁦PEX⁩ للتكسير الناعم (الثانوي)."
+      },
+      "keyRows": [
+        "capacity",
+        "discharge-size",
+        "power"
+      ]
+    }
+  ]
+}

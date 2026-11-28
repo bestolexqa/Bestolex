@@ -42,7 +42,22 @@ const FAMILY_FILES: Record<string, string> = {
   'tricone-pdc-core-drilling-tools': 'catalog/mining/tricone-pdc-core-drilling-tools.json',
   'tapered-threaded-drilling-tools': 'catalog/mining/tapered-threaded-drilling-tools.json',
   'button-bit-grinders': 'catalog/mining/button-bit-grinders.json',
-  'cutter-picks-additional-cir-hammers': 'catalog/mining/cutter-picks-additional-cir-hammers.json'
+  'cutter-picks-additional-cir-hammers': 'catalog/mining/cutter-picks-additional-cir-hammers.json',
+  'jaw-crushers': 'catalog/mining/jaw-crushers.json',
+  'gyratory-impact-crushers': 'catalog/mining/gyratory-impact-crushers.json',
+  'c-series-jaw-gyratory-impact-crushers': 'catalog/mining/c-series-jaw-gyratory-impact-crushers.json',
+  'hydraulic-cone-crushers': 'catalog/mining/hydraulic-cone-crushers.json',
+  'single-cylinder-cone-crushers': 'catalog/mining/single-cylinder-cone-crushers.json',
+  'symons-spring-cone-crushers': 'catalog/mining/symons-spring-cone-crushers.json',
+  'gp-hps-hydraulic-cone-crushers': 'catalog/mining/gp-hps-hydraulic-cone-crushers.json',
+  'vertical-shaft-impact-crushers': 'catalog/mining/vertical-shaft-impact-crushers.json',
+  'sand-makers-fine-crushers': 'catalog/mining/sand-makers-fine-crushers.json',
+  'hammer-crushers': 'catalog/mining/hammer-crushers.json',
+  'fine-double-rotor-crushers': 'catalog/mining/fine-double-rotor-crushers.json',
+  'impact-fine-crushers': 'catalog/mining/impact-fine-crushers.json',
+  'roller-crushers': 'catalog/mining/roller-crushers.json',
+  'mobile-crushing-plants': 'catalog/mining/mobile-crushing-plants.json',
+  'tyre-crawler-mounted-crushing-plants': 'catalog/mining/tyre-crawler-mounted-crushing-plants.json'
 }
 
 const cache = new Map<string, any>()

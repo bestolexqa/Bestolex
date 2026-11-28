@@ -13568,12 +13568,12 @@
     },
     "seo": {
       "title": {
-        "ar": "معدات تعدين الذهب: التنقيب والحفر ومستهلكات الحفر",
-        "en": "Gold Mining Equipment: Exploration, Drilling and Drilling Consumables"
+        "ar": "معدات تعدين الذهب: التنقيب والحفر والتكسير",
+        "en": "Gold Mining Equipment: Exploration, Drilling and Crushing"
       },
       "description": {
-        "ar": "معدات تعدين الذهب من بيستوليكس: أجهزة المسح والكشف، وحفارات الاستكشاف وDTH، والمثاقب الصخرية، والضواغط، ومطارق ولقم DTH وRC، وأدوات الحفر ومستهلكاته. التوريد للشرق الأوسط وأفريقيا.",
-        "en": "Gold-mining equipment from Bestolex: survey instruments and detectors, exploration and DTH rigs, rock drills, compressors, DTH and RC hammers and bits, and drilling tools and consumables. Supply to the Middle East and Africa."
+        "ar": "معدات تعدين الذهب من بيستوليكس: أجهزة المسح والكشف، وحفارات الاستكشاف وDTH، والضواغط، ومطارق ولقم DTH وRC ومستهلكات الحفر، والكسارات الفكية والمخروطية والصدمية والمطرقية ومحطات التكسير المتنقلة. التوريد للشرق الأوسط وأفريقيا.",
+        "en": "Gold-mining equipment from Bestolex: survey instruments and detectors, exploration and DTH rigs, compressors, DTH and RC hammers, bits and drilling consumables, and jaw, cone, impact and hammer crushers and mobile crushing plants. Supply to the Middle East and Africa."
       }
     },
     "subcategories": [
@@ -16977,6 +16977,2190 @@
                 {
                   "value": "0.5–0.7 MPa",
                   "label": "CIR pressure"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "crushing-grinding-screening",
+        "title": {
+          "ar": "التكسير والطحن والغربلة",
+          "en": "Crushing, Grinding & Screening"
+        },
+        "products": [
+          {
+            "id": "jaw-crushers",
+            "name": {
+              "ar": "الكسارات الفكية",
+              "en": "Jaw Crushers"
+            },
+            "coverImage": "/products/jaw-crushers/jaw-crushers.webp",
+            "description": {
+              "ar": "كسارات أولية لخام الكوارتز الصلب الحامل للذهب: موديلات صغيرة من ⁦1⁩ طن/ساعة بمحرك كهربائي أو ديزل، وموديلات ⁦PE⁩ و⁦PEX⁩ للمحطات الصغيرة والمتوسطة، وموديلات ⁦MC⁩ الثقيلة للطاقات العالية، مع مقاسات ⁦PEF⁩ و⁦PEX⁩ إضافية من حجم المختبر حتى ⁦500⁩ طن/ساعة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Primary crushers for hard gold-bearing quartz: compact models from 1 t/h with electric or diesel drive, PE and PEX models for small and medium plants, and heavy MC models for high tonnage, plus additional PEF and PEX sizes from laboratory scale up to 500 t/h.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦3⁩ كسارات صغيرة ⁦1⁠–⁠10⁩ طن/ساعة بمحرك كهربائي أو ديزل",
+                "⁦8⁩ موديلات ⁦PE⁩ و⁦PEX⁩ بطاقة ⁦5⁠–⁠380⁩ طن/ساعة وناتج ⁦15⁠–⁠150⁩ مم",
+                "⁦12⁩ موديل ⁦MC⁩ ثقيل من ⁦MC80⁩ إلى ⁦MC200⁩ بطاقة ⁦65⁠–⁠1460⁩ طن/ساعة",
+                "مقاسات ⁦PEF⁩ للتكسير الأولي و⁦PEX⁩ للتكسير الثانوي، من ⁦0.4⁩ طن/ساعة"
+              ],
+              "en": [
+                "3 compact crushers, 1–10 t/h, electric or diesel drive",
+                "8 PE and PEX models, 5–380 t/h, 15–150 mm product",
+                "12 heavy MC models from MC80 to MC200, 65–1460 t/h",
+                "PEF sizes for primary and PEX for secondary crushing, from 0.4 t/h"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦0.4⁠–⁠1460⁩ طن/ساعة"
+                },
+                {
+                  "label": "أقصى حجم تغذية",
+                  "value": "⁦80⁠–⁠1200⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦2.2⁠–⁠400⁩ كيلوواط"
+                },
+                {
+                  "label": "الإدارة",
+                  "value": "كهرباء أو ديزل (الموديلات الصغيرة)"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "0.4–1460 t/h"
+                },
+                {
+                  "label": "Max. feed size",
+                  "value": "80–1200 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "2.2–400 kW"
+                },
+                {
+                  "label": "Drive",
+                  "value": "Electric or diesel (compact models)"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/jaw-crushers/jaw-crushers.webp"
+            ],
+            "image": "/products/jaw-crushers/jaw-crushers.webp",
+            "cardImage": "/products/jaw-crushers/jaw-crushers.webp",
+            "seo": {
+              "title": {
+                "ar": "الكسارات الفكية 0.4–1460 طن/ساعة: PE وPEX وMC",
+                "en": "Jaw Crushers 0.4–1460 t/h: PE, PEX and MC"
+              },
+              "description": {
+                "ar": "كسارات فكية أولية لخام الذهب: موديلات صغيرة بالديزل أو الكهرباء، وسلاسل ⁦PE⁩ و⁦PEX⁩ و⁦PEF⁩، وسلسلة ⁦MC⁩ الثقيلة حتى ⁦1460⁩ طن/ساعة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Primary jaw crushers for gold ore: compact diesel or electric models, PE, PEX and PEF series, and the heavy MC series up to 1460 t/h. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كسارات فكية أولية من الموديلات الصغيرة حتى سلسلة ⁦MC⁩ الثقيلة، مع مقاسات ⁦PEF⁩ و⁦PEX⁩ إضافية. اختر من الجدول أدناه.",
+              "en": "Primary jaw crushers from compact models up to the heavy MC series, with additional PEF and PEX sizes. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين PE وPEX وPEF؟",
+                  "a": "⁦PE⁩ و⁦PEF⁩ للتكسير الأولي الخشن بفتحات تغذية كبيرة، و⁦PEX⁩ للتكسير الثانوي الناعم بفتحة ضيقة وطويلة وناتج أصغر. أرسل لنا أكبر حجم للخام والطاقة المطلوبة لنحدد الموديل."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the difference between PE, PEX and PEF?",
+                  "a": "PE and PEF are for coarse primary crushing with large feed openings; PEX is for fine secondary crushing with a narrow, long opening and a smaller product. Send us your largest ore size and the capacity you need and we set the model."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "31",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦0.4⁠–⁠1460⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦2.2⁠–⁠400⁩ كيلوواط",
+                  "label": "القدرة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "31",
+                  "label": "Models"
+                },
+                {
+                  "value": "0.4–1460 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "2.2–400 kW",
+                  "label": "Power"
+                }
+              ]
+            }
+          },
+          {
+            "id": "gyratory-impact-crushers",
+            "name": {
+              "ar": "الكسارات الدوّارة والصدمية",
+              "en": "Gyratory & Impact Crushers"
+            },
+            "coverImage": "/products/gyratory-impact-crushers/gyratory-impact-crushers.webp",
+            "description": {
+              "ar": "كسارات دوّارة ⁦MG⁩ لمحطات التكسير الأولي الكبيرة جداً، وكسارات صدمية أفقية العمود ⁦MIM⁩ و⁦PF⁩ و⁦PFW⁩ للخام متوسط الصلابة ولناتج مكعّب الشكل، مع كسارات ⁦PF⁩ صغيرة وكسارة ⁦MFD⁩ الناعمة للمحطات المدمجة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "MG gyratory crushers for very large primary stations, and MIM, PF and PFW horizontal-shaft impact crushers for medium-hard ore and a cubical product, plus small PF crushers and the MFD fine impact crusher for compact plants.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦5⁩ كسارات دوّارة ⁦MG⁩ بحجم تغذية ⁦1066⁠–⁠1525⁩ مم وطاقة قصوى حتى ⁦17,000⁩ طن/ساعة",
+                "⁦8⁩ كسارات صدمية ⁦MIM⁩ بقدرة مركّبة ⁦220⁠–⁠1000⁩ كيلوواط",
+                "⁦10⁩ كسارات ⁦PF⁩ و⁦PFW⁩ بطاقة ⁦15⁠–⁠800⁩ طن/ساعة",
+                "⁦5⁩ مقاسات إضافية ⁦PF⁩ و⁦MFD⁩ من ⁦4⁩ طن/ساعة للخامات غير الكاشطة"
+              ],
+              "en": [
+                "5 MG gyratory crushers, 1066–1525 mm feed, up to 17,000 t/h maximum capacity",
+                "8 MIM impact crushers, 220–1000 kW installed power",
+                "10 PF and PFW impact crushers, 15–800 t/h",
+                "5 additional PF and MFD sizes from 4 t/h for non-abrasive ores"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة (صدمية)",
+                  "value": "⁦4⁠–⁠800⁩ طن/ساعة"
+                },
+                {
+                  "label": "الطاقة القصوى (دوّارة)",
+                  "value": "⁦5250⁠–⁠17,000⁩ طن/ساعة"
+                },
+                {
+                  "label": "أقصى حجم تغذية",
+                  "value": "⁦100⁠–⁠1525⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦7.5⁠–⁠1500⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity (impact)",
+                  "value": "4–800 t/h"
+                },
+                {
+                  "label": "Max. capacity (gyratory)",
+                  "value": "5250–17,000 t/h"
+                },
+                {
+                  "label": "Max. feed size",
+                  "value": "100–1525 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "7.5–1500 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/gyratory-impact-crushers/gyratory-impact-crushers.webp"
+            ],
+            "image": "/products/gyratory-impact-crushers/gyratory-impact-crushers.webp",
+            "cardImage": "/products/gyratory-impact-crushers/gyratory-impact-crushers.webp",
+            "seo": {
+              "title": {
+                "ar": "الكسارات الدوّارة MG والصدمية MIM وPF وPFW",
+                "en": "MG Gyratory and MIM, PF, PFW Impact Crushers"
+              },
+              "description": {
+                "ar": "كسارات دوّارة ⁦MG⁩ حتى ⁦17,000⁩ طن/ساعة لمحطات التكسير الأولي، وكسارات صدمية ⁦MIM⁩ و⁦PF⁩ و⁦PFW⁩ و⁦MFD⁩ من ⁦4⁩ إلى ⁦800⁩ طن/ساعة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "MG gyratory crushers up to 17,000 t/h for primary stations, and MIM, PF, PFW and MFD impact crushers from 4 to 800 t/h. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كسارات دوّارة ⁦MG⁩ للتكسير الأولي الكبير، وكسارات صدمية ⁦MIM⁩ و⁦PF⁩ و⁦PFW⁩ و⁦MFD⁩. اختر من الجدول أدناه.",
+              "en": "MG gyratory crushers for large primary crushing, and MIM, PF, PFW and MFD impact crushers. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "متى أختار الكسارة الصدمية بدل الفكية؟",
+                  "a": "الكسارة الصدمية تعطي ناتجاً مكعّباً ونسبة تكسير أعلى، وتناسب الخام متوسط الصلابة وغير الكاشط. للكوارتز الصلب الكاشط تبقى الفكية أو المخروطية أنسب. أرسل لنا صلابة الخام وحجم التغذية لنحدد النوع."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "When do I choose an impact crusher over a jaw crusher?",
+                  "a": "An impact crusher gives a cubical product and a higher reduction ratio, and suits medium-hard, non-abrasive ore. For hard, abrasive quartz a jaw or cone crusher is the better choice. Send us the ore hardness and feed size and we set the type."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "28",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "حتى ⁦17,000⁩ طن/ساعة",
+                  "label": "أقصى طاقة"
+                },
+                {
+                  "value": "⁦7.5⁠–⁠1500⁩ كيلوواط",
+                  "label": "القدرة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "28",
+                  "label": "Models"
+                },
+                {
+                  "value": "Up to 17,000 t/h",
+                  "label": "Max. capacity"
+                },
+                {
+                  "value": "7.5–1500 kW",
+                  "label": "Power"
+                }
+              ]
+            }
+          },
+          {
+            "id": "c-series-jaw-gyratory-impact-crushers",
+            "name": {
+              "ar": "كسارات فكية ودوّارة وصدمية – السلسلة C",
+              "en": "C-Series Jaw, Gyratory & Impact Crushers"
+            },
+            "coverImage": "/products/c-series-jaw-gyratory-impact-crushers/c-series-jaw-gyratory-impact-crushers.webp",
+            "description": {
+              "ar": "كسارات فكية من السلسلة ⁦C⁩ للخام الصلب الكاشط من ⁦80⁩ إلى ⁦1510⁩ طن/ساعة، وكسارات دوّارة ⁦PXZ⁩ لمحطات التكسير الأولي الكبيرة، وكسارات صدمية ⁦P6S⁩ الهيدروليكية و⁦PF⁩.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "C-series jaw crushers for hard, abrasive ore from 80 to 1510 t/h, PXZ gyratory crushers for large primary stations, and P6S hydraulic and PF impact crushers.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦13⁩ كسارة فكية ⁦C⁩ و⁦CJ⁩ بفتحة تغذية حتى ⁦1500 × 2000⁩ مم",
+                "⁦6⁩ كسارات دوّارة ⁦PXZ⁩ بطاقة ⁦310⁠–⁠1720⁩ طن/ساعة",
+                "⁦8⁩ كسارات صدمية هيدروليكية ⁦P6S⁩ بطاقة ⁦100⁠–⁠700⁩ طن/ساعة",
+                "⁦10⁩ كسارات صدمية ⁦PF⁩ بطاقة ⁦15⁠–⁠800⁩ طن/ساعة"
+              ],
+              "en": [
+                "13 C and CJ jaw crushers with feed openings up to 1500 × 2000 mm",
+                "6 PXZ gyratory crushers, 310–1720 t/h",
+                "8 P6S hydraulic impact crushers, 100–700 t/h",
+                "10 PF impact crushers, 15–800 t/h"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦15⁠–⁠1720⁩ طن/ساعة"
+                },
+                {
+                  "label": "أقصى حجم تغذية",
+                  "value": "⁦250⁠–⁠1200⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦37⁠–⁠710⁩ كيلوواط"
+                },
+                {
+                  "label": "السلاسل",
+                  "value": "⁦C · CJ · PXZ · P6S · PF⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "15–1720 t/h"
+                },
+                {
+                  "label": "Max. feed size",
+                  "value": "250–1200 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "37–710 kW"
+                },
+                {
+                  "label": "Series",
+                  "value": "C · CJ · PXZ · P6S · PF"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/c-series-jaw-gyratory-impact-crushers/c-series-jaw-gyratory-impact-crushers.webp"
+            ],
+            "image": "/products/c-series-jaw-gyratory-impact-crushers/c-series-jaw-gyratory-impact-crushers.webp",
+            "cardImage": "/products/c-series-jaw-gyratory-impact-crushers/c-series-jaw-gyratory-impact-crushers.webp",
+            "seo": {
+              "title": {
+                "ar": "كسارات فكية C ودوّارة PXZ وصدمية P6S وPF",
+                "en": "C-Series Jaw, PXZ Gyratory, P6S and PF Impact Crushers"
+              },
+              "description": {
+                "ar": "كسارات فكية من السلسلة ⁦C⁩ حتى ⁦1510⁩ طن/ساعة، وكسارات دوّارة ⁦PXZ⁩ حتى ⁦1720⁩ طن/ساعة، وكسارات صدمية ⁦P6S⁩ و⁦PF⁩. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "C-series jaw crushers up to 1510 t/h, PXZ gyratory crushers up to 1720 t/h, and P6S and PF impact crushers. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كسارات فكية من السلسلة ⁦C⁩، وكسارات دوّارة ⁦PXZ⁩، وكسارات صدمية ⁦P6S⁩ و⁦PF⁩. اختر من الجدول أدناه.",
+              "en": "C-series jaw crushers, PXZ gyratory crushers, and P6S and PF impact crushers. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل تناسب كسارات السلسلة C الخام الكاشط؟",
+                  "a": "نعم، صُممت كسارات ⁦C⁩ و⁦CJ⁩ الفكية للخام الصلب الكاشط في مرحلة التكسير الأولي. أرسل لنا أكبر حجم للخام والطاقة المطلوبة وفتحة التفريغ لنحدد المقاس."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Do C-series crushers suit abrasive ore?",
+                  "a": "Yes. The C and CJ jaw crushers are built for hard, abrasive ore at the primary stage. Send us your largest ore size, the capacity you need and the discharge setting and we set the size."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "37",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦15⁠–⁠1720⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦37⁠–⁠710⁩ كيلوواط",
+                  "label": "القدرة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "37",
+                  "label": "Models"
+                },
+                {
+                  "value": "15–1720 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "37–710 kW",
+                  "label": "Power"
+                }
+              ]
+            }
+          },
+          {
+            "id": "hydraulic-cone-crushers",
+            "name": {
+              "ar": "الكسارات المخروطية الهيدروليكية",
+              "en": "Hydraulic Cone Crushers"
+            },
+            "coverImage": "/products/hydraulic-cone-crushers/hydraulic-cone-crushers.webp",
+            "description": {
+              "ar": "كسارات مخروطية هيدروليكية متعددة الأسطوانات ⁦MHP⁩ وأحادية الأسطوانة ⁦MGP⁩ للتكسير الثانوي والثالثي، مع ضبط هيدروليكي لفتحة التفريغ وحماية من الحمل الزائد.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Multi-cylinder (MHP) and single-cylinder (MGP) hydraulic cone crushers for secondary and tertiary crushing, with hydraulic setting adjustment and overload protection.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦10⁩ موديلات ⁦MHP⁩ متعددة الأسطوانات بطاقة ⁦50⁠–⁠1220⁩ طن/ساعة",
+                "⁦8⁩ موديلات ⁦MGP⁩ أحادية الأسطوانة بطاقة ⁦40⁠–⁠1060⁩ طن/ساعة",
+                "ضبط هيدروليكي لفتحة التفريغ من ⁦6⁩ إلى ⁦80⁩ مم",
+                "حماية هيدروليكية من الحمل الزائد"
+              ],
+              "en": [
+                "10 multi-cylinder MHP models, 50–1220 t/h",
+                "8 single-cylinder MGP models, 40–1060 t/h",
+                "Hydraulic discharge setting from 6 to 80 mm",
+                "Hydraulic overload protection"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦40⁠–⁠1220⁩ طن/ساعة"
+                },
+                {
+                  "label": "أقصى حجم تغذية",
+                  "value": "⁦135⁠–⁠440⁩ مم"
+                },
+                {
+                  "label": "فتحة التفريغ",
+                  "value": "⁦6⁠–⁠80⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦90⁠–⁠630⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "40–1220 t/h"
+                },
+                {
+                  "label": "Max. feed size",
+                  "value": "135–440 mm"
+                },
+                {
+                  "label": "Discharge opening",
+                  "value": "6–80 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "90–630 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/hydraulic-cone-crushers/hydraulic-cone-crushers.webp"
+            ],
+            "image": "/products/hydraulic-cone-crushers/hydraulic-cone-crushers.webp",
+            "cardImage": "/products/hydraulic-cone-crushers/hydraulic-cone-crushers.webp",
+            "seo": {
+              "title": {
+                "ar": "الكسارات المخروطية الهيدروليكية MHP وMGP",
+                "en": "MHP and MGP Hydraulic Cone Crushers"
+              },
+              "description": {
+                "ar": "كسارات مخروطية هيدروليكية متعددة الأسطوانات ⁦MHP⁩ وأحادية الأسطوانة ⁦MGP⁩ من ⁦40⁩ إلى ⁦1220⁩ طن/ساعة للتكسير الثانوي والثالثي. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "MHP multi-cylinder and MGP single-cylinder hydraulic cone crushers from 40 to 1220 t/h for secondary and tertiary crushing. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كسارات مخروطية هيدروليكية ⁦MHP⁩ و⁦MGP⁩ للتكسير الثانوي والثالثي. اختر من الجدول أدناه.",
+              "en": "MHP and MGP hydraulic cone crushers for secondary and tertiary crushing. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين المتعددة الأسطوانات والأحادية؟",
+                  "a": "المتعددة الأسطوانات (⁦MHP⁩) تعطي طاقة أعلى لنفس الحجم وتناسب التكسير الناعم، والأحادية (⁦MGP⁩) أبسط في التصميم والصيانة وتقبل تغذية أكبر. أرسل لنا حجم التغذية والناتج المطلوب لنحدد الموديل."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the difference between multi-cylinder and single-cylinder?",
+                  "a": "Multi-cylinder (MHP) crushers give more capacity for the same size and suit fine crushing; single-cylinder (MGP) crushers are simpler to maintain and take a larger feed. Send us the feed size and product you need and we set the model."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "18",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦40⁠–⁠1220⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦90⁠–⁠630⁩ كيلوواط",
+                  "label": "القدرة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "18",
+                  "label": "Models"
+                },
+                {
+                  "value": "40–1220 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "90–630 kW",
+                  "label": "Power"
+                }
+              ]
+            }
+          },
+          {
+            "id": "single-cylinder-cone-crushers",
+            "name": {
+              "ar": "الكسارات المخروطية أحادية الأسطوانة",
+              "en": "Single-Cylinder Cone Crushers"
+            },
+            "coverImage": "/products/single-cylinder-cone-crushers/single-cylinder-cone-crushers.webp",
+            "description": {
+              "ar": "كسارات مخروطية أحادية الأسطوانة: موديلات ⁦MCS⁩ للتكسير الثانوي وموديلات ⁦MCH⁩ للتكسير الناعم والثالثي، بطاقة من ⁦27⁩ إلى ⁦2181⁩ طن/ساعة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Single-cylinder cone crushers: MCS models for secondary crushing and MCH models for fine and tertiary crushing, covering 27 to 2181 t/h.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦16⁩ موديلاً من سلسلتي ⁦MCS⁩ و⁦MCH⁩",
+                "⁦MCS⁩ للتكسير الثانوي بتغذية حتى ⁦560⁩ مم",
+                "⁦MCH⁩ للتكسير الناعم والثالثي بفتحة تفريغ من ⁦4⁩ مم",
+                "قدرة ⁦90⁠–⁠750⁩ كيلوواط ووزن ⁦5.3⁠–⁠97⁩ طناً"
+              ],
+              "en": [
+                "16 models in the MCS and MCH series",
+                "MCS for secondary crushing with feed up to 560 mm",
+                "MCH for fine and tertiary crushing with discharge from 4 mm",
+                "90–750 kW power and 5.3–97 t weight"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦27⁠–⁠2181⁩ طن/ساعة"
+                },
+                {
+                  "label": "أقصى حجم تغذية",
+                  "value": "⁦108⁠–⁠560⁩ مم"
+                },
+                {
+                  "label": "فتحة التفريغ",
+                  "value": "⁦4⁠–⁠83⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦90⁠–⁠750⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "27–2181 t/h"
+                },
+                {
+                  "label": "Max. feed size",
+                  "value": "108–560 mm"
+                },
+                {
+                  "label": "Discharge opening",
+                  "value": "4–83 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "90–750 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/single-cylinder-cone-crushers/single-cylinder-cone-crushers.webp"
+            ],
+            "image": "/products/single-cylinder-cone-crushers/single-cylinder-cone-crushers.webp",
+            "cardImage": "/products/single-cylinder-cone-crushers/single-cylinder-cone-crushers.webp",
+            "seo": {
+              "title": {
+                "ar": "الكسارات المخروطية أحادية الأسطوانة MCS وMCH",
+                "en": "MCS and MCH Single-Cylinder Cone Crushers"
+              },
+              "description": {
+                "ar": "كسارات مخروطية أحادية الأسطوانة ⁦MCS⁩ و⁦MCH⁩ من ⁦27⁩ إلى ⁦2181⁩ طن/ساعة للتكسير الثانوي والناعم. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "MCS and MCH single-cylinder cone crushers from 27 to 2181 t/h for secondary and fine crushing. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كسارات مخروطية أحادية الأسطوانة ⁦MCS⁩ للتكسير الثانوي و⁦MCH⁩ للناعم. اختر من الجدول أدناه.",
+              "en": "Single-cylinder MCS cone crushers for secondary and MCH for fine crushing. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل أحتاج MCS أم MCH؟",
+                  "a": "⁦MCS⁩ للمرحلة الثانوية بعد الكسارة الفكية وتقبل تغذية أكبر، و⁦MCH⁩ للمرحلة الثالثية والناعمة قبل الطحن. أرسل لنا ناتج الكسارة الأولية والمقاس المطلوب لنحدد الموديل."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Do I need MCS or MCH?",
+                  "a": "MCS is for the secondary stage after the jaw crusher and takes a larger feed; MCH is for the tertiary and fine stage before grinding. Send us the primary crusher product and the size you need and we set the model."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "16",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦27⁠–⁠2181⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦90⁠–⁠750⁩ كيلوواط",
+                  "label": "القدرة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "16",
+                  "label": "Models"
+                },
+                {
+                  "value": "27–2181 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "90–750 kW",
+                  "label": "Power"
+                }
+              ]
+            }
+          },
+          {
+            "id": "symons-spring-cone-crushers",
+            "name": {
+              "ar": "كسارات سيمونز والمخروطية النابضية",
+              "en": "Symons & Spring Cone Crushers"
+            },
+            "coverImage": "/products/symons-spring-cone-crushers/symons-spring-cone-crushers.webp",
+            "description": {
+              "ar": "كسارات مخروطية بتحرير نابضي وتجاويف خشنة ومتوسطة وناعمة، سهلة الصيانة في المواقع البعيدة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Spring-relief cone crushers with coarse, medium and fine cavities, simple to maintain on remote sites.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦6⁩ كسارات ⁦CS⁩ بقطر مخروط حتى ⁦7⁩ أقدام وطاقة ⁦27⁠–⁠1814⁩ طن/ساعة",
+                "⁦14⁩ كسارة ⁦PY⁩ نابضية بتجويف ⁦B⁩ خشن و⁦Z⁩ متوسط و⁦D⁩ ناعم",
+                "فتحة تفريغ من ⁦3⁩ إلى ⁦64⁩ مم",
+                "تصميم بسيط سهل الصيانة في المواقع البعيدة"
+              ],
+              "en": [
+                "6 CS crushers with cone diameter up to 7 ft, 27–1814 t/h",
+                "14 PY spring cone crushers with B coarse, Z medium and D fine cavities",
+                "Discharge setting from 3 to 64 mm",
+                "Simple design, easy to maintain on remote sites"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦5⁠–⁠1814⁩ طن/ساعة"
+                },
+                {
+                  "label": "أقصى حجم تغذية",
+                  "value": "⁦35⁠–⁠314⁩ مم"
+                },
+                {
+                  "label": "ضبط التفريغ",
+                  "value": "⁦3⁠–⁠64⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦30⁠–⁠315⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "5–1814 t/h"
+                },
+                {
+                  "label": "Max. feed size",
+                  "value": "35–314 mm"
+                },
+                {
+                  "label": "Discharge setting",
+                  "value": "3–64 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "30–315 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/symons-spring-cone-crushers/symons-spring-cone-crushers.webp"
+            ],
+            "image": "/products/symons-spring-cone-crushers/symons-spring-cone-crushers.webp",
+            "cardImage": "/products/symons-spring-cone-crushers/symons-spring-cone-crushers.webp",
+            "seo": {
+              "title": {
+                "ar": "كسارات مخروطية نابضية CS وPY",
+                "en": "CS and PY Spring Cone Crushers"
+              },
+              "description": {
+                "ar": "كسارات مخروطية نابضية ⁦CS⁩ و⁦PY⁩ من ⁦5⁩ إلى ⁦1814⁩ طن/ساعة بتجاويف خشنة ومتوسطة وناعمة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "CS and PY spring cone crushers from 5 to 1814 t/h with coarse, medium and fine cavities. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كسارات مخروطية نابضية ⁦CS⁩ و⁦PY⁩ بتجاويف خشنة ومتوسطة وناعمة. اختر من الجدول أدناه.",
+              "en": "CS and PY spring cone crushers with coarse, medium and fine cavities. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا أختار كسارة مخروطية نابضية؟",
+                  "a": "نظام النوابض يحمي الكسارة عند دخول قطع غير قابلة للتكسير، وتصميمها أبسط من الهيدروليكية فتسهل صيانتها في المواقع البعيدة. اختر التجويف حسب حجم التغذية: ⁦B⁩ للخشن و⁦Z⁩ للمتوسط و⁦D⁩ للناعم."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why choose a spring cone crusher?",
+                  "a": "The springs protect the crusher when uncrushable pieces enter, and the design is simpler than a hydraulic one, so it is easier to maintain on remote sites. Choose the cavity by feed size: B coarse, Z medium, D fine."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "20",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦5⁠–⁠1814⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦30⁠–⁠315⁩ كيلوواط",
+                  "label": "القدرة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "20",
+                  "label": "Models"
+                },
+                {
+                  "value": "5–1814 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "30–315 kW",
+                  "label": "Power"
+                }
+              ]
+            }
+          },
+          {
+            "id": "gp-hps-hydraulic-cone-crushers",
+            "name": {
+              "ar": "الكسارات المخروطية الهيدروليكية GP وHPS",
+              "en": "GP & HPS Hydraulic Cone Crushers"
+            },
+            "coverImage": "/products/gp-hps-hydraulic-cone-crushers/gp-hps-hydraulic-cone-crushers.webp",
+            "description": {
+              "ar": "كسارات مخروطية أحادية الأسطوانة ⁦GP⁩ ومتعددة الأسطوانات ⁦HPS⁩ للتكسير الثانوي والثالثي، مع ضبط هيدروليكي لفتحة التفريغ وحماية من الحمل الزائد وتجاويف من الخشن إلى الناعم.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Single-cylinder GP and multi-cylinder HPS cone crushers for secondary and tertiary crushing, with hydraulic discharge adjustment, overload protection and coarse to fine cavities.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦7⁩ موديلات ⁦GP⁩ بتجويف خشن جداً (⁦S⁩) بطاقة ⁦80⁠–⁠1200⁩ طن/ساعة",
+                "⁦7⁩ موديلات ⁦GP⁩ بتجاويف خشنة ومتوسطة وناعمة",
+                "⁦5⁩ موديلات ⁦HPS⁩ متعددة الأسطوانات بطاقة ⁦90⁠–⁠1200⁩ طن/ساعة",
+                "ضبط هيدروليكي للتفريغ وحماية من الحمل الزائد"
+              ],
+              "en": [
+                "7 GP models with extra-coarse (S) cavity, 80–1200 t/h",
+                "7 GP models with coarse, medium and fine cavities",
+                "5 multi-cylinder HPS models, 90–1200 t/h",
+                "Hydraulic discharge adjustment and overload protection"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦80⁠–⁠1200⁩ طن/ساعة"
+                },
+                {
+                  "label": "أقصى حجم تغذية",
+                  "value": "⁦60⁠–⁠560⁩ مم"
+                },
+                {
+                  "label": "ضبط التفريغ (S)",
+                  "value": "⁦25⁠–⁠130⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦90⁠–⁠630⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "80–1200 t/h"
+                },
+                {
+                  "label": "Max. feed size",
+                  "value": "60–560 mm"
+                },
+                {
+                  "label": "Discharge setting (S)",
+                  "value": "25–130 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "90–630 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/gp-hps-hydraulic-cone-crushers/gp-hps-hydraulic-cone-crushers.webp"
+            ],
+            "image": "/products/gp-hps-hydraulic-cone-crushers/gp-hps-hydraulic-cone-crushers.webp",
+            "cardImage": "/products/gp-hps-hydraulic-cone-crushers/gp-hps-hydraulic-cone-crushers.webp",
+            "seo": {
+              "title": {
+                "ar": "الكسارات المخروطية الهيدروليكية GP وHPS",
+                "en": "GP and HPS Hydraulic Cone Crushers"
+              },
+              "description": {
+                "ar": "كسارات مخروطية هيدروليكية ⁦GP⁩ أحادية الأسطوانة و⁦HPS⁩ متعددة الأسطوانات من ⁦80⁩ إلى ⁦1200⁩ طن/ساعة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "GP single-cylinder and HPS multi-cylinder hydraulic cone crushers from 80 to 1200 t/h. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كسارات مخروطية هيدروليكية ⁦GP⁩ أحادية الأسطوانة و⁦HPS⁩ متعددة الأسطوانات. اختر من الجدول أدناه.",
+              "en": "GP single-cylinder and HPS multi-cylinder hydraulic cone crushers. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما التجويف S في كسارات GP؟",
+                  "a": "التجويف ⁦S⁩ خشن جداً ويقبل تغذية أكبر (⁦200⁠–⁠560⁩ مم)، فيناسب المرحلة الثانوية مباشرة بعد الكسارة الفكية. التجاويف القياسية الخشنة والمتوسطة والناعمة للمراحل التالية."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the S cavity on GP crushers?",
+                  "a": "The S cavity is extra-coarse and takes a larger feed (200–560 mm), so it suits the secondary stage right after the jaw crusher. The standard coarse, medium and fine cavities are for the later stages."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "19",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦80⁠–⁠1200⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦90⁠–⁠630⁩ كيلوواط",
+                  "label": "القدرة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "19",
+                  "label": "Models"
+                },
+                {
+                  "value": "80–1200 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "90–630 kW",
+                  "label": "Power"
+                }
+              ]
+            }
+          },
+          {
+            "id": "vertical-shaft-impact-crushers",
+            "name": {
+              "ar": "الكسارات الصدمية ذات العمود الرأسي",
+              "en": "Vertical Shaft Impact Crushers"
+            },
+            "coverImage": "/products/vertical-shaft-impact-crushers/vertical-shaft-impact-crushers.webp",
+            "description": {
+              "ar": "كسارات صدمية رأسية العمود بتكسير صخر على صخر للتكسير الناعم وتحسين شكل الحبيبات، بمحركين ومحطات تزييت هيدروليكية.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Rock-on-rock VSI crushers for fine crushing and shaping, with dual motors and hydraulic lubrication stations.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "موديلان ⁦MVS⁩ بطاقة ⁦165⁠–⁠600⁩ طن/ساعة",
+                "⁦5⁩ موديلات ⁦VSI5X⁩ و⁦5⁩ موديلات ⁦VSI⁩ لصنع الرمل",
+                "تغذية شلالية ومركزية أو مركزية كاملة",
+                "محطة تزييت بمضختين مع مراقبة الاهتزاز ⁦0.1⁠–⁠20⁩ مم/ث"
+              ],
+              "en": [
+                "2 MVS models, 165–600 t/h",
+                "5 VSI5X and 5 VSI sand-making models",
+                "Cascade and centre feed, or full centre feed",
+                "Dual-pump lubrication station with vibration monitoring, 0.1–20 mm/s"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦60⁠–⁠849⁩ طن/ساعة"
+                },
+                {
+                  "label": "أقصى حجم تغذية",
+                  "value": "حتى ⁦60⁩ مم"
+                },
+                {
+                  "label": "المحركات",
+                  "value": "⁦2 × 55⁩ إلى ⁦2 × 315⁩ كيلوواط"
+                },
+                {
+                  "label": "سرعة الدوّار (VSI5X وVSI)",
+                  "value": "⁦900⁠–⁠1900⁩ دورة/دقيقة"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "60–849 t/h"
+                },
+                {
+                  "label": "Max. feed size",
+                  "value": "Up to 60 mm"
+                },
+                {
+                  "label": "Motors",
+                  "value": "2 × 55 to 2 × 315 kW"
+                },
+                {
+                  "label": "Rotor speed (VSI5X, VSI)",
+                  "value": "900–1900 r/min"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/vertical-shaft-impact-crushers/vertical-shaft-impact-crushers.webp"
+            ],
+            "image": "/products/vertical-shaft-impact-crushers/vertical-shaft-impact-crushers.webp",
+            "cardImage": "/products/vertical-shaft-impact-crushers/vertical-shaft-impact-crushers.webp",
+            "seo": {
+              "title": {
+                "ar": "الكسارات الصدمية رأسية العمود MVS وVSI5X وVSI",
+                "en": "MVS, VSI5X and VSI Vertical Shaft Impact Crushers"
+              },
+              "description": {
+                "ar": "كسارات صدمية رأسية العمود ⁦MVS⁩ و⁦VSI5X⁩ و⁦VSI⁩ من ⁦60⁩ إلى ⁦849⁩ طن/ساعة للتكسير الناعم وصنع الرمل. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "MVS, VSI5X and VSI vertical shaft impact crushers from 60 to 849 t/h for fine crushing and sand making. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كسارات صدمية رأسية العمود ⁦MVS⁩ و⁦VSI5X⁩ و⁦VSI⁩ للتكسير الناعم وصنع الرمل. اختر من الجدول أدناه.",
+              "en": "MVS, VSI5X and VSI vertical shaft impact crushers for fine crushing and sand making. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين التغذية الشلالية والمركزية؟",
+                  "a": "في التغذية المركزية الكاملة يمر كل الخام عبر الدوّار فيكون الناتج أنعم والطاقة أقل، وفي التغذية الشلالية والمركزية يلتف جزء من الخام حول الدوّار فترتفع الطاقة. الجدول يعطي الطاقة في الحالتين لكل موديل."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the difference between cascade and centre feed?",
+                  "a": "With full centre feed all the ore passes through the rotor, giving a finer product at lower capacity; with cascade and centre feed part of the ore bypasses the rotor and capacity rises. The table gives both capacities for each model."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "12",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦60⁠–⁠849⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "حتى ⁦630⁩ كيلوواط",
+                  "label": "القدرة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "12",
+                  "label": "Models"
+                },
+                {
+                  "value": "60–849 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "Up to 630 kW",
+                  "label": "Power"
+                }
+              ]
+            }
+          },
+          {
+            "id": "sand-makers-fine-crushers",
+            "name": {
+              "ar": "ماكينات صنع الرمل والكسارات الناعمة",
+              "en": "Sand Makers & Fine Crushers"
+            },
+            "coverImage": "/products/sand-makers-fine-crushers/sand-makers-fine-crushers.webp",
+            "description": {
+              "ar": "صانعات رمل رأسية العمود، وكسارات مركّبة رأسية، وكسارات أسطوانية هيدروليكية تنزل بالخام إلى أقل من ⁦5⁩ مم قبل الطحن، بطاقة من ⁦10⁩ إلى ⁦800⁩ طن/ساعة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Vertical-shaft sand makers, vertical compound crushers and hydraulic roller crushers that bring ore down to below 5 mm ahead of grinding, from 10 to 800 t/h.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦4⁩ صانعات رمل ⁦V6S⁩ بطاقة ⁦236⁠–⁠800⁩ طن/ساعة",
+                "⁦6⁩ كسارات مركّبة رأسية ⁦PFL⁩ بناتج < ⁦5⁩ مم (⁦80⁠–⁠95%⁩)",
+                "⁦7⁩ صانعات رمل بفتح هيدروليكي بطاقة ⁦20⁠–⁠300⁩ طن/ساعة",
+                "كسارات أسطوانية هيدروليكية ⁦2PGY⁩ بضبط ⁦1⁠–⁠20⁩ مم"
+              ],
+              "en": [
+                "4 V6S sand makers, 236–800 t/h",
+                "6 PFL vertical compound crushers, < 5 mm product (80–95%)",
+                "7 hydraulic-opening sand makers, 20–300 t/h",
+                "2PGY hydraulic roller crushers with 1–20 mm setting"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦10⁠–⁠800⁩ طن/ساعة"
+                },
+                {
+                  "label": "حجم التغذية",
+                  "value": "حتى ⁦190⁩ مم"
+                },
+                {
+                  "label": "حجم المنتج",
+                  "value": "< ⁦5⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦30⁠–⁠355⁩ كيلوواط (للمحرك)"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "10–800 t/h"
+                },
+                {
+                  "label": "Feed size",
+                  "value": "Up to 190 mm"
+                },
+                {
+                  "label": "Product size",
+                  "value": "< 5 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "30–355 kW (per motor)"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/sand-makers-fine-crushers/sand-makers-fine-crushers.webp"
+            ],
+            "image": "/products/sand-makers-fine-crushers/sand-makers-fine-crushers.webp",
+            "cardImage": "/products/sand-makers-fine-crushers/sand-makers-fine-crushers.webp",
+            "seo": {
+              "title": {
+                "ar": "ماكينات صنع الرمل والكسارات الناعمة حتى < 5 مم",
+                "en": "Sand Makers & Fine Crushers to < 5 mm"
+              },
+              "description": {
+                "ar": "صانعات رمل ⁦V6S⁩، وكسارات مركّبة ⁦PFL⁩، وصانعات رمل بفتح هيدروليكي، وكسارات أسطوانية ⁦2PGY⁩ من ⁦10⁩ إلى ⁦800⁩ طن/ساعة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "V6S sand makers, PFL compound crushers, hydraulic-opening sand makers and 2PGY roller crushers from 10 to 800 t/h. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "صانعات رمل وكسارات ناعمة تنزل بالخام إلى أقل من ⁦5⁩ مم قبل الطحن. اختر من الجدول أدناه.",
+              "en": "Sand makers and fine crushers that bring ore below 5 mm before grinding. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا أكسّر الخام ناعماً قبل الطحن؟",
+                  "a": "كلما صغر حجم التغذية الداخلة إلى طاحونة الكرات قلّ استهلاك الطاقة والكرات وزادت طاقة الطاحونة. أرسل لنا حجم الناتج من الكسارة السابقة والطاقة المطلوبة لنحدد الموديل."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why crush ore fine before grinding?",
+                  "a": "The smaller the feed to the ball mill, the lower the energy and ball consumption and the higher the mill capacity. Send us the product size of the previous crusher and the capacity you need and we set the model."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "4",
+                  "label": "سلاسل"
+                },
+                {
+                  "value": "⁦10⁠–⁠800⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "< ⁦5⁩ مم",
+                  "label": "حجم المنتج"
+                }
+              ],
+              "en": [
+                {
+                  "value": "4",
+                  "label": "Series"
+                },
+                {
+                  "value": "10–800 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "< 5 mm",
+                  "label": "Product size"
+                }
+              ]
+            }
+          },
+          {
+            "id": "hammer-crushers",
+            "name": {
+              "ar": "الكسارات المطرقية",
+              "en": "Hammer Crushers"
+            },
+            "coverImage": "/products/hammer-crushers/hammer-crushers.webp",
+            "description": {
+              "ar": "كسارات مطرقية بمرحلة واحدة تنزل بالخام الخام إلى مقاسات صغيرة في تمريرة واحدة، مناسبة لمحطات الذهب المدمجة، مع كسارات ⁦PCZ⁩ الثقيلة وموديلات ⁦PC⁩ أكبر حتى ⁦290⁩ طن/ساعة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Single-stage hammer crushers that take run-of-mine rock down to small sizes in one pass, well suited to compact gold plants, with heavy PCZ crushers and larger PC models up to 290 t/h.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦6⁩ كسارات ⁦PC⁩ بناتج < ⁦15⁩ مم وطاقة ⁦5⁠–⁠85⁩ طن/ساعة",
+                "⁦7⁩ كسارات ⁦PCZ⁩ ثقيلة بتغذية حتى ⁦1200⁩ مم وطاقة ⁦50⁠–⁠800⁩ طن/ساعة",
+                "⁦7⁩ مقاسات ⁦PC⁩ إضافية بطاقة ⁦12⁠–⁠290⁩ طن/ساعة",
+                "تكسير من الخام الخام إلى مقاس صغير في مرحلة واحدة"
+              ],
+              "en": [
+                "6 PC crushers, < 15 mm product, 5–85 t/h",
+                "7 heavy PCZ crushers, feed up to 1200 mm, 50–800 t/h",
+                "7 additional PC sizes, 12–290 t/h",
+                "Run-of-mine to small size in a single stage"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦5⁠–⁠800⁩ طن/ساعة"
+                },
+                {
+                  "label": "أقصى حجم تغذية",
+                  "value": "⁦100⁠–⁠1200⁩ مم"
+                },
+                {
+                  "label": "حجم الناتج (PC)",
+                  "value": "≤ ⁦15⁠–⁠25⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦11⁠–⁠630⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "5–800 t/h"
+                },
+                {
+                  "label": "Max. feed size",
+                  "value": "100–1200 mm"
+                },
+                {
+                  "label": "Product size (PC)",
+                  "value": "≤ 15–25 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "11–630 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/hammer-crushers/hammer-crushers.webp"
+            ],
+            "image": "/products/hammer-crushers/hammer-crushers.webp",
+            "cardImage": "/products/hammer-crushers/hammer-crushers.webp",
+            "seo": {
+              "title": {
+                "ar": "الكسارات المطرقية PC وPCZ حتى 800 طن/ساعة",
+                "en": "PC and PCZ Hammer Crushers up to 800 t/h"
+              },
+              "description": {
+                "ar": "كسارات مطرقية ⁦PC⁩ و⁦PCZ⁩ بمرحلة واحدة من ⁦5⁩ إلى ⁦800⁩ طن/ساعة لمحطات الذهب المدمجة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Single-stage PC and PCZ hammer crushers from 5 to 800 t/h for compact gold plants. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كسارات مطرقية ⁦PC⁩ و⁦PCZ⁩ بمرحلة واحدة للمحطات المدمجة. اختر من الجدول أدناه.",
+              "en": "Single-stage PC and PCZ hammer crushers for compact plants. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل تناسب الكسارة المطرقية خام الكوارتز؟",
+                  "a": "تناسب الكسارة المطرقية الخام متوسط الصلابة وتوفّر مرحلة تكسير كاملة في المحطات الصغيرة، لكن الكوارتز الصلب الكاشط يزيد تآكل المطارق. أرسل لنا صلابة الخام لنقترح الكسارة المطرقية أو الفكية."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Does a hammer crusher suit quartz ore?",
+                  "a": "A hammer crusher suits medium-hard ore and saves a whole crushing stage in small plants, but hard, abrasive quartz wears the hammers faster. Send us the ore hardness and we suggest a hammer or a jaw crusher."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "20",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦5⁠–⁠800⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦11⁠–⁠630⁩ كيلوواط",
+                  "label": "القدرة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "20",
+                  "label": "Models"
+                },
+                {
+                  "value": "5–800 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "11–630 kW",
+                  "label": "Power"
+                }
+              ]
+            }
+          },
+          {
+            "id": "fine-double-rotor-crushers",
+            "name": {
+              "ar": "الكسارات الناعمة ومزدوجة الدوّار",
+              "en": "Fine & Double-Rotor Crushers"
+            },
+            "coverImage": "/products/fine-double-rotor-crushers/fine-double-rotor-crushers.webp",
+            "description": {
+              "ar": "كسارات ناعمة تجهّز تغذية الطاحونة بمقاس ⁦3⁩ إلى ⁦15⁩ مم، فتخفف الحمل على طواحين الكرات وطواحين الحوض الرطب.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Fine crushers that prepare mill feed of 3 to 15 mm, reducing the load on ball mills and wet pan mills.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦8⁩ كسارات ناعمة ⁦PCX⁩ بناتج ≤ ⁦3⁠–⁠5⁩ مم لـ⁦85%⁩ من المنتج",
+                "⁦6⁩ كسارات مطرقية عكوسة ⁦PCK⁩ بناتج ≤ ⁦15⁩ مم",
+                "⁦7⁩ كسارات ⁦2PC⁩ مزدوجة الدوّار بتفريغ ≤ ⁦3⁩ مم",
+                "تقلل حمل طواحين الكرات وطواحين الحوض الرطب"
+              ],
+              "en": [
+                "8 PCX fine crushers, ≤ 3–5 mm for 85% of the product",
+                "6 PCK reversible hammer crushers, ≤ 15 mm product",
+                "7 2PC double-rotor crushers, ≤ 3 mm discharge",
+                "Lower load on ball mills and wet pan mills"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦15⁠–⁠350⁩ طن/ساعة"
+                },
+                {
+                  "label": "أقصى حجم تغذية",
+                  "value": "⁦80⁠–⁠200⁩ مم"
+                },
+                {
+                  "label": "حجم الناتج",
+                  "value": "≤ ⁦3⁠–⁠15⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦44⁠–⁠800⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "15–350 t/h"
+                },
+                {
+                  "label": "Max. feed size",
+                  "value": "80–200 mm"
+                },
+                {
+                  "label": "Product size",
+                  "value": "≤ 3–15 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "44–800 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/fine-double-rotor-crushers/fine-double-rotor-crushers.webp"
+            ],
+            "image": "/products/fine-double-rotor-crushers/fine-double-rotor-crushers.webp",
+            "cardImage": "/products/fine-double-rotor-crushers/fine-double-rotor-crushers.webp",
+            "seo": {
+              "title": {
+                "ar": "الكسارات الناعمة PCX وPCK و2PC لتغذية الطواحين",
+                "en": "PCX, PCK and 2PC Fine Crushers for Mill Feed"
+              },
+              "description": {
+                "ar": "كسارات ناعمة ⁦PCX⁩ وكسارات مطرقية عكوسة ⁦PCK⁩ ومزدوجة الدوّار ⁦2PC⁩ تجهّز تغذية ⁦3⁠–⁠15⁩ مم للطواحين. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "PCX fine crushers, PCK reversible and 2PC double-rotor hammer crushers that prepare 3–15 mm mill feed. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كسارات ناعمة ⁦PCX⁩ و⁦PCK⁩ و⁦2PC⁩ تجهّز تغذية الطاحونة. اختر من الجدول أدناه.",
+              "en": "PCX, PCK and 2PC fine crushers that prepare mill feed. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما ميزة الكسارة العكوسة PCK؟",
+                  "a": "يدور الدوّار في الاتجاهين، فتتآكل المطارق من الجانبين بالتساوي وتطول مدة استخدامها قبل التغيير، مع ناتج ≤ ⁦15⁩ مم من تغذية حتى ⁦140⁩ مم."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the advantage of the PCK reversible crusher?",
+                  "a": "The rotor runs in both directions, so the hammers wear evenly on both sides and last longer between changes, with a ≤ 15 mm product from feed up to 140 mm."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "21",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦15⁠–⁠350⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "≤ ⁦3⁠–⁠15⁩ مم",
+                  "label": "حجم الناتج"
+                }
+              ],
+              "en": [
+                {
+                  "value": "21",
+                  "label": "Models"
+                },
+                {
+                  "value": "15–350 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "≤ 3–15 mm",
+                  "label": "Product size"
+                }
+              ]
+            }
+          },
+          {
+            "id": "impact-fine-crushers",
+            "name": {
+              "ar": "الكسارات الصدمية الناعمة",
+              "en": "Impact Fine Crushers"
+            },
+            "coverImage": "/products/impact-fine-crushers/impact-fine-crushers.webp",
+            "description": {
+              "ar": "كسارات صدمية عالية النسبة تنزل بتغذية ⁦180⁩ مم إلى ⁦5⁠–⁠20⁩ مم في مرحلة واحدة قبل طواحين الكرات.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "High-reduction impact crushers that bring 180 mm feed down to 5–20 mm in one stage, ahead of ball mills.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦8⁩ موديلات ⁦PXJ⁩ من ⁦PXJ0806⁩",
+                "تغذية حتى ⁦180⁠–⁠190⁩ مم وناتج ⁦5⁠–⁠20⁩ مم",
+                "طاقة ⁦20⁠–⁠270⁩ طن/ساعة",
+                "مرحلة واحدة بدل مرحلتين قبل طاحونة الكرات"
+              ],
+              "en": [
+                "8 PXJ models from PXJ0806",
+                "Feed up to 180–190 mm, 5–20 mm product",
+                "20–270 t/h capacity",
+                "One stage instead of two before the ball mill"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦20⁠–⁠270⁩ طن/ساعة"
+                },
+                {
+                  "label": "أقصى حجم تغذية",
+                  "value": "⁦180⁠–⁠190⁩ مم"
+                },
+                {
+                  "label": "حجم الناتج",
+                  "value": "⁦5⁠–⁠20⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦37⁠–⁠190⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "20–270 t/h"
+                },
+                {
+                  "label": "Max. feed size",
+                  "value": "180–190 mm"
+                },
+                {
+                  "label": "Output size",
+                  "value": "5–20 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "37–190 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/impact-fine-crushers/impact-fine-crushers.webp"
+            ],
+            "image": "/products/impact-fine-crushers/impact-fine-crushers.webp",
+            "cardImage": "/products/impact-fine-crushers/impact-fine-crushers.webp",
+            "seo": {
+              "title": {
+                "ar": "الكسارات الصدمية الناعمة PXJ 20–270 طن/ساعة",
+                "en": "PXJ Impact Fine Crushers 20–270 t/h"
+              },
+              "description": {
+                "ar": "كسارات صدمية ناعمة عالية الكفاءة ⁦PXJ⁩ تنزل بتغذية ⁦180⁩ مم إلى ⁦5⁠–⁠20⁩ مم قبل طواحين الكرات. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "High-efficiency PXJ impact fine crushers that take 180 mm feed down to 5–20 mm ahead of ball mills. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كسارات صدمية ناعمة ⁦PXJ⁩ تنزل بالخام من ⁦180⁩ مم إلى ⁦5⁠–⁠20⁩ مم. اختر من الجدول أدناه.",
+              "en": "PXJ impact fine crushers that take ore from 180 mm down to 5–20 mm. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أين تقع كسارة PXJ في خط الإنتاج؟",
+                  "a": "بعد الكسارة الفكية مباشرة وقبل طاحونة الكرات، فتأخذ ناتج الفكية حتى ⁦180⁩ مم وتعطي ⁦5⁠–⁠20⁩ مم. أرسل لنا ناتج الكسارة الأولية والطاقة المطلوبة لنحدد الموديل."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Where does the PXJ crusher sit in the line?",
+                  "a": "Right after the jaw crusher and before the ball mill: it takes the jaw product up to 180 mm and gives 5–20 mm. Send us the primary crusher product and the capacity you need and we set the model."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "8",
+                  "label": "موديلات"
+                },
+                {
+                  "value": "⁦20⁠–⁠270⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦5⁠–⁠20⁩ مم",
+                  "label": "حجم الناتج"
+                }
+              ],
+              "en": [
+                {
+                  "value": "8",
+                  "label": "Models"
+                },
+                {
+                  "value": "20–270 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "5–20 mm",
+                  "label": "Output size"
+                }
+              ]
+            }
+          },
+          {
+            "id": "roller-crushers",
+            "name": {
+              "ar": "الكسارات الأسطوانية",
+              "en": "Roller Crushers"
+            },
+            "coverImage": "/products/roller-crushers/roller-crushers.webp",
+            "description": {
+              "ar": "كسارات مزدوجة الأسطوانة ورباعية الأسطوانات للتكسير الثانوي والناعم المضبوط بنسبة ناعم منخفضة، من ⁦2⁩ إلى ⁦350⁩ طن/ساعة، مع أسطوانات ملساء ⁦2PG⁩ ومسنّنة ⁦2PGC⁩.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Double-roll and four-roll crushers for controlled secondary and fine crushing with low fines, from 2 to 350 t/h, including smooth 2PG and toothed 2PGC rolls.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦11⁩ كسارة ⁦2PG⁩ و⁦2PGY⁩ مزدوجة الأسطوانة بطاقة ⁦2⁠–⁠250⁩ طن/ساعة",
+                "⁦9⁩ كسارات رباعية الأسطوانات ⁦4PG⁩ بناتج ⁦0.2⁠–⁠10⁩ مم",
+                "أسطوانات مسنّنة ⁦2PGC⁩ للتكسير الخشن والمتوسط للخام الهش واللين",
+                "ناتج مضبوط بنسبة ناعم منخفضة"
+              ],
+              "en": [
+                "11 2PG and 2PGY double-roll crushers, 2–250 t/h",
+                "9 4PG four-roll crushers, 0.2–10 mm product",
+                "Toothed 2PGC rolls for coarse and medium crushing of brittle and soft ore",
+                "Controlled product with low fines"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦2⁠–⁠350⁩ طن/ساعة"
+                },
+                {
+                  "label": "قطر الأسطوانة",
+                  "value": "⁦400⁠–⁠1800⁩ مم"
+                },
+                {
+                  "label": "حجم التغذية",
+                  "value": "حتى ⁦800⁩ مم (⁦2PGC⁩)"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦11⁠–⁠440⁩ كيلوواط"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "2–350 t/h"
+                },
+                {
+                  "label": "Roll Ø",
+                  "value": "400–1800 mm"
+                },
+                {
+                  "label": "Feed size",
+                  "value": "Up to 800 mm (2PGC)"
+                },
+                {
+                  "label": "Power",
+                  "value": "11–440 kW"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/roller-crushers/roller-crushers.webp"
+            ],
+            "image": "/products/roller-crushers/roller-crushers.webp",
+            "cardImage": "/products/roller-crushers/roller-crushers.webp",
+            "seo": {
+              "title": {
+                "ar": "الكسارات الأسطوانية 2PG و2PGC و4PG",
+                "en": "2PG, 2PGC and 4PG Roller Crushers"
+              },
+              "description": {
+                "ar": "كسارات مزدوجة الأسطوانة ⁦2PG⁩ و⁦2PGY⁩ و⁦2PGC⁩ ورباعية ⁦4PG⁩ من ⁦2⁩ إلى ⁦350⁩ طن/ساعة للتكسير الثانوي والناعم. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "2PG, 2PGY and 2PGC double-roll and 4PG four-roll crushers from 2 to 350 t/h for secondary and fine crushing. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كسارات أسطوانية ⁦2PG⁩ و⁦2PGY⁩ و⁦2PGC⁩ و⁦4PG⁩ للتكسير المضبوط. اختر من الجدول أدناه.",
+              "en": "2PG, 2PGY, 2PGC and 4PG roller crushers for controlled crushing. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "متى أختار الكسارة الأسطوانية؟",
+                  "a": "حين تريد ناتجاً بمقاس مضبوط ونسبة ناعم قليلة، كتجهيز تغذية الغسيل أو الطحن. الأسطوانات الملساء للخام المتوسط، والمسنّنة ⁦2PGC⁩ للخام الهش واللين بتغذية كبيرة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "When do I choose a roller crusher?",
+                  "a": "When you want a product of controlled size with few fines, for example to prepare feed for washing or grinding. Smooth rolls suit medium ore; toothed 2PGC rolls suit brittle and soft ore with a large feed."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "25",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦2⁠–⁠350⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "⁦11⁠–⁠440⁩ كيلوواط",
+                  "label": "القدرة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "25",
+                  "label": "Models"
+                },
+                {
+                  "value": "2–350 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "11–440 kW",
+                  "label": "Power"
+                }
+              ]
+            }
+          },
+          {
+            "id": "mobile-crushing-plants",
+            "name": {
+              "ar": "محطات التكسير المتنقلة",
+              "en": "Mobile Crushing Plants"
+            },
+            "coverImage": "/products/mobile-crushing-plants/mobile-crushing-plants.webp",
+            "description": {
+              "ar": "محطات تكسير ذاتية الحركة لا تحتاج إلى تركيب أو تشغيل طويل، على جنزير أو عجلات، مبنية حول كسارات فكية أو صدمية أو مخروطية مع غرابيل مدمجة اختيارية.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Self-propelled crushing plants with minimal installation and commissioning, on crawler tracks or wheels, built around jaw, impact or cone crushers with optional on-board screens.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦16⁩ محطة على جنزير بكسارة فكية أو صدمية أو مخروطية",
+                "غربال مدمج اختياري في موديلات ⁦S⁩",
+                "هيكل جنزير هيدروليكي وإدارة مزدوجة ديزل وكهرباء",
+                "⁦7⁩ محطات فكية على عجلات بمغذٍّ هزاز وسير ناقل"
+              ],
+              "en": [
+                "16 crawler plants with jaw, impact or cone crusher",
+                "Optional on-board screen on the S models",
+                "Hydraulic crawler chassis with diesel–electric dual drive",
+                "7 wheel-mounted jaw plants with vibrating feeder and belt conveyor"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦40⁠–⁠520⁩ طن/ساعة"
+                },
+                {
+                  "label": "المحرك الرئيسي (جنزير)",
+                  "value": "⁦163⁠–⁠574⁩ كيلوواط"
+                },
+                {
+                  "label": "أقصى حجم تغذية (عجلات)",
+                  "value": "≤ ⁦400⁠–⁠680⁩ مم"
+                },
+                {
+                  "label": "طول النقل",
+                  "value": "⁦10⁠–⁠22⁩ م"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "40–520 t/h"
+                },
+                {
+                  "label": "Main engine (crawler)",
+                  "value": "163–574 kW"
+                },
+                {
+                  "label": "Max. feed size (wheel)",
+                  "value": "≤ 400–680 mm"
+                },
+                {
+                  "label": "Transport length",
+                  "value": "10–22 m"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/mobile-crushing-plants/mobile-crushing-plants.webp"
+            ],
+            "image": "/products/mobile-crushing-plants/mobile-crushing-plants.webp",
+            "cardImage": "/products/mobile-crushing-plants/mobile-crushing-plants.webp",
+            "seo": {
+              "title": {
+                "ar": "محطات التكسير المتنقلة على جنزير وعجلات",
+                "en": "Crawler and Wheel-Mounted Mobile Crushing Plants"
+              },
+              "description": {
+                "ar": "محطات تكسير متنقلة على جنزير بكسارات فكية وصدمية ومخروطية، ومحطات فكية على عجلات، من ⁦40⁩ إلى ⁦520⁩ طن/ساعة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Crawler mobile crushing plants with jaw, impact and cone crushers, and wheel-mounted jaw plants, from 40 to 520 t/h. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "محطات تكسير متنقلة على جنزير أو عجلات بكسارات فكية وصدمية ومخروطية. اختر من الجدول أدناه.",
+              "en": "Mobile crushing plants on crawlers or wheels with jaw, impact and cone crushers. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "متى أختار محطة متنقلة بدل الثابتة؟",
+                  "a": "حين تنتقل بين حفر أو مواقع متعددة، أو تريد البدء بسرعة دون أعمال مدنية. المحطة على جنزير تتحرك ذاتياً داخل الموقع، والمحطة على عجلات تُسحب بين المواقع."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "When do I choose a mobile plant over a fixed one?",
+                  "a": "When you move between several pits or sites, or want to start quickly without civil works. A crawler plant moves itself around the site; a wheel-mounted plant is towed between sites."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "23",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦40⁠–⁠520⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "جنزير أو عجلات",
+                  "label": "الهيكل"
+                }
+              ],
+              "en": [
+                {
+                  "value": "23",
+                  "label": "Models"
+                },
+                {
+                  "value": "40–520 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "Crawler or wheels",
+                  "label": "Chassis"
+                }
+              ]
+            }
+          },
+          {
+            "id": "tyre-crawler-mounted-crushing-plants",
+            "name": {
+              "ar": "محطات التكسير على إطارات وجنزير",
+              "en": "Tyre- & Crawler-Mounted Crushing Plants"
+            },
+            "coverImage": "/products/tyre-crawler-mounted-crushing-plants/tyre-crawler-mounted-crushing-plants.webp",
+            "description": {
+              "ar": "محطات تكسير وغربلة متنقلة فكية وصدمية ومخروطية تنتقل بين الحفر، وتعمل منفردة أو كخط متكامل، من ⁦50⁩ إلى ⁦650⁩ طن/ساعة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Mobile jaw, impact, cone and screening plants that move between pits and work alone or as a combined line, from 50 to 650 t/h.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "محطات على إطارات: فكية وصدمية ومخروطية ومركّبة",
+                "محطات على جنزير: فكية وصدمية ومخروطية وغربلة",
+                "خط مركّب من ⁦3⁩ أو ⁦4⁩ وحدات تعمل معاً",
+                "مولد اختياري ⁦160⁠–⁠300⁩ كيلوواط للمحطة الفكية على إطارات"
+              ],
+              "en": [
+                "Tyre-mounted plants: jaw, impact, cone and combined",
+                "Crawler plants: jaw, impact, cone and screening",
+                "Combined line of 3 or 4 units working together",
+                "Optional 160–300 kW genset on the tyre-mounted jaw plant"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الطاقة",
+                  "value": "⁦50⁠–⁠650⁩ طن/ساعة"
+                },
+                {
+                  "label": "أقصى حجم تغذية",
+                  "value": "⁦180⁠–⁠750⁩ مم"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦50⁠–⁠500⁩ كيلوواط"
+                },
+                {
+                  "label": "الوزن",
+                  "value": "⁦33⁠–⁠83⁩ طناً"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity",
+                  "value": "50–650 t/h"
+                },
+                {
+                  "label": "Max. feed size",
+                  "value": "180–750 mm"
+                },
+                {
+                  "label": "Power",
+                  "value": "50–500 kW"
+                },
+                {
+                  "label": "Weight",
+                  "value": "33–83 t"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/tyre-crawler-mounted-crushing-plants/tyre-crawler-mounted-crushing-plants.webp"
+            ],
+            "image": "/products/tyre-crawler-mounted-crushing-plants/tyre-crawler-mounted-crushing-plants.webp",
+            "cardImage": "/products/tyre-crawler-mounted-crushing-plants/tyre-crawler-mounted-crushing-plants.webp",
+            "seo": {
+              "title": {
+                "ar": "محطات التكسير والغربلة على إطارات وجنزير",
+                "en": "Tyre- and Crawler-Mounted Crushing & Screening Plants"
+              },
+              "description": {
+                "ar": "محطات تكسير وغربلة متنقلة فكية وصدمية ومخروطية على إطارات أو جنزير من ⁦50⁩ إلى ⁦650⁩ طن/ساعة، منفردة أو كخط متكامل. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Mobile jaw, impact, cone and screening plants on tyres or crawlers from 50 to 650 t/h, alone or as a combined line. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "محطات تكسير وغربلة متنقلة على إطارات وجنزير تعمل منفردة أو كخط متكامل. اختر من الجدول أدناه.",
+              "en": "Mobile crushing and screening plants on tyres and crawlers that work alone or as a combined line. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل يمكن ربط المحطات المتنقلة في خط واحد؟",
+                  "a": "نعم، تعمل ⁦3⁩ أو ⁦4⁩ وحدات معاً: فكية للتكسير الأولي، ثم مخروطية أو صدمية، ثم غربلة. أرسل لنا الطاقة وحجم الناتج المطلوب لنقترح تشكيلة الخط."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Can mobile plants be linked into one line?",
+                  "a": "Yes. 3 or 4 units work together: a jaw plant for primary crushing, then a cone or impact plant, then screening. Send us the capacity and product size you need and we propose the line."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "21",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦50⁠–⁠650⁩ طن/ساعة",
+                  "label": "الطاقة"
+                },
+                {
+                  "value": "8",
+                  "label": "أنواع محطات"
+                }
+              ],
+              "en": [
+                {
+                  "value": "21",
+                  "label": "Models"
+                },
+                {
+                  "value": "50–650 t/h",
+                  "label": "Capacity"
+                },
+                {
+                  "value": "8",
+                  "label": "Plant types"
                 }
               ]
             }

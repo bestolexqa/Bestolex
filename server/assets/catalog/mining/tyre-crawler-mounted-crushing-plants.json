@@ -1,0 +1,284 @@
+{
+  "id": "tyre-crawler-mounted-crushing-plants",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Models",
+        "ar": "الموديلات"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "feed",
+      "label": {
+        "en": "Max. feed size (mm)",
+        "ar": "أقصى حجم تغذية (مم)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "w",
+      "label": {
+        "en": "Weight (t)",
+        "ar": "الوزن (طن)"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "capacity",
+    "feed"
+  ],
+  "types": [
+    {
+      "id": "plants",
+      "label": {
+        "en": "Mobile crushing and screening plants",
+        "ar": "محطات التكسير والغربلة المتنقلة"
+      },
+      "models": [
+        {
+          "code": "BX-0018-02-001",
+          "name": {
+            "en": "Jaw plant on tyres",
+            "ar": "محطة فكية على عجلات"
+          },
+          "specs": {
+            "models": {
+              "en": "MJ-E69, MJ-E75, MJ-E912, MJ-C106, MJ-C116",
+              "ar": "⁦MJ-E69, MJ-E75, MJ-E912, MJ-C106, MJ-C116⁩"
+            },
+            "capacity": {
+              "en": "90–650",
+              "ar": "⁦90–650⁩"
+            },
+            "feed": {
+              "en": "480–750",
+              "ar": "⁦480–750⁩"
+            },
+            "power": {
+              "en": "Genset 160–300 (option)",
+              "ar": "مولد ⁦160⁠–⁠300⁩ (اختياري)"
+            },
+            "w": {
+              "en": "36–83",
+              "ar": "⁦36–83⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-02-002",
+          "name": {
+            "en": "Impact plant on tyres",
+            "ar": "محطة صدمية على عجلات"
+          },
+          "specs": {
+            "models": {
+              "en": "MJ-F1210, MJ-F1214, MJ-F1315",
+              "ar": "⁦MJ-F1210, MJ-F1214, MJ-F1315⁩"
+            },
+            "capacity": {
+              "en": "80–300",
+              "ar": "⁦80–300⁩"
+            },
+            "w": {
+              "en": "39–52",
+              "ar": "⁦39–52⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-02-003",
+          "name": {
+            "en": "Cone plant on tyres",
+            "ar": "محطة مخروطية على عجلات"
+          },
+          "specs": {
+            "models": {
+              "en": "MJ-CS75, MJ-CS160, MJ-H200, MJ-H300, MJ-8010",
+              "ar": "⁦MJ-CS75, MJ-CS160, MJ-H200, MJ-H300, MJ-8010⁩"
+            },
+            "capacity": {
+              "en": "50–320",
+              "ar": "⁦50–320⁩"
+            },
+            "w": {
+              "en": "34.5–50",
+              "ar": "⁦34.5–50⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-02-004",
+          "name": {
+            "en": "Combined plant on tyres",
+            "ar": "محطة مركّبة على عجلات"
+          },
+          "specs": {
+            "models": {
+              "en": "3 or 4 units working together",
+              "ar": "⁦3⁩ أو ⁦4⁩ وحدات تعمل معاً"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-02-005",
+          "name": {
+            "en": "Jaw plant on crawlers",
+            "ar": "محطة فكية على جنزير"
+          },
+          "specs": {
+            "models": {
+              "en": "MC-C106, MC-C116",
+              "ar": "⁦MC-C106, MC-C116⁩"
+            },
+            "capacity": {
+              "en": "140–600",
+              "ar": "⁦140–600⁩"
+            },
+            "feed": {
+              "en": "650–680",
+              "ar": "⁦650–680⁩"
+            },
+            "power": {
+              "en": "200–250",
+              "ar": "⁦200–250⁩"
+            },
+            "w": {
+              "en": "45–58",
+              "ar": "⁦45–58⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-02-006",
+          "name": {
+            "en": "Impact plant on crawlers",
+            "ar": "محطة صدمية على جنزير"
+          },
+          "specs": {
+            "models": {
+              "en": "MC-F250S, MC-F350S",
+              "ar": "⁦MC-F250S, MC-F350S⁩"
+            },
+            "capacity": {
+              "en": "150–400",
+              "ar": "⁦150–400⁩"
+            },
+            "feed": {
+              "en": "500–600",
+              "ar": "⁦500–600⁩"
+            },
+            "power": {
+              "en": "400–500",
+              "ar": "⁦400–500⁩"
+            },
+            "w": {
+              "en": "60–65",
+              "ar": "⁦60–65⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-02-007",
+          "name": {
+            "en": "Cone plant on crawlers",
+            "ar": "محطة مخروطية على جنزير"
+          },
+          "specs": {
+            "models": {
+              "en": "MC-H300S, MC-H400S",
+              "ar": "⁦MC-H300S, MC-H400S⁩"
+            },
+            "capacity": {
+              "en": "100–450",
+              "ar": "⁦100–450⁩"
+            },
+            "feed": {
+              "en": "180–210",
+              "ar": "⁦180–210⁩"
+            },
+            "power": {
+              "en": "350–500",
+              "ar": "⁦350–500⁩"
+            },
+            "w": {
+              "en": "58–65",
+              "ar": "⁦58–65⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-02-008",
+          "name": {
+            "en": "Screening plant on crawlers",
+            "ar": "محطة غربلة على جنزير"
+          },
+          "specs": {
+            "models": {
+              "en": "MC-S6018, MC-S7020",
+              "ar": "⁦MC-S6018, MC-S7020⁩"
+            },
+            "capacity": {
+              "en": "85–350",
+              "ar": "⁦85–350⁩"
+            },
+            "power": {
+              "en": "50–65",
+              "ar": "⁦50–65⁩"
+            },
+            "w": {
+              "en": "33–45",
+              "ar": "⁦33–45⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "50–650 t/h",
+        "ar": "⁦50⁠–⁠650⁩ طن/ساعة"
+      },
+      "countUnit": {
+        "ar": [
+          "محطة واحدة",
+          "محطتان",
+          "محطات"
+        ],
+        "en": [
+          "plant type",
+          "plant types"
+        ]
+      }
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 """Build the gold-mining section: family JSON files, product entries in data/products.json, images in
 public/products/<id>/ and the family registrations, one subpage per Bestolex catalogue. Run from this folder:
-    python3 build.py [--images BXC-02=<dir> --images BXC-03=<dir>]
+    python3 build.py [BXC-02=<dir>] [BXC-03=<dir>] [BXC-04=<dir>]
 Images are written only for the catalogues given (prepared cut-outs: prep_*.py); otherwise the files already in
 public/ are kept and only their paths are used."""
 import json, os, re, sys
 from lib import iso, write
-import bxc02_tables, bxc02_products, bxc03_tables, bxc03_products
+import bxc02_tables, bxc02_products, bxc03_tables, bxc03_products, bxc04_tables, bxc04_products
 from bxc02_products import SERVICE_AR, SERVICE_EN
 
 REPO = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../..'))
@@ -18,9 +18,9 @@ CATEGORY = {
     'description': {
         'ar': 'معدات تعدين الذهب على مراحل خط الإنتاج: التنقيب والحفر واستخراج الخام، ثم التكسير والطحن والغسيل والتركيز والمعالجة والصهر، مع المختبر ودعم الموقع. نورّد للمشاريع في الشرق الأوسط وأفريقيا بأكواد BX وجداول موديلات من كتالوجاتنا.',
         'en': 'Gold-mining equipment along the production line: exploration, drilling and ore extraction, then crushing, grinding, washing, concentration, processing and smelting, with laboratory and site support. We supply projects in the Middle East and Africa with BX codes and model tables from our catalogues.'},
-    'seo': {'title': {'ar': 'معدات تعدين الذهب: التنقيب والحفر ومستهلكات الحفر', 'en': 'Gold Mining Equipment: Exploration, Drilling and Drilling Consumables'},
-            'description': {'ar': 'معدات تعدين الذهب من بيستوليكس: أجهزة المسح والكشف، وحفارات الاستكشاف وDTH، والمثاقب الصخرية، والضواغط، ومطارق ولقم DTH وRC، وأدوات الحفر ومستهلكاته. التوريد للشرق الأوسط وأفريقيا.',
-                            'en': 'Gold-mining equipment from Bestolex: survey instruments and detectors, exploration and DTH rigs, rock drills, compressors, DTH and RC hammers and bits, and drilling tools and consumables. Supply to the Middle East and Africa.'}},
+    'seo': {'title': {'ar': 'معدات تعدين الذهب: التنقيب والحفر والتكسير', 'en': 'Gold Mining Equipment: Exploration, Drilling and Crushing'},
+            'description': {'ar': 'معدات تعدين الذهب من بيستوليكس: أجهزة المسح والكشف، وحفارات الاستكشاف وDTH، والضواغط، ومطارق ولقم DTH وRC ومستهلكات الحفر، والكسارات الفكية والمخروطية والصدمية والمطرقية ومحطات التكسير المتنقلة. التوريد للشرق الأوسط وأفريقيا.',
+                            'en': 'Gold-mining equipment from Bestolex: survey instruments and detectors, exploration and DTH rigs, compressors, DTH and RC hammers, bits and drilling consumables, and jaw, cone, impact and hammer crushers and mobile crushing plants. Supply to the Middle East and Africa.'}},
     'subcategories': [],
 }
 SUBPAGES = [
@@ -28,6 +28,8 @@ SUBPAGES = [
      bxc02_tables.F, bxc02_products.P),
     ('BXC-03', {'id': 'drilling-consumables', 'title': {'ar': 'مستهلكات الحفر', 'en': 'Drilling Consumables'}},
      bxc03_tables.F, bxc03_products.P),
+    ('BXC-04', {'id': 'crushing-grinding-screening', 'title': {'ar': 'التكسير والطحن والغربلة', 'en': 'Crushing, Grinding & Screening'}},
+     bxc04_tables.F, bxc04_products.P),
 ]
 
 def specs(rows):
@@ -47,7 +49,7 @@ EXTRA = {'metal-detectors-water-well-drill-rigs': ['i-004-010'],
          # cut out of the factory background; Chinese stickers and the maker's name removed (sup/hw in the work dir)
          'core-rc-exploration-drill-rigs': ['hw-gl', 'hw-b30', 'hw-rc']}
 PLACEHOLDER = set()
-PHOTO = {'dth-hammers-bits'}                         # scene photo: centre-cropped to a square, not letterboxed
+PHOTO = {'dth-hammers-bits', 'c-series-jaw-gyratory-impact-crushers'}                         # scene photo: centre-cropped to a square, not letterboxed
 
 
 def image_for(cat, pid, src, n=0):

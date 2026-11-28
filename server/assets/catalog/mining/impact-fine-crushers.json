@@ -1,0 +1,309 @@
+{
+  "id": "impact-fine-crushers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "feed-opening",
+      "label": {
+        "en": "Feed opening (mm)",
+        "ar": "فتحة التغذية (مم)"
+      }
+    },
+    {
+      "key": "max-feed-size",
+      "label": {
+        "en": "Max. feed size (mm)",
+        "ar": "أقصى حجم تغذية (مم)"
+      }
+    },
+    {
+      "key": "output-size",
+      "label": {
+        "en": "Output size (mm)",
+        "ar": "حجم الناتج (مم)"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    }
+  ],
+  "keyRows": [
+    "feed-opening",
+    "max-feed-size",
+    "output-size"
+  ],
+  "types": [
+    {
+      "id": "pxj",
+      "label": {
+        "en": "PXJ high-efficiency impact fine crushers",
+        "ar": "كسارات صدمية ناعمة عالية الكفاءة ⁦PXJ⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0021-01-014 / PXJ0806",
+          "name": {
+            "en": "PXJ0806",
+            "ar": "PXJ0806"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "500 × 250",
+              "ar": "⁦500 × 250⁩"
+            },
+            "max-feed-size": {
+              "en": "<180",
+              "ar": "⁦<180⁩"
+            },
+            "output-size": {
+              "en": "5–20",
+              "ar": "⁦5–20⁩"
+            },
+            "capacity": {
+              "en": "20–30",
+              "ar": "⁦20–30⁩"
+            },
+            "power": {
+              "en": "37",
+              "ar": "37"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-014 / PXJ0808",
+          "name": {
+            "en": "PXJ0808",
+            "ar": "PXJ0808"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "550 × 330",
+              "ar": "⁦550 × 330⁩"
+            },
+            "max-feed-size": {
+              "en": "<180",
+              "ar": "⁦<180⁩"
+            },
+            "output-size": {
+              "en": "5–20",
+              "ar": "⁦5–20⁩"
+            },
+            "capacity": {
+              "en": "35–40",
+              "ar": "⁦35–40⁩"
+            },
+            "power": {
+              "en": "45",
+              "ar": "45"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-014 / PXJ1010",
+          "name": {
+            "en": "PXJ1010",
+            "ar": "PXJ1010"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1000 × 350",
+              "ar": "⁦1000 × 350⁩"
+            },
+            "max-feed-size": {
+              "en": "<180",
+              "ar": "⁦<180⁩"
+            },
+            "output-size": {
+              "en": "5–20",
+              "ar": "⁦5–20⁩"
+            },
+            "capacity": {
+              "en": "45–55",
+              "ar": "⁦45–55⁩"
+            },
+            "power": {
+              "en": "55",
+              "ar": "55"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-014 / PXJ1210",
+          "name": {
+            "en": "PXJ1210",
+            "ar": "PXJ1210"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1200 × 400",
+              "ar": "⁦1200 × 400⁩"
+            },
+            "max-feed-size": {
+              "en": "<180",
+              "ar": "⁦<180⁩"
+            },
+            "output-size": {
+              "en": "5–20",
+              "ar": "⁦5–20⁩"
+            },
+            "capacity": {
+              "en": "80–110",
+              "ar": "⁦80–110⁩"
+            },
+            "power": {
+              "en": "75",
+              "ar": "75"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-014 / PXJ1212",
+          "name": {
+            "en": "PXJ1212",
+            "ar": "PXJ1212"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1200 × 450",
+              "ar": "⁦1200 × 450⁩"
+            },
+            "max-feed-size": {
+              "en": "<180",
+              "ar": "⁦<180⁩"
+            },
+            "output-size": {
+              "en": "5–20",
+              "ar": "⁦5–20⁩"
+            },
+            "capacity": {
+              "en": "100–110",
+              "ar": "⁦100–110⁩"
+            },
+            "power": {
+              "en": "110",
+              "ar": "110"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-014 / PXJ1414",
+          "name": {
+            "en": "PXJ1414",
+            "ar": "PXJ1414"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1400 × 500",
+              "ar": "⁦1400 × 500⁩"
+            },
+            "max-feed-size": {
+              "en": "<180",
+              "ar": "⁦<180⁩"
+            },
+            "output-size": {
+              "en": "5–20",
+              "ar": "⁦5–20⁩"
+            },
+            "capacity": {
+              "en": "100–150",
+              "ar": "⁦100–150⁩"
+            },
+            "power": {
+              "en": "132",
+              "ar": "132"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-014 / PXJ1616",
+          "name": {
+            "en": "PXJ1616",
+            "ar": "PXJ1616"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1600 × 550",
+              "ar": "⁦1600 × 550⁩"
+            },
+            "max-feed-size": {
+              "en": "<190",
+              "ar": "⁦<190⁩"
+            },
+            "output-size": {
+              "en": "5–20",
+              "ar": "⁦5–20⁩"
+            },
+            "capacity": {
+              "en": "170–210",
+              "ar": "⁦170–210⁩"
+            },
+            "power": {
+              "en": "160",
+              "ar": "160"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-014 / PXJ1818",
+          "name": {
+            "en": "PXJ1818",
+            "ar": "PXJ1818"
+          },
+          "specs": {
+            "feed-opening": {
+              "en": "1800 × 800",
+              "ar": "⁦1800 × 800⁩"
+            },
+            "max-feed-size": {
+              "en": "<190",
+              "ar": "⁦<190⁩"
+            },
+            "output-size": {
+              "en": "5–20",
+              "ar": "⁦5–20⁩"
+            },
+            "capacity": {
+              "en": "250–270",
+              "ar": "⁦250–270⁩"
+            },
+            "power": {
+              "en": "190",
+              "ar": "190"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Output 5–20 mm",
+        "ar": "ناتج ⁦5⁠–⁠20⁩ مم"
+      }
+    }
+  ]
+}

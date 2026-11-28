@@ -1,0 +1,670 @@
+{
+  "id": "symons-spring-cone-crushers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "cone",
+      "label": {
+        "en": "Cone Ø (mm)",
+        "ar": "قطر المخروط (مم)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "max-feed-size",
+      "label": {
+        "en": "Max. feed size (mm)",
+        "ar": "أقصى حجم تغذية (مم)"
+      }
+    },
+    {
+      "key": "discharge-setting",
+      "label": {
+        "en": "Discharge setting (mm)",
+        "ar": "ضبط التفريغ (مم)"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    }
+  ],
+  "keyRows": [
+    "cone",
+    "power",
+    "max-feed-size"
+  ],
+  "types": [
+    {
+      "id": "cs",
+      "label": {
+        "en": "CS cone crushers (coarse, medium or fine cavity)",
+        "ar": "كسارات مخروطية ⁦CS⁩ (تجويف خشن أو متوسط أو ناعم)"
+      },
+      "models": [
+        {
+          "code": "BX-0016-01-005 / CS75",
+          "name": {
+            "en": "CS75",
+            "ar": "CS75"
+          },
+          "specs": {
+            "cone": {
+              "en": "900 (3')",
+              "ar": "⁦900 (3')⁩"
+            },
+            "power": {
+              "en": "75",
+              "ar": "75"
+            },
+            "max-feed-size": {
+              "en": "35–150",
+              "ar": "⁦35–150⁩"
+            },
+            "discharge-setting": {
+              "en": "6–38",
+              "ar": "⁦6–38⁩"
+            },
+            "capacity": {
+              "en": "27–163",
+              "ar": "⁦27–163⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-005 / CS110",
+          "name": {
+            "en": "CS110",
+            "ar": "CS110"
+          },
+          "specs": {
+            "cone": {
+              "en": "1200 (4')",
+              "ar": "⁦1200 (4')⁩"
+            },
+            "power": {
+              "en": "110",
+              "ar": "110"
+            },
+            "max-feed-size": {
+              "en": "90–180",
+              "ar": "⁦90–180⁩"
+            },
+            "discharge-setting": {
+              "en": "10–50",
+              "ar": "⁦10–50⁩"
+            },
+            "capacity": {
+              "en": "63–250",
+              "ar": "⁦63–250⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-005 / CS160",
+          "name": {
+            "en": "CS160",
+            "ar": "CS160"
+          },
+          "specs": {
+            "cone": {
+              "en": "1295 (4¼')",
+              "ar": "⁦1295 (4¼')⁩"
+            },
+            "power": {
+              "en": "160",
+              "ar": "160"
+            },
+            "max-feed-size": {
+              "en": "115–205",
+              "ar": "⁦115–205⁩"
+            },
+            "discharge-setting": {
+              "en": "13–50",
+              "ar": "⁦13–50⁩"
+            },
+            "capacity": {
+              "en": "109–349",
+              "ar": "⁦109–349⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-005 / CS220",
+          "name": {
+            "en": "CS220",
+            "ar": "CS220"
+          },
+          "specs": {
+            "cone": {
+              "en": "1400 (4½')",
+              "ar": "⁦1400 (4½')⁩"
+            },
+            "power": {
+              "en": "220",
+              "ar": "220"
+            },
+            "max-feed-size": {
+              "en": "100–235",
+              "ar": "⁦100–235⁩"
+            },
+            "discharge-setting": {
+              "en": "19–60",
+              "ar": "⁦19–60⁩"
+            },
+            "capacity": {
+              "en": "130–530",
+              "ar": "⁦130–530⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-005 / CS250",
+          "name": {
+            "en": "CS250",
+            "ar": "CS250"
+          },
+          "specs": {
+            "cone": {
+              "en": "1650 (5½')",
+              "ar": "⁦1650 (5½')⁩"
+            },
+            "power": {
+              "en": "250",
+              "ar": "250"
+            },
+            "max-feed-size": {
+              "en": "178–228",
+              "ar": "⁦178–228⁩"
+            },
+            "discharge-setting": {
+              "en": "20–60",
+              "ar": "⁦20–60⁩"
+            },
+            "capacity": {
+              "en": "181–635",
+              "ar": "⁦181–635⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-005 / CS315",
+          "name": {
+            "en": "CS315",
+            "ar": "CS315"
+          },
+          "specs": {
+            "cone": {
+              "en": "2135 (7')",
+              "ar": "⁦2135 (7')⁩"
+            },
+            "power": {
+              "en": "315",
+              "ar": "315"
+            },
+            "max-feed-size": {
+              "en": "236–314",
+              "ar": "⁦236–314⁩"
+            },
+            "discharge-setting": {
+              "en": "19–64",
+              "ar": "⁦19–64⁩"
+            },
+            "capacity": {
+              "en": "544–1814",
+              "ar": "⁦544–1814⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "27–1814 t/h",
+        "ar": "⁦27⁠–⁠1814⁩ طن/ساعة"
+      }
+    },
+    {
+      "id": "py",
+      "label": {
+        "en": "PY spring cone crushers (B coarse, Z medium, D fine)",
+        "ar": "كسارات مخروطية نابضية ⁦PY (B⁩ خشن، ⁦Z⁩ متوسط، ⁦D⁩ ناعم)"
+      },
+      "models": [
+        {
+          "code": "BX-0016-01-006 / PYB-600",
+          "name": {
+            "en": "PYB-600",
+            "ar": "⁦PYB-600⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "30",
+              "ar": "30"
+            },
+            "cone": {
+              "en": "600",
+              "ar": "600"
+            },
+            "max-feed-size": {
+              "en": "66",
+              "ar": "66"
+            },
+            "discharge-setting": {
+              "en": "12–25",
+              "ar": "⁦12–25⁩"
+            },
+            "capacity": {
+              "en": "15–25",
+              "ar": "⁦15–25⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-006 / PYD-600",
+          "name": {
+            "en": "PYD-600",
+            "ar": "⁦PYD-600⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "30",
+              "ar": "30"
+            },
+            "cone": {
+              "en": "600",
+              "ar": "600"
+            },
+            "max-feed-size": {
+              "en": "36",
+              "ar": "36"
+            },
+            "discharge-setting": {
+              "en": "3–13",
+              "ar": "⁦3–13⁩"
+            },
+            "capacity": {
+              "en": "5–23",
+              "ar": "⁦5–23⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-006 / PYB-900",
+          "name": {
+            "en": "PYB-900",
+            "ar": "⁦PYB-900⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "55",
+              "ar": "55"
+            },
+            "cone": {
+              "en": "900",
+              "ar": "900"
+            },
+            "max-feed-size": {
+              "en": "115",
+              "ar": "115"
+            },
+            "discharge-setting": {
+              "en": "15–50",
+              "ar": "⁦15–50⁩"
+            },
+            "capacity": {
+              "en": "50–90",
+              "ar": "⁦50–90⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-006 / PYZ-900",
+          "name": {
+            "en": "PYZ-900",
+            "ar": "⁦PYZ-900⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "55",
+              "ar": "55"
+            },
+            "cone": {
+              "en": "900",
+              "ar": "900"
+            },
+            "max-feed-size": {
+              "en": "60",
+              "ar": "60"
+            },
+            "discharge-setting": {
+              "en": "5–20",
+              "ar": "⁦5–20⁩"
+            },
+            "capacity": {
+              "en": "20–65",
+              "ar": "⁦20–65⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-006 / PYD-900",
+          "name": {
+            "en": "PYD-900",
+            "ar": "⁦PYD-900⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "55",
+              "ar": "55"
+            },
+            "cone": {
+              "en": "900",
+              "ar": "900"
+            },
+            "max-feed-size": {
+              "en": "40",
+              "ar": "40"
+            },
+            "discharge-setting": {
+              "en": "3–13",
+              "ar": "⁦3–13⁩"
+            },
+            "capacity": {
+              "en": "15–50",
+              "ar": "⁦15–50⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-006 / PYB-1200",
+          "name": {
+            "en": "PYB-1200",
+            "ar": "⁦PYB-1200⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "110",
+              "ar": "110"
+            },
+            "cone": {
+              "en": "1200",
+              "ar": "1200"
+            },
+            "max-feed-size": {
+              "en": "145",
+              "ar": "145"
+            },
+            "discharge-setting": {
+              "en": "20–50",
+              "ar": "⁦20–50⁩"
+            },
+            "capacity": {
+              "en": "110–200",
+              "ar": "⁦110–200⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-006 / PYZ-1200",
+          "name": {
+            "en": "PYZ-1200",
+            "ar": "⁦PYZ-1200⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "110",
+              "ar": "110"
+            },
+            "cone": {
+              "en": "1200",
+              "ar": "1200"
+            },
+            "max-feed-size": {
+              "en": "100",
+              "ar": "100"
+            },
+            "discharge-setting": {
+              "en": "8–26",
+              "ar": "⁦8–26⁩"
+            },
+            "capacity": {
+              "en": "50–150",
+              "ar": "⁦50–150⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-006 / PYD-1200",
+          "name": {
+            "en": "PYD-1200",
+            "ar": "⁦PYD-1200⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "110",
+              "ar": "110"
+            },
+            "cone": {
+              "en": "1200",
+              "ar": "1200"
+            },
+            "max-feed-size": {
+              "en": "50",
+              "ar": "50"
+            },
+            "discharge-setting": {
+              "en": "3–15",
+              "ar": "⁦3–15⁩"
+            },
+            "capacity": {
+              "en": "18–105",
+              "ar": "⁦18–105⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-006 / PYB-1750",
+          "name": {
+            "en": "PYB-1750",
+            "ar": "⁦PYB-1750⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "155–160",
+              "ar": "⁦155–160⁩"
+            },
+            "cone": {
+              "en": "1750",
+              "ar": "1750"
+            },
+            "max-feed-size": {
+              "en": "215",
+              "ar": "215"
+            },
+            "discharge-setting": {
+              "en": "25–60",
+              "ar": "⁦25–60⁩"
+            },
+            "capacity": {
+              "en": "280–480",
+              "ar": "⁦280–480⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-006 / PYZ-1750",
+          "name": {
+            "en": "PYZ-1750",
+            "ar": "⁦PYZ-1750⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "155–160",
+              "ar": "⁦155–160⁩"
+            },
+            "cone": {
+              "en": "1750",
+              "ar": "1750"
+            },
+            "max-feed-size": {
+              "en": "185",
+              "ar": "185"
+            },
+            "discharge-setting": {
+              "en": "10–30",
+              "ar": "⁦10–30⁩"
+            },
+            "capacity": {
+              "en": "115–230",
+              "ar": "⁦115–230⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-006 / PYD-1750",
+          "name": {
+            "en": "PYD-1750",
+            "ar": "⁦PYD-1750⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "155–160",
+              "ar": "⁦155–160⁩"
+            },
+            "cone": {
+              "en": "1750",
+              "ar": "1750"
+            },
+            "max-feed-size": {
+              "en": "85",
+              "ar": "85"
+            },
+            "discharge-setting": {
+              "en": "5–15",
+              "ar": "⁦5–15⁩"
+            },
+            "capacity": {
+              "en": "75–230",
+              "ar": "⁦75–230⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-006 / PYB-2200",
+          "name": {
+            "en": "PYB-2200",
+            "ar": "⁦PYB-2200⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "260–280",
+              "ar": "⁦260–280⁩"
+            },
+            "cone": {
+              "en": "2200",
+              "ar": "2200"
+            },
+            "max-feed-size": {
+              "en": "300",
+              "ar": "300"
+            },
+            "discharge-setting": {
+              "en": "30–60",
+              "ar": "⁦30–60⁩"
+            },
+            "capacity": {
+              "en": "590–1000",
+              "ar": "⁦590–1000⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-006 / PYZ-2200",
+          "name": {
+            "en": "PYZ-2200",
+            "ar": "⁦PYZ-2200⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "260–280",
+              "ar": "⁦260–280⁩"
+            },
+            "cone": {
+              "en": "2200",
+              "ar": "2200"
+            },
+            "max-feed-size": {
+              "en": "230",
+              "ar": "230"
+            },
+            "discharge-setting": {
+              "en": "10–30",
+              "ar": "⁦10–30⁩"
+            },
+            "capacity": {
+              "en": "200–580",
+              "ar": "⁦200–580⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-006 / PYD-2200",
+          "name": {
+            "en": "PYD-2200",
+            "ar": "⁦PYD-2200⁩"
+          },
+          "specs": {
+            "power": {
+              "en": "260–280",
+              "ar": "⁦260–280⁩"
+            },
+            "cone": {
+              "en": "2200",
+              "ar": "2200"
+            },
+            "max-feed-size": {
+              "en": "110",
+              "ar": "110"
+            },
+            "discharge-setting": {
+              "en": "5–16",
+              "ar": "⁦5–16⁩"
+            },
+            "capacity": {
+              "en": "120–370",
+              "ar": "⁦120–370⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "5–1000 t/h",
+        "ar": "⁦5⁠–⁠1000⁩ طن/ساعة"
+      }
+    }
+  ]
+}

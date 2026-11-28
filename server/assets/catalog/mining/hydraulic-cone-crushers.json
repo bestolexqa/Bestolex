@@ -1,0 +1,612 @@
+{
+  "id": "hydraulic-cone-crushers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "max-feed-size",
+      "label": {
+        "en": "Max. feed size (mm)",
+        "ar": "أقصى حجم تغذية (مم)"
+      }
+    },
+    {
+      "key": "discharge-opening",
+      "label": {
+        "en": "Discharge opening (mm)",
+        "ar": "فتحة التفريغ (مم)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "weight",
+      "label": {
+        "en": "Weight (t)",
+        "ar": "الوزن (طن)"
+      }
+    }
+  ],
+  "keyRows": [
+    "max-feed-size",
+    "discharge-opening",
+    "power"
+  ],
+  "types": [
+    {
+      "id": "mhp",
+      "label": {
+        "en": "MHP multi-cylinder hydraulic cone crushers",
+        "ar": "كسارات مخروطية هيدروليكية متعددة الأسطوانات ⁦MHP⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0014-01-003 / MHP100",
+          "name": {
+            "en": "MHP100",
+            "ar": "MHP100"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "140",
+              "ar": "140"
+            },
+            "discharge-opening": {
+              "en": "6–32",
+              "ar": "⁦6–32⁩"
+            },
+            "power": {
+              "en": "90",
+              "ar": "90"
+            },
+            "capacity": {
+              "en": "50–150",
+              "ar": "⁦50–150⁩"
+            },
+            "weight": {
+              "en": "6.5",
+              "ar": "⁦6.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-003 / MHP200",
+          "name": {
+            "en": "MHP200",
+            "ar": "MHP200"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "170",
+              "ar": "170"
+            },
+            "discharge-opening": {
+              "en": "6–38",
+              "ar": "⁦6–38⁩"
+            },
+            "power": {
+              "en": "160",
+              "ar": "160"
+            },
+            "capacity": {
+              "en": "65–260",
+              "ar": "⁦65–260⁩"
+            },
+            "weight": {
+              "en": "12.5",
+              "ar": "⁦12.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-003 / MHP300",
+          "name": {
+            "en": "MHP300",
+            "ar": "MHP300"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "240",
+              "ar": "240"
+            },
+            "discharge-opening": {
+              "en": "8–45",
+              "ar": "⁦8–45⁩"
+            },
+            "power": {
+              "en": "250",
+              "ar": "250"
+            },
+            "capacity": {
+              "en": "90–450",
+              "ar": "⁦90–450⁩"
+            },
+            "weight": {
+              "en": "18.6",
+              "ar": "⁦18.6⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-003 / MHP400",
+          "name": {
+            "en": "MHP400",
+            "ar": "MHP400"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "300",
+              "ar": "300"
+            },
+            "discharge-opening": {
+              "en": "8–51",
+              "ar": "⁦8–51⁩"
+            },
+            "power": {
+              "en": "315",
+              "ar": "315"
+            },
+            "capacity": {
+              "en": "110–645",
+              "ar": "⁦110–645⁩"
+            },
+            "weight": {
+              "en": "26.0",
+              "ar": "⁦26.0⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-003 / MHP500",
+          "name": {
+            "en": "MHP500",
+            "ar": "MHP500"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "310",
+              "ar": "310"
+            },
+            "discharge-opening": {
+              "en": "8–55",
+              "ar": "⁦8–55⁩"
+            },
+            "power": {
+              "en": "400",
+              "ar": "400"
+            },
+            "capacity": {
+              "en": "135–800",
+              "ar": "⁦135–800⁩"
+            },
+            "weight": {
+              "en": "37.6",
+              "ar": "⁦37.6⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-003 / MHP800",
+          "name": {
+            "en": "MHP800",
+            "ar": "MHP800"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "350",
+              "ar": "350"
+            },
+            "discharge-opening": {
+              "en": "10–60",
+              "ar": "⁦10–60⁩"
+            },
+            "power": {
+              "en": "630",
+              "ar": "630"
+            },
+            "capacity": {
+              "en": "265–1220",
+              "ar": "⁦265–1220⁩"
+            },
+            "weight": {
+              "en": "66.4",
+              "ar": "⁦66.4⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-003 / MHP3",
+          "name": {
+            "en": "MHP3",
+            "ar": "MHP3"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "200",
+              "ar": "200"
+            },
+            "discharge-opening": {
+              "en": "25",
+              "ar": "25"
+            },
+            "power": {
+              "en": "220",
+              "ar": "220"
+            },
+            "capacity": {
+              "en": "94–388",
+              "ar": "⁦94–388⁩"
+            },
+            "weight": {
+              "en": "13.04",
+              "ar": "⁦13.04⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-003 / MHP4",
+          "name": {
+            "en": "MHP4",
+            "ar": "MHP4"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "237",
+              "ar": "237"
+            },
+            "discharge-opening": {
+              "en": "28",
+              "ar": "28"
+            },
+            "power": {
+              "en": "315",
+              "ar": "315"
+            },
+            "capacity": {
+              "en": "135–555",
+              "ar": "⁦135–555⁩"
+            },
+            "weight": {
+              "en": "19.81",
+              "ar": "⁦19.81⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-003 / MHP5",
+          "name": {
+            "en": "MHP5",
+            "ar": "MHP5"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "312",
+              "ar": "312"
+            },
+            "discharge-opening": {
+              "en": "30",
+              "ar": "30"
+            },
+            "power": {
+              "en": "370",
+              "ar": "370"
+            },
+            "capacity": {
+              "en": "158–600",
+              "ar": "⁦158–600⁩"
+            },
+            "weight": {
+              "en": "24.97",
+              "ar": "⁦24.97⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-003 / MHP6",
+          "name": {
+            "en": "MHP6",
+            "ar": "MHP6"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "328",
+              "ar": "328"
+            },
+            "discharge-opening": {
+              "en": "30",
+              "ar": "30"
+            },
+            "power": {
+              "en": "450",
+              "ar": "450"
+            },
+            "capacity": {
+              "en": "220–790",
+              "ar": "⁦220–790⁩"
+            },
+            "weight": {
+              "en": "33",
+              "ar": "33"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "50–1220 t/h",
+        "ar": "⁦50⁠–⁠1220⁩ طن/ساعة"
+      }
+    },
+    {
+      "id": "mgp",
+      "label": {
+        "en": "MGP single-cylinder hydraulic cone crushers",
+        "ar": "كسارات مخروطية هيدروليكية أحادية الأسطوانة ⁦MGP⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0014-01-004 / MGP100S",
+          "name": {
+            "en": "MGP100S",
+            "ar": "MGP100S"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "210",
+              "ar": "210"
+            },
+            "discharge-opening": {
+              "en": "20–45",
+              "ar": "⁦20–45⁩"
+            },
+            "power": {
+              "en": "90",
+              "ar": "90"
+            },
+            "capacity": {
+              "en": "80–250",
+              "ar": "⁦80–250⁩"
+            },
+            "weight": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-004 / MGP200S",
+          "name": {
+            "en": "MGP200S",
+            "ar": "MGP200S"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "290",
+              "ar": "290"
+            },
+            "discharge-opening": {
+              "en": "25–50",
+              "ar": "⁦25–50⁩"
+            },
+            "power": {
+              "en": "160",
+              "ar": "160"
+            },
+            "capacity": {
+              "en": "115–360",
+              "ar": "⁦115–360⁩"
+            },
+            "weight": {
+              "en": "11.2",
+              "ar": "⁦11.2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-004 / MGP300S",
+          "name": {
+            "en": "MGP300S",
+            "ar": "MGP300S"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "330",
+              "ar": "330"
+            },
+            "discharge-opening": {
+              "en": "25–50",
+              "ar": "⁦25–50⁩"
+            },
+            "power": {
+              "en": "250",
+              "ar": "250"
+            },
+            "capacity": {
+              "en": "175–540",
+              "ar": "⁦175–540⁩"
+            },
+            "weight": {
+              "en": "16.5",
+              "ar": "⁦16.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-004 / MGP500S",
+          "name": {
+            "en": "MGP500S",
+            "ar": "MGP500S"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "440",
+              "ar": "440"
+            },
+            "discharge-opening": {
+              "en": "45–80",
+              "ar": "⁦45–80⁩"
+            },
+            "power": {
+              "en": "355",
+              "ar": "355"
+            },
+            "capacity": {
+              "en": "310–1060",
+              "ar": "⁦310–1060⁩"
+            },
+            "weight": {
+              "en": "33.5",
+              "ar": "⁦33.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-004 / MGP100",
+          "name": {
+            "en": "MGP100",
+            "ar": "MGP100"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "135",
+              "ar": "135"
+            },
+            "discharge-opening": {
+              "en": "7–25",
+              "ar": "⁦7–25⁩"
+            },
+            "power": {
+              "en": "90",
+              "ar": "90"
+            },
+            "capacity": {
+              "en": "40–110",
+              "ar": "⁦40–110⁩"
+            },
+            "weight": {
+              "en": "6.0",
+              "ar": "⁦6.0⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-004 / MGP200",
+          "name": {
+            "en": "MGP200",
+            "ar": "MGP200"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "205",
+              "ar": "205"
+            },
+            "discharge-opening": {
+              "en": "8–35",
+              "ar": "⁦8–35⁩"
+            },
+            "power": {
+              "en": "220",
+              "ar": "220"
+            },
+            "capacity": {
+              "en": "70–280",
+              "ar": "⁦70–280⁩"
+            },
+            "weight": {
+              "en": "10.5",
+              "ar": "⁦10.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-004 / MGP300",
+          "name": {
+            "en": "MGP300",
+            "ar": "MGP300"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "215",
+              "ar": "215"
+            },
+            "discharge-opening": {
+              "en": "8–35",
+              "ar": "⁦8–35⁩"
+            },
+            "power": {
+              "en": "315",
+              "ar": "315"
+            },
+            "capacity": {
+              "en": "105–390",
+              "ar": "⁦105–390⁩"
+            },
+            "weight": {
+              "en": "13.0",
+              "ar": "⁦13.0⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-004 / MGP550",
+          "name": {
+            "en": "MGP550",
+            "ar": "MGP550"
+          },
+          "specs": {
+            "max-feed-size": {
+              "en": "235",
+              "ar": "235"
+            },
+            "discharge-opening": {
+              "en": "10–45",
+              "ar": "⁦10–45⁩"
+            },
+            "power": {
+              "en": "400",
+              "ar": "400"
+            },
+            "capacity": {
+              "en": "140–510",
+              "ar": "⁦140–510⁩"
+            },
+            "weight": {
+              "en": "26.5",
+              "ar": "⁦26.5⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "40–1060 t/h",
+        "ar": "⁦40⁠–⁠1060⁩ طن/ساعة"
+      }
+    }
+  ]
+}

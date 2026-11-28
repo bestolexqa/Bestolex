@@ -1,0 +1,204 @@
+{
+  "id": "sand-makers-fine-crushers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Models",
+        "ar": "الموديلات"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "feed",
+      "label": {
+        "en": "Feed size (mm)",
+        "ar": "حجم التغذية (مم)"
+      }
+    },
+    {
+      "key": "product",
+      "label": {
+        "en": "Product",
+        "ar": "المنتج"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "capacity",
+    "feed"
+  ],
+  "types": [
+    {
+      "id": "sand-makers",
+      "label": {
+        "en": "Sand makers and roller crushers",
+        "ar": "صانعات الرمل والكسارات الأسطوانية"
+      },
+      "models": [
+        {
+          "code": "BX-0018-03-010",
+          "name": {
+            "en": "V6S sand making machine",
+            "ar": "صانعة رمل ⁦V6S⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "V6S-9832, V6S-1250, V6S-1263, V6S-1371",
+              "ar": "⁦V6S-9832, V6S-1250, V6S-1263, V6S-1371⁩"
+            },
+            "capacity": {
+              "en": "236–800",
+              "ar": "⁦236–800⁩"
+            },
+            "feed": {
+              "en": "< 45 hard, < 50 soft",
+              "ar": "< ⁦45⁩ صلب، < ⁦50⁩ لين"
+            },
+            "product": {
+              "en": "Sand",
+              "ar": "رمل"
+            },
+            "power": {
+              "en": "2 × 160 to 2 × 355",
+              "ar": "من ⁦2 × 160⁩ إلى ⁦2 × 355⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-012",
+          "name": {
+            "en": "PFL vertical compound crusher",
+            "ar": "كسارة مركّبة رأسية ⁦PFL⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "PFL800, PFL1000, PFL1250, PFL1500, PFL1750, PFL2000",
+              "ar": "⁦PFL800, PFL1000, PFL1250, PFL1500, PFL1750, PFL2000⁩"
+            },
+            "capacity": {
+              "en": "10–180",
+              "ar": "⁦10–180⁩"
+            },
+            "feed": {
+              "en": "< 80–190",
+              "ar": "⁦< 80–190⁩"
+            },
+            "product": {
+              "en": "< 5 mm (80–95%)",
+              "ar": "< ⁦5⁩ مم (⁦80⁠–⁠95%⁩)"
+            },
+            "power": {
+              "en": "30–250",
+              "ar": "⁦30–250⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-013",
+          "name": {
+            "en": "Hydraulic-opening sand making machine",
+            "ar": "صانعة رمل بفتح هيدروليكي"
+          },
+          "specs": {
+            "models": {
+              "en": "800×400, 800×800, 1000×1000, 1200×1200, 1400×1400, 1600×1600, 1800×1800",
+              "ar": "⁦800×400, 800×800, 1000×1000, 1200×1200, 1400×1400, 1600×1600, 1800×1800⁩"
+            },
+            "capacity": {
+              "en": "20–300",
+              "ar": "⁦20–300⁩"
+            },
+            "feed": {
+              "en": "< 120–190",
+              "ar": "⁦< 120–190⁩"
+            },
+            "product": {
+              "en": "< 5 mm",
+              "ar": "< ⁦5⁩ مم"
+            },
+            "power": {
+              "en": "30–315",
+              "ar": "⁦30–315⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0018-03-009",
+          "name": {
+            "en": "2PGY hydraulic roller crusher",
+            "ar": "كسارة أسطوانية هيدروليكية ⁦2PGY⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "2PGY800×800 to 2PGY2000×1200",
+              "ar": "من ⁦2PGY800×800⁩ إلى ⁦2PGY2000×1200⁩"
+            },
+            "capacity": {
+              "en": "40–400",
+              "ar": "⁦40–400⁩"
+            },
+            "feed": {
+              "en": "≤ 40–120",
+              "ar": "⁦≤ 40–120⁩"
+            },
+            "product": {
+              "en": "Setting 1–20 mm",
+              "ar": "ضبط ⁦1⁠–⁠20⁩ مم"
+            },
+            "power": {
+              "en": "2 × 30 to 2 × 315",
+              "ar": "من ⁦2 × 30⁩ إلى ⁦2 × 315⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "10–800 t/h",
+        "ar": "⁦10⁠–⁠800⁩ طن/ساعة"
+      },
+      "countUnit": {
+        "ar": [
+          "سلسلة واحدة",
+          "سلسلتان",
+          "سلاسل"
+        ],
+        "en": [
+          "series",
+          "series"
+        ]
+      }
+    }
+  ]
+}
