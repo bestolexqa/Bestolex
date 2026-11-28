@@ -1,6 +1,7 @@
 """BXC-10 Ed4 (Fleet support) product pages, catalogue pages 3–11 and 14. Text from the catalogue intros and tables.
 Ed4 has product photos on pages 8 and 14 only; the other pages use photos from the suppliers' own catalogues
-(prep_bxc10.py in the work dir). The weighbridge pages (12–13) wait for photos and are not built yet."""
+(prep_bxc10.py in the work dir), and the weighbridge pages (12–13) photos from the suppliers' websites
+(prep_bxc10_wb.py)."""
 from bxc02_products import FAQ_QUOTE, FAQ_SHIP
 
 P = []
@@ -177,3 +178,39 @@ prod('mobile-light-towers', 'أبراج الإنارة المتنقلة', 'Mobil
      ('أبراج الإنارة المتنقلة بالديزل والبنزين', 'Mobile Light Towers',
       'أبراج إنارة يدوية وعلى مقطورة من 72,000 إلى 440,000 لومن، بصاري حتى 11 م وتشغيل حتى 120 ساعة.' + S,
       'Hand-push and trailer light towers from 72,000 to 440,000 lm, with masts up to 11 m and up to 120 hours of running.' + SE))
+
+FQ_WB = ('ما المطلوب لاختيار ميزان الشاحنات؟', 'What do you need to choose a weighbridge?',
+         'أثقل شاحنة محمّلة تزنها، وأطول شاحنة، وعدد الشاحنات في اليوم، وهل يُركّب في حفرة أو فوق الأرض، ونوع التربة ومصدر الكهرباء في الموقع.',
+         'The heaviest loaded truck, the longest truck, the trucks per day, pit or pitless installation, and the ground and power on site.')
+
+prod('weighbridges-axle-scales', 'موازين الشاحنات وموازين المحاور', 'Weighbridges & Axle Scales', 'wb-axle',
+     ('موازين شاحنات رقمية كاملة بطول 7 إلى 24 م لشاحنات 30–120 طناً، مع خلايا الوزن والمؤشر وصندوق التوصيل وأدوات التثبيت، وموازين محاور محمولة للتحقق من حمولات الخام والمركّز عند بوابة المنجم.',
+      'Complete digital weighbridges 7 to 24 m long for 30–120 t trucks, with load cells, indicator, junction box and fixings, plus portable axle weighing pads for checking ore and concentrate loads at the mine gate.'),
+     [('طقم كامل بمنصة 12 مم من 2 إلى 4 أقسام', 'Complete set with a 12 mm deck in 2–4 sections'), ('خلايا وزن رقمية 30 طن (OIML R76، CE)', '30 t digital load cells (OIML R76, CE)'),
+      ('كابل 50 م في أنبوب فولاذي وصندوق توصيل IP68', '50 m cable in steel conduit and IP68 junction box'), ('وسائد محاور محمولة مع عربة نقل', 'Portable axle pads with a carrying trolley')],
+     [('السعة', '30–120 طن', 'Capacity', '30–120 t'), ('طول المنصة', '7–24 م', 'Deck length', '7–24 m'),
+      ('خلايا الوزن', 'رقمية 30 طن، OIML R76', 'Load cells', 'Digital 30 t, OIML R76'), ('موازين المحاور', 'OP-923 وOP-928', 'Axle scales', 'OP-923 and OP-928')],
+     [('14', 'موديلاً ومقاساً', '14', 'Models and sizes'), ('30–120', 'السعة (طن)', '30–120', 'Capacity (t)'), ('7–24', 'طول المنصة (م)', '7–24', 'Deck length (m)')],
+     ('وزن شاحنات الخام عند بوابة الموقع. ' + PICK[0], 'Weighing ore trucks at the site gate. ' + PICK[1]),
+     [FQ_WB, ('متى أختار وسائد المحاور بدل الميزان الثابت؟', 'When do I choose axle pads instead of a fixed weighbridge?',
+       'حين يتنقل الوزن بين مواقع، أو يلزم التحقق من الحمولة قبل تركيب ميزان ثابت. الوسائد تُحمل وتُفرد على أرض مستوية، والميزان الثابت أنسب للوزن اليومي الكثيف.',
+       'When weighing moves between sites, or loads must be checked before a fixed weighbridge is installed. The pads are carried and laid on level ground; a fixed weighbridge suits heavy daily weighing.')],
+     ('موازين الشاحنات الرقمية وموازين المحاور المحمولة', 'Digital Weighbridges and Portable Axle Scales',
+      'موازين شاحنات رقمية كاملة 30–120 طناً بطول 7–24 م، مع خلايا الوزن والمؤشر، ووسائد وزن محاور محمولة.' + S,
+      'Complete digital weighbridges for 30–120 t trucks, 7–24 m long, with load cells and indicator, plus portable axle weighing pads.' + SE))
+
+prod('weighbridges-platform-scales-load-cells', 'موازين الشاحنات وموازين المنصة وخلايا الوزن', 'Weighbridges, Platform Scales & Load Cells', 'wb-cells',
+     ('موازين شاحنات رقمية من 30 إلى 200 طن بمنصات حتى 30 م لوزن شاحنات الخام، وخلايا وزن رقمية للموازين الجديدة والقائمة، وموازين منصة من 1 إلى 5 أطنان لأكياس الخام والمواد في المخازن.',
+      'Digital weighbridges from 30 to 200 t with decks up to 30 m for weighing ore trucks, digital load cells for new and existing weighbridges, and 1–5 t platform scales for ore bags and materials in stores.'),
+     [('منصة فولاذ Q235 بعوارض U ولوح 8–14 مم', 'Q235 steel deck with U-beams and 8–14 mm plate'), ('OIML R76 الفئة III وحمل زائد آمن 125%', 'OIML R76 Class III and 125% safe overload'),
+      ('خلايا QS-D وQSA بمخرج RS485', 'QS-D and QSA cells with RS485 output'), ('موازين منصة 1–5 طن بلوح مضلّع', '1–5 t platform scales with checker plate')],
+     [('السعة', '30–200 طن', 'Capacity', '30–200 t'), ('المنصة', 'عرض 3–6 م، طول 4–30 م', 'Deck', '3–6 m wide, 4–30 m long'),
+      ('التدريج', '10 / 20 / 50 كجم', 'Division', '10 / 20 / 50 kg'), ('خلايا الوزن', 'C3، ±0.02%، IP68', 'Load cells', 'C3, ±0.02%, IP68')],
+     [('3', 'خطوط منتجات', '3', 'Product lines'), ('30–200 طن', 'سعة ميزان الشاحنات', '30–200 t', 'Truck scale capacity'), ('4–30 م', 'طول المنصة', '4–30 m', 'Deck length')],
+     ('من ميزان الشاحنات إلى ميزان المخزن. ' + PICK[0], 'From the weighbridge to the store scale. ' + PICK[1]),
+     [FQ_WB, ('هل تناسب الخلايا الرقمية ميزاناً قائماً؟', 'Do the digital load cells fit an existing weighbridge?',
+       'نعم في الغالب، بخلايا QS-D أو QSA من 20 إلى 50 طناً. أرسل عدد الخلايا وسعتها وطريقة تركيبها، أو صورة لها، ونؤكد المطابقة.',
+       'Usually yes, with QS-D or QSA cells from 20 to 50 t. Send the number of cells, their capacity and mounting, or a photo, and we confirm the match.')],
+     ('موازين الشاحنات حتى 200 طن وخلايا الوزن وموازين المنصة', 'Weighbridges up to 200 t, Load Cells and Platform Scales',
+      'موازين شاحنات رقمية 30–200 طن بمنصات حتى 30 م (OIML R76)، وخلايا وزن QS-D وQSA، وموازين منصة 1–5 طن.' + S,
+      'Digital weighbridges from 30 to 200 t with decks up to 30 m (OIML R76), QS-D and QSA load cells, and 1–5 t platform scales.' + SE))

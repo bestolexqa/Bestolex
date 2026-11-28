@@ -240,9 +240,9 @@ export const STAGES: Stage[] = [
   {
     id: 'fleet-support', n: 0, kind: 'support', code: 'BXC-10', edition: '4', sub: 'fleet-support',
     title: L('دعم الأسطول', 'Fleet Support'),
-    short: L('إطارات الشاحنات واللوادر، وخدمة الإطارات، والورشة وقطع الغيار، وأبراج الإنارة.', 'Truck and loader tyres, tyre service, workshop and spares, and lighting towers.'),
-    lead: L('إطارات الشاحنات والقلابات واللوادر والجريدرات والمناجم تحت الأرض، وصمامات الإطارات وأدوات إصلاحها، ومحامل الكسارات وقطع المطاحن، وعدد الورشة ومقاعد المشغلين، وخراطيم الهيدروليك، وأبراج الإنارة للعمل الليلي.',
-      'Tyres for trucks, dump trucks, loaders, graders and underground mines, tyre valves and repair tools, crusher bearings and mill spares, workshop tools and operator seats, hydraulic hoses, and light towers for night work.'),
+    short: L('إطارات الشاحنات واللوادر، وخدمة الإطارات، والورشة وقطع الغيار، وموازين الشاحنات، وأبراج الإنارة.', 'Truck and loader tyres, tyre service, workshop and spares, weighbridges and lighting towers.'),
+    lead: L('إطارات الشاحنات والقلابات واللوادر والجريدرات والمناجم تحت الأرض، وصمامات الإطارات وأدوات إصلاحها، ومحامل الكسارات وقطع المطاحن، وعدد الورشة ومقاعد المشغلين، وخراطيم الهيدروليك، وموازين الشاحنات والمحاور، وأبراج الإنارة للعمل الليلي.',
+      'Tyres for trucks, dump trucks, loaders, graders and underground mines, tyre valves and repair tools, crusher bearings and mill spares, workshop tools and operator seats, hydraulic hoses, weighbridges and axle scales, and light towers for night work.'),
     families: 12, models: 201,
     image: '/gold-mining/support/fleet-support.webp', cover: '/gold-mining/covers/bxc-10.webp',
     cta: { title: L('تجهّز أسطول موقعك؟', 'Equipping your site fleet?'),
@@ -252,6 +252,7 @@ export const STAGES: Stage[] = [
       { id: 'machine', chip: L('إطارات المعدات', 'Machine tyres'), badge: L('إطارات المعدات', 'Machine tyres') },
       { id: 'service', chip: L('خدمة الإطارات', 'Tyre service'), badge: L('خدمة الإطارات', 'Tyre service') },
       { id: 'workshop', chip: L('الورشة وقطع الغيار', 'Workshop & spares'), badge: L('الورشة وقطع الغيار', 'Workshop & spares') },
+      { id: 'weighing', chip: L('الوزن', 'Weighing'), badge: L('موازين الشاحنات', 'Weighbridges') },
       { id: 'lighting', chip: L('الإنارة', 'Lighting'), badge: L('الإنارة', 'Lighting') }
     ],
     how: [
@@ -299,6 +300,8 @@ const FAMILY_META: Record<string, { group?: string, type?: string }> = {
   'workshop-tools-operator-seats-belt-parts': { type: 'workshop' },
   'hydraulic-hoses': { type: 'workshop' },
   'mobile-light-towers': { type: 'lighting' },
+  'weighbridges-axle-scales': { type: 'weighing' },
+  'weighbridges-platform-scales-load-cells': { type: 'weighing' },
   'high-visibility-workwear-helmets': { type: 'ppe' },
   'head-eye-face-respiratory-hearing-fall-protection': { type: 'ppe' },
   'work-safety-gloves': { type: 'ppe' },

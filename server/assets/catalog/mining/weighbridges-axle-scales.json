@@ -1,0 +1,117 @@
+{
+  "id": "weighbridges-axle-scales",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-10 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-10 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "weigh",
+      "label": {
+        "en": "Weighbridges and axle scales",
+        "ar": "موازين الشاحنات وموازين المحاور"
+      },
+      "models": [
+        {
+          "code": "BX-0464-01-001",
+          "name": {
+            "en": "Truck scale set, 12 mm deck",
+            "ar": "طقم ميزان شاحنات بمنصة ⁦12⁩ مم"
+          },
+          "specs": {
+            "models": {
+              "en": "3×7, 3×8, 3×9, 3×10, 3×12, 3×15, 3×16, 3×18, 3×20, 3×22, 3×24 m (30–120 t)",
+              "ar": "⁦3×7⁩ و⁦3×8⁩ و⁦3×9⁩ و⁦3×10⁩ و⁦3×12⁩ و⁦3×15⁩ و⁦3×16⁩ و⁦3×18⁩ و⁦3×20⁩ و⁦3×22⁩ و⁦3×24⁩ م (⁦30⁠–⁠120⁩ طن)"
+            },
+            "data": {
+              "en": "Complete digital set; 2–4 sections; digital indicator and 30 t digital load cells (OIML R76, CE); IP68 junction box; 50 m cable in steel conduit; base plates and fixings",
+              "ar": "طقم رقمي كامل؛ ⁦2⁠–⁠4⁩ أقسام؛ مؤشر رقمي وخلايا وزن رقمية ⁦30⁩ طن (⁦OIML R76⁩، ⁦CE⁩)؛ صندوق توصيل ⁦IP68⁩؛ كابل ⁦50⁩ م في أنبوب فولاذي؛ ألواح القاعدة وأدوات التثبيت"
+            }
+          }
+        },
+        {
+          "code": "BX-0460-01-001",
+          "name": {
+            "en": "Truck scale",
+            "ar": "ميزان شاحنات"
+          },
+          "specs": {
+            "models": {
+              "en": "OP-100",
+              "ar": "⁦OP-100⁩"
+            },
+            "data": {
+              "en": "Capacity and deck size on request",
+              "ar": "السعة ومقاس المنصة عند الطلب"
+            }
+          }
+        },
+        {
+          "code": "BX-0460-01-002",
+          "name": {
+            "en": "Axle scales & weighing pads",
+            "ar": "موازين ووسائد المحاور"
+          },
+          "specs": {
+            "models": {
+              "en": "OP-923; OP-928 with OP-928-C trolley",
+              "ar": "⁦OP-923⁩؛ و⁦OP-928⁩ مع عربة ⁦OP-928-C⁩"
+            },
+            "data": {
+              "en": "Portable axle weighing",
+              "ar": "وزن المحاور المحمول"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "30–120 t",
+        "ar": "⁦30⁠–⁠120⁩ طن"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ]
+}

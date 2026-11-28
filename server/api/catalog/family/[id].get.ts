@@ -151,7 +151,9 @@ const FAMILY_FILES: Record<string, string> = {
   'bearings-mill-spares': 'catalog/mining/bearings-mill-spares.json',
   'workshop-tools-operator-seats-belt-parts': 'catalog/mining/workshop-tools-operator-seats-belt-parts.json',
   'hydraulic-hoses': 'catalog/mining/hydraulic-hoses.json',
-  'mobile-light-towers': 'catalog/mining/mobile-light-towers.json'
+  'mobile-light-towers': 'catalog/mining/mobile-light-towers.json',
+  'weighbridges-axle-scales': 'catalog/mining/weighbridges-axle-scales.json',
+  'weighbridges-platform-scales-load-cells': 'catalog/mining/weighbridges-platform-scales-load-cells.json'
 }
 
 const cache = new Map<string, any>()

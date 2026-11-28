@@ -206,3 +206,29 @@ F['mobile-light-towers'] = family('mobile-light-towers', CAT, [
           [(None, m, None, *v) for m, *v in LT],
           code='BX-0004-02-007', key_rows=['lm', 'runtime', 'mast']),
 ])
+
+# p12 weighbridges & axle scales ---------------------------------------------------------------------------
+F['weighbridges-axle-scales'] = family('weighbridges-axle-scales', CAT, [
+    table('weigh', ('Weighbridges and axle scales', 'موازين الشاحنات وموازين المحاور'), ('30–120 t', '30–120 طن'), SERIES,
+          [('BX-0464-01-001', 'Truck scale set, 12 mm deck', 'طقم ميزان شاحنات بمنصة 12 مم',
+            ('3×7, 3×8, 3×9, 3×10, 3×12, 3×15, 3×16, 3×18, 3×20, 3×22, 3×24 m (30–120 t)', '3×7 و3×8 و3×9 و3×10 و3×12 و3×15 و3×16 و3×18 و3×20 و3×22 و3×24 م (30–120 طن)'),
+            ('Complete digital set; 2–4 sections; digital indicator and 30 t digital load cells (OIML R76, CE); IP68 junction box; 50 m cable in steel conduit; base plates and fixings',
+             'طقم رقمي كامل؛ 2–4 أقسام؛ مؤشر رقمي وخلايا وزن رقمية 30 طن (OIML R76، CE)؛ صندوق توصيل IP68؛ كابل 50 م في أنبوب فولاذي؛ ألواح القاعدة وأدوات التثبيت')),
+           ('BX-0460-01-001', 'Truck scale', 'ميزان شاحنات', 'OP-100', ('Capacity and deck size on request', 'السعة ومقاس المنصة عند الطلب')),
+           ('BX-0460-01-002', 'Axle scales & weighing pads', 'موازين ووسائد المحاور', ('OP-923; OP-928 with OP-928-C trolley', 'OP-923؛ وOP-928 مع عربة OP-928-C'),
+            ('Portable axle weighing', 'وزن المحاور المحمول'))],
+          unit=U_PRODUCT),
+], type_label=('Product', 'المنتج'))
+
+# p13 weighbridges, platform scales & load cells -------------------------------------------------------------
+F['weighbridges-platform-scales-load-cells'] = family('weighbridges-platform-scales-load-cells', CAT, [
+    table('weigh', ('Weighbridges, platform scales and load cells', 'موازين الشاحنات وموازين المنصة وخلايا الوزن'), ('1–200 t', '1–200 طن'), SERIES,
+          [('BX-0462-01-001', 'Digital truck scales (weighbridges)', 'موازين شاحنات رقمية', ('30, 60, 80, 100, 120, 150, 200 t', '30 و60 و80 و100 و120 و150 و200 طن'),
+            ('Deck 3–6 m wide, 4–30 m long; Q235 steel, U-beams, 8–14 mm plate; OIML R76 Class III; 10 / 20 / 50 kg division; 125% safe overload; pit or pitless; IP68',
+             'منصة بعرض 3–6 م وطول 4–30 م؛ فولاذ Q235 وعوارض U ولوح 8–14 مم؛ OIML R76 الفئة III؛ تدريج 10 / 20 / 50 كجم؛ حمل زائد آمن 125%؛ في حفرة أو فوق الأرض؛ IP68')),
+           ('BX-0462-01-002', 'Digital load cells', 'خلايا وزن رقمية', ('QS-D, QSA; 20, 30, 40, 50 t', 'QS-D وQSA؛ 20 و30 و40 و50 طن'),
+            ('RS485; C3; ±0.02% FS; IP68; -30 to +70 °C; lightning protection; 4–10 cells per weighbridge', 'RS485؛ C3؛ ±0.02% من المدى؛ IP68؛ من -30 إلى +70 °م؛ حماية من الصواعق؛ 4–10 خلايا لكل ميزان')),
+           ('BX-0464-01-003', 'Platform scales', 'موازين منصة', ('SCS 1–3 t (1×1 to 2×2 m); SCS 5 t (1.2×1.2 to 2×2 m)', 'SCS ‏1–3 طن (1×1 إلى 2×2 م)؛ SCS ‏5 طن (1.2×1.2 إلى 2×2 م)'),
+            ('0.5 / 1 kg division; 5 mm checker plate, U-beams; 4 load cells; IP68 junction box; 10 m cable', 'تدريج 0.5 / 1 كجم؛ لوح مضلّع 5 مم وعوارض U؛ 4 خلايا وزن؛ صندوق توصيل IP68؛ كابل 10 م'))],
+          unit=U_PRODUCT),
+], type_label=('Product', 'المنتج'))
