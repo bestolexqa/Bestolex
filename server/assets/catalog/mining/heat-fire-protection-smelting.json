@@ -1,0 +1,179 @@
+{
+  "id": "heat-fire-protection-smelting",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXS-01 Ed2⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXS-01 Ed2 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "spec",
+      "label": {
+        "en": "Specification",
+        "ar": "المواصفات"
+      }
+    }
+  ],
+  "keyRows": [
+    "spec"
+  ],
+  "types": [
+    {
+      "id": "heat",
+      "label": {
+        "en": "Heat and fire protection",
+        "ar": "الحماية من الحرارة والحريق"
+      },
+      "models": [
+        {
+          "code": "BX-0043-01-001",
+          "name": {
+            "en": "Fire-resistant suits",
+            "ar": "بدلات مقاومة للحريق"
+          },
+          "specs": {
+            "spec": {
+              "en": "Ceramic fibre 1000 °C, fibreglass 550 °C, aluminised carbon fibre 400 °C; large and special large",
+              "ar": "ألياف خزفية ⁦1000 °⁩م، وألياف زجاجية ⁦550 °⁩م، وألياف كربون مؤلمنة ⁦400 °⁩م؛ مقاس كبير وكبير خاص"
+            }
+          }
+        },
+        {
+          "code": "BX-0043-01-002",
+          "name": {
+            "en": "Leather welder suit sets",
+            "ar": "أطقم بدلات لحام جلدية"
+          },
+          "specs": {
+            "spec": {
+              "en": "Double-layer leather: suit, apron, sleeves, gaiters, hood; L–4XL",
+              "ar": "جلد بطبقتين: بدلة ومريلة وأكمام وواقيات ساق وغطاء رأس؛ ⁦L–4XL⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0043-01-003",
+          "name": {
+            "en": "Heat-resistant gloves & mittens",
+            "ar": "قفازات وكفوف مقاومة للحرارة"
+          },
+          "specs": {
+            "spec": {
+              "en": "12\", 15\", 18\"; fibreglass 550 °C, aluminised carbon 300 °C, aluminised aramid 400 °C, aramid 250 °C, ceramic 1000 °C",
+              "ar": "⁦12⁩ و⁦15⁩ و⁦18⁩ بوصة؛ ألياف زجاجية ⁦550 °⁩م، وكربون مؤلمن ⁦300 °⁩م، وأراميد مؤلمن ⁦400 °⁩م، وأراميد ⁦250 °⁩م، وخزف ⁦1000 °⁩م"
+            }
+          }
+        },
+        {
+          "code": "BX-0043-01-004",
+          "name": {
+            "en": "Fire blankets & blanket/extinguisher sets",
+            "ar": "بطانيات الحريق وأطقم البطانية والطفاية"
+          },
+          "specs": {
+            "spec": {
+              "en": "Fibreglass 550 °C; 1 × 1 to 1.8 × 1.8 m; EN 1869 / ASTM F1989",
+              "ar": "ألياف زجاجية ⁦550 °⁩م؛ من ⁦1 × 1⁩ إلى ⁦1.8 × 1.8⁩ م؛ ⁦EN 1869 / ASTM F1989⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0043-01-010",
+          "name": {
+            "en": "Welding blankets & curtains",
+            "ar": "بطانيات وستائر اللحام"
+          },
+          "specs": {
+            "spec": {
+              "en": "Fibreglass 550 °C; 1.8 × 1.8 to 20 × 20 m",
+              "ar": "ألياف زجاجية ⁦550 °⁩م؛ من ⁦1.8 × 1.8⁩ إلى ⁦20 × 20⁩ م"
+            }
+          }
+        },
+        {
+          "code": "BX-0043-01-016",
+          "name": {
+            "en": "Foundry mats & fire sleeves",
+            "ar": "حصائر المسابك وأكمام الحريق"
+          },
+          "specs": {
+            "spec": {
+              "en": "Mats to 1000 °C; sleeves ID 10–200 mm",
+              "ar": "حصائر حتى ⁦1000 °⁩م؛ أكمام بقطر داخلي ⁦10⁠–⁠200⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0043-02-003",
+          "name": {
+            "en": "Ceramic-fibre rope",
+            "ar": "حبال الألياف الخزفية"
+          },
+          "specs": {
+            "spec": {
+              "en": "Furnace door seals and lining, about 1000 °C",
+              "ar": "لإحكام أبواب الأفران وبطانتها، نحو ⁦1000 °⁩م"
+            }
+          }
+        },
+        {
+          "code": "BX-0043-02-004",
+          "name": {
+            "en": "Ceramic-fibre cloth & tape",
+            "ar": "قماش وشريط الألياف الخزفية"
+          },
+          "specs": {
+            "spec": {
+              "en": "Furnace door seals and lining, about 1000 °C",
+              "ar": "لإحكام أبواب الأفران وبطانتها، نحو ⁦1000 °⁩م"
+            }
+          }
+        },
+        {
+          "code": "BX-0043-02-024",
+          "name": {
+            "en": "Mica sheet",
+            "ar": "ألواح الميكا"
+          },
+          "specs": {
+            "spec": {
+              "en": "Coil insulation for induction furnaces",
+              "ar": "عزل ملفات أفران الحث"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Up to 1000 °C",
+        "ar": "حتى ⁦1000 °⁩م"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      },
+      "intro": {
+        "en": "Temperature ratings and standards as stated by the manufacturer.",
+        "ar": "درجات الحرارة والمعايير حسب بيانات المصنّع."
+      }
+    }
+  ]
+}

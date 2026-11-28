@@ -1,0 +1,276 @@
+{
+  "id": "breathing-apparatus-respirators-suits",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXS-01 Ed2⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXS-01 Ed2 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "ba",
+      "label": {
+        "en": "Breathing apparatus & compressors",
+        "ar": "أجهزة التنفس والضواغط"
+      },
+      "models": [
+        {
+          "code": "BX-0761-01-001",
+          "name": {
+            "en": "Self-contained breathing apparatus (SCBA)",
+            "ar": "جهاز تنفس ذاتي (⁦SCBA⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "RHZK5/30, RHZKF3/30, RHZKF6.8/30, RHZKF9/30, RHZKF6.8-1 / -2, RHZKF6.8 /A /B /C /CT /D /E, 6.8C, 6.8CT/B",
+              "ar": "⁦RHZK5/30, RHZKF3/30, RHZKF6.8/30, RHZKF9/30, RHZKF6.8-1 / -2, RHZKF6.8 /A /B /C /CT /D /E, 6.8C, 6.8CT/B⁩"
+            },
+            "data": {
+              "en": "Positive pressure; steel or carbon-fibre cylinders 3–9 L, 30 MPa; about 60 min with a 6.8 L cylinder",
+              "ar": "ضغط موجب؛ أسطوانات فولاذ أو ألياف كربون ⁦3⁠–⁠9⁩ لترات، ⁦30⁩ ميجاباسكال؛ نحو ⁦60⁩ دقيقة بأسطوانة ⁦6.8⁩ لتر"
+            }
+          }
+        },
+        {
+          "code": "BX-0761-01-002",
+          "name": {
+            "en": "Long-tube air breathing apparatus on trolley",
+            "ar": "جهاز تنفس بخرطوم طويل على عربة"
+          },
+          "specs": {
+            "models": {
+              "en": "HKC-30/60",
+              "ar": "⁦HKC-30/60⁩"
+            },
+            "data": {
+              "en": "Cylinder air supply on a trolley with a long hose",
+              "ar": "هواء من أسطوانات على عربة بخرطوم طويل"
+            }
+          }
+        },
+        {
+          "code": "BX-0761-01-003",
+          "name": {
+            "en": "Emergency escape breathing device (EEBD)",
+            "ar": "جهاز تنفس للهروب في الطوارئ (⁦EEBD⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "THDX-15",
+              "ar": "⁦THDX-15⁩"
+            },
+            "data": {
+              "en": "Escape set with hood",
+              "ar": "طقم هروب بغطاء رأس"
+            }
+          }
+        },
+        {
+          "code": "BX-0761-01-004",
+          "name": {
+            "en": "Powered air-purifying respirators & blower air supply",
+            "ar": "أقنعة تنقية هواء آلية وتغذية هواء بالنافخ"
+          },
+          "specs": {
+            "models": {
+              "en": "ELSP-100 and others",
+              "ar": "⁦ELSP-100⁩ وغيره"
+            },
+            "data": {
+              "en": "Powered and blower respirators; axial-flow fan",
+              "ar": "أقنعة آلية وبالنافخ؛ مروحة محورية"
+            }
+          }
+        },
+        {
+          "code": "BX-0761-01-010",
+          "name": {
+            "en": "Breathing-air compressors",
+            "ar": "ضواغط هواء التنفس"
+          },
+          "specs": {
+            "models": {
+              "en": "CQ-155, MCH-6, TRD-H-W, CQ-200",
+              "ar": "⁦CQ-155, MCH-6, TRD-H-W, CQ-200⁩"
+            },
+            "data": {
+              "en": "High-pressure compressors for filling breathing-apparatus cylinders",
+              "ar": "ضواغط ضغط عالٍ لتعبئة أسطوانات أجهزة التنفس"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "30 MPa",
+        "ar": "⁦30⁩ ميجاباسكال"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    },
+    {
+      "id": "suits",
+      "label": {
+        "en": "Respirators & protective suits",
+        "ar": "الأقنعة والبدلات الواقية"
+      },
+      "models": [
+        {
+          "code": "BX-0761-01-005",
+          "name": {
+            "en": "Full- and half-face respirator masks",
+            "ar": "أقنعة تنفس للوجه كاملاً ولنصفه"
+          },
+          "specs": {
+            "models": {
+              "en": "A100, A200, A300, A400",
+              "ar": "⁦A100, A200, A300, A400⁩"
+            },
+            "data": {
+              "en": "Masks with replaceable filters",
+              "ar": "أقنعة بمرشحات قابلة للتبديل"
+            }
+          }
+        },
+        {
+          "code": "BX-0761-01-006",
+          "name": {
+            "en": "Protective suits",
+            "ar": "بدلات واقية"
+          },
+          "specs": {
+            "models": {
+              "en": "RFH-01 / -02 and others",
+              "ar": "⁦RFH-01 / -02⁩ وغيرها"
+            },
+            "data": {
+              "en": "Chemical splash and gas-tight suits, aluminised fire-proximity suits, anti-bee and low-temperature suits",
+              "ar": "بدلات للرذاذ الكيماوي ومحكمة ضد الغاز، وبدلات مؤلمنة للاقتراب من النار، وبدلات ضد النحل وللحرارة المنخفضة"
+            }
+          }
+        },
+        {
+          "code": "BX-0761-01-007",
+          "name": {
+            "en": "Firefighting protective clothing",
+            "ar": "ملابس واقية للإطفاء"
+          },
+          "specs": {
+            "models": {
+              "en": "02-type, 17-type",
+              "ar": "طراز ⁦02⁩ وطراز ⁦17⁩"
+            },
+            "data": {
+              "en": "Firefighter suits",
+              "ar": "بدلات رجال الإطفاء"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    },
+    {
+      "id": "extra",
+      "label": {
+        "en": "Additional PPE",
+        "ar": "معدات وقاية إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0763-02-004",
+          "name": {
+            "en": "Nitrile disposable gloves, powder-free",
+            "ar": "قفازات نتريل للاستعمال مرة واحدة بلا بودرة"
+          },
+          "specs": {
+            "models": {
+              "en": "3.0 g, 3.5 g; blue, black",
+              "ar": "⁦3.0⁩ جم و⁦3.5⁩ جم؛ أزرق وأسود"
+            },
+            "data": {
+              "en": "Medical grade, AQL 1.5; 100 per box, 10 boxes per carton; CE and ISO",
+              "ar": "درجة طبية، ⁦AQL 1.5⁩؛ ⁦100⁩ في العلبة و⁦10⁩ علب في الكرتونة؛ ⁦CE⁩ و⁦ISO⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0774-01-001",
+          "name": {
+            "en": "Hi-vis mesh safety vest",
+            "ar": "سترة سلامة شبكية عالية الوضوح"
+          },
+          "specs": {
+            "models": {
+              "en": "Mesh vest, 120 g/m²",
+              "ar": "سترة شبكية، ⁦120⁩ جم/م²"
+            },
+            "data": {
+              "en": "100% polyester mesh; fluorescent colours",
+              "ar": "شبك بوليستر ⁦100%⁩؛ ألوان فسفورية"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ]
+}

@@ -28961,6 +28961,2496 @@
             }
           }
         ]
+      },
+      {
+        "id": "safety-site-facilities",
+        "title": {
+          "ar": "السلامة ومرافق الموقع",
+          "en": "Safety & Site Facilities"
+        },
+        "products": [
+          {
+            "id": "high-visibility-workwear-helmets",
+            "name": {
+              "ar": "الملابس عالية الوضوح وخوذ السلامة",
+              "en": "High-Visibility Workwear & Safety Helmets"
+            },
+            "coverImage": "/products/high-visibility-workwear-helmets/high-visibility-workwear-helmets.webp",
+            "description": {
+              "ar": "سترات وقمصان وبولو وجاكيتات وقبعات عاكسة باللون الأصفر والبرتقالي والليموني الفسفوري، مع خوذ ⁦ABS⁩ و⁦HDPE⁩، للعاملين قرب الشاحنات واللوادر والمصنع.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Reflective vests, T-shirts, polo shirts, jackets and caps in fluorescent yellow, orange and lime, plus ABS and HDPE helmets, for crews working near trucks, loaders and plant.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "سترات ⁦EN ISO 20471⁩ بشريط عاكس ⁦5⁩ سم",
+                "مقاسات من ⁦S⁩ إلى ⁦5XL⁩",
+                "خوذ ⁦ABS⁩ و⁦HDPE⁩ بشهادة ⁦CE⁩",
+                "طباعة شعار الشركة عند الطلب"
+              ],
+              "en": [
+                "EN ISO 20471 vests with 5 cm reflective tape",
+                "Sizes from S to 5XL",
+                "CE ABS and HDPE helmets",
+                "Company logo printing on request"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المعيار",
+                  "value": "⁦EN ISO 20471⁩"
+                },
+                {
+                  "label": "المقاسات",
+                  "value": "⁦S–5XL⁩"
+                },
+                {
+                  "label": "الألوان",
+                  "value": "أصفر، برتقالي، ليموني"
+                },
+                {
+                  "label": "الخوذ",
+                  "value": "⁦ABS⁩ أو ⁦HDPE⁩، نحو ⁦435⁩ جم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Standard",
+                  "value": "EN ISO 20471"
+                },
+                {
+                  "label": "Sizes",
+                  "value": "S–5XL"
+                },
+                {
+                  "label": "Colours",
+                  "value": "Yellow, orange, lime"
+                },
+                {
+                  "label": "Helmets",
+                  "value": "ABS or HDPE, about 435 g"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/high-visibility-workwear-helmets/high-visibility-workwear-helmets.webp"
+            ],
+            "image": "/products/high-visibility-workwear-helmets/high-visibility-workwear-helmets.webp",
+            "cardImage": "/products/high-visibility-workwear-helmets/high-visibility-workwear-helmets.webp",
+            "seo": {
+              "title": {
+                "ar": "الملابس عالية الوضوح والسترات العاكسة وخوذ السلامة",
+                "en": "Hi-Vis Workwear, Reflective Vests and Safety Helmets"
+              },
+              "description": {
+                "ar": "سترات وقمصان وجاكيتات عاكسة ⁦EN ISO 20471⁩ من ⁦S⁩ إلى ⁦5XL⁩، وخوذ ⁦ABS⁩ و⁦HDPE⁩، مع طباعة الشعار عند الطلب. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "EN ISO 20471 reflective vests, shirts and jackets from S to 5XL, plus ABS and HDPE helmets, with logo printing on request. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "ملابس عاكسة وخوذ لطواقم الموقع. اختر من الجدول أدناه.",
+              "en": "Hi-vis wear and helmets for site crews. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل تُطبع شعار شركتنا؟",
+                  "a": "نعم، تُطبع شعارات العملاء على الملابس عالية الوضوح والخوذ عند الطلب، حسب الكمية."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Can you print our company logo?",
+                  "a": "Yes, customer logos are printed on hi-vis garments and helmets on request, depending on quantity."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "53",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦S–5XL⁩",
+                  "label": "المقاسات"
+                },
+                {
+                  "value": "شعار",
+                  "label": "طباعة عند الطلب"
+                }
+              ],
+              "en": [
+                {
+                  "value": "53",
+                  "label": "Models"
+                },
+                {
+                  "value": "S–5XL",
+                  "label": "Sizes"
+                },
+                {
+                  "value": "Logo",
+                  "label": "Printing on request"
+                }
+              ]
+            }
+          },
+          {
+            "id": "head-eye-face-respiratory-hearing-fall-protection",
+            "name": {
+              "ar": "حماية الرأس والعين والوجه والتنفس والسمع والسقوط",
+              "en": "Helmets, Eye, Face, Respiratory, Hearing & Fall Protection"
+            },
+            "coverImage": "/products/head-eye-face-respiratory-hearing-fall-protection/head-eye-face-respiratory-hearing-fall-protection.webp",
+            "description": {
+              "ar": "خوذ من ⁦PE⁩ و⁦ABS⁩ والألياف الزجاجية، ونظارات سلامة ونظارات محكمة ⁦CE⁩، وواقيات وجه منها للحرارة واللحام لغرف الصهر، وكمامات وأقنعة لغبار التكسير والطحن، وسدادات وواقيات أذن، وأحزمة أمان كاملة بحبال ربط للعمل على ارتفاع.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "PE, ABS and fibreglass helmets, CE safety spectacles and goggles, face shields including heat and welding types for smelting rooms, dust masks and respirators for crushing and grinding, earplugs and earmuffs, and full-body harnesses with lanyards for work at height.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "خوذ ⁦235⁠–⁠510⁩ جم بفتحات تهوية",
+                "سدادات أذن ⁦SNR⁩ ‏⁦27⁠–⁠38⁩ ديسيبل",
+                "أحزمة أمان بقوة كسر ≥ ⁦22⁩ كيلونيوتن",
+                "واقيات وجه للحرارة واللحام"
+              ],
+              "en": [
+                "Helmets 235–510 g, vented",
+                "Earplugs SNR 27–38 dB",
+                "Harnesses with ≥ 22 kN breaking strength",
+                "Heat and welding face shields"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "سدادات الأذن",
+                  "value": "⁦SNR⁩ ‏⁦27⁠–⁠38⁩ ديسيبل"
+                },
+                {
+                  "label": "واقيات الأذن",
+                  "value": "⁦SNR⁩ ‏⁦21⁠–⁠31⁩ ديسيبل"
+                },
+                {
+                  "label": "حزام الأمان",
+                  "value": "≥ ⁦22⁩ كيلونيوتن، ⁦100⁩ كجم"
+                },
+                {
+                  "label": "النظارات",
+                  "value": "CE"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Earplugs",
+                  "value": "SNR 27–38 dB"
+                },
+                {
+                  "label": "Earmuffs",
+                  "value": "SNR 21–31 dB"
+                },
+                {
+                  "label": "Harness",
+                  "value": "≥ 22 kN, 100 kg user"
+                },
+                {
+                  "label": "Eyewear",
+                  "value": "CE"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/head-eye-face-respiratory-hearing-fall-protection/head-eye-face-respiratory-hearing-fall-protection.webp"
+            ],
+            "image": "/products/head-eye-face-respiratory-hearing-fall-protection/head-eye-face-respiratory-hearing-fall-protection.webp",
+            "cardImage": "/products/head-eye-face-respiratory-hearing-fall-protection/head-eye-face-respiratory-hearing-fall-protection.webp",
+            "seo": {
+              "title": {
+                "ar": "الخوذ ونظارات السلامة والكمامات وواقيات الأذن وأحزمة الأمان",
+                "en": "Safety Helmets, Eyewear, Respirators, Hearing and Fall Protection"
+              },
+              "description": {
+                "ar": "خوذ ونظارات ⁦CE⁩ وواقيات وجه للحرارة واللحام، وكمامات وأقنعة للغبار، وسدادات وواقيات أذن، وأحزمة أمان ≥ ⁦22⁩ كيلونيوتن. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Helmets, CE eyewear, heat and welding face shields, dust masks and respirators, earplugs and earmuffs, and ≥ 22 kN harnesses. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "معدات الحماية الشخصية من الرأس إلى السقوط. اختر من الجدول أدناه.",
+              "en": "PPE from head to fall protection. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي كمامة تناسب غبار التكسير والطحن؟",
+                  "a": "قناع نصف وجه بمرشحين قابلين للتبديل للتعرض الطويل، أو كمامة للاستعمال مرة واحدة بفئة ترشيح مناسبة للتعرض القصير."
+                },
+                {
+                  "q": "ما المطلوب لطلب معدات الوقاية؟",
+                  "a": "عدد العمال، وتوزيع المقاسات، وطبيعة العمل (حفر، أو مصنع، أو صهر، أو كيماويات)، والمعيار المطلوب إن وُجد."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which mask suits crushing and grinding dust?",
+                  "a": "A twin-filter half mask with replaceable filters for long exposure, or a disposable mask of the right filtration class for short exposure."
+                },
+                {
+                  "q": "What do you need to order PPE?",
+                  "a": "The number of workers, the size split, the type of work (drilling, plant, smelting or chemicals) and any required standard."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "13",
+                  "label": "خط منتجات"
+                },
+                {
+                  "value": "⁦27⁠–⁠38⁩ ديسيبل",
+                  "label": "عزل السدادات"
+                },
+                {
+                  "value": "≥ ⁦22⁩ كيلونيوتن",
+                  "label": "قوة كسر الحزام"
+                }
+              ],
+              "en": [
+                {
+                  "value": "13",
+                  "label": "Product lines"
+                },
+                {
+                  "value": "27–38 dB",
+                  "label": "Earplug SNR"
+                },
+                {
+                  "value": "≥ 22 kN",
+                  "label": "Harness strength"
+                }
+              ]
+            }
+          },
+          {
+            "id": "work-safety-gloves",
+            "name": {
+              "ar": "قفازات العمل والسلامة",
+              "en": "Work & Safety Gloves"
+            },
+            "coverImage": "/products/work-safety-gloves/work-safety-gloves.webp",
+            "description": {
+              "ar": "قفازات مقاومة للصدمات والقطع والكيماويات للحفر والعمل في المصنع واللحام والصهر، من النتريل واللاتكس و⁦PVC⁩ والنيوبرين والجلد.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Impact-, cut- and chemical-resistant gloves for drilling, plant work, welding and smelting, in nitrile, latex, PVC, neoprene and leather.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "قفازات صدمات بظهر ⁦TPR⁩",
+                "مقاومة للقطع حتى المستوى ⁦5⁩",
+                "قفازات كيماويات من النيوبرين والنتريل",
+                "قفازات جلدية للحام والصهر"
+              ],
+              "en": [
+                "Impact gloves with TPR back",
+                "Cut resistance up to level 5",
+                "Neoprene and nitrile chemical gloves",
+                "Leather gloves for welding and smelting"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المقاسات",
+                  "value": "⁦8–12⁩"
+                },
+                {
+                  "label": "المواد",
+                  "value": "نتريل، لاتكس، ⁦PVC⁩، نيوبرين، جلد"
+                },
+                {
+                  "label": "التعبئة",
+                  "value": "⁦10⁠–⁠12⁩ زوجاً في الكيس"
+                },
+                {
+                  "label": "الكرتونة",
+                  "value": "⁦100⁠–⁠240⁩ زوجاً"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Sizes",
+                  "value": "8–12"
+                },
+                {
+                  "label": "Materials",
+                  "value": "Nitrile, latex, PVC, neoprene, leather"
+                },
+                {
+                  "label": "Packing",
+                  "value": "10–12 pairs per bag"
+                },
+                {
+                  "label": "Carton",
+                  "value": "100–240 pairs"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/work-safety-gloves/work-safety-gloves.webp"
+            ],
+            "image": "/products/work-safety-gloves/work-safety-gloves.webp",
+            "cardImage": "/products/work-safety-gloves/work-safety-gloves.webp",
+            "seo": {
+              "title": {
+                "ar": "قفازات العمل والسلامة المقاومة للصدمات والقطع والكيماويات",
+                "en": "Impact, Cut and Chemical-Resistant Work Gloves"
+              },
+              "description": {
+                "ar": "قفازات صدمات وقطع حتى المستوى ⁦5⁩، وقفازات كيماويات ولحام وصهر من النتريل واللاتكس و⁦PVC⁩ والنيوبرين والجلد. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Impact and cut-resistant gloves up to level 5, plus chemical, welding and smelting gloves in nitrile, latex, PVC, neoprene and leather. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "قفازات لكل عمل في الموقع. اختر من الجدول أدناه.",
+              "en": "Gloves for every job on site. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لطلب معدات الوقاية؟",
+                  "a": "عدد العمال، وتوزيع المقاسات، وطبيعة العمل (حفر، أو مصنع، أو صهر، أو كيماويات)، والمعيار المطلوب إن وُجد."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to order PPE?",
+                  "a": "The number of workers, the size split, the type of work (drilling, plant, smelting or chemicals) and any required standard."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "14",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "المستوى ⁦5⁩",
+                  "label": "مقاومة القطع"
+                },
+                {
+                  "value": "⁦8–12⁩",
+                  "label": "المقاسات"
+                }
+              ],
+              "en": [
+                {
+                  "value": "14",
+                  "label": "Models"
+                },
+                {
+                  "value": "Level 5",
+                  "label": "Cut resistance"
+                },
+                {
+                  "value": "8–12",
+                  "label": "Sizes"
+                }
+              ]
+            }
+          },
+          {
+            "id": "work-safety-gloves-additional-range",
+            "name": {
+              "ar": "قفازات العمل والسلامة – تشكيلة إضافية",
+              "en": "Work & Safety Gloves – Additional Range"
+            },
+            "coverImage": "/products/work-safety-gloves-additional-range/work-safety-gloves-additional-range.webp",
+            "description": {
+              "ar": "قفازات مطلية بالنتريل واللاتكس و⁦PVC⁩ و⁦HPPE⁩ من ⁦10⁩ إلى ⁦21 G⁩، وقفازات مقاومة للقطع حتى ⁦ANSI A8⁩، وقفازات صدمات ⁦TPR⁩، وقفازات محبوكة بلا درزات، وقفازات كيماويات طويلة، وقفازات جلدية للعمل واللحام.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Nitrile, latex, PVC and HPPE coated gloves from 10 to 21 gauge, cut-resistant gloves up to ANSI A8, TPR impact gloves, seamless knitted gloves, chemical gauntlets and leather work and welding gloves.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "مقاومة للقطع من ⁦ANSI A2⁩ إلى ⁦A8⁩",
+                "بطانات من ⁦10⁩ إلى ⁦21 G⁩",
+                "قفازات ⁦EN 388⁩",
+                "قفازات لحام جلدية ⁦14⁩ و⁦16⁩ بوصة"
+              ],
+              "en": [
+                "Cut resistance ANSI A2 to A8",
+                "Liners from 10 to 21 gauge",
+                "EN 388 gloves",
+                "Leather welding gloves, 14 and 16 in"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "مستويات القطع",
+                  "value": "⁦ANSI A2–A8⁩"
+                },
+                {
+                  "label": "البطانة",
+                  "value": "⁦10–21 G⁩"
+                },
+                {
+                  "label": "المعيار",
+                  "value": "⁦EN 388⁩"
+                },
+                {
+                  "label": "الطلاء",
+                  "value": "نتريل، لاتكس، ⁦PVC⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Cut levels",
+                  "value": "ANSI A2–A8"
+                },
+                {
+                  "label": "Liner gauge",
+                  "value": "10–21 G"
+                },
+                {
+                  "label": "Standard",
+                  "value": "EN 388"
+                },
+                {
+                  "label": "Coating",
+                  "value": "Nitrile, latex, PVC"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/work-safety-gloves-additional-range/work-safety-gloves-additional-range.webp"
+            ],
+            "image": "/products/work-safety-gloves-additional-range/work-safety-gloves-additional-range.webp",
+            "cardImage": "/products/work-safety-gloves-additional-range/work-safety-gloves-additional-range.webp",
+            "seo": {
+              "title": {
+                "ar": "قفازات مطلية بالنتريل ومقاومة للقطع حتى ANSI A8",
+                "en": "Nitrile Coated and Cut-Resistant Gloves to ANSI A8"
+              },
+              "description": {
+                "ar": "قفازات مطلية بالنتريل واللاتكس و⁦PVC⁩، ومقاومة للقطع حتى ⁦ANSI A8⁩، وقفازات صدمات ⁦TPR⁩، وقفازات كيماويات ولحام. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Nitrile, latex and PVC coated gloves, cut-resistant gloves to ANSI A8, TPR impact gloves, chemical and welding gloves. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "تشكيلة إضافية من قفازات العمل. اختر من الجدول أدناه.",
+              "en": "More work and safety gloves. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين النتريل الرغوي والرملي؟",
+                  "a": "الرغوي أخف ويسمح بالتنفس ويناسب العمل الدقيق، والرملي أقوى قبضة في الزيت والطين."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Micro-foam or sandy nitrile?",
+                  "a": "Micro-foam is lighter and breathes, suiting fine work; sandy nitrile grips harder in oil and mud."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "15",
+                  "label": "خط منتجات"
+                },
+                {
+                  "value": "⁦A2–A8⁩",
+                  "label": "مستويات القطع"
+                },
+                {
+                  "value": "⁦10–21 G⁩",
+                  "label": "البطانة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "15",
+                  "label": "Product lines"
+                },
+                {
+                  "value": "A2–A8",
+                  "label": "ANSI cut levels"
+                },
+                {
+                  "value": "10–21 G",
+                  "label": "Liner gauge"
+                }
+              ]
+            }
+          },
+          {
+            "id": "safety-footwear",
+            "name": {
+              "ar": "أحذية السلامة",
+              "en": "Safety Footwear"
+            },
+            "coverImage": "/products/safety-footwear/safety-footwear.webp",
+            "description": {
+              "ar": "أحذية وبوت سلامة جلدية بمقدمات فولاذية ونعال مقاومة للثقب من ⁦SB⁩ إلى ⁦S3⁩، وبوت للخدمة الشاقة وبخياطة غوديير للمواقع الصخرية، وبوت طويل وبوت مطر للمناطق الرطبة، وأحذية عازلة ومضادة للكهرباء الساكنة، وأحذية للحامين.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Leather safety shoes and boots with steel toe caps and puncture-resistant soles from SB to S3, heavy-duty and Goodyear-welted boots for rocky sites, rigger and rain boots for wet areas, electrical-insulation and ESD shoes, and welder shoes.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "فئات السلامة من ⁦SB⁩ إلى ⁦S3⁩",
+                "مقدمة فولاذية ونعل مقاوم للثقب",
+                "أحذية عازلة ⁦6 / 10 / 15⁩ كيلوفولت",
+                "بوت مطر وبوت طويل لمواقع الغسيل"
+              ],
+              "en": [
+                "Safety classes SB to S3",
+                "Steel toe and puncture-resistant sole",
+                "6 / 10 / 15 kV insulating shoes",
+                "Rain and rigger boots for washing sites"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "فئات السلامة",
+                  "value": "⁦SB–S3⁩"
+                },
+                {
+                  "label": "المقاسات",
+                  "value": "⁦EU 37–48⁩"
+                },
+                {
+                  "label": "المقدمة",
+                  "value": "فولاذية أو مركّبة"
+                },
+                {
+                  "label": "النعل",
+                  "value": "بولي يوريثان، مطاط، ⁦EVA⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Safety classes",
+                  "value": "SB–S3"
+                },
+                {
+                  "label": "Sizes",
+                  "value": "EU 37–48"
+                },
+                {
+                  "label": "Toe cap",
+                  "value": "Steel or composite"
+                },
+                {
+                  "label": "Sole",
+                  "value": "PU, rubber, EVA"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/safety-footwear/safety-footwear.webp"
+            ],
+            "image": "/products/safety-footwear/safety-footwear.webp",
+            "cardImage": "/products/safety-footwear/safety-footwear.webp",
+            "seo": {
+              "title": {
+                "ar": "أحذية وبوت السلامة من SB إلى S3",
+                "en": "Safety Shoes and Boots from SB to S3"
+              },
+              "description": {
+                "ar": "أحذية وبوت سلامة جلدية بمقدمة فولاذية من ⁦SB⁩ إلى ⁦S3⁩، وبوت شاق وغوديير ومطر وطويل، وأحذية عازلة وللحامين، مقاسات ⁦37⁠–⁠48⁩. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Leather safety shoes and boots with steel toes from SB to S3, heavy-duty, Goodyear-welted, rain and rigger boots, insulating and welder shoes, EU 37–48. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أحذية سلامة لكل أرضية في الموقع. اختر من الجدول أدناه.",
+              "en": "Safety footwear for every ground on site. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي فئة تناسب موقع التعدين؟",
+                  "a": "⁦S3⁩ للمواقع الصخرية والرطبة لأنها تجمع المقدمة الفولاذية والنعل المقاوم للثقب ومقاومة الماء؛ و⁦S1P⁩ للورش الجافة."
+                },
+                {
+                  "q": "ما المطلوب لطلب معدات الوقاية؟",
+                  "a": "عدد العمال، وتوزيع المقاسات، وطبيعة العمل (حفر، أو مصنع، أو صهر، أو كيماويات)، والمعيار المطلوب إن وُجد."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which class suits a mine site?",
+                  "a": "S3 for rocky and wet sites, as it combines a steel toe, a puncture-resistant sole and water resistance; S1P for dry workshops."
+                },
+                {
+                  "q": "What do you need to order PPE?",
+                  "a": "The number of workers, the size split, the type of work (drilling, plant, smelting or chemicals) and any required standard."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "14",
+                  "label": "خط منتجات"
+                },
+                {
+                  "value": "⁦SB–S3⁩",
+                  "label": "فئات السلامة"
+                },
+                {
+                  "value": "⁦37–48⁩",
+                  "label": "المقاسات الأوروبية"
+                }
+              ],
+              "en": [
+                {
+                  "value": "14",
+                  "label": "Product lines"
+                },
+                {
+                  "value": "SB–S3",
+                  "label": "Safety classes"
+                },
+                {
+                  "value": "37–48",
+                  "label": "EU sizes"
+                }
+              ]
+            }
+          },
+          {
+            "id": "disposable-protective-coveralls",
+            "name": {
+              "ar": "الأوفرولات الواقية للاستعمال مرة واحدة",
+              "en": "Disposable Protective Coveralls"
+            },
+            "coverImage": "/products/disposable-protective-coveralls/disposable-protective-coveralls.webp",
+            "description": {
+              "ar": "أوفرولات واقية للاستعمال مرة واحدة بقلنسوة من البولي بروبلين و⁦SMS⁩ والقماش المصفّح المسامي (⁦PP+PE⁩) من ⁦40⁩ إلى ⁦90⁩ جم/م²، بقطعة أو قطعتين، لعاملي المصنع والورشة والمختبر.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Disposable protective coveralls with hood in polypropylene, SMS and laminated microporous (PP+PE) fabrics from 40 to 90 g/m², one-piece or two-piece, for plant, workshop and laboratory staff.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "أقمشة ⁦PP⁩ و⁦SMS⁩ و⁦PP+PE⁩",
+                "من ⁦40⁩ إلى ⁦90⁩ جم/م²",
+                "بقطعة أو قطعتين",
+                "طبقة مزدوجة عند الركبتين في ⁦Type 7000⁩"
+              ],
+              "en": [
+                "PP, SMS and PP+PE fabrics",
+                "From 40 to 90 g/m²",
+                "One-piece or two-piece",
+                "Double layer at the knees on Type 7000"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "وزن القماش",
+                  "value": "⁦40⁠–⁠90⁩ جم/م²"
+                },
+                {
+                  "label": "المقاسات",
+                  "value": "⁦L / XL⁩"
+                },
+                {
+                  "label": "التعبئة",
+                  "value": "⁦20⁠–⁠50⁩ قطعة/صندوق"
+                },
+                {
+                  "label": "النوع",
+                  "value": "قطعة أو قطعتان"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Fabric weight",
+                  "value": "40–90 g/m²"
+                },
+                {
+                  "label": "Sizes",
+                  "value": "L / XL"
+                },
+                {
+                  "label": "Packing",
+                  "value": "20–50 pcs/box"
+                },
+                {
+                  "label": "Type",
+                  "value": "One- or two-piece"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/disposable-protective-coveralls/disposable-protective-coveralls.webp"
+            ],
+            "image": "/products/disposable-protective-coveralls/disposable-protective-coveralls.webp",
+            "cardImage": "/products/disposable-protective-coveralls/disposable-protective-coveralls.webp",
+            "seo": {
+              "title": {
+                "ar": "الأوفرولات الواقية PP وSMS وPP+PE",
+                "en": "Disposable PP, SMS and PP+PE Coveralls"
+              },
+              "description": {
+                "ar": "أوفرولات واقية بقلنسوة من ⁦40⁩ إلى ⁦90⁩ جم/م² من ⁦PP⁩ و⁦SMS⁩ والقماش المصفّح ⁦PP+PE⁩، لعاملي المصنع والورشة والمختبر. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Hooded disposable coveralls from 40 to 90 g/m² in PP, SMS and laminated PP+PE for plant, workshop and laboratory staff. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أوفرولات للمصنع والمختبر. اختر من الجدول أدناه.",
+              "en": "Coveralls for plant and laboratory. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي أوفرول للمختبر والكيماويات الخفيفة؟",
+                  "a": "الأوفرول المصفّح المسامي ⁦PP+PE (SF-4000⁩ فأعلى) لأنه يصد السوائل أكثر من ⁦PP⁩ العادي."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which coverall for the lab and light chemicals?",
+                  "a": "The laminated microporous PP+PE coverall (SF-4000 and up), as it repels liquids better than plain PP."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "10",
+                  "label": "موديلات"
+                },
+                {
+                  "value": "⁦40⁠–⁠90⁩ جم/م²",
+                  "label": "وزن القماش"
+                },
+                {
+                  "value": "⁦L / XL⁩",
+                  "label": "المقاسات"
+                }
+              ],
+              "en": [
+                {
+                  "value": "10",
+                  "label": "Models"
+                },
+                {
+                  "value": "40–90 g/m²",
+                  "label": "Fabric weight"
+                },
+                {
+                  "value": "L / XL",
+                  "label": "Sizes"
+                }
+              ]
+            }
+          },
+          {
+            "id": "heat-fire-protection-smelting",
+            "name": {
+              "ar": "الحماية من الحرارة والحريق لغرف الصهر",
+              "en": "Heat & Fire Protection for Smelting"
+            },
+            "coverImage": "/products/heat-fire-protection-smelting/heat-fire-protection-smelting.webp",
+            "description": {
+              "ar": "بدلات مقاومة للحريق، وأطقم لحام جلدية، وقفازات مقاومة للحرارة، وبطانيات حريق ولحام، وحصائر مسابك، وعوازل أفران لغرف الصهر والورش ونقاط الحريق.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Fire-resistant suits, leather welder sets, heat-resistant gloves, fire and welding blankets, foundry mats and furnace insulation for smelting rooms, workshops and fire points.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "بدلات من الألياف الخزفية حتى ⁦1000 °⁩م",
+                "قفازات حرارة بطول ⁦12⁩ و⁦15⁩ و⁦18⁩ بوصة",
+                "بطانيات لحام حتى ⁦20 × 20⁩ م",
+                "حبال وقماش خزفي لإحكام أبواب الأفران"
+              ],
+              "en": [
+                "Ceramic-fibre suits up to 1000 °C",
+                "Heat gloves 12, 15 and 18 in long",
+                "Welding blankets up to 20 × 20 m",
+                "Ceramic rope and cloth for furnace door seals"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "أقصى حرارة",
+                  "value": "⁦1000 °⁩م"
+                },
+                {
+                  "label": "بطانيات اللحام",
+                  "value": "حتى ⁦20 × 20⁩ م"
+                },
+                {
+                  "label": "بطانيات الحريق",
+                  "value": "⁦EN 1869 / ASTM F1989⁩"
+                },
+                {
+                  "label": "بدلات اللحام",
+                  "value": "⁦L–4XL⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Max. temperature",
+                  "value": "1000 °C"
+                },
+                {
+                  "label": "Welding blankets",
+                  "value": "Up to 20 × 20 m"
+                },
+                {
+                  "label": "Fire blankets",
+                  "value": "EN 1869 / ASTM F1989"
+                },
+                {
+                  "label": "Welder suits",
+                  "value": "L–4XL"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/heat-fire-protection-smelting/heat-fire-protection-smelting.webp"
+            ],
+            "image": "/products/heat-fire-protection-smelting/heat-fire-protection-smelting.webp",
+            "cardImage": "/products/heat-fire-protection-smelting/heat-fire-protection-smelting.webp",
+            "seo": {
+              "title": {
+                "ar": "معدات الحماية من الحرارة والحريق لغرف الصهر",
+                "en": "Heat and Fire Protection for Smelting Rooms"
+              },
+              "description": {
+                "ar": "بدلات مقاومة للحريق حتى ⁦1000 °⁩م، وأطقم لحام جلدية، وقفازات حرارة، وبطانيات حريق ولحام، وعوازل أفران. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Fire-resistant suits to 1000 °C, leather welder sets, heat gloves, fire and welding blankets and furnace insulation. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "حماية الحرارة لغرفة الصهر. اختر من الجدول أدناه.",
+              "en": "Heat protection for the smelting room. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ماذا يحتاج عامل الصهر؟",
+                  "a": "بدلة مؤلمنة أو خزفية حسب الحرارة، وقفازات حرارة بطول ⁦15⁠–⁠18⁩ بوصة، وواقي وجه للحرارة، وحذاء جلدي مقاوم للحرارة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What does a smelting worker need?",
+                  "a": "An aluminised or ceramic suit by temperature, 15–18 in heat gloves, a heat face shield and heat-resistant leather boots."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦1000 °⁩م",
+                  "label": "أقصى حرارة"
+                },
+                {
+                  "value": "9",
+                  "label": "منتجات"
+                },
+                {
+                  "value": "⁦20 × 20⁩ م",
+                  "label": "أكبر بطانية"
+                }
+              ],
+              "en": [
+                {
+                  "value": "1000 °C",
+                  "label": "Max. temperature"
+                },
+                {
+                  "value": "9",
+                  "label": "Products"
+                },
+                {
+                  "value": "20 × 20 m",
+                  "label": "Max. blanket"
+                }
+              ]
+            }
+          },
+          {
+            "id": "breathing-apparatus-respirators-suits",
+            "name": {
+              "ar": "أجهزة التنفس والأقنعة والبدلات",
+              "en": "Breathing Apparatus, Respirators & Suits"
+            },
+            "coverImage": "/products/breathing-apparatus-respirators-suits/breathing-apparatus-respirators-suits.webp",
+            "description": {
+              "ar": "حماية التنفس والجسم لفرق الإنقاذ ومناطق الكيماويات والأماكن المغلقة: أجهزة تنفس ذاتية بضغط موجب، وأجهزة بخرطوم طويل وللهروب، وأقنعة آلية، وأقنعة بمرشحات، وبدلات كيماويات وحرارة وإطفاء، وضواغط لتعبئة أسطوانات هواء التنفس.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Respiratory and body protection for rescue teams, chemical areas and confined spaces: positive-pressure SCBA, long-tube and escape sets, powered respirators, filter masks, chemical, heat and firefighting suits, and compressors to refill breathing-air cylinders.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "أجهزة ⁦SCBA⁩ بضغط موجب ⁦30⁩ ميجاباسكال",
+                "نحو ⁦60⁩ دقيقة بأسطوانة ⁦6.8⁩ لتر",
+                "أجهزة هروب ⁦EEBD⁩ وخرطوم طويل",
+                "ضواغط لتعبئة الأسطوانات"
+              ],
+              "en": [
+                "Positive-pressure SCBA, 30 MPa",
+                "About 60 min with a 6.8 L cylinder",
+                "EEBD escape and long-tube sets",
+                "Compressors to refill cylinders"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "ضغط الأسطوانة",
+                  "value": "⁦30⁩ ميجاباسكال"
+                },
+                {
+                  "label": "الأسطوانات",
+                  "value": "⁦3⁠–⁠9⁩ لترات، فولاذ أو كربون"
+                },
+                {
+                  "label": "مدة العمل",
+                  "value": "نحو ⁦60⁩ دقيقة (⁦6.8⁩ لتر)"
+                },
+                {
+                  "label": "البدلات",
+                  "value": "كيماويات، حرارة، إطفاء"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Cylinder pressure",
+                  "value": "30 MPa"
+                },
+                {
+                  "label": "Cylinders",
+                  "value": "3–9 L, steel or carbon"
+                },
+                {
+                  "label": "Duration",
+                  "value": "About 60 min (6.8 L)"
+                },
+                {
+                  "label": "Suits",
+                  "value": "Chemical, heat, firefighting"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/breathing-apparatus-respirators-suits/breathing-apparatus-respirators-suits.webp"
+            ],
+            "image": "/products/breathing-apparatus-respirators-suits/breathing-apparatus-respirators-suits.webp",
+            "cardImage": "/products/breathing-apparatus-respirators-suits/breathing-apparatus-respirators-suits.webp",
+            "seo": {
+              "title": {
+                "ar": "أجهزة التنفس الذاتية SCBA والأقنعة والبدلات الواقية",
+                "en": "SCBA, Respirators and Protective Suits"
+              },
+              "description": {
+                "ar": "أجهزة ⁦SCBA⁩ بضغط موجب ⁦30⁩ ميجاباسكال، وأجهزة هروب وخرطوم طويل، وأقنعة آلية وبمرشحات، وبدلات كيماويات وإطفاء، وضواغط تعبئة. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Positive-pressure 30 MPa SCBA, escape and long-tube sets, powered and filter respirators, chemical and firefighting suits and refill compressors. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "حماية التنفس لفرق الإنقاذ والأماكن المغلقة. اختر من الجدول أدناه.",
+              "en": "Breathing protection for rescue and confined spaces. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كم يدوم جهاز SCBA؟",
+                  "a": "نحو ⁦60⁩ دقيقة بأسطوانة ⁦6.8⁩ لتر عند ⁦30⁩ ميجاباسكال، وتقل المدة مع الجهد العالي."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How long does an SCBA last?",
+                  "a": "About 60 minutes with a 6.8 L cylinder at 30 MPa, less under heavy exertion."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "33",
+                  "label": "موديلاً ونوعاً"
+                },
+                {
+                  "value": "⁦30⁩ ميجاباسكال",
+                  "label": "أسطوانات SCBA"
+                },
+                {
+                  "value": "⁦60⁩ دقيقة",
+                  "label": "أسطوانة 6.8 لتر"
+                }
+              ],
+              "en": [
+                {
+                  "value": "33",
+                  "label": "Models & types"
+                },
+                {
+                  "value": "30 MPa",
+                  "label": "SCBA cylinders"
+                },
+                {
+                  "value": "60 min",
+                  "label": "6.8 L cylinder"
+                }
+              ]
+            }
+          },
+          {
+            "id": "cap-lamps-ventilation-gas-detection",
+            "name": {
+              "ar": "مصابيح الخوذ والتهوية وكشف الغاز",
+              "en": "Cap Lamps, Ventilation & Gas Detection"
+            },
+            "coverImage": "/products/cap-lamps-ventilation-gas-detection/cap-lamps-ventilation-gas-detection.webp",
+            "description": {
+              "ar": "مصابيح خوذ ⁦LED⁩، ومراوح تهوية موضعية بمجارٍ مرنة، وكواشف غاز محمولة لعمل أكثر أماناً تحت الأرض.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "LED cap lamps, local ventilation fans with flexible ducts, and portable gas detectors for safer work underground.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "مصابيح خوذ ⁦LED⁩ حتى ⁦25⁩ ساعة",
+                "إضاءة حتى ⁦6000⁩ لوكس",
+                "مراوح تهوية موضعية للأنفاق",
+                "مجارٍ مرنة من −⁦20⁩ إلى +⁦80 °⁩م"
+              ],
+              "en": [
+                "LED cap lamps up to 25 hours",
+                "Up to 6000 lux",
+                "Local ventilation fans for tunnels",
+                "Flexible ducts from −20 to +80 °C"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "سعة البطارية",
+                  "value": "⁦4⁠–⁠6⁩ أمبير ساعة"
+                },
+                {
+                  "label": "زمن التفريغ",
+                  "value": "⁦18⁠–⁠25⁩ ساعة"
+                },
+                {
+                  "label": "دورات البطارية",
+                  "value": "⁦> 600⁩"
+                },
+                {
+                  "label": "حرارة المجرى",
+                  "value": "−⁦20⁩ إلى +⁦80 °⁩م"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Battery",
+                  "value": "4–6 Ah"
+                },
+                {
+                  "label": "Discharge time",
+                  "value": "18–25 h"
+                },
+                {
+                  "label": "Battery cycles",
+                  "value": "> 600"
+                },
+                {
+                  "label": "Duct temperature",
+                  "value": "−20 to +80 °C"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/cap-lamps-ventilation-gas-detection/cap-lamps-ventilation-gas-detection.webp"
+            ],
+            "image": "/products/cap-lamps-ventilation-gas-detection/cap-lamps-ventilation-gas-detection.webp",
+            "cardImage": "/products/cap-lamps-ventilation-gas-detection/cap-lamps-ventilation-gas-detection.webp",
+            "seo": {
+              "title": {
+                "ar": "مصابيح خوذ المناجم LED ومراوح التهوية وكواشف الغاز",
+                "en": "LED Mining Cap Lamps, Ventilation Fans and Gas Detectors"
+              },
+              "description": {
+                "ar": "مصابيح خوذ ⁦KL LED⁩ حتى ⁦25⁩ ساعة و⁦6000⁩ لوكس، ومراوح تهوية موضعية بمجارٍ مرنة، وأجهزة كشف الغاز للأنفاق. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "KL LED cap lamps up to 25 hours and 6000 lux, local ventilation fans with flexible ducts and gas detection instruments for tunnels. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "إضاءة وتهوية وكشف غاز تحت الأرض. اختر من الجدول أدناه.",
+              "en": "Lighting, ventilation and gas detection underground. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "كم يعمل مصباح الخوذة؟",
+                  "a": "من ⁦18⁩ إلى ⁦25⁩ ساعة حسب السعة (⁦4⁠–⁠6⁩ أمبير ساعة)، ويُشحن في ⁦6⁠–⁠8⁩ ساعات."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "How long does a cap lamp run?",
+                  "a": "From 18 to 25 hours depending on capacity (4–6 Ah), and recharges in 6–8 hours."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "3",
+                  "label": "مصابيح"
+                },
+                {
+                  "value": "حتى ⁦25⁩ ساعة",
+                  "label": "التفريغ"
+                },
+                {
+                  "value": "⁦6000⁩ لوكس",
+                  "label": "أقصى إضاءة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "3",
+                  "label": "Cap lamps"
+                },
+                {
+                  "value": "Up to 25 h",
+                  "label": "Discharge"
+                },
+                {
+                  "value": "6000 lux",
+                  "label": "Max. illuminance"
+                }
+              ]
+            }
+          },
+          {
+            "id": "gas-detectors-emergency-eyewash",
+            "name": {
+              "ar": "كواشف الغاز وغسيل العين في الطوارئ",
+              "en": "Gas Detectors & Emergency Eyewash"
+            },
+            "coverImage": "/products/gas-detectors-emergency-eyewash/gas-detectors-emergency-eyewash.webp",
+            "description": {
+              "ar": "كواشف غاز محمولة رباعية وأحادية للعمل تحت الأرض والأماكن المغلقة، ونواقل غاز ثابتة وكواشف مقاومة للانفجار للمصانع ومخازن الكيماويات، ومحطات غسيل عين محمولة ودشات مدمجة وزجاجات غسيل العين لمناطق مناولة السيانيد والأحماض.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Portable four-gas and single-gas detectors for underground work and confined spaces, fixed gas transmitters and explosion-proof detectors for plants and chemical stores, and portable eyewash stations, combination showers and eye-flush bottles for cyanide and acid handling areas.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "كاشف رباعي ⁦H2S⁩ و⁦CO⁩ و⁦O2⁩ و⁦LEL⁩",
+                "كواشف ثابتة ⁦Ex d IIC T6⁩ و⁦IP67⁩",
+                "غسيل عين لمدة ≥ ⁦15⁩ دقيقة",
+                "دش أمان ومغسلة عين من الستانلس ⁦304⁩"
+              ],
+              "en": [
+                "Four-gas detector: H2S, CO, O2, LEL",
+                "Ex d IIC T6, IP67 fixed detectors",
+                "Eyewash for ≥ 15 minutes",
+                "Stainless 304 safety shower and eyewash"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "غازات الكاشف المحمول",
+                  "value": "⁦H2S⁩، ⁦CO⁩، ⁦O2⁩، ⁦LEL⁩"
+                },
+                {
+                  "label": "الحماية",
+                  "value": "⁦IP66 / IP67⁩"
+                },
+                {
+                  "label": "مدة غسيل العين",
+                  "value": "≥ ⁦15⁩ دقيقة"
+                },
+                {
+                  "label": "تدفق الدش",
+                  "value": "> ⁦76⁩ لتر/دقيقة"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Portable detector gases",
+                  "value": "H2S, CO, O2, LEL"
+                },
+                {
+                  "label": "Protection",
+                  "value": "IP66 / IP67"
+                },
+                {
+                  "label": "Eyewash duration",
+                  "value": "≥ 15 min"
+                },
+                {
+                  "label": "Shower flow",
+                  "value": "> 76 L/min"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/gas-detectors-emergency-eyewash/gas-detectors-emergency-eyewash.webp"
+            ],
+            "image": "/products/gas-detectors-emergency-eyewash/gas-detectors-emergency-eyewash.webp",
+            "cardImage": "/products/gas-detectors-emergency-eyewash/gas-detectors-emergency-eyewash.webp",
+            "seo": {
+              "title": {
+                "ar": "كواشف الغاز المحمولة والثابتة ومحطات غسيل العين",
+                "en": "Portable and Fixed Gas Detectors, Eyewash Stations"
+              },
+              "description": {
+                "ar": "كواشف غاز رباعية وأحادية محمولة، ونواقل وكواشف ثابتة مقاومة للانفجار، ومحطات غسيل عين ودشات أمان لمناطق السيانيد. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Portable four-gas and single-gas detectors, fixed and explosion-proof detectors, eyewash stations and safety showers for cyanide areas. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "كشف الغاز والإسعاف الأولي للعين. اختر من الجدول أدناه.",
+              "en": "Gas detection and emergency eyewash. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا غسيل العين في مناطق السيانيد؟",
+                  "a": "لأن رذاذ السيانيد والأحماض يتطلب غسل العين فوراً لمدة ⁦15⁩ دقيقة على الأقل قرب مكان العمل."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why eyewash in cyanide areas?",
+                  "a": "Cyanide and acid splashes need immediate flushing for at least 15 minutes close to the workstation."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "8",
+                  "label": "خطوط منتجات"
+                },
+                {
+                  "value": "4",
+                  "label": "غازات في الكاشف المحمول"
+                },
+                {
+                  "value": "≥ ⁦15⁩ دقيقة",
+                  "label": "غسيل العين"
+                }
+              ],
+              "en": [
+                {
+                  "value": "8",
+                  "label": "Product lines"
+                },
+                {
+                  "value": "4",
+                  "label": "Gases in one unit"
+                },
+                {
+                  "value": "≥ 15 min",
+                  "label": "Eyewash flushing"
+                }
+              ]
+            }
+          },
+          {
+            "id": "gas-detection-systems",
+            "name": {
+              "ar": "أنظمة كشف الغاز",
+              "en": "Gas Detection Systems"
+            },
+            "coverImage": "/products/gas-detection-systems/gas-detection-systems.webp",
+            "description": {
+              "ar": "كشف الغاز في الأنفاق والخزانات والمصانع والمخازن: كواشف أحادية ورباعية محمولة للعمال، وكواشف ثابتة ولاسلكية للنقاط الدائمة، ووحدات تحكم بالإنذار تربط الكواشف الثابتة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Gas detection for tunnels, tanks, plants and stores: portable single-gas and 4-in-1 detectors for workers, fixed and wireless detectors for permanent points, and alarm controllers that link the fixed detectors.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "كواشف محمولة أحادية ورباعية وبمضخة",
+                "كواشف ثابتة ولاسلكية وللحرارة العالية",
+                "وحدات تحكم تربط الكواشف الثابتة",
+                "إنذار صوتي وضوئي واهتزازي"
+              ],
+              "en": [
+                "Portable single, 4-in-1 and pump detectors",
+                "Fixed, wireless and high-temperature detectors",
+                "Controllers that link fixed detectors",
+                "Audible, visual and vibration alarms"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الغازات",
+                  "value": "⁦O2⁩، ⁦CO⁩، ⁦LEL⁩، ⁦H2S⁩"
+                },
+                {
+                  "label": "التركيب",
+                  "value": "محمول أو ثابت"
+                },
+                {
+                  "label": "الإنذار",
+                  "value": "صوتي وضوئي واهتزازي"
+                },
+                {
+                  "label": "التحكم",
+                  "value": "لوحات إنذار"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Gases",
+                  "value": "O2, CO, LEL, H2S"
+                },
+                {
+                  "label": "Installation",
+                  "value": "Portable or fixed"
+                },
+                {
+                  "label": "Alarms",
+                  "value": "Audible, visual, vibration"
+                },
+                {
+                  "label": "Control",
+                  "value": "Alarm panels"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/gas-detection-systems/gas-detection-systems.webp"
+            ],
+            "image": "/products/gas-detection-systems/gas-detection-systems.webp",
+            "cardImage": "/products/gas-detection-systems/gas-detection-systems.webp",
+            "seo": {
+              "title": {
+                "ar": "أنظمة كشف الغاز المحمولة والثابتة ووحدات التحكم",
+                "en": "Portable and Fixed Gas Detection Systems and Controllers"
+              },
+              "description": {
+                "ar": "كواشف غاز محمولة أحادية ورباعية، وكواشف ثابتة ولاسلكية، ووحدات تحكم بالإنذار للأنفاق والخزانات والمصانع. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Portable single and 4-in-1 detectors, fixed and wireless detectors, and alarm controllers for tunnels, tanks and plants. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أنظمة كشف غاز كاملة. اختر من الجدول أدناه.",
+              "en": "Complete gas detection systems. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لتصميم نظام كشف غاز؟",
+                  "a": "الغازات المحتملة، وعدد نقاط الكشف ومواقعها، والمنطقة المصنفة للانفجار إن وُجدت، ومكان لوحة التحكم."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is needed to design a gas detection system?",
+                  "a": "The likely gases, the number and location of detection points, any hazardous-area zoning, and where the control panel goes."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "3",
+                  "label": "أنواع"
+                },
+                {
+                  "value": "⁦4⁩ في ⁦1⁩",
+                  "label": "O2 · CO · LEL · H2S"
+                },
+                {
+                  "value": "محمول · ثابت",
+                  "label": "التركيب"
+                }
+              ],
+              "en": [
+                {
+                  "value": "3",
+                  "label": "Types"
+                },
+                {
+                  "value": "4-in-1",
+                  "label": "O2 · CO · LEL · H2S"
+                },
+                {
+                  "value": "Portable · Fixed",
+                  "label": "Installation"
+                }
+              ]
+            }
+          },
+          {
+            "id": "fire-extinguishers-hose-reels-fire-alarms",
+            "name": {
+              "ar": "طفايات الحريق وبكرات الخراطيم وإنذار الحريق",
+              "en": "Fire Extinguishers, Hose Reels & Fire Alarms"
+            },
+            "coverImage": "/products/fire-extinguishers-hose-reels-fire-alarms/fire-extinguishers-hose-reels-fire-alarms.webp",
+            "description": {
+              "ar": "طفايات محمولة وعلى عجلات بالبودرة وثاني أكسيد الكربون والرغوة والماء وفق ⁦UL⁩ و⁦BS EN3⁩ و⁦CE⁩ و⁦ISO⁩، ووحدات آلية لغرف المولدات ولوحات التوزيع، وبكرات خراطيم الحريق، ولوحات إنذار تقليدية وكواشف ونقاط نداء وأجراس وأبواق إنذار للموقع.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Portable and wheeled powder, CO2, foam and water extinguishers to UL, BS EN3, CE and ISO, automatic units for generator rooms and switchboards, fire hose reels, and conventional fire alarm panels, detectors, call points, sounders and site alarm horns.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "طفايات ⁦UL⁩ و⁦EN3⁩ و⁦ISO⁩",
+                "طفايات آلية لغرف المولدات واللوحات",
+                "بكرات ⁦EN 671 / LPCB⁩",
+                "بوق إنذار ⁦135⁩ ديسيبل للتفجير والإخلاء"
+              ],
+              "en": [
+                "UL, EN3 and ISO extinguishers",
+                "Automatic units for generator rooms and panels",
+                "EN 671 / LPCB hose reels",
+                "135 dB horn for blasting and evacuation"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المعايير",
+                  "value": "⁦UL⁩، ⁦EN3⁩، ⁦CE⁩، ⁦ISO⁩"
+                },
+                {
+                  "label": "البودرة",
+                  "value": "⁦0.5⁠–⁠100⁩ كجم"
+                },
+                {
+                  "label": "لوحات الإنذار",
+                  "value": "⁦1⁠–⁠10⁩ مناطق"
+                },
+                {
+                  "label": "بوق الإنذار",
+                  "value": "⁦135⁩ ديسيبل"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Standards",
+                  "value": "UL, EN3, CE, ISO"
+                },
+                {
+                  "label": "Powder",
+                  "value": "0.5–100 kg"
+                },
+                {
+                  "label": "Alarm panels",
+                  "value": "1–10 zones"
+                },
+                {
+                  "label": "Alarm horn",
+                  "value": "135 dB"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/fire-extinguishers-hose-reels-fire-alarms/fire-extinguishers-hose-reels-fire-alarms.webp"
+            ],
+            "image": "/products/fire-extinguishers-hose-reels-fire-alarms/fire-extinguishers-hose-reels-fire-alarms.webp",
+            "cardImage": "/products/fire-extinguishers-hose-reels-fire-alarms/fire-extinguishers-hose-reels-fire-alarms.webp",
+            "seo": {
+              "title": {
+                "ar": "طفايات الحريق UL وEN3 وبكرات الخراطيم وأنظمة الإنذار",
+                "en": "UL and EN3 Fire Extinguishers, Hose Reels and Fire Alarms"
+              },
+              "description": {
+                "ar": "طفايات بودرة و⁦CO2⁩ ورغوة وماء ⁦UL⁩ و⁦EN3⁩ و⁦ISO⁩، ووحدات آلية، وبكرات خراطيم ⁦EN 671⁩، ولوحات إنذار وكواشف وأبواق ⁦135⁩ ديسيبل. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "UL, EN3 and ISO powder, CO2, foam and water extinguishers, automatic units, EN 671 hose reels, alarm panels, detectors and 135 dB horns. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "طفايات وإنذار حريق للمصنع والمخيم. اختر من الجدول أدناه.",
+              "en": "Extinguishers and fire alarms for plant and camp. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي طفاية لغرفة المولدات؟",
+                  "a": "طفاية بودرة ⁦ABC⁩ أو ⁦CO2⁩، مع وحدة آلية معلّقة تنطلق بالحرارة فوق المولد أو داخل لوحة التوزيع."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which extinguisher for the generator room?",
+                  "a": "An ABC powder or CO2 extinguisher, plus an automatic hanging unit that releases by heat above the generator or inside the switchboard."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "13",
+                  "label": "خط منتجات"
+                },
+                {
+                  "value": "⁦EN3 · UL · ISO⁩",
+                  "label": "معايير الطفايات"
+                },
+                {
+                  "value": "⁦135⁩ ديسيبل",
+                  "label": "بوق الإنذار"
+                }
+              ],
+              "en": [
+                {
+                  "value": "13",
+                  "label": "Product lines"
+                },
+                {
+                  "value": "EN3 · UL · ISO",
+                  "label": "Extinguisher standards"
+                },
+                {
+                  "value": "135 dB",
+                  "label": "Alarm horn"
+                }
+              ]
+            }
+          },
+          {
+            "id": "fire-pumps-hydrants-sprinklers-foam",
+            "name": {
+              "ar": "مضخات الحريق والحنفيات والرشاشات والرغوة",
+              "en": "Fire Pumps, Hydrants, Sprinklers & Foam"
+            },
+            "coverImage": "/products/fire-pumps-hydrants-sprinklers-foam/fire-pumps-hydrants-sprinklers-foam.webp",
+            "description": {
+              "ar": "معدات مياه الحريق والرغوة لمباني المصنع ومخازن الوقود والمخيمات: مجموعات مضخات الحريق، والخراطيم والبكرات والخزائن، ورؤوس الرشاشات، وصمامات الحنفيات والشبكة، والطفايات، وأنظمة الرغوة.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Fire-water and foam equipment for plant buildings, fuel stores and camps: fire pump sets, hoses, reels and cabinets, sprinkler heads, hydrant and network valves, extinguishers and foam systems.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "مضخات حريق أفقية ورأسية",
+                "خراطيم ⁦DN50 / 65 / 80⁩ بضغط ⁦8⁠–⁠20⁩ بار",
+                "رشاشات استجابة عادية وسريعة",
+                "خزانات رغوة ⁦500⁠–⁠13,000⁩ لتر"
+              ],
+              "en": [
+                "Horizontal and vertical fire pump sets",
+                "DN50 / 65 / 80 hoses at 8–20 bar",
+                "Standard and quick-response sprinklers",
+                "Foam tanks 500–13,000 L"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "ضغط الخراطيم",
+                  "value": "⁦8⁠–⁠20⁩ بار"
+                },
+                {
+                  "label": "خزانات الرغوة",
+                  "value": "⁦500⁠–⁠13,000⁩ لتر"
+                },
+                {
+                  "label": "الرشاشات",
+                  "value": "⁦DN15 / DN20⁩، أمبولة ⁦68 °⁩م"
+                },
+                {
+                  "label": "تدفق الرغوة",
+                  "value": "⁦4⁠–⁠24⁩ لتر/ثانية"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Hose pressure",
+                  "value": "8–20 bar"
+                },
+                {
+                  "label": "Foam tanks",
+                  "value": "500–13,000 L"
+                },
+                {
+                  "label": "Sprinklers",
+                  "value": "DN15 / DN20, 68 °C bulb"
+                },
+                {
+                  "label": "Foam flow",
+                  "value": "4–24 L/s"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/fire-pumps-hydrants-sprinklers-foam/fire-pumps-hydrants-sprinklers-foam.webp"
+            ],
+            "image": "/products/fire-pumps-hydrants-sprinklers-foam/fire-pumps-hydrants-sprinklers-foam.webp",
+            "cardImage": "/products/fire-pumps-hydrants-sprinklers-foam/fire-pumps-hydrants-sprinklers-foam.webp",
+            "seo": {
+              "title": {
+                "ar": "مضخات الحريق وحنفيات الحريق والرشاشات وأنظمة الرغوة",
+                "en": "Fire Pumps, Hydrants, Sprinklers and Foam Systems"
+              },
+              "description": {
+                "ar": "مضخات حريق أفقية ورأسية، وخراطيم وبكرات وخزائن، ورشاشات، وصمامات حنفيات، وأنظمة رغوة حتى ⁦13,000⁩ لتر للمصانع ومخازن الوقود. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Horizontal and vertical fire pumps, hoses, reels and cabinets, sprinklers, hydrant valves and foam systems up to 13,000 L for plants and fuel stores. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "شبكة مياه الحريق والرغوة كاملة. اختر من الجدول أدناه.",
+              "en": "The full fire-water and foam network. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا الرغوة لمخازن الوقود؟",
+                  "a": "لأن الماء لا يطفئ حرائق الوقود السائل، والرغوة تغطي السطح وتعزله عن الهواء."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why foam for fuel stores?",
+                  "a": "Water does not put out liquid fuel fires; foam blankets the surface and cuts off the air."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "7",
+                  "label": "أنواع منتجات"
+                },
+                {
+                  "value": "⁦8⁠–⁠20⁩ بار",
+                  "label": "ضغط الخراطيم"
+                },
+                {
+                  "value": "⁦500⁠–⁠13,000⁩ لتر",
+                  "label": "خزانات الرغوة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "7",
+                  "label": "Product types"
+                },
+                {
+                  "value": "8–20 bar",
+                  "label": "Hose pressure"
+                },
+                {
+                  "value": "500–13,000 L",
+                  "label": "Foam tanks"
+                }
+              ]
+            }
+          },
+          {
+            "id": "traffic-cones-barriers-delineators",
+            "name": {
+              "ar": "أقماع المرور والحواجز وعلامات التحديد",
+              "en": "Traffic Cones, Barriers & Delineators"
+            },
+            "coverImage": "/products/traffic-cones-barriers-delineators/traffic-cones-barriers-delineators.webp",
+            "description": {
+              "ar": "أقماع مرور ⁦PVC⁩، وحواجز طرق تُملأ بالماء، وحواجز قابلة للطي، وأعمدة تحذير مرنة، وقضبان أقماع، وسلاسل بلاستيكية، وشبك أسوار الأمان لتنظيم حركة الشاحنات والمشاة في الموقع.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "PVC traffic cones, water-filled road barriers, folding barricades, flexible warning posts, cone bars, plastic chains and safety mesh fence to manage truck and pedestrian traffic on site.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "أقماع ⁦300⁠–⁠900⁩ مم بأطواق عاكسة",
+                "حواجز ⁦New Jersey⁩ تُملأ بالماء",
+                "أعمدة تحذير مرنة بأشرطة عاكسة",
+                "شبك أمان ⁦HDPE⁩ ‏⁦1 × 50⁩ م"
+              ],
+              "en": [
+                "Cones 300–900 mm with reflective collars",
+                "New Jersey water-filled barriers",
+                "Flexible posts with reflective bands",
+                "HDPE safety mesh, 1 × 50 m"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "ارتفاع الأقماع",
+                  "value": "⁦300⁠–⁠900⁩ مم"
+                },
+                {
+                  "label": "الحواجز",
+                  "value": "بلاستيك ⁦800⁩ مم فأكثر"
+                },
+                {
+                  "label": "قضبان الأقماع",
+                  "value": "⁦1.8⁠–⁠2.15⁩ م"
+                },
+                {
+                  "label": "الشبك",
+                  "value": "⁦HDPE⁩ ‏⁦80⁩ جم/م²"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Cone height",
+                  "value": "300–900 mm"
+                },
+                {
+                  "label": "Barriers",
+                  "value": "Plastic, 800 mm and up"
+                },
+                {
+                  "label": "Cone bars",
+                  "value": "1.8–2.15 m"
+                },
+                {
+                  "label": "Mesh",
+                  "value": "HDPE 80 g/m²"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/traffic-cones-barriers-delineators/traffic-cones-barriers-delineators.webp"
+            ],
+            "image": "/products/traffic-cones-barriers-delineators/traffic-cones-barriers-delineators.webp",
+            "cardImage": "/products/traffic-cones-barriers-delineators/traffic-cones-barriers-delineators.webp",
+            "seo": {
+              "title": {
+                "ar": "أقماع المرور وحواجز الطرق وأعمدة التحذير",
+                "en": "Traffic Cones, Road Barriers and Warning Posts"
+              },
+              "description": {
+                "ar": "أقماع ⁦PVC⁩ ‏⁦300⁠–⁠900⁩ مم، وحواجز ⁦New Jersey⁩ تُملأ بالماء، وحواجز قابلة للطي، وأعمدة تحذير مرنة، وسلاسل وشبك أمان للمواقع. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "PVC cones 300–900 mm, New Jersey water-filled barriers, folding barricades, flexible warning posts, chains and safety mesh for sites. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "تنظيم حركة الموقع. اختر من الجدول أدناه.",
+              "en": "Site traffic management. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين القمع العادي والعريض؟",
+                  "a": "القمع العريض أثبت في الرياح وعلى الطرق الترابية، والنحيف أسهل في التخزين والنقل."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Standard or wide cone?",
+                  "a": "The wide cone is steadier in wind and on dirt roads; the slim one stores and transports more easily."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "7",
+                  "label": "منتجات"
+                },
+                {
+                  "value": "⁦300⁠–⁠900⁩ مم",
+                  "label": "الأقماع"
+                },
+                {
+                  "value": "⁦1 × 50⁩ م",
+                  "label": "لفة الشبك"
+                }
+              ],
+              "en": [
+                {
+                  "value": "7",
+                  "label": "Products"
+                },
+                {
+                  "value": "300–900 mm",
+                  "label": "Cones"
+                },
+                {
+                  "value": "1 × 50 m",
+                  "label": "Mesh roll"
+                }
+              ]
+            }
+          },
+          {
+            "id": "warning-lights-mirrors-tapes-wheel-stops",
+            "name": {
+              "ar": "مصابيح التحذير والمرايا والأشرطة ومصدات العجلات",
+              "en": "Warning Lights, Mirrors, Tapes & Wheel Stops"
+            },
+            "coverImage": "/products/warning-lights-mirrors-tapes-wheel-stops/warning-lights-mirrors-tapes-wheel-stops.webp",
+            "description": {
+              "ar": "مصابيح تحذير بالبطارية والطاقة الشمسية، ومرايا أمان محدبة للمنعطفات، وأشرطة تحذير وكشف تحت الأرض، ومصدات عجلات لمواقف الشاحنات والمعدات.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Battery and solar warning lamps, convex safety mirrors for blind corners, warning and detectable underground tapes, and wheel stoppers for truck and equipment parking.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "مصابيح شمسية تُرى أبعد من ⁦1000⁠–⁠1500⁩ م",
+                "مرايا محدبة حتى ⁦1200⁩ مم",
+                "شريط كشف تحت الأرض ⁦150⁩ مم",
+                "مصدات عجلات حتى ⁦1830⁩ مم"
+              ],
+              "en": [
+                "Solar lamps visible beyond 1000–1500 m",
+                "Convex mirrors up to 1200 mm",
+                "150 mm detectable underground tape",
+                "Wheel stoppers up to 1830 mm"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "رؤية المصابيح",
+                  "value": "حتى ⁦1500⁩ م"
+                },
+                {
+                  "label": "قطر المرآة",
+                  "value": "⁦450⁠–⁠1200⁩ مم"
+                },
+                {
+                  "label": "الأشرطة",
+                  "value": "⁦50⁠–⁠135⁩ مم × ⁦33⁠–⁠500⁩ م"
+                },
+                {
+                  "label": "مصد العجلات",
+                  "value": "حتى ⁦1830⁩ مم"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Lamp visibility",
+                  "value": "Up to 1500 m"
+                },
+                {
+                  "label": "Mirror Ø",
+                  "value": "450–1200 mm"
+                },
+                {
+                  "label": "Tapes",
+                  "value": "50–135 mm × 33–500 m"
+                },
+                {
+                  "label": "Wheel stop",
+                  "value": "Up to 1830 mm"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/warning-lights-mirrors-tapes-wheel-stops/warning-lights-mirrors-tapes-wheel-stops.webp"
+            ],
+            "image": "/products/warning-lights-mirrors-tapes-wheel-stops/warning-lights-mirrors-tapes-wheel-stops.webp",
+            "cardImage": "/products/warning-lights-mirrors-tapes-wheel-stops/warning-lights-mirrors-tapes-wheel-stops.webp",
+            "seo": {
+              "title": {
+                "ar": "مصابيح التحذير الشمسية والمرايا المحدبة وأشرطة التحذير",
+                "en": "Solar Warning Lamps, Convex Mirrors and Warning Tapes"
+              },
+              "description": {
+                "ar": "مصابيح تحذير بالبطارية والطاقة الشمسية، ومرايا محدبة حتى ⁦1200⁩ مم، وأشرطة تحذير وكشف، ومصدات عجلات للمواقع. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Battery and solar warning lamps, convex mirrors up to 1200 mm, warning and detectable tapes and wheel stoppers for sites. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "علامات وتحذير للطرق والمواقف. اختر من الجدول أدناه.",
+              "en": "Warning and marking for roads and parking. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "لماذا المصباح الشمسي؟",
+                  "a": "لا يحتاج تبديل بطاريات في المواقع البعيدة، ويُرى أبعد من ⁦1000⁩ م ليلاً."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Why a solar lamp?",
+                  "a": "It needs no battery changes at remote sites and is visible beyond 1000 m at night."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "⁦1500⁩ م",
+                  "label": "أقصى رؤية"
+                },
+                {
+                  "value": "⁦1200⁩ مم",
+                  "label": "أكبر مرآة"
+                },
+                {
+                  "value": "⁦1830⁩ مم",
+                  "label": "أطول مصد"
+                }
+              ],
+              "en": [
+                {
+                  "value": "1500 m",
+                  "label": "Max. visibility"
+                },
+                {
+                  "value": "1200 mm",
+                  "label": "Largest mirror"
+                },
+                {
+                  "value": "1830 mm",
+                  "label": "Longest wheel stop"
+                }
+              ]
+            }
+          },
+          {
+            "id": "container-houses-prefab-buildings",
+            "name": {
+              "ar": "البيوت الجاهزة من الحاويات والمباني مسبقة الصنع",
+              "en": "Container Houses & Prefab Buildings"
+            },
+            "coverImage": "/products/container-houses-prefab-buildings/container-houses-prefab-buildings.webp",
+            "description": {
+              "ar": "سكن ومبانٍ لمخيمات المناجم: بيوت حاويات مفككة وقابلة للفك وللتمديد وللطي، ومبانٍ جاهزة من ألواح الساندويتش بطابق أو طابقين، وأكشاك حراسة لبوابات الموقع. تُشحن الوحدات مفككة أو مطوية لتقليل الشحن ووقت التركيب.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Accommodation and site buildings for mine camps: flat-pack, detachable, expandable and folding container houses, sandwich-panel prefab buildings of one or two storeys, and sentry boxes for site gates. Units ship flat or folded to cut freight and installation time.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦16⁩ مخططاً للبيت المفكك ⁦20⁩ قدماً",
+                "سكن ومكاتب ومطبخ وعيادة وفصول",
+                "بيت قابل للطي يُركّب في نحو ⁦10⁩ دقائق",
+                "⁦10⁩ وحدات في حاوية ⁦40HQ⁩"
+              ],
+              "en": [
+                "16 layouts for the 20 ft flat-pack house",
+                "Rooms, offices, kitchen, clinic and classrooms",
+                "Folding house installed in about 10 minutes",
+                "10 units per 40HQ container"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "مقاسات الحاويات",
+                  "value": "⁦20⁠–⁠40⁩ قدماً"
+                },
+                {
+                  "label": "مخططات البيت المفكك",
+                  "value": "16"
+                },
+                {
+                  "label": "الطوابق",
+                  "value": "طابق أو طابقان"
+                },
+                {
+                  "label": "الهيكل",
+                  "value": "فولاذ وألواح ساندويتش"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Container sizes",
+                  "value": "20–40 ft"
+                },
+                {
+                  "label": "Flat-pack layouts",
+                  "value": "16"
+                },
+                {
+                  "label": "Storeys",
+                  "value": "1–2"
+                },
+                {
+                  "label": "Structure",
+                  "value": "Steel frame, sandwich panels"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/container-houses-prefab-buildings/container-houses-prefab-buildings.webp"
+            ],
+            "image": "/products/container-houses-prefab-buildings/container-houses-prefab-buildings.webp",
+            "cardImage": "/products/container-houses-prefab-buildings/container-houses-prefab-buildings.webp",
+            "seo": {
+              "title": {
+                "ar": "بيوت الحاويات والمباني الجاهزة لمخيمات المناجم",
+                "en": "Container Houses and Prefab Buildings for Mine Camps"
+              },
+              "description": {
+                "ar": "بيوت حاويات مفككة وقابلة للفك والتمديد والطي، ومبانٍ جاهزة ⁦K⁩ و⁦T⁩، وأكشاك حراسة لمخيمات المناجم ومواقع العمل. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Flat-pack, detachable, expandable and folding container houses, K and T prefab buildings and sentry boxes for mine camps and sites. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "سكن ومبانٍ لمخيم الموقع. اختر من الجدول أدناه.",
+              "en": "Housing and buildings for the site camp. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لتصميم المخيم؟",
+                  "a": "عدد العمال والموظفين، والمرافق المطلوبة (سكن ومطبخ ودورات مياه وعيادة ومكاتب)، ومخطط الأرض، وميناء الوصول."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is needed to plan the camp?",
+                  "a": "The number of workers and staff, the facilities needed (rooms, kitchen, toilets, clinic, offices), the site plan and the destination port."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "8",
+                  "label": "أنواع"
+                },
+                {
+                  "value": "16",
+                  "label": "مخططاً"
+                },
+                {
+                  "value": "⁦20⁠–⁠40⁩ قدماً",
+                  "label": "مقاسات الحاويات"
+                }
+              ],
+              "en": [
+                {
+                  "value": "8",
+                  "label": "Types"
+                },
+                {
+                  "value": "16",
+                  "label": "Flat-pack layouts"
+                },
+                {
+                  "value": "20–40 ft",
+                  "label": "Container sizes"
+                }
+              ]
+            }
+          },
+          {
+            "id": "portable-toilets-fencing-mesh-grating",
+            "name": {
+              "ar": "دورات المياه المتنقلة والأسوار والشبك والجريتنغ",
+              "en": "Portable Toilets, Fencing, Mesh & Grating"
+            },
+            "coverImage": "/products/portable-toilets-fencing-mesh-grating/portable-toilets-fencing-mesh-grating.webp",
+            "description": {
+              "ar": "منتجات الصرف الصحي للمخيم وحدود الموقع: دورات مياه ودشات ⁦HDPE⁩ متنقلة، وأسوار أمنية عالية وشبك مجدول وأسوار مؤقتة، وأسلاك شائكة وشفرات، وشبك ممدد وشبكات فولاذية للممرات والمنصات والسلالم.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Camp sanitation and site boundary products: portable HDPE toilets and showers, high-security, chain-link and temporary fencing, barbed and razor wire, and expanded mesh and steel grating for walkways, platforms and stairs.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "دورات مياه ودشات ⁦HDPE⁩ متنقلة",
+                "سور أمني ⁦358⁩ ضد التسلق",
+                "أسلاك شائكة وشفرات",
+                "شبكات فولاذية للممرات والسلالم"
+              ],
+              "en": [
+                "Portable HDPE toilets and showers",
+                "358 anti-climb security fence",
+                "Barbed and razor wire",
+                "Steel grating for walkways and stairs"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "الحمامات",
+                  "value": "HDPE"
+                },
+                {
+                  "label": "أنواع الأسوار",
+                  "value": "4"
+                },
+                {
+                  "label": "الشبك",
+                  "value": "فولاذ أو ألمنيوم"
+                },
+                {
+                  "label": "الإنتاج",
+                  "value": "حسب الطلب"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Toilets",
+                  "value": "HDPE"
+                },
+                {
+                  "label": "Fence types",
+                  "value": "4"
+                },
+                {
+                  "label": "Mesh",
+                  "value": "Steel or aluminium"
+                },
+                {
+                  "label": "Production",
+                  "value": "Made to order"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/portable-toilets-fencing-mesh-grating/portable-toilets-fencing-mesh-grating.webp"
+            ],
+            "image": "/products/portable-toilets-fencing-mesh-grating/portable-toilets-fencing-mesh-grating.webp",
+            "cardImage": "/products/portable-toilets-fencing-mesh-grating/portable-toilets-fencing-mesh-grating.webp",
+            "seo": {
+              "title": {
+                "ar": "دورات المياه المتنقلة والأسوار الأمنية والشبك الفولاذي",
+                "en": "Portable Toilets, Security Fencing and Steel Grating"
+              },
+              "description": {
+                "ar": "دورات مياه ودشات ⁦HDPE⁩ متنقلة، وأسوار ⁦358⁩ وشبك مجدول ومؤقتة، وأسلاك شائكة، وشبك ممدد وشبكات فولاذية للمخيمات والمواقع. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Portable HDPE toilets and showers, 358, chain-link and temporary fencing, barbed wire, expanded mesh and steel grating for camps and sites. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مرافق المخيم وحدود الموقع. اختر من الجدول أدناه.",
+              "en": "Camp facilities and site boundaries. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لعرض سعر الأسوار؟",
+                  "a": "الطول الكلي، والارتفاع، ونوع السور، وعدد البوابات، وطبيعة الأرض."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is needed to quote fencing?",
+                  "a": "The total length, height, fence type, number of gates and the ground conditions."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "11",
+                  "label": "نوعاً وموديلاً"
+                },
+                {
+                  "value": "4",
+                  "label": "أنواع أسوار"
+                },
+                {
+                  "value": "HDPE",
+                  "label": "الحمامات المتنقلة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "11",
+                  "label": "Types & models"
+                },
+                {
+                  "value": "4",
+                  "label": "Fence types"
+                },
+                {
+                  "value": "HDPE",
+                  "label": "Portable toilets"
+                }
+              ]
+            }
+          }
+        ]
       }
     ]
   }

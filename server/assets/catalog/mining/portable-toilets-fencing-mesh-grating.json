@@ -1,0 +1,225 @@
+{
+  "id": "portable-toilets-fencing-mesh-grating",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXS-02 Ed1⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXS-02 Ed1 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "sanitation",
+      "label": {
+        "en": "Portable sanitation",
+        "ar": "المرافق الصحية المتنقلة"
+      },
+      "models": [
+        {
+          "code": "BX-0337-01-006",
+          "name": {
+            "en": "Portable toilets & showers, HDPE",
+            "ar": "دورات مياه ودشات متنقلة ⁦HDPE⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "PT100, PT200, PS-100, PT400",
+              "ar": "⁦PT100, PT200, PS-100, PT400⁩"
+            },
+            "data": {
+              "en": "For construction sites, mine sites and labour camps; a luxury portable toilet is also available",
+              "ar": "لمواقع البناء والمناجم ومخيمات العمال؛ ويتوفر أيضاً حمام متنقل فاخر"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "HDPE",
+        "ar": "HDPE"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    },
+    {
+      "id": "fencing",
+      "label": {
+        "en": "Fencing & perimeter security",
+        "ar": "الأسوار وتأمين المحيط"
+      },
+      "models": [
+        {
+          "code": "BX-0313-01-012",
+          "name": {
+            "en": "Anti-climb high-security fence (358)",
+            "ar": "سور أمني عالي الحماية ضد التسلق (⁦358⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "Made to order",
+              "ar": "حسب الطلب"
+            },
+            "data": {
+              "en": "High-security perimeter fence",
+              "ar": "سور محيطي عالي الأمان"
+            }
+          }
+        },
+        {
+          "code": "BX-0313-01-011",
+          "name": {
+            "en": "Chain-link fence",
+            "ar": "سور شبك مجدول"
+          },
+          "specs": {
+            "models": {
+              "en": "Made to order",
+              "ar": "حسب الطلب"
+            },
+            "data": {
+              "en": "Perimeter fencing",
+              "ar": "تسوير المحيط"
+            }
+          }
+        },
+        {
+          "code": "BX-0313-01-008",
+          "name": {
+            "en": "Barbed wire & razor wire",
+            "ar": "الأسلاك الشائكة والشفرات"
+          },
+          "specs": {
+            "models": {
+              "en": "Made to order",
+              "ar": "حسب الطلب"
+            },
+            "data": {
+              "en": "Perimeter security wire",
+              "ar": "أسلاك لتأمين المحيط"
+            }
+          }
+        },
+        {
+          "code": "BX-0313-01-016",
+          "name": {
+            "en": "Temporary fence & crowd-control barriers",
+            "ar": "أسوار مؤقتة وحواجز تنظيم الحشود"
+          },
+          "specs": {
+            "models": {
+              "en": "Made to order",
+              "ar": "حسب الطلب"
+            },
+            "data": {
+              "en": "Movable fencing for sites and camps",
+              "ar": "أسوار متنقلة للمواقع والمخيمات"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    },
+    {
+      "id": "mesh",
+      "label": {
+        "en": "Expanded mesh & steel grating",
+        "ar": "الشبك الممدد والشبكات الفولاذية"
+      },
+      "models": [
+        {
+          "code": "BX-0313-01-001",
+          "name": {
+            "en": "Expanded metal mesh",
+            "ar": "شبك معدني ممدد"
+          },
+          "specs": {
+            "models": {
+              "en": "Steel; aluminium for facades; made to order",
+              "ar": "فولاذ؛ وألمنيوم للواجهات؛ حسب الطلب"
+            },
+            "data": {
+              "en": "Stair treads, walkways, safety barriers, filters and mining stations",
+              "ar": "درجات السلالم والممرات وحواجز الأمان والمرشحات ومحطات التعدين"
+            }
+          }
+        },
+        {
+          "code": "BX-0313-01-002",
+          "name": {
+            "en": "Steel grating",
+            "ar": "شبكات فولاذية (جريتنغ)"
+          },
+          "specs": {
+            "models": {
+              "en": "Compound grating, trench drain grates, stair treads",
+              "ar": "شبكات مركّبة، وأغطية قنوات التصريف، ودرجات السلالم"
+            },
+            "data": {
+              "en": "Platforms, walkways and stairs",
+              "ar": "المنصات والممرات والسلالم"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ]
+}

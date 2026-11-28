@@ -1,0 +1,198 @@
+{
+  "id": "gas-detectors-emergency-eyewash",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXS-01 Ed2⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXS-01 Ed2 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "gas",
+      "label": {
+        "en": "Gas detection and emergency eyewash",
+        "ar": "كشف الغاز وغسيل العين في الطوارئ"
+      },
+      "models": [
+        {
+          "code": "BX-0768-01-006",
+          "name": {
+            "en": "Portable four-gas detector",
+            "ar": "كاشف غاز محمول رباعي"
+          },
+          "specs": {
+            "models": {
+              "en": "BX616",
+              "ar": "BX616"
+            },
+            "data": {
+              "en": "H2S 0–100 ppm, CO 0–500 ppm, O2 0–25%, LEL 0–100%; optional pump; T90 < 30 s; ≥ 80 dB alarm; ≥ 8 h; IP66; Ex ia IIC T4 Gb; 220 g",
+              "ar": "⁦H2S⁩ ‏⁦0⁠–⁠100 ppm⁩، و⁦CO⁩ ‏⁦0⁠–⁠500 ppm⁩، و⁦O2⁩ ‏⁦0⁠–⁠25%⁩، و⁦LEL⁩ ‏⁦0⁠–⁠100%⁩؛ مضخة اختيارية؛ ⁦T90 < 30⁩ ثانية؛ إنذار ≥ ⁦80⁩ ديسيبل؛ ≥ ⁦8⁩ ساعات؛ ⁦IP66⁩؛ ⁦Ex ia IIC T4 Gb⁩؛ ⁦220⁩ جم"
+            }
+          }
+        },
+        {
+          "code": "BX-0768-01-007",
+          "name": {
+            "en": "Portable single-gas detector",
+            "ar": "كاشف غاز محمول أحادي"
+          },
+          "specs": {
+            "models": {
+              "en": "BZ100 (O2, H2S or CO)",
+              "ar": "⁦BZ100 (O2⁩ أو ⁦H2S⁩ أو ⁦CO⁩)"
+            },
+            "data": {
+              "en": "Electrochemical; 90 dB, light and vibration alarm; data log; 2-year sensor; IP66; Ex ia IIC T4 Ga; 85 g",
+              "ar": "كهروكيميائي؛ إنذار صوتي ⁦90⁩ ديسيبل وضوئي واهتزازي؛ تسجيل البيانات؛ حساس لسنتين؛ ⁦IP66⁩؛ ⁦Ex ia IIC T4 Ga⁩؛ ⁦85⁩ جم"
+            }
+          }
+        },
+        {
+          "code": "BX-0768-01-011",
+          "name": {
+            "en": "Fixed gas transmitter",
+            "ar": "ناقل غاز ثابت"
+          },
+          "specs": {
+            "models": {
+              "en": "GTQ-TRAX 20 (Cl2, O3, N2, H2, CO, CO2, H2S)",
+              "ar": "⁦GTQ-TRAX 20⁩ ‏(⁦Cl2⁩ و⁦O3⁩ و⁦N2⁩ و⁦H2⁩ و⁦CO⁩ و⁦CO2⁩ و⁦H2S⁩)"
+            },
+            "data": {
+              "en": "4–20 mA; IP66; two alarm relays; colour LCD; plug-in digital sensor",
+              "ar": "⁦4⁠–⁠20⁩ مللي أمبير؛ ⁦IP66⁩؛ مرحلا إنذار؛ شاشة ⁦LCD⁩ ملونة؛ حساس رقمي قابل للتركيب"
+            }
+          }
+        },
+        {
+          "code": "BX-0768-01-012",
+          "name": {
+            "en": "Explosion-proof fixed gas detector",
+            "ar": "كاشف غاز ثابت مقاوم للانفجار"
+          },
+          "specs": {
+            "models": {
+              "en": "GTQ-BS03 (CH4, H2S, HCl, LEL)",
+              "ar": "⁦GTQ-BS03⁩ ‏(⁦CH4⁩ و⁦H2S⁩ و⁦HCl⁩ و⁦LEL⁩)"
+            },
+            "data": {
+              "en": "24 V DC ≤ 2.5 W; T90 ≤ 15 s (LEL), ≤ 30 s (toxic); 4–20 mA; 3 relays; Ex d IIC T6 Gb; IP67",
+              "ar": "⁦24⁩ فولت مستمر ≤ ⁦2.5⁩ واط؛ ⁦T90 ≤ 15⁩ ثانية (⁦LEL⁩) و≤ ⁦30⁩ ثانية (السامة)؛ ⁦4⁠–⁠20⁩ مللي أمبير؛ ⁦3⁩ مرحلات؛ ⁦Ex d IIC T6 Gb⁩؛ ⁦IP67⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0768-01-013",
+          "name": {
+            "en": "Fixed gas detector with LED display",
+            "ar": "كاشف غاز ثابت بشاشة ⁦LED⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "GTQ-TRAX 30",
+              "ar": "⁦GTQ-TRAX 30⁩"
+            },
+            "data": {
+              "en": "4–20 mA; IP66; two relays; external sounder-strobe; plug-in digital sensor",
+              "ar": "⁦4⁠–⁠20⁩ مللي أمبير؛ ⁦IP66⁩؛ مرحلان؛ جرس وضوء خارجي؛ حساس رقمي قابل للتركيب"
+            }
+          }
+        },
+        {
+          "code": "BX-0836-01-001",
+          "name": {
+            "en": "Portable eyewash stations",
+            "ar": "محطات غسيل العين المحمولة"
+          },
+          "specs": {
+            "models": {
+              "en": "8, 15 and 16 gal (30, 53, 61 L)",
+              "ar": "⁦8⁩ و⁦15⁩ و⁦16⁩ جالوناً (⁦30⁩ و⁦53⁩ و⁦61⁩ لتراً)"
+            },
+            "data": {
+              "en": "1.5 L/min for ≥ 15 min; 3.5–7.7 kg empty; for cyanide and acid handling areas",
+              "ar": "⁦1.5⁩ لتر/دقيقة لمدة ≥ ⁦15⁩ دقيقة؛ ⁦3.5⁠–⁠7.7⁩ كجم فارغة؛ لمناطق مناولة السيانيد والأحماض"
+            }
+          }
+        },
+        {
+          "code": "BX-0836-01-002",
+          "name": {
+            "en": "Combination eyewash and safety shower",
+            "ar": "مغسلة عين ودش أمان مدمجان"
+          },
+          "specs": {
+            "models": {
+              "en": "Stainless 304",
+              "ar": "ستانلس ⁦304⁩"
+            },
+            "data": {
+              "en": "Eyewash ≥ 11.4 L/min, shower > 76 L/min; 230 × 76 × 47 cm; 14 kg",
+              "ar": "غسيل العين ≥ ⁦11.4⁩ لتر/دقيقة، والدش > ⁦76⁩ لتر/دقيقة؛ ⁦230 × 76 × 47⁩ سم؛ ⁦14⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0836-01-003",
+          "name": {
+            "en": "Emergency eye-flush bottle",
+            "ar": "زجاجة غسيل العين للطوارئ"
+          },
+          "specs": {
+            "models": {
+              "en": "600 mL",
+              "ar": "⁦600⁩ مل"
+            },
+            "data": {
+              "en": "≥ 15 min flushing; 0.8 kg; 10 per carton",
+              "ar": "غسيل ≥ ⁦15⁩ دقيقة؛ ⁦0.8⁩ كجم؛ ⁦10⁩ في الكرتونة"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

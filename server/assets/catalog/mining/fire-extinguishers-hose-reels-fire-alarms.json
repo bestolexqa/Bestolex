@@ -1,0 +1,287 @@
+{
+  "id": "fire-extinguishers-hose-reels-fire-alarms",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXS-01 Ed2⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXS-01 Ed2 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "fire",
+      "label": {
+        "en": "Fire extinguishers, hose reels and fire alarms",
+        "ar": "طفايات الحريق وبكرات الخراطيم وإنذار الحريق"
+      },
+      "models": [
+        {
+          "code": "BX-0781-01-001",
+          "name": {
+            "en": "UL-listed dry powder and CO2 extinguishers",
+            "ar": "طفايات بودرة جافة وثاني أكسيد الكربون مدرجة لدى ⁦UL⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SNG01-01 to 04 (ABC 2.5–20 lb); SNG01-54 to 57 (CO2 5–20 lb)",
+              "ar": "⁦SNG01-01⁩ إلى ⁦04⁩ ‏(⁦ABC⁩ ‏⁦2.5⁠–⁠20⁩ رطلاً)؛ ⁦SNG01-54⁩ إلى ⁦57⁩ ‏(⁦CO2⁩ ‏⁦5⁠–⁠20⁩ رطلاً)"
+            },
+            "data": {
+              "en": "ABC rating 1-A:10-B:C to 6-A:80-B:C, 13.5 bar; CO2 in AA6061 aluminium cylinders, 124 bar",
+              "ar": "تصنيف ⁦ABC⁩ من ⁦1-A:10-B:C⁩ إلى ⁦6-A:80-B:C⁩، ‏⁦13.5⁩ بار؛ ⁦CO2⁩ في أسطوانات ألومنيوم ⁦AA6061⁩، ‏⁦124⁩ بار"
+            }
+          }
+        },
+        {
+          "code": "BX-0781-01-002",
+          "name": {
+            "en": "BS EN3 portable extinguishers",
+            "ar": "طفايات محمولة ⁦BS EN3⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SNG01-05 to 08A, SNG01-05P1 to P12 (powder 1–12 kg); CO2 2–5 kg; water and foam 6–9 L",
+              "ar": "⁦SNG01-05⁩ إلى ⁦08A⁩، و⁦SNG01-05P1⁩ إلى ⁦P12⁩ (بودرة ⁦1⁠–⁠12⁩ كجم)؛ ⁦CO2⁩ ‏⁦2⁠–⁠5⁩ كجم؛ ماء ورغوة ⁦6⁠–⁠9⁩ لترات"
+            },
+            "data": {
+              "en": "Kitemark EN3; nitrogen-charged ABC powder, 18 bar; up to 55A 233B C; fluorine-free foam option",
+              "ar": "⁦Kitemark EN3⁩؛ بودرة ⁦ABC⁩ مضغوطة بالنيتروجين، ⁦18⁩ بار؛ حتى ⁦55A 233B C⁩؛ خيار رغوة خالية من الفلور"
+            }
+          }
+        },
+        {
+          "code": "BX-0781-01-003",
+          "name": {
+            "en": "BS EN3 wheeled powder and CO2 extinguishers",
+            "ar": "طفايات بودرة وثاني أكسيد الكربون على عجلات ⁦BS EN3⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SNG01-58A, 60A, 63A / B / C",
+              "ar": "⁦SNG01-58A, 60A, 63A / B / C⁩"
+            },
+            "data": {
+              "en": "EN3-approved wheeled units",
+              "ar": "وحدات على عجلات معتمدة ⁦EN3⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0781-01-004",
+          "name": {
+            "en": "ISO powder and CO2 extinguishers",
+            "ar": "طفايات بودرة وثاني أكسيد الكربون ⁦ISO⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "SNG01-15 to 53 (powder 0.5–12 kg; CO2 1.4–10 kg)",
+              "ar": "⁦SNG01-15⁩ إلى ⁦53⁩ (بودرة ⁦0.5⁠–⁠12⁩ كجم؛ ⁦CO2⁩ ‏⁦1.4⁠–⁠10⁩ كجم)"
+            },
+            "data": {
+              "en": "Alloy-steel or CK45 carbon-steel CO2 cylinders; lower-cost alternative to EN3",
+              "ar": "أسطوانات ⁦CO2⁩ من فولاذ سبائكي أو فولاذ كربوني ⁦CK45⁩؛ بديل أقل تكلفة من ⁦EN3⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0781-01-005",
+          "name": {
+            "en": "American-style and automatic hanging powder extinguishers",
+            "ar": "طفايات بودرة أمريكية الطراز وآلية معلّقة"
+          },
+          "specs": {
+            "models": {
+              "en": "SNG01-01A to 05A (lb); SNG01-73A to G (automatic)",
+              "ar": "⁦SNG01-01A⁩ إلى ⁦05A⁩ (بالرطل)؛ ⁦SNG01-73A⁩ إلى ⁦G⁩ (آلية)"
+            },
+            "data": {
+              "en": "Automatic units release by heat; for generator rooms and switchboards",
+              "ar": "الوحدات الآلية تنطلق بالحرارة؛ لغرف المولدات ولوحات التوزيع"
+            }
+          }
+        },
+        {
+          "code": "BX-0781-01-006",
+          "name": {
+            "en": "Wheeled, CE powder, foam and water extinguishers",
+            "ar": "طفايات على عجلات وبودرة ⁦CE⁩ ورغوة وماء"
+          },
+          "specs": {
+            "models": {
+              "en": "SNG01-09 to 14, 58–64, 68–72",
+              "ar": "⁦SNG01-09 to 14, 58–64, 68–72⁩"
+            },
+            "data": {
+              "en": "Wheeled 25–100 kg; CE powder 1–6 kg; foam and water 2–10 L; stainless foam tank option",
+              "ar": "على عجلات ⁦25⁠–⁠100⁩ كجم؛ بودرة ⁦CE⁩ ‏⁦1⁠–⁠6⁩ كجم؛ رغوة وماء ⁦2⁠–⁠10⁩ لترات؛ خيار خزان رغوة ستانلس"
+            }
+          }
+        },
+        {
+          "code": "BX-0781-01-010",
+          "name": {
+            "en": "Ceiling-mounted and tube-type automatic extinguishers",
+            "ar": "طفايات آلية سقفية وأنبوبية"
+          },
+          "specs": {
+            "models": {
+              "en": "SNG01-87A / B (3 kg ceiling); tube type for panels",
+              "ar": "⁦SNG01-87A / B⁩ (سقفية ⁦3⁩ كجم)؛ وأنبوبية للوحات"
+            },
+            "data": {
+              "en": "ABC powder or clean agent; tube bursts by heat inside electrical panels",
+              "ar": "بودرة ⁦ABC⁩ أو عامل نظيف؛ ينفجر الأنبوب بالحرارة داخل اللوحات الكهربائية"
+            }
+          }
+        },
+        {
+          "code": "BX-0781-01-018",
+          "name": {
+            "en": "Fire hose reels and semi-rigid hose",
+            "ar": "بكرات خراطيم الحريق والخرطوم شبه الصلب"
+          },
+          "specs": {
+            "models": {
+              "en": "SNG07-02A to 06B",
+              "ar": "⁦SNG07-02A to 06B⁩"
+            },
+            "data": {
+              "en": "EN 671 / LPCB hose reels with EN 694 semi-rigid hose",
+              "ar": "بكرات ⁦EN 671 / LPCB⁩ بخرطوم شبه صلب ⁦EN 694⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0769-01-002",
+          "name": {
+            "en": "Conventional fire alarm control panels",
+            "ar": "لوحات تحكم إنذار حريق تقليدية"
+          },
+          "specs": {
+            "models": {
+              "en": "SR-P02, SR-P03",
+              "ar": "⁦SR-P02, SR-P03⁩"
+            },
+            "data": {
+              "en": "1–8 / 10 zones, up to 35 detectors per zone; AC 220 V with backup battery; sounder and relay outputs",
+              "ar": "⁦1⁠–⁠8 / 10⁩ مناطق، حتى ⁦35⁩ كاشفاً لكل منطقة؛ ⁦220⁩ فولت متردد مع بطارية احتياطية؛ مخارج للجرس والمرحلات"
+            }
+          }
+        },
+        {
+          "code": "BX-0769-01-003",
+          "name": {
+            "en": "Smoke, heat and beam detectors",
+            "ar": "كواشف الدخان والحرارة والشعاع"
+          },
+          "specs": {
+            "models": {
+              "en": "SR-805, SR-505, SR-801, SR-B510",
+              "ar": "⁦SR-805, SR-505, SR-801, SR-B510⁩"
+            },
+            "data": {
+              "en": "Photoelectric smoke and heat detectors (2 / 4-wire, 9–28 V DC); beam detector 5–100 m, EN 54-12",
+              "ar": "كواشف دخان كهروضوئية وحرارة (⁦2 / 4⁩ أسلاك، ⁦9⁠–⁠28⁩ فولت مستمر)؛ كاشف شعاع ⁦5⁠–⁠100⁩ م، ⁦EN 54-12⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0769-01-004",
+          "name": {
+            "en": "Manual call points, sounders, strobes and bells",
+            "ar": "نقاط النداء اليدوية والأجراس والأضواء الوامضة"
+          },
+          "specs": {
+            "models": {
+              "en": "SR-A05, SR-A06, SR-A02, SR-A08, SR-108, SR-A82, SR-A01, SR-A93",
+              "ar": "⁦SR-A05, SR-A06, SR-A02, SR-A08, SR-108, SR-A82, SR-A01, SR-A93⁩"
+            },
+            "data": {
+              "en": "Indoor and outdoor call points, sounder-strobes, 24 V fire bells",
+              "ar": "نقاط نداء داخلية وخارجية، وأجراس بضوء وامض، وأجراس حريق ⁦24⁩ فولت"
+            }
+          }
+        },
+        {
+          "code": "BX-0769-01-005",
+          "name": {
+            "en": "Siren strobes, call point and remote indicator",
+            "ar": "صفارات بضوء وامض ونقطة نداء ومؤشر عن بُعد"
+          },
+          "specs": {
+            "models": {
+              "en": "SR-A88, SR-A83, SR-A09, SR-A78-R",
+              "ar": "⁦SR-A88, SR-A83, SR-A09, SR-A78-R⁩"
+            },
+            "data": {
+              "en": "Sounder-strobes 10–30 V DC; LED remote indicator",
+              "ar": "أجراس بضوء وامض ⁦10⁠–⁠30⁩ فولت مستمر؛ مؤشر ⁦LED⁩ عن بُعد"
+            }
+          }
+        },
+        {
+          "code": "BX-0769-01-013",
+          "name": {
+            "en": "30 W alarm horn",
+            "ar": "بوق إنذار ⁦30⁩ واط"
+          },
+          "specs": {
+            "models": {
+              "en": "SR-A76-30",
+              "ar": "⁦SR-A76-30⁩"
+            },
+            "data": {
+              "en": "12 V, 300 mA, 135 dB, two tones, 0.9 kg; for site, blasting and evacuation alarms",
+              "ar": "⁦12⁩ فولت، ⁦300⁩ مللي أمبير، ⁦135⁩ ديسيبل، نغمتان، ⁦0.9⁩ كجم؛ لإنذارات الموقع والتفجير والإخلاء"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "EN3 · UL · ISO",
+        "ar": "⁦EN3 · UL · ISO⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

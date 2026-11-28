@@ -122,5 +122,22 @@ export const FAMILY_IDS = new Set([
   'filter-presses-reagent-dosing',
   'membrane-chamber-filter-presses',
   'filter-plates-options-belt-press-dosing',
-  'filter-press-parts-vacuum-filter-belts'
+  'filter-press-parts-vacuum-filter-belts',
+  'high-visibility-workwear-helmets',
+  'head-eye-face-respiratory-hearing-fall-protection',
+  'work-safety-gloves',
+  'work-safety-gloves-additional-range',
+  'safety-footwear',
+  'disposable-protective-coveralls',
+  'heat-fire-protection-smelting',
+  'breathing-apparatus-respirators-suits',
+  'cap-lamps-ventilation-gas-detection',
+  'gas-detectors-emergency-eyewash',
+  'gas-detection-systems',
+  'fire-extinguishers-hose-reels-fire-alarms',
+  'fire-pumps-hydrants-sprinklers-foam',
+  'traffic-cones-barriers-delineators',
+  'warning-lights-mirrors-tapes-wheel-stops',
+  'container-houses-prefab-buildings',
+  'portable-toilets-fencing-mesh-grating'
 ])

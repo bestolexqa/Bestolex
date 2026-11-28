@@ -1,0 +1,185 @@
+{
+  "id": "fire-pumps-hydrants-sprinklers-foam",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXS-01 Ed2⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXS-01 Ed2 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات والموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "water",
+      "label": {
+        "en": "Fire-water & foam equipment",
+        "ar": "معدات مياه الحريق والرغوة"
+      },
+      "models": [
+        {
+          "code": "BX-0178-01-016",
+          "name": {
+            "en": "Fire-fighting pump sets",
+            "ar": "مجموعات مضخات الإطفاء"
+          },
+          "specs": {
+            "models": {
+              "en": "XBD-W, XBD-L",
+              "ar": "⁦XBD-W, XBD-L⁩"
+            },
+            "data": {
+              "en": "Horizontal (W) and vertical (L) fire pump sets",
+              "ar": "مجموعات مضخات حريق أفقية (⁦W⁩) ورأسية (⁦L⁩)"
+            }
+          }
+        },
+        {
+          "code": "BX-0791-01-001",
+          "name": {
+            "en": "Fire hoses, reels, cabinets, couplings & nozzles",
+            "ar": "خراطيم وبكرات وخزائن ووصلات وفوهات الحريق"
+          },
+          "specs": {
+            "models": {
+              "en": "DN50 / 65 / 80; 8–20 bar; reels 20–30 m",
+              "ar": "⁦DN50 / 65 / 80⁩؛ ⁦8⁠–⁠20⁩ بار؛ بكرات ⁦20⁠–⁠30⁩ م"
+            },
+            "data": {
+              "en": "Hose lines and reels for hydrant cabinets",
+              "ar": "خطوط خراطيم وبكرات لخزائن الحنفيات"
+            }
+          }
+        },
+        {
+          "code": "BX-0791-01-002",
+          "name": {
+            "en": "Sprinkler heads",
+            "ar": "رؤوس الرشاشات"
+          },
+          "specs": {
+            "models": {
+              "en": "DN15 / DN20; 68 °C bulb",
+              "ar": "⁦DN15 / DN20⁩؛ أمبولة ⁦68 °⁩م"
+            },
+            "data": {
+              "en": "Pendant, upright, sidewall, concealed and dry types; standard and quick response",
+              "ar": "متدلية وقائمة وجانبية ومخفية وجافة؛ استجابة عادية وسريعة"
+            }
+          }
+        },
+        {
+          "code": "BX-0791-01-003",
+          "name": {
+            "en": "Fire hydrant & landing valves",
+            "ar": "حنفيات الحريق وصمامات الهبوط"
+          },
+          "specs": {
+            "models": {
+              "en": "SN50 / 65; SS100 / 150; SSF100",
+              "ar": "⁦SN50 / 65; SS100 / 150; SSF100⁩"
+            },
+            "data": {
+              "en": "Indoor and outdoor hydrant valves and hydrants",
+              "ar": "صمامات حنفيات وحنفيات داخلية وخارجية"
+            }
+          }
+        },
+        {
+          "code": "BX-0791-01-004",
+          "name": {
+            "en": "Fire service valves & flow indicators",
+            "ar": "صمامات شبكات الحريق ومؤشرات التدفق"
+          },
+          "specs": {
+            "models": {
+              "en": "Gate, butterfly, alarm, pressure-reducing",
+              "ar": "بوابة وفراشة وإنذار وتخفيض ضغط"
+            },
+            "data": {
+              "en": "Valve series for fire-water networks",
+              "ar": "سلاسل صمامات لشبكات مياه الحريق"
+            }
+          }
+        },
+        {
+          "code": "BX-0791-01-005",
+          "name": {
+            "en": "Fire extinguishers",
+            "ar": "طفايات الحريق"
+          },
+          "specs": {
+            "models": {
+              "en": "ABC 1–50 kg; CO2 2–24 kg; water-based 1–45",
+              "ar": "⁦ABC⁩ ‏⁦1⁠–⁠50⁩ كجم؛ ⁦CO2⁩ ‏⁦2⁠–⁠24⁩ كجم؛ مائية ⁦1⁠–⁠45⁩"
+            },
+            "data": {
+              "en": "Dry powder, CO2 and water-based types",
+              "ar": "بودرة جافة وثاني أكسيد الكربون ومائية"
+            }
+          }
+        },
+        {
+          "code": "BX-0791-01-006",
+          "name": {
+            "en": "Foam systems",
+            "ar": "أنظمة الرغوة"
+          },
+          "specs": {
+            "models": {
+              "en": "4–24 L/s; tanks 500–13,000 L",
+              "ar": "⁦4⁠–⁠24⁩ لتر/ثانية؛ خزانات ⁦500⁠–⁠13,000⁩ لتر"
+            },
+            "data": {
+              "en": "Foam nozzles, generators, hydrants, proportioners, bladder tanks, mobile foam trolleys and AFFF concentrate",
+              "ar": "فوهات ومولدات وحنفيات رغوة، ومُناسِبات، وخزانات بمثانة، وعربات رغوة متنقلة، ومركّز ⁦AFFF⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "8–20 bar",
+        "ar": "⁦8⁠–⁠20⁩ بار"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ]
+}

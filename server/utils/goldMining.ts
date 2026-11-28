@@ -246,17 +246,50 @@ export const STAGES: Stage[] = [
     image: '/gold-mining/support/fleet-support.webp', cover: '/gold-mining/covers/bxc-10.webp', cta: CTA_DEFAULT
   },
   {
-    id: 'safety-site-facilities', n: 0, kind: 'support', code: 'BXS-01 · BXS-02', edition: '2 · 1',
+    id: 'safety-site-facilities', n: 0, kind: 'support', code: 'BXS-01 · BXS-02', edition: '2 · 1', sub: 'safety-site-facilities',
     title: L('السلامة ومرافق الموقع', 'Safety & Site Facilities'),
     short: L('معدات الوقاية، وكشف الغاز، والحريق، والكرفانات والأسوار.', 'Protective equipment, gas detection, fire safety, cabins and fencing.'),
-    lead: L('معدات الوقاية، وكشف الغاز، والحريق، والكرفانات والأسوار.', 'Protective equipment, gas detection, fire safety, cabins and fencing.'),
+    lead: L('معدات الوقاية الشخصية من الخوذة إلى الحذاء، وأجهزة التنفس وكشف الغاز وغسيل العين، والطفايات وشبكات مياه الحريق، وأدوات تنظيم المرور، وبيوت الحاويات والمرافق والأسوار لمخيم الموقع.',
+      'PPE from helmet to boots, breathing apparatus, gas detection and eyewash, extinguishers and fire-water networks, traffic control, and container houses, facilities and fencing for the site camp.'),
     families: 17, models: 227,
-    image: '/gold-mining/support/safety-site-facilities.webp', cover: '/gold-mining/covers/bxs-01.webp', cta: CTA_DEFAULT
+    image: '/gold-mining/support/safety-site-facilities.webp', cover: '/gold-mining/covers/bxs-01.webp',
+    cta: { title: L('تجهّز موقعاً أو مخيماً جديداً؟', 'Equipping a new site or camp?'),
+      text: L('أرسل عدد العمال وطبيعة العمل (حفر، أو مصنع، أو صهر، أو كيماويات) ومرافق المخيم المطلوبة، ونقترح عليك قائمة السلامة والمرافق.', 'Send us the headcount, the type of work (drilling, plant, smelting or chemicals) and the camp facilities you need, and we suggest the safety and facilities list.') },
+    types: [
+      { id: 'ppe', chip: L('معدات الوقاية', 'PPE'), badge: L('معدات الوقاية', 'PPE') },
+      { id: 'gas', chip: L('التنفس والغاز', 'Breathing & gas'), badge: L('التنفس والغاز', 'Breathing & gas') },
+      { id: 'fire', chip: L('الحريق', 'Fire'), badge: L('الحريق', 'Fire protection') },
+      { id: 'traffic', chip: L('المرور والتحذير', 'Traffic & warning'), badge: L('المرور والتحذير', 'Traffic & warning') },
+      { id: 'camp', chip: L('المخيم والأسوار', 'Camp & fencing'), badge: L('المخيم والأسوار', 'Camp & fencing') }
+    ],
+    how: [
+      { title: L('عدد العمال', 'Headcount'), text: L('عدد العمال وتوزيع المقاسات يحددان كميات الملابس والأحذية والقفازات والخوذ.', 'Headcount and the size split set the quantities of workwear, footwear, gloves and helmets.') },
+      { title: L('طبيعة العمل', 'Type of work'), text: L('الحفر يحتاج حماية السمع والغبار، والصهر حماية الحرارة، ومناطق السيانيد كشف الغاز وغسيل العين.', 'Drilling needs hearing and dust protection, smelting needs heat protection, and cyanide areas need gas detection and eyewash.') },
+      { title: L('الحريق', 'Fire'), text: L('طفايات لكل مبنى ومولد، وشبكة مياه ورغوة لمخازن الوقود، وإنذار للمخيم.', 'Extinguishers for every building and generator, a water and foam network for fuel stores, and alarms for the camp.') },
+      { title: L('المخيم', 'Camp'), text: L('عدد الأشخاص والمرافق ومخطط الأرض تحدد بيوت الحاويات ودورات المياه والأسوار.', 'People, facilities and the site plan set the container houses, toilets and fencing.') }
+    ]
   }
 ]
 
 // Family pages: their place in the stage (group tab) and their chip.
 const FAMILY_META: Record<string, { group?: string, type?: string }> = {
+  'high-visibility-workwear-helmets': { type: 'ppe' },
+  'head-eye-face-respiratory-hearing-fall-protection': { type: 'ppe' },
+  'work-safety-gloves': { type: 'ppe' },
+  'work-safety-gloves-additional-range': { type: 'ppe' },
+  'safety-footwear': { type: 'ppe' },
+  'disposable-protective-coveralls': { type: 'ppe' },
+  'heat-fire-protection-smelting': { type: 'ppe' },
+  'breathing-apparatus-respirators-suits': { type: 'gas' },
+  'cap-lamps-ventilation-gas-detection': { type: 'gas' },
+  'gas-detectors-emergency-eyewash': { type: 'gas' },
+  'gas-detection-systems': { type: 'gas' },
+  'fire-extinguishers-hose-reels-fire-alarms': { type: 'fire' },
+  'fire-pumps-hydrants-sprinklers-foam': { type: 'fire' },
+  'traffic-cones-barriers-delineators': { type: 'traffic' },
+  'warning-lights-mirrors-tapes-wheel-stops': { type: 'traffic' },
+  'container-houses-prefab-buildings': { type: 'camp' },
+  'portable-toilets-fencing-mesh-grating': { type: 'camp' },
   'complete-gold-processing-plants': { type: 'plants' },
   'flotation-machines-agitation-tanks': { type: 'flotation' },
   'flotation-agitation-thickening-additional': { type: 'flotation' },

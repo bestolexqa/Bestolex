@@ -124,7 +124,24 @@ const FAMILY_FILES: Record<string, string> = {
   'filter-presses-reagent-dosing': 'catalog/mining/filter-presses-reagent-dosing.json',
   'membrane-chamber-filter-presses': 'catalog/mining/membrane-chamber-filter-presses.json',
   'filter-plates-options-belt-press-dosing': 'catalog/mining/filter-plates-options-belt-press-dosing.json',
-  'filter-press-parts-vacuum-filter-belts': 'catalog/mining/filter-press-parts-vacuum-filter-belts.json'
+  'filter-press-parts-vacuum-filter-belts': 'catalog/mining/filter-press-parts-vacuum-filter-belts.json',
+  'high-visibility-workwear-helmets': 'catalog/mining/high-visibility-workwear-helmets.json',
+  'head-eye-face-respiratory-hearing-fall-protection': 'catalog/mining/head-eye-face-respiratory-hearing-fall-protection.json',
+  'work-safety-gloves': 'catalog/mining/work-safety-gloves.json',
+  'work-safety-gloves-additional-range': 'catalog/mining/work-safety-gloves-additional-range.json',
+  'safety-footwear': 'catalog/mining/safety-footwear.json',
+  'disposable-protective-coveralls': 'catalog/mining/disposable-protective-coveralls.json',
+  'heat-fire-protection-smelting': 'catalog/mining/heat-fire-protection-smelting.json',
+  'breathing-apparatus-respirators-suits': 'catalog/mining/breathing-apparatus-respirators-suits.json',
+  'cap-lamps-ventilation-gas-detection': 'catalog/mining/cap-lamps-ventilation-gas-detection.json',
+  'gas-detectors-emergency-eyewash': 'catalog/mining/gas-detectors-emergency-eyewash.json',
+  'gas-detection-systems': 'catalog/mining/gas-detection-systems.json',
+  'fire-extinguishers-hose-reels-fire-alarms': 'catalog/mining/fire-extinguishers-hose-reels-fire-alarms.json',
+  'fire-pumps-hydrants-sprinklers-foam': 'catalog/mining/fire-pumps-hydrants-sprinklers-foam.json',
+  'traffic-cones-barriers-delineators': 'catalog/mining/traffic-cones-barriers-delineators.json',
+  'warning-lights-mirrors-tapes-wheel-stops': 'catalog/mining/warning-lights-mirrors-tapes-wheel-stops.json',
+  'container-houses-prefab-buildings': 'catalog/mining/container-houses-prefab-buildings.json',
+  'portable-toilets-fencing-mesh-grating': 'catalog/mining/portable-toilets-fencing-mesh-grating.json'
 }
 
 const cache = new Map<string, any>()
