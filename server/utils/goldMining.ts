@@ -426,7 +426,7 @@ const FAMILY_META: Record<string, { group?: string, type?: string }> = {
 
 // Catalogue downloads. Published after a check of each file (28 Nov 2026): no maker names, no Sudan, no
 // "artisanal", no banned photo. The others wait for a corrected edition and are sent on request; BXC-11 is
-// licensed-only and BXS-02 waits for the owner (fences and forklifts, SAB TECH contract).
+// licensed-only. BXS-02 published on the owner's instruction (28 Nov 2026).
 const CAT_DIR = '/catalogues/gold-mining'
 export const CATALOGUES: { code: string, edition: string, title: L, file?: string }[] = [
   { code: 'BXC-02', edition: '4', title: L('التنقيب والحفر واستخراج الخام', 'Exploration, Drilling & Ore Extraction') },
@@ -439,7 +439,7 @@ export const CATALOGUES: { code: string, edition: string, title: L, file?: strin
   { code: 'BXC-09', edition: '6', title: L('المختبر والتحليل', 'Laboratory & Assay'), file: `${CAT_DIR}/Bestolex_BXC-09_Laboratory_Assay_Ed6.pdf` },
   { code: 'BXC-10', edition: '4', title: L('دعم الأسطول', 'Fleet Support') },
   { code: 'BXS-01', edition: '2', title: L('السلامة ومعدات الوقاية', 'Safety & PPE'), file: `${CAT_DIR}/Bestolex_BXS-01_Safety_PPE_Ed2.pdf` },
-  { code: 'BXS-02', edition: '1', title: L('مستلزمات الموقع والمرافق', 'Site Supplies & Facilities') }
+  { code: 'BXS-02', edition: '1', title: L('مستلزمات الموقع والمرافق', 'Site Supplies & Facilities'), file: `${CAT_DIR}/Bestolex_BXS-02_Site_Supplies_Facilities_Ed1.pdf` }
 ]
 
 const goldCategory = () => catalog.find((c: any) => c.id === 'gold-mining')
@@ -467,7 +467,24 @@ export const familyCard = (stage: Stage, p: any) => ({
   stats: [0, 1, 2].map(i => statOf(p, i)).filter(Boolean)
 })
 
-const catalogueOf = (stage: Stage) => CATALOGUES.find(c => c.code === stage.code)
+// A stage can draw on two catalogues ('BXS-01 · BXS-02', editions '2 · 1'). Families from the second one are
+// listed here; every other family belongs to the first code.
+const FAMILY_CATALOGUE: Record<string, string> = {
+  'container-houses-prefab-buildings': 'BXS-02',
+  'portable-toilets-fencing-mesh-grating': 'BXS-02'
+}
+const codesOf = (stage: Stage) => stage.code.split(' · ')
+const catalogueByCode = (code: string) => CATALOGUES.find(c => c.code === code)
+const stageCatalogues = (stage: Stage) =>
+  codesOf(stage).map(catalogueByCode).filter(c => c?.file).map(c => ({ code: c!.code, file: c!.file! }))
+const catalogueOf = (stage: Stage) => stageCatalogues(stage)[0] || null
+// The family's own catalogue: its code, edition and file.
+const familyCatalogue = (stage: Stage, familyId: string) => {
+  const codes = codesOf(stage)
+  const i = Math.max(0, codes.indexOf(FAMILY_CATALOGUE[familyId] || codes[0]))
+  const code = codes[i]
+  return { code, edition: stage.edition.split(' · ')[i] || stage.edition, file: catalogueByCode(code)?.file || null }
+}
 
 const stageSummary = (s: Stage) => {
   const fams = subProducts(s.sub)
@@ -503,6 +520,7 @@ export const stageView = (id: string) => {
     ...rest,
     lineTotal: STAGES.filter(x => x.kind === 'line').length,
     catalogue: catalogueOf(s)?.file || null,
+    catalogues: stageCatalogues(s),
     groups: (groups || [{ id: 'all', title: s.title }]).map(g => ({ ...g, count: placed.filter(c => c.group === g.id).length })),
     types: (types || []).filter(t => cards.some(c => c.type === t.id)),
     cards: placed,
@@ -583,8 +601,9 @@ export const familyContext = (productId: string) => {
   const meta = FAMILY_META[productId] || {}
   const sameType = all.filter((p: any) => p.id !== productId && FAMILY_META[p.id]?.type === meta.type)
   const others = all.filter((p: any) => p.id !== productId && !sameType.includes(p))
+  const cat = familyCatalogue(s, productId)
   return {
-    stage: { id: s.id, n: s.n, kind: s.kind, title: s.title, code: s.code, edition: s.edition, catalogue: catalogueOf(s)?.file || null, cta: s.cta },
+    stage: { id: s.id, n: s.n, kind: s.kind, title: s.title, code: cat.code, edition: cat.edition, catalogue: cat.file, cta: s.cta },
     group: s.groups?.find(g => g.id === (meta.group || s.groups?.[0]?.id)) || null,
     badge: typeOf(s, productId)?.badge || null,
     how: s.how || null,
