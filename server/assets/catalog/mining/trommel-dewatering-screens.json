@@ -1,0 +1,987 @@
+{
+  "id": "trommel-dewatering-screens",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "drum-dia-mm",
+      "label": {
+        "en": "Drum Ø (mm)",
+        "ar": "قطر الأسطوانة (مم)"
+      }
+    },
+    {
+      "key": "drum-length-mm",
+      "label": {
+        "en": "Drum length (mm)",
+        "ar": "طول الأسطوانة (مم)"
+      }
+    },
+    {
+      "key": "capacity-t-h",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "power-kw",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "capacity-coarse-t-h",
+      "label": {
+        "en": "Capacity coarse (t/h)",
+        "ar": "الطاقة – خشن (طن/ساعة)"
+      }
+    },
+    {
+      "key": "capacity-fine-t-h",
+      "label": {
+        "en": "Capacity fine (t/h)",
+        "ar": "الطاقة – ناعم (طن/ساعة)"
+      }
+    },
+    {
+      "key": "speed-r-min",
+      "label": {
+        "en": "Speed (r/min)",
+        "ar": "السرعة (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "weight-t",
+      "label": {
+        "en": "Weight (t)",
+        "ar": "الوزن (طن)"
+      }
+    },
+    {
+      "key": "feed-size-mm",
+      "label": {
+        "en": "Feed size (mm)",
+        "ar": "حجم التغذية (مم)"
+      }
+    },
+    {
+      "key": "screen-deck-mm",
+      "label": {
+        "en": "Screen deck (mm)",
+        "ar": "سطح الغربال (مم)"
+      }
+    },
+    {
+      "key": "screen-area-m2",
+      "label": {
+        "en": "Screen area (m²)",
+        "ar": "مساحة الغربلة (م²)"
+      }
+    }
+  ],
+  "keyRows": [
+    "drum-dia-mm",
+    "drum-length-mm",
+    "capacity-t-h"
+  ],
+  "types": [
+    {
+      "id": "gt",
+      "label": {
+        "en": "GT trommel screens",
+        "ar": "غرابيل أسطوانية ⁦GT⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0016-03-022 / GT1015",
+          "name": {
+            "en": "GT1015",
+            "ar": "GT1015"
+          },
+          "specs": {
+            "drum-dia-mm": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "drum-length-mm": {
+              "en": "1500",
+              "ar": "1500"
+            },
+            "capacity-t-h": {
+              "en": "10–15",
+              "ar": "⁦10–15⁩"
+            },
+            "power-kw": {
+              "en": "4.0",
+              "ar": "⁦4.0⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-022 / GT1020",
+          "name": {
+            "en": "GT1020",
+            "ar": "GT1020"
+          },
+          "specs": {
+            "drum-dia-mm": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "drum-length-mm": {
+              "en": "2000",
+              "ar": "2000"
+            },
+            "capacity-t-h": {
+              "en": "15–25",
+              "ar": "⁦15–25⁩"
+            },
+            "power-kw": {
+              "en": "5.5",
+              "ar": "⁦5.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-022 / GT1225",
+          "name": {
+            "en": "GT1225",
+            "ar": "GT1225"
+          },
+          "specs": {
+            "drum-dia-mm": {
+              "en": "1200",
+              "ar": "1200"
+            },
+            "drum-length-mm": {
+              "en": "2500",
+              "ar": "2500"
+            },
+            "capacity-t-h": {
+              "en": "25–40",
+              "ar": "⁦25–40⁩"
+            },
+            "power-kw": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-022 / GT1530",
+          "name": {
+            "en": "GT1530",
+            "ar": "GT1530"
+          },
+          "specs": {
+            "drum-dia-mm": {
+              "en": "1500",
+              "ar": "1500"
+            },
+            "drum-length-mm": {
+              "en": "3000",
+              "ar": "3000"
+            },
+            "capacity-t-h": {
+              "en": "60–80",
+              "ar": "⁦60–80⁩"
+            },
+            "power-kw": {
+              "en": "11",
+              "ar": "11"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-022 / GT1545",
+          "name": {
+            "en": "GT1545",
+            "ar": "GT1545"
+          },
+          "specs": {
+            "drum-dia-mm": {
+              "en": "1500",
+              "ar": "1500"
+            },
+            "drum-length-mm": {
+              "en": "4500",
+              "ar": "4500"
+            },
+            "capacity-t-h": {
+              "en": "80–150",
+              "ar": "⁦80–150⁩"
+            },
+            "power-kw": {
+              "en": "15",
+              "ar": "15"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-022 / GT1848",
+          "name": {
+            "en": "GT1848",
+            "ar": "GT1848"
+          },
+          "specs": {
+            "drum-dia-mm": {
+              "en": "1800",
+              "ar": "1800"
+            },
+            "drum-length-mm": {
+              "en": "4800",
+              "ar": "4800"
+            },
+            "capacity-t-h": {
+              "en": "150–200",
+              "ar": "⁦150–200⁩"
+            },
+            "power-kw": {
+              "en": "22",
+              "ar": "22"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-022 / GT1860",
+          "name": {
+            "en": "GT1860",
+            "ar": "GT1860"
+          },
+          "specs": {
+            "drum-dia-mm": {
+              "en": "1800",
+              "ar": "1800"
+            },
+            "drum-length-mm": {
+              "en": "6000",
+              "ar": "6000"
+            },
+            "capacity-t-h": {
+              "en": "160–220",
+              "ar": "⁦160–220⁩"
+            },
+            "power-kw": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-022 / GT2055",
+          "name": {
+            "en": "GT2055",
+            "ar": "GT2055"
+          },
+          "specs": {
+            "drum-dia-mm": {
+              "en": "2000",
+              "ar": "2000"
+            },
+            "drum-length-mm": {
+              "en": "5500",
+              "ar": "5500"
+            },
+            "capacity-t-h": {
+              "en": "200–260",
+              "ar": "⁦200–260⁩"
+            },
+            "power-kw": {
+              "en": "30",
+              "ar": "30"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-022 / GT2580",
+          "name": {
+            "en": "GT2580",
+            "ar": "GT2580"
+          },
+          "specs": {
+            "drum-dia-mm": {
+              "en": "2500",
+              "ar": "2500"
+            },
+            "drum-length-mm": {
+              "en": "8000",
+              "ar": "8000"
+            },
+            "capacity-t-h": {
+              "en": "300–600",
+              "ar": "⁦300–600⁩"
+            },
+            "power-kw": {
+              "en": "22 × 2",
+              "ar": "⁦22 × 2⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "10–600 t/h",
+        "ar": "⁦10⁠–⁠600⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "Drum length can be made to order.",
+        "ar": "يمكن تصنيع طول الأسطوانة حسب الطلب."
+      },
+      "keyRows": [
+        "drum-dia-mm",
+        "capacity-t-h",
+        "power-kw"
+      ]
+    },
+    {
+      "id": "gs",
+      "label": {
+        "en": "GS trommel screens",
+        "ar": "غرابيل أسطوانية ⁦GS⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0021-01-020 / GS600×1800",
+          "name": {
+            "en": "GS600×1800",
+            "ar": "⁦GS600×1800⁩"
+          },
+          "specs": {
+            "capacity-coarse-t-h": {
+              "en": "18",
+              "ar": "18"
+            },
+            "capacity-fine-t-h": {
+              "en": "8",
+              "ar": "8"
+            },
+            "speed-r-min": {
+              "en": "26",
+              "ar": "26"
+            },
+            "power-kw": {
+              "en": "2.2–3",
+              "ar": "⁦2.2–3⁩"
+            },
+            "weight-t": {
+              "en": "0.7",
+              "ar": "⁦0.7⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-020 / GS800×1400",
+          "name": {
+            "en": "GS800×1400",
+            "ar": "⁦GS800×1400⁩"
+          },
+          "specs": {
+            "capacity-coarse-t-h": {
+              "en": "36",
+              "ar": "36"
+            },
+            "capacity-fine-t-h": {
+              "en": "16",
+              "ar": "16"
+            },
+            "speed-r-min": {
+              "en": "22",
+              "ar": "22"
+            },
+            "power-kw": {
+              "en": "4",
+              "ar": "4"
+            },
+            "weight-t": {
+              "en": "1.2",
+              "ar": "⁦1.2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-020 / GS1000×3000",
+          "name": {
+            "en": "GS1000×3000",
+            "ar": "⁦GS1000×3000⁩"
+          },
+          "specs": {
+            "capacity-coarse-t-h": {
+              "en": "60",
+              "ar": "60"
+            },
+            "capacity-fine-t-h": {
+              "en": "27",
+              "ar": "27"
+            },
+            "speed-r-min": {
+              "en": "18",
+              "ar": "18"
+            },
+            "power-kw": {
+              "en": "5.5–7.5",
+              "ar": "⁦5.5–7.5⁩"
+            },
+            "weight-t": {
+              "en": "1.8",
+              "ar": "⁦1.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-020 / GS1200×3600",
+          "name": {
+            "en": "GS1200×3600",
+            "ar": "⁦GS1200×3600⁩"
+          },
+          "specs": {
+            "capacity-coarse-t-h": {
+              "en": "90",
+              "ar": "90"
+            },
+            "capacity-fine-t-h": {
+              "en": "40",
+              "ar": "40"
+            },
+            "speed-r-min": {
+              "en": "16",
+              "ar": "16"
+            },
+            "power-kw": {
+              "en": "7.5–11",
+              "ar": "⁦7.5–11⁩"
+            },
+            "weight-t": {
+              "en": "2.8",
+              "ar": "⁦2.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-020 / GS1500×3600",
+          "name": {
+            "en": "GS1500×3600",
+            "ar": "⁦GS1500×3600⁩"
+          },
+          "specs": {
+            "capacity-coarse-t-h": {
+              "en": "110",
+              "ar": "110"
+            },
+            "capacity-fine-t-h": {
+              "en": "50",
+              "ar": "50"
+            },
+            "speed-r-min": {
+              "en": "14",
+              "ar": "14"
+            },
+            "power-kw": {
+              "en": "11–13",
+              "ar": "⁦11–13⁩"
+            },
+            "weight-t": {
+              "en": "4.6",
+              "ar": "⁦4.6⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-020 / GS1800×4200",
+          "name": {
+            "en": "GS1800×4200",
+            "ar": "⁦GS1800×4200⁩"
+          },
+          "specs": {
+            "capacity-coarse-t-h": {
+              "en": "165",
+              "ar": "165"
+            },
+            "capacity-fine-t-h": {
+              "en": "77",
+              "ar": "77"
+            },
+            "speed-r-min": {
+              "en": "12",
+              "ar": "12"
+            },
+            "power-kw": {
+              "en": "13–17",
+              "ar": "⁦13–17⁩"
+            },
+            "weight-t": {
+              "en": "6.2",
+              "ar": "⁦6.2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-020 / GS2100×4200",
+          "name": {
+            "en": "GS2100×4200",
+            "ar": "⁦GS2100×4200⁩"
+          },
+          "specs": {
+            "capacity-coarse-t-h": {
+              "en": "230",
+              "ar": "230"
+            },
+            "capacity-fine-t-h": {
+              "en": "115",
+              "ar": "115"
+            },
+            "speed-r-min": {
+              "en": "10",
+              "ar": "10"
+            },
+            "power-kw": {
+              "en": "15–22",
+              "ar": "⁦15–22⁩"
+            },
+            "weight-t": {
+              "en": "9.0",
+              "ar": "⁦9.0⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "8–230 t/h",
+        "ar": "⁦8⁠–⁠230⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "capacity-coarse-t-h",
+        "capacity-fine-t-h",
+        "power-kw"
+      ]
+    },
+    {
+      "id": "zsd",
+      "label": {
+        "en": "ZSD dewatering screens",
+        "ar": "غرابيل نزع الماء ⁦ZSD⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0016-03-023 / ZSD1225",
+          "name": {
+            "en": "ZSD1225",
+            "ar": "ZSD1225"
+          },
+          "specs": {
+            "power-kw": {
+              "en": "1.5 × 2",
+              "ar": "⁦1.5 × 2⁩"
+            },
+            "capacity-t-h": {
+              "en": "30–80",
+              "ar": "⁦30–80⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 10",
+              "ar": "⁦≤ 10⁩"
+            },
+            "screen-deck-mm": {
+              "en": "1200×2500",
+              "ar": "⁦1200×2500⁩"
+            },
+            "screen-area-m2": {
+              "en": "3",
+              "ar": "3"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-023 / ZSD1236",
+          "name": {
+            "en": "ZSD1236",
+            "ar": "ZSD1236"
+          },
+          "specs": {
+            "power-kw": {
+              "en": "2.2 × 2",
+              "ar": "⁦2.2 × 2⁩"
+            },
+            "capacity-t-h": {
+              "en": "30–80",
+              "ar": "⁦30–80⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 10",
+              "ar": "⁦≤ 10⁩"
+            },
+            "screen-deck-mm": {
+              "en": "1200×3600",
+              "ar": "⁦1200×3600⁩"
+            },
+            "screen-area-m2": {
+              "en": "4.32",
+              "ar": "⁦4.32⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-023 / ZSD1530",
+          "name": {
+            "en": "ZSD1530",
+            "ar": "ZSD1530"
+          },
+          "specs": {
+            "power-kw": {
+              "en": "1.1 × 4",
+              "ar": "⁦1.1 × 4⁩"
+            },
+            "capacity-t-h": {
+              "en": "80–120",
+              "ar": "⁦80–120⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 10",
+              "ar": "⁦≤ 10⁩"
+            },
+            "screen-deck-mm": {
+              "en": "1500×3000",
+              "ar": "⁦1500×3000⁩"
+            },
+            "screen-area-m2": {
+              "en": "4.5",
+              "ar": "⁦4.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-023 / ZSD1842",
+          "name": {
+            "en": "ZSD1842",
+            "ar": "ZSD1842"
+          },
+          "specs": {
+            "power-kw": {
+              "en": "2.2 × 4",
+              "ar": "⁦2.2 × 4⁩"
+            },
+            "capacity-t-h": {
+              "en": "100–140",
+              "ar": "⁦100–140⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 10",
+              "ar": "⁦≤ 10⁩"
+            },
+            "screen-deck-mm": {
+              "en": "1800×4200",
+              "ar": "⁦1800×4200⁩"
+            },
+            "screen-area-m2": {
+              "en": "7.56",
+              "ar": "⁦7.56⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-023 / ZSD2445",
+          "name": {
+            "en": "ZSD2445",
+            "ar": "ZSD2445"
+          },
+          "specs": {
+            "power-kw": {
+              "en": "11 × 2",
+              "ar": "⁦11 × 2⁩"
+            },
+            "capacity-t-h": {
+              "en": "140–180",
+              "ar": "⁦140–180⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 10",
+              "ar": "⁦≤ 10⁩"
+            },
+            "screen-deck-mm": {
+              "en": "2400×4500",
+              "ar": "⁦2400×4500⁩"
+            },
+            "screen-area-m2": {
+              "en": "10.8",
+              "ar": "⁦10.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-023 / ZSD2460",
+          "name": {
+            "en": "ZSD2460",
+            "ar": "ZSD2460"
+          },
+          "specs": {
+            "power-kw": {
+              "en": "15 × 2",
+              "ar": "⁦15 × 2⁩"
+            },
+            "capacity-t-h": {
+              "en": "140–180",
+              "ar": "⁦140–180⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 10",
+              "ar": "⁦≤ 10⁩"
+            },
+            "screen-deck-mm": {
+              "en": "2400×6000",
+              "ar": "⁦2400×6000⁩"
+            },
+            "screen-area-m2": {
+              "en": "14.4",
+              "ar": "⁦14.4⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-03-023 / ZSD3048",
+          "name": {
+            "en": "ZSD3048",
+            "ar": "ZSD3048"
+          },
+          "specs": {
+            "power-kw": {
+              "en": "22 × 2",
+              "ar": "⁦22 × 2⁩"
+            },
+            "capacity-t-h": {
+              "en": "200–250",
+              "ar": "⁦200–250⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 10",
+              "ar": "⁦≤ 10⁩"
+            },
+            "screen-deck-mm": {
+              "en": "3000×4800",
+              "ar": "⁦3000×4800⁩"
+            },
+            "screen-area-m2": {
+              "en": "14.4",
+              "ar": "⁦14.4⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "30–250 t/h",
+        "ar": "⁦30⁠–⁠250⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "capacity-t-h",
+        "screen-area-m2",
+        "power-kw"
+      ]
+    },
+    {
+      "id": "zsd-additional",
+      "label": {
+        "en": "ZSD dewatering screens – additional sizes (polyurethane deck)",
+        "ar": "غرابيل نزع الماء ⁦ZSD⁩ – مقاسات إضافية (سطح بولي يوريثان)"
+      },
+      "models": [
+        {
+          "code": "BX-0033-01-031 / ZSD1230",
+          "name": {
+            "en": "ZSD1230",
+            "ar": "ZSD1230"
+          },
+          "specs": {
+            "screen-deck-mm": {
+              "en": "1200 × 3000",
+              "ar": "⁦1200 × 3000⁩"
+            },
+            "screen-area-m2": {
+              "en": "3.6",
+              "ar": "⁦3.6⁩"
+            },
+            "power-kw": {
+              "en": "1.9 × 2",
+              "ar": "⁦1.9 × 2⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 10",
+              "ar": "⁦≤ 10⁩"
+            },
+            "capacity-t-h": {
+              "en": "30–80",
+              "ar": "⁦30–80⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-031 / ZSD1536",
+          "name": {
+            "en": "ZSD1536",
+            "ar": "ZSD1536"
+          },
+          "specs": {
+            "screen-deck-mm": {
+              "en": "1500 × 3600",
+              "ar": "⁦1500 × 3600⁩"
+            },
+            "screen-area-m2": {
+              "en": "5.4",
+              "ar": "⁦5.4⁩"
+            },
+            "power-kw": {
+              "en": "3",
+              "ar": "3"
+            },
+            "feed-size-mm": {
+              "en": "≤ 10",
+              "ar": "⁦≤ 10⁩"
+            },
+            "capacity-t-h": {
+              "en": "80–120",
+              "ar": "⁦80–120⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-031 / ZSD1836",
+          "name": {
+            "en": "ZSD1836",
+            "ar": "ZSD1836"
+          },
+          "specs": {
+            "screen-deck-mm": {
+              "en": "1800 × 3600",
+              "ar": "⁦1800 × 3600⁩"
+            },
+            "screen-area-m2": {
+              "en": "6.48",
+              "ar": "⁦6.48⁩"
+            },
+            "power-kw": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 10",
+              "ar": "⁦≤ 10⁩"
+            },
+            "capacity-t-h": {
+              "en": "100–140",
+              "ar": "⁦100–140⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-031 / ZSD1848",
+          "name": {
+            "en": "ZSD1848",
+            "ar": "ZSD1848"
+          },
+          "specs": {
+            "screen-deck-mm": {
+              "en": "1800 × 4800",
+              "ar": "⁦1800 × 4800⁩"
+            },
+            "screen-area-m2": {
+              "en": "8.64",
+              "ar": "⁦8.64⁩"
+            },
+            "power-kw": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 10",
+              "ar": "⁦≤ 10⁩"
+            },
+            "capacity-t-h": {
+              "en": "100–140",
+              "ar": "⁦100–140⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-031 / ZSD2442",
+          "name": {
+            "en": "ZSD2442",
+            "ar": "ZSD2442"
+          },
+          "specs": {
+            "screen-deck-mm": {
+              "en": "2400 × 4200",
+              "ar": "⁦2400 × 4200⁩"
+            },
+            "screen-area-m2": {
+              "en": "10.1",
+              "ar": "⁦10.1⁩"
+            },
+            "power-kw": {
+              "en": "11",
+              "ar": "11"
+            },
+            "feed-size-mm": {
+              "en": "≤ 10",
+              "ar": "⁦≤ 10⁩"
+            },
+            "capacity-t-h": {
+              "en": "140–180",
+              "ar": "⁦140–180⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-031 / ZSD2448",
+          "name": {
+            "en": "ZSD2448",
+            "ar": "ZSD2448"
+          },
+          "specs": {
+            "screen-deck-mm": {
+              "en": "2400 × 4800",
+              "ar": "⁦2400 × 4800⁩"
+            },
+            "screen-area-m2": {
+              "en": "11.52",
+              "ar": "⁦11.52⁩"
+            },
+            "power-kw": {
+              "en": "11",
+              "ar": "11"
+            },
+            "feed-size-mm": {
+              "en": "≤ 10",
+              "ar": "⁦≤ 10⁩"
+            },
+            "capacity-t-h": {
+              "en": "140–180",
+              "ar": "⁦140–180⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "30–180 t/h",
+        "ar": "⁦30⁠–⁠180⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "capacity-t-h",
+        "screen-area-m2",
+        "power-kw"
+      ]
+    }
+  ]
+}

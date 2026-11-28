@@ -1,0 +1,983 @@
+{
+  "id": "vibrating-feeders",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "w-x-l-m",
+      "label": {
+        "en": "W × L (m)",
+        "ar": "العرض × الطول (م)"
+      }
+    },
+    {
+      "key": "power-kw",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "vibrator",
+      "label": {
+        "en": "Vibrator",
+        "ar": "الهزّاز"
+      }
+    },
+    {
+      "key": "capacity-t-h",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "max-feed-size-mm",
+      "label": {
+        "en": "Max. feed size (mm)",
+        "ar": "أقصى حجم تغذية (مم)"
+      }
+    },
+    {
+      "key": "weight-t",
+      "label": {
+        "en": "Weight (t)",
+        "ar": "الوزن (طن)"
+      }
+    },
+    {
+      "key": "trough-size-mm",
+      "label": {
+        "en": "Trough size (mm)",
+        "ar": "مقاس الحوض (مم)"
+      }
+    },
+    {
+      "key": "motor-kw",
+      "label": {
+        "en": "Motor (kW)",
+        "ar": "المحرك (كيلوواط)"
+      }
+    },
+    {
+      "key": "overall-dimensions-mm",
+      "label": {
+        "en": "Overall dimensions (mm)",
+        "ar": "الأبعاد الكلية (مم)"
+      }
+    },
+    {
+      "key": "models",
+      "label": {
+        "en": "Models",
+        "ar": "الموديلات"
+      }
+    },
+    {
+      "key": "inclination-deg",
+      "label": {
+        "en": "Inclination (°)",
+        "ar": "الميل (°)"
+      }
+    },
+    {
+      "key": "double-amplitude-mm",
+      "label": {
+        "en": "Double amplitude (mm)",
+        "ar": "السعة المزدوجة (مم)"
+      }
+    },
+    {
+      "key": "voltage-v",
+      "label": {
+        "en": "Voltage (V)",
+        "ar": "الجهد (فولت)"
+      }
+    },
+    {
+      "key": "weight-kg",
+      "label": {
+        "en": "Weight (kg)",
+        "ar": "الوزن (كغ)"
+      }
+    }
+  ],
+  "keyRows": [
+    "w-x-l-m",
+    "power-kw",
+    "vibrator"
+  ],
+  "types": [
+    {
+      "id": "mvf",
+      "label": {
+        "en": "MVF vibrating grizzly feeders",
+        "ar": "مغذيات اهتزازية بقضبان ⁦MVF⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0014-01-011 / MVF452-2V",
+          "name": {
+            "en": "MVF452-2V",
+            "ar": "⁦MVF452-2V⁩"
+          },
+          "specs": {
+            "w-x-l-m": {
+              "en": "1.1 × 5.2",
+              "ar": "⁦1.1 × 5.2⁩"
+            },
+            "power-kw": {
+              "en": "15",
+              "ar": "15"
+            },
+            "vibrator": {
+              "en": "MV2",
+              "ar": "MV2"
+            },
+            "capacity-t-h": {
+              "en": "450",
+              "ar": "450"
+            },
+            "max-feed-size-mm": {
+              "en": "700",
+              "ar": "700"
+            },
+            "weight-t": {
+              "en": "5.75",
+              "ar": "⁦5.75⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-011 / MVF561-2V",
+          "name": {
+            "en": "MVF561-2V",
+            "ar": "⁦MVF561-2V⁩"
+          },
+          "specs": {
+            "w-x-l-m": {
+              "en": "1.3 × 6.1",
+              "ar": "⁦1.3 × 6.1⁩"
+            },
+            "power-kw": {
+              "en": "30",
+              "ar": "30"
+            },
+            "vibrator": {
+              "en": "MV3",
+              "ar": "MV3"
+            },
+            "capacity-t-h": {
+              "en": "750",
+              "ar": "750"
+            },
+            "max-feed-size-mm": {
+              "en": "900",
+              "ar": "900"
+            },
+            "weight-t": {
+              "en": "7",
+              "ar": "7"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-011 / MVF661-2V",
+          "name": {
+            "en": "MVF661-2V",
+            "ar": "⁦MVF661-2V⁩"
+          },
+          "specs": {
+            "w-x-l-m": {
+              "en": "1.6 × 6.1",
+              "ar": "⁦1.6 × 6.1⁩"
+            },
+            "power-kw": {
+              "en": "30",
+              "ar": "30"
+            },
+            "vibrator": {
+              "en": "MV3",
+              "ar": "MV3"
+            },
+            "capacity-t-h": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "max-feed-size-mm": {
+              "en": "1200",
+              "ar": "1200"
+            },
+            "weight-t": {
+              "en": "10.5",
+              "ar": "⁦10.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-011 / MVF866-2V",
+          "name": {
+            "en": "MVF866-2V",
+            "ar": "⁦MVF866-2V⁩"
+          },
+          "specs": {
+            "w-x-l-m": {
+              "en": "2.0 × 6.6",
+              "ar": "⁦2.0 × 6.6⁩"
+            },
+            "power-kw": {
+              "en": "55",
+              "ar": "55"
+            },
+            "vibrator": {
+              "en": "2 × MV3",
+              "ar": "⁦2 × MV3⁩"
+            },
+            "capacity-t-h": {
+              "en": "1800",
+              "ar": "1800"
+            },
+            "max-feed-size-mm": {
+              "en": "1500",
+              "ar": "1500"
+            },
+            "weight-t": {
+              "en": "15",
+              "ar": "15"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "450–1800 t/h",
+        "ar": "⁦450⁠–⁠1800⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "capacity-t-h",
+        "max-feed-size-mm",
+        "power-kw"
+      ]
+    },
+    {
+      "id": "gzd-zsw",
+      "label": {
+        "en": "GZD / ZSW vibrating feeders",
+        "ar": "مغذيات اهتزازية ⁦GZD / ZSW⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0016-01-022 / GZD-650×2500",
+          "name": {
+            "en": "GZD-650×2500",
+            "ar": "⁦GZD-650×2500⁩"
+          },
+          "specs": {
+            "trough-size-mm": {
+              "en": "650×2500",
+              "ar": "⁦650×2500⁩"
+            },
+            "max-feed-size-mm": {
+              "en": "560",
+              "ar": "560"
+            },
+            "motor-kw": {
+              "en": "1.1 × 2",
+              "ar": "⁦1.1 × 2⁩"
+            },
+            "capacity-t-h": {
+              "en": "50–90",
+              "ar": "⁦50–90⁩"
+            },
+            "overall-dimensions-mm": {
+              "en": "2570×890×1000",
+              "ar": "⁦2570×890×1000⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-022 / ZSW-850×3000",
+          "name": {
+            "en": "ZSW-850×3000",
+            "ar": "⁦ZSW-850×3000⁩"
+          },
+          "specs": {
+            "trough-size-mm": {
+              "en": "850×3000",
+              "ar": "⁦850×3000⁩"
+            },
+            "max-feed-size-mm": {
+              "en": "780",
+              "ar": "780"
+            },
+            "motor-kw": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "capacity-t-h": {
+              "en": "80–120",
+              "ar": "⁦80–120⁩"
+            },
+            "overall-dimensions-mm": {
+              "en": "3110×1800×1100",
+              "ar": "⁦3110×1800×1100⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-022 / ZSW-960×3800",
+          "name": {
+            "en": "ZSW-960×3800",
+            "ar": "⁦ZSW-960×3800⁩"
+          },
+          "specs": {
+            "trough-size-mm": {
+              "en": "960×3800",
+              "ar": "⁦960×3800⁩"
+            },
+            "max-feed-size-mm": {
+              "en": "820",
+              "ar": "820"
+            },
+            "motor-kw": {
+              "en": "11",
+              "ar": "11"
+            },
+            "capacity-t-h": {
+              "en": "120–210",
+              "ar": "⁦120–210⁩"
+            },
+            "overall-dimensions-mm": {
+              "en": "3850×1950×1100",
+              "ar": "⁦3850×1950×1100⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-022 / ZSW-1100×4200",
+          "name": {
+            "en": "ZSW-1100×4200",
+            "ar": "⁦ZSW-1100×4200⁩"
+          },
+          "specs": {
+            "trough-size-mm": {
+              "en": "1100×4200",
+              "ar": "⁦1100×4200⁩"
+            },
+            "max-feed-size-mm": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "motor-kw": {
+              "en": "15",
+              "ar": "15"
+            },
+            "capacity-t-h": {
+              "en": "200–430",
+              "ar": "⁦200–430⁩"
+            },
+            "overall-dimensions-mm": {
+              "en": "4400×2050×1200",
+              "ar": "⁦4400×2050×1200⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-022 / ZSW-1100×4900",
+          "name": {
+            "en": "ZSW-1100×4900",
+            "ar": "⁦ZSW-1100×4900⁩"
+          },
+          "specs": {
+            "trough-size-mm": {
+              "en": "1100×4900",
+              "ar": "⁦1100×4900⁩"
+            },
+            "max-feed-size-mm": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "motor-kw": {
+              "en": "15",
+              "ar": "15"
+            },
+            "capacity-t-h": {
+              "en": "280–500",
+              "ar": "⁦280–500⁩"
+            },
+            "overall-dimensions-mm": {
+              "en": "5000×1820×1220",
+              "ar": "⁦5000×1820×1220⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-022 / ZSW-1300×4900",
+          "name": {
+            "en": "ZSW-1300×4900",
+            "ar": "⁦ZSW-1300×4900⁩"
+          },
+          "specs": {
+            "trough-size-mm": {
+              "en": "1300×4900",
+              "ar": "⁦1300×4900⁩"
+            },
+            "max-feed-size-mm": {
+              "en": "1100",
+              "ar": "1100"
+            },
+            "motor-kw": {
+              "en": "22",
+              "ar": "22"
+            },
+            "capacity-t-h": {
+              "en": "450–600",
+              "ar": "⁦450–600⁩"
+            },
+            "overall-dimensions-mm": {
+              "en": "5200×2020×1440",
+              "ar": "⁦5200×2020×1440⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-022 / ZSW-1300×6000",
+          "name": {
+            "en": "ZSW-1300×6000",
+            "ar": "⁦ZSW-1300×6000⁩"
+          },
+          "specs": {
+            "trough-size-mm": {
+              "en": "1300×6000",
+              "ar": "⁦1300×6000⁩"
+            },
+            "max-feed-size-mm": {
+              "en": "1100",
+              "ar": "1100"
+            },
+            "motor-kw": {
+              "en": "22",
+              "ar": "22"
+            },
+            "capacity-t-h": {
+              "en": "450–680",
+              "ar": "⁦450–680⁩"
+            },
+            "overall-dimensions-mm": {
+              "en": "6100×2020×1440",
+              "ar": "⁦6100×2020×1440⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-022 / ZSW-1500×6000",
+          "name": {
+            "en": "ZSW-1500×6000",
+            "ar": "⁦ZSW-1500×6000⁩"
+          },
+          "specs": {
+            "trough-size-mm": {
+              "en": "1500×6000",
+              "ar": "⁦1500×6000⁩"
+            },
+            "max-feed-size-mm": {
+              "en": "1280",
+              "ar": "1280"
+            },
+            "motor-kw": {
+              "en": "30",
+              "ar": "30"
+            },
+            "capacity-t-h": {
+              "en": "550–1200",
+              "ar": "⁦550–1200⁩"
+            },
+            "overall-dimensions-mm": {
+              "en": "6100×2220×1440",
+              "ar": "⁦6100×2220×1440⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "50–1200 t/h",
+        "ar": "⁦50⁠–⁠1200⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "capacity-t-h",
+        "max-feed-size-mm",
+        "motor-kw"
+      ]
+    },
+    {
+      "id": "gzd-large",
+      "label": {
+        "en": "GZD vibrating feeders – larger sizes",
+        "ar": "مغذيات اهتزازية ⁦GZD⁩ – مقاسات أكبر"
+      },
+      "models": [
+        {
+          "code": "BX-0018-03-017",
+          "name": {
+            "en": "GZD vibrating feeder",
+            "ar": "مغذٍّ اهتزازي ⁦GZD⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "GZD-900×2000 to GZD-1600×6000 (10 sizes)",
+              "ar": "من ⁦GZD-900×2000⁩ إلى ⁦GZD-1600×6000 (10⁩ مقاسات)"
+            },
+            "capacity-t-h": {
+              "en": "20–1400",
+              "ar": "⁦20–1400⁩"
+            },
+            "max-feed-size-mm": {
+              "en": "300–900",
+              "ar": "⁦300–900⁩"
+            },
+            "power-kw": {
+              "en": "5.5–37",
+              "ar": "⁦5.5–37⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "20–1400 t/h",
+        "ar": "⁦20⁠–⁠1400⁩ طن/ساعة"
+      },
+      "countUnit": {
+        "ar": [
+          "سلسلة واحدة",
+          "سلسلتان",
+          "سلاسل"
+        ],
+        "en": [
+          "series",
+          "series"
+        ]
+      },
+      "intro": {
+        "en": "For primary crushing stations.",
+        "ar": "لمحطات التكسير الأولي."
+      }
+    },
+    {
+      "id": "gzt",
+      "label": {
+        "en": "GZT grizzly vibrating feeders",
+        "ar": "مغذيات اهتزازية بقضبان ⁦GZT⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0033-01-047 / GZT-0724",
+          "name": {
+            "en": "GZT-0724",
+            "ar": "⁦GZT-0724⁩"
+          },
+          "specs": {
+            "max-feed-size-mm": {
+              "en": "450",
+              "ar": "450"
+            },
+            "capacity-t-h": {
+              "en": "30–80",
+              "ar": "⁦30–80⁩"
+            },
+            "power-kw": {
+              "en": "1.5 × 2",
+              "ar": "⁦1.5 × 2⁩"
+            },
+            "inclination-deg": {
+              "en": "10",
+              "ar": "10"
+            },
+            "double-amplitude-mm": {
+              "en": "4–6",
+              "ar": "⁦4–6⁩"
+            },
+            "weight-t": {
+              "en": "2.4",
+              "ar": "⁦2.4⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-047 / GZT-0932",
+          "name": {
+            "en": "GZT-0932",
+            "ar": "⁦GZT-0932⁩"
+          },
+          "specs": {
+            "max-feed-size-mm": {
+              "en": "560",
+              "ar": "560"
+            },
+            "capacity-t-h": {
+              "en": "80–150",
+              "ar": "⁦80–150⁩"
+            },
+            "power-kw": {
+              "en": "2.2 × 2",
+              "ar": "⁦2.2 × 2⁩"
+            },
+            "inclination-deg": {
+              "en": "10",
+              "ar": "10"
+            },
+            "double-amplitude-mm": {
+              "en": "4–8",
+              "ar": "⁦4–8⁩"
+            },
+            "weight-t": {
+              "en": "3.2",
+              "ar": "⁦3.2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-047 / GZT-0940",
+          "name": {
+            "en": "GZT-0940",
+            "ar": "⁦GZT-0940⁩"
+          },
+          "specs": {
+            "max-feed-size-mm": {
+              "en": "560",
+              "ar": "560"
+            },
+            "capacity-t-h": {
+              "en": "80–180",
+              "ar": "⁦80–180⁩"
+            },
+            "power-kw": {
+              "en": "3 × 2",
+              "ar": "⁦3 × 2⁩"
+            },
+            "inclination-deg": {
+              "en": "10",
+              "ar": "10"
+            },
+            "double-amplitude-mm": {
+              "en": "4–8",
+              "ar": "⁦4–8⁩"
+            },
+            "weight-t": {
+              "en": "3.7",
+              "ar": "⁦3.7⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-047 / GZT-1148",
+          "name": {
+            "en": "GZT-1148",
+            "ar": "⁦GZT-1148⁩"
+          },
+          "specs": {
+            "max-feed-size-mm": {
+              "en": "600",
+              "ar": "600"
+            },
+            "capacity-t-h": {
+              "en": "150–300",
+              "ar": "⁦150–300⁩"
+            },
+            "power-kw": {
+              "en": "5.5 × 2",
+              "ar": "⁦5.5 × 2⁩"
+            },
+            "inclination-deg": {
+              "en": "10",
+              "ar": "10"
+            },
+            "double-amplitude-mm": {
+              "en": "4–8",
+              "ar": "⁦4–8⁩"
+            },
+            "weight-t": {
+              "en": "5.1",
+              "ar": "⁦5.1⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-047 / GZT-1256",
+          "name": {
+            "en": "GZT-1256",
+            "ar": "⁦GZT-1256⁩"
+          },
+          "specs": {
+            "max-feed-size-mm": {
+              "en": "800",
+              "ar": "800"
+            },
+            "capacity-t-h": {
+              "en": "180–400",
+              "ar": "⁦180–400⁩"
+            },
+            "power-kw": {
+              "en": "7.5 × 2",
+              "ar": "⁦7.5 × 2⁩"
+            },
+            "inclination-deg": {
+              "en": "10",
+              "ar": "10"
+            },
+            "double-amplitude-mm": {
+              "en": "4–8",
+              "ar": "⁦4–8⁩"
+            },
+            "weight-t": {
+              "en": "6.3",
+              "ar": "⁦6.3⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-047 / GZT-1560",
+          "name": {
+            "en": "GZT-1560",
+            "ar": "⁦GZT-1560⁩"
+          },
+          "specs": {
+            "max-feed-size-mm": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "capacity-t-h": {
+              "en": "400–600",
+              "ar": "⁦400–600⁩"
+            },
+            "power-kw": {
+              "en": "15 × 2",
+              "ar": "⁦15 × 2⁩"
+            },
+            "inclination-deg": {
+              "en": "10",
+              "ar": "10"
+            },
+            "double-amplitude-mm": {
+              "en": "4–8",
+              "ar": "⁦4–8⁩"
+            },
+            "weight-t": {
+              "en": "8.9",
+              "ar": "⁦8.9⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "30–600 t/h",
+        "ar": "⁦30⁠–⁠600⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "capacity-t-h",
+        "max-feed-size-mm",
+        "power-kw"
+      ]
+    },
+    {
+      "id": "gz",
+      "label": {
+        "en": "GZ electromagnetic vibrating feeders",
+        "ar": "مغذيات اهتزازية كهرومغناطيسية ⁦GZ⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0016-01-023 / GZ1",
+          "name": {
+            "en": "GZ1",
+            "ar": "GZ1"
+          },
+          "specs": {
+            "capacity-t-h": {
+              "en": "5",
+              "ar": "5"
+            },
+            "max-feed-size-mm": {
+              "en": "50",
+              "ar": "50"
+            },
+            "power-kw": {
+              "en": "0.06",
+              "ar": "⁦0.06⁩"
+            },
+            "voltage-v": {
+              "en": "220",
+              "ar": "220"
+            },
+            "double-amplitude-mm": {
+              "en": "1.75",
+              "ar": "⁦1.75⁩"
+            },
+            "weight-kg": {
+              "en": "75",
+              "ar": "75"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-023 / GZ2",
+          "name": {
+            "en": "GZ2",
+            "ar": "GZ2"
+          },
+          "specs": {
+            "capacity-t-h": {
+              "en": "10",
+              "ar": "10"
+            },
+            "max-feed-size-mm": {
+              "en": "60",
+              "ar": "60"
+            },
+            "power-kw": {
+              "en": "0.15",
+              "ar": "⁦0.15⁩"
+            },
+            "voltage-v": {
+              "en": "220",
+              "ar": "220"
+            },
+            "double-amplitude-mm": {
+              "en": "1.75",
+              "ar": "⁦1.75⁩"
+            },
+            "weight-kg": {
+              "en": "155",
+              "ar": "155"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-023 / GZ3",
+          "name": {
+            "en": "GZ3",
+            "ar": "GZ3"
+          },
+          "specs": {
+            "capacity-t-h": {
+              "en": "25",
+              "ar": "25"
+            },
+            "max-feed-size-mm": {
+              "en": "70",
+              "ar": "70"
+            },
+            "power-kw": {
+              "en": "0.2",
+              "ar": "⁦0.2⁩"
+            },
+            "voltage-v": {
+              "en": "220",
+              "ar": "220"
+            },
+            "double-amplitude-mm": {
+              "en": "1.75",
+              "ar": "⁦1.75⁩"
+            },
+            "weight-kg": {
+              "en": "225",
+              "ar": "225"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-023 / GZ4",
+          "name": {
+            "en": "GZ4",
+            "ar": "GZ4"
+          },
+          "specs": {
+            "capacity-t-h": {
+              "en": "50",
+              "ar": "50"
+            },
+            "max-feed-size-mm": {
+              "en": "100",
+              "ar": "100"
+            },
+            "power-kw": {
+              "en": "0.45",
+              "ar": "⁦0.45⁩"
+            },
+            "voltage-v": {
+              "en": "220",
+              "ar": "220"
+            },
+            "double-amplitude-mm": {
+              "en": "1.75",
+              "ar": "⁦1.75⁩"
+            },
+            "weight-kg": {
+              "en": "460",
+              "ar": "460"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-023 / GZ5",
+          "name": {
+            "en": "GZ5",
+            "ar": "GZ5"
+          },
+          "specs": {
+            "capacity-t-h": {
+              "en": "100",
+              "ar": "100"
+            },
+            "max-feed-size-mm": {
+              "en": "150",
+              "ar": "150"
+            },
+            "power-kw": {
+              "en": "0.65",
+              "ar": "⁦0.65⁩"
+            },
+            "voltage-v": {
+              "en": "220",
+              "ar": "220"
+            },
+            "double-amplitude-mm": {
+              "en": "1.75",
+              "ar": "⁦1.75⁩"
+            },
+            "weight-kg": {
+              "en": "656",
+              "ar": "656"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "5–100 t/h",
+        "ar": "⁦5⁠–⁠100⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "For a steady, adjustable mill feed.",
+        "ar": "لتغذية ثابتة وقابلة للضبط إلى الطاحونة."
+      },
+      "keyRows": [
+        "capacity-t-h",
+        "max-feed-size-mm",
+        "power-kw"
+      ]
+    }
+  ]
+}

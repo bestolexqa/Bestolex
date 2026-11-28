@@ -1,0 +1,557 @@
+{
+  "id": "powder-grinding-mills",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "capacity-t-h",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "main-mill-kw",
+      "label": {
+        "en": "Main mill (kW)",
+        "ar": "الطاحونة الرئيسية (كيلوواط)"
+      }
+    },
+    {
+      "key": "blower-kw",
+      "label": {
+        "en": "Blower (kW)",
+        "ar": "المنفاخ (كيلوواط)"
+      }
+    },
+    {
+      "key": "classifier-kw",
+      "label": {
+        "en": "Classifier (kW)",
+        "ar": "المصنّف (كيلوواط)"
+      }
+    },
+    {
+      "key": "ring-dia-x-height-mm",
+      "label": {
+        "en": "Ring Ø × height (mm)",
+        "ar": "قطر الحلقة × الارتفاع (مم)"
+      }
+    },
+    {
+      "key": "max-feed-size-mm",
+      "label": {
+        "en": "Max. feed size (mm)",
+        "ar": "أقصى حجم تغذية (مم)"
+      }
+    },
+    {
+      "key": "product-size-mm",
+      "label": {
+        "en": "Product size (mm)",
+        "ar": "حجم المنتج (مم)"
+      }
+    },
+    {
+      "key": "rollers",
+      "label": {
+        "en": "Rollers",
+        "ar": "الأسطوانات"
+      }
+    },
+    {
+      "key": "feed-size-mm",
+      "label": {
+        "en": "Feed size (mm)",
+        "ar": "حجم التغذية (مم)"
+      }
+    },
+    {
+      "key": "product-um",
+      "label": {
+        "en": "Product (µm)",
+        "ar": "المنتج (ميكرون)"
+      }
+    },
+    {
+      "key": "fan-kw",
+      "label": {
+        "en": "Fan (kW)",
+        "ar": "المروحة (كيلوواط)"
+      }
+    }
+  ],
+  "keyRows": [
+    "capacity-t-h",
+    "main-mill-kw",
+    "blower-kw"
+  ],
+  "types": [
+    {
+      "id": "ygm",
+      "label": {
+        "en": "YGM high-pressure grinding mills",
+        "ar": "طواحين طحن عالية الضغط ⁦YGM⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0016-02-001 / YGM75",
+          "name": {
+            "en": "YGM75",
+            "ar": "YGM75"
+          },
+          "specs": {
+            "capacity-t-h": {
+              "en": "1–3",
+              "ar": "⁦1–3⁩"
+            },
+            "main-mill-kw": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            },
+            "blower-kw": {
+              "en": "15",
+              "ar": "15"
+            },
+            "classifier-kw": {
+              "en": "2.2",
+              "ar": "⁦2.2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-02-001 / YGM95",
+          "name": {
+            "en": "YGM95",
+            "ar": "YGM95"
+          },
+          "specs": {
+            "capacity-t-h": {
+              "en": "2–5.6",
+              "ar": "⁦2–5.6⁩"
+            },
+            "main-mill-kw": {
+              "en": "45",
+              "ar": "45"
+            },
+            "blower-kw": {
+              "en": "45",
+              "ar": "45"
+            },
+            "classifier-kw": {
+              "en": "5.5",
+              "ar": "⁦5.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-02-001 / YGM130",
+          "name": {
+            "en": "YGM130",
+            "ar": "YGM130"
+          },
+          "specs": {
+            "capacity-t-h": {
+              "en": "5.8–9.5",
+              "ar": "⁦5.8–9.5⁩"
+            },
+            "main-mill-kw": {
+              "en": "90",
+              "ar": "90"
+            },
+            "blower-kw": {
+              "en": "90",
+              "ar": "90"
+            },
+            "classifier-kw": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-02-001 / YGM160",
+          "name": {
+            "en": "YGM160",
+            "ar": "YGM160"
+          },
+          "specs": {
+            "capacity-t-h": {
+              "en": "8–16",
+              "ar": "⁦8–16⁩"
+            },
+            "main-mill-kw": {
+              "en": "132",
+              "ar": "132"
+            },
+            "blower-kw": {
+              "en": "132",
+              "ar": "132"
+            },
+            "classifier-kw": {
+              "en": "15",
+              "ar": "15"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-02-001 / YGM190",
+          "name": {
+            "en": "YGM190",
+            "ar": "YGM190"
+          },
+          "specs": {
+            "capacity-t-h": {
+              "en": "18–36",
+              "ar": "⁦18–36⁩"
+            },
+            "main-mill-kw": {
+              "en": "220",
+              "ar": "220"
+            },
+            "blower-kw": {
+              "en": "220",
+              "ar": "220"
+            },
+            "classifier-kw": {
+              "en": "22",
+              "ar": "22"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1–36 t/h",
+        "ar": "⁦1⁠–⁠36⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "Capacity at 200 mesh fineness.",
+        "ar": "الطاقة عند نعومة ⁦200⁩ مش."
+      },
+      "keyRows": [
+        "capacity-t-h",
+        "main-mill-kw",
+        "blower-kw"
+      ]
+    },
+    {
+      "id": "mtw",
+      "label": {
+        "en": "MTW trapezium grinding mills",
+        "ar": "طواحين شبه منحرفة ⁦MTW⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0016-02-003 / MTW110",
+          "name": {
+            "en": "MTW110",
+            "ar": "MTW110"
+          },
+          "specs": {
+            "ring-dia-x-height-mm": {
+              "en": "1100 × 210",
+              "ar": "⁦1100 × 210⁩"
+            },
+            "max-feed-size-mm": {
+              "en": "30",
+              "ar": "30"
+            },
+            "product-size-mm": {
+              "en": "1.6–0.038",
+              "ar": "⁦1.6–0.038⁩"
+            },
+            "capacity-t-h": {
+              "en": "3–10",
+              "ar": "⁦3–10⁩"
+            },
+            "main-mill-kw": {
+              "en": "55",
+              "ar": "55"
+            },
+            "blower-kw": {
+              "en": "55",
+              "ar": "55"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-02-003 / MTW138",
+          "name": {
+            "en": "MTW138",
+            "ar": "MTW138"
+          },
+          "specs": {
+            "ring-dia-x-height-mm": {
+              "en": "1380 × 260",
+              "ar": "⁦1380 × 260⁩"
+            },
+            "max-feed-size-mm": {
+              "en": "35",
+              "ar": "35"
+            },
+            "product-size-mm": {
+              "en": "1.6–0.038",
+              "ar": "⁦1.6–0.038⁩"
+            },
+            "capacity-t-h": {
+              "en": "6–20",
+              "ar": "⁦6–20⁩"
+            },
+            "main-mill-kw": {
+              "en": "90",
+              "ar": "90"
+            },
+            "blower-kw": {
+              "en": "132",
+              "ar": "132"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-02-003 / MTW175",
+          "name": {
+            "en": "MTW175",
+            "ar": "MTW175"
+          },
+          "specs": {
+            "ring-dia-x-height-mm": {
+              "en": "1760 × 295",
+              "ar": "⁦1760 × 295⁩"
+            },
+            "max-feed-size-mm": {
+              "en": "40",
+              "ar": "40"
+            },
+            "product-size-mm": {
+              "en": "1.6–0.038",
+              "ar": "⁦1.6–0.038⁩"
+            },
+            "capacity-t-h": {
+              "en": "10–35",
+              "ar": "⁦10–35⁩"
+            },
+            "main-mill-kw": {
+              "en": "200",
+              "ar": "200"
+            },
+            "blower-kw": {
+              "en": "200",
+              "ar": "200"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-02-003 / MTW215",
+          "name": {
+            "en": "MTW215",
+            "ar": "MTW215"
+          },
+          "specs": {
+            "ring-dia-x-height-mm": {
+              "en": "2150 × 340",
+              "ar": "⁦2150 × 340⁩"
+            },
+            "max-feed-size-mm": {
+              "en": "50",
+              "ar": "50"
+            },
+            "product-size-mm": {
+              "en": "1.6–0.045",
+              "ar": "⁦1.6–0.045⁩"
+            },
+            "capacity-t-h": {
+              "en": "20–50",
+              "ar": "⁦20–50⁩"
+            },
+            "main-mill-kw": {
+              "en": "280",
+              "ar": "280"
+            },
+            "blower-kw": {
+              "en": "315",
+              "ar": "315"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "3–50 t/h",
+        "ar": "⁦3⁠–⁠50⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "product-size-mm",
+        "capacity-t-h",
+        "main-mill-kw"
+      ]
+    },
+    {
+      "id": "hgm",
+      "label": {
+        "en": "HGM micro-powder mills (three-ring)",
+        "ar": "طواحين المساحيق الدقيقة ⁦HGM⁩ (ثلاثية الحلقات)"
+      },
+      "models": [
+        {
+          "code": "BX-0016-02-004 / HGM80",
+          "name": {
+            "en": "HGM80",
+            "ar": "HGM80"
+          },
+          "specs": {
+            "rollers": {
+              "en": "21",
+              "ar": "21"
+            },
+            "feed-size-mm": {
+              "en": "≤10",
+              "ar": "⁦≤10⁩"
+            },
+            "product-um": {
+              "en": "106–4",
+              "ar": "⁦106–4⁩"
+            },
+            "capacity-t-h": {
+              "en": "0.5–6",
+              "ar": "⁦0.5–6⁩"
+            },
+            "main-mill-kw": {
+              "en": "75",
+              "ar": "75"
+            },
+            "fan-kw": {
+              "en": "55",
+              "ar": "55"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-02-004 / HGM1028",
+          "name": {
+            "en": "HGM1028",
+            "ar": "HGM1028"
+          },
+          "specs": {
+            "rollers": {
+              "en": "28",
+              "ar": "28"
+            },
+            "feed-size-mm": {
+              "en": "≤15",
+              "ar": "⁦≤15⁩"
+            },
+            "product-um": {
+              "en": "106–4",
+              "ar": "⁦106–4⁩"
+            },
+            "capacity-t-h": {
+              "en": "1.2–10.2",
+              "ar": "⁦1.2–10.2⁩"
+            },
+            "main-mill-kw": {
+              "en": "110",
+              "ar": "110"
+            },
+            "fan-kw": {
+              "en": "75",
+              "ar": "75"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-02-004 / HGM1036",
+          "name": {
+            "en": "HGM1036",
+            "ar": "HGM1036"
+          },
+          "specs": {
+            "rollers": {
+              "en": "36",
+              "ar": "36"
+            },
+            "feed-size-mm": {
+              "en": "≤15",
+              "ar": "⁦≤15⁩"
+            },
+            "product-um": {
+              "en": "106–4",
+              "ar": "⁦106–4⁩"
+            },
+            "capacity-t-h": {
+              "en": "1.2–11.5",
+              "ar": "⁦1.2–11.5⁩"
+            },
+            "main-mill-kw": {
+              "en": "132",
+              "ar": "132"
+            },
+            "fan-kw": {
+              "en": "110",
+              "ar": "110"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-02-004 / HGM1250",
+          "name": {
+            "en": "HGM1250",
+            "ar": "HGM1250"
+          },
+          "specs": {
+            "rollers": {
+              "en": "32–44",
+              "ar": "⁦32–44⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤20",
+              "ar": "⁦≤20⁩"
+            },
+            "product-um": {
+              "en": "106–5",
+              "ar": "⁦106–5⁩"
+            },
+            "capacity-t-h": {
+              "en": "2.5–20.5",
+              "ar": "⁦2.5–20.5⁩"
+            },
+            "main-mill-kw": {
+              "en": "185",
+              "ar": "185"
+            },
+            "fan-kw": {
+              "en": "132",
+              "ar": "132"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "0.5–20.5 t/h",
+        "ar": "⁦0.5⁠–⁠20.5⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "Product fineness 150–3000 mesh (HGM1250: 150–2500 mesh).",
+        "ar": "نعومة المنتج ⁦150⁠–⁠3000⁩ مش (⁦HGM1250⁩: ‏⁦150⁠–⁠2500⁩ مش)."
+      },
+      "keyRows": [
+        "product-um",
+        "capacity-t-h",
+        "main-mill-kw"
+      ]
+    }
+  ]
+}

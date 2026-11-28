@@ -1,0 +1,159 @@
+{
+  "id": "ceramic-wear-protection",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "material",
+      "label": {
+        "en": "Material / models",
+        "ar": "الخامة / الموديلات"
+      }
+    },
+    {
+      "key": "use",
+      "label": {
+        "en": "Application",
+        "ar": "الاستخدام"
+      }
+    }
+  ],
+  "keyRows": [
+    "material",
+    "use"
+  ],
+  "types": [
+    {
+      "id": "wear",
+      "label": {
+        "en": "Ceramic and polymer wear protection",
+        "ar": "الحماية من التآكل بالسيراميك والبوليمر"
+      },
+      "models": [
+        {
+          "code": "BX-0174-01-008",
+          "name": {
+            "en": "Ceramic-rubber composite panels",
+            "ar": "ألواح مركّبة من السيراميك والمطاط"
+          },
+          "specs": {
+            "material": {
+              "en": "Alumina 92 / 95 / 99 %, ZTA or SiC tiles vulcanised in rubber on a steel backing",
+              "ar": "بلاطات ألومينا ⁦92 / 95 / 99%⁩ أو ⁦ZTA⁩ أو كربيد السيليكون مفلكنة في المطاط على قاعدة فولاذية"
+            },
+            "use": {
+              "en": "Chutes, transfer points, cyclones and launders",
+              "ar": "المزالق ونقاط النقل والسيكلونات والمجاري"
+            }
+          }
+        },
+        {
+          "code": "BX-0174-01-011",
+          "name": {
+            "en": "Ceramic wear tiles",
+            "ar": "بلاطات سيراميك مقاومة للتآكل"
+          },
+          "specs": {
+            "material": {
+              "en": "HC90 · HC92 · HC95 · HCT95 · HC99 · HCZTA",
+              "ar": "⁦HC90 · HC92 · HC95 · HCT95 · HC99 · HCZTA⁩"
+            },
+            "use": {
+              "en": "Lining plates in many shapes for bins, chutes and pipes",
+              "ar": "ألواح تبطين بأشكال متعددة للصوامع والمزالق والأنابيب"
+            }
+          }
+        },
+        {
+          "code": "BX-0174-01-010",
+          "name": {
+            "en": "Ceramic-lined hydrocyclones and liners",
+            "ar": "هيدروسيكلونات مبطّنة بالسيراميك وبطاناتها"
+          },
+          "specs": {
+            "material": {
+              "en": "Ø 350–1400 mm; alumina, SiC or polyurethane",
+              "ar": "قطر ⁦350⁠–⁠1400⁩ مم؛ ألومينا أو كربيد السيليكون أو بولي يوريثان"
+            },
+            "use": {
+              "en": "Cylinder and cone liners, inlets, apexes and vortex finders",
+              "ar": "بطانات الأسطوانة والمخروط والمداخل والفتحات السفلية وأنابيب الفيض"
+            }
+          }
+        },
+        {
+          "code": "BX-0174-01-013",
+          "name": {
+            "en": "Ceramic wearing compound",
+            "ar": "معجون سيراميك مقاوم للتآكل"
+          },
+          "specs": {
+            "material": {
+              "en": "Alumina 92 % or ZTA beads 0.5–2 mm in epoxy; 86 Shore D; −60 to 120 °C",
+              "ar": "حبيبات ألومينا ⁦92%⁩ أو ⁦ZTA⁩ بمقاس ⁦0.5⁠–⁠2⁩ مم في إيبوكسي؛ صلادة ⁦86⁩ شور ⁦D⁩؛ من −⁦60⁩ إلى ⁦120°⁩م"
+            },
+            "use": {
+              "en": "Repairs where tiling is not possible",
+              "ar": "للإصلاح حيث يتعذر التبليط"
+            }
+          }
+        },
+        {
+          "code": "BX-0062-01-007",
+          "name": {
+            "en": "UHMW-PE liners",
+            "ar": "بطانات ⁦UHMW-PE⁩"
+          },
+          "specs": {
+            "material": {
+              "en": "Self-lubricating, impact- and wear-resistant sheet",
+              "ar": "ألواح ذاتية التزييت مقاومة للصدم والتآكل"
+            },
+            "use": {
+              "en": "Chutes and hoppers; stops material hang-up",
+              "ar": "المزالق والقواديس؛ تمنع التصاق المادة"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Alumina 92–99 %",
+        "ar": "ألومينا ⁦92⁠–⁠99%⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      },
+      "intro": {
+        "en": "Supplied to drawing or measured on site.",
+        "ar": "تُورَّد حسب الرسم أو بالقياس في الموقع."
+      },
+      "keyRows": [
+        "material",
+        "use"
+      ]
+    }
+  ]
+}

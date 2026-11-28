@@ -1,0 +1,759 @@
+{
+  "id": "rod-mills",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "speed-r-min",
+      "label": {
+        "en": "Speed (r/min)",
+        "ar": "السرعة (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "feed-size-mm",
+      "label": {
+        "en": "Feed size (mm)",
+        "ar": "حجم التغذية (مم)"
+      }
+    },
+    {
+      "key": "output-size-mm",
+      "label": {
+        "en": "Output size (mm)",
+        "ar": "حجم الناتج (مم)"
+      }
+    },
+    {
+      "key": "capacity-t-h",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "power-kw",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "weight-t",
+      "label": {
+        "en": "Weight (t)",
+        "ar": "الوزن (طن)"
+      }
+    },
+    {
+      "key": "shell-dia-x-l-mm",
+      "label": {
+        "en": "Shell Ø × L (mm)",
+        "ar": "قطر الأسطوانة × الطول (مم)"
+      }
+    },
+    {
+      "key": "effective-volume-m3",
+      "label": {
+        "en": "Effective volume (m³)",
+        "ar": "الحجم الفعّال (م³)"
+      }
+    },
+    {
+      "key": "rod-load-t",
+      "label": {
+        "en": "Rod load (t)",
+        "ar": "حمولة القضبان (طن)"
+      }
+    }
+  ],
+  "keyRows": [
+    "speed-r-min",
+    "feed-size-mm",
+    "output-size-mm"
+  ],
+  "types": [
+    {
+      "id": "mb",
+      "label": {
+        "en": "MB wet overflow rod mills",
+        "ar": "طواحين قضبان رطبة بتفريغ الفيضان ⁦MB⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0021-01-018 / MB1200×3000",
+          "name": {
+            "en": "MB1200×3000",
+            "ar": "⁦MB1200×3000⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "36",
+              "ar": "36"
+            },
+            "feed-size-mm": {
+              "en": "<25",
+              "ar": "⁦<25⁩"
+            },
+            "output-size-mm": {
+              "en": "0–3",
+              "ar": "⁦0–3⁩"
+            },
+            "capacity-t-h": {
+              "en": "3.2–10",
+              "ar": "⁦3.2–10⁩"
+            },
+            "power-kw": {
+              "en": "37",
+              "ar": "37"
+            },
+            "weight-t": {
+              "en": "12.8",
+              "ar": "⁦12.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-018 / MB1200×4500",
+          "name": {
+            "en": "MB1200×4500",
+            "ar": "⁦MB1200×4500⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "32.4",
+              "ar": "⁦32.4⁩"
+            },
+            "feed-size-mm": {
+              "en": "<25",
+              "ar": "⁦<25⁩"
+            },
+            "output-size-mm": {
+              "en": "0–3",
+              "ar": "⁦0–3⁩"
+            },
+            "capacity-t-h": {
+              "en": "3.2–11.6",
+              "ar": "⁦3.2–11.6⁩"
+            },
+            "power-kw": {
+              "en": "55",
+              "ar": "55"
+            },
+            "weight-t": {
+              "en": "13.8",
+              "ar": "⁦13.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-018 / MB1500×4500",
+          "name": {
+            "en": "MB1500×4500",
+            "ar": "⁦MB1500×4500⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "27",
+              "ar": "27"
+            },
+            "feed-size-mm": {
+              "en": "<25",
+              "ar": "⁦<25⁩"
+            },
+            "output-size-mm": {
+              "en": "0–3",
+              "ar": "⁦0–3⁩"
+            },
+            "capacity-t-h": {
+              "en": "9–20",
+              "ar": "⁦9–20⁩"
+            },
+            "power-kw": {
+              "en": "90",
+              "ar": "90"
+            },
+            "weight-t": {
+              "en": "22.5",
+              "ar": "⁦22.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-018 / MB1500×5700",
+          "name": {
+            "en": "MB1500×5700",
+            "ar": "⁦MB1500×5700⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "28",
+              "ar": "28"
+            },
+            "feed-size-mm": {
+              "en": "<25",
+              "ar": "⁦<25⁩"
+            },
+            "output-size-mm": {
+              "en": "0–3",
+              "ar": "⁦0–3⁩"
+            },
+            "capacity-t-h": {
+              "en": "10.5–22",
+              "ar": "⁦10.5–22⁩"
+            },
+            "power-kw": {
+              "en": "130",
+              "ar": "130"
+            },
+            "weight-t": {
+              "en": "24.7",
+              "ar": "⁦24.7⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-018 / MB1830×4500",
+          "name": {
+            "en": "MB1830×4500",
+            "ar": "⁦MB1830×4500⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "25.4",
+              "ar": "⁦25.4⁩"
+            },
+            "feed-size-mm": {
+              "en": "<25",
+              "ar": "⁦<25⁩"
+            },
+            "output-size-mm": {
+              "en": "0–3",
+              "ar": "⁦0–3⁩"
+            },
+            "capacity-t-h": {
+              "en": "13.5–36",
+              "ar": "⁦13.5–36⁩"
+            },
+            "power-kw": {
+              "en": "155",
+              "ar": "155"
+            },
+            "weight-t": {
+              "en": "32",
+              "ar": "32"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-018 / MB1830×7000",
+          "name": {
+            "en": "MB1830×7000",
+            "ar": "⁦MB1830×7000⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "24.1",
+              "ar": "⁦24.1⁩"
+            },
+            "feed-size-mm": {
+              "en": "<25",
+              "ar": "⁦<25⁩"
+            },
+            "output-size-mm": {
+              "en": "0–3",
+              "ar": "⁦0–3⁩"
+            },
+            "capacity-t-h": {
+              "en": "22.5–52",
+              "ar": "⁦22.5–52⁩"
+            },
+            "power-kw": {
+              "en": "245",
+              "ar": "245"
+            },
+            "weight-t": {
+              "en": "36",
+              "ar": "36"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-018 / MB2100×3600",
+          "name": {
+            "en": "MB2100×3600",
+            "ar": "⁦MB2100×3600⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "23.7",
+              "ar": "⁦23.7⁩"
+            },
+            "feed-size-mm": {
+              "en": "<25",
+              "ar": "⁦<25⁩"
+            },
+            "output-size-mm": {
+              "en": "0–3",
+              "ar": "⁦0–3⁩"
+            },
+            "capacity-t-h": {
+              "en": "13.5–85",
+              "ar": "⁦13.5–85⁩"
+            },
+            "power-kw": {
+              "en": "180",
+              "ar": "180"
+            },
+            "weight-t": {
+              "en": "37",
+              "ar": "37"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-018 / MB2100×4500",
+          "name": {
+            "en": "MB2100×4500",
+            "ar": "⁦MB2100×4500⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "23.7",
+              "ar": "⁦23.7⁩"
+            },
+            "feed-size-mm": {
+              "en": "<25",
+              "ar": "⁦<25⁩"
+            },
+            "output-size-mm": {
+              "en": "0–3",
+              "ar": "⁦0–3⁩"
+            },
+            "capacity-t-h": {
+              "en": "26–100",
+              "ar": "⁦26–100⁩"
+            },
+            "power-kw": {
+              "en": "245",
+              "ar": "245"
+            },
+            "weight-t": {
+              "en": "42",
+              "ar": "42"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-018 / MB2200×4500",
+          "name": {
+            "en": "MB2200×4500",
+            "ar": "⁦MB2200×4500⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "21.5",
+              "ar": "⁦21.5⁩"
+            },
+            "feed-size-mm": {
+              "en": "<25",
+              "ar": "⁦<25⁩"
+            },
+            "output-size-mm": {
+              "en": "0–3",
+              "ar": "⁦0–3⁩"
+            },
+            "capacity-t-h": {
+              "en": "28–120",
+              "ar": "⁦28–120⁩"
+            },
+            "power-kw": {
+              "en": "280",
+              "ar": "280"
+            },
+            "weight-t": {
+              "en": "48.5",
+              "ar": "⁦48.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-018 / MB2200×7500",
+          "name": {
+            "en": "MB2200×7500",
+            "ar": "⁦MB2200×7500⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "21.7",
+              "ar": "⁦21.7⁩"
+            },
+            "feed-size-mm": {
+              "en": "<25",
+              "ar": "⁦<25⁩"
+            },
+            "output-size-mm": {
+              "en": "0–3",
+              "ar": "⁦0–3⁩"
+            },
+            "capacity-t-h": {
+              "en": "45–95",
+              "ar": "⁦45–95⁩"
+            },
+            "power-kw": {
+              "en": "380",
+              "ar": "380"
+            },
+            "weight-t": {
+              "en": "56",
+              "ar": "56"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-018 / MB2400×4500",
+          "name": {
+            "en": "MB2400×4500",
+            "ar": "⁦MB2400×4500⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "21",
+              "ar": "21"
+            },
+            "feed-size-mm": {
+              "en": "<25",
+              "ar": "⁦<25⁩"
+            },
+            "output-size-mm": {
+              "en": "0–3",
+              "ar": "⁦0–3⁩"
+            },
+            "capacity-t-h": {
+              "en": "28–150",
+              "ar": "⁦28–150⁩"
+            },
+            "power-kw": {
+              "en": "320",
+              "ar": "320"
+            },
+            "weight-t": {
+              "en": "65",
+              "ar": "65"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-018 / MB2700×4000",
+          "name": {
+            "en": "MB2700×4000",
+            "ar": "⁦MB2700×4000⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "20.7",
+              "ar": "⁦20.7⁩"
+            },
+            "feed-size-mm": {
+              "en": "<25",
+              "ar": "⁦<25⁩"
+            },
+            "output-size-mm": {
+              "en": "0–3",
+              "ar": "⁦0–3⁩"
+            },
+            "capacity-t-h": {
+              "en": "56–180",
+              "ar": "⁦56–180⁩"
+            },
+            "power-kw": {
+              "en": "400",
+              "ar": "400"
+            },
+            "weight-t": {
+              "en": "94",
+              "ar": "94"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-018 / MB2700×4500",
+          "name": {
+            "en": "MB2700×4500",
+            "ar": "⁦MB2700×4500⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "20.7",
+              "ar": "⁦20.7⁩"
+            },
+            "feed-size-mm": {
+              "en": "<25",
+              "ar": "⁦<25⁩"
+            },
+            "output-size-mm": {
+              "en": "0–3",
+              "ar": "⁦0–3⁩"
+            },
+            "capacity-t-h": {
+              "en": "56–200",
+              "ar": "⁦56–200⁩"
+            },
+            "power-kw": {
+              "en": "430",
+              "ar": "430"
+            },
+            "weight-t": {
+              "en": "102",
+              "ar": "102"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "3.2–200 t/h",
+        "ar": "⁦3.2⁠–⁠200⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "Rod mills give an even product with little over-grinding, often as the first grinding stage.",
+        "ar": "تعطي طواحين القضبان منتجاً متجانساً بقليل من الطحن الزائد، وكثيراً ما تكون مرحلة الطحن الأولى."
+      },
+      "keyRows": [
+        "output-size-mm",
+        "capacity-t-h",
+        "power-kw"
+      ]
+    },
+    {
+      "id": "mb-additional",
+      "label": {
+        "en": "MB rod mills – additional sizes",
+        "ar": "طواحين قضبان ⁦MB⁩ – مقاسات إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0033-01-013 / MB0918",
+          "name": {
+            "en": "MB0918",
+            "ar": "MB0918"
+          },
+          "specs": {
+            "shell-dia-x-l-mm": {
+              "en": "900 × 1800",
+              "ar": "⁦900 × 1800⁩"
+            },
+            "effective-volume-m3": {
+              "en": "0.9",
+              "ar": "⁦0.9⁩"
+            },
+            "speed-r-min": {
+              "en": "35.4",
+              "ar": "⁦35.4⁩"
+            },
+            "rod-load-t": {
+              "en": "2.5",
+              "ar": "⁦2.5⁩"
+            },
+            "power-kw": {
+              "en": "22",
+              "ar": "22"
+            },
+            "weight-t": {
+              "en": "5.6",
+              "ar": "⁦5.6⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-013 / MB0924",
+          "name": {
+            "en": "MB0924",
+            "ar": "MB0924"
+          },
+          "specs": {
+            "shell-dia-x-l-mm": {
+              "en": "900 × 2400",
+              "ar": "⁦900 × 2400⁩"
+            },
+            "effective-volume-m3": {
+              "en": "1.2",
+              "ar": "⁦1.2⁩"
+            },
+            "speed-r-min": {
+              "en": "35.4",
+              "ar": "⁦35.4⁩"
+            },
+            "rod-load-t": {
+              "en": "3.55",
+              "ar": "⁦3.55⁩"
+            },
+            "power-kw": {
+              "en": "30",
+              "ar": "30"
+            },
+            "weight-t": {
+              "en": "6.9",
+              "ar": "⁦6.9⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-013 / MB1224",
+          "name": {
+            "en": "MB1224",
+            "ar": "MB1224"
+          },
+          "specs": {
+            "shell-dia-x-l-mm": {
+              "en": "1200 × 2400",
+              "ar": "⁦1200 × 2400⁩"
+            },
+            "effective-volume-m3": {
+              "en": "2.2",
+              "ar": "⁦2.2⁩"
+            },
+            "speed-r-min": {
+              "en": "27.75",
+              "ar": "⁦27.75⁩"
+            },
+            "rod-load-t": {
+              "en": "4.8",
+              "ar": "⁦4.8⁩"
+            },
+            "power-kw": {
+              "en": "45",
+              "ar": "45"
+            },
+            "weight-t": {
+              "en": "13.7",
+              "ar": "⁦13.7⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-013 / MB1530",
+          "name": {
+            "en": "MB1530",
+            "ar": "MB1530"
+          },
+          "specs": {
+            "shell-dia-x-l-mm": {
+              "en": "1500 × 3000",
+              "ar": "⁦1500 × 3000⁩"
+            },
+            "effective-volume-m3": {
+              "en": "5",
+              "ar": "5"
+            },
+            "speed-r-min": {
+              "en": "26",
+              "ar": "26"
+            },
+            "rod-load-t": {
+              "en": "8",
+              "ar": "8"
+            },
+            "power-kw": {
+              "en": "95",
+              "ar": "95"
+            },
+            "weight-t": {
+              "en": "16.7",
+              "ar": "⁦16.7⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-013 / MB2130",
+          "name": {
+            "en": "MB2130",
+            "ar": "MB2130"
+          },
+          "specs": {
+            "shell-dia-x-l-mm": {
+              "en": "2100 × 3000",
+              "ar": "⁦2100 × 3000⁩"
+            },
+            "effective-volume-m3": {
+              "en": "9",
+              "ar": "9"
+            },
+            "speed-r-min": {
+              "en": "20.9",
+              "ar": "⁦20.9⁩"
+            },
+            "rod-load-t": {
+              "en": "20",
+              "ar": "20"
+            },
+            "power-kw": {
+              "en": "180",
+              "ar": "180"
+            },
+            "weight-t": {
+              "en": "46.1",
+              "ar": "⁦46.1⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-013 / MB2236",
+          "name": {
+            "en": "MB2236",
+            "ar": "MB2236"
+          },
+          "specs": {
+            "shell-dia-x-l-mm": {
+              "en": "2200 × 3600",
+              "ar": "⁦2200 × 3600⁩"
+            },
+            "effective-volume-m3": {
+              "en": "12",
+              "ar": "12"
+            },
+            "speed-r-min": {
+              "en": "19",
+              "ar": "19"
+            },
+            "rod-load-t": {
+              "en": "24",
+              "ar": "24"
+            },
+            "power-kw": {
+              "en": "245",
+              "ar": "245"
+            },
+            "weight-t": {
+              "en": "54.8",
+              "ar": "⁦54.8⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "22–245 kW",
+        "ar": "⁦22⁠–⁠245⁩ كيلوواط"
+      },
+      "keyRows": [
+        "shell-dia-x-l-mm",
+        "rod-load-t",
+        "power-kw"
+      ]
+    }
+  ]
+}

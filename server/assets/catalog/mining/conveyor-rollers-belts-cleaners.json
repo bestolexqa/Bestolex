@@ -1,0 +1,568 @@
+{
+  "id": "conveyor-rollers-belts-cleaners",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "types",
+      "label": {
+        "en": "Types / models",
+        "ar": "الأنواع / الموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "types",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "rollers-belts",
+      "label": {
+        "en": "Conveyor rollers and belts",
+        "ar": "رولات السيور والسيور الناقلة"
+      },
+      "models": [
+        {
+          "code": "BX-0062-01-004",
+          "name": {
+            "en": "UHMW-PE rollers",
+            "ar": "رولات ⁦UHMW-PE⁩"
+          },
+          "specs": {
+            "types": {
+              "en": "Standard, low-noise, impact, disc, spiral, self-aligning, tapered, crowned, guide",
+              "ar": "قياسية، ومنخفضة الضجيج، وللصدمات، وقرصية، وحلزونية، وذاتية الاستقامة، ومخروطية، ومحدّبة، وتوجيه"
+            },
+            "data": {
+              "en": "Ø 63.5–219 mm or to order",
+              "ar": "قطر ⁦63.5⁠–⁠219⁩ مم أو حسب الطلب"
+            }
+          }
+        },
+        {
+          "code": "BX-0062-01-002",
+          "name": {
+            "en": "Mining roller",
+            "ar": "رول للمناجم"
+          },
+          "specs": {
+            "types": {
+              "en": "Fire-resistant, anti-static",
+              "ar": "مقاوم للحريق ومانع للكهرباء الساكنة"
+            },
+            "data": {
+              "en": "Sealed against water and dust; TIR ≤ 0.2 mm; axial load > 15 kN; noise ≤ 45 dB",
+              "ar": "محكم ضد الماء والغبار؛ انحراف دوراني ≤ ⁦0.2⁩ مم؛ حمل محوري > ⁦15⁩ كيلونيوتن؛ ضجيج ≤ ⁦45⁩ ديسيبل"
+            }
+          }
+        },
+        {
+          "code": "BX-0062-02-001",
+          "name": {
+            "en": "Fabric conveyor belt",
+            "ar": "سير ناقل بقلب نسيجي"
+          },
+          "specs": {
+            "types": {
+              "en": "EP100–EP600 · NN100–NN600 · CC56",
+              "ar": "⁦EP100–EP600 · NN100–NN600 · CC56⁩"
+            },
+            "data": {
+              "en": "2–8 plies (CC 3–12); width 300–2200 mm; covers 1.5–30 / 0–20 mm; DIN 22102, AS 1332",
+              "ar": "⁦2⁠–⁠8⁩ طبقات (⁦CC⁩ من ⁦3⁩ إلى ⁦12⁩)؛ عرض ⁦300⁠–⁠2200⁩ مم؛ غطاء ⁦1.5⁠–⁠30 / 0⁠–⁠20⁩ مم؛ ⁦DIN 22102⁩ و⁦AS 1332⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0062-02-002",
+          "name": {
+            "en": "Chevron belt",
+            "ar": "سير شيفرون"
+          },
+          "specs": {
+            "types": {
+              "en": "Open-V, closed-V and other patterns",
+              "ar": "نقش ⁦V⁩ مفتوح و⁦V⁩ مغلق وأنماط أخرى"
+            },
+            "data": {
+              "en": "Inclines up to 40°; width up to 1200 mm",
+              "ar": "ميل حتى ⁦40°⁩؛ عرض حتى ⁦1200⁩ مم"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Belts 300–2200 mm",
+        "ar": "سيور ⁦300⁠–⁠2200⁩ مم"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      },
+      "keyRows": [
+        "types",
+        "data"
+      ]
+    },
+    {
+      "id": "cleaners",
+      "label": {
+        "en": "Belt cleaners and loading-zone parts",
+        "ar": "منظفات السيور وقطع منطقة التحميل"
+      },
+      "models": [
+        {
+          "code": "BX-0062-03-001",
+          "name": {
+            "en": "Primary cleaner, PU blade",
+            "ar": "منظف أولي بشفرة بولي يوريثان"
+          },
+          "specs": {
+            "types": {
+              "en": "H · HR · HN",
+              "ar": "⁦H · HR · HN⁩"
+            },
+            "data": {
+              "en": "Belt 650–2200 mm",
+              "ar": "سير ⁦650⁠–⁠2200⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0062-03-002",
+          "name": {
+            "en": "Secondary cleaner, PU blade",
+            "ar": "منظف ثانوي بشفرة بولي يوريثان"
+          },
+          "specs": {
+            "types": {
+              "en": "P · PR · PN",
+              "ar": "⁦P · PR · PN⁩"
+            },
+            "data": {
+              "en": "Belt 650–2200 mm",
+              "ar": "سير ⁦650⁠–⁠2200⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0062-03-003",
+          "name": {
+            "en": "Primary cleaner, carbide tip",
+            "ar": "منظف أولي برأس كربيد"
+          },
+          "specs": {
+            "types": {
+              "en": "H-TD · HN-TD",
+              "ar": "⁦H-TD · HN-TD⁩"
+            },
+            "data": {
+              "en": "Alloy-steel blade with tungsten-carbide tip",
+              "ar": "شفرة فولاذ سبائكي برأس كربيد التنغستن"
+            }
+          }
+        },
+        {
+          "code": "BX-0062-03-004",
+          "name": {
+            "en": "Secondary cleaner, carbide tip",
+            "ar": "منظف ثانوي برأس كربيد"
+          },
+          "specs": {
+            "types": {
+              "en": "P-TD · PN-TD · N-TD · PM",
+              "ar": "⁦P-TD · PN-TD · N-TD · PM⁩"
+            },
+            "data": {
+              "en": "Belt 650–2200 mm",
+              "ar": "سير ⁦650⁠–⁠2200⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0062-03-005",
+          "name": {
+            "en": "Heavy-duty primary cleaner",
+            "ar": "منظف أولي للخدمة الشاقة"
+          },
+          "specs": {
+            "types": {
+              "en": "HZ",
+              "ar": "HZ"
+            },
+            "data": {
+              "en": "PU blade 600–2100 mm",
+              "ar": "شفرة بولي يوريثان ⁦600⁠–⁠2100⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0062-03-006",
+          "name": {
+            "en": "Return-belt V-plough",
+            "ar": "محراث ⁦V⁩ للسير الراجع"
+          },
+          "specs": {
+            "types": {
+              "en": "V",
+              "ar": "V"
+            },
+            "data": {
+              "en": "PU blade, alloy-steel frame",
+              "ar": "شفرة بولي يوريثان وإطار فولاذ سبائكي"
+            }
+          }
+        },
+        {
+          "code": "BX-0062-03-010",
+          "name": {
+            "en": "Impact bed and impact bars",
+            "ar": "سرير وقضبان امتصاص الصدمات"
+          },
+          "specs": {
+            "types": {
+              "en": "C · C-T",
+              "ar": "⁦C · C-T⁩"
+            },
+            "data": {
+              "en": "Rubber + UHMW-PE bars on a steel cradle; bars 100 mm wide, 50 / 65 / 75 mm high",
+              "ar": "قضبان مطاط و⁦UHMW-PE⁩ على مهد فولاذي؛ عرض القضبان ⁦100⁩ مم وارتفاعها ⁦50 / 65 / 75⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0062-03-012",
+          "name": {
+            "en": "Skirting",
+            "ar": "جوانب منع التسرب"
+          },
+          "specs": {
+            "types": {
+              "en": "B",
+              "ar": "B"
+            },
+            "data": {
+              "en": "Rubber or polyurethane, sizes to order",
+              "ar": "مطاط أو بولي يوريثان، المقاسات حسب الطلب"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Belts 650–2200 mm",
+        "ar": "سيور ⁦650⁠–⁠2200⁩ مم"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      },
+      "keyRows": [
+        "types",
+        "data"
+      ]
+    },
+    {
+      "id": "belts-additional",
+      "label": {
+        "en": "Conveyor belts – additional series",
+        "ar": "السيور الناقلة – سلاسل إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0271-02-001",
+          "name": {
+            "en": "Steel-cord belt ST and flame-retardant wire-rope belt GX",
+            "ar": "سير بقلب حبال فولاذية ⁦ST⁩ وسير ⁦GX⁩ مقاوم للهب"
+          },
+          "specs": {
+            "types": {
+              "en": "ST630–ST5400 · GX630–GX4000",
+              "ar": "⁦ST630–ST5400 · GX630–GX4000⁩"
+            },
+            "data": {
+              "en": "Widths 800–2000 mm",
+              "ar": "عروض ⁦800⁠–⁠2000⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0717-01-001",
+          "name": {
+            "en": "Steel-cord belt (GB/T 9770, DIN 22131)",
+            "ar": "سير بقلب حبال فولاذية (⁦GB/T 9770⁩ و⁦DIN 22131⁩)"
+          },
+          "specs": {
+            "types": {
+              "en": "ST630–ST7500 (16 grades)",
+              "ar": "⁦ST630–ST7500 (16 grades)⁩"
+            },
+            "data": {
+              "en": "630–7500 N/mm; cord Ø 3.0–15.0 mm; covers 5–10 mm; width 800–2200 mm; standard, fire-, heat-, abrasion-, oil- and cold-resistant covers",
+              "ar": "⁦630⁠–⁠7500⁩ نيوتن/مم؛ قطر الحبل ⁦3.0⁠–⁠15.0⁩ مم؛ غطاء ⁦5⁠–⁠10⁩ مم؛ عرض ⁦800⁠–⁠2200⁩ مم؛ أغطية قياسية ومقاومة للحريق والحرارة والتآكل والزيت والبرد"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-01-001",
+          "name": {
+            "en": "Multi-ply EP belt, high strength",
+            "ar": "سير ⁦EP⁩ متعدد الطبقات عالي المتانة"
+          },
+          "specs": {
+            "types": {
+              "en": "EP400/3 … EP1250/5, EP1200/6",
+              "ar": "⁦EP400/3 … EP1250/5, EP1200/6⁩"
+            },
+            "data": {
+              "en": "Width 500–2500 mm; covers 3+1.5 to 5+1.5 mm (DIN X/Y/W, RMA-1/2, N17/M24); lengths 10–500 m",
+              "ar": "عرض ⁦500⁠–⁠2500⁩ مم؛ غطاء من ⁦3+1.5⁩ إلى ⁦5+1.5⁩ مم (⁦DIN X/Y/W⁩ و⁦RMA-1/2⁩ و⁦N17/M24⁩)؛ أطوال ⁦10⁠–⁠500⁩ م"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-01-002",
+          "name": {
+            "en": "Flame-retardant belt",
+            "ar": "سير مقاوم للهب"
+          },
+          "specs": {
+            "types": {
+              "en": "EP with fire-resistant (EN/ISO 340) and anti-static (EN/ISO 20284) covers",
+              "ar": "⁦EP⁩ بأغطية مقاومة للحريق (⁦EN/ISO 340⁩) ومانعة للكهرباء الساكنة (⁦EN/ISO 20284⁩)"
+            },
+            "data": {
+              "en": "No flame in the drum test up to 325 °C; self-extinguishes within 10 s",
+              "ar": "لا لهب في اختبار الأسطوانة حتى ⁦325°⁩م؛ ينطفئ ذاتياً خلال ⁦10⁩ ثوانٍ"
+            }
+          }
+        },
+        {
+          "code": "BX-0717-01-007",
+          "name": {
+            "en": "Flame-retardant (self-extinguishing) belt",
+            "ar": "سير مقاوم للهب (ذاتي الانطفاء)"
+          },
+          "specs": {
+            "types": {
+              "en": "NN or EP carcass",
+              "ar": "قلب ⁦NN⁩ أو ⁦EP⁩"
+            },
+            "data": {
+              "en": "For underground mines, power plants and ports",
+              "ar": "للمناجم تحت الأرض ومحطات الكهرباء والموانئ"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-01-006",
+          "name": {
+            "en": "Abrasion-resistant belt",
+            "ar": "سير مقاوم للتآكل"
+          },
+          "specs": {
+            "types": {
+              "en": "Abrasion-resistant cover (DIN test)",
+              "ar": "غطاء مقاوم للتآكل (اختبار ⁦DIN⁩)"
+            },
+            "data": {
+              "en": "For quarries and mines",
+              "ar": "للمحاجر والمناجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-01-007",
+          "name": {
+            "en": "Impact- and cut-resistant belt",
+            "ar": "سير مقاوم للصدم والقطع"
+          },
+          "specs": {
+            "types": {
+              "en": "Impact- and cut-resistant cover",
+              "ar": "غطاء مقاوم للصدم والقطع"
+            },
+            "data": {
+              "en": "For crusher discharge and coarse rock (15 kg hammer dropped from 400 mm test)",
+              "ar": "لمخرج الكسارات والصخر الخشن (اختبار مطرقة ⁦15⁩ كغ من ارتفاع ⁦400⁩ مم)"
+            }
+          }
+        },
+        {
+          "code": "BX-0271-02-005",
+          "name": {
+            "en": "Chevron belt",
+            "ar": "سير شيفرون"
+          },
+          "specs": {
+            "types": {
+              "en": "Width 300–2200 mm; cleat height 5–30 mm",
+              "ar": "عرض ⁦300⁠–⁠2200⁩ مم؛ ارتفاع النقش ⁦5⁠–⁠30⁩ مم"
+            },
+            "data": {
+              "en": "Inclined conveying up to about 45°",
+              "ar": "نقل مائل حتى نحو ⁦45°⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0717-01-003",
+          "name": {
+            "en": "Chevron (patterned) belt",
+            "ar": "سير شيفرون منقوش"
+          },
+          "specs": {
+            "types": {
+              "en": "EP / NN; open and closed V, U and multi-V patterns; pattern height 5–32 mm",
+              "ar": "⁦EP / NN⁩؛ أنماط ⁦V⁩ مفتوحة ومغلقة و⁦U⁩ و⁦V⁩ متعددة؛ ارتفاع النقش ⁦5⁠–⁠32⁩ مم"
+            },
+            "data": {
+              "en": "Width 300–1800 mm; full-thickness strength 160–3150 N/mm; elongation ≤ 4 %",
+              "ar": "عرض ⁦300⁠–⁠1800⁩ مم؛ متانة بكامل السماكة ⁦160⁠–⁠3150⁩ نيوتن/مم؛ استطالة ≤ ⁦4%⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-01-008",
+          "name": {
+            "en": "Chevron belt, moulded cleats",
+            "ar": "سير شيفرون بنقوش مقولبة"
+          },
+          "specs": {
+            "types": {
+              "en": "Chevron height 2.4–32 mm; belt width 330–1500 mm",
+              "ar": "ارتفاع النقش ⁦2.4⁠–⁠32⁩ مم؛ عرض السير ⁦330⁠–⁠1500⁩ مم"
+            },
+            "data": {
+              "en": "Inclines to about 30° for gravel and 40° for wet sand",
+              "ar": "ميل حتى نحو ⁦30°⁩ للحصى و⁦40°⁩ للرمل الرطب"
+            }
+          }
+        },
+        {
+          "code": "BX-0271-02-007",
+          "name": {
+            "en": "Corrugated sidewall belt",
+            "ar": "سير بجوانب مموجة"
+          },
+          "specs": {
+            "types": {
+              "en": "Sidewalls 60–400 mm; base width 300–1400 mm",
+              "ar": "جوانب ⁦60⁠–⁠400⁩ مم؛ عرض القاعدة ⁦300⁠–⁠1400⁩ مم"
+            },
+            "data": {
+              "en": "Steep-incline conveying",
+              "ar": "نقل شديد الميل"
+            }
+          }
+        },
+        {
+          "code": "BX-0717-01-013",
+          "name": {
+            "en": "Corrugated sidewall belt, heavy duty",
+            "ar": "سير بجوانب مموجة للخدمة الشاقة"
+          },
+          "specs": {
+            "types": {
+              "en": "Bases XE, XE+2, XE-SC+2 and XST-SC; sidewalls 40–630 mm; C, T and TC cleats 35–600 mm",
+              "ar": "قواعد ⁦XE⁩ و⁦XE+2⁩ و⁦XE-SC+2⁩ و⁦XST-SC⁩؛ جوانب ⁦40⁠–⁠630⁩ مم؛ فواصل ⁦C⁩ و⁦T⁩ و⁦TC⁩ بارتفاع ⁦35⁠–⁠600⁩ مم"
+            },
+            "data": {
+              "en": "Inclines up to 90°; base width 300–2400 mm; 250–7500 N/mm; up to 6000 m³/h",
+              "ar": "ميل حتى ⁦90°⁩؛ عرض القاعدة ⁦300⁠–⁠2400⁩ مم؛ ⁦250⁠–⁠7500⁩ نيوتن/مم؛ حتى ⁦6000⁩ م³/ساعة"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-01-009",
+          "name": {
+            "en": "Sidewall belt",
+            "ar": "سير بجوانب"
+          },
+          "specs": {
+            "types": {
+              "en": "Base width 300–1400 mm; sidewalls 40–300 mm; cleats 35–260 mm",
+              "ar": "عرض القاعدة ⁦300⁠–⁠1400⁩ مم؛ جوانب ⁦40⁠–⁠300⁩ مم؛ فواصل ⁦35⁠–⁠260⁩ مم"
+            },
+            "data": {
+              "en": "Hot-vulcanised sidewalls and cleats",
+              "ar": "جوانب وفواصل مفلكنة على الساخن"
+            }
+          }
+        },
+        {
+          "code": "BX-0717-01-009",
+          "name": {
+            "en": "Bucket elevator belt",
+            "ar": "سير للروافع الدلوية"
+          },
+          "specs": {
+            "types": {
+              "en": "Bucket width 250–1600 mm",
+              "ar": "عرض الدلو ⁦250⁠–⁠1600⁩ مم"
+            },
+            "data": {
+              "en": "Low-elongation belt for vertical lifting",
+              "ar": "سير منخفض الاستطالة للرفع الرأسي"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Up to ST7500",
+        "ar": "حتى ⁦ST7500⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      },
+      "keyRows": [
+        "types",
+        "data"
+      ]
+    }
+  ]
+}

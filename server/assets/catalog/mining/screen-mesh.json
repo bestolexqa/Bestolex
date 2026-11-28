@@ -1,0 +1,297 @@
+{
+  "id": "screen-mesh",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "material",
+      "label": {
+        "en": "Material",
+        "ar": "الخامة"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    },
+    {
+      "key": "sizes",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات / الموديلات"
+      }
+    }
+  ],
+  "keyRows": [
+    "material",
+    "data",
+    "sizes"
+  ],
+  "types": [
+    {
+      "id": "woven",
+      "label": {
+        "en": "Woven and crimped screen mesh",
+        "ar": "شبك الغربلة المنسوج والمجعّد"
+      },
+      "models": [
+        {
+          "code": "BX-0233-02-001",
+          "name": {
+            "en": "Heavy-duty crimped wire mesh",
+            "ar": "شبك سلكي مجعّد ثقيل"
+          },
+          "specs": {
+            "material": {
+              "en": "High-tensile, 45# or 65Mn steel",
+              "ar": "فولاذ عالي الشد ⁦45⁩# أو ⁦65Mn⁩"
+            },
+            "data": {
+              "en": "Wire 1.5–12.8 mm (to 22 mm); aperture 2–110 mm (to 150 mm); width 0.5–4 m, length to 30 m; plain, raw, hooked or plate-hooked edges",
+              "ar": "سلك ⁦1.5⁠–⁠12.8⁩ مم (حتى ⁦22⁩ مم)؛ فتحة ⁦2⁠–⁠110⁩ مم (حتى ⁦150⁩ مم)؛ عرض ⁦0.5⁠–⁠4⁩ م وطول حتى ⁦30⁩ م؛ حواف عادية أو خام أو بخطاف أو بخطاف ولوح"
+            }
+          }
+        },
+        {
+          "code": "BX-0233-02-002",
+          "name": {
+            "en": "Crimped vibrating-screen mesh",
+            "ar": "شبك مجعّد للغرابيل الاهتزازية"
+          },
+          "specs": {
+            "material": {
+              "en": "65Mn, single- or double-wire crimp",
+              "ar": "⁦65Mn⁩، تجعيد بسلك مفرد أو مزدوج"
+            },
+            "data": {
+              "en": "Wire 0.5–12.7 mm; aperture 1–120 mm; panels to size; double-chute slotted screen in high-tensile, wear-resistant steel",
+              "ar": "سلك ⁦0.5⁠–⁠12.7⁩ مم؛ فتحة ⁦1⁠–⁠120⁩ مم؛ ألواح حسب المقاس؛ وغربال مشقوق بمجريين من فولاذ عالي الشد مقاوم للتآكل"
+            }
+          }
+        },
+        {
+          "code": "BX-0233-02-003",
+          "name": {
+            "en": "Woven manganese-steel mesh",
+            "ar": "شبك منسوج من فولاذ المنغنيز"
+          },
+          "specs": {
+            "material": {
+              "en": "65Mn",
+              "ar": "65Mn"
+            },
+            "data": {
+              "en": "For vibrating screens, trommels, crushers and quarries",
+              "ar": "للغرابيل الاهتزازية والأسطوانية والكسارات والمحاجر"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Aperture 1–150 mm",
+        "ar": "فتحة ⁦1⁠–⁠150⁩ مم"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      },
+      "intro": {
+        "en": "Square or rectangular openings; double, intermediate, flat-top or lock crimp; made to the screen deck size.",
+        "ar": "فتحات مربعة أو مستطيلة؛ تجعيد مزدوج أو متوسط أو مسطح السطح أو مقفل؛ حسب مقاس سطح الغربال."
+      },
+      "keyRows": [
+        "material",
+        "data"
+      ]
+    },
+    {
+      "id": "additional",
+      "label": {
+        "en": "Plate, wedge-wire and fine mesh – additional types",
+        "ar": "ألواح مثقبة وشبك وتدي وشبك ناعم – أنواع إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0309-01-010",
+          "name": {
+            "en": "Heavy perforated plate",
+            "ar": "ألواح مثقبة ثقيلة"
+          },
+          "specs": {
+            "sizes": {
+              "en": "Round holes 0.4–120 mm, rectangular 1×20–30×65 mm, square 3×3–150×150 mm, hexagonal 8–65 mm",
+              "ar": "ثقوب دائرية ⁦0.4⁠–⁠120⁩ مم، ومستطيلة ⁦1×20⁠–⁠30×65⁩ مم، ومربعة ⁦3×3⁠–⁠150×150⁩ مم، وسداسية ⁦8⁠–⁠65⁩ مم"
+            },
+            "data": {
+              "en": "0.5–15 mm thick; mild, manganese or stainless steel, non-ferrous or plastic; sized to the machine",
+              "ar": "سماكة ⁦0.5⁠–⁠15⁩ مم؛ فولاذ طري أو منغنيز أو ستانلس أو معادن غير حديدية أو بلاستيك؛ حسب مقاس الآلة"
+            }
+          }
+        },
+        {
+          "code": "BX-0309-01-005",
+          "name": {
+            "en": "Polyurethane cross-band and poly woven-wire modular panels",
+            "ar": "ألواح بولي يوريثان معيارية بأشرطة عرضية وبسلك منسوج مغلّف"
+          },
+          "specs": {
+            "sizes": {
+              "en": "1'×1', 1'×2', 2'×2'; ripple, harp, wavy and piano patterns",
+              "ar": "‏⁦1'×1⁩' و⁦1'×2⁩' و⁦2'×2⁩'؛ أنماط متموجة وقيثارية ومتعرجة وبيانو"
+            },
+            "data": {
+              "en": "80 Shore polyurethane; up to 100 % more open area than PU or rubber panels; self-cleaning",
+              "ar": "بولي يوريثان بصلادة ⁦80⁩ شور؛ مساحة مفتوحة أكبر حتى ⁦100%⁩ من ألواح البولي يوريثان أو المطاط؛ ذاتية التنظيف"
+            }
+          }
+        },
+        {
+          "code": "BX-0309-01-006",
+          "name": {
+            "en": "Polyurethane screen panels",
+            "ar": "ألواح غربلة بولي يوريثان"
+          },
+          "specs": {
+            "sizes": {
+              "en": "Square and rectangular tapered openings",
+              "ar": "فتحات مربعة ومستطيلة مستدقة"
+            },
+            "data": {
+              "en": "45–90 Shore A; tensile 31–56 MPa; density 1.20–1.22",
+              "ar": "صلادة ⁦45⁠–⁠90⁩ شور ⁦A⁩؛ مقاومة شد ⁦31⁠–⁠56⁩ ميجاباسكال؛ كثافة ⁦1.20⁠–⁠1.22⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0689-01-007",
+          "name": {
+            "en": "Wedge-wire sieving screen",
+            "ar": "غربال من السلك الوتدي"
+          },
+          "specs": {
+            "sizes": {
+              "en": "Slots 0.1–20 mm; square openings 6×6–30×30 mm",
+              "ar": "شقوق ⁦0.1⁠–⁠20⁩ مم؛ فتحات مربعة ⁦6×6⁠–⁠30×30⁩ مم"
+            },
+            "data": {
+              "en": "Wedge wire 1.6–3.5 mm on 4 mm support rods; made to size",
+              "ar": "سلك وتدي ⁦1.6⁠–⁠3.5⁩ مم على قضبان دعم ⁦4⁩ مم؛ حسب المقاس"
+            }
+          }
+        },
+        {
+          "code": "BX-0309-01-012",
+          "name": {
+            "en": "Wedge-wire screen tubes and panels",
+            "ar": "أنابيب وألواح غربلة من السلك الوتدي"
+          },
+          "specs": {
+            "sizes": {
+              "en": "Slot from 0.02 mm; Ø 100–630 mm; up to 6000 mm long",
+              "ar": "شق من ⁦0.02⁩ مم؛ قطر ⁦100⁠–⁠630⁩ مم؛ طول حتى ⁦6000⁩ مم"
+            },
+            "data": {
+              "en": "AISI 304 / 316 and other grades; for screening and dewatering",
+              "ar": "ستانلس ⁦AISI 304 / 316⁩ ودرجات أخرى؛ للغربلة ونزع الماء"
+            }
+          }
+        },
+        {
+          "code": "BX-0689-01-009",
+          "name": {
+            "en": "Stainless steel wire mesh, fine",
+            "ar": "شبك ستانلس ناعم"
+          },
+          "specs": {
+            "sizes": {
+              "en": "2–635 mesh; wire 1.8–0.0203 mm; opening 10.9–0.0203 mm",
+              "ar": "⁦2⁠–⁠635⁩ مش؛ سلك ⁦1.8⁠–⁠0.0203⁩ مم؛ فتحة ⁦10.9⁠–⁠0.0203⁩ مم"
+            },
+            "data": {
+              "en": "SS 201 / 202 / 304 / 316 / 316L; plain, twill and Dutch weave",
+              "ar": "ستانلس ⁦201 / 202 / 304 / 316 / 316L⁩؛ نسج سادة ومبرد وهولندي"
+            }
+          }
+        },
+        {
+          "code": "BX-0701-01-003",
+          "name": {
+            "en": "Stainless steel wire mesh",
+            "ar": "شبك ستانلس"
+          },
+          "specs": {
+            "sizes": {
+              "en": "2–100 mesh; SUS 302 / 304 / 316 / 304L / 316L; heavy 14 gauge with 3/4 in opening",
+              "ar": "⁦2⁠–⁠100⁩ مش؛ ستانلس ⁦302 / 304 / 316 / 304L / 316L⁩؛ ثقيل بمقاس ⁦14⁩ وفتحة ⁦3/4⁩ بوصة"
+            },
+            "data": {
+              "en": "Plain, twill and Dutch weave for sizing and filtering",
+              "ar": "نسج سادة ومبرد وهولندي للتصنيف والترشيح"
+            }
+          }
+        },
+        {
+          "code": "BX-0309-01-011",
+          "name": {
+            "en": "Stainless steel woven mesh, heavy wire",
+            "ar": "شبك ستانلس منسوج بسلك ثقيل"
+          },
+          "specs": {
+            "sizes": {
+              "en": "304 and 316; plain, twill and Dutch",
+              "ar": "⁦304⁩ و⁦316⁩؛ سادة ومبرد وهولندي"
+            },
+            "data": {
+              "en": "Wire Ø 0.63–9.5 mm; supplied in rolls",
+              "ar": "قطر السلك ⁦0.63⁠–⁠9.5⁩ مم؛ يُورَّد في لفات"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "2–635 mesh",
+        "ar": "⁦2⁠–⁠635⁩ مش"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      },
+      "keyRows": [
+        "sizes",
+        "data"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": "mill-gears-heavy-castings",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Part",
+    "ar": "القطعة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "build",
+      "label": {
+        "en": "Construction",
+        "ar": "الصنع"
+      }
+    },
+    {
+      "key": "supply",
+      "label": {
+        "en": "Supply",
+        "ar": "التوريد"
+      }
+    }
+  ],
+  "keyRows": [
+    "build",
+    "supply"
+  ],
+  "types": [
+    {
+      "id": "castings",
+      "label": {
+        "en": "Mill gears and heavy steel castings",
+        "ar": "تروس الطواحين والمسبوكات الفولاذية الثقيلة"
+      },
+      "models": [
+        {
+          "code": "BX-0156-02-003",
+          "name": {
+            "en": "Mill girth gears",
+            "ar": "تروس الطواحين المحيطية"
+          },
+          "specs": {
+            "build": {
+              "en": "Cast and machined; for ball mills and rotary kilns",
+              "ar": "مصبوبة ومشغّلة آلياً؛ للطواحين الكروية والأفران الدوارة"
+            },
+            "supply": {
+              "en": "To drawing and size",
+              "ar": "حسب الرسم والمقاس"
+            }
+          }
+        },
+        {
+          "code": "BX-0156-02-004",
+          "name": {
+            "en": "Mill trunnions and end covers",
+            "ar": "محاور الطواحين وأغطية النهاية"
+          },
+          "specs": {
+            "build": {
+              "en": "Cast mill heads",
+              "ar": "رؤوس طواحين مصبوبة"
+            },
+            "supply": {
+              "en": "To drawing and size",
+              "ar": "حسب الرسم والمقاس"
+            }
+          }
+        },
+        {
+          "code": "BX-0156-01-015",
+          "name": {
+            "en": "Trunnion, girth gear and pinion sets",
+            "ar": "أطقم المحور والترس المحيطي والترس الصغير"
+          },
+          "specs": {
+            "build": {
+              "en": "For large ball mills",
+              "ar": "للطواحين الكروية الكبيرة"
+            },
+            "supply": {
+              "en": "To drawing",
+              "ar": "حسب الرسم"
+            }
+          }
+        },
+        {
+          "code": "BX-0156-02-002",
+          "name": {
+            "en": "Cone-crusher shells and adjusting rings",
+            "ar": "أغلفة الكسارات المخروطية وحلقات الضبط"
+          },
+          "specs": {
+            "build": {
+              "en": "Cast and machined shells, fixed cones and adjusting rings",
+              "ar": "أغلفة ومخاريط ثابتة وحلقات ضبط مصبوبة ومشغّلة آلياً"
+            },
+            "supply": {
+              "en": "To drawing",
+              "ar": "حسب الرسم"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "From about 5 t",
+        "ar": "من نحو ⁦5⁩ أطنان"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      },
+      "intro": {
+        "en": "Heavy steel castings from about 5 t: send the drawing or the old part dimensions for a quotation.",
+        "ar": "مسبوكات فولاذية ثقيلة من نحو ⁦5⁩ أطنان: أرسل الرسم أو أبعاد القطعة القديمة لعرض السعر."
+      },
+      "keyRows": [
+        "build",
+        "supply"
+      ]
+    }
+  ]
+}

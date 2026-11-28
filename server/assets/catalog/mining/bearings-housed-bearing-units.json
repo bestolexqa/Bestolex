@@ -1,0 +1,387 @@
+{
+  "id": "bearings-housed-bearing-units",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "sizes",
+      "label": {
+        "en": "Sizes / models",
+        "ar": "المقاسات / الموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "sizes",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "bearings",
+      "label": {
+        "en": "Rolling bearings",
+        "ar": "محامل الدحرجة"
+      },
+      "models": [
+        {
+          "code": "BX-0716-01-003",
+          "name": {
+            "en": "Deep-groove ball bearings",
+            "ar": "محامل كروية أخدودية"
+          },
+          "specs": {
+            "sizes": {
+              "en": "6000–6020, 6200–6220, 6300–6320, 6400–6420",
+              "ar": "⁦6000–6020, 6200–6220, 6300–6320, 6400–6420⁩"
+            },
+            "data": {
+              "en": "Open, 2Z and 2RS",
+              "ar": "مفتوحة و⁦2Z⁩ و⁦2RS⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-05-001",
+          "name": {
+            "en": "Deep-groove ball bearings, 60 series",
+            "ar": "محامل كروية أخدودية، سلسلة ⁦60⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "604–609, 6000–6026",
+              "ar": "⁦604–609, 6000–6026⁩"
+            },
+            "data": {
+              "en": "Bore 4–130 mm; Z, ZZ, RZ, 2RZ, RS, 2RS, RW seals",
+              "ar": "قطر داخلي ⁦4⁠–⁠130⁩ مم؛ أغطية ⁦Z⁩ و⁦ZZ⁩ و⁦RZ⁩ و⁦2RZ⁩ و⁦RS⁩ و⁦2RS⁩ و⁦RW⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-05-002",
+          "name": {
+            "en": "Deep-groove ball bearings, 62 series",
+            "ar": "محامل كروية أخدودية، سلسلة ⁦62⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "624–629, 6200–6222",
+              "ar": "⁦624–629, 6200–6222⁩"
+            },
+            "data": {
+              "en": "Bore 4–110 mm",
+              "ar": "قطر داخلي ⁦4⁠–⁠110⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-05-003",
+          "name": {
+            "en": "Deep-groove ball bearings, 63 series",
+            "ar": "محامل كروية أخدودية، سلسلة ⁦63⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "635–639, 6300–6320",
+              "ar": "⁦635–639, 6300–6320⁩"
+            },
+            "data": {
+              "en": "Bore 5–100 mm; heavier loads",
+              "ar": "قطر داخلي ⁦5⁠–⁠100⁩ مم؛ لأحمال أثقل"
+            }
+          }
+        },
+        {
+          "code": "BX-0716-01-004",
+          "name": {
+            "en": "Cylindrical roller bearings",
+            "ar": "محامل أسطوانية"
+          },
+          "specs": {
+            "sizes": {
+              "en": "NU1005…NU430, NJ1021…NJ428, NUP, N",
+              "ar": "⁦NU1005…NU430, NJ1021…NJ428, NUP, N⁩"
+            },
+            "data": {
+              "en": "Single row",
+              "ar": "صف واحد"
+            }
+          }
+        },
+        {
+          "code": "BX-0716-01-005",
+          "name": {
+            "en": "Tapered roller bearings",
+            "ar": "محامل مخروطية"
+          },
+          "specs": {
+            "sizes": {
+              "en": "30203…32960 (302, 303, 313, 320, 322, 323, 329, 330, 331, 332 series)",
+              "ar": "⁦30203⁩…⁦32960⁩ (السلاسل ⁦302⁩ و⁦303⁩ و⁦313⁩ و⁦320⁩ و⁦322⁩ و⁦323⁩ و⁦329⁩ و⁦330⁩ و⁦331⁩ و⁦332⁩)"
+            },
+            "data": {
+              "en": "Single row",
+              "ar": "صف واحد"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-05-009",
+          "name": {
+            "en": "Tapered roller bearings, 30200 series",
+            "ar": "محامل مخروطية، سلسلة ⁦30200⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "30203–30228",
+              "ar": "⁦30203–30228⁩"
+            },
+            "data": {
+              "en": "Bore 17–140 mm",
+              "ar": "قطر داخلي ⁦17⁠–⁠140⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-05-010",
+          "name": {
+            "en": "Tapered roller bearings, 30300 series",
+            "ar": "محامل مخروطية، سلسلة ⁦30300⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "30302–30324",
+              "ar": "⁦30302–30324⁩"
+            },
+            "data": {
+              "en": "Bore 15–120 mm; heavier loads",
+              "ar": "قطر داخلي ⁦15⁠–⁠120⁩ مم؛ لأحمال أثقل"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-05-011",
+          "name": {
+            "en": "Tapered roller bearings, 32000 series",
+            "ar": "محامل مخروطية، سلسلة ⁦32000⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "32004–32034",
+              "ar": "⁦32004–32034⁩"
+            },
+            "data": {
+              "en": "Bore 20–170 mm; thin section",
+              "ar": "قطر داخلي ⁦20⁠–⁠170⁩ مم؛ مقطع رفيع"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-05-012",
+          "name": {
+            "en": "Tapered roller bearings, 32200 series",
+            "ar": "محامل مخروطية، سلسلة ⁦32200⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "32203–32228",
+              "ar": "⁦32203–32228⁩"
+            },
+            "data": {
+              "en": "Bore 17–140 mm; wide",
+              "ar": "قطر داخلي ⁦17⁠–⁠140⁩ مم؛ عريضة"
+            }
+          }
+        },
+        {
+          "code": "BX-0684-05-013",
+          "name": {
+            "en": "Tapered roller bearings, 32300 series",
+            "ar": "محامل مخروطية، سلسلة ⁦32300⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "32304–32324",
+              "ar": "⁦32304–32324⁩"
+            },
+            "data": {
+              "en": "Bore 20–120 mm; wide, heavy duty",
+              "ar": "قطر داخلي ⁦20⁠–⁠120⁩ مم؛ عريضة للخدمة الشاقة"
+            }
+          }
+        },
+        {
+          "code": "BX-0716-01-006",
+          "name": {
+            "en": "Spherical roller bearings",
+            "ar": "محامل كروية الدحاريج"
+          },
+          "specs": {
+            "sizes": {
+              "en": "22205…22264, 22308…22356, 230, 231 and 232 series to 23248",
+              "ar": "⁦22205⁩…⁦22264⁩ و⁦22308⁩…⁦22356⁩ والسلاسل ⁦230⁩ و⁦231⁩ و⁦232⁩ حتى ⁦23248⁩"
+            },
+            "data": {
+              "en": "Double row; cylindrical or tapered bore",
+              "ar": "صفان؛ ثقب أسطواني أو مخروطي"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Bore 4–170 mm",
+        "ar": "قطر داخلي ⁦4⁠–⁠170⁩ مم"
+      },
+      "countUnit": {
+        "ar": [
+          "سلسلة واحدة",
+          "سلسلتان",
+          "سلاسل"
+        ],
+        "en": [
+          "series",
+          "series"
+        ]
+      },
+      "keyRows": [
+        "sizes",
+        "data"
+      ]
+    },
+    {
+      "id": "housed",
+      "label": {
+        "en": "UC insert bearings and housed units",
+        "ar": "محامل ⁦UC⁩ ووحدات الكراسي"
+      },
+      "models": [
+        {
+          "code": "BX-0716-01-009",
+          "name": {
+            "en": "UC insert bearings",
+            "ar": "محامل إدخال ⁦UC⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "UC201…UC328",
+              "ar": "⁦UC201…UC328⁩"
+            },
+            "data": {
+              "en": "Set-screw inserts for housed units",
+              "ar": "محامل بمسمار تثبيت لوحدات الكراسي"
+            }
+          }
+        },
+        {
+          "code": "BX-0716-01-013",
+          "name": {
+            "en": "UCP pillow-block units",
+            "ar": "وحدات كراسي قائمة ⁦UCP⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "UCP201…UCP328",
+              "ar": "⁦UCP201…UCP328⁩"
+            },
+            "data": {
+              "en": "Cast-iron housings",
+              "ar": "كراسٍ من حديد الزهر"
+            }
+          }
+        },
+        {
+          "code": "BX-0716-01-014",
+          "name": {
+            "en": "UCF square-flange units",
+            "ar": "وحدات بفلنجة مربعة ⁦UCF⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "UCF201…UCF328",
+              "ar": "⁦UCF201…UCF328⁩"
+            },
+            "data": {
+              "en": "Four-bolt flange",
+              "ar": "فلنجة بأربعة براغٍ"
+            }
+          }
+        },
+        {
+          "code": "BX-0716-01-015",
+          "name": {
+            "en": "UCFL two-bolt flange units",
+            "ar": "وحدات بفلنجة ببرغيين ⁦UCFL⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "UCFL201…UCFL326",
+              "ar": "⁦UCFL201…UCFL326⁩"
+            },
+            "data": {
+              "en": "Oval flange",
+              "ar": "فلنجة بيضاوية"
+            }
+          }
+        },
+        {
+          "code": "BX-0716-01-016",
+          "name": {
+            "en": "UCT take-up units",
+            "ar": "وحدات شد ⁦UCT⁩"
+          },
+          "specs": {
+            "sizes": {
+              "en": "UCT201…UCT218",
+              "ar": "⁦UCT201…UCT218⁩"
+            },
+            "data": {
+              "en": "Sliding take-up housing",
+              "ar": "كرسي شد منزلق"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "UC201–UC328",
+        "ar": "⁦UC201–UC328⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "سلسلة واحدة",
+          "سلسلتان",
+          "سلاسل"
+        ],
+        "en": [
+          "series",
+          "series"
+        ]
+      },
+      "keyRows": [
+        "sizes",
+        "data"
+      ]
+    }
+  ]
+}

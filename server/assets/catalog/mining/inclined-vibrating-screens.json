@@ -1,0 +1,1312 @@
+{
+  "id": "inclined-vibrating-screens",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "deck-area-mm",
+      "label": {
+        "en": "Deck area (mm)",
+        "ar": "مساحة السطح (مم)"
+      }
+    },
+    {
+      "key": "aperture-mm",
+      "label": {
+        "en": "Aperture (mm)",
+        "ar": "الفتحة (مم)"
+      }
+    },
+    {
+      "key": "decks",
+      "label": {
+        "en": "Decks",
+        "ar": "الطوابق"
+      }
+    },
+    {
+      "key": "max-feed-mm",
+      "label": {
+        "en": "Max. feed (mm)",
+        "ar": "أقصى تغذية (مم)"
+      }
+    },
+    {
+      "key": "capacity-t-h",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "power-kw",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "weight-t",
+      "label": {
+        "en": "Weight (t)",
+        "ar": "الوزن (طن)"
+      }
+    },
+    {
+      "key": "screen-size-mm",
+      "label": {
+        "en": "Screen size (mm)",
+        "ar": "مقاس الغربال (مم)"
+      }
+    },
+    {
+      "key": "frequency-r-min",
+      "label": {
+        "en": "Frequency (r/min)",
+        "ar": "التردد (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "double-amplitude-mm",
+      "label": {
+        "en": "Double amplitude (mm)",
+        "ar": "السعة المزدوجة (مم)"
+      }
+    },
+    {
+      "key": "models",
+      "label": {
+        "en": "Models",
+        "ar": "الموديلات"
+      }
+    },
+    {
+      "key": "screen-area-m2",
+      "label": {
+        "en": "Screen area (m²)",
+        "ar": "مساحة الغربلة (م²)"
+      }
+    },
+    {
+      "key": "max-feed-size-mm",
+      "label": {
+        "en": "Max. feed size (mm)",
+        "ar": "أقصى حجم تغذية (مم)"
+      }
+    }
+  ],
+  "keyRows": [
+    "deck-area-mm",
+    "aperture-mm",
+    "decks"
+  ],
+  "types": [
+    {
+      "id": "mya",
+      "label": {
+        "en": "MYA inclined vibrating screens (1–4 decks)",
+        "ar": "غرابيل اهتزازية مائلة ⁦MYA (1⁠–⁠4⁩ طوابق)"
+      },
+      "models": [
+        {
+          "code": "BX-0014-01-013 / (2/3/4)MYA1236",
+          "name": {
+            "en": "(2/3/4)MYA1236",
+            "ar": "⁦(2/3/4)MYA1236⁩"
+          },
+          "specs": {
+            "deck-area-mm": {
+              "en": "1200×3600",
+              "ar": "⁦1200×3600⁩"
+            },
+            "aperture-mm": {
+              "en": "5–50",
+              "ar": "⁦5–50⁩"
+            },
+            "decks": {
+              "en": "1–4",
+              "ar": "⁦1–4⁩"
+            },
+            "max-feed-mm": {
+              "en": "≤ 200",
+              "ar": "⁦≤ 200⁩"
+            },
+            "capacity-t-h": {
+              "en": "120–400",
+              "ar": "⁦120–400⁩"
+            },
+            "power-kw": {
+              "en": "7.5–11",
+              "ar": "⁦7.5–11⁩"
+            },
+            "weight-t": {
+              "en": "4.675–5.9",
+              "ar": "⁦4.675–5.9⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-013 / (2/3/4)MYA1548",
+          "name": {
+            "en": "(2/3/4)MYA1548",
+            "ar": "⁦(2/3/4)MYA1548⁩"
+          },
+          "specs": {
+            "deck-area-mm": {
+              "en": "1500×4800",
+              "ar": "⁦1500×4800⁩"
+            },
+            "aperture-mm": {
+              "en": "5–80",
+              "ar": "⁦5–80⁩"
+            },
+            "decks": {
+              "en": "1–4",
+              "ar": "⁦1–4⁩"
+            },
+            "max-feed-mm": {
+              "en": "≤ 200",
+              "ar": "⁦≤ 200⁩"
+            },
+            "capacity-t-h": {
+              "en": "200–590",
+              "ar": "⁦200–590⁩"
+            },
+            "power-kw": {
+              "en": "11–15",
+              "ar": "⁦11–15⁩"
+            },
+            "weight-t": {
+              "en": "5.8–6.8",
+              "ar": "⁦5.8–6.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-013 / (2/3/4)MYA1860",
+          "name": {
+            "en": "(2/3/4)MYA1860",
+            "ar": "⁦(2/3/4)MYA1860⁩"
+          },
+          "specs": {
+            "deck-area-mm": {
+              "en": "1800×6000",
+              "ar": "⁦1800×6000⁩"
+            },
+            "aperture-mm": {
+              "en": "5–80",
+              "ar": "⁦5–80⁩"
+            },
+            "decks": {
+              "en": "1–4",
+              "ar": "⁦1–4⁩"
+            },
+            "max-feed-mm": {
+              "en": "≤ 200",
+              "ar": "⁦≤ 200⁩"
+            },
+            "capacity-t-h": {
+              "en": "245–820",
+              "ar": "⁦245–820⁩"
+            },
+            "power-kw": {
+              "en": "11–18.5",
+              "ar": "⁦11–18.5⁩"
+            },
+            "weight-t": {
+              "en": "8.8–13.5",
+              "ar": "⁦8.8–13.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-013 / (2/3/4)MYA2160",
+          "name": {
+            "en": "(2/3/4)MYA2160",
+            "ar": "⁦(2/3/4)MYA2160⁩"
+          },
+          "specs": {
+            "deck-area-mm": {
+              "en": "2100×6000",
+              "ar": "⁦2100×6000⁩"
+            },
+            "aperture-mm": {
+              "en": "5–80",
+              "ar": "⁦5–80⁩"
+            },
+            "decks": {
+              "en": "1–4",
+              "ar": "⁦1–4⁩"
+            },
+            "max-feed-mm": {
+              "en": "≤ 200",
+              "ar": "⁦≤ 200⁩"
+            },
+            "capacity-t-h": {
+              "en": "350–1200",
+              "ar": "⁦350–1200⁩"
+            },
+            "power-kw": {
+              "en": "15–22",
+              "ar": "⁦15–22⁩"
+            },
+            "weight-t": {
+              "en": "9.9–14.5",
+              "ar": "⁦9.9–14.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-013 / (2/3/4)MYA2460",
+          "name": {
+            "en": "(2/3/4)MYA2460",
+            "ar": "⁦(2/3/4)MYA2460⁩"
+          },
+          "specs": {
+            "deck-area-mm": {
+              "en": "2400×6000",
+              "ar": "⁦2400×6000⁩"
+            },
+            "aperture-mm": {
+              "en": "5–80",
+              "ar": "⁦5–80⁩"
+            },
+            "decks": {
+              "en": "1–4",
+              "ar": "⁦1–4⁩"
+            },
+            "max-feed-mm": {
+              "en": "≤ 200",
+              "ar": "⁦≤ 200⁩"
+            },
+            "capacity-t-h": {
+              "en": "420–1360",
+              "ar": "⁦420–1360⁩"
+            },
+            "power-kw": {
+              "en": "18.5–30",
+              "ar": "⁦18.5–30⁩"
+            },
+            "weight-t": {
+              "en": "12.2–15",
+              "ar": "⁦12.2–15⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "120–1360 t/h",
+        "ar": "⁦120⁠–⁠1360⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "(2/3/4) before the model = number of decks.",
+        "ar": "الرقم (⁦2/3/4⁩) قبل الموديل = عدد الطوابق."
+      },
+      "keyRows": [
+        "deck-area-mm",
+        "capacity-t-h",
+        "power-kw"
+      ]
+    },
+    {
+      "id": "yk",
+      "label": {
+        "en": "YK circular vibrating screens",
+        "ar": "غرابيل دائرية اهتزازية ⁦YK⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0016-01-020 / 2YK1237",
+          "name": {
+            "en": "2YK1237",
+            "ar": "2YK1237"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "3700×1200",
+              "ar": "⁦3700×1200⁩"
+            },
+            "decks": {
+              "en": "2",
+              "ar": "2"
+            },
+            "aperture-mm": {
+              "en": "3–50",
+              "ar": "⁦3–50⁩"
+            },
+            "max-feed-mm": {
+              "en": "200",
+              "ar": "200"
+            },
+            "capacity-t-h": {
+              "en": "30–100",
+              "ar": "⁦30–100⁩"
+            },
+            "power-kw": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "frequency-r-min": {
+              "en": "970",
+              "ar": "970"
+            },
+            "double-amplitude-mm": {
+              "en": "5–9",
+              "ar": "⁦5–9⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-020 / 3YK1237",
+          "name": {
+            "en": "3YK1237",
+            "ar": "3YK1237"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "3700×1200",
+              "ar": "⁦3700×1200⁩"
+            },
+            "decks": {
+              "en": "3",
+              "ar": "3"
+            },
+            "aperture-mm": {
+              "en": "3–50",
+              "ar": "⁦3–50⁩"
+            },
+            "max-feed-mm": {
+              "en": "200",
+              "ar": "200"
+            },
+            "capacity-t-h": {
+              "en": "30–100",
+              "ar": "⁦30–100⁩"
+            },
+            "power-kw": {
+              "en": "11",
+              "ar": "11"
+            },
+            "frequency-r-min": {
+              "en": "970",
+              "ar": "970"
+            },
+            "double-amplitude-mm": {
+              "en": "5–9",
+              "ar": "⁦5–9⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-020 / 2YK1548",
+          "name": {
+            "en": "2YK1548",
+            "ar": "2YK1548"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "4800×1500",
+              "ar": "⁦4800×1500⁩"
+            },
+            "decks": {
+              "en": "2",
+              "ar": "2"
+            },
+            "aperture-mm": {
+              "en": "3–100",
+              "ar": "⁦3–100⁩"
+            },
+            "max-feed-mm": {
+              "en": "400",
+              "ar": "400"
+            },
+            "capacity-t-h": {
+              "en": "30–275",
+              "ar": "⁦30–275⁩"
+            },
+            "power-kw": {
+              "en": "15",
+              "ar": "15"
+            },
+            "frequency-r-min": {
+              "en": "970",
+              "ar": "970"
+            },
+            "double-amplitude-mm": {
+              "en": "5–9",
+              "ar": "⁦5–9⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-020 / 3YK1548",
+          "name": {
+            "en": "3YK1548",
+            "ar": "3YK1548"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "4800×1500",
+              "ar": "⁦4800×1500⁩"
+            },
+            "decks": {
+              "en": "3",
+              "ar": "3"
+            },
+            "aperture-mm": {
+              "en": "3–100",
+              "ar": "⁦3–100⁩"
+            },
+            "max-feed-mm": {
+              "en": "400",
+              "ar": "400"
+            },
+            "capacity-t-h": {
+              "en": "30–275",
+              "ar": "⁦30–275⁩"
+            },
+            "power-kw": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            },
+            "frequency-r-min": {
+              "en": "970",
+              "ar": "970"
+            },
+            "double-amplitude-mm": {
+              "en": "5–9",
+              "ar": "⁦5–9⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-020 / 2YK1848",
+          "name": {
+            "en": "2YK1848",
+            "ar": "2YK1848"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "4800×1800",
+              "ar": "⁦4800×1800⁩"
+            },
+            "decks": {
+              "en": "2",
+              "ar": "2"
+            },
+            "aperture-mm": {
+              "en": "3–100",
+              "ar": "⁦3–100⁩"
+            },
+            "max-feed-mm": {
+              "en": "400",
+              "ar": "400"
+            },
+            "capacity-t-h": {
+              "en": "56–330",
+              "ar": "⁦56–330⁩"
+            },
+            "power-kw": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            },
+            "frequency-r-min": {
+              "en": "970",
+              "ar": "970"
+            },
+            "double-amplitude-mm": {
+              "en": "5–9",
+              "ar": "⁦5–9⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-020 / 3YK1848",
+          "name": {
+            "en": "3YK1848",
+            "ar": "3YK1848"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "4800×1800",
+              "ar": "⁦4800×1800⁩"
+            },
+            "decks": {
+              "en": "3",
+              "ar": "3"
+            },
+            "aperture-mm": {
+              "en": "3–100",
+              "ar": "⁦3–100⁩"
+            },
+            "max-feed-mm": {
+              "en": "400",
+              "ar": "400"
+            },
+            "capacity-t-h": {
+              "en": "56–330",
+              "ar": "⁦56–330⁩"
+            },
+            "power-kw": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            },
+            "frequency-r-min": {
+              "en": "970",
+              "ar": "970"
+            },
+            "double-amplitude-mm": {
+              "en": "5–9",
+              "ar": "⁦5–9⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-020 / 2YK1860",
+          "name": {
+            "en": "2YK1860",
+            "ar": "2YK1860"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "6000×1800",
+              "ar": "⁦6000×1800⁩"
+            },
+            "decks": {
+              "en": "2",
+              "ar": "2"
+            },
+            "aperture-mm": {
+              "en": "3–100",
+              "ar": "⁦3–100⁩"
+            },
+            "max-feed-mm": {
+              "en": "400",
+              "ar": "400"
+            },
+            "capacity-t-h": {
+              "en": "65–586",
+              "ar": "⁦65–586⁩"
+            },
+            "power-kw": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            },
+            "frequency-r-min": {
+              "en": "980",
+              "ar": "980"
+            },
+            "double-amplitude-mm": {
+              "en": "5–9",
+              "ar": "⁦5–9⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-020 / 3YK1860",
+          "name": {
+            "en": "3YK1860",
+            "ar": "3YK1860"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "6000×1800",
+              "ar": "⁦6000×1800⁩"
+            },
+            "decks": {
+              "en": "3",
+              "ar": "3"
+            },
+            "aperture-mm": {
+              "en": "3–100",
+              "ar": "⁦3–100⁩"
+            },
+            "max-feed-mm": {
+              "en": "400",
+              "ar": "400"
+            },
+            "capacity-t-h": {
+              "en": "65–586",
+              "ar": "⁦65–586⁩"
+            },
+            "power-kw": {
+              "en": "22",
+              "ar": "22"
+            },
+            "frequency-r-min": {
+              "en": "980",
+              "ar": "980"
+            },
+            "double-amplitude-mm": {
+              "en": "5–9",
+              "ar": "⁦5–9⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-020 / 2YK2160",
+          "name": {
+            "en": "2YK2160",
+            "ar": "2YK2160"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "6000×2100",
+              "ar": "⁦6000×2100⁩"
+            },
+            "decks": {
+              "en": "2",
+              "ar": "2"
+            },
+            "aperture-mm": {
+              "en": "3–100",
+              "ar": "⁦3–100⁩"
+            },
+            "max-feed-mm": {
+              "en": "400",
+              "ar": "400"
+            },
+            "capacity-t-h": {
+              "en": "81–720",
+              "ar": "⁦81–720⁩"
+            },
+            "power-kw": {
+              "en": "22",
+              "ar": "22"
+            },
+            "frequency-r-min": {
+              "en": "980",
+              "ar": "980"
+            },
+            "double-amplitude-mm": {
+              "en": "5–9",
+              "ar": "⁦5–9⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-020 / 3YK2160",
+          "name": {
+            "en": "3YK2160",
+            "ar": "3YK2160"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "6000×2100",
+              "ar": "⁦6000×2100⁩"
+            },
+            "decks": {
+              "en": "3",
+              "ar": "3"
+            },
+            "aperture-mm": {
+              "en": "3–100",
+              "ar": "⁦3–100⁩"
+            },
+            "max-feed-mm": {
+              "en": "400",
+              "ar": "400"
+            },
+            "capacity-t-h": {
+              "en": "81–720",
+              "ar": "⁦81–720⁩"
+            },
+            "power-kw": {
+              "en": "30",
+              "ar": "30"
+            },
+            "frequency-r-min": {
+              "en": "970",
+              "ar": "970"
+            },
+            "double-amplitude-mm": {
+              "en": "5–9",
+              "ar": "⁦5–9⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "30–720 t/h",
+        "ar": "⁦30⁠–⁠720⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "screen-size-mm",
+        "capacity-t-h",
+        "power-kw"
+      ]
+    },
+    {
+      "id": "yk-additional",
+      "label": {
+        "en": "YK circular vibrating screens – additional sizes",
+        "ar": "غرابيل دائرية اهتزازية ⁦YK⁩ – مقاسات إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0033-01-028 / YK",
+          "name": {
+            "en": "YK",
+            "ar": "YK"
+          },
+          "specs": {
+            "models": {
+              "en": "YK1236, YK1535, YK1536, YK1545, YK1836, YK1848, YK1860, YK2154, YK2160, YK2460",
+              "ar": "⁦YK1236, YK1535, YK1536, YK1545, YK1836, YK1848, YK1860, YK2154, YK2160, YK2460⁩"
+            },
+            "decks": {
+              "en": "1",
+              "ar": "1"
+            },
+            "screen-area-m2": {
+              "en": "4.3–14.4",
+              "ar": "⁦4.3–14.4⁩"
+            },
+            "aperture-mm": {
+              "en": "1–150",
+              "ar": "⁦1–150⁩"
+            },
+            "power-kw": {
+              "en": "5.5–22",
+              "ar": "⁦5.5–22⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-028 / 2YK",
+          "name": {
+            "en": "2YK",
+            "ar": "2YK"
+          },
+          "specs": {
+            "models": {
+              "en": "2YK1236, 2YK1245, 2YK1536, 2YK1545, 2YK1854, 2YK2154, 2YK2280, 2YK2460",
+              "ar": "⁦2YK1236, 2YK1245, 2YK1536, 2YK1545, 2YK1854, 2YK2154, 2YK2280, 2YK2460⁩"
+            },
+            "decks": {
+              "en": "2",
+              "ar": "2"
+            },
+            "screen-area-m2": {
+              "en": "4.3–17.6",
+              "ar": "⁦4.3–17.6⁩"
+            },
+            "aperture-mm": {
+              "en": "1–150",
+              "ar": "⁦1–150⁩"
+            },
+            "power-kw": {
+              "en": "5.5–30",
+              "ar": "⁦5.5–30⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-028 / 3YK",
+          "name": {
+            "en": "3YK",
+            "ar": "3YK"
+          },
+          "specs": {
+            "models": {
+              "en": "3YK1236, 3YK1245, 3YK1535, 3YK1545, 3YK1854, 3YK2154",
+              "ar": "⁦3YK1236, 3YK1245, 3YK1535, 3YK1545, 3YK1854, 3YK2154⁩"
+            },
+            "decks": {
+              "en": "3",
+              "ar": "3"
+            },
+            "screen-area-m2": {
+              "en": "4.3–11.3",
+              "ar": "⁦4.3–11.3⁩"
+            },
+            "aperture-mm": {
+              "en": "1–100",
+              "ar": "⁦1–100⁩"
+            },
+            "power-kw": {
+              "en": "11–22",
+              "ar": "⁦11–22⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-028 / 4YK",
+          "name": {
+            "en": "4YK",
+            "ar": "4YK"
+          },
+          "specs": {
+            "models": {
+              "en": "4YK1545, 4YK1548, 4YK1860, 4YK2160",
+              "ar": "⁦4YK1545, 4YK1548, 4YK1860, 4YK2160⁩"
+            },
+            "decks": {
+              "en": "4",
+              "ar": "4"
+            },
+            "screen-area-m2": {
+              "en": "5.4–12.6",
+              "ar": "⁦5.4–12.6⁩"
+            },
+            "aperture-mm": {
+              "en": "1–100",
+              "ar": "⁦1–100⁩"
+            },
+            "power-kw": {
+              "en": "18.5–30",
+              "ar": "⁦18.5–30⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1–4 decks",
+        "ar": "⁦1⁠–⁠4⁩ طوابق"
+      },
+      "countUnit": {
+        "ar": [
+          "سلسلة واحدة",
+          "سلسلتان",
+          "سلاسل"
+        ],
+        "en": [
+          "series",
+          "series"
+        ]
+      },
+      "intro": {
+        "en": "Max. feed 200–400 mm.",
+        "ar": "أقصى تغذية ⁦200⁠–⁠400⁩ مم."
+      },
+      "keyRows": [
+        "decks",
+        "screen-area-m2",
+        "power-kw"
+      ]
+    },
+    {
+      "id": "yzs",
+      "label": {
+        "en": "YZS circular vibrating screens",
+        "ar": "غرابيل دائرية اهتزازية ⁦YZS⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0018-03-014",
+          "name": {
+            "en": "YZS circular vibrating screen",
+            "ar": "غربال دائري اهتزازي ⁦YZS⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "2YZS, 3YZS and 4YZS, 1237 to 3680 (22 models)",
+              "ar": "⁦2YZS⁩ و⁦3YZS⁩ و⁦4YZS⁩، من ⁦1237⁩ إلى ⁦3680 (22⁩ موديلاً)"
+            },
+            "capacity-t-h": {
+              "en": "25–2250",
+              "ar": "⁦25–2250⁩"
+            },
+            "max-feed-size-mm": {
+              "en": "300–400",
+              "ar": "⁦300–400⁩"
+            },
+            "power-kw": {
+              "en": "11 to 2 × 37",
+              "ar": "من ⁦11⁩ إلى ⁦2 × 37⁩"
+            },
+            "decks": {
+              "en": "2–4",
+              "ar": "⁦2–4⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "25–2250 t/h",
+        "ar": "⁦25⁠–⁠2250⁩ طن/ساعة"
+      },
+      "countUnit": {
+        "ar": [
+          "سلسلة واحدة",
+          "سلسلتان",
+          "سلاسل"
+        ],
+        "en": [
+          "series",
+          "series"
+        ]
+      }
+    },
+    {
+      "id": "szz",
+      "label": {
+        "en": "SZZ self-centering vibrating screens (single or double deck)",
+        "ar": "غرابيل اهتزازية ذاتية التمركز ⁦SZZ⁩ (طابق أو طابقان)"
+      },
+      "models": [
+        {
+          "code": "BX-0033-01-027 / SZZ800×1600",
+          "name": {
+            "en": "SZZ800×1600",
+            "ar": "⁦SZZ800×1600⁩"
+          },
+          "specs": {
+            "max-feed-size-mm": {
+              "en": "≤ 100",
+              "ar": "⁦≤ 100⁩"
+            },
+            "screen-area-m2": {
+              "en": "1.3",
+              "ar": "⁦1.3⁩"
+            },
+            "aperture-mm": {
+              "en": "3–40",
+              "ar": "⁦3–40⁩"
+            },
+            "power-kw": {
+              "en": "2.2",
+              "ar": "⁦2.2⁩"
+            },
+            "capacity-t-h": {
+              "en": "20–25",
+              "ar": "⁦20–25⁩"
+            },
+            "frequency-r-min": {
+              "en": "1430",
+              "ar": "1430"
+            },
+            "weight-t": {
+              "en": "0.5",
+              "ar": "⁦0.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-027 / SZZ900×1800",
+          "name": {
+            "en": "SZZ900×1800",
+            "ar": "⁦SZZ900×1800⁩"
+          },
+          "specs": {
+            "max-feed-size-mm": {
+              "en": "≤ 40",
+              "ar": "⁦≤ 40⁩"
+            },
+            "screen-area-m2": {
+              "en": "1.6",
+              "ar": "⁦1.6⁩"
+            },
+            "aperture-mm": {
+              "en": "6–25",
+              "ar": "⁦6–25⁩"
+            },
+            "power-kw": {
+              "en": "2.2",
+              "ar": "⁦2.2⁩"
+            },
+            "capacity-t-h": {
+              "en": "50",
+              "ar": "50"
+            },
+            "frequency-r-min": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "weight-t": {
+              "en": "0.57",
+              "ar": "⁦0.57⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-027 / SZZ1250×2500",
+          "name": {
+            "en": "SZZ1250×2500",
+            "ar": "⁦SZZ1250×2500⁩"
+          },
+          "specs": {
+            "max-feed-size-mm": {
+              "en": "≤ 150",
+              "ar": "⁦≤ 150⁩"
+            },
+            "screen-area-m2": {
+              "en": "3.1",
+              "ar": "⁦3.1⁩"
+            },
+            "aperture-mm": {
+              "en": "6–40",
+              "ar": "⁦6–40⁩"
+            },
+            "power-kw": {
+              "en": "5.5",
+              "ar": "⁦5.5⁩"
+            },
+            "capacity-t-h": {
+              "en": "150",
+              "ar": "150"
+            },
+            "frequency-r-min": {
+              "en": "850",
+              "ar": "850"
+            },
+            "weight-t": {
+              "en": "1.03",
+              "ar": "⁦1.03⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-027 / SZZ(2)1250×2500",
+          "name": {
+            "en": "SZZ(2)1250×2500",
+            "ar": "⁦SZZ(2)1250×2500⁩"
+          },
+          "specs": {
+            "max-feed-size-mm": {
+              "en": "≤ 150",
+              "ar": "⁦≤ 150⁩"
+            },
+            "screen-area-m2": {
+              "en": "3.1",
+              "ar": "⁦3.1⁩"
+            },
+            "aperture-mm": {
+              "en": "6–40",
+              "ar": "⁦6–40⁩"
+            },
+            "power-kw": {
+              "en": "5.5",
+              "ar": "⁦5.5⁩"
+            },
+            "capacity-t-h": {
+              "en": "100",
+              "ar": "100"
+            },
+            "frequency-r-min": {
+              "en": "1200",
+              "ar": "1200"
+            },
+            "weight-t": {
+              "en": "1.26",
+              "ar": "⁦1.26⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-027 / SZZ1500×3000",
+          "name": {
+            "en": "SZZ1500×3000",
+            "ar": "⁦SZZ1500×3000⁩"
+          },
+          "specs": {
+            "max-feed-size-mm": {
+              "en": "≤ 100",
+              "ar": "⁦≤ 100⁩"
+            },
+            "screen-area-m2": {
+              "en": "4.5",
+              "ar": "⁦4.5⁩"
+            },
+            "aperture-mm": {
+              "en": "6–40",
+              "ar": "⁦6–40⁩"
+            },
+            "power-kw": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "capacity-t-h": {
+              "en": "245",
+              "ar": "245"
+            },
+            "frequency-r-min": {
+              "en": "800",
+              "ar": "800"
+            },
+            "weight-t": {
+              "en": "2.24",
+              "ar": "⁦2.24⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-027 / SZZ(2)1500×3000",
+          "name": {
+            "en": "SZZ(2)1500×3000",
+            "ar": "⁦SZZ(2)1500×3000⁩"
+          },
+          "specs": {
+            "max-feed-size-mm": {
+              "en": "≤ 100",
+              "ar": "⁦≤ 100⁩"
+            },
+            "screen-area-m2": {
+              "en": "4.5",
+              "ar": "⁦4.5⁩"
+            },
+            "aperture-mm": {
+              "en": "6–40",
+              "ar": "⁦6–40⁩"
+            },
+            "power-kw": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "capacity-t-h": {
+              "en": "245",
+              "ar": "245"
+            },
+            "frequency-r-min": {
+              "en": "840",
+              "ar": "840"
+            },
+            "weight-t": {
+              "en": "2.51",
+              "ar": "⁦2.51⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-027 / SZZ2800×1600",
+          "name": {
+            "en": "SZZ2800×1600",
+            "ar": "⁦SZZ2800×1600⁩"
+          },
+          "specs": {
+            "max-feed-size-mm": {
+              "en": "≤ 100",
+              "ar": "⁦≤ 100⁩"
+            },
+            "screen-area-m2": {
+              "en": "1.3",
+              "ar": "⁦1.3⁩"
+            },
+            "aperture-mm": {
+              "en": "3–40",
+              "ar": "⁦3–40⁩"
+            },
+            "power-kw": {
+              "en": "3",
+              "ar": "3"
+            },
+            "capacity-t-h": {
+              "en": "20–25",
+              "ar": "⁦20–25⁩"
+            },
+            "frequency-r-min": {
+              "en": "1430",
+              "ar": "1430"
+            },
+            "weight-t": {
+              "en": "0.77",
+              "ar": "⁦0.77⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-027 / SZZ2900×1800",
+          "name": {
+            "en": "SZZ2900×1800",
+            "ar": "⁦SZZ2900×1800⁩"
+          },
+          "specs": {
+            "max-feed-size-mm": {
+              "en": "≤ 40",
+              "ar": "⁦≤ 40⁩"
+            },
+            "screen-area-m2": {
+              "en": "1.6",
+              "ar": "⁦1.6⁩"
+            },
+            "aperture-mm": {
+              "en": "1–25",
+              "ar": "⁦1–25⁩"
+            },
+            "power-kw": {
+              "en": "4",
+              "ar": "4"
+            },
+            "capacity-t-h": {
+              "en": "50",
+              "ar": "50"
+            },
+            "frequency-r-min": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "weight-t": {
+              "en": "1.09",
+              "ar": "⁦1.09⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-027 / SZZ3900×2400",
+          "name": {
+            "en": "SZZ3900×2400",
+            "ar": "⁦SZZ3900×2400⁩"
+          },
+          "specs": {
+            "max-feed-size-mm": {
+              "en": "≤ 40",
+              "ar": "⁦≤ 40⁩"
+            },
+            "screen-area-m2": {
+              "en": "1.6",
+              "ar": "⁦1.6⁩"
+            },
+            "aperture-mm": {
+              "en": "1–25",
+              "ar": "⁦1–25⁩"
+            },
+            "power-kw": {
+              "en": "4",
+              "ar": "4"
+            },
+            "capacity-t-h": {
+              "en": "50",
+              "ar": "50"
+            },
+            "frequency-r-min": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "weight-t": {
+              "en": "1.3",
+              "ar": "⁦1.3⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "20–245 t/h",
+        "ar": "⁦20⁠–⁠245⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "SZZ(2) and SZZ2… = double deck; hanging or seat mounting.",
+        "ar": "⁦SZZ(2⁩) و⁦SZZ2⁩… = طابقان؛ تركيب معلّق أو على قاعدة."
+      },
+      "keyRows": [
+        "screen-area-m2",
+        "capacity-t-h",
+        "power-kw"
+      ]
+    }
+  ]
+}

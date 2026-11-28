@@ -1,0 +1,742 @@
+{
+  "id": "horizontal-linear-screens",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "w-x-l-mm",
+      "label": {
+        "en": "W × L (mm)",
+        "ar": "العرض × الطول (مم)"
+      }
+    },
+    {
+      "key": "decks",
+      "label": {
+        "en": "Decks",
+        "ar": "الطوابق"
+      }
+    },
+    {
+      "key": "power-kw",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "vibrator",
+      "label": {
+        "en": "Vibrator",
+        "ar": "الهزّاز"
+      }
+    },
+    {
+      "key": "capacity-t-h",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "max-feed-mm",
+      "label": {
+        "en": "Max. feed (mm)",
+        "ar": "أقصى تغذية (مم)"
+      }
+    },
+    {
+      "key": "weight-t",
+      "label": {
+        "en": "Weight (t)",
+        "ar": "الوزن (طن)"
+      }
+    },
+    {
+      "key": "screen-size-mm",
+      "label": {
+        "en": "Screen size (mm)",
+        "ar": "مقاس الغربال (مم)"
+      }
+    },
+    {
+      "key": "vibrations-min",
+      "label": {
+        "en": "Vibrations (/min)",
+        "ar": "الاهتزازات (في الدقيقة)"
+      }
+    },
+    {
+      "key": "inclination-deg",
+      "label": {
+        "en": "Inclination (°)",
+        "ar": "الميل (°)"
+      }
+    },
+    {
+      "key": "amplitude-mm",
+      "label": {
+        "en": "Amplitude (mm)",
+        "ar": "السعة (مم)"
+      }
+    }
+  ],
+  "keyRows": [
+    "w-x-l-mm",
+    "decks",
+    "power-kw"
+  ],
+  "types": [
+    {
+      "id": "mfs",
+      "label": {
+        "en": "MFS horizontal screens",
+        "ar": "غرابيل أفقية ⁦MFS⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0014-01-014 / MFS1649-2",
+          "name": {
+            "en": "MFS1649-2",
+            "ar": "⁦MFS1649-2⁩"
+          },
+          "specs": {
+            "w-x-l-mm": {
+              "en": "1548×4890",
+              "ar": "⁦1548×4890⁩"
+            },
+            "decks": {
+              "en": "2",
+              "ar": "2"
+            },
+            "power-kw": {
+              "en": "30",
+              "ar": "30"
+            },
+            "vibrator": {
+              "en": "2 × MV2",
+              "ar": "⁦2 × MV2⁩"
+            },
+            "capacity-t-h": {
+              "en": "300",
+              "ar": "300"
+            },
+            "max-feed-mm": {
+              "en": "75",
+              "ar": "75"
+            },
+            "weight-t": {
+              "en": "6.5",
+              "ar": "⁦6.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-014 / MFS1649-3",
+          "name": {
+            "en": "MFS1649-3",
+            "ar": "⁦MFS1649-3⁩"
+          },
+          "specs": {
+            "w-x-l-mm": {
+              "en": "1548×4890",
+              "ar": "⁦1548×4890⁩"
+            },
+            "decks": {
+              "en": "3",
+              "ar": "3"
+            },
+            "power-kw": {
+              "en": "37",
+              "ar": "37"
+            },
+            "vibrator": {
+              "en": "3 × MV2",
+              "ar": "⁦3 × MV2⁩"
+            },
+            "capacity-t-h": {
+              "en": "400",
+              "ar": "400"
+            },
+            "max-feed-mm": {
+              "en": "75",
+              "ar": "75"
+            },
+            "weight-t": {
+              "en": "8.5",
+              "ar": "⁦8.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-014 / MFS-1661-2",
+          "name": {
+            "en": "MFS-1661-2",
+            "ar": "⁦MFS-1661-2⁩"
+          },
+          "specs": {
+            "w-x-l-mm": {
+              "en": "1562×4890",
+              "ar": "⁦1562×4890⁩"
+            },
+            "decks": {
+              "en": "2",
+              "ar": "2"
+            },
+            "power-kw": {
+              "en": "37",
+              "ar": "37"
+            },
+            "vibrator": {
+              "en": "3 × MV2",
+              "ar": "⁦3 × MV2⁩"
+            },
+            "capacity-t-h": {
+              "en": "400",
+              "ar": "400"
+            },
+            "max-feed-mm": {
+              "en": "75",
+              "ar": "75"
+            },
+            "weight-t": {
+              "en": "8.3",
+              "ar": "⁦8.3⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-014 / MFS-1661-3",
+          "name": {
+            "en": "MFS-1661-3",
+            "ar": "⁦MFS-1661-3⁩"
+          },
+          "specs": {
+            "w-x-l-mm": {
+              "en": "1562×4890",
+              "ar": "⁦1562×4890⁩"
+            },
+            "decks": {
+              "en": "3",
+              "ar": "3"
+            },
+            "power-kw": {
+              "en": "37",
+              "ar": "37"
+            },
+            "vibrator": {
+              "en": "3 × MV2",
+              "ar": "⁦3 × MV2⁩"
+            },
+            "capacity-t-h": {
+              "en": "500",
+              "ar": "500"
+            },
+            "max-feed-mm": {
+              "en": "75",
+              "ar": "75"
+            },
+            "weight-t": {
+              "en": "9.5",
+              "ar": "⁦9.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-014 / MFS-1961-2",
+          "name": {
+            "en": "MFS-1961-2",
+            "ar": "⁦MFS-1961-2⁩"
+          },
+          "specs": {
+            "w-x-l-mm": {
+              "en": "1948×4890",
+              "ar": "⁦1948×4890⁩"
+            },
+            "decks": {
+              "en": "2",
+              "ar": "2"
+            },
+            "power-kw": {
+              "en": "37",
+              "ar": "37"
+            },
+            "vibrator": {
+              "en": "3 × MV2",
+              "ar": "⁦3 × MV2⁩"
+            },
+            "capacity-t-h": {
+              "en": "500",
+              "ar": "500"
+            },
+            "max-feed-mm": {
+              "en": "75",
+              "ar": "75"
+            },
+            "weight-t": {
+              "en": "9",
+              "ar": "9"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-014 / MFS-1961-3",
+          "name": {
+            "en": "MFS-1961-3",
+            "ar": "⁦MFS-1961-3⁩"
+          },
+          "specs": {
+            "w-x-l-mm": {
+              "en": "1948×4890",
+              "ar": "⁦1948×4890⁩"
+            },
+            "decks": {
+              "en": "3",
+              "ar": "3"
+            },
+            "power-kw": {
+              "en": "37",
+              "ar": "37"
+            },
+            "vibrator": {
+              "en": "3 × MV2",
+              "ar": "⁦3 × MV2⁩"
+            },
+            "capacity-t-h": {
+              "en": "600",
+              "ar": "600"
+            },
+            "max-feed-mm": {
+              "en": "75",
+              "ar": "75"
+            },
+            "weight-t": {
+              "en": "11.5",
+              "ar": "⁦11.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-014 / MFS-2261-2",
+          "name": {
+            "en": "MFS-2261-2",
+            "ar": "⁦MFS-2261-2⁩"
+          },
+          "specs": {
+            "w-x-l-mm": {
+              "en": "1948×4890",
+              "ar": "⁦1948×4890⁩"
+            },
+            "decks": {
+              "en": "2",
+              "ar": "2"
+            },
+            "power-kw": {
+              "en": "37",
+              "ar": "37"
+            },
+            "vibrator": {
+              "en": "3 × MV2",
+              "ar": "⁦3 × MV2⁩"
+            },
+            "capacity-t-h": {
+              "en": "600",
+              "ar": "600"
+            },
+            "max-feed-mm": {
+              "en": "75",
+              "ar": "75"
+            },
+            "weight-t": {
+              "en": "12.8",
+              "ar": "⁦12.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-014 / MFS-2261-3",
+          "name": {
+            "en": "MFS-2261-3",
+            "ar": "⁦MFS-2261-3⁩"
+          },
+          "specs": {
+            "w-x-l-mm": {
+              "en": "1948×4890",
+              "ar": "⁦1948×4890⁩"
+            },
+            "decks": {
+              "en": "3",
+              "ar": "3"
+            },
+            "power-kw": {
+              "en": "55",
+              "ar": "55"
+            },
+            "vibrator": {
+              "en": "3 × MV3",
+              "ar": "⁦3 × MV3⁩"
+            },
+            "capacity-t-h": {
+              "en": "700",
+              "ar": "700"
+            },
+            "max-feed-mm": {
+              "en": "75",
+              "ar": "75"
+            },
+            "weight-t": {
+              "en": "14.5",
+              "ar": "⁦14.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-014 / MFS-2561-2",
+          "name": {
+            "en": "MFS-2561-2",
+            "ar": "⁦MFS-2561-2⁩"
+          },
+          "specs": {
+            "w-x-l-mm": {
+              "en": "1960×6100",
+              "ar": "⁦1960×6100⁩"
+            },
+            "decks": {
+              "en": "2",
+              "ar": "2"
+            },
+            "power-kw": {
+              "en": "55",
+              "ar": "55"
+            },
+            "vibrator": {
+              "en": "3 × MV3",
+              "ar": "⁦3 × MV3⁩"
+            },
+            "capacity-t-h": {
+              "en": "700",
+              "ar": "700"
+            },
+            "max-feed-mm": {
+              "en": "75",
+              "ar": "75"
+            },
+            "weight-t": {
+              "en": "15",
+              "ar": "15"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-014 / MFS-2561-3",
+          "name": {
+            "en": "MFS-2561-3",
+            "ar": "⁦MFS-2561-3⁩"
+          },
+          "specs": {
+            "w-x-l-mm": {
+              "en": "1960×6100",
+              "ar": "⁦1960×6100⁩"
+            },
+            "decks": {
+              "en": "3",
+              "ar": "3"
+            },
+            "power-kw": {
+              "en": "55",
+              "ar": "55"
+            },
+            "vibrator": {
+              "en": "3 × MV3",
+              "ar": "⁦3 × MV3⁩"
+            },
+            "capacity-t-h": {
+              "en": "800",
+              "ar": "800"
+            },
+            "max-feed-mm": {
+              "en": "75",
+              "ar": "75"
+            },
+            "weight-t": {
+              "en": "17",
+              "ar": "17"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "300–800 t/h",
+        "ar": "⁦300⁠–⁠800⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "Low-profile screens for mobile and modular plants; -2 / -3 = two or three decks.",
+        "ar": "غرابيل منخفضة الارتفاع للمحطات المتنقلة والمعيارية؛ ‎-⁦2⁩ / ‎-⁦3⁩ = طابقان أو ثلاثة."
+      },
+      "keyRows": [
+        "w-x-l-mm",
+        "capacity-t-h",
+        "power-kw"
+      ]
+    },
+    {
+      "id": "szf",
+      "label": {
+        "en": "SZF linear vibrating screens",
+        "ar": "غرابيل اهتزازية خطية ⁦SZF⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0016-01-021 / SZF-0520",
+          "name": {
+            "en": "SZF-0520",
+            "ar": "⁦SZF-0520⁩"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "500×2000",
+              "ar": "⁦500×2000⁩"
+            },
+            "vibrations-min": {
+              "en": "960",
+              "ar": "960"
+            },
+            "capacity-t-h": {
+              "en": "1–5",
+              "ar": "⁦1–5⁩"
+            },
+            "inclination-deg": {
+              "en": "0–7",
+              "ar": "⁦0–7⁩"
+            },
+            "amplitude-mm": {
+              "en": "3–4.5",
+              "ar": "⁦3–4.5⁩"
+            },
+            "decks": {
+              "en": "1–6",
+              "ar": "⁦1–6⁩"
+            },
+            "power-kw": {
+              "en": "2 × (0.4–0.75)",
+              "ar": "⁦2 × (0.4–0.75)⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-021 / SZF-0525",
+          "name": {
+            "en": "SZF-0525",
+            "ar": "⁦SZF-0525⁩"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "500×2500",
+              "ar": "⁦500×2500⁩"
+            },
+            "vibrations-min": {
+              "en": "960",
+              "ar": "960"
+            },
+            "capacity-t-h": {
+              "en": "1–10",
+              "ar": "⁦1–10⁩"
+            },
+            "inclination-deg": {
+              "en": "0–7",
+              "ar": "⁦0–7⁩"
+            },
+            "amplitude-mm": {
+              "en": "3–4.5",
+              "ar": "⁦3–4.5⁩"
+            },
+            "decks": {
+              "en": "1–6",
+              "ar": "⁦1–6⁩"
+            },
+            "power-kw": {
+              "en": "2 × (0.4–0.75)",
+              "ar": "⁦2 × (0.4–0.75)⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-021 / SZF-1020",
+          "name": {
+            "en": "SZF-1020",
+            "ar": "⁦SZF-1020⁩"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "1000×2000",
+              "ar": "⁦1000×2000⁩"
+            },
+            "vibrations-min": {
+              "en": "960",
+              "ar": "960"
+            },
+            "capacity-t-h": {
+              "en": "1–20",
+              "ar": "⁦1–20⁩"
+            },
+            "inclination-deg": {
+              "en": "0–7",
+              "ar": "⁦0–7⁩"
+            },
+            "amplitude-mm": {
+              "en": "3–4.5",
+              "ar": "⁦3–4.5⁩"
+            },
+            "decks": {
+              "en": "1–6",
+              "ar": "⁦1–6⁩"
+            },
+            "power-kw": {
+              "en": "2 × (0.75–1.5)",
+              "ar": "⁦2 × (0.75–1.5)⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-021 / SZF-1025",
+          "name": {
+            "en": "SZF-1025",
+            "ar": "⁦SZF-1025⁩"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "1000×2500",
+              "ar": "⁦1000×2500⁩"
+            },
+            "vibrations-min": {
+              "en": "960",
+              "ar": "960"
+            },
+            "capacity-t-h": {
+              "en": "1–25",
+              "ar": "⁦1–25⁩"
+            },
+            "inclination-deg": {
+              "en": "0–7",
+              "ar": "⁦0–7⁩"
+            },
+            "amplitude-mm": {
+              "en": "3–4.5",
+              "ar": "⁦3–4.5⁩"
+            },
+            "decks": {
+              "en": "1–6",
+              "ar": "⁦1–6⁩"
+            },
+            "power-kw": {
+              "en": "2 × (0.75–1.5)",
+              "ar": "⁦2 × (0.75–1.5)⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-021 / SZF-1225",
+          "name": {
+            "en": "SZF-1225",
+            "ar": "⁦SZF-1225⁩"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "1200×2500",
+              "ar": "⁦1200×2500⁩"
+            },
+            "vibrations-min": {
+              "en": "960",
+              "ar": "960"
+            },
+            "capacity-t-h": {
+              "en": "1–30",
+              "ar": "⁦1–30⁩"
+            },
+            "inclination-deg": {
+              "en": "0–7",
+              "ar": "⁦0–7⁩"
+            },
+            "amplitude-mm": {
+              "en": "3–4.5",
+              "ar": "⁦3–4.5⁩"
+            },
+            "decks": {
+              "en": "1–6",
+              "ar": "⁦1–6⁩"
+            },
+            "power-kw": {
+              "en": "2 × (1.5–2.0)",
+              "ar": "⁦2 × (1.5–2.0)⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-021 / SZF-1530",
+          "name": {
+            "en": "SZF-1530",
+            "ar": "⁦SZF-1530⁩"
+          },
+          "specs": {
+            "screen-size-mm": {
+              "en": "1500×3000",
+              "ar": "⁦1500×3000⁩"
+            },
+            "vibrations-min": {
+              "en": "960",
+              "ar": "960"
+            },
+            "capacity-t-h": {
+              "en": "1–35",
+              "ar": "⁦1–35⁩"
+            },
+            "inclination-deg": {
+              "en": "0–7",
+              "ar": "⁦0–7⁩"
+            },
+            "amplitude-mm": {
+              "en": "3–4.5",
+              "ar": "⁦3–4.5⁩"
+            },
+            "decks": {
+              "en": "1–6",
+              "ar": "⁦1–6⁩"
+            },
+            "power-kw": {
+              "en": "2 × (2.0–2.2)",
+              "ar": "⁦2 × (2.0–2.2)⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1–35 t/h",
+        "ar": "⁦1⁠–⁠35⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "Light screens for fine sizing, 1 to 6 decks.",
+        "ar": "غرابيل خفيفة للتصنيف الناعم، من طابق إلى ⁦6⁩ طوابق."
+      },
+      "keyRows": [
+        "screen-size-mm",
+        "capacity-t-h",
+        "power-kw"
+      ]
+    }
+  ]
+}

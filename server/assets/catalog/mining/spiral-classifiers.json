@@ -1,0 +1,1006 @@
+{
+  "id": "spiral-classifiers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "spiral-dia-mm",
+      "label": {
+        "en": "Spiral Ø (mm)",
+        "ar": "قطر الحلزون (مم)"
+      }
+    },
+    {
+      "key": "tank-length-mm",
+      "label": {
+        "en": "Tank length (mm)",
+        "ar": "طول الحوض (مم)"
+      }
+    },
+    {
+      "key": "spiral-speed-r-min",
+      "label": {
+        "en": "Spiral speed (r/min)",
+        "ar": "سرعة الحلزون (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "sand-return-t-d",
+      "label": {
+        "en": "Sand return (t/d)",
+        "ar": "إرجاع الرمل (طن/يوم)"
+      }
+    },
+    {
+      "key": "overflow-t-d",
+      "label": {
+        "en": "Overflow (t/d)",
+        "ar": "الفيض (طن/يوم)"
+      }
+    },
+    {
+      "key": "drive-kw",
+      "label": {
+        "en": "Drive (kW)",
+        "ar": "محرك الدوران (كيلوواط)"
+      }
+    },
+    {
+      "key": "lifting-kw",
+      "label": {
+        "en": "Lifting (kW)",
+        "ar": "محرك الرفع (كيلوواط)"
+      }
+    },
+    {
+      "key": "weight-t",
+      "label": {
+        "en": "Weight (t)",
+        "ar": "الوزن (طن)"
+      }
+    }
+  ],
+  "keyRows": [
+    "spiral-dia-mm",
+    "tank-length-mm",
+    "spiral-speed-r-min"
+  ],
+  "types": [
+    {
+      "id": "fg-fc",
+      "label": {
+        "en": "FG / FC spiral classifiers (single and double spiral)",
+        "ar": "مصنّفات حلزونية ⁦FG / FC⁩ (حلزون مفرد ومزدوج)"
+      },
+      "models": [
+        {
+          "code": "BX-0016-01-008 / FG-7",
+          "name": {
+            "en": "FG-7",
+            "ar": "⁦FG-7⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "750",
+              "ar": "750"
+            },
+            "tank-length-mm": {
+              "en": "5500",
+              "ar": "5500"
+            },
+            "spiral-speed-r-min": {
+              "en": "6–10",
+              "ar": "⁦6–10⁩"
+            },
+            "sand-return-t-d": {
+              "en": "340–570",
+              "ar": "⁦340–570⁩"
+            },
+            "overflow-t-d": {
+              "en": "65",
+              "ar": "65"
+            },
+            "drive-kw": {
+              "en": "3",
+              "ar": "3"
+            },
+            "weight-t": {
+              "en": "3.1",
+              "ar": "⁦3.1⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / FG-10",
+          "name": {
+            "en": "FG-10",
+            "ar": "⁦FG-10⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "tank-length-mm": {
+              "en": "6500",
+              "ar": "6500"
+            },
+            "spiral-speed-r-min": {
+              "en": "5–8",
+              "ar": "⁦5–8⁩"
+            },
+            "sand-return-t-d": {
+              "en": "675–1080",
+              "ar": "⁦675–1080⁩"
+            },
+            "overflow-t-d": {
+              "en": "110",
+              "ar": "110"
+            },
+            "drive-kw": {
+              "en": "5.5",
+              "ar": "⁦5.5⁩"
+            },
+            "weight-t": {
+              "en": "4.9",
+              "ar": "⁦4.9⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / FC-10",
+          "name": {
+            "en": "FC-10",
+            "ar": "⁦FC-10⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "tank-length-mm": {
+              "en": "8400",
+              "ar": "8400"
+            },
+            "spiral-speed-r-min": {
+              "en": "5–8",
+              "ar": "⁦5–8⁩"
+            },
+            "sand-return-t-d": {
+              "en": "675–1080",
+              "ar": "⁦675–1080⁩"
+            },
+            "overflow-t-d": {
+              "en": "85",
+              "ar": "85"
+            },
+            "drive-kw": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "weight-t": {
+              "en": "6.2",
+              "ar": "⁦6.2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / FG-12",
+          "name": {
+            "en": "FG-12",
+            "ar": "⁦FG-12⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "1200",
+              "ar": "1200"
+            },
+            "tank-length-mm": {
+              "en": "6500",
+              "ar": "6500"
+            },
+            "spiral-speed-r-min": {
+              "en": "4–6",
+              "ar": "⁦4–6⁩"
+            },
+            "sand-return-t-d": {
+              "en": "1170–1870",
+              "ar": "⁦1170–1870⁩"
+            },
+            "overflow-t-d": {
+              "en": "155",
+              "ar": "155"
+            },
+            "drive-kw": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "lifting-kw": {
+              "en": "2.2",
+              "ar": "⁦2.2⁩"
+            },
+            "weight-t": {
+              "en": "8.5",
+              "ar": "⁦8.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / FC-12",
+          "name": {
+            "en": "FC-12",
+            "ar": "⁦FC-12⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "1200",
+              "ar": "1200"
+            },
+            "tank-length-mm": {
+              "en": "8400",
+              "ar": "8400"
+            },
+            "spiral-speed-r-min": {
+              "en": "4–6",
+              "ar": "⁦4–6⁩"
+            },
+            "sand-return-t-d": {
+              "en": "1170–1870",
+              "ar": "⁦1170–1870⁩"
+            },
+            "overflow-t-d": {
+              "en": "120",
+              "ar": "120"
+            },
+            "drive-kw": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "lifting-kw": {
+              "en": "2.2",
+              "ar": "⁦2.2⁩"
+            },
+            "weight-t": {
+              "en": "11",
+              "ar": "11"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / 2FG-12",
+          "name": {
+            "en": "2FG-12",
+            "ar": "⁦2FG-12⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "1200",
+              "ar": "1200"
+            },
+            "tank-length-mm": {
+              "en": "6500",
+              "ar": "6500"
+            },
+            "spiral-speed-r-min": {
+              "en": "4–6",
+              "ar": "⁦4–6⁩"
+            },
+            "sand-return-t-d": {
+              "en": "2340–3740",
+              "ar": "⁦2340–3740⁩"
+            },
+            "overflow-t-d": {
+              "en": "310",
+              "ar": "310"
+            },
+            "drive-kw": {
+              "en": "15",
+              "ar": "15"
+            },
+            "lifting-kw": {
+              "en": "4.4",
+              "ar": "⁦4.4⁩"
+            },
+            "weight-t": {
+              "en": "15.8",
+              "ar": "⁦15.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / 2FC-12",
+          "name": {
+            "en": "2FC-12",
+            "ar": "⁦2FC-12⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "1200",
+              "ar": "1200"
+            },
+            "tank-length-mm": {
+              "en": "8400",
+              "ar": "8400"
+            },
+            "spiral-speed-r-min": {
+              "en": "4–6",
+              "ar": "⁦4–6⁩"
+            },
+            "sand-return-t-d": {
+              "en": "2340–3740",
+              "ar": "⁦2340–3740⁩"
+            },
+            "overflow-t-d": {
+              "en": "240",
+              "ar": "240"
+            },
+            "drive-kw": {
+              "en": "15",
+              "ar": "15"
+            },
+            "lifting-kw": {
+              "en": "4.4",
+              "ar": "⁦4.4⁩"
+            },
+            "weight-t": {
+              "en": "17.6",
+              "ar": "⁦17.6⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / FG-15",
+          "name": {
+            "en": "FG-15",
+            "ar": "⁦FG-15⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "1500",
+              "ar": "1500"
+            },
+            "tank-length-mm": {
+              "en": "8300",
+              "ar": "8300"
+            },
+            "spiral-speed-r-min": {
+              "en": "4–6",
+              "ar": "⁦4–6⁩"
+            },
+            "sand-return-t-d": {
+              "en": "1830–2740",
+              "ar": "⁦1830–2740⁩"
+            },
+            "overflow-t-d": {
+              "en": "235",
+              "ar": "235"
+            },
+            "drive-kw": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "lifting-kw": {
+              "en": "2.2",
+              "ar": "⁦2.2⁩"
+            },
+            "weight-t": {
+              "en": "12.5",
+              "ar": "⁦12.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / FC-15",
+          "name": {
+            "en": "FC-15",
+            "ar": "⁦FC-15⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "1500",
+              "ar": "1500"
+            },
+            "tank-length-mm": {
+              "en": "10500",
+              "ar": "10500"
+            },
+            "spiral-speed-r-min": {
+              "en": "4–6",
+              "ar": "⁦4–6⁩"
+            },
+            "sand-return-t-d": {
+              "en": "1830–2740",
+              "ar": "⁦1830–2740⁩"
+            },
+            "overflow-t-d": {
+              "en": "185",
+              "ar": "185"
+            },
+            "drive-kw": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "lifting-kw": {
+              "en": "2.2",
+              "ar": "⁦2.2⁩"
+            },
+            "weight-t": {
+              "en": "16.8",
+              "ar": "⁦16.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / 2FG-15",
+          "name": {
+            "en": "2FG-15",
+            "ar": "⁦2FG-15⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "1500",
+              "ar": "1500"
+            },
+            "tank-length-mm": {
+              "en": "8300",
+              "ar": "8300"
+            },
+            "spiral-speed-r-min": {
+              "en": "4–6",
+              "ar": "⁦4–6⁩"
+            },
+            "sand-return-t-d": {
+              "en": "2280–5480",
+              "ar": "⁦2280–5480⁩"
+            },
+            "overflow-t-d": {
+              "en": "470",
+              "ar": "470"
+            },
+            "drive-kw": {
+              "en": "15",
+              "ar": "15"
+            },
+            "lifting-kw": {
+              "en": "4.4",
+              "ar": "⁦4.4⁩"
+            },
+            "weight-t": {
+              "en": "22.1",
+              "ar": "⁦22.1⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / 2FC-15",
+          "name": {
+            "en": "2FC-15",
+            "ar": "⁦2FC-15⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "1500",
+              "ar": "1500"
+            },
+            "tank-length-mm": {
+              "en": "10500",
+              "ar": "10500"
+            },
+            "spiral-speed-r-min": {
+              "en": "4–6",
+              "ar": "⁦4–6⁩"
+            },
+            "sand-return-t-d": {
+              "en": "2280–5480",
+              "ar": "⁦2280–5480⁩"
+            },
+            "overflow-t-d": {
+              "en": "370",
+              "ar": "370"
+            },
+            "drive-kw": {
+              "en": "15",
+              "ar": "15"
+            },
+            "lifting-kw": {
+              "en": "4.4",
+              "ar": "⁦4.4⁩"
+            },
+            "weight-t": {
+              "en": "30.7",
+              "ar": "⁦30.7⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / FG-20",
+          "name": {
+            "en": "FG-20",
+            "ar": "⁦FG-20⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "2000",
+              "ar": "2000"
+            },
+            "tank-length-mm": {
+              "en": "8400",
+              "ar": "8400"
+            },
+            "spiral-speed-r-min": {
+              "en": "3.5–5.5",
+              "ar": "⁦3.5–5.5⁩"
+            },
+            "sand-return-t-d": {
+              "en": "3290–5940",
+              "ar": "⁦3290–5940⁩"
+            },
+            "overflow-t-d": {
+              "en": "400",
+              "ar": "400"
+            },
+            "drive-kw": {
+              "en": "11–15",
+              "ar": "⁦11–15⁩"
+            },
+            "lifting-kw": {
+              "en": "3",
+              "ar": "3"
+            },
+            "weight-t": {
+              "en": "20.5",
+              "ar": "⁦20.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / FC-20",
+          "name": {
+            "en": "FC-20",
+            "ar": "⁦FC-20⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "2000",
+              "ar": "2000"
+            },
+            "tank-length-mm": {
+              "en": "12900",
+              "ar": "12900"
+            },
+            "spiral-speed-r-min": {
+              "en": "3.5–5.5",
+              "ar": "⁦3.5–5.5⁩"
+            },
+            "sand-return-t-d": {
+              "en": "3210–5940",
+              "ar": "⁦3210–5940⁩"
+            },
+            "overflow-t-d": {
+              "en": "320",
+              "ar": "320"
+            },
+            "drive-kw": {
+              "en": "11–15",
+              "ar": "⁦11–15⁩"
+            },
+            "lifting-kw": {
+              "en": "3",
+              "ar": "3"
+            },
+            "weight-t": {
+              "en": "28.5",
+              "ar": "⁦28.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / 2FG-20",
+          "name": {
+            "en": "2FG-20",
+            "ar": "⁦2FG-20⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "2000",
+              "ar": "2000"
+            },
+            "tank-length-mm": {
+              "en": "8400",
+              "ar": "8400"
+            },
+            "spiral-speed-r-min": {
+              "en": "3.5–5.5",
+              "ar": "⁦3.5–5.5⁩"
+            },
+            "sand-return-t-d": {
+              "en": "7780–11880",
+              "ar": "⁦7780–11880⁩"
+            },
+            "overflow-t-d": {
+              "en": "800",
+              "ar": "800"
+            },
+            "drive-kw": {
+              "en": "22–30",
+              "ar": "⁦22–30⁩"
+            },
+            "lifting-kw": {
+              "en": "6",
+              "ar": "6"
+            },
+            "weight-t": {
+              "en": "35.5",
+              "ar": "⁦35.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / 2FC-20",
+          "name": {
+            "en": "2FC-20",
+            "ar": "⁦2FC-20⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "2000",
+              "ar": "2000"
+            },
+            "tank-length-mm": {
+              "en": "12900",
+              "ar": "12900"
+            },
+            "spiral-speed-r-min": {
+              "en": "3.5–5.5",
+              "ar": "⁦3.5–5.5⁩"
+            },
+            "sand-return-t-d": {
+              "en": "7780–11880",
+              "ar": "⁦7780–11880⁩"
+            },
+            "overflow-t-d": {
+              "en": "640",
+              "ar": "640"
+            },
+            "drive-kw": {
+              "en": "22–30",
+              "ar": "⁦22–30⁩"
+            },
+            "lifting-kw": {
+              "en": "6",
+              "ar": "6"
+            },
+            "weight-t": {
+              "en": "48.7",
+              "ar": "⁦48.7⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / FG-24",
+          "name": {
+            "en": "FG-24",
+            "ar": "⁦FG-24⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "2400",
+              "ar": "2400"
+            },
+            "tank-length-mm": {
+              "en": "9130",
+              "ar": "9130"
+            },
+            "spiral-speed-r-min": {
+              "en": "3.67",
+              "ar": "⁦3.67⁩"
+            },
+            "sand-return-t-d": {
+              "en": "6800",
+              "ar": "6800"
+            },
+            "overflow-t-d": {
+              "en": "580",
+              "ar": "580"
+            },
+            "drive-kw": {
+              "en": "15",
+              "ar": "15"
+            },
+            "lifting-kw": {
+              "en": "3",
+              "ar": "3"
+            },
+            "weight-t": {
+              "en": "26.8",
+              "ar": "⁦26.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / FC-24",
+          "name": {
+            "en": "FC-24",
+            "ar": "⁦FC-24⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "2400",
+              "ar": "2400"
+            },
+            "tank-length-mm": {
+              "en": "14130",
+              "ar": "14130"
+            },
+            "spiral-speed-r-min": {
+              "en": "3.67",
+              "ar": "⁦3.67⁩"
+            },
+            "sand-return-t-d": {
+              "en": "6800",
+              "ar": "6800"
+            },
+            "overflow-t-d": {
+              "en": "490",
+              "ar": "490"
+            },
+            "drive-kw": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            },
+            "lifting-kw": {
+              "en": "4",
+              "ar": "4"
+            },
+            "weight-t": {
+              "en": "41",
+              "ar": "41"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / 2FG-24",
+          "name": {
+            "en": "2FG-24",
+            "ar": "⁦2FG-24⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "2400",
+              "ar": "2400"
+            },
+            "tank-length-mm": {
+              "en": "9130",
+              "ar": "9130"
+            },
+            "spiral-speed-r-min": {
+              "en": "3.67",
+              "ar": "⁦3.67⁩"
+            },
+            "sand-return-t-d": {
+              "en": "13600",
+              "ar": "13600"
+            },
+            "overflow-t-d": {
+              "en": "1160",
+              "ar": "1160"
+            },
+            "drive-kw": {
+              "en": "30",
+              "ar": "30"
+            },
+            "lifting-kw": {
+              "en": "6",
+              "ar": "6"
+            },
+            "weight-t": {
+              "en": "45.8",
+              "ar": "⁦45.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / 2FC-24",
+          "name": {
+            "en": "2FC-24",
+            "ar": "⁦2FC-24⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "2400",
+              "ar": "2400"
+            },
+            "tank-length-mm": {
+              "en": "14130",
+              "ar": "14130"
+            },
+            "spiral-speed-r-min": {
+              "en": "3.67",
+              "ar": "⁦3.67⁩"
+            },
+            "sand-return-t-d": {
+              "en": "13700",
+              "ar": "13700"
+            },
+            "overflow-t-d": {
+              "en": "910",
+              "ar": "910"
+            },
+            "drive-kw": {
+              "en": "37",
+              "ar": "37"
+            },
+            "lifting-kw": {
+              "en": "8",
+              "ar": "8"
+            },
+            "weight-t": {
+              "en": "67.9",
+              "ar": "⁦67.9⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / 2FG-30",
+          "name": {
+            "en": "2FG-30",
+            "ar": "⁦2FG-30⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "3000",
+              "ar": "3000"
+            },
+            "tank-length-mm": {
+              "en": "12500",
+              "ar": "12500"
+            },
+            "spiral-speed-r-min": {
+              "en": "3.2",
+              "ar": "⁦3.2⁩"
+            },
+            "sand-return-t-d": {
+              "en": "23300",
+              "ar": "23300"
+            },
+            "overflow-t-d": {
+              "en": "1785",
+              "ar": "1785"
+            },
+            "drive-kw": {
+              "en": "40",
+              "ar": "40"
+            },
+            "lifting-kw": {
+              "en": "8",
+              "ar": "8"
+            },
+            "weight-t": {
+              "en": "73",
+              "ar": "73"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-008 / 2FC-30",
+          "name": {
+            "en": "2FC-30",
+            "ar": "⁦2FC-30⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "3000",
+              "ar": "3000"
+            },
+            "tank-length-mm": {
+              "en": "14300",
+              "ar": "14300"
+            },
+            "spiral-speed-r-min": {
+              "en": "3.2",
+              "ar": "⁦3.2⁩"
+            },
+            "sand-return-t-d": {
+              "en": "23300",
+              "ar": "23300"
+            },
+            "overflow-t-d": {
+              "en": "1410",
+              "ar": "1410"
+            },
+            "drive-kw": {
+              "en": "60",
+              "ar": "60"
+            },
+            "lifting-kw": {
+              "en": "8",
+              "ar": "8"
+            },
+            "weight-t": {
+              "en": "84.8",
+              "ar": "⁦84.8⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Sand return 340–23,300 t/d",
+        "ar": "إرجاع الرمل ⁦340⁠–⁠23,300⁩ طن/يوم"
+      },
+      "intro": {
+        "en": "FG = high weir, FC = submerged spiral; the 2 prefix means a double spiral.",
+        "ar": "⁦FG⁩ بفائض مرتفع و⁦FC⁩ بحلزون مغمور؛ والرقم ⁦2⁩ في أول الموديل يعني حلزوناً مزدوجاً."
+      },
+      "keyRows": [
+        "spiral-dia-mm",
+        "sand-return-t-d",
+        "drive-kw"
+      ]
+    },
+    {
+      "id": "flg",
+      "label": {
+        "en": "FLG-5 high-weir spiral classifier – additional size",
+        "ar": "مصنّف حلزوني بفائض مرتفع ⁦FLG-5⁩ – مقاس إضافي"
+      },
+      "models": [
+        {
+          "code": "BX-0033-01-015",
+          "name": {
+            "en": "FLG-5",
+            "ar": "⁦FLG-5⁩"
+          },
+          "specs": {
+            "spiral-dia-mm": {
+              "en": "500",
+              "ar": "500"
+            },
+            "tank-length-mm": {
+              "en": "4500",
+              "ar": "4500"
+            },
+            "spiral-speed-r-min": {
+              "en": "8.5–15.5",
+              "ar": "⁦8.5–15.5⁩"
+            },
+            "sand-return-t-d": {
+              "en": "143–261",
+              "ar": "⁦143–261⁩"
+            },
+            "drive-kw": {
+              "en": "1.1",
+              "ar": "⁦1.1⁩"
+            },
+            "weight-t": {
+              "en": "1.6",
+              "ar": "⁦1.6⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1.1 kW",
+        "ar": "⁦1.1⁩ كيلوواط"
+      },
+      "intro": {
+        "en": "Tank 4500 × 555 mm.",
+        "ar": "الحوض ⁦4500 × 555⁩ مم."
+      }
+    }
+  ]
+}

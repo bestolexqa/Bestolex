@@ -110,6 +110,11 @@ F['single-cylinder-cone-crushers'] = family('single-cylinder-cone-crushers', CAT
 F['symons-spring-cone-crushers'] = family('symons-spring-cone-crushers', CAT, [
     auto(9, 0, 'cs', ('CS cone crushers (coarse, medium or fine cavity)', 'كسارات مخروطية CS (تجويف خشن أو متوسط أو ناعم)'), ('27–1814 t/h', '27–1814 طن/ساعة')),
     auto(9, 1, 'py', ('PY spring cone crushers (B coarse, Z medium, D fine)', 'كسارات مخروطية نابضية PY (B خشن، Z متوسط، D ناعم)'), ('5–1000 t/h', '5–1000 طن/ساعة')),
+    # p32 (additional sizes)
+    table('cs-additional', ('CS cone crushers – additional sizes', 'كسارات مخروطية CS – مقاسات إضافية'), ('', ''), SERIES,
+          [('BX-0018-03-005', 'CS cone crusher (coarse, medium or fine cavity)', 'كسارة مخروطية CS (تجويف خشن أو متوسط أو ناعم)', 'CS130, CS200, CS240',
+            ('Series range 27–725 t/h; max. feed 41–267 mm; 75–250 kW', 'نطاق السلسلة 27–725 طن/ساعة؛ أقصى تغذية 41–267 مم؛ 75–250 كيلوواط'))],
+          unit={'ar': ['بند واحد', 'بندان', 'بنود'], 'en': ['line', 'lines']}),
 ], type_label=('Series', 'السلسلة'))
 
 # p10 GP & HPS ------------------------------------------------------------------------------------------------

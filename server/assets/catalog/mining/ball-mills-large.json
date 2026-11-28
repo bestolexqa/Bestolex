@@ -1,0 +1,2196 @@
+{
+  "id": "ball-mills-large",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "shell-dia-mm",
+      "label": {
+        "en": "Shell Ø (mm)",
+        "ar": "قطر الأسطوانة (مم)"
+      }
+    },
+    {
+      "key": "shell-length-mm",
+      "label": {
+        "en": "Shell length (mm)",
+        "ar": "طول الأسطوانة (مم)"
+      }
+    },
+    {
+      "key": "speed-r-min",
+      "label": {
+        "en": "Speed (r/min)",
+        "ar": "السرعة (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "effective-volume-m3",
+      "label": {
+        "en": "Effective volume (m³)",
+        "ar": "الحجم الفعّال (م³)"
+      }
+    },
+    {
+      "key": "ball-load-t",
+      "label": {
+        "en": "Ball load (t)",
+        "ar": "حمولة الكرات (طن)"
+      }
+    },
+    {
+      "key": "power-kw",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "feed-size-mm",
+      "label": {
+        "en": "Feed size (mm)",
+        "ar": "حجم التغذية (مم)"
+      }
+    },
+    {
+      "key": "discharge-size-mm",
+      "label": {
+        "en": "Discharge size (mm)",
+        "ar": "حجم التفريغ (مم)"
+      }
+    },
+    {
+      "key": "capacity-t-h",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "weight-t",
+      "label": {
+        "en": "Weight (t)",
+        "ar": "الوزن (طن)"
+      }
+    }
+  ],
+  "keyRows": [
+    "shell-dia-mm",
+    "shell-length-mm",
+    "speed-r-min"
+  ],
+  "types": [
+    {
+      "id": "mqs",
+      "label": {
+        "en": "MQS wet grate-discharge ball mills",
+        "ar": "طواحين كروية رطبة بتفريغ شبكي ⁦MQS⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0014-01-009 / MQS1518",
+          "name": {
+            "en": "MQS1518",
+            "ar": "MQS1518"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "1500",
+              "ar": "1500"
+            },
+            "shell-length-mm": {
+              "en": "1800",
+              "ar": "1800"
+            },
+            "speed-r-min": {
+              "en": "27.4",
+              "ar": "⁦27.4⁩"
+            },
+            "effective-volume-m3": {
+              "en": "2.7",
+              "ar": "⁦2.7⁩"
+            },
+            "ball-load-t": {
+              "en": "5",
+              "ar": "5"
+            },
+            "power-kw": {
+              "en": "60",
+              "ar": "60"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-009 / MQS2136",
+          "name": {
+            "en": "MQS2136",
+            "ar": "MQS2136"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "2100",
+              "ar": "2100"
+            },
+            "shell-length-mm": {
+              "en": "3600",
+              "ar": "3600"
+            },
+            "speed-r-min": {
+              "en": "23.7",
+              "ar": "⁦23.7⁩"
+            },
+            "effective-volume-m3": {
+              "en": "10.9",
+              "ar": "⁦10.9⁩"
+            },
+            "ball-load-t": {
+              "en": "19.6",
+              "ar": "⁦19.6⁩"
+            },
+            "power-kw": {
+              "en": "280",
+              "ar": "280"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-009 / MQS2436",
+          "name": {
+            "en": "MQS2436",
+            "ar": "MQS2436"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "2400",
+              "ar": "2400"
+            },
+            "shell-length-mm": {
+              "en": "3600",
+              "ar": "3600"
+            },
+            "speed-r-min": {
+              "en": "21.3",
+              "ar": "⁦21.3⁩"
+            },
+            "effective-volume-m3": {
+              "en": "14.4",
+              "ar": "⁦14.4⁩"
+            },
+            "ball-load-t": {
+              "en": "23.9",
+              "ar": "⁦23.9⁩"
+            },
+            "power-kw": {
+              "en": "315",
+              "ar": "315"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-009 / MQS2736",
+          "name": {
+            "en": "MQS2736",
+            "ar": "MQS2736"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "2700",
+              "ar": "2700"
+            },
+            "shell-length-mm": {
+              "en": "3600",
+              "ar": "3600"
+            },
+            "speed-r-min": {
+              "en": "20.5",
+              "ar": "⁦20.5⁩"
+            },
+            "effective-volume-m3": {
+              "en": "18.4",
+              "ar": "⁦18.4⁩"
+            },
+            "ball-load-t": {
+              "en": "31.4",
+              "ar": "⁦31.4⁩"
+            },
+            "power-kw": {
+              "en": "450",
+              "ar": "450"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-009 / MQS2745",
+          "name": {
+            "en": "MQS2745",
+            "ar": "MQS2745"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "2700",
+              "ar": "2700"
+            },
+            "shell-length-mm": {
+              "en": "4500",
+              "ar": "4500"
+            },
+            "speed-r-min": {
+              "en": "20.5",
+              "ar": "⁦20.5⁩"
+            },
+            "effective-volume-m3": {
+              "en": "23.0",
+              "ar": "⁦23.0⁩"
+            },
+            "ball-load-t": {
+              "en": "40.2",
+              "ar": "⁦40.2⁩"
+            },
+            "power-kw": {
+              "en": "560",
+              "ar": "560"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-009 / MQS3236",
+          "name": {
+            "en": "MQS3236",
+            "ar": "MQS3236"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "3200",
+              "ar": "3200"
+            },
+            "shell-length-mm": {
+              "en": "3600",
+              "ar": "3600"
+            },
+            "speed-r-min": {
+              "en": "18.4",
+              "ar": "⁦18.4⁩"
+            },
+            "effective-volume-m3": {
+              "en": "26.1",
+              "ar": "⁦26.1⁩"
+            },
+            "ball-load-t": {
+              "en": "43.4",
+              "ar": "⁦43.4⁩"
+            },
+            "power-kw": {
+              "en": "630",
+              "ar": "630"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-009 / MQS3245",
+          "name": {
+            "en": "MQS3245",
+            "ar": "MQS3245"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "3200",
+              "ar": "3200"
+            },
+            "shell-length-mm": {
+              "en": "4500",
+              "ar": "4500"
+            },
+            "speed-r-min": {
+              "en": "18.4",
+              "ar": "⁦18.4⁩"
+            },
+            "effective-volume-m3": {
+              "en": "32.7",
+              "ar": "⁦32.7⁩"
+            },
+            "ball-load-t": {
+              "en": "54.1",
+              "ar": "⁦54.1⁩"
+            },
+            "power-kw": {
+              "en": "710",
+              "ar": "710"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-009 / MQS3645",
+          "name": {
+            "en": "MQS3645",
+            "ar": "MQS3645"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "3600",
+              "ar": "3600"
+            },
+            "shell-length-mm": {
+              "en": "4500",
+              "ar": "4500"
+            },
+            "speed-r-min": {
+              "en": "17.2",
+              "ar": "⁦17.2⁩"
+            },
+            "effective-volume-m3": {
+              "en": "41.5",
+              "ar": "⁦41.5⁩"
+            },
+            "ball-load-t": {
+              "en": "68.9",
+              "ar": "⁦68.9⁩"
+            },
+            "power-kw": {
+              "en": "1250",
+              "ar": "1250"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-009 / MQS3660",
+          "name": {
+            "en": "MQS3660",
+            "ar": "MQS3660"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "3600",
+              "ar": "3600"
+            },
+            "shell-length-mm": {
+              "en": "6000",
+              "ar": "6000"
+            },
+            "speed-r-min": {
+              "en": "17.2",
+              "ar": "⁦17.2⁩"
+            },
+            "effective-volume-m3": {
+              "en": "55.3",
+              "ar": "⁦55.3⁩"
+            },
+            "ball-load-t": {
+              "en": "93.9",
+              "ar": "⁦93.9⁩"
+            },
+            "power-kw": {
+              "en": "1600",
+              "ar": "1600"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-009 / MQS4060",
+          "name": {
+            "en": "MQS4060",
+            "ar": "MQS4060"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "4000",
+              "ar": "4000"
+            },
+            "shell-length-mm": {
+              "en": "6000",
+              "ar": "6000"
+            },
+            "speed-r-min": {
+              "en": "16.8",
+              "ar": "⁦16.8⁩"
+            },
+            "effective-volume-m3": {
+              "en": "68.9",
+              "ar": "⁦68.9⁩"
+            },
+            "ball-load-t": {
+              "en": "121.2",
+              "ar": "⁦121.2⁩"
+            },
+            "power-kw": {
+              "en": "1900",
+              "ar": "1900"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-009 / MQS4568",
+          "name": {
+            "en": "MQS4568",
+            "ar": "MQS4568"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "4500",
+              "ar": "4500"
+            },
+            "shell-length-mm": {
+              "en": "6800",
+              "ar": "6800"
+            },
+            "speed-r-min": {
+              "en": "15.3",
+              "ar": "⁦15.3⁩"
+            },
+            "effective-volume-m3": {
+              "en": "99.9",
+              "ar": "⁦99.9⁩"
+            },
+            "ball-load-t": {
+              "en": "180.6",
+              "ar": "⁦180.6⁩"
+            },
+            "power-kw": {
+              "en": "2700",
+              "ar": "2700"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-009 / MQS5064",
+          "name": {
+            "en": "MQS5064",
+            "ar": "MQS5064"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "5030",
+              "ar": "5030"
+            },
+            "shell-length-mm": {
+              "en": "6400",
+              "ar": "6400"
+            },
+            "speed-r-min": {
+              "en": "14.4",
+              "ar": "⁦14.4⁩"
+            },
+            "effective-volume-m3": {
+              "en": "116.1",
+              "ar": "⁦116.1⁩"
+            },
+            "ball-load-t": {
+              "en": "205.7",
+              "ar": "⁦205.7⁩"
+            },
+            "power-kw": {
+              "en": "3200",
+              "ar": "3200"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-009 / MQS5592",
+          "name": {
+            "en": "MQS5592",
+            "ar": "MQS5592"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "5500",
+              "ar": "5500"
+            },
+            "shell-length-mm": {
+              "en": "9200",
+              "ar": "9200"
+            },
+            "speed-r-min": {
+              "en": "13.7",
+              "ar": "⁦13.7⁩"
+            },
+            "effective-volume-m3": {
+              "en": "201.1",
+              "ar": "⁦201.1⁩"
+            },
+            "ball-load-t": {
+              "en": "359.3",
+              "ar": "⁦359.3⁩"
+            },
+            "power-kw": {
+              "en": "5800",
+              "ar": "5800"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "60–5800 kW",
+        "ar": "⁦60⁠–⁠5800⁩ كيلوواط"
+      },
+      "keyRows": [
+        "shell-dia-mm",
+        "effective-volume-m3",
+        "power-kw"
+      ]
+    },
+    {
+      "id": "mqy",
+      "label": {
+        "en": "MQY overflow ball mills",
+        "ar": "طواحين كروية بتفريغ الفيضان ⁦MQY⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0014-01-010 / MQY1224",
+          "name": {
+            "en": "MQY1224",
+            "ar": "MQY1224"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "1200",
+              "ar": "1200"
+            },
+            "shell-length-mm": {
+              "en": "2400",
+              "ar": "2400"
+            },
+            "speed-r-min": {
+              "en": "31.3",
+              "ar": "⁦31.3⁩"
+            },
+            "effective-volume-m3": {
+              "en": "2.4",
+              "ar": "⁦2.4⁩"
+            },
+            "ball-load-t": {
+              "en": "4.8",
+              "ar": "⁦4.8⁩"
+            },
+            "power-kw": {
+              "en": "55",
+              "ar": "55"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY1530",
+          "name": {
+            "en": "MQY1530",
+            "ar": "MQY1530"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "1500",
+              "ar": "1500"
+            },
+            "shell-length-mm": {
+              "en": "3000",
+              "ar": "3000"
+            },
+            "speed-r-min": {
+              "en": "27.4",
+              "ar": "⁦27.4⁩"
+            },
+            "effective-volume-m3": {
+              "en": "4.5",
+              "ar": "⁦4.5⁩"
+            },
+            "ball-load-t": {
+              "en": "8.3",
+              "ar": "⁦8.3⁩"
+            },
+            "power-kw": {
+              "en": "75",
+              "ar": "75"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY1830",
+          "name": {
+            "en": "MQY1830",
+            "ar": "MQY1830"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "1800",
+              "ar": "1800"
+            },
+            "shell-length-mm": {
+              "en": "3000",
+              "ar": "3000"
+            },
+            "speed-r-min": {
+              "en": "23.5",
+              "ar": "⁦23.5⁩"
+            },
+            "effective-volume-m3": {
+              "en": "5.1",
+              "ar": "⁦5.1⁩"
+            },
+            "ball-load-t": {
+              "en": "14",
+              "ar": "14"
+            },
+            "power-kw": {
+              "en": "132",
+              "ar": "132"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY2136",
+          "name": {
+            "en": "MQY2136",
+            "ar": "MQY2136"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "2100",
+              "ar": "2100"
+            },
+            "shell-length-mm": {
+              "en": "3600",
+              "ar": "3600"
+            },
+            "speed-r-min": {
+              "en": "23.7",
+              "ar": "⁦23.7⁩"
+            },
+            "effective-volume-m3": {
+              "en": "10.9",
+              "ar": "⁦10.9⁩"
+            },
+            "ball-load-t": {
+              "en": "19.7",
+              "ar": "⁦19.7⁩"
+            },
+            "power-kw": {
+              "en": "220",
+              "ar": "220"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY2436",
+          "name": {
+            "en": "MQY2436",
+            "ar": "MQY2436"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "2400",
+              "ar": "2400"
+            },
+            "shell-length-mm": {
+              "en": "3600",
+              "ar": "3600"
+            },
+            "speed-r-min": {
+              "en": "21.3",
+              "ar": "⁦21.3⁩"
+            },
+            "effective-volume-m3": {
+              "en": "14.4",
+              "ar": "⁦14.4⁩"
+            },
+            "ball-load-t": {
+              "en": "24.2",
+              "ar": "⁦24.2⁩"
+            },
+            "power-kw": {
+              "en": "280",
+              "ar": "280"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY2736",
+          "name": {
+            "en": "MQY2736",
+            "ar": "MQY2736"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "2700",
+              "ar": "2700"
+            },
+            "shell-length-mm": {
+              "en": "3600",
+              "ar": "3600"
+            },
+            "speed-r-min": {
+              "en": "20.5",
+              "ar": "⁦20.5⁩"
+            },
+            "effective-volume-m3": {
+              "en": "18.4",
+              "ar": "⁦18.4⁩"
+            },
+            "ball-load-t": {
+              "en": "31.9",
+              "ar": "⁦31.9⁩"
+            },
+            "power-kw": {
+              "en": "355",
+              "ar": "355"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY2745",
+          "name": {
+            "en": "MQY2745",
+            "ar": "MQY2745"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "2700",
+              "ar": "2700"
+            },
+            "shell-length-mm": {
+              "en": "4500",
+              "ar": "4500"
+            },
+            "speed-r-min": {
+              "en": "20.5",
+              "ar": "⁦20.5⁩"
+            },
+            "effective-volume-m3": {
+              "en": "23.0",
+              "ar": "⁦23.0⁩"
+            },
+            "ball-load-t": {
+              "en": "40.7",
+              "ar": "⁦40.7⁩"
+            },
+            "power-kw": {
+              "en": "450",
+              "ar": "450"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY3236",
+          "name": {
+            "en": "MQY3236",
+            "ar": "MQY3236"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "3200",
+              "ar": "3200"
+            },
+            "shell-length-mm": {
+              "en": "3600",
+              "ar": "3600"
+            },
+            "speed-r-min": {
+              "en": "18.4",
+              "ar": "⁦18.4⁩"
+            },
+            "effective-volume-m3": {
+              "en": "26.1",
+              "ar": "⁦26.1⁩"
+            },
+            "ball-load-t": {
+              "en": "44.4",
+              "ar": "⁦44.4⁩"
+            },
+            "power-kw": {
+              "en": "560",
+              "ar": "560"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY3245",
+          "name": {
+            "en": "MQY3245",
+            "ar": "MQY3245"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "3200",
+              "ar": "3200"
+            },
+            "shell-length-mm": {
+              "en": "4500",
+              "ar": "4500"
+            },
+            "speed-r-min": {
+              "en": "18.4",
+              "ar": "⁦18.4⁩"
+            },
+            "effective-volume-m3": {
+              "en": "32.7",
+              "ar": "⁦32.7⁩"
+            },
+            "ball-load-t": {
+              "en": "55",
+              "ar": "55"
+            },
+            "power-kw": {
+              "en": "630",
+              "ar": "630"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY3260",
+          "name": {
+            "en": "MQY3260",
+            "ar": "MQY3260"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "3200",
+              "ar": "3200"
+            },
+            "shell-length-mm": {
+              "en": "6000",
+              "ar": "6000"
+            },
+            "speed-r-min": {
+              "en": "18.4",
+              "ar": "⁦18.4⁩"
+            },
+            "effective-volume-m3": {
+              "en": "43.6",
+              "ar": "⁦43.6⁩"
+            },
+            "ball-load-t": {
+              "en": "74.8",
+              "ar": "⁦74.8⁩"
+            },
+            "power-kw": {
+              "en": "1000",
+              "ar": "1000"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY3645",
+          "name": {
+            "en": "MQY3645",
+            "ar": "MQY3645"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "3600",
+              "ar": "3600"
+            },
+            "shell-length-mm": {
+              "en": "4500",
+              "ar": "4500"
+            },
+            "speed-r-min": {
+              "en": "17.2",
+              "ar": "⁦17.2⁩"
+            },
+            "effective-volume-m3": {
+              "en": "41.5",
+              "ar": "⁦41.5⁩"
+            },
+            "ball-load-t": {
+              "en": "70.1",
+              "ar": "⁦70.1⁩"
+            },
+            "power-kw": {
+              "en": "1000",
+              "ar": "1000"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY3660",
+          "name": {
+            "en": "MQY3660",
+            "ar": "MQY3660"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "3600",
+              "ar": "3600"
+            },
+            "shell-length-mm": {
+              "en": "6000",
+              "ar": "6000"
+            },
+            "speed-r-min": {
+              "en": "17.2",
+              "ar": "⁦17.2⁩"
+            },
+            "effective-volume-m3": {
+              "en": "55.3",
+              "ar": "⁦55.3⁩"
+            },
+            "ball-load-t": {
+              "en": "95.2",
+              "ar": "⁦95.2⁩"
+            },
+            "power-kw": {
+              "en": "1250",
+              "ar": "1250"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY4060",
+          "name": {
+            "en": "MQY4060",
+            "ar": "MQY4060"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "4000",
+              "ar": "4000"
+            },
+            "shell-length-mm": {
+              "en": "6000",
+              "ar": "6000"
+            },
+            "speed-r-min": {
+              "en": "16.8",
+              "ar": "⁦16.8⁩"
+            },
+            "effective-volume-m3": {
+              "en": "68.9",
+              "ar": "⁦68.9⁩"
+            },
+            "ball-load-t": {
+              "en": "121.2",
+              "ar": "⁦121.2⁩"
+            },
+            "power-kw": {
+              "en": "1600",
+              "ar": "1600"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY4360",
+          "name": {
+            "en": "MQY4360",
+            "ar": "MQY4360"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "4300",
+              "ar": "4300"
+            },
+            "shell-length-mm": {
+              "en": "6000",
+              "ar": "6000"
+            },
+            "speed-r-min": {
+              "en": "15.7",
+              "ar": "⁦15.7⁩"
+            },
+            "effective-volume-m3": {
+              "en": "80.8",
+              "ar": "⁦80.8⁩"
+            },
+            "ball-load-t": {
+              "en": "140.1",
+              "ar": "⁦140.1⁩"
+            },
+            "power-kw": {
+              "en": "1800",
+              "ar": "1800"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY4375",
+          "name": {
+            "en": "MQY4375",
+            "ar": "MQY4375"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "4300",
+              "ar": "4300"
+            },
+            "shell-length-mm": {
+              "en": "7500",
+              "ar": "7500"
+            },
+            "speed-r-min": {
+              "en": "15.7",
+              "ar": "⁦15.7⁩"
+            },
+            "effective-volume-m3": {
+              "en": "101",
+              "ar": "101"
+            },
+            "ball-load-t": {
+              "en": "181.2",
+              "ar": "⁦181.2⁩"
+            },
+            "power-kw": {
+              "en": "2300",
+              "ar": "2300"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY4560",
+          "name": {
+            "en": "MQY4560",
+            "ar": "MQY4560"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "4500",
+              "ar": "4500"
+            },
+            "shell-length-mm": {
+              "en": "6000",
+              "ar": "6000"
+            },
+            "speed-r-min": {
+              "en": "15.3",
+              "ar": "⁦15.3⁩"
+            },
+            "effective-volume-m3": {
+              "en": "88.1",
+              "ar": "⁦88.1⁩"
+            },
+            "ball-load-t": {
+              "en": "160.4",
+              "ar": "⁦160.4⁩"
+            },
+            "power-kw": {
+              "en": "2100",
+              "ar": "2100"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY4575",
+          "name": {
+            "en": "MQY4575",
+            "ar": "MQY4575"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "4500",
+              "ar": "4500"
+            },
+            "shell-length-mm": {
+              "en": "7500",
+              "ar": "7500"
+            },
+            "speed-r-min": {
+              "en": "15.3",
+              "ar": "⁦15.3⁩"
+            },
+            "effective-volume-m3": {
+              "en": "110.2",
+              "ar": "⁦110.2⁩"
+            },
+            "ball-load-t": {
+              "en": "203.6",
+              "ar": "⁦203.6⁩"
+            },
+            "power-kw": {
+              "en": "2600",
+              "ar": "2600"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY5064",
+          "name": {
+            "en": "MQY5064",
+            "ar": "MQY5064"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "5030",
+              "ar": "5030"
+            },
+            "shell-length-mm": {
+              "en": "6400",
+              "ar": "6400"
+            },
+            "speed-r-min": {
+              "en": "14.4",
+              "ar": "⁦14.4⁩"
+            },
+            "effective-volume-m3": {
+              "en": "116.1",
+              "ar": "⁦116.1⁩"
+            },
+            "ball-load-t": {
+              "en": "205.7",
+              "ar": "⁦205.7⁩"
+            },
+            "power-kw": {
+              "en": "2800",
+              "ar": "2800"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY5083",
+          "name": {
+            "en": "MQY5083",
+            "ar": "MQY5083"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "5030",
+              "ar": "5030"
+            },
+            "shell-length-mm": {
+              "en": "8300",
+              "ar": "8300"
+            },
+            "speed-r-min": {
+              "en": "14.4",
+              "ar": "⁦14.4⁩"
+            },
+            "effective-volume-m3": {
+              "en": "150.5",
+              "ar": "⁦150.5⁩"
+            },
+            "ball-load-t": {
+              "en": "263.3",
+              "ar": "⁦263.3⁩"
+            },
+            "power-kw": {
+              "en": "3600",
+              "ar": "3600"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY5570",
+          "name": {
+            "en": "MQY5570",
+            "ar": "MQY5570"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "5500",
+              "ar": "5500"
+            },
+            "shell-length-mm": {
+              "en": "7000",
+              "ar": "7000"
+            },
+            "speed-r-min": {
+              "en": "13.7",
+              "ar": "⁦13.7⁩"
+            },
+            "effective-volume-m3": {
+              "en": "153",
+              "ar": "153"
+            },
+            "ball-load-t": {
+              "en": "279",
+              "ar": "279"
+            },
+            "power-kw": {
+              "en": "3900",
+              "ar": "3900"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY5585",
+          "name": {
+            "en": "MQY5585",
+            "ar": "MQY5585"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "5500",
+              "ar": "5500"
+            },
+            "shell-length-mm": {
+              "en": "8500",
+              "ar": "8500"
+            },
+            "speed-r-min": {
+              "en": "13.7",
+              "ar": "⁦13.7⁩"
+            },
+            "effective-volume-m3": {
+              "en": "185.8",
+              "ar": "⁦185.8⁩"
+            },
+            "ball-load-t": {
+              "en": "333.7",
+              "ar": "⁦333.7⁩"
+            },
+            "power-kw": {
+              "en": "4700",
+              "ar": "4700"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-010 / MQY6095",
+          "name": {
+            "en": "MQY6095",
+            "ar": "MQY6095"
+          },
+          "specs": {
+            "shell-dia-mm": {
+              "en": "6000",
+              "ar": "6000"
+            },
+            "shell-length-mm": {
+              "en": "9500",
+              "ar": "9500"
+            },
+            "speed-r-min": {
+              "en": "13.1",
+              "ar": "⁦13.1⁩"
+            },
+            "effective-volume-m3": {
+              "en": "249.7",
+              "ar": "⁦249.7⁩"
+            },
+            "ball-load-t": {
+              "en": "374.2",
+              "ar": "⁦374.2⁩"
+            },
+            "power-kw": {
+              "en": "6000",
+              "ar": "6000"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "55–6000 kW",
+        "ar": "⁦55⁠–⁠6000⁩ كيلوواط"
+      },
+      "keyRows": [
+        "shell-dia-mm",
+        "effective-volume-m3",
+        "power-kw"
+      ]
+    },
+    {
+      "id": "mqg",
+      "label": {
+        "en": "MQG grate-discharge ball mills – additional sizes",
+        "ar": "طواحين كروية بتفريغ شبكي ⁦MQG⁩ – مقاسات إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0033-01-009 / MQG600×1800",
+          "name": {
+            "en": "MQG600×1800",
+            "ar": "⁦MQG600×1800⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "45.5",
+              "ar": "⁦45.5⁩"
+            },
+            "ball-load-t": {
+              "en": "0.5",
+              "ar": "⁦0.5⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 10",
+              "ar": "⁦≤ 10⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.5",
+              "ar": "⁦0.074–0.5⁩"
+            },
+            "capacity-t-h": {
+              "en": "≤ 0.5",
+              "ar": "⁦≤ 0.5⁩"
+            },
+            "power-kw": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            },
+            "weight-t": {
+              "en": "2.5",
+              "ar": "⁦2.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG900×1800",
+          "name": {
+            "en": "MQG900×1800",
+            "ar": "⁦MQG900×1800⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "38",
+              "ar": "38"
+            },
+            "ball-load-t": {
+              "en": "1.8",
+              "ar": "⁦1.8⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.6",
+              "ar": "⁦0.074–0.6⁩"
+            },
+            "capacity-t-h": {
+              "en": "0.8–1",
+              "ar": "⁦0.8–1⁩"
+            },
+            "power-kw": {
+              "en": "15",
+              "ar": "15"
+            },
+            "weight-t": {
+              "en": "2.8",
+              "ar": "⁦2.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG900×3000",
+          "name": {
+            "en": "MQG900×3000",
+            "ar": "⁦MQG900×3000⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "37.4",
+              "ar": "⁦37.4⁩"
+            },
+            "ball-load-t": {
+              "en": "2.7",
+              "ar": "⁦2.7⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.3",
+              "ar": "⁦0.074–0.3⁩"
+            },
+            "capacity-t-h": {
+              "en": "0.8–1.5",
+              "ar": "⁦0.8–1.5⁩"
+            },
+            "power-kw": {
+              "en": "22",
+              "ar": "22"
+            },
+            "weight-t": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG1200×2400",
+          "name": {
+            "en": "MQG1200×2400",
+            "ar": "⁦MQG1200×2400⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "32",
+              "ar": "32"
+            },
+            "ball-load-t": {
+              "en": "4.8",
+              "ar": "⁦4.8⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 20",
+              "ar": "⁦≤ 20⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.6",
+              "ar": "⁦0.074–0.6⁩"
+            },
+            "capacity-t-h": {
+              "en": "1.5–2",
+              "ar": "⁦1.5–2⁩"
+            },
+            "power-kw": {
+              "en": "30",
+              "ar": "30"
+            },
+            "weight-t": {
+              "en": "11.8",
+              "ar": "⁦11.8⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG1200×4500",
+          "name": {
+            "en": "MQG1200×4500",
+            "ar": "⁦MQG1200×4500⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "30",
+              "ar": "30"
+            },
+            "ball-load-t": {
+              "en": "5.2",
+              "ar": "⁦5.2⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.6",
+              "ar": "⁦0.074–0.6⁩"
+            },
+            "capacity-t-h": {
+              "en": "1.5–6",
+              "ar": "⁦1.5–6⁩"
+            },
+            "power-kw": {
+              "en": "45",
+              "ar": "45"
+            },
+            "weight-t": {
+              "en": "13.5",
+              "ar": "⁦13.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG1300×4000",
+          "name": {
+            "en": "MQG1300×4000",
+            "ar": "⁦MQG1300×4000⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "36",
+              "ar": "36"
+            },
+            "ball-load-t": {
+              "en": "5.8",
+              "ar": "⁦5.8⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.4",
+              "ar": "⁦0.074–0.4⁩"
+            },
+            "capacity-t-h": {
+              "en": "2–6",
+              "ar": "⁦2–6⁩"
+            },
+            "power-kw": {
+              "en": "45",
+              "ar": "45"
+            },
+            "weight-t": {
+              "en": "16.7",
+              "ar": "⁦16.7⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG1500×3500",
+          "name": {
+            "en": "MQG1500×3500",
+            "ar": "⁦MQG1500×3500⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "28.8",
+              "ar": "⁦28.8⁩"
+            },
+            "ball-load-t": {
+              "en": "8.3",
+              "ar": "⁦8.3⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.6",
+              "ar": "⁦0.074–0.6⁩"
+            },
+            "capacity-t-h": {
+              "en": "3–5",
+              "ar": "⁦3–5⁩"
+            },
+            "power-kw": {
+              "en": "75",
+              "ar": "75"
+            },
+            "weight-t": {
+              "en": "17.6",
+              "ar": "⁦17.6⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG1500×4500",
+          "name": {
+            "en": "MQG1500×4500",
+            "ar": "⁦MQG1500×4500⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "28.8",
+              "ar": "⁦28.8⁩"
+            },
+            "ball-load-t": {
+              "en": "10",
+              "ar": "10"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.4",
+              "ar": "⁦0.074–0.4⁩"
+            },
+            "capacity-t-h": {
+              "en": "3–6",
+              "ar": "⁦3–6⁩"
+            },
+            "power-kw": {
+              "en": "110",
+              "ar": "110"
+            },
+            "weight-t": {
+              "en": "22",
+              "ar": "22"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG1500×5700",
+          "name": {
+            "en": "MQG1500×5700",
+            "ar": "⁦MQG1500×5700⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "28.8",
+              "ar": "⁦28.8⁩"
+            },
+            "ball-load-t": {
+              "en": "12",
+              "ar": "12"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.4",
+              "ar": "⁦0.074–0.4⁩"
+            },
+            "capacity-t-h": {
+              "en": "3–8",
+              "ar": "⁦3–8⁩"
+            },
+            "power-kw": {
+              "en": "110",
+              "ar": "110"
+            },
+            "weight-t": {
+              "en": "26",
+              "ar": "26"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG1500×6400",
+          "name": {
+            "en": "MQG1500×6400",
+            "ar": "⁦MQG1500×6400⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "28.8",
+              "ar": "⁦28.8⁩"
+            },
+            "ball-load-t": {
+              "en": "13",
+              "ar": "13"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.4",
+              "ar": "⁦0.074–0.4⁩"
+            },
+            "capacity-t-h": {
+              "en": "3–9",
+              "ar": "⁦3–9⁩"
+            },
+            "power-kw": {
+              "en": "130",
+              "ar": "130"
+            },
+            "weight-t": {
+              "en": "29",
+              "ar": "29"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG1830×3600",
+          "name": {
+            "en": "MQG1830×3600",
+            "ar": "⁦MQG1830×3600⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "24.5",
+              "ar": "⁦24.5⁩"
+            },
+            "ball-load-t": {
+              "en": "12",
+              "ar": "12"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.4",
+              "ar": "⁦0.074–0.4⁩"
+            },
+            "capacity-t-h": {
+              "en": "4–20",
+              "ar": "⁦4–20⁩"
+            },
+            "power-kw": {
+              "en": "130",
+              "ar": "130"
+            },
+            "weight-t": {
+              "en": "31",
+              "ar": "31"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG1830×5400",
+          "name": {
+            "en": "MQG1830×5400",
+            "ar": "⁦MQG1830×5400⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "24.5",
+              "ar": "⁦24.5⁩"
+            },
+            "ball-load-t": {
+              "en": "15",
+              "ar": "15"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.4",
+              "ar": "⁦0.074–0.4⁩"
+            },
+            "capacity-t-h": {
+              "en": "5–25",
+              "ar": "⁦5–25⁩"
+            },
+            "power-kw": {
+              "en": "210",
+              "ar": "210"
+            },
+            "weight-t": {
+              "en": "33",
+              "ar": "33"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG1830×6400",
+          "name": {
+            "en": "MQG1830×6400",
+            "ar": "⁦MQG1830×6400⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "24.5",
+              "ar": "⁦24.5⁩"
+            },
+            "ball-load-t": {
+              "en": "19",
+              "ar": "19"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.4",
+              "ar": "⁦0.074–0.4⁩"
+            },
+            "capacity-t-h": {
+              "en": "6–35",
+              "ar": "⁦6–35⁩"
+            },
+            "power-kw": {
+              "en": "210",
+              "ar": "210"
+            },
+            "weight-t": {
+              "en": "36.5",
+              "ar": "⁦36.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG1830×7000",
+          "name": {
+            "en": "MQG1830×7000",
+            "ar": "⁦MQG1830×7000⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "24.5",
+              "ar": "⁦24.5⁩"
+            },
+            "ball-load-t": {
+              "en": "20",
+              "ar": "20"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.4",
+              "ar": "⁦0.074–0.4⁩"
+            },
+            "capacity-t-h": {
+              "en": "8–40",
+              "ar": "⁦8–40⁩"
+            },
+            "power-kw": {
+              "en": "245",
+              "ar": "245"
+            },
+            "weight-t": {
+              "en": "39.6",
+              "ar": "⁦39.6⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG2200×3600",
+          "name": {
+            "en": "MQG2200×3600",
+            "ar": "⁦MQG2200×3600⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "21.8",
+              "ar": "⁦21.8⁩"
+            },
+            "ball-load-t": {
+              "en": "22",
+              "ar": "22"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.8",
+              "ar": "⁦0.074–0.8⁩"
+            },
+            "capacity-t-h": {
+              "en": "8–35",
+              "ar": "⁦8–35⁩"
+            },
+            "power-kw": {
+              "en": "245",
+              "ar": "245"
+            },
+            "weight-t": {
+              "en": "47",
+              "ar": "47"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG2200×7500",
+          "name": {
+            "en": "MQG2200×7500",
+            "ar": "⁦MQG2200×7500⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "21.8",
+              "ar": "⁦21.8⁩"
+            },
+            "ball-load-t": {
+              "en": "35",
+              "ar": "35"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.6",
+              "ar": "⁦0.074–0.6⁩"
+            },
+            "capacity-t-h": {
+              "en": "10–40",
+              "ar": "⁦10–40⁩"
+            },
+            "power-kw": {
+              "en": "380",
+              "ar": "380"
+            },
+            "weight-t": {
+              "en": "68",
+              "ar": "68"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG2200×9000",
+          "name": {
+            "en": "MQG2200×9000",
+            "ar": "⁦MQG2200×9000⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "21.4",
+              "ar": "⁦21.4⁩"
+            },
+            "ball-load-t": {
+              "en": "36",
+              "ar": "36"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.6",
+              "ar": "⁦0.074–0.6⁩"
+            },
+            "capacity-t-h": {
+              "en": "8–16",
+              "ar": "⁦8–16⁩"
+            },
+            "power-kw": {
+              "en": "475",
+              "ar": "475"
+            },
+            "weight-t": {
+              "en": "76",
+              "ar": "76"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG2400×7000",
+          "name": {
+            "en": "MQG2400×7000",
+            "ar": "⁦MQG2400×7000⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "22.8",
+              "ar": "⁦22.8⁩"
+            },
+            "ball-load-t": {
+              "en": "36",
+              "ar": "36"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.6",
+              "ar": "⁦0.074–0.6⁩"
+            },
+            "capacity-t-h": {
+              "en": "10–45",
+              "ar": "⁦10–45⁩"
+            },
+            "power-kw": {
+              "en": "475",
+              "ar": "475"
+            },
+            "weight-t": {
+              "en": "79",
+              "ar": "79"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG2400×8000",
+          "name": {
+            "en": "MQG2400×8000",
+            "ar": "⁦MQG2400×8000⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "22.8",
+              "ar": "⁦22.8⁩"
+            },
+            "ball-load-t": {
+              "en": "42",
+              "ar": "42"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.6",
+              "ar": "⁦0.074–0.6⁩"
+            },
+            "capacity-t-h": {
+              "en": "10–50",
+              "ar": "⁦10–50⁩"
+            },
+            "power-kw": {
+              "en": "560",
+              "ar": "560"
+            },
+            "weight-t": {
+              "en": "85",
+              "ar": "85"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG2600×8000",
+          "name": {
+            "en": "MQG2600×8000",
+            "ar": "⁦MQG2600×8000⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "19.6",
+              "ar": "⁦19.6⁩"
+            },
+            "ball-load-t": {
+              "en": "52",
+              "ar": "52"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.6",
+              "ar": "⁦0.074–0.6⁩"
+            },
+            "capacity-t-h": {
+              "en": "16–20",
+              "ar": "⁦16–20⁩"
+            },
+            "power-kw": {
+              "en": "630",
+              "ar": "630"
+            },
+            "weight-t": {
+              "en": "97",
+              "ar": "97"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG3000×9000",
+          "name": {
+            "en": "MQG3000×9000",
+            "ar": "⁦MQG3000×9000⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "18.3",
+              "ar": "⁦18.3⁩"
+            },
+            "ball-load-t": {
+              "en": "78",
+              "ar": "78"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.6",
+              "ar": "⁦0.074–0.6⁩"
+            },
+            "capacity-t-h": {
+              "en": "20–25",
+              "ar": "⁦20–25⁩"
+            },
+            "power-kw": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "weight-t": {
+              "en": "152",
+              "ar": "152"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG3200×3000",
+          "name": {
+            "en": "MQG3200×3000",
+            "ar": "⁦MQG3200×3000⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "18.6",
+              "ar": "⁦18.6⁩"
+            },
+            "ball-load-t": {
+              "en": "46",
+              "ar": "46"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.4",
+              "ar": "⁦0.074–0.4⁩"
+            },
+            "capacity-t-h": {
+              "en": "15.5–30",
+              "ar": "⁦15.5–30⁩"
+            },
+            "power-kw": {
+              "en": "500",
+              "ar": "500"
+            },
+            "weight-t": {
+              "en": "112",
+              "ar": "112"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG3200×9000",
+          "name": {
+            "en": "MQG3200×9000",
+            "ar": "⁦MQG3200×9000⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "18.6",
+              "ar": "⁦18.6⁩"
+            },
+            "ball-load-t": {
+              "en": "85",
+              "ar": "85"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.6",
+              "ar": "⁦0.074–0.6⁩"
+            },
+            "capacity-t-h": {
+              "en": "25–50",
+              "ar": "⁦25–50⁩"
+            },
+            "power-kw": {
+              "en": "1250",
+              "ar": "1250"
+            },
+            "weight-t": {
+              "en": "185",
+              "ar": "185"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-009 / MQG4500×6000",
+          "name": {
+            "en": "MQG4500×6000",
+            "ar": "⁦MQG4500×6000⁩"
+          },
+          "specs": {
+            "speed-r-min": {
+              "en": "15.6",
+              "ar": "⁦15.6⁩"
+            },
+            "ball-load-t": {
+              "en": "180",
+              "ar": "180"
+            },
+            "feed-size-mm": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "discharge-size-mm": {
+              "en": "0.074–0.6",
+              "ar": "⁦0.074–0.6⁩"
+            },
+            "capacity-t-h": {
+              "en": "80–300",
+              "ar": "⁦80–300⁩"
+            },
+            "power-kw": {
+              "en": "2300",
+              "ar": "2300"
+            },
+            "weight-t": {
+              "en": "269.6",
+              "ar": "⁦269.6⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "0.5–300 t/h",
+        "ar": "⁦0.5⁠–⁠300⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "capacity-t-h",
+        "discharge-size-mm",
+        "power-kw"
+      ]
+    }
+  ]
+}

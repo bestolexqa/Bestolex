@@ -1,0 +1,1007 @@
+{
+  "id": "apron-reciprocating-feeders",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "plate-width-x-length-mm",
+      "label": {
+        "en": "Plate width × length (mm)",
+        "ar": "عرض الألواح × الطول (مم)"
+      }
+    },
+    {
+      "key": "speed-m-s",
+      "label": {
+        "en": "Speed (m/s)",
+        "ar": "السرعة (م/ث)"
+      }
+    },
+    {
+      "key": "feed-size-mm",
+      "label": {
+        "en": "Feed size (mm)",
+        "ar": "حجم التغذية (مم)"
+      }
+    },
+    {
+      "key": "capacity-m3-h",
+      "label": {
+        "en": "Capacity (m³/h)",
+        "ar": "الطاقة (م³/ساعة)"
+      }
+    },
+    {
+      "key": "motor-kw",
+      "label": {
+        "en": "Motor (kW)",
+        "ar": "المحرك (كيلوواط)"
+      }
+    },
+    {
+      "key": "weight-t",
+      "label": {
+        "en": "Weight (t)",
+        "ar": "الوزن (طن)"
+      }
+    },
+    {
+      "key": "outlet-w-x-h-mm",
+      "label": {
+        "en": "Outlet W × H (mm)",
+        "ar": "المخرج عرض × ارتفاع (مم)"
+      }
+    },
+    {
+      "key": "strokes-min",
+      "label": {
+        "en": "Strokes (/min)",
+        "ar": "عدد الأشواط (في الدقيقة)"
+      }
+    },
+    {
+      "key": "stroke-mm",
+      "label": {
+        "en": "Stroke (mm)",
+        "ar": "الشوط (مم)"
+      }
+    },
+    {
+      "key": "capacity-t-h",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "discharge-mm",
+      "label": {
+        "en": "Discharge (mm)",
+        "ar": "المخرج (مم)"
+      }
+    },
+    {
+      "key": "swing-r-min",
+      "label": {
+        "en": "Swing (r/min)",
+        "ar": "التأرجح (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "power-kw",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    }
+  ],
+  "keyRows": [
+    "plate-width-x-length-mm",
+    "speed-m-s",
+    "feed-size-mm"
+  ],
+  "types": [
+    {
+      "id": "gbz",
+      "label": {
+        "en": "GBZ heavy-duty apron feeders",
+        "ar": "مغذيات صفائحية ثقيلة ⁦GBZ⁩"
+      },
+      "models": [
+        {
+          "code": "BX-0014-01-012 / GBZ100-6",
+          "name": {
+            "en": "GBZ100-6",
+            "ar": "⁦GBZ100-6⁩"
+          },
+          "specs": {
+            "plate-width-x-length-mm": {
+              "en": "1000 × 6000",
+              "ar": "⁦1000 × 6000⁩"
+            },
+            "speed-m-s": {
+              "en": "0.016–0.05",
+              "ar": "⁦0.016–0.05⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 400",
+              "ar": "⁦≤ 400⁩"
+            },
+            "capacity-m3-h": {
+              "en": "16.6–50",
+              "ar": "⁦16.6–50⁩"
+            },
+            "motor-kw": {
+              "en": "15",
+              "ar": "15"
+            },
+            "weight-t": {
+              "en": "21.05",
+              "ar": "⁦21.05⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-012 / GBZ100-8",
+          "name": {
+            "en": "GBZ100-8",
+            "ar": "⁦GBZ100-8⁩"
+          },
+          "specs": {
+            "plate-width-x-length-mm": {
+              "en": "1000 × 8000",
+              "ar": "⁦1000 × 8000⁩"
+            },
+            "speed-m-s": {
+              "en": "0.016–0.05",
+              "ar": "⁦0.016–0.05⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 400",
+              "ar": "⁦≤ 400⁩"
+            },
+            "capacity-m3-h": {
+              "en": "16.6–50",
+              "ar": "⁦16.6–50⁩"
+            },
+            "motor-kw": {
+              "en": "15",
+              "ar": "15"
+            },
+            "weight-t": {
+              "en": "27.44",
+              "ar": "⁦27.44⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-012 / GBZ100-10",
+          "name": {
+            "en": "GBZ100-10",
+            "ar": "⁦GBZ100-10⁩"
+          },
+          "specs": {
+            "plate-width-x-length-mm": {
+              "en": "1000 × 10000",
+              "ar": "⁦1000 × 10000⁩"
+            },
+            "speed-m-s": {
+              "en": "0.016–0.05",
+              "ar": "⁦0.016–0.05⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 400",
+              "ar": "⁦≤ 400⁩"
+            },
+            "capacity-m3-h": {
+              "en": "16.6–50",
+              "ar": "⁦16.6–50⁩"
+            },
+            "motor-kw": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            },
+            "weight-t": {
+              "en": "34.31",
+              "ar": "⁦34.31⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-012 / GBZ100-19",
+          "name": {
+            "en": "GBZ100-19",
+            "ar": "⁦GBZ100-19⁩"
+          },
+          "specs": {
+            "plate-width-x-length-mm": {
+              "en": "1000 × 19000",
+              "ar": "⁦1000 × 19000⁩"
+            },
+            "speed-m-s": {
+              "en": "0.016–0.05",
+              "ar": "⁦0.016–0.05⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 400",
+              "ar": "⁦≤ 400⁩"
+            },
+            "capacity-m3-h": {
+              "en": "16.6–50",
+              "ar": "⁦16.6–50⁩"
+            },
+            "motor-kw": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            },
+            "weight-t": {
+              "en": "65.19",
+              "ar": "⁦65.19⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-012 / GBZ110-6",
+          "name": {
+            "en": "GBZ110-6",
+            "ar": "⁦GBZ110-6⁩"
+          },
+          "specs": {
+            "plate-width-x-length-mm": {
+              "en": "1100 × 6000",
+              "ar": "⁦1100 × 6000⁩"
+            },
+            "speed-m-s": {
+              "en": "0.02–0.06",
+              "ar": "⁦0.02–0.06⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 450",
+              "ar": "⁦≤ 450⁩"
+            },
+            "capacity-m3-h": {
+              "en": "50–150",
+              "ar": "⁦50–150⁩"
+            },
+            "motor-kw": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            },
+            "weight-t": {
+              "en": "20.285",
+              "ar": "⁦20.285⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-012 / GBZ125-8",
+          "name": {
+            "en": "GBZ125-8",
+            "ar": "⁦GBZ125-8⁩"
+          },
+          "specs": {
+            "plate-width-x-length-mm": {
+              "en": "1250 × 8000",
+              "ar": "⁦1250 × 8000⁩"
+            },
+            "speed-m-s": {
+              "en": "0.02–0.06",
+              "ar": "⁦0.02–0.06⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 600",
+              "ar": "⁦≤ 600⁩"
+            },
+            "capacity-m3-h": {
+              "en": "33.3–100",
+              "ar": "⁦33.3–100⁩"
+            },
+            "motor-kw": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            },
+            "weight-t": {
+              "en": "27.136",
+              "ar": "⁦27.136⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-012 / GBZ125-10",
+          "name": {
+            "en": "GBZ125-10",
+            "ar": "⁦GBZ125-10⁩"
+          },
+          "specs": {
+            "plate-width-x-length-mm": {
+              "en": "1250 × 10000",
+              "ar": "⁦1250 × 10000⁩"
+            },
+            "speed-m-s": {
+              "en": "0.02–0.06",
+              "ar": "⁦0.02–0.06⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 600",
+              "ar": "⁦≤ 600⁩"
+            },
+            "capacity-m3-h": {
+              "en": "33.3–100",
+              "ar": "⁦33.3–100⁩"
+            },
+            "motor-kw": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            },
+            "weight-t": {
+              "en": "33.92",
+              "ar": "⁦33.92⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-012 / GBZ125-12",
+          "name": {
+            "en": "GBZ125-12",
+            "ar": "⁦GBZ125-12⁩"
+          },
+          "specs": {
+            "plate-width-x-length-mm": {
+              "en": "1250 × 12150",
+              "ar": "⁦1250 × 12150⁩"
+            },
+            "speed-m-s": {
+              "en": "0.02–0.06",
+              "ar": "⁦0.02–0.06⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 600",
+              "ar": "⁦≤ 600⁩"
+            },
+            "capacity-m3-h": {
+              "en": "33.3–100",
+              "ar": "⁦33.3–100⁩"
+            },
+            "motor-kw": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            },
+            "weight-t": {
+              "en": "34.677",
+              "ar": "⁦34.677⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-012 / GBZ150-8",
+          "name": {
+            "en": "GBZ150-8",
+            "ar": "⁦GBZ150-8⁩"
+          },
+          "specs": {
+            "plate-width-x-length-mm": {
+              "en": "1500 × 8000",
+              "ar": "⁦1500 × 8000⁩"
+            },
+            "speed-m-s": {
+              "en": "0.02–0.07",
+              "ar": "⁦0.02–0.07⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 800",
+              "ar": "⁦≤ 800⁩"
+            },
+            "capacity-m3-h": {
+              "en": "180–200",
+              "ar": "⁦180–200⁩"
+            },
+            "motor-kw": {
+              "en": "22",
+              "ar": "22"
+            },
+            "weight-t": {
+              "en": "39.4",
+              "ar": "⁦39.4⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-012 / GBZ150-15",
+          "name": {
+            "en": "GBZ150-15",
+            "ar": "⁦GBZ150-15⁩"
+          },
+          "specs": {
+            "plate-width-x-length-mm": {
+              "en": "1500 × 15000",
+              "ar": "⁦1500 × 15000⁩"
+            },
+            "speed-m-s": {
+              "en": "0.02–0.07",
+              "ar": "⁦0.02–0.07⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 800",
+              "ar": "⁦≤ 800⁩"
+            },
+            "capacity-m3-h": {
+              "en": "180–200",
+              "ar": "⁦180–200⁩"
+            },
+            "motor-kw": {
+              "en": "22",
+              "ar": "22"
+            },
+            "weight-t": {
+              "en": "46.602",
+              "ar": "⁦46.602⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-012 / GBZ160-27",
+          "name": {
+            "en": "GBZ160-27",
+            "ar": "⁦GBZ160-27⁩"
+          },
+          "specs": {
+            "plate-width-x-length-mm": {
+              "en": "1600 × 27000",
+              "ar": "⁦1600 × 27000⁩"
+            },
+            "speed-m-s": {
+              "en": "0.068",
+              "ar": "⁦0.068⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 850",
+              "ar": "⁦≤ 850⁩"
+            },
+            "capacity-m3-h": {
+              "en": "200",
+              "ar": "200"
+            },
+            "motor-kw": {
+              "en": "37",
+              "ar": "37"
+            },
+            "weight-t": {
+              "en": "119.333",
+              "ar": "⁦119.333⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-012 / GBZ180-10",
+          "name": {
+            "en": "GBZ180-10",
+            "ar": "⁦GBZ180-10⁩"
+          },
+          "specs": {
+            "plate-width-x-length-mm": {
+              "en": "1800 × 10000",
+              "ar": "⁦1800 × 10000⁩"
+            },
+            "speed-m-s": {
+              "en": "0.02–0.07",
+              "ar": "⁦0.02–0.07⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 1000",
+              "ar": "⁦≤ 1000⁩"
+            },
+            "capacity-m3-h": {
+              "en": "333.3–500",
+              "ar": "⁦333.3–500⁩"
+            },
+            "motor-kw": {
+              "en": "37",
+              "ar": "37"
+            },
+            "weight-t": {
+              "en": "53.303",
+              "ar": "⁦53.303⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-012 / GBZ200-10",
+          "name": {
+            "en": "GBZ200-10",
+            "ar": "⁦GBZ200-10⁩"
+          },
+          "specs": {
+            "plate-width-x-length-mm": {
+              "en": "2000 × 10000",
+              "ar": "⁦2000 × 10000⁩"
+            },
+            "speed-m-s": {
+              "en": "0.02–0.07",
+              "ar": "⁦0.02–0.07⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 1000",
+              "ar": "⁦≤ 1000⁩"
+            },
+            "capacity-m3-h": {
+              "en": "333.3–500",
+              "ar": "⁦333.3–500⁩"
+            },
+            "motor-kw": {
+              "en": "37",
+              "ar": "37"
+            },
+            "weight-t": {
+              "en": "57.390",
+              "ar": "⁦57.390⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-012 / GBZ220-10",
+          "name": {
+            "en": "GBZ220-10",
+            "ar": "⁦GBZ220-10⁩"
+          },
+          "specs": {
+            "plate-width-x-length-mm": {
+              "en": "2200 × 10000",
+              "ar": "⁦2200 × 10000⁩"
+            },
+            "speed-m-s": {
+              "en": "0.02–0.08",
+              "ar": "⁦0.02–0.08⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 1000",
+              "ar": "⁦≤ 1000⁩"
+            },
+            "capacity-m3-h": {
+              "en": "83–250",
+              "ar": "⁦83–250⁩"
+            },
+            "motor-kw": {
+              "en": "45",
+              "ar": "45"
+            },
+            "weight-t": {
+              "en": "64",
+              "ar": "64"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-012 / GBZ230-10",
+          "name": {
+            "en": "GBZ230-10",
+            "ar": "⁦GBZ230-10⁩"
+          },
+          "specs": {
+            "plate-width-x-length-mm": {
+              "en": "2300 × 10000",
+              "ar": "⁦2300 × 10000⁩"
+            },
+            "speed-m-s": {
+              "en": "0.05–0.09",
+              "ar": "⁦0.05–0.09⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 1000",
+              "ar": "⁦≤ 1000⁩"
+            },
+            "capacity-m3-h": {
+              "en": "190–340",
+              "ar": "⁦190–340⁩"
+            },
+            "motor-kw": {
+              "en": "55",
+              "ar": "55"
+            },
+            "weight-t": {
+              "en": "74.5",
+              "ar": "⁦74.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-012 / GBZ240-12",
+          "name": {
+            "en": "GBZ240-12",
+            "ar": "⁦GBZ240-12⁩"
+          },
+          "specs": {
+            "plate-width-x-length-mm": {
+              "en": "2400 × 12000",
+              "ar": "⁦2400 × 12000⁩"
+            },
+            "speed-m-s": {
+              "en": "0.05",
+              "ar": "⁦0.05⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 1200",
+              "ar": "⁦≤ 1200⁩"
+            },
+            "capacity-m3-h": {
+              "en": "1100",
+              "ar": "1100"
+            },
+            "motor-kw": {
+              "en": "2 × 55",
+              "ar": "⁦2 × 55⁩"
+            },
+            "weight-t": {
+              "en": "111.75",
+              "ar": "⁦111.75⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0014-01-012 / GBZ340-8",
+          "name": {
+            "en": "GBZ340-8",
+            "ar": "⁦GBZ340-8⁩"
+          },
+          "specs": {
+            "plate-width-x-length-mm": {
+              "en": "3400 × 8000",
+              "ar": "⁦3400 × 8000⁩"
+            },
+            "speed-m-s": {
+              "en": "0.12",
+              "ar": "⁦0.12⁩"
+            },
+            "feed-size-mm": {
+              "en": "≤ 1500",
+              "ar": "⁦≤ 1500⁩"
+            },
+            "capacity-m3-h": {
+              "en": "1900",
+              "ar": "1900"
+            },
+            "motor-kw": {
+              "en": "2 × 55",
+              "ar": "⁦2 × 55⁩"
+            },
+            "weight-t": {
+              "en": "99.615",
+              "ar": "⁦99.615⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "16.6–1900 m³/h",
+        "ar": "⁦16.6⁠–⁠1900⁩ م³/ساعة"
+      },
+      "intro": {
+        "en": "For sticky or large run-of-mine ore under the primary hopper.",
+        "ar": "لخام المنجم اللزج أو الكبير تحت قادوس التكسير الأولي."
+      },
+      "keyRows": [
+        "plate-width-x-length-mm",
+        "capacity-m3-h",
+        "motor-kw"
+      ]
+    },
+    {
+      "id": "box",
+      "label": {
+        "en": "Box-type (reciprocating) feeders",
+        "ar": "مغذيات صندوقية (ترددية)"
+      },
+      "models": [
+        {
+          "code": "BX-0016-01-024 / 400×400",
+          "name": {
+            "en": "400×400",
+            "ar": "⁦400×400⁩"
+          },
+          "specs": {
+            "outlet-w-x-h-mm": {
+              "en": "400 × 400",
+              "ar": "⁦400 × 400⁩"
+            },
+            "strokes-min": {
+              "en": "28",
+              "ar": "28"
+            },
+            "stroke-mm": {
+              "en": "20–50",
+              "ar": "⁦20–50⁩"
+            },
+            "feed-size-mm": {
+              "en": "100",
+              "ar": "100"
+            },
+            "capacity-t-h": {
+              "en": "2.5–3",
+              "ar": "⁦2.5–3⁩"
+            },
+            "motor-kw": {
+              "en": "2.2",
+              "ar": "⁦2.2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-024 / 600×500",
+          "name": {
+            "en": "600×500",
+            "ar": "⁦600×500⁩"
+          },
+          "specs": {
+            "outlet-w-x-h-mm": {
+              "en": "600 × 500",
+              "ar": "⁦600 × 500⁩"
+            },
+            "strokes-min": {
+              "en": "30",
+              "ar": "30"
+            },
+            "stroke-mm": {
+              "en": "20–50",
+              "ar": "⁦20–50⁩"
+            },
+            "feed-size-mm": {
+              "en": "200",
+              "ar": "200"
+            },
+            "capacity-t-h": {
+              "en": "5–10",
+              "ar": "⁦5–10⁩"
+            },
+            "motor-kw": {
+              "en": "4",
+              "ar": "4"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-024 / 800×700",
+          "name": {
+            "en": "800×700",
+            "ar": "⁦800×700⁩"
+          },
+          "specs": {
+            "outlet-w-x-h-mm": {
+              "en": "750 × 600",
+              "ar": "⁦750 × 600⁩"
+            },
+            "strokes-min": {
+              "en": "25",
+              "ar": "25"
+            },
+            "stroke-mm": {
+              "en": "20–50",
+              "ar": "⁦20–50⁩"
+            },
+            "feed-size-mm": {
+              "en": "250",
+              "ar": "250"
+            },
+            "capacity-t-h": {
+              "en": "22–40",
+              "ar": "⁦22–40⁩"
+            },
+            "motor-kw": {
+              "en": "5.5",
+              "ar": "⁦5.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-024 / 980×1200",
+          "name": {
+            "en": "980×1200",
+            "ar": "⁦980×1200⁩"
+          },
+          "specs": {
+            "outlet-w-x-h-mm": {
+              "en": "900 × 700",
+              "ar": "⁦900 × 700⁩"
+            },
+            "strokes-min": {
+              "en": "25",
+              "ar": "25"
+            },
+            "stroke-mm": {
+              "en": "20–50",
+              "ar": "⁦20–50⁩"
+            },
+            "feed-size-mm": {
+              "en": "250",
+              "ar": "250"
+            },
+            "capacity-t-h": {
+              "en": "30–50",
+              "ar": "⁦30–50⁩"
+            },
+            "motor-kw": {
+              "en": "7.5",
+              "ar": "⁦7.5⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "2.5–50 t/h",
+        "ar": "⁦2.5⁠–⁠50⁩ طن/ساعة"
+      },
+      "keyRows": [
+        "feed-size-mm",
+        "capacity-t-h",
+        "motor-kw"
+      ]
+    },
+    {
+      "id": "pendulum",
+      "label": {
+        "en": "Pendulum feeders for small mills",
+        "ar": "مغذيات بندولية للطواحين الصغيرة"
+      },
+      "models": [
+        {
+          "code": "BX-0033-01-045 / 250×250",
+          "name": {
+            "en": "250×250",
+            "ar": "⁦250×250⁩"
+          },
+          "specs": {
+            "discharge-mm": {
+              "en": "250 × 30–115",
+              "ar": "⁦250 × 30–115⁩"
+            },
+            "swing-r-min": {
+              "en": "46",
+              "ar": "46"
+            },
+            "feed-size-mm": {
+              "en": "25",
+              "ar": "25"
+            },
+            "capacity-t-h": {
+              "en": "4.5",
+              "ar": "⁦4.5⁩"
+            },
+            "power-kw": {
+              "en": "0.55",
+              "ar": "⁦0.55⁩"
+            },
+            "weight-t": {
+              "en": "0.13",
+              "ar": "⁦0.13⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-045 / 300×300",
+          "name": {
+            "en": "300×300",
+            "ar": "⁦300×300⁩"
+          },
+          "specs": {
+            "discharge-mm": {
+              "en": "300 × 30–125",
+              "ar": "⁦300 × 30–125⁩"
+            },
+            "swing-r-min": {
+              "en": "46",
+              "ar": "46"
+            },
+            "feed-size-mm": {
+              "en": "30",
+              "ar": "30"
+            },
+            "capacity-t-h": {
+              "en": "6.5",
+              "ar": "⁦6.5⁩"
+            },
+            "power-kw": {
+              "en": "0.75",
+              "ar": "⁦0.75⁩"
+            },
+            "weight-t": {
+              "en": "0.19",
+              "ar": "⁦0.19⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-045 / 400×400",
+          "name": {
+            "en": "400×400",
+            "ar": "⁦400×400⁩"
+          },
+          "specs": {
+            "discharge-mm": {
+              "en": "400 × 50–130",
+              "ar": "⁦400 × 50–130⁩"
+            },
+            "swing-r-min": {
+              "en": "46",
+              "ar": "46"
+            },
+            "feed-size-mm": {
+              "en": "35",
+              "ar": "35"
+            },
+            "capacity-t-h": {
+              "en": "12",
+              "ar": "12"
+            },
+            "power-kw": {
+              "en": "1.1",
+              "ar": "⁦1.1⁩"
+            },
+            "weight-t": {
+              "en": "0.26",
+              "ar": "⁦0.26⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0033-01-045 / 600×600",
+          "name": {
+            "en": "600×600",
+            "ar": "⁦600×600⁩"
+          },
+          "specs": {
+            "discharge-mm": {
+              "en": "600 × 50–150",
+              "ar": "⁦600 × 50–150⁩"
+            },
+            "swing-r-min": {
+              "en": "46",
+              "ar": "46"
+            },
+            "feed-size-mm": {
+              "en": "50",
+              "ar": "50"
+            },
+            "capacity-t-h": {
+              "en": "25",
+              "ar": "25"
+            },
+            "power-kw": {
+              "en": "2.2",
+              "ar": "⁦2.2⁩"
+            },
+            "weight-t": {
+              "en": "0.65",
+              "ar": "⁦0.65⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "4.5–25 t/h",
+        "ar": "⁦4.5⁠–⁠25⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "Meter crushed ore into small ball mills.",
+        "ar": "تُدخل الخام المكسّر بمعدل منتظم إلى الطواحين الكروية الصغيرة."
+      },
+      "keyRows": [
+        "feed-size-mm",
+        "capacity-t-h",
+        "power-kw"
+      ]
+    }
+  ]
+}

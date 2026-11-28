@@ -1,0 +1,449 @@
+{
+  "id": "crusher-wear-spare-parts",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Part group",
+    "ar": "مجموعة القطع"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "items",
+      "label": {
+        "en": "Items / models",
+        "ar": "القطع / الموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Material / key data",
+        "ar": "الخامة / أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "items",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "groups",
+      "label": {
+        "en": "Part groups",
+        "ar": "مجموعات القطع"
+      },
+      "models": [
+        {
+          "code": "BX-0152-01-001",
+          "name": {
+            "en": "Jaw crusher wear parts",
+            "ar": "قطع تآكل الكسارات الفكية"
+          },
+          "specs": {
+            "items": {
+              "en": "Fixed and movable jaw plates, cheek plates",
+              "ar": "ألواح الفك الثابتة والمتحركة والألواح الجانبية"
+            },
+            "data": {
+              "en": "High-manganese, alloy or carbon steel",
+              "ar": "فولاذ عالي المنغنيز أو سبائكي أو كربوني"
+            }
+          }
+        },
+        {
+          "code": "BX-0152-01-002",
+          "name": {
+            "en": "TiC-insert jaw plates",
+            "ar": "ألواح فك بإدخالات كربيد التيتانيوم"
+          },
+          "specs": {
+            "items": {
+              "en": "Jaw plates with titanium-carbide inserts",
+              "ar": "ألواح فك بإدخالات كربيد التيتانيوم"
+            },
+            "data": {
+              "en": "Longer wear life",
+              "ar": "عمر تآكل أطول"
+            }
+          }
+        },
+        {
+          "code": "BX-0152-01-003",
+          "name": {
+            "en": "Jaw crusher spares",
+            "ar": "قطع غيار الكسارات الفكية"
+          },
+          "specs": {
+            "items": {
+              "en": "Frames, pitmans, eccentric shafts, flywheels, toggle seats",
+              "ar": "الإطارات وأذرع التوصيل والأعمدة اللامركزية والحدافات ومقاعد الذراع"
+            }
+          }
+        },
+        {
+          "code": "BX-0152-01-005",
+          "name": {
+            "en": "Cone crusher wear parts",
+            "ar": "قطع تآكل الكسارات المخروطية"
+          },
+          "specs": {
+            "items": {
+              "en": "Mantles and bowl liners (concaves)",
+              "ar": "البطانات الداخلية والخارجية"
+            },
+            "data": {
+              "en": "High-manganese steel",
+              "ar": "فولاذ عالي المنغنيز"
+            }
+          }
+        },
+        {
+          "code": "BX-0152-01-006",
+          "name": {
+            "en": "TiC-insert cone liners",
+            "ar": "بطانات مخروطية بإدخالات كربيد التيتانيوم"
+          },
+          "specs": {
+            "items": {
+              "en": "Mantles and concaves with TiC inserts",
+              "ar": "بطانات داخلية وخارجية بإدخالات كربيد التيتانيوم"
+            },
+            "data": {
+              "en": "Longer wear life",
+              "ar": "عمر تآكل أطول"
+            }
+          }
+        },
+        {
+          "code": "BX-0152-01-007",
+          "name": {
+            "en": "Cone crusher spares",
+            "ar": "قطع غيار الكسارات المخروطية"
+          },
+          "specs": {
+            "items": {
+              "en": "Main shafts, bronze bushings, frames, eccentrics, gears",
+              "ar": "الأعمدة الرئيسية والجلب البرونزية والإطارات والأجزاء اللامركزية والتروس"
+            }
+          }
+        },
+        {
+          "code": "BX-0152-01-009",
+          "name": {
+            "en": "Impact crusher parts",
+            "ar": "قطع الكسارات الصدمية"
+          },
+          "specs": {
+            "items": {
+              "en": "Blow bars and impact plates",
+              "ar": "قضبان الضرب وألواح الصدم"
+            },
+            "data": {
+              "en": "Martensitic steel; ceramic composite option",
+              "ar": "فولاذ مارتنسيتي؛ وخيار مركّب بالسيراميك"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Jaw, cone and impact crushers",
+        "ar": "الكسارات الفكية والمخروطية والصدمية"
+      },
+      "countUnit": {
+        "ar": [
+          "مجموعة واحدة",
+          "مجموعتان",
+          "مجموعات"
+        ],
+        "en": [
+          "group",
+          "groups"
+        ]
+      },
+      "intro": {
+        "en": "Quote the crusher model and the part drawing or part number to receive a price.",
+        "ar": "اذكر موديل الكسارة ورسم القطعة أو رقمها لتصلك التسعيرة."
+      },
+      "keyRows": [
+        "items",
+        "data"
+      ]
+    },
+    {
+      "id": "jaw-vsi-replacement",
+      "label": {
+        "en": "Jaw and VSI crusher parts – replacement series",
+        "ar": "قطع الكسارات الفكية و⁦VSI⁩ – سلاسل بديلة"
+      },
+      "models": [
+        {
+          "code": "BX-0628-01-001",
+          "name": {
+            "en": "Cheek plates – C-series jaw crushers",
+            "ar": "ألواح جانبية – كسارات فكية من السلسلة ⁦C⁩"
+          },
+          "specs": {
+            "items": {
+              "en": "C63–C200 and C3054 (16 sizes)",
+              "ar": "⁦C63–C200⁩ و⁦C3054 (16⁩ مقاساً)"
+            },
+            "data": {
+              "en": "High-manganese steel Mn13Cr2, Mn18Cr2 or Mn22Cr2",
+              "ar": "فولاذ عالي المنغنيز ⁦Mn13Cr2⁩ أو ⁦Mn18Cr2⁩ أو ⁦Mn22Cr2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0628-01-002",
+          "name": {
+            "en": "Cheek plates – CJ-series jaw crushers",
+            "ar": "ألواح جانبية – كسارات فكية من السلسلة ⁦CJ⁩"
+          },
+          "specs": {
+            "items": {
+              "en": "CJ409, CJ411, CJ412, CJ612, CJ613",
+              "ar": "⁦CJ409, CJ411, CJ412, CJ612, CJ613⁩"
+            },
+            "data": {
+              "en": "High-manganese steel Mn13Cr2, Mn18Cr2 or Mn22Cr2",
+              "ar": "فولاذ عالي المنغنيز ⁦Mn13Cr2⁩ أو ⁦Mn18Cr2⁩ أو ⁦Mn22Cr2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0628-01-003",
+          "name": {
+            "en": "Cheek plates – JW-series jaw crushers",
+            "ar": "ألواح جانبية – كسارات فكية من السلسلة ⁦JW⁩"
+          },
+          "specs": {
+            "items": {
+              "en": "JW40, JW42, JW55",
+              "ar": "⁦JW40, JW42, JW55⁩"
+            },
+            "data": {
+              "en": "High-manganese steel Mn13Cr2, Mn18Cr2 or Mn22Cr2",
+              "ar": "فولاذ عالي المنغنيز ⁦Mn13Cr2⁩ أو ⁦Mn18Cr2⁩ أو ⁦Mn22Cr2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0226-01-003",
+          "name": {
+            "en": "Jaw crusher wear and spare parts",
+            "ar": "قطع التآكل والغيار للكسارات الفكية"
+          },
+          "specs": {
+            "items": {
+              "en": "C-, CJ- and JM-series jaw crushers",
+              "ar": "كسارات فكية من السلاسل ⁦C⁩ و⁦CJ⁩ و⁦JM⁩"
+            },
+            "data": {
+              "en": "Fixed and movable jaw plates, cheek plates, pitman, shafts, bearings, wedges and springs",
+              "ar": "ألواح الفك الثابتة والمتحركة والألواح الجانبية وذراع التوصيل والأعمدة والمحامل والأسافين والنوابض"
+            }
+          }
+        },
+        {
+          "code": "BX-0226-01-005",
+          "name": {
+            "en": "VSI crusher wear parts",
+            "ar": "قطع تآكل كسارات ⁦VSI⁩"
+          },
+          "specs": {
+            "items": {
+              "en": "B-series and CV-series VSI crushers",
+              "ar": "كسارات ⁦VSI⁩ من السلسلتين ⁦B⁩ و⁦CV⁩"
+            },
+            "data": {
+              "en": "Wear parts for vertical-shaft impact (sand-making) crushers",
+              "ar": "قطع تآكل الكسارات الصدمية رأسية العمود (صناعة الرمل)"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Matched to the original part",
+        "ar": "مطابقة للقطعة الأصلية"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      },
+      "intro": {
+        "en": "Replacement parts cast to match the original part; send the crusher model and the original part number.",
+        "ar": "قطع بديلة مصبوبة مطابقة للقطعة الأصلية؛ أرسل موديل الكسارة ورقم القطعة الأصلية."
+      },
+      "keyRows": [
+        "items",
+        "data"
+      ]
+    },
+    {
+      "id": "cone-gyratory-replacement",
+      "label": {
+        "en": "Cone and gyratory crusher parts – replacement series",
+        "ar": "قطع الكسارات المخروطية والدوّارة – سلاسل بديلة"
+      },
+      "models": [
+        {
+          "code": "BX-0628-01-004",
+          "name": {
+            "en": "Mantles and bowl liners – HP, MP and GP cone crushers",
+            "ar": "بطانات داخلية وخارجية – كسارات مخروطية ⁦HP⁩ و⁦MP⁩ و⁦GP⁩"
+          },
+          "specs": {
+            "items": {
+              "en": "HP100–HP800, HP3–HP6; MP800–MP1250; GP100–GP550, GP100S–GP500S, GP11 (24 sizes)",
+              "ar": "⁦HP100–HP800⁩ و⁦HP3–HP6⁩؛ ⁦MP800–MP1250⁩؛ ⁦GP100–GP550⁩ و⁦GP100S–GP500S⁩ و⁦GP11 (24⁩ مقاساً)"
+            },
+            "data": {
+              "en": "High-manganese steel Mn13Cr2, Mn18Cr2 or Mn22Cr2",
+              "ar": "فولاذ عالي المنغنيز ⁦Mn13Cr2⁩ أو ⁦Mn18Cr2⁩ أو ⁦Mn22Cr2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0628-01-005",
+          "name": {
+            "en": "Mantles and bowl liners – gyratory crushers",
+            "ar": "بطانات داخلية وخارجية – كسارات دوّارة"
+          },
+          "specs": {
+            "items": {
+              "en": "5065, 4265, MKIII54-75134, MKIII60-89119, MKIII60-110, S6275102",
+              "ar": "⁦5065, 4265, MKIII54-75134, MKIII60-89119, MKIII60-110, S6275102⁩"
+            },
+            "data": {
+              "en": "High-manganese steel Mn13Cr2, Mn18Cr2 or Mn22Cr2",
+              "ar": "فولاذ عالي المنغنيز ⁦Mn13Cr2⁩ أو ⁦Mn18Cr2⁩ أو ⁦Mn22Cr2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0628-01-006",
+          "name": {
+            "en": "Mantles and bowl liners – CH and CS cone crushers",
+            "ar": "بطانات داخلية وخارجية – كسارات مخروطية ⁦CH⁩ و⁦CS⁩"
+          },
+          "specs": {
+            "items": {
+              "en": "CH430–CH895, CS440, CS660 (8 sizes)",
+              "ar": "⁦CH430–CH895⁩ و⁦CS440⁩ و⁦CS660 (8⁩ مقاسات)"
+            },
+            "data": {
+              "en": "High-manganese steel Mn13Cr2, Mn18Cr2 or Mn22Cr2",
+              "ar": "فولاذ عالي المنغنيز ⁦Mn13Cr2⁩ أو ⁦Mn18Cr2⁩ أو ⁦Mn22Cr2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0628-01-007",
+          "name": {
+            "en": "Mantles and bowl liners – TC cone crushers",
+            "ar": "بطانات داخلية وخارجية – كسارات مخروطية ⁦TC⁩"
+          },
+          "specs": {
+            "items": {
+              "en": "TC66, TC84, TC84X, TC5A",
+              "ar": "⁦TC66, TC84, TC84X, TC5A⁩"
+            },
+            "data": {
+              "en": "High-manganese steel Mn13Cr2, Mn18Cr2 or Mn22Cr2",
+              "ar": "فولاذ عالي المنغنيز ⁦Mn13Cr2⁩ أو ⁦Mn18Cr2⁩ أو ⁦Mn22Cr2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0628-01-008",
+          "name": {
+            "en": "Mantles and bowl liners – XL cone crushers",
+            "ar": "بطانات داخلية وخارجية – كسارات مخروطية ⁦XL⁩"
+          },
+          "specs": {
+            "items": {
+              "en": "XL200, XL300, XL400",
+              "ar": "⁦XL200, XL300, XL400⁩"
+            },
+            "data": {
+              "en": "High-manganese steel Mn13Cr2, Mn18Cr2 or Mn22Cr2",
+              "ar": "فولاذ عالي المنغنيز ⁦Mn13Cr2⁩ أو ⁦Mn18Cr2⁩ أو ⁦Mn22Cr2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0628-01-009",
+          "name": {
+            "en": "Mantles and bowl liners – T, TC and MVP cone crushers",
+            "ar": "بطانات داخلية وخارجية – كسارات مخروطية ⁦T⁩ و⁦TC⁩ و⁦MVP⁩"
+          },
+          "specs": {
+            "items": {
+              "en": "T1000, TC1300, MVP550",
+              "ar": "⁦T1000, TC1300, MVP550⁩"
+            },
+            "data": {
+              "en": "High-manganese steel Mn13Cr2, Mn18Cr2 or Mn22Cr2",
+              "ar": "فولاذ عالي المنغنيز ⁦Mn13Cr2⁩ أو ⁦Mn18Cr2⁩ أو ⁦Mn22Cr2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0226-01-004",
+          "name": {
+            "en": "Cone crusher wear and spare parts",
+            "ar": "قطع التآكل والغيار للكسارات المخروطية"
+          },
+          "specs": {
+            "items": {
+              "en": "GP, HP, CH, CS, H and S series cone crushers",
+              "ar": "كسارات مخروطية من السلاسل ⁦GP⁩ و⁦HP⁩ و⁦CH⁩ و⁦CS⁩ و⁦H⁩ و⁦S⁩"
+            },
+            "data": {
+              "en": "Mantles and concaves, head, bowl and frame, main and counter shafts, eccentric bushing and socket, gears, adjusting ring, springs, dampers, filters, seals, valves, tramp-release cylinders and accumulators",
+              "ar": "البطانات الداخلية والخارجية، والرأس والوعاء والإطار، والعمود الرئيسي والأفقي، والجلبة اللامركزية والمقبس، والتروس، وحلقة الضبط، والنوابض والمخمّدات والفلاتر والأختام والصمامات، وأسطوانات تحرير الشوائب والمراكم"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Mn13–Mn22 steel",
+        "ar": "فولاذ ⁦Mn13–Mn22⁩"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      },
+      "keyRows": [
+        "items",
+        "data"
+      ]
+    }
+  ]
+}

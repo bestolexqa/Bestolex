@@ -1,0 +1,260 @@
+{
+  "id": "polyurethane-rubber-screen-panels",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-04 Ed6⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-04 Ed6 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "data"
+  ],
+  "types": [
+    {
+      "id": "panels",
+      "label": {
+        "en": "Polyurethane and rubber screen media",
+        "ar": "وسائط الغربلة من البولي يوريثان والمطاط"
+      },
+      "models": [
+        {
+          "code": "BX-0302-01-001",
+          "name": {
+            "en": "Fine urethane screen panels",
+            "ar": "ألواح غربلة يوريثان ناعمة"
+          },
+          "specs": {
+            "data": {
+              "en": "Apertures 0.045–8 mm; open area 32–43 %; popular size 1045 × 700 mm; for high-frequency multi-deck and other screens",
+              "ar": "فتحات ⁦0.045⁠–⁠8⁩ مم؛ مساحة مفتوحة ⁦32⁠–⁠43%⁩؛ المقاس الشائع ⁦1045 × 700⁩ مم؛ للغرابيل عالية التردد متعددة الطوابق وغيرها"
+            }
+          }
+        },
+        {
+          "code": "BX-0302-01-005",
+          "name": {
+            "en": "Polyurethane screen panels",
+            "ar": "ألواح غربلة بولي يوريثان"
+          },
+          "specs": {
+            "data": {
+              "en": "PU or rubber with steel-wire-rope reinforcement; aperture from 3 mm; 80–95 Shore A; hook or screw fixing; any size",
+              "ar": "بولي يوريثان أو مطاط مقوّى بحبال فولاذية؛ فتحة من ⁦3⁩ مم؛ صلادة ⁦80⁠–⁠95⁩ شور ⁦A⁩؛ تثبيت بخطاف أو براغٍ؛ أي مقاس"
+            }
+          }
+        },
+        {
+          "code": "BX-0302-01-004",
+          "name": {
+            "en": "PU dewatering slot panels",
+            "ar": "ألواح بولي يوريثان مشقوقة لنزع الماء"
+          },
+          "specs": {
+            "data": {
+              "en": "Slots 0.1–2.5 × 4–16 mm; 30, 45 or 50 mm thick; 305 / 500 / 515 mm wide, 305–1220 mm long; bolt, pin, strip or rail fixing",
+              "ar": "شقوق ⁦0.1⁠–⁠2.5 × 4⁠–⁠16⁩ مم؛ سماكة ⁦30⁩ أو ⁦45⁩ أو ⁦50⁩ مم؛ عرض ⁦305 / 500 / 515⁩ مم وطول ⁦305⁠–⁠1220⁩ مم؛ تثبيت ببراغٍ أو مسامير أو شرائط أو سكك"
+            }
+          }
+        },
+        {
+          "code": "BX-0302-01-002",
+          "name": {
+            "en": "PU-coated wire-rope screen",
+            "ar": "غربال حبال فولاذية مغلّفة بالبولي يوريثان"
+          },
+          "specs": {
+            "data": {
+              "en": "Light and flexible; 3–8 × the wear life of wire mesh; low noise and blinding",
+              "ar": "خفيف ومرن؛ عمر تآكل ⁦3⁠–⁠8⁩ أضعاف الشبك السلكي؛ ضجيج وانسداد أقل"
+            }
+          }
+        },
+        {
+          "code": "BX-0302-01-003",
+          "name": {
+            "en": "Self-cleaning PU-strip screen",
+            "ar": "غربال ذاتي التنظيف بشرائط بولي يوريثان"
+          },
+          "specs": {
+            "data": {
+              "en": "Steel or stainless grid with PU strips on the bars; aperture from 3 mm",
+              "ar": "شبكة فولاذ أو ستانلس بشرائط بولي يوريثان على القضبان؛ فتحة من ⁦3⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0302-01-010",
+          "name": {
+            "en": "Self-cleaning wire screen",
+            "ar": "غربال سلكي ذاتي التنظيف"
+          },
+          "specs": {
+            "data": {
+              "en": "Hook-edge screen for sticky and wet feed",
+              "ar": "غربال بحواف خطافية للتغذية اللزجة والرطبة"
+            }
+          }
+        },
+        {
+          "code": "BX-0302-01-008",
+          "name": {
+            "en": "Flip-flop screen panels",
+            "ar": "ألواح غربلة مرنة متقلبة"
+          },
+          "specs": {
+            "data": {
+              "en": "Flexible perforated panels for wet, sticky ore",
+              "ar": "ألواح مثقبة مرنة للخام الرطب واللزج"
+            }
+          }
+        },
+        {
+          "code": "BX-0302-01-009",
+          "name": {
+            "en": "Rubber screen panels",
+            "ar": "ألواح غربلة مطاطية"
+          },
+          "specs": {
+            "data": {
+              "en": "Modular rubber panels",
+              "ar": "ألواح مطاطية معيارية"
+            }
+          }
+        },
+        {
+          "code": "BX-0302-01-007",
+          "name": {
+            "en": "PU composite screens",
+            "ar": "غرابيل مركّبة من البولي يوريثان"
+          },
+          "specs": {
+            "data": {
+              "en": "Polyurethane–steel composite screens made to the deck",
+              "ar": "غرابيل مركّبة من البولي يوريثان والفولاذ حسب سطح الغربال"
+            }
+          }
+        },
+        {
+          "code": "BX-0302-01-015",
+          "name": {
+            "en": "Triangular dewatering screen panels",
+            "ar": "ألواح نزع ماء بقضبان مثلثة"
+          },
+          "specs": {
+            "data": {
+              "en": "Triangular-bar panels for dewatering",
+              "ar": "ألواح بقضبان مثلثة المقطع لنزع الماء"
+            }
+          }
+        },
+        {
+          "code": "BX-0302-01-013",
+          "name": {
+            "en": "Pins and sleeves",
+            "ar": "مسامير وجلب التثبيت"
+          },
+          "specs": {
+            "data": {
+              "en": "Fixing for modular panels",
+              "ar": "لتثبيت الألواح المعيارية"
+            }
+          }
+        },
+        {
+          "code": "BX-0302-01-014",
+          "name": {
+            "en": "WS85 support profiles",
+            "ar": "مقاطع الدعم ⁦WS85⁩"
+          },
+          "specs": {
+            "data": {
+              "en": "Support rails for modular panels",
+              "ar": "سكك دعم للألواح المعيارية"
+            }
+          }
+        },
+        {
+          "code": "BX-0302-01-016",
+          "name": {
+            "en": "Multi-deck high-frequency screen",
+            "ar": "غربال عالي التردد متعدد الطوابق"
+          },
+          "specs": {
+            "data": {
+              "en": "Wet fine screen with stacked decks and twin vibration motors",
+              "ar": "غربال رطب ناعم بطوابق متراكبة ومحركي اهتزاز"
+            }
+          }
+        },
+        {
+          "code": "BX-0302-01-019",
+          "name": {
+            "en": "Slurry divider",
+            "ar": "موزّع اللب"
+          },
+          "specs": {
+            "data": {
+              "en": "Splits the feed between the decks of the multi-deck screen",
+              "ar": "يوزّع التغذية على طوابق الغربال متعدد الطوابق"
+            }
+          }
+        },
+        {
+          "code": "BX-0302-01-018",
+          "name": {
+            "en": "Vibration motors",
+            "ar": "محركات اهتزاز"
+          },
+          "specs": {
+            "data": {
+              "en": "Replacement vibration motors for screens and feeders",
+              "ar": "محركات اهتزاز بديلة للغرابيل والمغذيات"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Apertures 0.045–8 mm (fine panels)",
+        "ar": "فتحات ⁦0.045⁠–⁠8⁩ مم (الألواح الناعمة)"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      },
+      "intro": {
+        "en": "Polyurethane and rubber panels last several times longer than wire mesh in wet screening. Price depends on the panel size and aperture: quote the screen model and deck size.",
+        "ar": "تدوم ألواح البولي يوريثان والمطاط أضعاف الشبك السلكي في الغربلة الرطبة. يعتمد السعر على مقاس اللوح والفتحة: اذكر موديل الغربال ومقاس السطح."
+      },
+      "keyRows": [
+        "data"
+      ]
+    }
+  ]
+}
