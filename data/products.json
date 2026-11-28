@@ -19166,6 +19166,885 @@
             }
           }
         ]
+      },
+      {
+        "id": "smelting-refining",
+        "title": {
+          "ar": "الصهر والتنقية",
+          "en": "Smelting & Refining"
+        },
+        "products": [
+          {
+            "id": "induction-gold-smelting-furnaces",
+            "name": {
+              "ar": "أفران صهر الذهب بالحث",
+              "en": "Induction Gold Smelting Furnaces"
+            },
+            "coverImage": "/products/induction-gold-smelting-furnaces/induction-gold-smelting-furnaces.webp",
+            "description": {
+              "ar": "أفران حث لصهر الذهب والفضة والنحاس: تسخن البوتقة بسرعة للصهر والتنقية والصب والتحبيب. من وحدات محمولة تصهر ⁦1⁩ كجم في دقائق إلى أفران متوسطة التردد بلا قلب تتسع لـ ⁦500⁩ كجم.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Induction furnaces for melting gold, silver and copper: the crucible heats rapidly for smelting, refining, casting and granulating. From portable units melting 1 kg in minutes to medium-frequency coreless furnaces holding 500 kg.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦8⁩ أفران محمولة عالية ومتوسطة التردد من ⁦2⁩ إلى ⁦70⁩ كيلوواط، بسعة ⁦1⁠–⁠100⁩ كجم للصهرة",
+                "فرنا ⁦WGR⁩ عاليا التردد لـ ⁦1⁠–⁠4⁩ كجم ذهب في أقل من ⁦5⁠–⁠8⁩ دقائق",
+                "⁦3⁩ أفران ⁦GWJ⁩ متوسطة التردد بلا قلب بسعة ⁦150⁩ و⁦250⁩ و⁦500⁩ كجم وحرارة مقننة ⁦1600 °⁩م",
+                "تغذية ⁦220⁩ فولت للوحدات الصغيرة و⁦380⁩ فولت ثلاثية الأطوار للأكبر"
+              ],
+              "en": [
+                "8 portable high/medium-frequency furnaces, 2–70 kW, 1–100 kg per melt",
+                "2 WGR high-frequency furnaces for 1–4 kg of gold in under 5–8 minutes",
+                "3 GWJ medium-frequency coreless furnaces, 150, 250 and 500 kg, rated 1600 °C",
+                "220 V supply for the smallest unit, 380 V three-phase for the rest"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "سعة الصهرة",
+                  "value": "⁦1⁠–⁠500⁩ كجم"
+                },
+                {
+                  "label": "حرارة الفرن",
+                  "value": "⁦1500⁠–⁠2000 °⁩م"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦2⁠–⁠275⁩ كيلوواط"
+                },
+                {
+                  "label": "التغذية",
+                  "value": "⁦220⁩ أو ⁦380⁩ فولت"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Capacity per melt",
+                  "value": "1–500 kg"
+                },
+                {
+                  "label": "Furnace temperature",
+                  "value": "1500–2000 °C"
+                },
+                {
+                  "label": "Power",
+                  "value": "2–275 kW"
+                },
+                {
+                  "label": "Supply",
+                  "value": "220 or 380 V"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/induction-gold-smelting-furnaces/induction-gold-smelting-furnaces.webp"
+            ],
+            "image": "/products/induction-gold-smelting-furnaces/induction-gold-smelting-furnaces.webp",
+            "cardImage": "/products/induction-gold-smelting-furnaces/induction-gold-smelting-furnaces.webp",
+            "seo": {
+              "title": {
+                "ar": "أفران صهر الذهب بالحث 1–500 كجم",
+                "en": "Induction Gold Smelting Furnaces 1–500 kg"
+              },
+              "description": {
+                "ar": "أفران حث لصهر الذهب والفضة والنحاس: وحدات محمولة ⁦2⁠–⁠70⁩ كيلوواط، وأفران ⁦WGR⁩ عالية التردد، وأفران ⁦GWJ⁩ متوسطة التردد حتى ⁦500⁩ كجم. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Induction furnaces for melting gold, silver and copper: portable 2–70 kW units, WGR high-frequency furnaces and GWJ medium-frequency furnaces up to 500 kg. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أفران حث لصهر الذهب من وحدات محمولة ⁦1⁩ كجم إلى أفران ⁦GWJ⁩ بسعة ⁦500⁩ كجم. اختر من الجدول أدناه.",
+              "en": "Induction furnaces for gold, from 1 kg portable units to 500 kg GWJ furnaces. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "أي فرن يناسب كمية الذهب لدي؟",
+                  "a": "اختر الفرن بسعة الصهرة في الجدول: الأفران المحمولة حتى ⁦100⁩ كجم، و⁦WGR⁩ لـ ⁦1⁠–⁠4⁩ كجم بسرعة، و⁦GWJ⁩ من ⁦150⁩ إلى ⁦500⁩ كجم. أرسل لنا الكمية في كل صهرة ومصدر الكهرباء في الموقع لنحدد الموديل."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Which furnace suits the amount of gold I melt?",
+                  "a": "Choose by the melting capacity in the table: portable furnaces up to 100 kg, WGR for 1–4 kg quickly, and GWJ from 150 to 500 kg. Send us the amount per melt and the power on site and we set the model."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "13",
+                  "label": "موديلاً"
+                },
+                {
+                  "value": "⁦1⁠–⁠500⁩ كجم",
+                  "label": "سعة الصهرة"
+                },
+                {
+                  "value": "⁦1500⁠–⁠2000 °⁩م",
+                  "label": "حرارة الفرن"
+                }
+              ],
+              "en": [
+                {
+                  "value": "13",
+                  "label": "Models"
+                },
+                {
+                  "value": "1–500 kg",
+                  "label": "Capacity per melt"
+                },
+                {
+                  "value": "1500–2000 °C",
+                  "label": "Furnace temperature"
+                }
+              ]
+            }
+          },
+          {
+            "id": "gold-melting-furnaces",
+            "name": {
+              "ar": "أفران صهر الذهب – موديلات إضافية",
+              "en": "Gold Melting Furnaces – Additional Models"
+            },
+            "coverImage": "/products/gold-melting-furnaces/gold-melting-furnaces.webp",
+            "description": {
+              "ar": "فرن منضدي ⁦1⁩ كجم للورش الصغيرة، ووحدات حث عالية التردد تصهر ⁦1⁠–⁠5⁩ كجم من الذهب أو الفضة في ⁦3⁠–⁠5⁩ دقائق، وأفران حث بخزانة من ⁦1⁩ إلى ⁦8⁩ كجم، وأفران متوسطة التردد حتى ⁦160⁩ كيلوواط للمصافي.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "A 1 kg bench furnace for small workshops, high-frequency induction units melting 1–5 kg of gold or silver in 3–5 minutes, cabinet induction furnaces from 1 to 8 kg, and medium-frequency furnaces up to 160 kW for refineries.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "فرن ⁦JL-MF-1⁩ لصهر حتى ⁦1⁩ كجم بقدرة ⁦1500⁩ واط وحرارة حتى ⁦1150 °⁩م",
+                "أفران ⁦JL-15KW⁩ و⁦JL-25KW⁩ عالية التردد لـ ⁦1⁠–⁠5⁩ كجم في ⁦3⁠–⁠5⁩ دقائق",
+                "أفران ⁦JL-MFG⁩ بخزانة من ⁦1⁩ إلى ⁦8⁩ كجم بتشغيل ⁦24⁩ ساعة بالحمل الكامل",
+                "أفران ⁦JLZ⁩ متوسطة التردد ⁦15⁠–⁠160⁩ كيلوواط، ثابتة أو قلّابة أو بالدفع"
+              ],
+              "en": [
+                "JL-MF-1 for up to 1 kg, 1500 W, up to 1150 °C",
+                "JL-15KW and JL-25KW high-frequency furnaces for 1–5 kg in 3–5 minutes",
+                "JL-MFG cabinet furnaces from 1 to 8 kg, 24 h full-load duty",
+                "JLZ medium-frequency furnaces, 15–160 kW, fixed, tilting or push-out"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "المعدن الثمين في الصهرة",
+                  "value": "⁦1⁠–⁠250⁩ كجم"
+                },
+                {
+                  "label": "زمن الصهر (الوحدات الصغيرة)",
+                  "value": "⁦3⁠–⁠5⁩ دقائق"
+                },
+                {
+                  "label": "القدرة",
+                  "value": "⁦1.5⁠–⁠160⁩ كيلوواط"
+                },
+                {
+                  "label": "التغذية",
+                  "value": "⁦110⁩ أو ⁦220⁩ أو ⁦380⁩ فولت"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Precious metal per melt",
+                  "value": "1–250 kg"
+                },
+                {
+                  "label": "Melting time (small units)",
+                  "value": "3–5 min"
+                },
+                {
+                  "label": "Power",
+                  "value": "1.5–160 kW"
+                },
+                {
+                  "label": "Supply",
+                  "value": "110, 220 or 380 V"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/gold-melting-furnaces/gold-melting-furnaces.webp"
+            ],
+            "image": "/products/gold-melting-furnaces/gold-melting-furnaces.webp",
+            "cardImage": "/products/gold-melting-furnaces/gold-melting-furnaces.webp",
+            "seo": {
+              "title": {
+                "ar": "أفران صهر الذهب: JL-MF وJL وJL-MFG وJLZ",
+                "en": "Gold Melting Furnaces: JL-MF, JL, JL-MFG and JLZ"
+              },
+              "description": {
+                "ar": "أفران صهر الذهب والمعادن الثمينة من ⁦1⁩ إلى ⁦250⁩ كجم: فرن منضدي ⁦1⁩ كجم، وأفران حث عالية التردد وبخزانة، وأفران ⁦JLZ⁩ متوسطة التردد حتى ⁦160⁩ كيلوواط. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Gold and precious-metal melting furnaces from 1 to 250 kg: a 1 kg bench furnace, high-frequency and cabinet induction furnaces, and JLZ medium-frequency furnaces up to 160 kW. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "أربع سلاسل إضافية لصهر الذهب، من فرن منضدي ⁦1⁩ كجم إلى أفران ⁦JLZ⁩ حتى ⁦160⁩ كيلوواط. اختر من الجدول أدناه.",
+              "en": "Four more gold-melting series, from a 1 kg bench furnace to JLZ furnaces up to 160 kW. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل تصلح هذه الأفران لمعادن غير الذهب؟",
+                  "a": "نعم. الأفران عالية التردد وأفران الخزانة تصهر الذهب والفضة والنحاس، وأفران ⁦JLZ⁩ تصهر أيضاً الفولاذ والألومنيوم بسعات مختلفة مذكورة في الجدول."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Do these furnaces melt metals other than gold?",
+                  "a": "Yes. The high-frequency and cabinet furnaces melt gold, silver and copper, and the JLZ furnaces also melt steel and aluminium, with the capacities given in the table."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "19",
+                  "label": "موديلاً ومقاساً"
+                },
+                {
+                  "value": "⁦1⁠–⁠250⁩ كجم",
+                  "label": "المعدن الثمين في الصهرة"
+                },
+                {
+                  "value": "⁦3⁠–⁠5⁩ دقائق",
+                  "label": "زمن الصهر (الصغيرة)"
+                }
+              ],
+              "en": [
+                {
+                  "value": "19",
+                  "label": "Models and sizes"
+                },
+                {
+                  "value": "1–250 kg",
+                  "label": "Precious metal per melt"
+                },
+                {
+                  "value": "3–5 min",
+                  "label": "Melting time (small units)"
+                }
+              ]
+            }
+          },
+          {
+            "id": "firebricks-electrodes-induction-units",
+            "name": {
+              "ar": "الطوب الحراري والأقطاب ووحدات الحث",
+              "en": "Firebricks, Electrodes & Induction Units"
+            },
+            "coverImage": "/products/firebricks-electrodes-induction-units/firebricks-electrodes-induction-units.webp",
+            "description": {
+              "ar": "طوب حراري وملاط حراري وأقطاب جرافيت لبطانات الأفران، مع وحدات تسخين وصهر بالحث عالية ومتوسطة التردد ومبرّدات هوائية مناسبة لها.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Firebricks, refractory mortars and graphite electrodes for furnace linings, plus high- and medium-frequency induction heating and melting units with matching air-cooled chillers.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "طوب حراري عازل بـ ⁦9⁩ درجات من ⁦1200⁩ إلى ⁦1730 °⁩م",
+                "طوب طيني حراري وعالي الألومينا ⁦SK30–SK40⁩، وملاط ⁦HJM⁩ حتى ⁦1760 °⁩م",
+                "أقطاب جرافيت ⁦RP⁩ و⁦HP⁩ و⁦UHP⁩ لأفران القوس الكهربائي",
+                "وحدات حث ⁦GHF⁩ و⁦GMF⁩ من ⁦8⁩ إلى ⁦500⁩ كيلوواط، ومبرّدات ⁦CA⁩ بسعة ⁦1.5⁠–⁠26⁩ كيلوواط"
+              ],
+              "en": [
+                "Insulating firebrick in 9 grades, 1200–1730 °C",
+                "SK30–SK40 fire clay and high-alumina bricks, HJM mortars up to 1760 °C",
+                "RP, HP and UHP graphite electrodes for electric-arc furnaces",
+                "GHF and GMF induction units from 8 to 500 kW, CA chillers 1.5–26 kW"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "حرارة الطوب والملاط",
+                  "value": "⁦1200⁠–⁠1760 °⁩م"
+                },
+                {
+                  "label": "قدرة وحدات الحث",
+                  "value": "⁦8⁠–⁠500⁩ كيلوواط"
+                },
+                {
+                  "label": "التردد",
+                  "value": "⁦1⁠–⁠100⁩ كيلوهرتز"
+                },
+                {
+                  "label": "التبريد",
+                  "value": "مائي، مع مبرّدات ⁦CA⁩"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Brick and mortar rating",
+                  "value": "1200–1760 °C"
+                },
+                {
+                  "label": "Induction power",
+                  "value": "8–500 kW"
+                },
+                {
+                  "label": "Frequency",
+                  "value": "1–100 kHz"
+                },
+                {
+                  "label": "Cooling",
+                  "value": "Water, with CA chillers"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/firebricks-electrodes-induction-units/firebricks-electrodes-induction-units.webp"
+            ],
+            "image": "/products/firebricks-electrodes-induction-units/firebricks-electrodes-induction-units.webp",
+            "cardImage": "/products/firebricks-electrodes-induction-units/firebricks-electrodes-induction-units.webp",
+            "seo": {
+              "title": {
+                "ar": "الطوب الحراري وأقطاب الجرافيت ووحدات الحث",
+                "en": "Firebricks, Graphite Electrodes & Induction Units"
+              },
+              "description": {
+                "ar": "طوب حراري عازل وطيني وعالي الألومينا، وملاط حراري حتى ⁦1760 °⁩م، وأقطاب جرافيت، ووحدات حث ⁦GHF⁩ و⁦GMF⁩ حتى ⁦500⁩ كيلوواط ومبرّدات ⁦CA⁩. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Insulating, fire clay and high-alumina firebricks, refractory mortars up to 1760 °C, graphite electrodes, GHF and GMF induction units up to 500 kW and CA chillers. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مواد بطانة الأفران ووحدات الحث والمبرّدات من مصدر واحد. اختر من الجدول أدناه.",
+              "en": "Furnace lining materials, induction units and chillers from one source. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "هل تحتاج وحدة الحث إلى مبرّد؟",
+                  "a": "وحدات الحث مبرّدة بالماء: تحتاج ماءً بضغط نحو ⁦0.2⁩ ميجاباسكال، ومبرّدات ⁦CA⁩ الهوائية توفر ذلك بخزان ومضخة. أرسل لنا موديل الوحدة لنختار سعة المبرّد."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "Does an induction unit need a chiller?",
+                  "a": "The induction units are water cooled and need water at about 0.2 MPa; the air-cooled CA chillers supply it with their own tank and pump. Send us the unit model and we size the chiller."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "63",
+                  "label": "موديلاً ودرجة"
+                },
+                {
+                  "value": "⁦15⁠–⁠500⁩ كيلوواط",
+                  "label": "قدرة الحث"
+                },
+                {
+                  "value": "⁦1200⁠–⁠1760 °⁩م",
+                  "label": "حرارة الطوب والملاط"
+                }
+              ],
+              "en": [
+                {
+                  "value": "63",
+                  "label": "Models & grades"
+                },
+                {
+                  "value": "15–500 kW",
+                  "label": "Induction power"
+                },
+                {
+                  "value": "1200–1760 °C",
+                  "label": "Brick & mortar rating"
+                }
+              ]
+            }
+          },
+          {
+            "id": "fused-quartz-silicon-carbide-crucibles",
+            "name": {
+              "ar": "بوتقات الكوارتز المنصهر وكربيد السيليكون",
+              "en": "Fused-Quartz & Silicon-Carbide Crucibles"
+            },
+            "coverImage": "/products/fused-quartz-silicon-carbide-crucibles/fused-quartz-silicon-carbide-crucibles.webp",
+            "description": {
+              "ar": "بوتقات من الكوارتز المنصهر (السيليكا) لصهر الذهب بالحث، مقاساتها لصهرات من ⁦1⁩ إلى ⁦20⁩ كجم، وبوتقات من كربيد السيليكون تُصنع حسب الطلب لأفران الصهر بالغاز والديزل.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Fused-quartz (silica) crucibles for induction gold melting, sized for 1 to 20 kg melts, and silicon-carbide crucibles made to order for gas and diesel melting furnaces.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "⁦7⁩ مقاسات متوفرة من الكوارتز المنصهر بقطر ⁦100⁠–⁠365⁩ مم",
+                "لصهرات ذهب ⁦1⁩ و⁦2⁩ و⁦3⁩ و⁦5⁩ و⁦10⁩ و⁦20⁩ كجم",
+                "مقاسات أخرى تُصنع حسب الطلب",
+                "بوتقات كربيد السيليكون لأفران الغاز والديزل حسب المقاس والسعة"
+              ],
+              "en": [
+                "7 fused-quartz sizes in stock, 100–365 mm diameter",
+                "For 1, 2, 3, 5, 10 and 20 kg gold melts",
+                "Other sizes made to order",
+                "Silicon-carbide crucibles for gas and diesel furnaces, made to size and capacity"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "القطر",
+                  "value": "⁦100⁠–⁠365⁩ مم"
+                },
+                {
+                  "label": "الارتفاع",
+                  "value": "⁦130⁠–⁠345⁩ مم"
+                },
+                {
+                  "label": "صهرة الذهب",
+                  "value": "⁦1⁠–⁠20⁩ كجم"
+                },
+                {
+                  "label": "كربيد السيليكون",
+                  "value": "حسب الطلب"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Diameter",
+                  "value": "100–365 mm"
+                },
+                {
+                  "label": "Height",
+                  "value": "130–345 mm"
+                },
+                {
+                  "label": "Gold melt",
+                  "value": "1–20 kg"
+                },
+                {
+                  "label": "Silicon carbide",
+                  "value": "Made to order"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/fused-quartz-silicon-carbide-crucibles/fused-quartz-silicon-carbide-crucibles.webp"
+            ],
+            "image": "/products/fused-quartz-silicon-carbide-crucibles/fused-quartz-silicon-carbide-crucibles.webp",
+            "cardImage": "/products/fused-quartz-silicon-carbide-crucibles/fused-quartz-silicon-carbide-crucibles.webp",
+            "seo": {
+              "title": {
+                "ar": "بوتقات صهر الذهب: كوارتز منصهر وكربيد السيليكون",
+                "en": "Gold Melting Crucibles: Fused Quartz & Silicon Carbide"
+              },
+              "description": {
+                "ar": "بوتقات كوارتز منصهر لصهر الذهب بالحث بقطر ⁦100⁠–⁠365⁩ مم لصهرات ⁦1⁠–⁠20⁩ كجم، وبوتقات كربيد السيليكون لأفران الغاز والديزل حسب الطلب. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Fused-quartz crucibles for induction gold melting, 100–365 mm diameter for 1–20 kg melts, and silicon-carbide crucibles for gas and diesel furnaces made to order. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "بوتقات كوارتز منصهر لصهر الذهب بالحث، وبوتقات كربيد سيليكون حسب الطلب. اختر من الجدول أدناه.",
+              "en": "Fused-quartz crucibles for induction gold melting and silicon-carbide crucibles made to order. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما المطلوب لعرض سعر بوتقة كربيد السيليكون؟",
+                  "a": "القطر الخارجي والارتفاع وسعة المعدن ونوع الفرن (غاز أو ديزل)، فهي تُصنع حسب الطلب."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What do you need to quote a silicon-carbide crucible?",
+                  "a": "The outer diameter, height, metal capacity and furnace type (gas or diesel), as they are made to order."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "7",
+                  "label": "مقاسات متوفرة"
+                },
+                {
+                  "value": "⁦1⁠–⁠20⁩ كجم",
+                  "label": "صهرة الذهب"
+                },
+                {
+                  "value": "⁦100⁠–⁠365⁩ مم",
+                  "label": "القطر"
+                }
+              ],
+              "en": [
+                {
+                  "value": "7",
+                  "label": "Sizes in stock"
+                },
+                {
+                  "value": "1–20 kg",
+                  "label": "Gold melt"
+                },
+                {
+                  "value": "100–365 mm",
+                  "label": "Diameter"
+                }
+              ]
+            }
+          },
+          {
+            "id": "refractories-quartz-glass-ceramics",
+            "name": {
+              "ar": "الحراريات وزجاج الكوارتز والسيراميك",
+              "en": "Refractories, Quartz Glass & Ceramics"
+            },
+            "coverImage": "/products/refractories-quartz-glass-ceramics/refractories-quartz-glass-ceramics.webp",
+            "description": {
+              "ar": "خرسانات حرارية وطوب وعوازل لأفران الصهر وأفران الكربون، مع بوتقات الكوارتز والسيراميك الفني لخدمة الحرارة العالية والتآكل.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Castables, bricks and insulation for smelting furnaces and carbon kilns, with quartz crucibles and technical ceramics for high-temperature and wear service.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "خرسانات حرارية منخفضة الأسمنت وعازلة خفيفة حتى ⁦1400 °⁩م",
+                "طوب عالي الألومينا وفوسفاتي وطيني بمقاومة حرارية ⁦1720⁠–⁠1790 °⁩م",
+                "طوب وخرسانات عازلة بكرات ألومينا مجوفة وموليت، وألواح عزل",
+                "زجاج كوارتز وسيراميك صناعي يُصنعان حسب الطلب أو الرسم"
+              ],
+              "en": [
+                "Low-cement and lightweight insulating castables up to 1400 °C",
+                "High-alumina, phosphate-bonded and fire-clay bricks, refractoriness 1720–1790 °C",
+                "Hollow-sphere alumina and mullite insulating bricks and castables, insulation boards",
+                "Quartz glass and industrial ceramics made to order or to drawing"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "أقصى حرارة تشغيل",
+                  "value": "⁦900⁠–⁠1400 °⁩م"
+                },
+                {
+                  "label": "مقاومة الطوب الحرارية",
+                  "value": "⁦1720⁠–⁠1790 °⁩م"
+                },
+                {
+                  "label": "الكثافة الظاهرية",
+                  "value": "⁦0.28⁠–⁠2.7⁩ جم/سم³"
+                },
+                {
+                  "label": "زجاج الكوارتز والسيراميك",
+                  "value": "حسب الطلب"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Max. service temperature",
+                  "value": "900–1400 °C"
+                },
+                {
+                  "label": "Brick refractoriness",
+                  "value": "1720–1790 °C"
+                },
+                {
+                  "label": "Bulk density",
+                  "value": "0.28–2.7 g/cm³"
+                },
+                {
+                  "label": "Quartz glass and ceramics",
+                  "value": "Made to order"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/refractories-quartz-glass-ceramics/refractories-quartz-glass-ceramics.webp"
+            ],
+            "image": "/products/refractories-quartz-glass-ceramics/refractories-quartz-glass-ceramics.webp",
+            "cardImage": "/products/refractories-quartz-glass-ceramics/refractories-quartz-glass-ceramics.webp",
+            "seo": {
+              "title": {
+                "ar": "الحراريات وزجاج الكوارتز والسيراميك للأفران",
+                "en": "Furnace Refractories, Quartz Glass & Ceramics"
+              },
+              "description": {
+                "ar": "خرسانات حرارية وعازلة، وطوب عالي الألومينا وفوسفاتي وطيني، وألواح عزل، وزجاج كوارتز وسيراميك صناعي لأفران صهر الذهب. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Refractory and insulating castables, high-alumina, phosphate-bonded and fire-clay bricks, insulation boards, quartz glass and industrial ceramics for gold smelting furnaces. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "مواد حرارية وعازلة لأفران الصهر، مع زجاج الكوارتز والسيراميك الصناعي. اختر من الجدول أدناه.",
+              "en": "Refractory and insulating materials for smelting furnaces, with quartz glass and industrial ceramics. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "ما الفرق بين الخرسانة الحرارية والخرسانة العازلة؟",
+                  "a": "الخرسانة الحرارية منخفضة الأسمنت كثيفة (⁦2.30⁠–⁠2.55⁩ جم/سم³) للبطانة الملامسة للحرارة حتى ⁦1400 °⁩م، والعازلة خفيفة (⁦0.8⁠–⁠1.2⁩ جم/سم³) خلفها لتقليل فقد الحرارة."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "What is the difference between a castable and an insulating castable?",
+                  "a": "Low-cement castable is dense (2.30–2.55 g/cm³) for the hot-face lining up to 1400 °C; the insulating castable is light (0.8–1.2 g/cm³) and goes behind it to cut heat loss."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "12",
+                  "label": "منتجاً"
+                },
+                {
+                  "value": "⁦900⁠–⁠1400 °⁩م",
+                  "label": "حرارة تشغيل الخرسانات والألواح"
+                },
+                {
+                  "value": "⁦1720⁠–⁠1790 °⁩م",
+                  "label": "مقاومة الطوب الحرارية"
+                }
+              ],
+              "en": [
+                {
+                  "value": "12",
+                  "label": "Products"
+                },
+                {
+                  "value": "900–1400 °C",
+                  "label": "Castable and board service temp."
+                },
+                {
+                  "value": "1720–1790 °C",
+                  "label": "Brick refractoriness"
+                }
+              ]
+            }
+          },
+          {
+            "id": "ceramic-fibre-furnace-insulation",
+            "name": {
+              "ar": "الألياف الخزفية وعزل الأفران",
+              "en": "Ceramic Fibre & Furnace Insulation"
+            },
+            "coverImage": "/products/ceramic-fibre-furnace-insulation/ceramic-fibre-furnace-insulation.webp",
+            "description": {
+              "ar": "بطانيات وألواح وورق ومنسوجات من الألياف الخزفية والألياف القابلة للذوبان حيوياً، وألواح ميكروبورية، لتبطين أفران الصهر وعزلها، ولأغطية البوتقات وأبواب الأفران والوصلات.\nنحدد الموديل المناسب من بيانات موقعكم، ونورّده مع قطع الغيار والمستهلكات، ونشحنه إلى المشاريع في قطر والشرق الأوسط وأفريقيا، مع التركيب والتدريب والصيانة عبر مهندسينا وفنيينا.",
+              "en": "Ceramic and bio-soluble fibre blankets, boards, paper, textiles and microporous panels for lining and insulating melting furnaces, crucible covers, furnace doors and joints.\nWe confirm the model from your site data, supply it with spare parts and consumables, and ship to projects in Qatar, the Middle East and Africa; installation, training and maintenance are available through our engineers and technicians."
+            },
+            "features": {
+              "ar": [
+                "بطانيات ألياف خزفية بتصنيف ⁦1260⁩ و⁦1430 °⁩م وكثافة ⁦80⁠–⁠160⁩ كجم/م³",
+                "ألواح وأشكال مشكّلة بالتفريغ لـ ⁦950⁠–⁠1350 °⁩م، وورق ألياف بدرجات ⁦STD⁩ و⁦HA⁩ و⁦HZ⁩",
+                "قماش وأشرطة وحبال لأبواب الأفران والوصلات حتى ⁦1000 °⁩م",
+                "ألياف قابلة للذوبان حيوياً وألواح ميكروبورية لأفران الصهر"
+              ],
+              "en": [
+                "Ceramic fibre blankets rated 1260 and 1430 °C, 80–160 kg/m³",
+                "Boards and vacuum-formed shapes for 950–1350 °C, fibre paper in STD, HA and HZ grades",
+                "Cloth, tape and rope for furnace doors and joints up to 1000 °C",
+                "Bio-soluble fibres and microporous boards for melting furnaces"
+              ]
+            },
+            "featureImages": [],
+            "specs": {
+              "ar": [
+                {
+                  "label": "حرارة التصنيف",
+                  "value": "⁦950⁠–⁠1430 °⁩م"
+                },
+                {
+                  "label": "الكثافة",
+                  "value": "⁦80⁠–⁠650⁩ كجم/م³"
+                },
+                {
+                  "label": "الأشكال",
+                  "value": "بطانيات وألواح وورق وقماش وأشرطة وحبال"
+                },
+                {
+                  "label": "الاستخدام",
+                  "value": "تبطين الأفران وأغطية البوتقات والأبواب"
+                }
+              ],
+              "en": [
+                {
+                  "label": "Classification temperature",
+                  "value": "950–1430 °C"
+                },
+                {
+                  "label": "Density",
+                  "value": "80–650 kg/m³"
+                },
+                {
+                  "label": "Forms",
+                  "value": "Blanket, board, paper, cloth, tape, rope"
+                },
+                {
+                  "label": "Use",
+                  "value": "Furnace linings, crucible covers, doors"
+                }
+              ]
+            },
+            "specDrawings": [],
+            "images": [
+              "/products/ceramic-fibre-furnace-insulation/ceramic-fibre-furnace-insulation.webp"
+            ],
+            "image": "/products/ceramic-fibre-furnace-insulation/ceramic-fibre-furnace-insulation.webp",
+            "cardImage": "/products/ceramic-fibre-furnace-insulation/ceramic-fibre-furnace-insulation.webp",
+            "seo": {
+              "title": {
+                "ar": "الألياف الخزفية وعزل أفران الصهر حتى 1430 °م",
+                "en": "Ceramic Fibre & Furnace Insulation up to 1430 °C"
+              },
+              "description": {
+                "ar": "بطانيات وألواح وورق وقماش وأشرطة وحبال من الألياف الخزفية والقابلة للذوبان حيوياً، وألواح ميكروبورية لعزل أفران صهر الذهب. التوريد للشرق الأوسط وأفريقيا.",
+                "en": "Ceramic and bio-soluble fibre blankets, boards, paper, cloth, tape and rope, and microporous boards for insulating gold melting furnaces. Supply to the Middle East and Africa."
+              }
+            },
+            "summary": {
+              "ar": "ألياف خزفية ومواد عزل لأفران الصهر بكل الأشكال. اختر من الجدول أدناه.",
+              "en": "Ceramic fibre and insulation for melting furnaces in every form. Pick from the table below."
+            },
+            "faq": {
+              "ar": [
+                {
+                  "q": "متى أختار الألياف القابلة للذوبان حيوياً؟",
+                  "a": "حين تكفي حرارة تصنيف ⁦1260 °⁩م وتريد أليافاً أسهل في المناولة، فهي ذات ذوبانية ≥ ⁦200⁩ ملغ/لتر. للحرارة الأعلى اختر ألياف ⁦1430 °⁩م الخزفية."
+                },
+                {
+                  "q": "ما المطلوب لعرض السعر، ومتى يصل؟",
+                  "a": "أرسل لنا الموديل أو كود ⁦BX⁩ من الجدول، والكمية، وبلد التسليم، وظروف الموقع إن وُجدت. يتولى طلبك فريق مبيعات خلال الساعة الأولى، ونرسل عرض السعر خلال ⁦3⁩ أيام عمل."
+                },
+                {
+                  "q": "هل تشحنون خارج قطر، وما شروط التصدير؟",
+                  "a": "نعم، نورّد ونشحن إلى المشاريع في الشرق الأوسط وأفريقيا. نتفق على شروط التصدير والتسليم مع كل عميل حسب الطلب وبلد الوجهة، ونراجع كل طلب وفق قواعد العقوبات والتصدير المعمول بها قبل إرسال عرض السعر."
+                }
+              ],
+              "en": [
+                {
+                  "q": "When should I choose bio-soluble fibre?",
+                  "a": "When a 1260 °C classification is enough and you want fibre that is easier to handle, as its solubility is ≥ 200 mg/l. For higher temperatures choose the 1430 °C ceramic fibre."
+                },
+                {
+                  "q": "What do you need for a quotation, and when will it arrive?",
+                  "a": "Send us the model or BX code from the table, the quantity, the delivery country and any site conditions. A sales team takes up your request within the first hour, and we send the quotation within 3 working days."
+                },
+                {
+                  "q": "Do you ship outside Qatar, and on what export terms?",
+                  "a": "Yes. We supply and ship to projects in the Middle East and Africa. Export and delivery terms are agreed with each customer according to the order and the destination, and every request is checked against the applicable sanctions and export rules before we send the quotation."
+                }
+              ]
+            },
+            "stats": {
+              "ar": [
+                {
+                  "value": "30",
+                  "label": "درجة ونوعاً"
+                },
+                {
+                  "value": "⁦950⁠–⁠1430 °⁩م",
+                  "label": "حرارة التصنيف"
+                },
+                {
+                  "value": "⁦80⁠–⁠650⁩ كجم/م³",
+                  "label": "الكثافة"
+                }
+              ],
+              "en": [
+                {
+                  "value": "30",
+                  "label": "Grades & types"
+                },
+                {
+                  "value": "950–1430 °C",
+                  "label": "Classification temp."
+                },
+                {
+                  "value": "80–650 kg/m³",
+                  "label": "Density"
+                }
+              ]
+            }
+          }
+        ]
       }
     ]
   }

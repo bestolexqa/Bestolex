@@ -1,0 +1,288 @@
+{
+  "id": "refractories-quartz-glass-ceramics",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-08 Ed7⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-08 Ed7 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "grade",
+      "label": {
+        "en": "Grade / models",
+        "ar": "الدرجة / الموديلات"
+      }
+    },
+    {
+      "key": "temp",
+      "label": {
+        "en": "Max. service temp. (°C)",
+        "ar": "أقصى حرارة تشغيل (°م)"
+      }
+    },
+    {
+      "key": "density",
+      "label": {
+        "en": "Bulk density (g/cm³)",
+        "ar": "الكثافة الظاهرية (جم/سم³)"
+      }
+    },
+    {
+      "key": "desc",
+      "label": {
+        "en": "Description",
+        "ar": "الوصف"
+      }
+    }
+  ],
+  "keyRows": [
+    "grade",
+    "temp",
+    "density"
+  ],
+  "types": [
+    {
+      "id": "refractories",
+      "label": {
+        "en": "Refractories and insulation for furnaces",
+        "ar": "الحراريات والعوازل للأفران"
+      },
+      "models": [
+        {
+          "code": "BX-0045-01-005",
+          "name": {
+            "en": "Low-cement castable",
+            "ar": "خرسانة حرارية منخفضة الأسمنت"
+          },
+          "specs": {
+            "grade": {
+              "en": "Al2O3 ≥ 40% and ≥ 65%",
+              "ar": "أكسيد الألومنيوم ≥ ⁦40%⁩ و≥ ⁦65%⁩"
+            },
+            "temp": {
+              "en": "1300–1400",
+              "ar": "⁦1300–1400⁩"
+            },
+            "density": {
+              "en": "2.30–2.55",
+              "ar": "⁦2.30–2.55⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0045-01-007",
+          "name": {
+            "en": "High-alumina plastic refractory",
+            "ar": "حراريات لدنة عالية الألومينا"
+          },
+          "specs": {
+            "grade": {
+              "en": "RS-PA70, Al2O3 ≥ 70%, phosphate bonded",
+              "ar": "⁦RS-PA70⁩، أكسيد الألومنيوم ≥ ⁦70%⁩، رابط فوسفاتي"
+            },
+            "temp": {
+              "en": "1400",
+              "ar": "1400"
+            },
+            "density": {
+              "en": "2.7",
+              "ar": "⁦2.7⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0045-01-011",
+          "name": {
+            "en": "Lightweight insulating castable",
+            "ar": "خرسانة عازلة خفيفة"
+          },
+          "specs": {
+            "grade": {
+              "en": "RS-LW1.2, RS-LW1.0, RS-LW0.8; Al2O3 ≥ 30%",
+              "ar": "⁦RS-LW1.2⁩ و⁦RS-LW1.0⁩ و⁦RS-LW0.8⁩؛ أكسيد الألومنيوم ≥ ⁦30%⁩"
+            },
+            "temp": {
+              "en": "900–1100",
+              "ar": "⁦900–1100⁩"
+            },
+            "density": {
+              "en": "0.8–1.2",
+              "ar": "⁦0.8–1.2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0045-01-009",
+          "name": {
+            "en": "Aluminium silicate fibre board",
+            "ar": "لوح ألياف سيليكات الألومنيوم"
+          },
+          "specs": {
+            "grade": {
+              "en": "PXB-1000; Al2O3 ≥ 45%",
+              "ar": "⁦PXB-1000⁩؛ أكسيد الألومنيوم ≥ ⁦45%⁩"
+            },
+            "temp": {
+              "en": "1000",
+              "ar": "1000"
+            },
+            "density": {
+              "en": "0.28–0.80",
+              "ar": "⁦0.28–0.80⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0045-01-015",
+          "name": {
+            "en": "High-alumina, phosphate-bonded and fire-clay bricks",
+            "ar": "طوب عالي الألومينا وفوسفاتي وطين حراري"
+          },
+          "specs": {
+            "grade": {
+              "en": "Al2O3 48–75% (high-alumina), 71–80% (phosphate-bonded)",
+              "ar": "أكسيد الألومنيوم ⁦48⁠–⁠75%⁩ (عالي الألومينا)، و⁦71⁠–⁠80%⁩ (فوسفاتي)"
+            },
+            "temp": {
+              "en": "Refractoriness 1720–1790",
+              "ar": "مقاومة حرارية ⁦1720⁠–⁠1790⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0045-03-026",
+          "name": {
+            "en": "Alumina hollow-sphere insulating castable",
+            "ar": "خرسانة عازلة بكرات ألومينا مجوفة"
+          },
+          "specs": {}
+        },
+        {
+          "code": "BX-0045-03-027",
+          "name": {
+            "en": "Mullite insulating brick",
+            "ar": "طوب موليت عازل"
+          },
+          "specs": {}
+        },
+        {
+          "code": "BX-0045-03-028",
+          "name": {
+            "en": "High-alumina insulating brick",
+            "ar": "طوب عازل عالي الألومينا"
+          },
+          "specs": {}
+        },
+        {
+          "code": "BX-0045-03-029",
+          "name": {
+            "en": "Alumina hollow-ball insulating brick",
+            "ar": "طوب عازل بكرات ألومينا مجوفة"
+          },
+          "specs": {}
+        },
+        {
+          "code": "BX-0045-03-030",
+          "name": {
+            "en": "Insulation boards",
+            "ar": "ألواح العزل"
+          },
+          "specs": {
+            "grade": {
+              "en": "Calcium silicate, aluminium silicate fibre, rock wool, composite silicate",
+              "ar": "سيليكات الكالسيوم، وألياف سيليكات الألومنيوم، والصوف الصخري، والسيليكات المركّبة"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "900–1400 °C",
+        "ar": "⁦900⁠–⁠1400 °⁩م"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      },
+      "intro": {
+        "en": "Bricks: refractoriness under load 1250–1500 °C. Fibre board thermal conductivity ≤ 0.14 W/(m·K) at 680 °C.",
+        "ar": "الطوب: مقاومة حرارية تحت الحمل ⁦1250⁠–⁠1500 °⁩م. الموصلية الحرارية للوح الألياف ≤ ⁦0.14⁩ واط/(م·كلفن) عند ⁦680 °⁩م."
+      }
+    },
+    {
+      "id": "quartz-ceramics",
+      "label": {
+        "en": "Quartz glass and industrial ceramics",
+        "ar": "زجاج الكوارتز والسيراميك الصناعي"
+      },
+      "models": [
+        {
+          "code": "BX-0046-01-003",
+          "name": {
+            "en": "Quartz glass",
+            "ar": "زجاج الكوارتز"
+          },
+          "specs": {
+            "desc": {
+              "en": "Opaque quartz crucibles with lids, tubes, plates, discs, rods and trays; high heat and thermal-shock resistance, acid and alkali resistant, high purity; made to order",
+              "ar": "بوتقات كوارتز معتمة بأغطية، وأنابيب وألواح وأقراص وقضبان وصوانٍ؛ تتحمل الحرارة العالية والصدمة الحرارية، ومقاومة للأحماض والقلويات، وعالية النقاء؛ تُصنع حسب الطلب"
+            }
+          }
+        },
+        {
+          "code": "BX-0046-01-002",
+          "name": {
+            "en": "Industrial ceramics",
+            "ar": "السيراميك الصناعي"
+          },
+          "specs": {
+            "desc": {
+              "en": "Wear blocks and tiles, tubes, seal rings, trays and square crucibles, made to drawing for wear linings and process equipment",
+              "ar": "كتل وبلاطات مقاومة للتآكل، وأنابيب وحلقات إحكام وصوانٍ وبوتقات مربعة، تُصنع حسب الرسم لبطانات التآكل ومعدات المعالجة"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ],
+  "countUnit": {
+    "ar": [
+      "منتج واحد",
+      "منتجان",
+      "منتجات"
+    ],
+    "en": [
+      "product",
+      "products"
+    ]
+  }
+}

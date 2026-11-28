@@ -1,0 +1,134 @@
+{
+  "id": "gold-melting-furnaces",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-08 Ed7⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-08 Ed7 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Models / sizes",
+        "ar": "الموديلات والمقاسات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Gold melting furnaces – additional models",
+        "ar": "أفران صهر الذهب – موديلات إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0436-01-001",
+          "name": {
+            "en": "1 kg precious-metal melting furnace",
+            "ar": "فرن صهر معادن ثمينة ⁦1⁩ كجم"
+          },
+          "specs": {
+            "models": {
+              "en": "JL-MF-1",
+              "ar": "⁦JL-MF-1⁩"
+            },
+            "data": {
+              "en": "Up to 1 kg; 1500 W; 220 V or 110 V; max. 1150 °C; ±0.5% FS; 310 × 360 × 370 mm; 15 kg",
+              "ar": "حتى ⁦1⁩ كجم؛ ⁦1500⁩ واط؛ ⁦220⁩ أو ⁦110⁩ فولت؛ حتى ⁦1150 °⁩م؛ دقة ±⁦0.5% FS⁩؛ ⁦310 × 360 × 370⁩ مم؛ ⁦15⁩ كجم"
+            }
+          }
+        },
+        {
+          "code": "BX-0436-01-002",
+          "name": {
+            "en": "High-frequency induction melting furnaces",
+            "ar": "أفران صهر بالحث عالية التردد"
+          },
+          "specs": {
+            "models": {
+              "en": "JL-15KW, JL-25KW",
+              "ar": "⁦JL-15KW, JL-25KW⁩"
+            },
+            "data": {
+              "en": "JL-15: 1–2 kg gold or silver, 220 V, 15 kW; JL-25: 3–5 kg, 380 V, 25 kW; 30–100 kHz; 3–5 min per melt",
+              "ar": "⁦JL-15⁩: ‏⁦1⁠–⁠2⁩ كجم ذهب أو فضة، ⁦220⁩ فولت، ⁦15⁩ كيلوواط؛ ⁦JL-25⁩: ‏⁦3⁠–⁠5⁩ كجم، ⁦380⁩ فولت، ⁦25⁩ كيلوواط؛ ⁦30⁠–⁠100⁩ كيلوهرتز؛ ⁦3⁠–⁠5⁩ دقائق للصهرة"
+            }
+          }
+        },
+        {
+          "code": "BX-0436-01-003",
+          "name": {
+            "en": "Cabinet induction melting furnaces",
+            "ar": "أفران صهر بالحث بخزانة"
+          },
+          "specs": {
+            "models": {
+              "en": "JL-MFG, 1 to 8 kg (1, 2, 3, 4, 5, 5.5, 6, 8 kg)",
+              "ar": "⁦JL-MFG⁩، من ⁦1⁩ إلى ⁦8⁩ كجم (⁦1⁩، ⁦2⁩، ⁦3⁩، ⁦4⁩، ⁦5⁩، ⁦5.5⁩، ⁦6⁩، ⁦8⁩ كجم)"
+            },
+            "data": {
+              "en": "IGBT; gold, silver, copper; 3–5 min per melt; 24 h full-load duty; voltage, current and water-loss protection",
+              "ar": "⁦IGBT⁩؛ ذهب وفضة ونحاس؛ ⁦3⁠–⁠5⁩ دقائق للصهرة؛ تشغيل ⁦24⁩ ساعة بالحمل الكامل؛ حماية من الجهد والتيار وانقطاع الماء"
+            }
+          }
+        },
+        {
+          "code": "BX-0436-02-001",
+          "name": {
+            "en": "Medium-frequency induction melting furnaces",
+            "ar": "أفران صهر بالحث متوسطة التردد"
+          },
+          "specs": {
+            "models": {
+              "en": "JLZ-15, 25, 35, 45, 70, 90, 110, 160 kW; fixed, tilting or push-out",
+              "ar": "⁦JLZ-15⁩، ⁦25⁩، ⁦35⁩، ⁦45⁩، ⁦70⁩، ⁦90⁩، ⁦110⁩، ⁦160⁩ كيلوواط؛ ثابتة أو قلّابة أو بالدفع"
+            },
+            "data": {
+              "en": "Copper and precious metals 5–10 kg (15 kW) to 150–250 kg (160 kW); steel 3–130 kg; aluminium 30–350 kg; under 1 m²",
+              "ar": "النحاس والمعادن الثمينة من ⁦5⁠–⁠10⁩ كجم (⁦15⁩ كيلوواط) إلى ⁦150⁠–⁠250⁩ كجم (⁦160⁩ كيلوواط)؛ الفولاذ ⁦3⁠–⁠130⁩ كجم؛ الألومنيوم ⁦30⁠–⁠350⁩ كجم؛ أقل من ⁦1⁩ م²"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1–250 kg",
+        "ar": "⁦1⁠–⁠250⁩ كجم"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

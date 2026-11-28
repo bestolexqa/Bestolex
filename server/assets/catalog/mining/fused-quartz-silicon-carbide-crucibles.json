@@ -1,0 +1,241 @@
+{
+  "id": "fused-quartz-silicon-carbide-crucibles",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-08 Ed7⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-08 Ed7 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "dia",
+      "label": {
+        "en": "Diameter (mm)",
+        "ar": "القطر (مم)"
+      }
+    },
+    {
+      "key": "height",
+      "label": {
+        "en": "Height (mm)",
+        "ar": "الارتفاع (مم)"
+      }
+    },
+    {
+      "key": "supply",
+      "label": {
+        "en": "Supply",
+        "ar": "التوريد"
+      }
+    },
+    {
+      "key": "quote",
+      "label": {
+        "en": "Data needed for a quotation",
+        "ar": "البيانات المطلوبة لعرض السعر"
+      }
+    }
+  ],
+  "keyRows": [
+    "dia",
+    "height",
+    "supply"
+  ],
+  "types": [
+    {
+      "id": "quartz",
+      "label": {
+        "en": "Fused-quartz (silica) crucibles for induction gold melting – sizes available now",
+        "ar": "بوتقات كوارتز منصهر (سيليكا) لصهر الذهب بالحث – مقاسات متوفرة"
+      },
+      "models": [
+        {
+          "code": "BX-0046-02-001 / Ø100 × 130",
+          "name": {
+            "en": "Ø100 × 130",
+            "ar": "⁦Ø100 × 130⁩"
+          },
+          "specs": {
+            "dia": {
+              "en": "100",
+              "ar": "100"
+            },
+            "height": {
+              "en": "130",
+              "ar": "130"
+            }
+          }
+        },
+        {
+          "code": "BX-0046-02-001 / Ø160 × 130",
+          "name": {
+            "en": "Ø160 × 130",
+            "ar": "⁦Ø160 × 130⁩"
+          },
+          "specs": {
+            "dia": {
+              "en": "160",
+              "ar": "160"
+            },
+            "height": {
+              "en": "130",
+              "ar": "130"
+            }
+          }
+        },
+        {
+          "code": "BX-0046-02-001 / Ø210 × 150",
+          "name": {
+            "en": "Ø210 × 150",
+            "ar": "⁦Ø210 × 150⁩"
+          },
+          "specs": {
+            "dia": {
+              "en": "210",
+              "ar": "210"
+            },
+            "height": {
+              "en": "150",
+              "ar": "150"
+            }
+          }
+        },
+        {
+          "code": "BX-0046-02-001 / Ø285 × 260",
+          "name": {
+            "en": "Ø285 × 260",
+            "ar": "⁦Ø285 × 260⁩"
+          },
+          "specs": {
+            "dia": {
+              "en": "285",
+              "ar": "285"
+            },
+            "height": {
+              "en": "260",
+              "ar": "260"
+            }
+          }
+        },
+        {
+          "code": "BX-0046-02-001 / Ø295 × 250",
+          "name": {
+            "en": "Ø295 × 250",
+            "ar": "⁦Ø295 × 250⁩"
+          },
+          "specs": {
+            "dia": {
+              "en": "295",
+              "ar": "295"
+            },
+            "height": {
+              "en": "250",
+              "ar": "250"
+            }
+          }
+        },
+        {
+          "code": "BX-0046-02-001 / Ø325 × 285",
+          "name": {
+            "en": "Ø325 × 285",
+            "ar": "⁦Ø325 × 285⁩"
+          },
+          "specs": {
+            "dia": {
+              "en": "325",
+              "ar": "325"
+            },
+            "height": {
+              "en": "285",
+              "ar": "285"
+            }
+          }
+        },
+        {
+          "code": "BX-0046-02-001 / Ø365 × 345",
+          "name": {
+            "en": "Ø365 × 345",
+            "ar": "⁦Ø365 × 345⁩"
+          },
+          "specs": {
+            "dia": {
+              "en": "365",
+              "ar": "365"
+            },
+            "height": {
+              "en": "345",
+              "ar": "345"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "Ø100–365 mm",
+        "ar": "قطر ⁦100⁠–⁠365⁩ مم"
+      },
+      "countUnit": {
+        "ar": [
+          "مقاس واحد",
+          "مقاسان",
+          "مقاسات"
+        ],
+        "en": [
+          "size",
+          "sizes"
+        ]
+      },
+      "intro": {
+        "en": "For 1, 2, 3, 5, 10 and 20 kg gold melts. Other sizes made to order.",
+        "ar": "لصهرات ذهب ⁦1⁩ و⁦2⁩ و⁦3⁩ و⁦5⁩ و⁦10⁩ و⁦20⁩ كجم. المقاسات الأخرى تُصنع حسب الطلب."
+      }
+    },
+    {
+      "id": "sic",
+      "label": {
+        "en": "Silicon-carbide crucibles for gas and diesel melting furnaces",
+        "ar": "بوتقات كربيد السيليكون لأفران الصهر بالغاز والديزل"
+      },
+      "models": [
+        {
+          "code": "BX-0046-02-002",
+          "name": {
+            "en": "Silicon-carbide crucibles",
+            "ar": "بوتقات كربيد السيليكون"
+          },
+          "specs": {
+            "supply": {
+              "en": "Made to order",
+              "ar": "تُصنع حسب الطلب"
+            },
+            "quote": {
+              "en": "Outer Ø, height, metal capacity and furnace type",
+              "ar": "القطر الخارجي والارتفاع وسعة المعدن ونوع الفرن"
+            }
+          }
+        }
+      ],
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

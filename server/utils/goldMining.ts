@@ -139,12 +139,26 @@ export const STAGES: Stage[] = [
     image: '/gold-mining/stages/process-chemicals.webp', cover: '', cta: CTA_DEFAULT
   },
   {
-    id: 'smelting-refining', n: 7, kind: 'line', code: 'BXC-08', edition: '7',
+    id: 'smelting-refining', n: 7, kind: 'line', code: 'BXC-08', edition: '7', sub: 'smelting-refining',
     title: L('الصهر والتنقية', 'Smelting & Refining'),
     short: L('أفران صهر الذهب بالحث، والبوتقات، والطوب الحراري، والعوازل.', 'Induction gold-melting furnaces, crucibles, refractory bricks and insulation.'),
-    lead: L('أفران صهر الذهب بالحث، والبوتقات، والطوب الحراري، والعوازل.', 'Induction gold-melting furnaces, crucibles, refractory bricks and insulation.'),
+    lead: L('أفران صهر الذهب بالحث من 1 إلى 500 كجم، وبوتقات الكوارتز وكربيد السيليكون، والطوب والخرسانات الحرارية، والألياف الخزفية لعزل الأفران، من الصهرة الأولى إلى السبيكة.',
+      'Induction gold-melting furnaces from 1 to 500 kg, quartz and silicon-carbide crucibles, firebricks and castables, and ceramic fibre to insulate the furnace, from the first melt to the bar.'),
     families: 6, models: 144,
-    image: '/gold-mining/stages/smelting-refining.webp', cover: '/gold-mining/covers/bxc-08.webp', cta: CTA_DEFAULT
+    image: '/gold-mining/stages/smelting-refining.webp', cover: '/gold-mining/covers/bxc-08.webp',
+    cta: { title: L('لا تعرف أي فرن يناسب إنتاجك؟', 'Not sure which furnace fits your output?'),
+      text: L('أرسل كمية الذهب في كل صهرة، وعدد الصهرات في اليوم، ومصدر الكهرباء في الموقع، ونقترح عليك الفرن والبوتقة.', 'Send us the gold per melt, the melts per day and the power on site, and we suggest the furnace and crucible.') },
+    types: [
+      { id: 'furnaces', chip: L('أفران الصهر', 'Furnaces'), badge: L('أفران الصهر', 'Melting furnaces') },
+      { id: 'crucibles', chip: L('البوتقات', 'Crucibles'), badge: L('البوتقات', 'Crucibles') },
+      { id: 'refractories', chip: L('الحراريات والعزل', 'Refractories & insulation'), badge: L('الحراريات والعزل', 'Refractories & insulation') }
+    ],
+    how: [
+      { title: L('الكمية في كل صهرة', 'Gold per melt'), text: L('قارنها بعمود سعة الصهر في جدول الفرن، واترك هامشاً للبوتقة.', 'Compare it with the melting capacity column in the furnace table, with a margin for the crucible.') },
+      { title: L('الكهرباء في الموقع', 'Power on site'), text: L('الوحدات الصغيرة تعمل على 220 فولت، والأكبر تحتاج 380 فولت ثلاثية الأطوار أو مولداً بالقدرة نفسها.', 'Small units run on 220 V; larger ones need 380 V three-phase or a generator of the same rating.') },
+      { title: L('التبريد', 'Cooling'), text: L('أفران الحث مبرّدة بالماء: جهّز ماءً بالضغط المذكور أو مبرّداً هوائياً.', 'Induction furnaces are water cooled: plan water at the stated pressure, or an air-cooled chiller.') },
+      { title: L('البوتقة والبطانة', 'Crucible and lining'), text: L('اختر البوتقة بقطر الفرن وكمية الصهرة، والطوب أو الخرسانة الحرارية بحرارة التشغيل.', 'Choose the crucible by furnace diameter and melt size, and the bricks or castable by service temperature.') }
+    ]
   },
   {
     id: 'pumps-slurry-handling', n: 0, kind: 'support', code: 'BXC-07', edition: '5',
@@ -182,6 +196,12 @@ export const STAGES: Stage[] = [
 
 // Family pages: their place in the stage (group tab) and their chip.
 const FAMILY_META: Record<string, { group?: string, type?: string }> = {
+  'induction-gold-smelting-furnaces': { type: 'furnaces' },
+  'gold-melting-furnaces': { type: 'furnaces' },
+  'firebricks-electrodes-induction-units': { type: 'refractories' },
+  'fused-quartz-silicon-carbide-crucibles': { type: 'crucibles' },
+  'refractories-quartz-glass-ceramics': { type: 'refractories' },
+  'ceramic-fibre-furnace-insulation': { type: 'refractories' },
   'geophysical-survey-instruments': { type: 'survey' },
   'metal-detectors-water-well-drill-rigs': { type: 'survey' },
   'core-rc-exploration-drill-rigs': { type: 'rigs' },

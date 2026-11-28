@@ -57,7 +57,13 @@ const FAMILY_FILES: Record<string, string> = {
   'impact-fine-crushers': 'catalog/mining/impact-fine-crushers.json',
   'roller-crushers': 'catalog/mining/roller-crushers.json',
   'mobile-crushing-plants': 'catalog/mining/mobile-crushing-plants.json',
-  'tyre-crawler-mounted-crushing-plants': 'catalog/mining/tyre-crawler-mounted-crushing-plants.json'
+  'tyre-crawler-mounted-crushing-plants': 'catalog/mining/tyre-crawler-mounted-crushing-plants.json',
+  'induction-gold-smelting-furnaces': 'catalog/mining/induction-gold-smelting-furnaces.json',
+  'gold-melting-furnaces': 'catalog/mining/gold-melting-furnaces.json',
+  'firebricks-electrodes-induction-units': 'catalog/mining/firebricks-electrodes-induction-units.json',
+  'fused-quartz-silicon-carbide-crucibles': 'catalog/mining/fused-quartz-silicon-carbide-crucibles.json',
+  'refractories-quartz-glass-ceramics': 'catalog/mining/refractories-quartz-glass-ceramics.json',
+  'ceramic-fibre-furnace-insulation': 'catalog/mining/ceramic-fibre-furnace-insulation.json'
 }
 
 const cache = new Map<string, any>()

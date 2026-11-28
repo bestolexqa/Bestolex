@@ -1,0 +1,247 @@
+{
+  "id": "ceramic-fibre-furnace-insulation",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-08 Ed7⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-08 Ed7 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Models / sizes",
+        "ar": "الموديلات والمقاسات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "fibre",
+      "label": {
+        "en": "Ceramic fibre & insulation products",
+        "ar": "منتجات الألياف الخزفية والعزل"
+      },
+      "models": [
+        {
+          "code": "BX-0453-01-002",
+          "name": {
+            "en": "Ceramic fibre blanket",
+            "ar": "بطانية ألياف خزفية"
+          },
+          "specs": {
+            "models": {
+              "en": "1260 STD, 1260 HP, 1430 HZ; density 80, 96, 128, 160 kg/m³",
+              "ar": "⁦1260 STD⁩ و⁦1260 HP⁩ و⁦1430 HZ⁩؛ الكثافة ⁦80⁩ و⁦96⁩ و⁦128⁩ و⁦160⁩ كجم/م³"
+            },
+            "data": {
+              "en": "Classification 1260 and 1430 °C; Al2O3 34–45%",
+              "ar": "تصنيف ⁦1260⁩ و⁦1430 °⁩م؛ أكسيد الألومنيوم ⁦34⁠–⁠45%⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0453-01-003",
+          "name": {
+            "en": "Ceramic fibre board",
+            "ar": "لوح ألياف خزفية"
+          },
+          "specs": {
+            "models": {
+              "en": "LNTX-1050B, LNTX-1260B, LNTX-1260HPB, LNTX-1430B",
+              "ar": "⁦LNTX-1050B, LNTX-1260B, LNTX-1260HPB, LNTX-1430B⁩"
+            },
+            "data": {
+              "en": "Density 250–320 kg/m³; shrinkage ≤ 4% at 950–1350 °C; conductivity ≤ 0.165 W/m·K",
+              "ar": "الكثافة ⁦250⁠–⁠320⁩ كجم/م³؛ الانكماش ≤ ⁦4%⁩ عند ⁦950⁠–⁠1350 °⁩م؛ الموصلية الحرارية ≤ ⁦0.165⁩ واط/م·كلفن"
+            }
+          }
+        },
+        {
+          "code": "BX-0453-01-004",
+          "name": {
+            "en": "Ceramic fibre paper",
+            "ar": "ورق ألياف خزفية"
+          },
+          "specs": {
+            "models": {
+              "en": "STD, HA, HZ",
+              "ar": "⁦STD, HA, HZ⁩"
+            },
+            "data": {
+              "en": "Al2O3 34–52%; ZrO2 ≥ 15% (HZ); tensile strength ≥ 0.3 MPa",
+              "ar": "أكسيد الألومنيوم ⁦34⁠–⁠52%⁩؛ أكسيد الزركونيوم ≥ ⁦15% (HZ⁩)؛ مقاومة الشد ≥ ⁦0.3⁩ ميجاباسكال"
+            }
+          }
+        },
+        {
+          "code": "BX-0453-01-006",
+          "name": {
+            "en": "Vacuum-formed ceramic fibre shapes",
+            "ar": "أشكال ألياف خزفية مشكّلة بالتفريغ"
+          },
+          "specs": {
+            "models": {
+              "en": "LNTX-1050VF to LNTX-1430VF (6 grades)",
+              "ar": "من ⁦LNTX-1050VF⁩ إلى ⁦LNTX-1430VF (6⁩ درجات)"
+            },
+            "data": {
+              "en": "Density 180–250 kg/m³; 950–1350 °C; shapes made to order (covers, holders)",
+              "ar": "الكثافة ⁦180⁠–⁠250⁩ كجم/م³؛ ⁦950⁠–⁠1350 °⁩م؛ أشكال حسب الطلب (أغطية وحوامل)"
+            }
+          }
+        },
+        {
+          "code": "BX-0453-01-008",
+          "name": {
+            "en": "Ceramic fibre cloth",
+            "ar": "قماش ألياف خزفية"
+          },
+          "specs": {
+            "models": {
+              "en": "FG cloth, SS cloth",
+              "ar": "قماش ⁦FG⁩ وقماش ⁦SS⁩"
+            },
+            "data": {
+              "en": "Al2O3 45–46%; glass-filament or stainless-wire reinforced",
+              "ar": "أكسيد الألومنيوم ⁦45⁠–⁠46%⁩؛ مقوّى بخيوط زجاجية أو أسلاك ستانلس"
+            }
+          }
+        },
+        {
+          "code": "BX-0453-01-009",
+          "name": {
+            "en": "Ceramic fibre tape",
+            "ar": "شريط ألياف خزفية"
+          },
+          "specs": {
+            "models": {
+              "en": "FG tape, SS tape",
+              "ar": "شريط ⁦FG⁩ وشريط ⁦SS⁩"
+            },
+            "data": {
+              "en": "Up to 1000 °C; furnace doors and joints",
+              "ar": "حتى ⁦1000 °⁩م؛ لأبواب الأفران والوصلات"
+            }
+          }
+        },
+        {
+          "code": "BX-0453-01-010",
+          "name": {
+            "en": "Ceramic fibre rope",
+            "ar": "حبل ألياف خزفية"
+          },
+          "specs": {
+            "models": {
+              "en": "FG / SS round, square and twisted rope",
+              "ar": "حبال ⁦FG / SS⁩ مستديرة ومربعة ومجدولة"
+            },
+            "data": {
+              "en": "Density 500–650 kg/m³; 500–600 °C (FG), 1000 °C (SS); furnace-door seals",
+              "ar": "الكثافة ⁦500⁠–⁠650⁩ كجم/م³؛ ⁦500⁠–⁠600 °⁩م (⁦FG⁩) و⁦1000 °⁩م (⁦SS⁩)؛ حشوات أبواب الأفران"
+            }
+          }
+        },
+        {
+          "code": "BX-0453-01-012",
+          "name": {
+            "en": "Bio-soluble fibre blanket",
+            "ar": "بطانية ألياف قابلة للذوبان حيوياً"
+          },
+          "specs": {
+            "models": {
+              "en": "GBSF-1260T; density 80, 96, 128 kg/m³",
+              "ar": "⁦GBSF-1260T⁩؛ الكثافة ⁦80⁩ و⁦96⁩ و⁦128⁩ كجم/م³"
+            },
+            "data": {
+              "en": "SiO2 55–65%, CaO 23–35%, MgO 5–10%; 1260 °C",
+              "ar": "سيليكا ⁦55⁠–⁠65%⁩، وأكسيد الكالسيوم ⁦23⁠–⁠35%⁩، وأكسيد المغنيسيوم ⁦5⁠–⁠10%⁩؛ ⁦1260 °⁩م"
+            }
+          }
+        },
+        {
+          "code": "BX-0453-01-013",
+          "name": {
+            "en": "Bio-soluble fibre board",
+            "ar": "لوح ألياف قابلة للذوبان حيوياً"
+          },
+          "specs": {
+            "models": {
+              "en": "GBSF-1260B; density 280–380 kg/m³",
+              "ar": "⁦GBSF-1260B⁩؛ الكثافة ⁦280⁠–⁠380⁩ كجم/م³"
+            },
+            "data": {
+              "en": "Solubility ≥ 200 mg/l; tensile strength ≥ 0.1 MPa",
+              "ar": "الذوبانية ≥ ⁦200⁩ ملغ/لتر؛ مقاومة الشد ≥ ⁦0.1⁩ ميجاباسكال"
+            }
+          }
+        },
+        {
+          "code": "BX-0453-01-017",
+          "name": {
+            "en": "Microporous insulation board & felt",
+            "ar": "ألواح ولبّاد عزل ميكروبوري"
+          },
+          "specs": {
+            "models": {
+              "en": "950 TT Eco / Classic board, 950 TT Flex felt, TT 1050 Classic, TT 1050 Flex felt, special shapes",
+              "ar": "ألواح ⁦950 TT Eco / Classic⁩، ولبّاد ⁦950 TT Flex⁩، و⁦TT 1050 Classic⁩، ولبّاد ⁦TT 1050 Flex⁩، وأشكال خاصة"
+            },
+            "data": {
+              "en": "Classification 950 and 1050 °C; density 250–350 kg/m³; for melting furnaces",
+              "ar": "تصنيف ⁦950⁩ و⁦1050 °⁩م؛ الكثافة ⁦250⁠–⁠350⁩ كجم/م³؛ لأفران الصهر"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "950–1430 °C",
+        "ar": "⁦950⁠–⁠1430 °⁩م"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    }
+  ],
+  "countUnit": {
+    "ar": [
+      "منتج واحد",
+      "منتجان",
+      "منتجات"
+    ],
+    "en": [
+      "product",
+      "products"
+    ]
+  }
+}

@@ -1,11 +1,11 @@
 """Build the gold-mining section: family JSON files, product entries in data/products.json, images in
 public/products/<id>/ and the family registrations, one subpage per Bestolex catalogue. Run from this folder:
-    python3 build.py [BXC-02=<dir>] [BXC-03=<dir>] [BXC-04=<dir>]
+    python3 build.py [BXC-02=<dir>] [BXC-03=<dir>] [BXC-04=<dir>] [BXC-08=<dir>]
 Images are written only for the catalogues given (prepared cut-outs: prep_*.py); otherwise the files already in
 public/ are kept and only their paths are used."""
 import json, os, re, sys
 from lib import iso, write
-import bxc02_tables, bxc02_products, bxc03_tables, bxc03_products, bxc04_tables, bxc04_products
+import bxc02_tables, bxc02_products, bxc03_tables, bxc03_products, bxc04_tables, bxc04_products, bxc08_tables, bxc08_products
 from bxc02_products import SERVICE_AR, SERVICE_EN
 
 REPO = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../..'))
@@ -30,6 +30,8 @@ SUBPAGES = [
      bxc03_tables.F, bxc03_products.P),
     ('BXC-04', {'id': 'crushing-grinding-screening', 'title': {'ar': 'التكسير والطحن والغربلة', 'en': 'Crushing, Grinding & Screening'}},
      bxc04_tables.F, bxc04_products.P),
+    ('BXC-08', {'id': 'smelting-refining', 'title': {'ar': 'الصهر والتنقية', 'en': 'Smelting & Refining'}},
+     bxc08_tables.F, bxc08_products.P),
 ]
 
 def specs(rows):
@@ -49,7 +51,7 @@ EXTRA = {'metal-detectors-water-well-drill-rigs': ['i-004-010'],
          # cut out of the factory background; Chinese stickers and the maker's name removed (sup/hw in the work dir)
          'core-rc-exploration-drill-rigs': ['hw-gl', 'hw-b30', 'hw-rc']}
 PLACEHOLDER = set()
-PHOTO = {'dth-hammers-bits', 'c-series-jaw-gyratory-impact-crushers'}                         # scene photo: centre-cropped to a square, not letterboxed
+PHOTO = {'dth-hammers-bits', 'c-series-jaw-gyratory-impact-crushers', 'refractories-quartz-glass-ceramics'}                         # scene photo: centre-cropped to a square, not letterboxed
 
 
 def image_for(cat, pid, src, n=0):

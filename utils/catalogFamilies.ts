@@ -55,5 +55,11 @@ export const FAMILY_IDS = new Set([
   'impact-fine-crushers',
   'roller-crushers',
   'mobile-crushing-plants',
-  'tyre-crawler-mounted-crushing-plants'
+  'tyre-crawler-mounted-crushing-plants',
+  'induction-gold-smelting-furnaces',
+  'gold-melting-furnaces',
+  'firebricks-electrodes-induction-units',
+  'fused-quartz-silicon-carbide-crucibles',
+  'refractories-quartz-glass-ceramics',
+  'ceramic-fibre-furnace-insulation'
 ])
