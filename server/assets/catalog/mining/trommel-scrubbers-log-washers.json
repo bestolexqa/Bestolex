@@ -1,0 +1,525 @@
+{
+  "id": "trommel-scrubbers-log-washers",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-05 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-05 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "drum",
+      "label": {
+        "en": "Drum Ø × length (mm)",
+        "ar": "قطر الأسطوانة × الطول (مم)"
+      }
+    },
+    {
+      "key": "aperture",
+      "label": {
+        "en": "Screen aperture (mm)",
+        "ar": "فتحة الغربال (مم)"
+      }
+    },
+    {
+      "key": "speed",
+      "label": {
+        "en": "Speed (r/min)",
+        "ar": "السرعة (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "feed",
+      "label": {
+        "en": "Feed size (mm)",
+        "ar": "حجم التغذية (مم)"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "tank",
+      "label": {
+        "en": "Tank L × W (mm)",
+        "ar": "الحوض الطول × العرض (مم)"
+      }
+    },
+    {
+      "key": "incl",
+      "label": {
+        "en": "Inclination (°)",
+        "ar": "الميل (°)"
+      }
+    }
+  ],
+  "keyRows": [
+    "drum",
+    "aperture",
+    "speed"
+  ],
+  "types": [
+    {
+      "id": "trommel",
+      "label": {
+        "en": "Trommel scrubbers (washing drum with screen section)",
+        "ar": "غسالات أسطوانية (أسطوانة غسيل بقسم غربلة)"
+      },
+      "models": [
+        {
+          "code": "BX-0021-01-027 / YTXK1030",
+          "name": {
+            "en": "YTXK1030",
+            "ar": "YTXK1030"
+          },
+          "specs": {
+            "drum": {
+              "en": "1000 × 3000",
+              "ar": "⁦1000 × 3000⁩"
+            },
+            "aperture": {
+              "en": "≤ 20",
+              "ar": "⁦≤ 20⁩"
+            },
+            "speed": {
+              "en": "27.9",
+              "ar": "⁦27.9⁩"
+            },
+            "feed": {
+              "en": "≤ 80",
+              "ar": "⁦≤ 80⁩"
+            },
+            "capacity": {
+              "en": "20–30",
+              "ar": "⁦20–30⁩"
+            },
+            "power": {
+              "en": "15",
+              "ar": "15"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-027 / YTXK1230",
+          "name": {
+            "en": "YTXK1230",
+            "ar": "YTXK1230"
+          },
+          "specs": {
+            "drum": {
+              "en": "1200 × 3000",
+              "ar": "⁦1200 × 3000⁩"
+            },
+            "aperture": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "speed": {
+              "en": "27.6",
+              "ar": "⁦27.6⁩"
+            },
+            "feed": {
+              "en": "≤ 100",
+              "ar": "⁦≤ 100⁩"
+            },
+            "capacity": {
+              "en": "30–50",
+              "ar": "⁦30–50⁩"
+            },
+            "power": {
+              "en": "22",
+              "ar": "22"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-027 / YTXK1430",
+          "name": {
+            "en": "YTXK1430",
+            "ar": "YTXK1430"
+          },
+          "specs": {
+            "drum": {
+              "en": "1400 × 3000",
+              "ar": "⁦1400 × 3000⁩"
+            },
+            "aperture": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "speed": {
+              "en": "27.6",
+              "ar": "⁦27.6⁩"
+            },
+            "feed": {
+              "en": "≤ 100",
+              "ar": "⁦≤ 100⁩"
+            },
+            "capacity": {
+              "en": "50–80",
+              "ar": "⁦50–80⁩"
+            },
+            "power": {
+              "en": "22",
+              "ar": "22"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-027 / YTXK1545",
+          "name": {
+            "en": "YTXK1545",
+            "ar": "YTXK1545"
+          },
+          "specs": {
+            "drum": {
+              "en": "1500 × 4500",
+              "ar": "⁦1500 × 4500⁩"
+            },
+            "aperture": {
+              "en": "≤ 25",
+              "ar": "⁦≤ 25⁩"
+            },
+            "speed": {
+              "en": "21",
+              "ar": "21"
+            },
+            "feed": {
+              "en": "≤ 160",
+              "ar": "⁦≤ 160⁩"
+            },
+            "capacity": {
+              "en": "80–100",
+              "ar": "⁦80–100⁩"
+            },
+            "power": {
+              "en": "30",
+              "ar": "30"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-027 / YTXK1836",
+          "name": {
+            "en": "YTXK1836",
+            "ar": "YTXK1836"
+          },
+          "specs": {
+            "drum": {
+              "en": "1800 × 3600",
+              "ar": "⁦1800 × 3600⁩"
+            },
+            "aperture": {
+              "en": "≤ 40",
+              "ar": "⁦≤ 40⁩"
+            },
+            "speed": {
+              "en": "20.6",
+              "ar": "⁦20.6⁩"
+            },
+            "feed": {
+              "en": "≤ 180",
+              "ar": "⁦≤ 180⁩"
+            },
+            "capacity": {
+              "en": "100–120",
+              "ar": "⁦100–120⁩"
+            },
+            "power": {
+              "en": "37",
+              "ar": "37"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-027 / YTXK2265",
+          "name": {
+            "en": "YTXK2265",
+            "ar": "YTXK2265"
+          },
+          "specs": {
+            "drum": {
+              "en": "2200 × 6500",
+              "ar": "⁦2200 × 6500⁩"
+            },
+            "aperture": {
+              "en": "≤ 50",
+              "ar": "⁦≤ 50⁩"
+            },
+            "speed": {
+              "en": "19",
+              "ar": "19"
+            },
+            "feed": {
+              "en": "≤ 230",
+              "ar": "⁦≤ 230⁩"
+            },
+            "capacity": {
+              "en": "130–150",
+              "ar": "⁦130–150⁩"
+            },
+            "power": {
+              "en": "45",
+              "ar": "45"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-027 / YTXK2480",
+          "name": {
+            "en": "YTXK2480",
+            "ar": "YTXK2480"
+          },
+          "specs": {
+            "drum": {
+              "en": "2400 × 8000",
+              "ar": "⁦2400 × 8000⁩"
+            },
+            "aperture": {
+              "en": "≤ 80",
+              "ar": "⁦≤ 80⁩"
+            },
+            "speed": {
+              "en": "18",
+              "ar": "18"
+            },
+            "feed": {
+              "en": "≤ 250",
+              "ar": "⁦≤ 250⁩"
+            },
+            "capacity": {
+              "en": "150–200",
+              "ar": "⁦150–200⁩"
+            },
+            "power": {
+              "en": "60",
+              "ar": "60"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "20–200 t/h",
+        "ar": "⁦20⁠–⁠200⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "Wear liners and drive arrangement chosen to suit the material.",
+        "ar": "تُختار بطانات التآكل وترتيب الإدارة حسب المادة."
+      },
+      "keyRows": [
+        "capacity",
+        "drum",
+        "power"
+      ]
+    },
+    {
+      "id": "log",
+      "label": {
+        "en": "Log washers (twin-shaft paddle washers)",
+        "ar": "غسالات الطين (غسالات بمجاديف على عمودين)"
+      },
+      "models": [
+        {
+          "code": "BX-0021-01-025 / XK1156",
+          "name": {
+            "en": "XK1156",
+            "ar": "XK1156"
+          },
+          "specs": {
+            "tank": {
+              "en": "5600 × 1100",
+              "ar": "⁦5600 × 1100⁩"
+            },
+            "feed": {
+              "en": "50",
+              "ar": "50"
+            },
+            "speed": {
+              "en": "14",
+              "ar": "14"
+            },
+            "incl": {
+              "en": "20 / 24 / 27",
+              "ar": "⁦20 / 24 / 27⁩"
+            },
+            "capacity": {
+              "en": "10–30",
+              "ar": "⁦10–30⁩"
+            },
+            "power": {
+              "en": "11",
+              "ar": "11"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-025 / XK1572",
+          "name": {
+            "en": "XK1572",
+            "ar": "XK1572"
+          },
+          "specs": {
+            "tank": {
+              "en": "7200 × 1500",
+              "ar": "⁦7200 × 1500⁩"
+            },
+            "feed": {
+              "en": "70",
+              "ar": "70"
+            },
+            "speed": {
+              "en": "11–14",
+              "ar": "⁦11–14⁩"
+            },
+            "incl": {
+              "en": "20 / 24 / 27",
+              "ar": "⁦20 / 24 / 27⁩"
+            },
+            "capacity": {
+              "en": "20–60",
+              "ar": "⁦20–60⁩"
+            },
+            "power": {
+              "en": "22",
+              "ar": "22"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-025 / XK1876",
+          "name": {
+            "en": "XK1876",
+            "ar": "XK1876"
+          },
+          "specs": {
+            "tank": {
+              "en": "7600 × 1800",
+              "ar": "⁦7600 × 1800⁩"
+            },
+            "feed": {
+              "en": "70",
+              "ar": "70"
+            },
+            "speed": {
+              "en": "12",
+              "ar": "12"
+            },
+            "incl": {
+              "en": "24",
+              "ar": "24"
+            },
+            "capacity": {
+              "en": "30–70",
+              "ar": "⁦30–70⁩"
+            },
+            "power": {
+              "en": "30",
+              "ar": "30"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-025 / XK2080",
+          "name": {
+            "en": "XK2080",
+            "ar": "XK2080"
+          },
+          "specs": {
+            "tank": {
+              "en": "8000 × 2000",
+              "ar": "⁦8000 × 2000⁩"
+            },
+            "feed": {
+              "en": "70",
+              "ar": "70"
+            },
+            "speed": {
+              "en": "12",
+              "ar": "12"
+            },
+            "incl": {
+              "en": "22",
+              "ar": "22"
+            },
+            "capacity": {
+              "en": "40–80",
+              "ar": "⁦40–80⁩"
+            },
+            "power": {
+              "en": "37",
+              "ar": "37"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-025 / XK2284",
+          "name": {
+            "en": "XK2284",
+            "ar": "XK2284"
+          },
+          "specs": {
+            "tank": {
+              "en": "8400 × 2200",
+              "ar": "⁦8400 × 2200⁩"
+            },
+            "feed": {
+              "en": "70",
+              "ar": "70"
+            },
+            "speed": {
+              "en": "14",
+              "ar": "14"
+            },
+            "incl": {
+              "en": "17",
+              "ar": "17"
+            },
+            "capacity": {
+              "en": "50–100",
+              "ar": "⁦50–100⁩"
+            },
+            "power": {
+              "en": "55",
+              "ar": "55"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "10–100 t/h",
+        "ar": "⁦10⁠–⁠100⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "Breaks up clay and cemented gravel, including clay-rich alluvial gold ore.",
+        "ar": "يفكك الطين والحصى المتماسك، ومنه خام الذهب الغريني الغني بالطين."
+      },
+      "keyRows": [
+        "capacity",
+        "tank",
+        "power"
+      ]
+    }
+  ]
+}

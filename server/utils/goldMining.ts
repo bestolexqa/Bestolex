@@ -114,13 +114,28 @@ export const STAGES: Stage[] = [
     ]
   },
   {
-    id: 'washing-gold-concentration', n: 4, kind: 'line', code: 'BXC-05', edition: '4',
+    id: 'washing-gold-concentration', n: 4, kind: 'line', code: 'BXC-05', edition: '4', sub: 'washing-gold-concentration',
     title: L('الغسيل وتركيز الذهب', 'Washing & Gold Concentration'),
     short: L('غسالات الخام وأجهزة الجيج والمركّزات الطاردة المركزية والمجاري الحلزونية والطاولات الهزّازة والكراكات.', 'Ore washers, jigs, centrifugal concentrators, spirals, shaking tables and dredgers.'),
     lead: L('غسالات الخام وأجهزة الجيج والمركّزات الطاردة المركزية والمجاري الحلزونية والطاولات الهزّازة والكراكات، لفصل الذهب الحر وتركيزه.',
       'Ore washers, jigs, centrifugal concentrators, spirals, shaking tables and dredgers, to recover and concentrate free gold.'),
     families: 16, models: 200,
-    image: '/gold-mining/stages/washing-gold-concentration.webp', cover: '/gold-mining/covers/bxc-05.webp', cta: CTA_DEFAULT
+    image: '/gold-mining/stages/washing-gold-concentration.webp', cover: '/gold-mining/covers/bxc-05.webp',
+    cta: { title: L('لا تعرف أي معدة تناسب خامك؟', 'Not sure which equipment fits your ore?'),
+      text: L('أرسل نوع الرواسب (غريني أو طيني أو خام مطحون)، وحجم الذهب، والطاقة المطلوبة، ومصدر الماء في الموقع، ونقترح عليك خط الغسيل والتركيز.', 'Send us the deposit type (alluvial, clay-bound or ground ore), the gold particle size, the capacity you need and the water on site, and we suggest the washing and concentration line.') },
+    types: [
+      { id: 'washing', chip: L('الغسيل', 'Washing'), badge: L('غسيل الخام', 'Ore washing') },
+      { id: 'jigs', chip: L('الجيج', 'Jigs'), badge: L('أجهزة الجيج', 'Jigs') },
+      { id: 'concentration', chip: L('التركيز', 'Concentration'), badge: L('تركيز الذهب', 'Gold concentration') },
+      { id: 'magnetic', chip: L('الفصل المغناطيسي', 'Magnetic'), badge: L('فصل مغناطيسي', 'Magnetic separation') },
+      { id: 'placer', chip: L('الرواسب الغرينية', 'Placer & dredging'), badge: L('رواسب غرينية', 'Placer & dredging') }
+    ],
+    how: [
+      { title: L('نوع الرواسب', 'Deposit type'), text: L('الرواسب الطينية تحتاج غسالة أسطوانية أو غسالة طين أولاً، والرمل النظيف يذهب مباشرة إلى الغربلة والتركيز.', 'Clay-bound deposits need a scrubber or log washer first; clean sand goes straight to screening and concentration.') },
+      { title: L('حجم الذهب', 'Gold particle size'), text: L('الذهب الخشن والرقائقي للجيج ومجاري الغسيل، والناعم للمركّزات الطاردة والطاولات الهزّازة.', 'Coarse and flaky gold suits jigs and sluices; fine gold suits centrifugal concentrators and shaking tables.') },
+      { title: L('الطاقة المطلوبة', 'Capacity'), text: L('قارنها بعمود الطاقة في الجدول، واختر كل معدة في الخط بالطاقة نفسها.', 'Compare it with the capacity column, and size every machine in the line to the same throughput.') },
+      { title: L('الماء في الموقع', 'Water on site'), text: L('حيث الماء قليل اختر أجهزة جيج JT الموفرة والمركّزات الحلزونية التي لا تحتاج كهرباء.', 'Where water is scarce, choose water-saving JT jigs and spirals that need no power.') }
+    ]
   },
   {
     id: 'ore-processing-plants', n: 5, kind: 'line', code: 'BXC-06', edition: '7',
@@ -196,6 +211,22 @@ export const STAGES: Stage[] = [
 
 // Family pages: their place in the stage (group tab) and their chip.
 const FAMILY_META: Record<string, { group?: string, type?: string }> = {
+  'trommel-scrubbers-log-washers': { type: 'washing' },
+  'spiral-washers-attrition-scrubbers': { type: 'washing' },
+  'trommels-scrubbers-additional-models': { type: 'washing' },
+  'alluvial-gold-jigs': { type: 'jigs' },
+  'heavy-duty-laboratory-jigs': { type: 'jigs' },
+  'centrifugal-concentrators': { type: 'concentration' },
+  'spiral-concentrators': { type: 'concentration' },
+  'shaking-tables': { type: 'concentration' },
+  'gravity-concentrators-additional-models': { type: 'concentration' },
+  'drum-magnetic-separators': { type: 'magnetic' },
+  'high-intensity-magnetic-separators': { type: 'magnetic' },
+  'magnetic-reclaimers-pulleys': { type: 'magnetic' },
+  'mobile-gold-washing-plants': { type: 'placer' },
+  'sluice-boxes-gold-carpets-pans': { type: 'placer' },
+  'dredgers': { type: 'placer' },
+  'amphibious-dredgers-excavators': { type: 'placer' },
   'induction-gold-smelting-furnaces': { type: 'furnaces' },
   'gold-melting-furnaces': { type: 'furnaces' },
   'firebricks-electrodes-induction-units': { type: 'refractories' },

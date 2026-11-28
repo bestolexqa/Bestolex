@@ -1,0 +1,270 @@
+{
+  "id": "sluice-boxes-gold-carpets-pans",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-05 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-05 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product",
+    "ar": "المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "sizes",
+      "label": {
+        "en": "Standard sizes (width × length, m)",
+        "ar": "المقاسات القياسية (العرض × الطول، م)"
+      }
+    },
+    {
+      "key": "notes",
+      "label": {
+        "en": "Notes",
+        "ar": "ملاحظات"
+      }
+    },
+    {
+      "key": "material",
+      "label": {
+        "en": "Material",
+        "ar": "المادة"
+      }
+    },
+    {
+      "key": "height",
+      "label": {
+        "en": "Height (cm)",
+        "ar": "الارتفاع (سم)"
+      }
+    },
+    {
+      "key": "top",
+      "label": {
+        "en": "Top Ø (cm)",
+        "ar": "القطر العلوي (سم)"
+      }
+    },
+    {
+      "key": "base",
+      "label": {
+        "en": "Base Ø (cm)",
+        "ar": "قطر القاعدة (سم)"
+      }
+    },
+    {
+      "key": "weight",
+      "label": {
+        "en": "Net weight (g)",
+        "ar": "الوزن الصافي (جم)"
+      }
+    },
+    {
+      "key": "cap-kg",
+      "label": {
+        "en": "Capacity (kg/h)",
+        "ar": "الطاقة (كجم/ساعة)"
+      }
+    }
+  ],
+  "keyRows": [
+    "sizes",
+    "notes",
+    "material"
+  ],
+  "types": [
+    {
+      "id": "sluice",
+      "label": {
+        "en": "Sluice boxes and gold carpets",
+        "ar": "مجاري الغسيل وسجاد الذهب"
+      },
+      "models": [
+        {
+          "code": "BX-0029-01-004",
+          "name": {
+            "en": "Sluice box",
+            "ar": "مجرى غسيل"
+          },
+          "specs": {
+            "sizes": {
+              "en": "0.5×3 · 1×5 · 1×6 · 1×8 · 1×10",
+              "ar": "⁦0.5×3 · 1×5 · 1×6 · 1×8 · 1×10⁩"
+            },
+            "notes": {
+              "en": "Steel trough with riffle frames; often three sets per plant",
+              "ar": "مجرى فولاذي بإطارات حواجز؛ غالباً ثلاث مجموعات لكل محطة"
+            }
+          }
+        },
+        {
+          "code": "BX-0029-01-003",
+          "name": {
+            "en": "Gold carpet (sluice mat)",
+            "ar": "سجادة ذهب (حصيرة المجرى)"
+          },
+          "specs": {
+            "sizes": {
+              "en": "0.5×3 · 1×5 · 1×6 · 1×8 · 1×10",
+              "ar": "⁦0.5×3 · 1×5 · 1×6 · 1×8 · 1×10⁩"
+            },
+            "notes": {
+              "en": "Eight-leaf artificial turf; traps fine gold",
+              "ar": "عشب صناعي بثماني ورقات؛ يحجز الذهب الناعم"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "0.5×3–1×10 m",
+        "ar": "⁦0.5×3⁠–⁠1×10⁩ م"
+      },
+      "countUnit": {
+        "ar": [
+          "منتج واحد",
+          "منتجان",
+          "منتجات"
+        ],
+        "en": [
+          "product",
+          "products"
+        ]
+      }
+    },
+    {
+      "id": "pans",
+      "label": {
+        "en": "Gold pans",
+        "ar": "أطباق غسل الذهب"
+      },
+      "models": [
+        {
+          "code": "BX-0029-01-005 / Black",
+          "name": {
+            "en": "Black",
+            "ar": "أسود"
+          },
+          "specs": {
+            "material": {
+              "en": "PP",
+              "ar": "PP"
+            },
+            "height": {
+              "en": "8",
+              "ar": "8"
+            },
+            "top": {
+              "en": "38.5",
+              "ar": "⁦38.5⁩"
+            },
+            "base": {
+              "en": "17.2",
+              "ar": "⁦17.2⁩"
+            },
+            "weight": {
+              "en": "340",
+              "ar": "340"
+            },
+            "cap-kg": {
+              "en": "1",
+              "ar": "1"
+            }
+          }
+        },
+        {
+          "code": "BX-0029-01-005 / Light blue",
+          "name": {
+            "en": "Light blue",
+            "ar": "أزرق فاتح"
+          },
+          "specs": {
+            "material": {
+              "en": "PP",
+              "ar": "PP"
+            },
+            "height": {
+              "en": "8",
+              "ar": "8"
+            },
+            "top": {
+              "en": "36.5",
+              "ar": "⁦36.5⁩"
+            },
+            "base": {
+              "en": "20",
+              "ar": "20"
+            },
+            "weight": {
+              "en": "275",
+              "ar": "275"
+            },
+            "cap-kg": {
+              "en": "1",
+              "ar": "1"
+            }
+          }
+        },
+        {
+          "code": "BX-0029-01-005 / Dark blue",
+          "name": {
+            "en": "Dark blue",
+            "ar": "أزرق داكن"
+          },
+          "specs": {
+            "material": {
+              "en": "PP",
+              "ar": "PP"
+            },
+            "height": {
+              "en": "8",
+              "ar": "8"
+            },
+            "top": {
+              "en": "36.5",
+              "ar": "⁦36.5⁩"
+            },
+            "base": {
+              "en": "20",
+              "ar": "20"
+            },
+            "weight": {
+              "en": "275",
+              "ar": "275"
+            },
+            "cap-kg": {
+              "en": "1",
+              "ar": "1"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "1 kg/h",
+        "ar": "⁦1⁩ كجم/ساعة"
+      },
+      "countUnit": {
+        "ar": [
+          "لون واحد",
+          "لونان",
+          "ألوان"
+        ],
+        "en": [
+          "colour",
+          "colours"
+        ]
+      },
+      "intro": {
+        "en": "Polypropylene pans with concentric riffles 0.25 mm deep, for sampling and hand panning; pair with a small shovel.",
+        "ar": "أطباق من البولي بروبلين بحواجز دائرية بعمق ⁦0.25⁩ مم، لأخذ العينات والغسل اليدوي؛ تُستخدم مع مجرفة صغيرة."
+      }
+    }
+  ]
+}

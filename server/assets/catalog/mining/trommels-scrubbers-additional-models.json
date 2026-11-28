@@ -1,0 +1,134 @@
+{
+  "id": "trommels-scrubbers-additional-models",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-05 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-05 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Models",
+        "ar": "الموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Trommel screens, washing plants and scrubbers – additional models",
+        "ar": "غرابيل أسطوانية ومحطات غسيل وغسالات – موديلات إضافية"
+      },
+      "models": [
+        {
+          "code": "BX-0029-01-011",
+          "name": {
+            "en": "Stationary trommel screens (TW)",
+            "ar": "غرابيل أسطوانية ثابتة (⁦TW⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "TW1015, TW1020, TW1225, TW1530, TW1545, TW1848, TW2055, TW2265",
+              "ar": "⁦TW1015, TW1020, TW1225, TW1530, TW1545, TW1848, TW2055, TW2265⁩"
+            },
+            "data": {
+              "en": "50–800 t/h; feed ≤ 300–400 mm; product 0–100 mm; 3–30 kW; 2.2–12.8 t",
+              "ar": "⁦50⁠–⁠800⁩ طن/ساعة؛ تغذية ≤ ⁦300⁠–⁠400⁩ مم؛ المنتج ⁦0⁠–⁠100⁩ مم؛ ⁦3⁠–⁠30⁩ كيلوواط؛ ⁦2.2⁠–⁠12.8⁩ طن"
+            }
+          }
+        },
+        {
+          "code": "BX-0029-01-012",
+          "name": {
+            "en": "Mobile trommel washing plants (GL)",
+            "ar": "محطات غسيل أسطوانية متنقلة (⁦GL⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "GL510, GL615, GL715, GL815, GL1020, GL1225, GL1530, GL1545, GL1848, GL2055",
+              "ar": "⁦GL510, GL615, GL715, GL815, GL1020, GL1225, GL1530, GL1545, GL1848, GL2055⁩"
+            },
+            "data": {
+              "en": "5–600 t/h; on 4–6 wheels; built-in water pump; diesel or electric drive; apertures < 3–20 mm; 0.8–8 t",
+              "ar": "⁦5⁠–⁠600⁩ طن/ساعة؛ على ⁦4⁠–⁠6⁩ عجلات؛ مضخة ماء مدمجة؛ إدارة بالديزل أو الكهرباء؛ فتحات < ⁦3⁠–⁠20⁩ مم؛ ⁦0.8⁠–⁠8⁩ طن"
+            }
+          }
+        },
+        {
+          "code": "BX-0029-01-013",
+          "name": {
+            "en": "Rotary scrubbers (G)",
+            "ar": "غسالات دوّارة (⁦G⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "G1030, G1136, G1230, G1430, G1545, G1560, G1845, G1860, G2060, G2265",
+              "ar": "⁦G1030, G1136, G1230, G1430, G1545, G1560, G1845, G1860, G2060, G2265⁩"
+            },
+            "data": {
+              "en": "Drum Ø 1.0 × 3.0 to Ø 2.2 × 6.5 m; feed ≤ 100–230 mm; 30–180 t/h; 15–55 kW; 4.8–16.5 t; gear or tyre drive",
+              "ar": "أسطوانة من ⁦1.0 × 3.0⁩ إلى ⁦2.2 × 6.5⁩ م؛ تغذية ≤ ⁦100⁠–⁠230⁩ مم؛ ⁦30⁠–⁠180⁩ طن/ساعة؛ ⁦15⁠–⁠55⁩ كيلوواط؛ ⁦4.8⁠–⁠16.5⁩ طن؛ إدارة بالتروس أو بالإطارات"
+            }
+          }
+        },
+        {
+          "code": "BX-0028-01-034",
+          "name": {
+            "en": "Agitation scrubbers (GJC)",
+            "ar": "غسالات بالخلط (⁦GJC⁩)"
+          },
+          "specs": {
+            "models": {
+              "en": "GJC×1.5, GJC×2.8, GJC×4.4",
+              "ar": "⁦GJC×1.5, GJC×2.8, GJC×4.4⁩"
+            },
+            "data": {
+              "en": "Effective volume 1.5 / 2.8 / 4.4 m³; 30 / 55 / 75 kW; 1459–6200 kg; ore up to 6 mm",
+              "ar": "حجم فعال ⁦1.5 / 2.8 / 4.4⁩ م³؛ ⁦30 / 55 / 75⁩ كيلوواط؛ ⁦1459⁠–⁠6200⁩ كجم؛ خام حتى ⁦6⁩ مم"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "5–800 t/h",
+        "ar": "⁦5⁠–⁠800⁩ طن/ساعة"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      }
+    }
+  ]
+}

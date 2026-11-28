@@ -1,0 +1,539 @@
+{
+  "id": "shaking-tables",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-05 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-05 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Model / deck",
+    "ar": "الموديل / السطح"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "deck",
+      "label": {
+        "en": "Deck L × W (mm)",
+        "ar": "السطح الطول × العرض (مم)"
+      }
+    },
+    {
+      "key": "max-feed",
+      "label": {
+        "en": "Max. feed size (mm)",
+        "ar": "أقصى حجم تغذية (مم)"
+      }
+    },
+    {
+      "key": "cap-d",
+      "label": {
+        "en": "Capacity (t/d)",
+        "ar": "الطاقة (طن/يوم)"
+      }
+    },
+    {
+      "key": "density",
+      "label": {
+        "en": "Feed density (%)",
+        "ar": "كثافة التغذية (%)"
+      }
+    },
+    {
+      "key": "stroke",
+      "label": {
+        "en": "Stroke (mm)",
+        "ar": "الشوط (مم)"
+      }
+    },
+    {
+      "key": "spm",
+      "label": {
+        "en": "Strokes per minute",
+        "ar": "الأشواط في الدقيقة"
+      }
+    },
+    {
+      "key": "slope",
+      "label": {
+        "en": "Cross slope (°)",
+        "ar": "الميل العرضي (°)"
+      }
+    },
+    {
+      "key": "area",
+      "label": {
+        "en": "Dressing area (m²)",
+        "ar": "مساحة الفرز (م²)"
+      }
+    },
+    {
+      "key": "riffle",
+      "label": {
+        "en": "Riffle profile",
+        "ar": "شكل الحواجز"
+      }
+    },
+    {
+      "key": "motor",
+      "label": {
+        "en": "Motor (kW)",
+        "ar": "المحرك (كيلوواط)"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "water",
+      "label": {
+        "en": "Water (t/h)",
+        "ar": "الماء (طن/ساعة)"
+      }
+    },
+    {
+      "key": "speed",
+      "label": {
+        "en": "Speed (r/min)",
+        "ar": "السرعة (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "amp",
+      "label": {
+        "en": "Amplitude (mm)",
+        "ar": "السعة (مم)"
+      }
+    },
+    {
+      "key": "feed",
+      "label": {
+        "en": "Feed size (mm)",
+        "ar": "حجم التغذية (مم)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    }
+  ],
+  "keyRows": [
+    "deck",
+    "max-feed",
+    "cap-d"
+  ],
+  "types": [
+    {
+      "id": "standard",
+      "label": {
+        "en": "Shaking table (coarse sand / fine sand / slime deck)",
+        "ar": "طاولة هزّازة (سطح رمل خشن / رمل ناعم / طين)"
+      },
+      "models": [
+        {
+          "code": "BX-0016-01-016 / Coarse sand deck",
+          "name": {
+            "en": "Coarse sand deck",
+            "ar": "سطح الرمل الخشن"
+          },
+          "specs": {
+            "deck": {
+              "en": "4450 × 1855 / 1546",
+              "ar": "⁦4450 × 1855 / 1546⁩"
+            },
+            "max-feed": {
+              "en": "2",
+              "ar": "2"
+            },
+            "cap-d": {
+              "en": "30–60",
+              "ar": "⁦30–60⁩"
+            },
+            "density": {
+              "en": "25–30",
+              "ar": "⁦25–30⁩"
+            },
+            "stroke": {
+              "en": "24–29",
+              "ar": "⁦24–29⁩"
+            },
+            "spm": {
+              "en": "210–220",
+              "ar": "⁦210–220⁩"
+            },
+            "slope": {
+              "en": "3.5–5.0",
+              "ar": "⁦3.5–5.0⁩"
+            },
+            "area": {
+              "en": "7.6",
+              "ar": "⁦7.6⁩"
+            },
+            "riffle": {
+              "en": "Rectangular",
+              "ar": "مستطيل"
+            },
+            "motor": {
+              "en": "1.1",
+              "ar": "⁦1.1⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-016 / Fine sand deck",
+          "name": {
+            "en": "Fine sand deck",
+            "ar": "سطح الرمل الناعم"
+          },
+          "specs": {
+            "deck": {
+              "en": "4450 × 1855 / 1546",
+              "ar": "⁦4450 × 1855 / 1546⁩"
+            },
+            "max-feed": {
+              "en": "0.5",
+              "ar": "⁦0.5⁩"
+            },
+            "cap-d": {
+              "en": "10–20",
+              "ar": "⁦10–20⁩"
+            },
+            "density": {
+              "en": "20–25",
+              "ar": "⁦20–25⁩"
+            },
+            "stroke": {
+              "en": "14–18",
+              "ar": "⁦14–18⁩"
+            },
+            "spm": {
+              "en": "270–280",
+              "ar": "⁦270–280⁩"
+            },
+            "slope": {
+              "en": "1.5–3.5",
+              "ar": "⁦1.5–3.5⁩"
+            },
+            "area": {
+              "en": "7.6",
+              "ar": "⁦7.6⁩"
+            },
+            "riffle": {
+              "en": "Indented",
+              "ar": "مسنّن"
+            },
+            "motor": {
+              "en": "1.1",
+              "ar": "⁦1.1⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0016-01-016 / Slime deck",
+          "name": {
+            "en": "Slime deck",
+            "ar": "سطح الطين"
+          },
+          "specs": {
+            "deck": {
+              "en": "4450 × 1855 / 1546",
+              "ar": "⁦4450 × 1855 / 1546⁩"
+            },
+            "max-feed": {
+              "en": "0.15",
+              "ar": "⁦0.15⁩"
+            },
+            "cap-d": {
+              "en": "15–25",
+              "ar": "⁦15–25⁩"
+            },
+            "density": {
+              "en": "15–25",
+              "ar": "⁦15–25⁩"
+            },
+            "stroke": {
+              "en": "12–16",
+              "ar": "⁦12–16⁩"
+            },
+            "spm": {
+              "en": "280–300",
+              "ar": "⁦280–300⁩"
+            },
+            "slope": {
+              "en": "1–2",
+              "ar": "⁦1–2⁩"
+            },
+            "area": {
+              "en": "7.6",
+              "ar": "⁦7.6⁩"
+            },
+            "riffle": {
+              "en": "Triangular",
+              "ar": "مثلث"
+            },
+            "motor": {
+              "en": "1.1",
+              "ar": "⁦1.1⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "10–60 t/d",
+        "ar": "⁦10⁠–⁠60⁩ طن/يوم"
+      },
+      "countUnit": {
+        "ar": [
+          "سطح واحد",
+          "سطحان",
+          "أسطح"
+        ],
+        "en": [
+          "deck",
+          "decks"
+        ]
+      },
+      "intro": {
+        "en": "Deck width: 1855 mm at drive end, 1546 mm at concentrate end. Eccentric-link drive.",
+        "ar": "عرض السطح ⁦1855⁩ مم عند طرف الإدارة و⁦1546⁩ مم عند طرف المركّز. إدارة بوصلة لامركزية."
+      },
+      "keyRows": [
+        "max-feed",
+        "cap-d",
+        "motor"
+      ]
+    },
+    {
+      "id": "6s",
+      "label": {
+        "en": "6S shaking table (composite deck)",
+        "ar": "طاولة هزّازة ⁦6S⁩ (سطح مركّب)"
+      },
+      "models": [
+        {
+          "code": "BX-0021-02-021 / Coarse sand deck",
+          "name": {
+            "en": "Coarse sand deck",
+            "ar": "سطح الرمل الخشن"
+          },
+          "specs": {
+            "area": {
+              "en": "7.6",
+              "ar": "⁦7.6⁩"
+            },
+            "deck": {
+              "en": "4500 × 1850 / 1520",
+              "ar": "⁦4500 × 1850 / 1520⁩"
+            },
+            "max-feed": {
+              "en": "2",
+              "ar": "2"
+            },
+            "capacity": {
+              "en": "1–1.5",
+              "ar": "⁦1–1.5⁩"
+            },
+            "density": {
+              "en": "20–30",
+              "ar": "⁦20–30⁩"
+            },
+            "stroke": {
+              "en": "16–22",
+              "ar": "⁦16–22⁩"
+            },
+            "spm": {
+              "en": "220",
+              "ar": "220"
+            },
+            "water": {
+              "en": "0.7–1",
+              "ar": "⁦0.7–1⁩"
+            },
+            "slope": {
+              "en": "2.3–4.3",
+              "ar": "⁦2.3–4.3⁩"
+            },
+            "motor": {
+              "en": "1.1",
+              "ar": "⁦1.1⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-02-021 / Fine sand deck",
+          "name": {
+            "en": "Fine sand deck",
+            "ar": "سطح الرمل الناعم"
+          },
+          "specs": {
+            "area": {
+              "en": "7.6",
+              "ar": "⁦7.6⁩"
+            },
+            "deck": {
+              "en": "4500 × 1850 / 1520",
+              "ar": "⁦4500 × 1850 / 1520⁩"
+            },
+            "max-feed": {
+              "en": "0.5",
+              "ar": "⁦0.5⁩"
+            },
+            "capacity": {
+              "en": "0.5–1",
+              "ar": "⁦0.5–1⁩"
+            },
+            "density": {
+              "en": "18–25",
+              "ar": "⁦18–25⁩"
+            },
+            "stroke": {
+              "en": "11–16",
+              "ar": "⁦11–16⁩"
+            },
+            "spm": {
+              "en": "250",
+              "ar": "250"
+            },
+            "water": {
+              "en": "0.4–0.7",
+              "ar": "⁦0.4–0.7⁩"
+            },
+            "slope": {
+              "en": "1.3–3.3",
+              "ar": "⁦1.3–3.3⁩"
+            },
+            "motor": {
+              "en": "1.1",
+              "ar": "⁦1.1⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-02-021 / Slime deck",
+          "name": {
+            "en": "Slime deck",
+            "ar": "سطح الطين"
+          },
+          "specs": {
+            "area": {
+              "en": "7.6",
+              "ar": "⁦7.6⁩"
+            },
+            "deck": {
+              "en": "4500 × 1850 / 1520",
+              "ar": "⁦4500 × 1850 / 1520⁩"
+            },
+            "max-feed": {
+              "en": "0.15",
+              "ar": "⁦0.15⁩"
+            },
+            "capacity": {
+              "en": "0.3–0.5",
+              "ar": "⁦0.3–0.5⁩"
+            },
+            "density": {
+              "en": "15–20",
+              "ar": "⁦15–20⁩"
+            },
+            "stroke": {
+              "en": "8–16",
+              "ar": "⁦8–16⁩"
+            },
+            "spm": {
+              "en": "280",
+              "ar": "280"
+            },
+            "water": {
+              "en": "0.4–0.7",
+              "ar": "⁦0.4–0.7⁩"
+            },
+            "slope": {
+              "en": "1–2",
+              "ar": "⁦1–2⁩"
+            },
+            "motor": {
+              "en": "1.1",
+              "ar": "⁦1.1⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "0.3–1.5 t/h",
+        "ar": "⁦0.3⁠–⁠1.5⁩ طن/ساعة"
+      },
+      "countUnit": {
+        "ar": [
+          "سطح واحد",
+          "سطحان",
+          "أسطح"
+        ],
+        "en": [
+          "deck",
+          "decks"
+        ]
+      },
+      "keyRows": [
+        "max-feed",
+        "capacity",
+        "motor"
+      ]
+    },
+    {
+      "id": "grease",
+      "label": {
+        "en": "Vibrating grease table for diamond recovery",
+        "ar": "طاولة شحم هزّازة لاستخلاص الألماس"
+      },
+      "models": [
+        {
+          "code": "BX-0021-01-012",
+          "name": {
+            "en": "YGXK1020",
+            "ar": "YGXK1020"
+          },
+          "specs": {
+            "speed": {
+              "en": "1100",
+              "ar": "1100"
+            },
+            "amp": {
+              "en": "10",
+              "ar": "10"
+            },
+            "feed": {
+              "en": "0–6",
+              "ar": "⁦0–6⁩"
+            },
+            "capacity": {
+              "en": "0.5–0.8",
+              "ar": "⁦0.5–0.8⁩"
+            },
+            "power": {
+              "en": "3",
+              "ar": "3"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "0.5–0.8 t/h",
+        "ar": "⁦0.5⁠–⁠0.8⁩ طن/ساعة"
+      }
+    }
+  ]
+}

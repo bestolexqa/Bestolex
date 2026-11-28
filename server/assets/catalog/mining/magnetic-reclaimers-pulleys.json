@@ -1,0 +1,104 @@
+{
+  "id": "magnetic-reclaimers-pulleys",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-05 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-05 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "models",
+      "label": {
+        "en": "Models",
+        "ar": "الموديلات"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Key data",
+        "ar": "أهم البيانات"
+      }
+    }
+  ],
+  "keyRows": [
+    "models",
+    "data"
+  ],
+  "types": [
+    {
+      "id": "series",
+      "label": {
+        "en": "Reclaimers & magnetic pulleys",
+        "ar": "مستردّات المعادن المغناطيسية والبكرات المغناطيسية"
+      },
+      "models": [
+        {
+          "code": "BX-0386-02-015",
+          "name": {
+            "en": "Pulse-discharge magnetic reclaimer YCMW",
+            "ar": "مستردّ مغناطيسي بالتفريغ النبضي ⁦YCMW⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "YCMW-80-4, -80-6, -10-4, -10-6, -12-8, -12-10, -15-12, -15-14, -20-12, -20-14",
+              "ar": "⁦YCMW-80-4, -80-6, -10-4, -10-6, -12-8, -12-10, -15-12, -15-14, -20-12, -20-14⁩"
+            },
+            "data": {
+              "en": "Drum Ø800–2000 mm; 50–2400 t/h; NdFeB ring magnet; recovers magnetic minerals",
+              "ar": "أسطوانة قطر ⁦800⁠–⁠2000⁩ مم؛ ⁦50⁠–⁠2400⁩ طن/ساعة؛ مغناطيس حلقي ⁦NdFeB⁩؛ يسترد المعادن المغناطيسية"
+            }
+          }
+        },
+        {
+          "code": "BX-0386-02-016",
+          "name": {
+            "en": "Permanent magnetic pulley & dry drum separator CTZ / CTDG",
+            "ar": "بكرة مغناطيسية دائمة وفاصل أسطواني جاف ⁦CTZ / CTDG⁩"
+          },
+          "specs": {
+            "models": {
+              "en": "CTZ-32, -40, -50, -63, -80, -100, -125; CTDG series",
+              "ar": "⁦CTZ-32⁩ و-⁦40⁩ و-⁦50⁩ و-⁦63⁩ و-⁦80⁩ و-⁦100⁩ و-⁦125⁩؛ سلسلة ⁦CTDG⁩"
+            },
+            "data": {
+              "en": "Permanent-magnet head pulley and dry drum separator",
+              "ar": "بكرة رأس بمغناطيس دائم وفاصل أسطواني جاف"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "50–2400 t/h",
+        "ar": "⁦50⁠–⁠2400⁩ طن/ساعة"
+      },
+      "countUnit": {
+        "ar": [
+          "خط واحد",
+          "خطان",
+          "خطوط"
+        ],
+        "en": [
+          "product line",
+          "product lines"
+        ]
+      },
+      "intro": {
+        "en": "Magnetic pulleys replace the head pulley of a conveyor to pull out iron and magnetic minerals as the belt discharges.",
+        "ar": "تحل البكرة المغناطيسية محل بكرة رأس السير لسحب الحديد والمعادن المغناطيسية عند تفريغ السير."
+      }
+    }
+  ]
+}

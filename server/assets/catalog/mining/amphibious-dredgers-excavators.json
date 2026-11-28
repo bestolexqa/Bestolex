@@ -1,0 +1,388 @@
+{
+  "id": "amphibious-dredgers-excavators",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-05 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-05 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "under",
+      "label": {
+        "en": "Undercarriage",
+        "ar": "الهيكل السفلي"
+      }
+    },
+    {
+      "key": "size",
+      "label": {
+        "en": "Overall size (m)",
+        "ar": "الأبعاد الكلية (م)"
+      }
+    },
+    {
+      "key": "engine",
+      "label": {
+        "en": "Engine / power",
+        "ar": "المحرك / القدرة"
+      }
+    },
+    {
+      "key": "weight",
+      "label": {
+        "en": "Weight",
+        "ar": "الوزن"
+      }
+    },
+    {
+      "key": "depth",
+      "label": {
+        "en": "Dredging depth",
+        "ar": "عمق التجريف"
+      }
+    },
+    {
+      "key": "arm",
+      "label": {
+        "en": "Arm length",
+        "ar": "طول الذراع"
+      }
+    },
+    {
+      "key": "pump",
+      "label": {
+        "en": "Pump flow",
+        "ar": "تدفق المضخة"
+      }
+    },
+    {
+      "key": "discharge",
+      "label": {
+        "en": "Discharge distance",
+        "ar": "مسافة الضخ"
+      }
+    },
+    {
+      "key": "fuel",
+      "label": {
+        "en": "Fuel tank",
+        "ar": "خزان الوقود"
+      }
+    },
+    {
+      "key": "weight-kg",
+      "label": {
+        "en": "Weight (kg)",
+        "ar": "الوزن (كجم)"
+      }
+    },
+    {
+      "key": "bucket",
+      "label": {
+        "en": "Std. bucket (m³)",
+        "ar": "الدلو القياسي (م³)"
+      }
+    },
+    {
+      "key": "dig",
+      "label": {
+        "en": "Max digging depth (mm)",
+        "ar": "أقصى عمق حفر (مم)"
+      }
+    },
+    {
+      "key": "reach",
+      "label": {
+        "en": "Max reach (mm)",
+        "ar": "أقصى مدى (مم)"
+      }
+    }
+  ],
+  "keyRows": [
+    "under",
+    "size",
+    "engine"
+  ],
+  "types": [
+    {
+      "id": "multifunction",
+      "label": {
+        "en": "Amphibious multifunction dredgers",
+        "ar": "كراكات برمائية متعددة المهام"
+      },
+      "models": [
+        {
+          "code": "BX-0183-02-001",
+          "name": {
+            "en": "JL-AMD220",
+            "ar": "⁦JL-AMD220⁩"
+          },
+          "specs": {
+            "under": {
+              "en": "Pontoon hull, 4 spuds, own propulsion",
+              "ar": "بدن عائم، ⁦4⁩ أوتاد تثبيت، دفع ذاتي"
+            },
+            "size": {
+              "en": "14.7×3.4×3.3 (transport)",
+              "ar": "⁦14.7×3.4×3.3⁩ (للنقل)"
+            },
+            "engine": {
+              "en": "Diesel",
+              "ar": "ديزل"
+            },
+            "weight": {
+              "en": "26 t",
+              "ar": "⁦26⁩ طن"
+            },
+            "depth": {
+              "en": "6 m",
+              "ar": "⁦6⁩ م"
+            },
+            "pump": {
+              "en": "500 m³/h",
+              "ar": "⁦500⁩ م³/ساعة"
+            },
+            "discharge": {
+              "en": "Up to 1.2 km",
+              "ar": "حتى ⁦1.2⁩ كم"
+            },
+            "fuel": {
+              "en": "1000 L",
+              "ar": "⁦1000⁩ لتر"
+            }
+          }
+        },
+        {
+          "code": "BX-0183-02-002 / JL-AME450",
+          "name": {
+            "en": "JL-AME450",
+            "ar": "⁦JL-AME450⁩"
+          },
+          "specs": {
+            "under": {
+              "en": "Multi-pontoon with crawler",
+              "ar": "عوامات متعددة بجنزير"
+            },
+            "size": {
+              "en": "13.5×3.5×3.8",
+              "ar": "⁦13.5×3.5×3.8⁩"
+            },
+            "engine": {
+              "en": "269 kW",
+              "ar": "⁦269⁩ كيلوواط"
+            },
+            "depth": {
+              "en": "6 m",
+              "ar": "⁦6⁩ م"
+            },
+            "arm": {
+              "en": "8 m",
+              "ar": "⁦8⁩ م"
+            }
+          }
+        },
+        {
+          "code": "BX-0183-02-002 / JL-AME200",
+          "name": {
+            "en": "JL-AME200",
+            "ar": "⁦JL-AME200⁩"
+          },
+          "specs": {
+            "under": {
+              "en": "Multi-pontoon with crawler",
+              "ar": "عوامات متعددة بجنزير"
+            },
+            "size": {
+              "en": "12.5×4.4×3.6",
+              "ar": "⁦12.5×4.4×3.6⁩"
+            },
+            "engine": {
+              "en": "179 kW",
+              "ar": "⁦179⁩ كيلوواط"
+            },
+            "depth": {
+              "en": "5 m",
+              "ar": "⁦5⁩ م"
+            },
+            "arm": {
+              "en": "6 m",
+              "ar": "⁦6⁩ م"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "5–6 m",
+        "ar": "⁦5⁠–⁠6⁩ م"
+      },
+      "intro": {
+        "en": "Change tools on site: bucket, cutter-suction pump, rake, piling, clamshell or weed cutter.",
+        "ar": "تُبدّل الأدوات في الموقع: دلو، أو مضخة قطع وشفط، أو مشط، أو دق خوازيق، أو ملقط، أو قاطع أعشاب."
+      },
+      "keyRows": [
+        "depth",
+        "engine",
+        "pump"
+      ]
+    },
+    {
+      "id": "excavators",
+      "label": {
+        "en": "Amphibious excavators",
+        "ar": "حفارات برمائية"
+      },
+      "models": [
+        {
+          "code": "BX-0183-02-004 / AME-4T",
+          "name": {
+            "en": "AME-4T",
+            "ar": "⁦AME-4T⁩"
+          },
+          "specs": {
+            "weight-kg": {
+              "en": "6100",
+              "ar": "6100"
+            },
+            "bucket": {
+              "en": "0.22",
+              "ar": "⁦0.22⁩"
+            },
+            "dig": {
+              "en": "3220",
+              "ar": "3220"
+            },
+            "reach": {
+              "en": "5955",
+              "ar": "5955"
+            }
+          }
+        },
+        {
+          "code": "BX-0183-02-004 / AME-15T",
+          "name": {
+            "en": "AME-15T",
+            "ar": "⁦AME-15T⁩"
+          },
+          "specs": {
+            "weight-kg": {
+              "en": "22800 / 24400",
+              "ar": "⁦22800 / 24400⁩"
+            },
+            "bucket": {
+              "en": "0.65",
+              "ar": "⁦0.65⁩"
+            },
+            "dig": {
+              "en": "4630 / 9760",
+              "ar": "⁦4630 / 9760⁩"
+            },
+            "reach": {
+              "en": "8850 / 11700",
+              "ar": "⁦8850 / 11700⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0183-02-004 / AME-20T",
+          "name": {
+            "en": "AME-20T",
+            "ar": "⁦AME-20T⁩"
+          },
+          "specs": {
+            "weight-kg": {
+              "en": "30700 / 32800",
+              "ar": "⁦30700 / 32800⁩"
+            },
+            "bucket": {
+              "en": "1.0",
+              "ar": "⁦1.0⁩"
+            },
+            "dig": {
+              "en": "5970 / 11270",
+              "ar": "⁦5970 / 11270⁩"
+            },
+            "reach": {
+              "en": "9860 / 16150",
+              "ar": "⁦9860 / 16150⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0183-02-004 / AME-30T",
+          "name": {
+            "en": "AME-30T",
+            "ar": "⁦AME-30T⁩"
+          },
+          "specs": {
+            "weight-kg": {
+              "en": "45400 / 47800",
+              "ar": "⁦45400 / 47800⁩"
+            },
+            "bucket": {
+              "en": "1.8",
+              "ar": "⁦1.8⁩"
+            },
+            "dig": {
+              "en": "6500 / 14200",
+              "ar": "⁦6500 / 14200⁩"
+            },
+            "reach": {
+              "en": "10950 / 18600",
+              "ar": "⁦10950 / 18600⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0183-02-004 / AME-50T",
+          "name": {
+            "en": "AME-50T",
+            "ar": "⁦AME-50T⁩"
+          },
+          "specs": {
+            "weight-kg": {
+              "en": "70900 / 76200",
+              "ar": "⁦70900 / 76200⁩"
+            },
+            "bucket": {
+              "en": "2.61",
+              "ar": "⁦2.61⁩"
+            },
+            "dig": {
+              "en": "6380 / 19000",
+              "ar": "⁦6380 / 19000⁩"
+            },
+            "reach": {
+              "en": "11440 / 23500",
+              "ar": "⁦11440 / 23500⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "6.1–76.2 t",
+        "ar": "⁦6.1⁠–⁠76.2⁩ طن"
+      },
+      "intro": {
+        "en": "Two values: standard / long-reach work equipment. Weight without side pontoons or spuds.",
+        "ar": "قيمتان: معدات العمل القياسية / بعيدة المدى. الوزن دون العوامات الجانبية أو أوتاد التثبيت."
+      },
+      "keyRows": [
+        "weight-kg",
+        "bucket",
+        "dig"
+      ]
+    }
+  ]
+}

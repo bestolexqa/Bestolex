@@ -1,0 +1,347 @@
+{
+  "id": "high-intensity-magnetic-separators",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-05 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-05 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "size",
+      "label": {
+        "en": "Roller / disc size (mm)",
+        "ar": "مقاس الأسطوانة / القرص (مم)"
+      }
+    },
+    {
+      "key": "field",
+      "label": {
+        "en": "Field",
+        "ar": "شدة المجال"
+      }
+    },
+    {
+      "key": "feed",
+      "label": {
+        "en": "Feed size (mm)",
+        "ar": "حجم التغذية (مم)"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    }
+  ],
+  "keyRows": [
+    "size",
+    "field",
+    "feed"
+  ],
+  "types": [
+    {
+      "id": "roller-disc",
+      "label": {
+        "en": "High-intensity dry separators (roller and disc)",
+        "ar": "فواصل جافة عالية الشدة (أسطوانية وقرصية)"
+      },
+      "models": [
+        {
+          "code": "BX-0021-01-010 / CTG160×800",
+          "name": {
+            "en": "CTG160×800",
+            "ar": "⁦CTG160×800⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "160 × 800",
+              "ar": "⁦160 × 800⁩"
+            },
+            "field": {
+              "en": "1.2–1.5 T",
+              "ar": "⁦1.2–1.5 T⁩"
+            },
+            "feed": {
+              "en": "< 5",
+              "ar": "⁦< 5⁩"
+            },
+            "capacity": {
+              "en": "3–5",
+              "ar": "⁦3–5⁩"
+            },
+            "power": {
+              "en": "1.1 × 2",
+              "ar": "⁦1.1 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-010 / CTG160×1200",
+          "name": {
+            "en": "CTG160×1200",
+            "ar": "⁦CTG160×1200⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "160 × 1200",
+              "ar": "⁦160 × 1200⁩"
+            },
+            "field": {
+              "en": "1.2–1.5 T",
+              "ar": "⁦1.2–1.5 T⁩"
+            },
+            "feed": {
+              "en": "< 5",
+              "ar": "⁦< 5⁩"
+            },
+            "capacity": {
+              "en": "6–8",
+              "ar": "⁦6–8⁩"
+            },
+            "power": {
+              "en": "1.5 × 2",
+              "ar": "⁦1.5 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-010 / CTG160×1500",
+          "name": {
+            "en": "CTG160×1500",
+            "ar": "⁦CTG160×1500⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "160 × 1500",
+              "ar": "⁦160 × 1500⁩"
+            },
+            "field": {
+              "en": "1.2–1.5 T",
+              "ar": "⁦1.2–1.5 T⁩"
+            },
+            "feed": {
+              "en": "< 5",
+              "ar": "⁦< 5⁩"
+            },
+            "capacity": {
+              "en": "8–10",
+              "ar": "⁦8–10⁩"
+            },
+            "power": {
+              "en": "2.2 × 2",
+              "ar": "⁦2.2 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-010 / CTG160×1800",
+          "name": {
+            "en": "CTG160×1800",
+            "ar": "⁦CTG160×1800⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "160 × 1800",
+              "ar": "⁦160 × 1800⁩"
+            },
+            "field": {
+              "en": "1.2–1.5 T",
+              "ar": "⁦1.2–1.5 T⁩"
+            },
+            "feed": {
+              "en": "< 5",
+              "ar": "⁦< 5⁩"
+            },
+            "capacity": {
+              "en": "10–13",
+              "ar": "⁦10–13⁩"
+            },
+            "power": {
+              "en": "3 × 2",
+              "ar": "⁦3 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-010 / CTG400×800",
+          "name": {
+            "en": "CTG400×800",
+            "ar": "⁦CTG400×800⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "400 × 800",
+              "ar": "⁦400 × 800⁩"
+            },
+            "field": {
+              "en": "1.2–1.5 T",
+              "ar": "⁦1.2–1.5 T⁩"
+            },
+            "feed": {
+              "en": "< 5",
+              "ar": "⁦< 5⁩"
+            },
+            "capacity": {
+              "en": "15–20",
+              "ar": "⁦15–20⁩"
+            },
+            "power": {
+              "en": "3 × 2",
+              "ar": "⁦3 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-010 / CTG400×1200",
+          "name": {
+            "en": "CTG400×1200",
+            "ar": "⁦CTG400×1200⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "400 × 1200",
+              "ar": "⁦400 × 1200⁩"
+            },
+            "field": {
+              "en": "1.2–1.5 T",
+              "ar": "⁦1.2–1.5 T⁩"
+            },
+            "feed": {
+              "en": "< 5",
+              "ar": "⁦< 5⁩"
+            },
+            "capacity": {
+              "en": "25–30",
+              "ar": "⁦25–30⁩"
+            },
+            "power": {
+              "en": "5.5 × 2",
+              "ar": "⁦5.5 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-010 / CTG400×1500",
+          "name": {
+            "en": "CTG400×1500",
+            "ar": "⁦CTG400×1500⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "400 × 1500",
+              "ar": "⁦400 × 1500⁩"
+            },
+            "field": {
+              "en": "1.2–1.5 T",
+              "ar": "⁦1.2–1.5 T⁩"
+            },
+            "feed": {
+              "en": "< 5",
+              "ar": "⁦< 5⁩"
+            },
+            "capacity": {
+              "en": "30–35",
+              "ar": "⁦30–35⁩"
+            },
+            "power": {
+              "en": "5.5 × 2",
+              "ar": "⁦5.5 × 2⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-02-024 / 3PC-500 disc",
+          "name": {
+            "en": "3PC-500 disc",
+            "ar": "قرصي ⁦3PC-500⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "3 discs Ø500",
+              "ar": "⁦3⁩ أقراص قطر ⁦500⁩"
+            },
+            "field": {
+              "en": "1000–16000 Gs",
+              "ar": "⁦1000–16000 Gs⁩"
+            },
+            "feed": {
+              "en": "2",
+              "ar": "2"
+            },
+            "capacity": {
+              "en": "0.1–0.5",
+              "ar": "⁦0.1–0.5⁩"
+            },
+            "power": {
+              "en": "1.1",
+              "ar": "⁦1.1⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-02-024 / 3PC-600 disc",
+          "name": {
+            "en": "3PC-600 disc",
+            "ar": "قرصي ⁦3PC-600⁩"
+          },
+          "specs": {
+            "size": {
+              "en": "3 discs Ø600",
+              "ar": "⁦3⁩ أقراص قطر ⁦600⁩"
+            },
+            "field": {
+              "en": "1000–18000 Gs",
+              "ar": "⁦1000–18000 Gs⁩"
+            },
+            "feed": {
+              "en": "2",
+              "ar": "2"
+            },
+            "capacity": {
+              "en": "0.12–0.8",
+              "ar": "⁦0.12–0.8⁩"
+            },
+            "power": {
+              "en": "1.5",
+              "ar": "⁦1.5⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "0.1–35 t/h",
+        "ar": "⁦0.1⁠–⁠35⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "For weakly magnetic minerals and iron removal, e.g. ilmenite, monazite, zircon, rutile and garnet in heavy-mineral concentrates.",
+        "ar": "للمعادن ضعيفة المغناطيسية وإزالة الحديد، مثل الإلمنيت والمونازيت والزركون والروتيل والعقيق في مركّزات المعادن الثقيلة."
+      },
+      "keyRows": [
+        "capacity",
+        "field",
+        "power"
+      ]
+    }
+  ]
+}

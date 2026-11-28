@@ -1,0 +1,319 @@
+{
+  "id": "heavy-duty-laboratory-jigs",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-05 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-05 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "chambers",
+      "label": {
+        "en": "Chambers",
+        "ar": "الحجرات"
+      }
+    },
+    {
+      "key": "feed",
+      "label": {
+        "en": "Feed size (mm)",
+        "ar": "حجم التغذية (مم)"
+      }
+    },
+    {
+      "key": "stroke",
+      "label": {
+        "en": "Stroke (mm)",
+        "ar": "الشوط (مم)"
+      }
+    },
+    {
+      "key": "strokes",
+      "label": {
+        "en": "Strokes (r/min)",
+        "ar": "الأشواط (دورة/دقيقة)"
+      }
+    },
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "power",
+      "label": {
+        "en": "Power (kW)",
+        "ar": "القدرة (كيلوواط)"
+      }
+    },
+    {
+      "key": "capacity-kg",
+      "label": {
+        "en": "Capacity (kg/h)",
+        "ar": "الطاقة (كجم/ساعة)"
+      }
+    }
+  ],
+  "keyRows": [
+    "chambers",
+    "feed",
+    "stroke"
+  ],
+  "types": [
+    {
+      "id": "coarse",
+      "label": {
+        "en": "Jigs for coarse ore",
+        "ar": "أجهزة جيج للخام الخشن"
+      },
+      "models": [
+        {
+          "code": "BX-0021-01-005",
+          "name": {
+            "en": "AM30",
+            "ar": "AM30"
+          },
+          "specs": {
+            "chambers": {
+              "en": "4",
+              "ar": "4"
+            },
+            "feed": {
+              "en": "10–30",
+              "ar": "⁦10–30⁩"
+            },
+            "stroke": {
+              "en": "0–50",
+              "ar": "⁦0–50⁩"
+            },
+            "strokes": {
+              "en": "0–160",
+              "ar": "⁦0–160⁩"
+            },
+            "capacity": {
+              "en": "10–15",
+              "ar": "⁦10–15⁩"
+            },
+            "power": {
+              "en": "3",
+              "ar": "3"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-006 / 2LTC912/4",
+          "name": {
+            "en": "2LTC912/4",
+            "ar": "⁦2LTC912/4⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "4",
+              "ar": "4"
+            },
+            "feed": {
+              "en": "10–25",
+              "ar": "⁦10–25⁩"
+            },
+            "stroke": {
+              "en": "0–50",
+              "ar": "⁦0–50⁩"
+            },
+            "strokes": {
+              "en": "0–280",
+              "ar": "⁦0–280⁩"
+            },
+            "capacity": {
+              "en": "30–40",
+              "ar": "⁦30–40⁩"
+            },
+            "power": {
+              "en": "11",
+              "ar": "11"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-006 / 2LTC912/4A",
+          "name": {
+            "en": "2LTC912/4A",
+            "ar": "⁦2LTC912/4A⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "4",
+              "ar": "4"
+            },
+            "feed": {
+              "en": "30–50",
+              "ar": "⁦30–50⁩"
+            },
+            "stroke": {
+              "en": "0–100",
+              "ar": "⁦0–100⁩"
+            },
+            "strokes": {
+              "en": "0–160",
+              "ar": "⁦0–160⁩"
+            },
+            "capacity": {
+              "en": "30–40",
+              "ar": "⁦30–40⁩"
+            },
+            "power": {
+              "en": "11",
+              "ar": "11"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-01-007",
+          "name": {
+            "en": "FRT16-2",
+            "ar": "⁦FRT16-2⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "2",
+              "ar": "2"
+            },
+            "feed": {
+              "en": "0–50",
+              "ar": "⁦0–50⁩"
+            },
+            "stroke": {
+              "en": "0–90",
+              "ar": "⁦0–90⁩"
+            },
+            "strokes": {
+              "en": "0–200",
+              "ar": "⁦0–200⁩"
+            },
+            "capacity": {
+              "en": "40–60",
+              "ar": "⁦40–60⁩"
+            },
+            "power": {
+              "en": "18.5",
+              "ar": "⁦18.5⁩"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-02-018 / FFD4-2",
+          "name": {
+            "en": "FFD4-2",
+            "ar": "⁦FFD4-2⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "2",
+              "ar": "2"
+            },
+            "feed": {
+              "en": "0–50",
+              "ar": "⁦0–50⁩"
+            },
+            "capacity": {
+              "en": "40–60",
+              "ar": "⁦40–60⁩"
+            },
+            "power": {
+              "en": "22",
+              "ar": "22"
+            }
+          }
+        },
+        {
+          "code": "BX-0021-02-018 / FFD8-2",
+          "name": {
+            "en": "FFD8-2",
+            "ar": "⁦FFD8-2⁩"
+          },
+          "specs": {
+            "chambers": {
+              "en": "2",
+              "ar": "2"
+            },
+            "feed": {
+              "en": "10–50",
+              "ar": "⁦10–50⁩"
+            },
+            "capacity": {
+              "en": "80–100",
+              "ar": "⁦80–100⁩"
+            },
+            "power": {
+              "en": "30",
+              "ar": "30"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "10–100 t/h",
+        "ar": "⁦10⁠–⁠100⁩ طن/ساعة"
+      },
+      "intro": {
+        "en": "Jigging area: FRT16-2 5.12 m², FFD4-2 4 m², FFD8-2 8 m². FFD jigs separate coarse and fine particles (0–50 mm) at the same time.",
+        "ar": "مساحة الجيج: ⁦FRT16-2⁩ ‏⁦5.12⁩ م²، و⁦FFD4-2⁩ ‏⁦4⁩ م²، و⁦FFD8-2⁩ ‏⁦8⁩ م². أجهزة ⁦FFD⁩ تفصل الحبيبات الخشنة والناعمة (⁦0⁠–⁠50⁩ مم) في الوقت نفسه."
+      }
+    },
+    {
+      "id": "lab",
+      "label": {
+        "en": "Laboratory jig",
+        "ar": "جهاز جيج مخبري"
+      },
+      "models": [
+        {
+          "code": "BX-0021-02-020",
+          "name": {
+            "en": "LTP120",
+            "ar": "LTP120"
+          },
+          "specs": {
+            "chambers": {
+              "en": "1",
+              "ar": "1"
+            },
+            "feed": {
+              "en": "0–5",
+              "ar": "⁦0–5⁩"
+            },
+            "capacity-kg": {
+              "en": "100",
+              "ar": "100"
+            },
+            "power": {
+              "en": "0.75",
+              "ar": "⁦0.75⁩"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "100 kg/h",
+        "ar": "⁦100⁩ كجم/ساعة"
+      },
+      "intro": {
+        "en": "For ore testing, pilot plants and training.",
+        "ar": "لاختبار الخام والمحطات التجريبية والتدريب."
+      }
+    }
+  ]
+}

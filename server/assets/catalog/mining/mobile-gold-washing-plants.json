@@ -1,0 +1,176 @@
+{
+  "id": "mobile-gold-washing-plants",
+  "updated": "2026-11-27",
+  "title": {
+    "ar": "المنتجات والمواصفات",
+    "en": "Products and specifications"
+  },
+  "source": {
+    "ar": "المصدر: كتالوج بيستوليكس ⁦BXC-05 Ed4⁩ · المواصفات من المصنّعين وقد تتغير دون إشعار",
+    "en": "Source: Bestolex catalogue BXC-05 Ed4 · specifications come from the manufacturers and may change without notice"
+  },
+  "typeLabel": {
+    "en": "Product line",
+    "ar": "خط المنتج"
+  },
+  "missing": {
+    "ar": "—",
+    "en": "—"
+  },
+  "rows": [
+    {
+      "key": "capacity",
+      "label": {
+        "en": "Capacity (t/h)",
+        "ar": "الطاقة (طن/ساعة)"
+      }
+    },
+    {
+      "key": "screen",
+      "label": {
+        "en": "Screening",
+        "ar": "الغربلة"
+      }
+    },
+    {
+      "key": "recovery",
+      "label": {
+        "en": "Recovery",
+        "ar": "الاستخلاص"
+      }
+    },
+    {
+      "key": "pump",
+      "label": {
+        "en": "Water pump",
+        "ar": "مضخة الماء"
+      }
+    },
+    {
+      "key": "data",
+      "label": {
+        "en": "Other data",
+        "ar": "بيانات أخرى"
+      }
+    }
+  ],
+  "keyRows": [
+    "capacity",
+    "screen",
+    "recovery"
+  ],
+  "types": [
+    {
+      "id": "plants",
+      "label": {
+        "en": "Mobile gold washing plants",
+        "ar": "محطات غسيل الذهب المتنقلة"
+      },
+      "models": [
+        {
+          "code": "BX-0029-01-001",
+          "name": {
+            "en": "Trommel & jig washing plant",
+            "ar": "محطة غربال أسطواني وجيج"
+          },
+          "specs": {
+            "capacity": {
+              "en": "5–60",
+              "ar": "⁦5–60⁩"
+            },
+            "screen": {
+              "en": "Trommel Ø500 / 600 / 800 / 1000 mm × 1000 / 1500 / 2000 mm; apertures 2, 3, 5, 6, 8, 10, 20 mm; single or double layer; motor 1.5–4 kW",
+              "ar": "غربال أسطواني قطر ⁦500 / 600 / 800 / 1000⁩ مم × ⁦1000 / 1500 / 2000⁩ مم؛ فتحات ⁦2⁩ و⁦3⁩ و⁦5⁩ و⁦6⁩ و⁦8⁩ و⁦10⁩ و⁦20⁩ مم؛ طبقة أو طبقتان؛ محرك ⁦1.5⁠–⁠4⁩ كيلوواط"
+            },
+            "recovery": {
+              "en": "Rectangular or ladder jig 0.57–4.86 m², motor 1.5–4 kW; sluice 1000 mm × 5000/6000 mm",
+              "ar": "جيج مستطيل أو سلّمي ⁦0.57⁠–⁠4.86⁩ م² بمحرك ⁦1.5⁠–⁠4⁩ كيلوواط؛ مجرى غسيل ⁦1000⁩ مم × ⁦5000/6000⁩ مم"
+            },
+            "pump": {
+              "en": "5–18.5 kW",
+              "ar": "⁦5⁠–⁠18.5⁩ كيلوواط"
+            },
+            "data": {
+              "en": "Feed hopper, grizzly bars optional; jig 3225×1550×2050 mm (varies by model)",
+              "ar": "قادوس تغذية مع قضبان اختيارية؛ الجيج ⁦3225×1550×2050⁩ مم (يختلف حسب الموديل)"
+            }
+          }
+        },
+        {
+          "code": "BX-0029-01-002",
+          "name": {
+            "en": "Vibrating-screen washing plant",
+            "ar": "محطة غربال اهتزازي"
+          },
+          "specs": {
+            "capacity": {
+              "en": "15–20",
+              "ar": "⁦15–20⁩"
+            },
+            "screen": {
+              "en": "Two-tier 1800×900 mm screen, diesel drive; top / bottom mesh 25 mm / 8 mm",
+              "ar": "غربال بطبقتين ⁦1800×900⁩ مم بإدارة ديزل؛ شبك علوي / سفلي ⁦25⁩ مم / ⁦8⁩ مم"
+            },
+            "recovery": {
+              "en": "Sluice with gold carpet",
+              "ar": "مجرى غسيل بسجادة ذهب"
+            },
+            "pump": {
+              "en": "Diesel, 50 m lay-flat hose",
+              "ar": "ديزل، خرطوم مسطح ⁦50⁩ م"
+            },
+            "data": {
+              "en": "Hopper 2–3 m³ with 140 mm grizzly; manual jacks at each wheel; 2300 kg; 2800×1200×3000 mm",
+              "ar": "قادوس ⁦2⁠–⁠3⁩ م³ بقضبان ⁦140⁩ مم؛ رافعات يدوية عند كل عجلة؛ ⁦2300⁩ كجم؛ ⁦2800×1200×3000⁩ مم"
+            }
+          }
+        },
+        {
+          "code": "BX-0029-01-014",
+          "name": {
+            "en": "Integrated ore washing machine",
+            "ar": "وحدة غسيل الخام المتكاملة"
+          },
+          "specs": {
+            "capacity": {
+              "en": "30, 50 and 100",
+              "ar": "⁦30⁩ و⁦50⁩ و⁦100⁩"
+            },
+            "screen": {
+              "en": "Rotary scrubber and vibrating screen",
+              "ar": "غسالة دوّارة وغربال اهتزازي"
+            },
+            "pump": {
+              "en": "Built in",
+              "ar": "مدمجة"
+            },
+            "data": {
+              "en": "Feed hopper, scrubber, screen and pump in one unit for clayey alluvial gold and river-sand deposits",
+              "ar": "قادوس وغسالة وغربال ومضخة في وحدة واحدة لرواسب الذهب الغريني الطينية ورمال الأنهار"
+            }
+          }
+        }
+      ],
+      "key": {
+        "en": "5–100 t/h",
+        "ar": "⁦5⁠–⁠100⁩ طن/ساعة"
+      },
+      "countUnit": {
+        "ar": [
+          "محطة واحدة",
+          "محطتان",
+          "محطات"
+        ],
+        "en": [
+          "plant type",
+          "plant types"
+        ]
+      },
+      "keyRows": [
+        "capacity",
+        "screen",
+        "recovery"
+      ]
+    }
+  ]
+}

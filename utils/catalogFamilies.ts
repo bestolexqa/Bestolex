@@ -61,5 +61,21 @@ export const FAMILY_IDS = new Set([
   'firebricks-electrodes-induction-units',
   'fused-quartz-silicon-carbide-crucibles',
   'refractories-quartz-glass-ceramics',
-  'ceramic-fibre-furnace-insulation'
+  'ceramic-fibre-furnace-insulation',
+  'trommel-scrubbers-log-washers',
+  'spiral-washers-attrition-scrubbers',
+  'trommels-scrubbers-additional-models',
+  'alluvial-gold-jigs',
+  'heavy-duty-laboratory-jigs',
+  'centrifugal-concentrators',
+  'spiral-concentrators',
+  'shaking-tables',
+  'gravity-concentrators-additional-models',
+  'drum-magnetic-separators',
+  'high-intensity-magnetic-separators',
+  'magnetic-reclaimers-pulleys',
+  'mobile-gold-washing-plants',
+  'sluice-boxes-gold-carpets-pans',
+  'dredgers',
+  'amphibious-dredgers-excavators'
 ])

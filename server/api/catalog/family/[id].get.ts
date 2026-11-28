@@ -63,7 +63,23 @@ const FAMILY_FILES: Record<string, string> = {
   'firebricks-electrodes-induction-units': 'catalog/mining/firebricks-electrodes-induction-units.json',
   'fused-quartz-silicon-carbide-crucibles': 'catalog/mining/fused-quartz-silicon-carbide-crucibles.json',
   'refractories-quartz-glass-ceramics': 'catalog/mining/refractories-quartz-glass-ceramics.json',
-  'ceramic-fibre-furnace-insulation': 'catalog/mining/ceramic-fibre-furnace-insulation.json'
+  'ceramic-fibre-furnace-insulation': 'catalog/mining/ceramic-fibre-furnace-insulation.json',
+  'trommel-scrubbers-log-washers': 'catalog/mining/trommel-scrubbers-log-washers.json',
+  'spiral-washers-attrition-scrubbers': 'catalog/mining/spiral-washers-attrition-scrubbers.json',
+  'trommels-scrubbers-additional-models': 'catalog/mining/trommels-scrubbers-additional-models.json',
+  'alluvial-gold-jigs': 'catalog/mining/alluvial-gold-jigs.json',
+  'heavy-duty-laboratory-jigs': 'catalog/mining/heavy-duty-laboratory-jigs.json',
+  'centrifugal-concentrators': 'catalog/mining/centrifugal-concentrators.json',
+  'spiral-concentrators': 'catalog/mining/spiral-concentrators.json',
+  'shaking-tables': 'catalog/mining/shaking-tables.json',
+  'gravity-concentrators-additional-models': 'catalog/mining/gravity-concentrators-additional-models.json',
+  'drum-magnetic-separators': 'catalog/mining/drum-magnetic-separators.json',
+  'high-intensity-magnetic-separators': 'catalog/mining/high-intensity-magnetic-separators.json',
+  'magnetic-reclaimers-pulleys': 'catalog/mining/magnetic-reclaimers-pulleys.json',
+  'mobile-gold-washing-plants': 'catalog/mining/mobile-gold-washing-plants.json',
+  'sluice-boxes-gold-carpets-pans': 'catalog/mining/sluice-boxes-gold-carpets-pans.json',
+  'dredgers': 'catalog/mining/dredgers.json',
+  'amphibious-dredgers-excavators': 'catalog/mining/amphibious-dredgers-excavators.json'
 }
 
 const cache = new Map<string, any>()
