@@ -250,8 +250,8 @@ const runSearch = async () => {
 const SITE = 'https://www.bestolex.com'
 const title = computed(() => isAr.value ? 'معدات تعدين الذهب من التنقيب حتى السبيكة | بيستوليكس' : 'Gold Mining Equipment from Exploration to Bullion | Bestolex')
 const desc = computed(() => isAr.value
-  ? 'معدات تعدين الذهب لكل مرحلة في خط الإنتاج: التنقيب والحفر، ومستهلكات الحفر، والتكسير والطحن، والغسيل والتركيز، والمعالجة والصهر، مع المختبر والمضخات والسلامة. التوريد للشرق الأوسط وأفريقيا.'
-  : 'Gold mining equipment for every stage of the production line: exploration and drilling, drilling consumables, crushing and grinding, washing and concentration, processing and smelting, plus laboratory, pumps and safety. Supply to the Middle East and Africa.')
+  ? 'معدات تعدين الذهب لكل مرحلة: التنقيب والحفر، والتكسير والطحن، والغسيل والتركيز، والمعالجة والصهر، مع المختبر والمضخات والسلامة. التوريد للشرق الأوسط وأفريقيا.'
+  : 'Gold mining equipment for every stage, from exploration and drilling to crushing, gold concentration, processing and smelting. Supply to the Middle East and Africa.')
 useSeoMeta({ title, description: desc, ogTitle: title, ogDescription: desc, ogImage: `${SITE}/gold-mining/hero.webp`, ogType: 'website', twitterCard: 'summary_large_image' })
 useHead(() => ({
   script: [{

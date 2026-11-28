@@ -186,8 +186,17 @@ const trackDownload = (code) => {
 }
 
 const SITE = 'https://www.bestolex.com'
-const title = computed(() => isAr.value ? `${stage.value.title.ar}: معدات تعدين الذهب | بيستوليكس` : `${stage.value.title.en}: Gold Mining Equipment | Bestolex`)
-const desc = computed(() => `${t(stage.value.lead)} ${isAr.value ? 'التوريد للشرق الأوسط وأفريقيا.' : 'Supply to the Middle East and Africa.'}`)
+// Titles drop the brand when they would pass 70 characters; descriptions keep the supply line and
+// end the lead on its last whole list item so the meta description stays within 170 characters.
+const title = computed(() => {
+  const name = isAr.value ? `${stage.value.title.ar}: معدات تعدين الذهب` : `${stage.value.title.en}: Gold Mining Equipment`
+  const full = `${name} | ${isAr.value ? 'بيستوليكس' : 'Bestolex'}`
+  return full.length <= 70 ? full : name
+})
+const desc = computed(() => {
+  const supply = isAr.value ? 'التوريد للشرق الأوسط وأفريقيا.' : 'Supply to the Middle East and Africa.'
+  return `${clampDescription(t(stage.value.lead), 169 - supply.length)} ${supply}`
+})
 useSeoMeta({
   title, description: desc, ogTitle: title, ogDescription: desc, ogType: 'website', twitterCard: 'summary_large_image',
   ogImage: () => (stage.value.cover ? `${SITE}${stage.value.cover}` : `${SITE}/gold-mining/hero.webp`),

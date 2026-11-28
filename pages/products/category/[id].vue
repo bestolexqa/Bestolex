@@ -188,7 +188,8 @@ const catPageTitle = computed(() => {
 })
 const catPageDesc = computed(() => {
   if (!category.value) return ''
-  return category.value.seo?.description?.[locale.value] || seoDescription(category.value.description?.[locale.value] || '')
+  const custom = category.value.seo?.description?.[locale.value]
+  return custom ? clampDescription(custom) : seoDescription(category.value.description?.[locale.value] || '')
 })
 
 useSeoMeta({
