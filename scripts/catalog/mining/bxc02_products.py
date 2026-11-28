@@ -60,7 +60,7 @@ prod('metal-detectors-water-well-drill-rigs', 'أجهزة كشف المعادن 
       'أجهزة كشف معادن VLF ومؤشرات ومغارف للتنقيب عن الذهب، وحفارات آبار مياه واستكشاف بعمق 50–1500 م. التوريد للشرق الأوسط وأفريقيا.',
       'VLF metal detectors, pinpointers and scoops for gold prospecting, and water-well and exploration rigs from 50 to 1500 m. Supply to the Middle East and Africa.'))
 
-prod('core-rc-exploration-drill-rigs', 'حفارات الاستكشاف اللبّية والدوران العكسي (RC)', 'Core & RC Exploration Drill Rigs', 'i-008-013',
+prod('core-rc-exploration-drill-rigs', 'حفارات الاستكشاف اللبّية والدوران العكسي (RC)', 'Core & RC Exploration Drill Rigs', 'hw-xy1a',
      ('حفارات لبّية ماسية من حفارة ظهرية بعمق 30 م لأخذ العينات الضحلة إلى حفارات جنزيرية تصل إلى 1,500 م للاستكشاف العميق، وحفارات الدوران العكسي (RC) لأخذ العينات السريع والحفر لضبط الرتبة.',
       'Diamond-core drill rigs from a 30 m backpack drill for shallow sampling to crawler-mounted rigs reaching 1,500 m for deep exploration, plus reverse-circulation (RC) rigs for fast sampling and grade-control drilling.'),
      [('حفارة HW-B30 تُحمل على الظهر إلى المواقع التي لا تصلها المركبات', 'HW-B30 backpack drill carried to sites vehicles cannot reach'),

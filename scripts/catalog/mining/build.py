@@ -42,8 +42,11 @@ def faq(rows):
     return {'ar': [{'q': q, 'a': iso(a)} for q, _, a, _ in rows], 'en': [{'q': q, 'a': a} for _, q, _, a in rows]}
 
 
-EXTRA = {'metal-detectors-water-well-drill-rigs': ['i-004-010']}
-PLACEHOLDER = {'core-rc-exploration-drill-rigs'}   # no product photo in BXC-02 Ed4 yet: branded card
+EXTRA = {'metal-detectors-water-well-drill-rigs': ['i-004-010'],
+         # BXC-02 Ed4 has no photo of these rigs: photos from the supplier's own product pages (CAT-0098-01),
+         # cut out of the factory background; Chinese stickers and the maker's name removed (sup/hw in the work dir)
+         'core-rc-exploration-drill-rigs': ['hw-gl', 'hw-b30', 'hw-rc']}
+PLACEHOLDER = set()
 PHOTO = {'dth-hammers-bits'}                         # scene photo: centre-cropped to a square, not letterboxed
 
 
