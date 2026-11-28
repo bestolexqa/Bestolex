@@ -55,6 +55,13 @@ export default defineNuxtConfig({
     '/blog/**': { isr: 600 },
     '/en/blog': { isr: 600 },
     '/en/blog/**': { isr: 600 },
+    // Gold mining has its own section page (approved design, 28 Nov 2026); the old category URL moves there.
+    '/products/category/gold-mining': { redirect: { to: '/gold-mining', statusCode: 301 } },
+    '/en/products/category/gold-mining': { redirect: { to: '/en/gold-mining', statusCode: 301 } },
+    '/gold-mining': { isr: 3600 },
+    '/gold-mining/**': { isr: 3600 },
+    '/en/gold-mining': { isr: 3600 },
+    '/en/gold-mining/**': { isr: 3600 },
     // Old product slugs that carried an uncertified "PAS68" claim → permanent redirects.
     '/products/high-security-road-blocker-pas68': { redirect: { to: '/products/high-security-road-blocker', statusCode: 301 } },
     '/en/products/high-security-road-blocker-pas68': { redirect: { to: '/en/products/high-security-road-blocker', statusCode: 301 } },

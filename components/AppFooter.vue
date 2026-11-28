@@ -99,7 +99,7 @@
         <h3 class="text-xl font-bold text-white mb-4">{{ locale === 'ar' ? 'المنتجات' : 'Products' }}</h3>
         <ul class="space-y-2">
           <li v-for="category in categories" :key="category.id">
-            <NuxtLink :to="localePath(`/products/category/${category.id}`)" class="hover:text-primary transition">{{ category.title[locale] }}</NuxtLink>
+            <NuxtLink :to="localePath(categoryPath(category.id))" class="hover:text-primary transition">{{ category.title[locale] }}</NuxtLink>
           </li>
         </ul>
       </div>
@@ -185,6 +185,7 @@
 </template>
 
 <script setup>
+import { categoryPath } from '~/utils/miningUi'
 
 const { locale } = useI18n()
 const localePath = useLocalePath()

@@ -78,7 +78,7 @@
           </div>
           <ul class="flex flex-wrap gap-2">
             <li v-for="c in ownSections" :key="c.id">
-              <NuxtLink :to="localePath(`/products/category/${c.id}`)" class="inline-block bg-white dark:bg-gray-900 border border-line dark:border-gray-600 rounded-full px-4 py-2 text-sm font-bold hover:border-primary hover:text-primary transition">{{ t(c.ar, c.en) }}</NuxtLink>
+              <NuxtLink :to="localePath(c.id === 'gold-mining' ? '/gold-mining' : `/products/category/${c.id}`)" class="inline-block bg-white dark:bg-gray-900 border border-line dark:border-gray-600 rounded-full px-4 py-2 text-sm font-bold hover:border-primary hover:text-primary transition">{{ t(c.ar, c.en) }}</NuxtLink>
             </li>
           </ul>
         </div>

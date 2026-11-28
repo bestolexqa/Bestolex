@@ -9,6 +9,9 @@
       </div>
     </div>
 
+    <!-- Gold-mining families: the approved family layout (design board "3 · صفحة عائلة") -->
+    <MiningFamilyPage v-else-if="miningCtx && family" :product="product" :family="family" :ctx="miningCtx" :locale="locale" />
+
     <div v-else>
 
       <!-- مسار الصفحة -->
@@ -523,6 +526,11 @@ const { data: family } = FAMILY_IDS.has(familyId)
   ? await useFetch(`/api/catalog/family/${familyId}`, { key: `family-${familyId}`, default: () => null })
   : { data: ref(null) }
 
+// Gold-mining families carry their stage, chip, "how to choose" and related families.
+const { data: miningCtx } = view.value?.category?.id === 'gold-mining'
+  ? await useFetch(`/api/gold-mining/family/${productId}`, { key: `gold-mining-family-${productId}`, default: () => null })
+  : { data: ref(null) }
+
 // Images kept in /public (e.g. /products/industrial-shutters/1.webp) need the site origin in structured data.
 const absoluteUrl = (u) => (/^https?:\/\//.test(u) ? u : `https://www.bestolex.com${u.startsWith('/') ? '' : '/'}${u}`)
 
@@ -881,7 +889,12 @@ useHead(() => ({
     {
       type: 'application/ld+json',
       key: 'ld-breadcrumb',
-      innerHTML: JSON.stringify(breadcrumbLd([
+      innerHTML: JSON.stringify(breadcrumbLd(miningCtx.value ? [
+        [locale.value === 'ar' ? 'الرئيسية' : 'Home', `${SITE_URL}${localePath('/')}`.replace(/\/$/, '') || SITE_URL],
+        [locale.value === 'ar' ? 'تعدين الذهب' : 'Gold Mining', `${SITE_URL}${localePath('/gold-mining')}`],
+        [miningCtx.value.stage.title[locale.value] || miningCtx.value.stage.title.ar, `${SITE_URL}${localePath(`/gold-mining/${miningCtx.value.stage.id}`)}`],
+        [productName.value, pageUrl.value]
+      ] : [
         [locale.value === 'ar' ? 'الرئيسية' : 'Home', `${SITE_URL}${localePath('/')}`.replace(/\/$/, '') || SITE_URL],
         [locale.value === 'ar' ? 'المنتجات' : 'Products', `${SITE_URL}${localePath('/products')}`],
         ...(categoryInfo.value ? [[categoryInfo.value.title, `${SITE_URL}${localePath(`/products/category/${categoryInfo.value.id}`)}`]] : []),
