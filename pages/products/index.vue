@@ -30,11 +30,10 @@
 
 <script setup>
 import { computed } from 'vue'
-import mockProducts from '@/data/products.json'
 
 const { locale } = useI18n()
 const localePath = useLocalePath()
-const products = ref(mockProducts)
+const { data: products } = await useCatalogNav()
 
 const isAr = computed(() => locale.value === 'ar')
 

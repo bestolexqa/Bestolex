@@ -254,12 +254,11 @@
 import { ref, computed } from 'vue'
 import { whatsappLink } from '~/utils/leads'
 import { SOURCING_SECTORS } from '~/utils/sourcing'
-import mockProducts from '@/data/products.json'
 import mockArticles from '@/data/articles.json'
 
 const { locale } = useI18n()
 const localePath = useLocalePath()
-const products = ref(mockProducts)
+const { data: products } = await useCatalogNav()
 
 const isAr = computed(() => locale.value === 'ar')
 

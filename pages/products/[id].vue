@@ -498,7 +498,6 @@
 import { ref, computed, watch, onMounted, onUnmounted } from 'vue'
 import { useRoute } from 'vue-router'
 import { useI18n } from 'vue-i18n'
-import mockProducts from '@/data/products.json'
 import comparisons from '@/data/comparisons.json'
 import { REQUEST_TYPES, whatsappLink } from '~/utils/leads'
 import { trackLead } from '~/utils/track'
@@ -507,35 +506,11 @@ import { FAMILY_IDS } from '~/utils/catalogFamilies'
 const { locale } = useI18n()
 const localePath = useLocalePath()
 const route = useRoute()
-const product = ref(null)
-
-const initProduct = () => {
-  const idStr = route.params.id
-  let foundProduct = null
-  let foundCatTitle = null
-
-  for (const category of mockProducts) {
-    if (category.products && Array.isArray(category.products)) {
-      const prod = category.products.find(p => p.id === idStr)
-      if (prod) { foundProduct = prod; foundCatTitle = category.title; break }
-    }
-    if (category.subcategories && Array.isArray(category.subcategories)) {
-      for (const sub of category.subcategories) {
-        if (sub.products && Array.isArray(sub.products)) {
-          const prod = sub.products.find(p => p.id === idStr)
-          if (prod) { foundProduct = prod; foundCatTitle = category.title; break }
-        }
-      }
-      if (foundProduct) break
-    }
-  }
-
-  if (foundProduct) {
-    product.value = { ...foundProduct, categoryTitle: foundCatTitle }
-  }
-}
-
-initProduct()
+// The product, its category and related products come from the server (/api/catalog/product/:id),
+// so the browser never downloads the whole catalogue.
+const productId = String(route.params.id || '')
+const { data: view } = await useFetch(`/api/catalog/product/${productId}`, { key: `catalog-product-${productId}`, default: () => null })
+const product = computed(() => (view.value?.product ? { ...view.value.product, categoryTitle: view.value.category?.title } : null))
 
 // Unknown product ids must return a real 404 (not a soft 200 page).
 if (!product.value) {
@@ -714,7 +689,6 @@ const submitQuote = async () => {
 }
 
 onMounted(() => {
-  if (!product.value) initProduct()
   if (product.value) {
     startCarousel()
   }
@@ -742,14 +716,9 @@ const pageUrl = computed(() => {
 
 const faqItems = computed(() => product.value?.faq?.[locale.value] || [])
 
-// منتجات القسم كلها، ومنها منتجات أقسامه الفرعية (حلول الطاقة ← الطاقة الشمسية)
-const catProducts = (c) => [...(c.products || []), ...((c.subcategories || []).flatMap(sub => sub.products || []))]
 
 // اسم القسم الذي ينتمي إليه المنتج، من بيانات المنتجات لا من نص ثابت
-const categoryName = computed(() => {
-  const cat = mockProducts.find(c => catProducts(c).some(pr => pr.id === product.value?.id))
-  return cat?.title?.[locale.value] || ''
-})
+const categoryName = computed(() => view.value?.category?.title?.[locale.value] || '')
 
 // أول مواصفة تحمل مقاس الآلة. خط الأبعاد على الصورة يظهر فقط حين توجد،
 // فلا يُرسم خط بلا رقم من الكتالوج.
@@ -783,14 +752,7 @@ const relatedArticles = computed(() => {
 
 // منتجات أخرى من القسم نفسه، وأولها منتجات القسم الفرعي نفسه
 // (صفحة مولد تعرض المولدات قبل الطاقة الشمسية)
-const relatedProducts = computed(() => {
-  const cat = mockProducts.find(c => catProducts(c).some(pr => pr.id === route.params.id))
-  if (!cat) return []
-  const sub = (cat.subcategories || []).find(s => (s.products || []).some(pr => pr.id === route.params.id))
-  const own = (sub?.products || []).filter(pr => pr.id !== route.params.id)
-  const rest = catProducts(cat).filter(pr => pr.id !== route.params.id && !own.includes(pr))
-  return [...own, ...rest].slice(0, 4)
-})
+const relatedProducts = computed(() => view.value?.related || [])
 
 // فهرس القطع: القطعة المعروضة على المنصة
 const partsList = computed(() => product.value?.featureImages || [])
@@ -837,7 +799,7 @@ const trackWhatsapp = () => {
 }
 
 const categoryInfo = computed(() => {
-  const cat = mockProducts.find(c => catProducts(c).some(p => p.id === route.params.id))
+  const cat = view.value?.category
   return cat ? { id: cat.id, title: cat.title?.[locale.value] || cat.title?.ar } : null
 })
 

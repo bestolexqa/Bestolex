@@ -428,7 +428,6 @@ import { ref, computed, watch, onMounted } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRouter } from 'vue-router'
 import { useDark, useToggle } from '@vueuse/core'
-import mockProducts from '@/data/products.json'
 import mockArticles from '@/data/articles.json'
 import mockCategories from '@/data/categories.json'
 import { BLOG_CATEGORIES } from '~~/server/utils/blogCategories'
@@ -441,8 +440,13 @@ const isDark = useDark()
 const toggleTheme = useToggle(isDark)
 
 // Products Data
-const productsData = ref(mockProducts)
-const activeProductCategory = ref(mockProducts[0] || null)
+const { data: productsData } = useCatalogNav()
+// The first category is open until the visitor hovers another; a computed keeps server and client in step.
+const hoveredCategory = ref(null)
+const activeProductCategory = computed({
+  get: () => hoveredCategory.value || productsData.value?.[0] || null,
+  set: (v) => { hoveredCategory.value = v }
+})
 
 // Blog Data & Multi-Level Dropdown
 const blogArticles = ref(mockArticles)
